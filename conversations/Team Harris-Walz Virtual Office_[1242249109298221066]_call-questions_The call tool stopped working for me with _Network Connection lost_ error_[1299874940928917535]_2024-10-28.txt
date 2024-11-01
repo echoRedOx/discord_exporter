@@ -1,0 +1,297 @@
+Guild: Team Harris-Walz Virtual Office (ID: 1242249109298221066)
+Channel: The call tool stopped working for me with "Network Connection lost" error (ID: 1299874940928917535)
+Channel Topic: None
+Exported At: 2024-10-28T20:41:56.6276547+00:00
+
+
+--- Message ---
+Message ID: 1299874940928917535
+Message Type: Default
+Reply to: None
+Timestamp: 2024-10-26T23:18:56.426+00:00
+Author: Camilo A [CA] (camiloa_05414)
+Author Id: 1299872616106037348
+Avatar URL: assets\1-B2132.png
+Content: Hi,
+
+I was doing calls to NV, for spanish voters, and the callbank tool stopped working all of the sudden with "network connection lost" error. I have tried hitting retry with no luck. My internet connection is working find otherwise.
+
+Has anybody else experienced this?
+
+Thanks!
+--------------------
+
+--- Message ---
+Message ID: 1299876085483180054
+Message Type: Default
+Reply to: None
+Timestamp: 2024-10-26T23:23:29.309+00:00
+Author: Denise Ward [CO] [Call MOD] (denise.ward)
+Author Id: 1277408157664284795
+Avatar URL: assets\43ec2b9e8ddf26e3072b9feb4516a5fd-3D55A.png
+Content: We have a brief tech issue.  Refresh and it should be working!
+--------------------
+
+--- Message ---
+Message ID: 1299876145097080853
+Message Type: Default
+Reply to: None
+Timestamp: 2024-10-26T23:23:43.522+00:00
+Author: Camilo A [CA] (camiloa_05414)
+Author Id: 1299872616106037348
+Avatar URL: assets\1-B2132.png
+Content: It looks like it is back! Thanks a lot, Denise!
+--------------------
+
+--- Message ---
+Message ID: 1299876597813350412
+Message Type: Default
+Reply to: None
+Timestamp: 2024-10-26T23:25:31.458+00:00
+Author: Denise Ward [CO] [Call MOD] (denise.ward)
+Author Id: 1277408157664284795
+Avatar URL: assets\43ec2b9e8ddf26e3072b9feb4516a5fd-3D55A.png
+Content: yay! Glad to have you here.
+--------------------
+
+--- Message ---
+Message ID: 1299879831382790184
+Message Type: Default
+Reply to: None
+Timestamp: 2024-10-26T23:38:22.401+00:00
+Author: Camilo A [CA] (camiloa_05414)
+Author Id: 1299872616106037348
+Avatar URL: assets\1-B2132.png
+Content: Unfortunately, it looks like the technical issues are happening again...
+--------------------
+
+--- Message ---
+Message ID: 1299880009841774622
+Message Type: Default
+Reply to: None
+Timestamp: 2024-10-26T23:39:04.949+00:00
+Author: Denise Ward [CO] [Call MOD] (denise.ward)
+Author Id: 1277408157664284795
+Avatar URL: assets\43ec2b9e8ddf26e3072b9feb4516a5fd-3D55A.png
+Content: hang in there, we just had another glitch.  I will be resolved quick.  hang out in <#1242256751445934262>  and we'll keep you updated!
+--------------------
+
+--- Message ---
+Message ID: 1299880028976189551
+Message Type: Default
+Reply to: None
+Timestamp: 2024-10-26T23:39:09.511+00:00
+Author: Joe M. (joem._82347)
+Author Id: 1294535611818053632
+Avatar URL: assets\4-4551A.png
+Content: yup, I just got kicked off, was in the middle of a call with a voter!
+--------------------
+
+--- Message ---
+Message ID: 1299881125610651658
+Message Type: Default
+Reply to: None
+Timestamp: 2024-10-26T23:43:30.969+00:00
+Author: Camilo A [CA] (camiloa_05414)
+Author Id: 1299872616106037348
+Avatar URL: assets\1-B2132.png
+Content: Will do. I will hang out in # calls-team!
+--------------------
+
+--- Message ---
+Message ID: 1299881150998646846
+Message Type: Default
+Reply to: None
+Timestamp: 2024-10-26T23:43:37.022+00:00
+Author: Camilo A [CA] (camiloa_05414)
+Author Id: 1299872616106037348
+Avatar URL: assets\1-B2132.png
+Content: And we are back... 🙂
+--------------------
+
+--- Message ---
+Message ID: 1299881223170035723
+Message Type: Reply
+Reply to: 1299881125610651658
+Timestamp: 2024-10-26T23:43:54.229+00:00
+Author: Denise Ward [CO] [Call MOD] (denise.ward)
+Author Id: 1277408157664284795
+Avatar URL: assets\43ec2b9e8ddf26e3072b9feb4516a5fd-3D55A.png
+Content: woo hoo!
+--------------------
+
+--- Message ---
+Message ID: 1299881995614031962
+Message Type: Default
+Reply to: None
+Timestamp: 2024-10-26T23:46:58.394+00:00
+Author: Joe M. (joem._82347)
+Author Id: 1294535611818053632
+Avatar URL: assets\4-4551A.png
+Content: connection just dropped again, I don't think it's a good experience for these people to be talking with us and the call to drop!
+--------------------
+
+--- Message ---
+Message ID: 1299882230210105394
+Message Type: Default
+Reply to: None
+Timestamp: 2024-10-26T23:47:54.326+00:00
+Author: Joe M. (joem._82347)
+Author Id: 1294535611818053632
+Avatar URL: assets\4-4551A.png
+Content: voter wanted to received the iwillvote text message link and I am not able to send
+--------------------
+
+--- Message ---
+Message ID: 1299882231107555331
+Message Type: Reply
+Reply to: 1299881995614031962
+Timestamp: 2024-10-26T23:47:54.54+00:00
+Author: Denise Ward [CO] [Call MOD] (denise.ward)
+Author Id: 1277408157664284795
+Avatar URL: assets\43ec2b9e8ddf26e3072b9feb4516a5fd-3D55A.png
+Content: not ideal.  Hang in with us. We'll get it fixed!
+--------------------
+
+--- Message ---
+Message ID: 1299882272702464091
+Message Type: Default
+Reply to: None
+Timestamp: 2024-10-26T23:48:04.457+00:00
+Author: Joe M. (joem._82347)
+Author Id: 1294535611818053632
+Avatar URL: assets\4-4551A.png
+Content: could you help me to make sure this voter gets the link?
+--------------------
+
+--- Message ---
+Message ID: 1299882592228868106
+Message Type: Reply
+Reply to: 1299882272702464091
+Timestamp: 2024-10-26T23:49:20.638+00:00
+Author: Denise Ward [CO] [Call MOD] (denise.ward)
+Author Id: 1277408157664284795
+Avatar URL: assets\43ec2b9e8ddf26e3072b9feb4516a5fd-3D55A.png
+Content: do you have their info?  You can put it in the debrief form.
+--------------------
+
+--- Message ---
+Message ID: 1299882681361764444
+Message Type: Default
+Reply to: None
+Timestamp: 2024-10-26T23:49:41.889+00:00
+Author: Joe M. (joem._82347)
+Author Id: 1294535611818053632
+Avatar URL: assets\4-4551A.png
+Content: I remember here full name, but didn't get the phone number
+--------------------
+
+--- Message ---
+Message ID: 1299882739834687618
+Message Type: Default
+Reply to: None
+Timestamp: 2024-10-26T23:49:55.83+00:00
+Author: Joe M. (joem._82347)
+Author Id: 1294535611818053632
+Avatar URL: assets\4-4551A.png
+Content: I navigated away from the screen trying to refresh
+--------------------
+
+--- Message ---
+Message ID: 1299882757354291223
+Message Type: Default
+Reply to: None
+Timestamp: 2024-10-26T23:50:00.007+00:00
+Author: Joe M. (joem._82347)
+Author Id: 1294535611818053632
+Avatar URL: assets\4-4551A.png
+Content: her*
+--------------------
+
+--- Message ---
+Message ID: 1299882848282742846
+Message Type: Reply
+Reply to: 1299882592228868106
+Timestamp: 2024-10-26T23:50:21.686+00:00
+Author: Joe M. (joem._82347)
+Author Id: 1294535611818053632
+Avatar URL: assets\4-4551A.png
+Content: where/what is the debrief form?
+--------------------
+
+--- Message ---
+Message ID: 1299882978809483354
+Message Type: Default
+Reply to: None
+Timestamp: 2024-10-26T23:50:52.806+00:00
+Author: Denise Ward [CO] [Call MOD] (denise.ward)
+Author Id: 1277408157664284795
+Avatar URL: assets\43ec2b9e8ddf26e3072b9feb4516a5fd-3D55A.png
+Content: Ok, whatever you remember record here  [debrief form](https://forms.gle/JxfH2cGRx1Zrxty66)
+--------------------
+
+--- Message ---
+Message ID: 1299883592662384772
+Message Type: Default
+Reply to: None
+Timestamp: 2024-10-26T23:53:19.16+00:00
+Author: Joe M. (joem._82347)
+Author Id: 1294535611818053632
+Avatar URL: assets\4-4551A.png
+Content: ty
+--------------------
+
+--- Message ---
+Message ID: 1299883696127479909
+Message Type: Default
+Reply to: None
+Timestamp: 2024-10-26T23:53:43.828+00:00
+Author: Joe M. (joem._82347)
+Author Id: 1294535611818053632
+Avatar URL: assets\4-4551A.png
+Content: the dialer still doesn't seem to be working, I'm going to switch over to VoteForward letters
+--------------------
+
+--- Message ---
+Message ID: 1299883824003682349
+Message Type: Default
+Reply to: None
+Timestamp: 2024-10-26T23:54:14.316+00:00
+Author: Denise Ward [CO] [Call MOD] (denise.ward)
+Author Id: 1277408157664284795
+Avatar URL: assets\43ec2b9e8ddf26e3072b9feb4516a5fd-3D55A.png
+Content: Stay on here, I'll let you know when we are back up. I just got in but not sure if its live.
+--------------------
+
+--- Message ---
+Message ID: 1299883895885529119
+Message Type: Default
+Reply to: None
+Timestamp: 2024-10-26T23:54:31.454+00:00
+Author: Joe M. (joem._82347)
+Author Id: 1294535611818053632
+Avatar URL: assets\4-4551A.png
+Content: 👍
+--------------------
+
+--- Message ---
+Message ID: 1299888028642312332
+Message Type: Default
+Reply to: None
+Timestamp: 2024-10-27T00:10:56.78+00:00
+Author: Maria (maria_63388)
+Author Id: 1299885992919961660
+Avatar URL: assets\0-EB806.png
+Content: I'm getting this message too trying to call NC
+--------------------
+
+--- Message ---
+Message ID: 1299889973780152380
+Message Type: Reply
+Reply to: 1299888028642312332
+Timestamp: 2024-10-27T00:18:40.537+00:00
+Author: Laura M (CO) • Call Mod (hungry.hiker)
+Author Id: 756314488113987654
+Avatar URL: assets\4aa5ed3c3ad66beef8f10bd0d3979dae-08843.png
+Content: Please hop on the 8pm ZPB and you can get started there: https://txt.democrats.org/HPB/
+--------------------

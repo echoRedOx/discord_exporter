@@ -1,0 +1,20 @@
+- author_avatar_url: assets\527580893712cfca31c162a47c68410f-69A9D.png
+  author_id: '807461573890277416'
+  author_name: .upsidown
+  author_nickname: Sarah Winawer-Wetzel [PA]
+  content: I'm getting a LOT of automated answering machines that say "Again, press
+    any key to continue." If I press a key, I hear an ad for Direct TV. Is there anyway
+    through these or do I just mark as answering machine?
+  id: '1299171311662399589'
+  ref_to: null
+  timestamp: '2024-10-25T00:42:58.136+00:00'
+  type: Default
+- author_avatar_url: assets\64dfeeae868ec82cfd381c6628a88833-1F19D.png
+  author_id: '1283417540244275311'
+  author_name: colettec13
+  author_nickname: Colette Crandall [CA] [Call Mod}
+  content: please mark as answering machine
+  id: '1299171940707209276'
+  ref_to: '1299171311662399589'
+  timestamp: '2024-10-25T00:45:28.112+00:00'
+  type: Reply

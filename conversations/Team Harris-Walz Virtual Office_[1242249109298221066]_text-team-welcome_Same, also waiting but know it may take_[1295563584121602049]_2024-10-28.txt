@@ -1,0 +1,27 @@
+Guild: Team Harris-Walz Virtual Office (ID: 1242249109298221066)
+Channel: Same, also waiting but know it may take (ID: 1295563584121602049)
+Channel Topic: None
+Exported At: 2024-10-28T22:38:53.5729564+00:00
+
+
+--- Message ---
+Message ID: 1295568360892792842
+Message Type: 21
+Reply to: 1295563584121602049
+Timestamp: 2024-10-15T02:06:07.733+00:00
+Author: Roberta Bavin CA KC Greeter/Mod (roberta_24935)
+Author Id: 1269872908759597148
+Avatar URL: assets\df6d19d97b04a49ffcafbe7be14c7839-D9CE4.png
+Content: 
+--------------------
+
+--- Message ---
+Message ID: 1295568363841654974
+Message Type: Default
+Reply to: None
+Timestamp: 2024-10-15T02:06:08.436+00:00
+Author: Roberta Bavin CA KC Greeter/Mod (roberta_24935)
+Author Id: 1269872908759597148
+Avatar URL: assets\df6d19d97b04a49ffcafbe7be14c7839-D9CE4.png
+Content: Hi <@337690272651804674> It looks like you were in this afternoon's training. Please give us about 48 hours to review Agreement forms and quizzes. Please look for DM left upper corner of Discord at game controller icon. Thanks for being here!
+--------------------

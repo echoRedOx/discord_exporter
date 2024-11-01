@@ -1,0 +1,27 @@
+Guild: Team Harris-Walz Virtual Office (ID: 1242249109298221066)
+Channel: Hi, I still didn’t get a dm to set my (ID: 1288188089709367407)
+Channel Topic: None
+Exported At: 2024-10-28T23:04:29.3320646+00:00
+
+
+--- Message ---
+Message ID: 1288197455199862807
+Message Type: 21
+Reply to: 1288188089709367407
+Timestamp: 2024-09-24T17:56:46.871+00:00
+Author: Roberta Bavin CA KC Greeter/Mod (roberta_24935)
+Author Id: 1269872908759597148
+Avatar URL: assets\df6d19d97b04a49ffcafbe7be14c7839-D9CE4.png
+Content: 
+--------------------
+
+--- Message ---
+Message ID: 1288197456764342424
+Message Type: Default
+Reply to: None
+Timestamp: 2024-09-24T17:56:47.244+00:00
+Author: Roberta Bavin CA KC Greeter/Mod (roberta_24935)
+Author Id: 1269872908759597148
+Avatar URL: assets\df6d19d97b04a49ffcafbe7be14c7839-D9CE4.png
+Content: Hi Eileen-Please look for a DM from me in a couple of minutes. Thanks!
+--------------------

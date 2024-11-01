@@ -1,0 +1,95 @@
+Guild: Team Harris-Walz Virtual Office (ID: 1242249109298221066)
+Channel: accessibility issues in reach (ID: 1295788924857483334)
+Channel Topic: None
+Exported At: 2024-10-24T06:25:35.9946649+00:00
+
+
+--- Message ---
+Message ID: 1295788924857483334
+Message Type: Default
+Reply to: None
+Timestamp: 2024-10-15T16:42:34.28+00:00
+Author: Elizabeth M (NY) (elm_nyc)
+Author Id: 1247022086480728065
+Avatar URL: assets\6c5996770c985bcd6e5b68131ff2ba04-1853A.png
+Content: Hi I'm working with Disabled Voters for Harris, to make a video with them to promote voters in the disability community to vote for Harris, and the organizer mentioned to me that she's tried to contact someone about acessiblity issues in Reach and hasn't been able to reach anyone.  To whom could I direct her? Thanks!
+--------------------
+
+--- Message ---
+Message ID: 1295799305264955535
+Message Type: Default
+Reply to: None
+Timestamp: 2024-10-15T17:23:49.162+00:00
+Author: Carolyn B [CA] • Lead Mod (carb.on)
+Author Id: 568257600228032512
+Avatar URL: assets\28a90c77b5793d80eb62484a43c66748-D8837.png
+Content: Hi <@1247022086480728065> the organizer can share their accessiblity issues with Reach support here https://www.reach.vote/support/
+--------------------
+
+--- Message ---
+Message ID: 1295799551571005450
+Message Type: Default
+Reply to: None
+Timestamp: 2024-10-15T17:24:47.886+00:00
+Author: Elizabeth M (NY) (elm_nyc)
+Author Id: 1247022086480728065
+Avatar URL: assets\6c5996770c985bcd6e5b68131ff2ba04-1853A.png
+Content: Thanks!
+--------------------
+
+--- Message ---
+Message ID: 1295868833755828254
+Message Type: Reply
+Reply to: 1295799551571005450
+Timestamp: 2024-10-15T22:00:06.046+00:00
+Author: ekbraun (ekbraun_89321)
+Author Id: 1251730894046367785
+Avatar URL: assets\4-4551A.png
+Content: Hey! Thank you for posting this. The Kamala's Captains were talking about how to support visually impaired folks who want to phone bank. If you have any suggestions, can I put you in touch?
+--------------------
+
+--- Message ---
+Message ID: 1295871120578449438
+Message Type: Default
+Reply to: None
+Timestamp: 2024-10-15T22:09:11.267+00:00
+Author: Elizabeth M (NY) (elm_nyc)
+Author Id: 1247022086480728065
+Avatar URL: assets\6c5996770c985bcd6e5b68131ff2ba04-1853A.png
+Content: hi, I myself don't, I was trying to connect my contact at Disabled Voters for Harris to someone here so she could talk to them abotu her conerns - I actually don't know what they are.  We were in a hurry and when I mentinoed this resource she told me she'd been failing to reach anyone here.  Could you DM me contact info that I can email to her? or, I can ask her if I coul DM you her email.
+--------------------
+
+--- Message ---
+Message ID: 1295872474231078983
+Message Type: Reply
+Reply to: 1295868833755828254
+Timestamp: 2024-10-15T22:14:34.003+00:00
+Author: Carolyn B [CA] • Lead Mod (carb.on)
+Author Id: 568257600228032512
+Avatar URL: assets\28a90c77b5793d80eb62484a43c66748-D8837.png
+Content: hi. if this is for Discord accessibliity, you can use ctrl/cmd + to make the discord text much larger. I also see Calls team has a voice channel to do the support over audio instead of on screen. Maybe KC can use a voice channel
+--------------------
+
+--- Message ---
+Message ID: 1295873639857651766
+Message Type: Reply
+Reply to: 1295871120578449438
+Timestamp: 2024-10-15T22:19:11.91+00:00
+Author: ekbraun (ekbraun_89321)
+Author Id: 1251730894046367785
+Avatar URL: assets\4-4551A.png
+Content: Elizabeth - I did not even know that there was a Disabled Voters for Harris group. We are looking for ways to make Zoom Phone Banking more accessible, so if anyone has any ideas, let me know.
+
+<@568257600228032512> - Thank you for checking in. Unfortunately, Zoom Phone Banking happens over "Scale to Win", so we cannot make the text bigger. I do not think anyone in KC needs a voice channel -- it is volunteers who need a voice channel.
+--------------------
+
+--- Message ---
+Message ID: 1295877671980367965
+Message Type: Reply
+Reply to: 1295873639857651766
+Timestamp: 2024-10-15T22:35:13.243+00:00
+Author: Carolyn B [CA] • Lead Mod (carb.on)
+Author Id: 568257600228032512
+Avatar URL: assets\28a90c77b5793d80eb62484a43c66748-D8837.png
+Content: I think Calls team uses the voice channel to talk with volunteers who don't enjoy reading the screen. I don't know anything about Scale to Win, but the Ctrl/Cmd + works on all pages in Chrome/Firefox/Edge/Safari.
+--------------------

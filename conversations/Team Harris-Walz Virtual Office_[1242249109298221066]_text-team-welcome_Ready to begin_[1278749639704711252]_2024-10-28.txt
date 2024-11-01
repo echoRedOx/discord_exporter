@@ -1,0 +1,27 @@
+Guild: Team Harris-Walz Virtual Office (ID: 1242249109298221066)
+Channel: Ready to begin (ID: 1278749639704711252)
+Channel Topic: None
+Exported At: 2024-10-28T23:51:34.9698263+00:00
+
+
+--- Message ---
+Message ID: 1278751094440333342
+Message Type: 21
+Reply to: 1278749639704711252
+Timestamp: 2024-08-29T16:20:18.961+00:00
+Author: Jack Joannides KC text admin (jjoannid)
+Author Id: 477560366432256000
+Avatar URL: assets\791c521e62160be1f3df04992f6e5470-36A38.png
+Content: 
+--------------------
+
+--- Message ---
+Message ID: 1278751095891693713
+Message Type: Default
+Reply to: None
+Timestamp: 2024-08-29T16:20:19.307+00:00
+Author: Jack Joannides KC text admin (jjoannid)
+Author Id: 477560366432256000
+Avatar URL: assets\791c521e62160be1f3df04992f6e5470-36A38.png
+Content: Can you update your display name. Hard to tell who you are since your letter of your display name is only S.
+--------------------

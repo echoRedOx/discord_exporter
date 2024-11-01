@@ -1,0 +1,71 @@
+Guild: Team Harris-Walz Virtual Office (ID: 1242249109298221066)
+Channel: alreay voted how to code (ID: 1298737281674379374)
+Channel Topic: None
+Exported At: 2024-10-28T20:44:04.5417222+00:00
+
+
+--- Message ---
+Message ID: 1298737281674379374
+Message Type: Default
+Reply to: None
+Timestamp: 2024-10-23T19:58:17.323+00:00
+Author: Steven Weinberg (stevenweinberg_49898)
+Author Id: 1298083341798735874
+Avatar URL: assets\1-B2132.png
+Content: how do I code a person who has already voted
+--------------------
+
+--- Message ---
+Message ID: 1298737934450819145
+Message Type: Default
+Reply to: None
+Timestamp: 2024-10-23T20:00:52.957+00:00
+Author: Denise Ward [CO] [Call MOD] (denise.ward)
+Author Id: 1277408157664284795
+Avatar URL: assets\43ec2b9e8ddf26e3072b9feb4516a5fd-3D55A.png
+Content: Some scripts have an already voted option, if not select who they intend to vote for and how - if you are able to get that detail.  You can select end survey after entering the relevant info.  When they vote they'll be removed from our list.
+--------------------
+
+--- Message ---
+Message ID: 1299074176287768639
+Message Type: Default
+Reply to: None
+Timestamp: 2024-10-24T18:16:59.258+00:00
+Author: Liz V (CA) [Call MOD] (lizvca_30571_36657)
+Author Id: 1270202723467395109
+Avatar URL: assets\5b7fe2614eb6b20f1eade7131e324bf6-874D2.png
+Content: Most scripts don't have the already voted. In the zPBs, we ask who they support, thank them, and end call. As said above, if they actually did vote, they will be removed from the lists.
+--------------------
+
+--- Message ---
+Message ID: 1299149491554881650
+Message Type: Default
+Reply to: None
+Timestamp: 2024-10-24T23:16:15.817+00:00
+Author: Anna Hayman [NY] (annahay_80779)
+Author Id: 1269422773642465443
+Avatar URL: assets\cbcf2266aa1bf8bcb979d1c8b7ce0820-09C51.png
+Content: I've had multiple people in the past hour that have voted, but won't say for who - it would be nice to have an option for that!
+--------------------
+
+--- Message ---
+Message ID: 1299150552315461632
+Message Type: Reply
+Reply to: 1299149491554881650
+Timestamp: 2024-10-24T23:20:28.722+00:00
+Author: Denise Ward [CO] [Call MOD] (denise.ward)
+Author Id: 1277408157664284795
+Avatar URL: assets\43ec2b9e8ddf26e3072b9feb4516a5fd-3D55A.png
+Content: its a state by state decision which survey questions appear.  Refused is appropriate if they won't tell you who!
+--------------------
+
+--- Message ---
+Message ID: 1299150612373569566
+Message Type: Default
+Reply to: None
+Timestamp: 2024-10-24T23:20:43.041+00:00
+Author: Anna Hayman [NY] (annahay_80779)
+Author Id: 1269422773642465443
+Avatar URL: assets\cbcf2266aa1bf8bcb979d1c8b7ce0820-09C51.png
+Content: awesome, thanks!!!
+--------------------

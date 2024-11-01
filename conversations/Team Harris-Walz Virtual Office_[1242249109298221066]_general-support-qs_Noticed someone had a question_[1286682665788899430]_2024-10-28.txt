@@ -1,0 +1,71 @@
+Guild: Team Harris-Walz Virtual Office (ID: 1242249109298221066)
+Channel: Noticed someone had a question (ID: 1286682665788899430)
+Channel Topic: None
+Exported At: 2024-10-28T20:00:53.1214597+00:00
+
+
+--- Message ---
+Message ID: 1286682665788899430
+Message Type: Default
+Reply to: None
+Timestamp: 2024-09-20T13:37:32.932+00:00
+Author: Ann (OH) (ann0314)
+Author Id: 352957356042092546
+Avatar URL: assets\1ae0d8f99d33a3ca6e94411ac49b6e7f-B8A0A.png
+Content: I noticed someone had a question but it was in a spot I am not sure it would be easily seen so just wanted to be sure someone replied: https://discord.com/channels/1242249109298221066/1262190118077464619/1284167050637480049
+--------------------
+
+--- Message ---
+Message ID: 1286703187134255227
+Message Type: Default
+Reply to: None
+Timestamp: 2024-09-20T14:59:05.602+00:00
+Author: Carolyn B [CA] • Lead Mod (carb.on)
+Author Id: 568257600228032512
+Avatar URL: assets\28a90c77b5793d80eb62484a43c66748-D8837.png
+Content: Hello <@352957356042092546> the application for Content Creator is here https://txt.democrats.org/CreatorTeamApply I am also sharing this with the vol who wants it in https://discord.com/channels/1242249109298221066/1262190118077464619/1284167050637480049
+--------------------
+
+--- Message ---
+Message ID: 1286704944858267648
+Message Type: Reply
+Reply to: 1286703187134255227
+Timestamp: 2024-09-20T15:06:04.676+00:00
+Author: Ann (OH) (ann0314)
+Author Id: 352957356042092546
+Avatar URL: assets\1ae0d8f99d33a3ca6e94411ac49b6e7f-B8A0A.png
+Content: They'd said that they were told the Content Creation Team was only looking for Professional Artists and were inquiring whether that was the case and, if it is only for Professionals, then where they can share memes if they aren't on that team (I think) If I am understanding what they asked correctly. 🙂 (Which I assume they could do in <#1265762143559618624> ?)
+--------------------
+
+--- Message ---
+Message ID: 1286706121242841203
+Message Type: Reply
+Reply to: 1286704944858267648
+Timestamp: 2024-09-20T15:10:45.148+00:00
+Author: Carolyn B [CA] • Lead Mod (carb.on)
+Author Id: 568257600228032512
+Avatar URL: assets\28a90c77b5793d80eb62484a43c66748-D8837.png
+Content: Anyone can apply to Content Brigade. Professional status isn't required.
+--------------------
+
+--- Message ---
+Message ID: 1286706684127088813
+Message Type: Reply
+Reply to: 1286704944858267648
+Timestamp: 2024-09-20T15:12:59.35+00:00
+Author: Carolyn B [CA] • Lead Mod (carb.on)
+Author Id: 568257600228032512
+Avatar URL: assets\28a90c77b5793d80eb62484a43c66748-D8837.png
+Content: While folks are waiting for their application to Content Brigade to be approved, we support them to continue to share their content with their own socials as that that where it will be most impactful. Memes can also share memes in the https://discord.com/channels/1242249109298221066/1265762143559618624
+--------------------
+
+--- Message ---
+Message ID: 1286797423691431976
+Message Type: Default
+Reply to: None
+Timestamp: 2024-09-20T21:13:33.348+00:00
+Author: Carolyn B [CA] • Lead Mod (carb.on)
+Author Id: 568257600228032512
+Avatar URL: assets\28a90c77b5793d80eb62484a43c66748-D8837.png
+Content: Graphic design opportunity https://discord.com/channels/1242249109298221066/1266506864795844661/1286793852346306694
+--------------------

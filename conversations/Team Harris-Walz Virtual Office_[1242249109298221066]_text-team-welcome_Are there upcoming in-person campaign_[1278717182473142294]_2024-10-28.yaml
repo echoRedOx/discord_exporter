@@ -1,0 +1,32 @@
+- author_avatar_url: assets\27b1e286b65ae02b3378793b5f098411-A7B20.png
+  author_id: '935762347753103382'
+  author_name: nmorris237
+  author_nickname: Nicole Morris - Text Admin
+  content: ''
+  id: '1278905619407179863'
+  ref_to: '1278717182473142294'
+  timestamp: '2024-08-30T02:34:20.584+00:00'
+  type: '21'
+- author_avatar_url: assets\27b1e286b65ae02b3378793b5f098411-A7B20.png
+  author_id: '935762347753103382'
+  author_name: nmorris237
+  author_nickname: Nicole Morris - Text Admin
+  content: Hi <@1277025650686955693> I'm not sure! Please ask in <#1242264162948874360>
+    and maybe they can direct you to a local Discord channel or something here
+  id: '1278905621537886238'
+  ref_to: null
+  timestamp: '2024-08-30T02:34:21.092+00:00'
+  type: Default
+- author_avatar_url: assets\01284c82440e019269afee4c37b97db6-8C0E4.png
+  author_id: '1277025650686955693'
+  author_name: johnkam810
+  author_nickname: "John K.  \u271D\u271D\u271D\U0001F1FA\U0001F1F8\U0001F1FA\U0001F1F8\
+    \U0001F1FA\U0001F1F8"
+  content: 'Thanks, Nicole, I will do that!
+
+
+    Have a good week & weekend!'
+  id: '1278906112518656103'
+  ref_to: null
+  timestamp: '2024-08-30T02:36:18.151+00:00'
+  type: Default

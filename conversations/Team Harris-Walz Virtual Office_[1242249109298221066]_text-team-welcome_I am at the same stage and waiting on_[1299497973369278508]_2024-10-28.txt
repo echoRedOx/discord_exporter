@@ -1,0 +1,49 @@
+Guild: Team Harris-Walz Virtual Office (ID: 1242249109298221066)
+Channel: I am at the same stage and waiting on (ID: 1299497973369278508)
+Channel Topic: None
+Exported At: 2024-10-28T22:12:22.7763353+00:00
+
+
+--- Message ---
+Message ID: 1299512759255302204
+Message Type: 21
+Reply to: 1299497973369278508
+Timestamp: 2024-10-25T23:19:45.586+00:00
+Author: Roberta Bavin CA KC Greeter/Mod (roberta_24935)
+Author Id: 1269872908759597148
+Avatar URL: assets\df6d19d97b04a49ffcafbe7be14c7839-D9CE4.png
+Content: 
+--------------------
+
+--- Message ---
+Message ID: 1299512762438909952
+Message Type: Default
+Reply to: None
+Timestamp: 2024-10-25T23:19:46.345+00:00
+Author: Roberta Bavin CA KC Greeter/Mod (roberta_24935)
+Author Id: 1269872908759597148
+Avatar URL: assets\df6d19d97b04a49ffcafbe7be14c7839-D9CE4.png
+Content: Hi <@577911422038573087> Please follow instructions on the DM sent previously. Thanks for following up!
+--------------------
+
+--- Message ---
+Message ID: 1299515057989877831
+Message Type: Default
+Reply to: None
+Timestamp: 2024-10-25T23:28:53.647+00:00
+Author: Van Beckman [ME] (kroshnit)
+Author Id: 577911422038573087
+Avatar URL: assets\1e3ba3ac5f65fafc93d6b68dd885ac15-F8B45.png
+Content: Hi, I don't have access to the other texting channels yet
+--------------------
+
+--- Message ---
+Message ID: 1299516183359524916
+Message Type: Reply
+Reply to: 1299515057989877831
+Timestamp: 2024-10-25T23:33:21.956+00:00
+Author: Roberta Bavin CA KC Greeter/Mod (roberta_24935)
+Author Id: 1269872908759597148
+Avatar URL: assets\df6d19d97b04a49ffcafbe7be14c7839-D9CE4.png
+Content: Please try refreshing, logging out and then back in, or restarting your computer. Thanks so much!
+--------------------

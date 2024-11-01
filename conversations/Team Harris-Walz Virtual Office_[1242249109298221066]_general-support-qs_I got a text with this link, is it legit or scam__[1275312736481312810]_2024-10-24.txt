@@ -1,0 +1,49 @@
+Guild: Team Harris-Walz Virtual Office (ID: 1242249109298221066)
+Channel: I got a text with this link, is it legit or scam? (ID: 1275312736481312810)
+Channel Topic: None
+Exported At: 2024-10-24T07:00:28.6355904+00:00
+
+
+--- Message ---
+Message ID: 1275312736481312810
+Message Type: Default
+Reply to: None
+Timestamp: 2024-08-20T04:37:30.542+00:00
+Author: Laura M (CO) • Call Mod (hungry.hiker)
+Author Id: 756314488113987654
+Avatar URL: assets\4aa5ed3c3ad66beef8f10bd0d3979dae-08843.png
+Content: I'm skeptical because this isn't the official website link. I don't plan to click it, just wanted to flag for awareness.
+--------------------
+
+--- Message ---
+Message ID: 1275313263328100392
+Message Type: Default
+Reply to: None
+Timestamp: 2024-08-20T04:39:36.152+00:00
+Author: Carolyn B [CA] • Lead Mod (carb.on)
+Author Id: 568257600228032512
+Avatar URL: assets\28a90c77b5793d80eb62484a43c66748-D8837.png
+Content: Only click on the official campaign links like https://kamalaharris.com/ or https://events.democrats.org/event/615101/
+--------------------
+
+--- Message ---
+Message ID: 1275313693634068532
+Message Type: Default
+Reply to: None
+Timestamp: 2024-08-20T04:41:18.745+00:00
+Author: Carolyn B [CA] • Lead Mod (carb.on)
+Author Id: 568257600228032512
+Avatar URL: assets\28a90c77b5793d80eb62484a43c66748-D8837.png
+Content: Tho the link you shared does go to actblue which is ligit, but better to not take a risk with an unknown link.
+--------------------
+
+--- Message ---
+Message ID: 1275314195948376164
+Message Type: Default
+Reply to: None
+Timestamp: 2024-08-20T04:43:18.506+00:00
+Author: Laura M (CO) • Call Mod (hungry.hiker)
+Author Id: 756314488113987654
+Avatar URL: assets\4aa5ed3c3ad66beef8f10bd0d3979dae-08843.png
+Content: Yeah I agree 100%. I thought I heard some scams are on ActBlue but not sure if that's true. Anyway I always donate through the official links. Thank you for the quick response!
+--------------------

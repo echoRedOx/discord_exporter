@@ -1,0 +1,39 @@
+Guild: Team Harris-Walz Virtual Office (ID: 1242249109298221066)
+Channel: Graphic Designer looking to volunteer (ID: 1276953245750792244)
+Channel Topic: None
+Exported At: 2024-10-24T06:57:21.4336274+00:00
+
+
+--- Message ---
+Message ID: 1276953245750792244
+Message Type: Default
+Reply to: None
+Timestamp: 2024-08-24T17:16:18.431+00:00
+Author: Adam Levermore (WA) (lexigeek)
+Author Id: 337277887038357507
+Avatar URL: assets\05d4a5617d22a9e262f27b8904cb4d98-C9916.png
+Content: I'm a graphic designer with decades of experience, and I'd like to put my talents to work creating graphics for the Reach galleries. Who can I talk to?
+--------------------
+
+--- Message ---
+Message ID: 1276955220227784754
+Message Type: Default
+Reply to: None
+Timestamp: 2024-08-24T17:24:09.183+00:00
+Author: Carolyn B [CA] • Lead Mod (carb.on)
+Author Id: 568257600228032512
+Avatar URL: assets\28a90c77b5793d80eb62484a43c66748-D8837.png
+Content: Hi <@337277887038357507> so great to see you here wanting to use your graphic talents to move this forward to a win. You can apply to Content Brigade with this form https://forms.gle/KypguusgSb1YWJQG7
+While you are waiting to hear from content brigade, take a look around and choose an engagement training that supports you to connect with voters.
+--------------------
+
+--- Message ---
+Message ID: 1276955346736251081
+Message Type: Default
+Reply to: None
+Timestamp: 2024-08-24T17:24:39.345+00:00
+Author: Adam Levermore (WA) (lexigeek)
+Author Id: 337277887038357507
+Avatar URL: assets\05d4a5617d22a9e262f27b8904cb4d98-C9916.png
+Content: Thanks <@568257600228032512> !
+--------------------

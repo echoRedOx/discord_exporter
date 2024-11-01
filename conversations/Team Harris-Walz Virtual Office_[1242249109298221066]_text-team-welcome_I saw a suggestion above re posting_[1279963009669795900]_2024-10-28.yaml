@@ -1,0 +1,71 @@
+- author_avatar_url: assets\809f117d179a70576b3870d1aaf1eedb-18781.png
+  author_id: '368807878926008341'
+  author_name: matzahbrei
+  author_nickname: Rachel Ruben [NY] KC Text Admin
+  content: ''
+  id: '1279967972575936522'
+  ref_to: '1279963009669795900'
+  timestamp: '2024-09-02T00:55:45.317+00:00'
+  type: '21'
+- author_avatar_url: assets\809f117d179a70576b3870d1aaf1eedb-18781.png
+  author_id: '368807878926008341'
+  author_name: matzahbrei
+  author_nickname: Rachel Ruben [NY] KC Text Admin
+  content: "That advice is for texters who have already been onboarded\u2014please\
+    \ check your DMs for a message from a moderator regarding onboarding in the 48-72\
+    \ hours after your training. Thank you!!"
+  id: '1279967973347430473'
+  ref_to: null
+  timestamp: '2024-09-02T00:55:45.501+00:00'
+  type: Default
+- author_avatar_url: assets\809f117d179a70576b3870d1aaf1eedb-18781.png
+  author_id: '368807878926008341'
+  author_name: matzahbrei
+  author_nickname: Rachel Ruben [NY] KC Text Admin
+  content: "You may have taken a training with a different organization\u2014that\
+    \ doesn't sound like us!"
+  id: '1280860802697396245'
+  ref_to: null
+  timestamp: '2024-09-04T12:03:32.606+00:00'
+  type: Default
+- author_avatar_url: assets\809f117d179a70576b3870d1aaf1eedb-18781.png
+  author_id: '368807878926008341'
+  author_name: matzahbrei
+  author_nickname: Rachel Ruben [NY] KC Text Admin
+  content: "No, we definitely have space on the team! But our text training doesn\u2019\
+    t include some of the elements that you\u2019re describing. <@477560366432256000>\
+    \ or <@935762347753103382> might be able to help you figure out what\u2019s going\
+    \ on!"
+  id: '1280876406728822856'
+  ref_to: null
+  timestamp: '2024-09-04T13:05:32.897+00:00'
+  type: Default
+- author_avatar_url: assets\27b1e286b65ae02b3378793b5f098411-A7B20.png
+  author_id: '935762347753103382'
+  author_name: nmorris237
+  author_nickname: Nicole Morris - Text Admin
+  content: Thanks Rachel! Hey <@1266879752069845055> so sorry for the confusion
+  id: '1280877150786027663'
+  ref_to: null
+  timestamp: '2024-09-04T13:08:30.294+00:00'
+  type: Default
+- author_avatar_url: assets\27b1e286b65ae02b3378793b5f098411-A7B20.png
+  author_id: '935762347753103382'
+  author_name: nmorris237
+  author_nickname: Nicole Morris - Text Admin
+  content: "I\u2019ll follow up with you now via Direct Message in Discord"
+  id: '1280877198294782074'
+  ref_to: null
+  timestamp: '2024-09-04T13:08:41.621+00:00'
+  type: Default
+- author_avatar_url: assets\27b1e286b65ae02b3378793b5f098411-A7B20.png
+  author_id: '935762347753103382'
+  author_name: nmorris237
+  author_nickname: Nicole Morris - Text Admin
+  content: "Please let me know if you don\u2019t see the message - it\u2019ll be on\
+    \ the top left under the game controller/speech bubble icon, and in \u201CMessage\
+    \ Requests\u201D or an envelope icon"
+  id: '1280878087244091425'
+  ref_to: null
+  timestamp: '2024-09-04T13:12:13.563+00:00'
+  type: Default

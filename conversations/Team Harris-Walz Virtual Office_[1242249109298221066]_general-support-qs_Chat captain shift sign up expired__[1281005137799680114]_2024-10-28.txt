@@ -1,0 +1,49 @@
+Guild: Team Harris-Walz Virtual Office (ID: 1242249109298221066)
+Channel: Chat captain shift sign up expired? (ID: 1281005137799680114)
+Channel Topic: None
+Exported At: 2024-10-28T20:10:15.4742982+00:00
+
+
+--- Message ---
+Message ID: 1281005137799680114
+Message Type: Default
+Reply to: None
+Timestamp: 2024-09-04T21:37:04.776+00:00
+Author: Peabody (katiepeabody)
+Author Id: 810614727251329074
+Avatar URL: assets\c82b3fa769ed6e6ffdea579381ed5f5c-867BA.png
+Content: Is there a new link for chat captain shifts? The one I was previously using says the event is concluded. https://events.democrats.org/event/661052/
+--------------------
+
+--- Message ---
+Message ID: 1281006380089610332
+Message Type: Default
+Reply to: None
+Timestamp: 2024-09-04T21:42:00.961+00:00
+Author: Gillian D [TX] • Lead Mod (tenaciousg27)
+Author Id: 763374129772363776
+Avatar URL: assets\bfccaff89d7c287575ef163d39d3bde8-053E1.png
+Content: Hi there! We're no longer using that link to sign up for shifts. More information here: https://discord.com/channels/1242249109298221066/1270925721895698482/1279151984678797453
+--------------------
+
+--- Message ---
+Message ID: 1281020641050624040
+Message Type: Default
+Reply to: None
+Timestamp: 2024-09-04T22:38:41.039+00:00
+Author: AnnapolisLyn [Call MOD] (lynfarrow)
+Author Id: 1273024393932574734
+Avatar URL: assets\ee1f838c4f1b6fc37ee52bef5abcace5-B2D34.png
+Content: <@&1245831457818279986> Could someone share the new Vote Team Chat Captain signup link with <@810614727251329074>
+--------------------
+
+--- Message ---
+Message ID: 1281023523070148648
+Message Type: Default
+Reply to: None
+Timestamp: 2024-09-04T22:50:08.166+00:00
+Author: Carolyn B [CA] • Lead Mod (carb.on)
+Author Id: 568257600228032512
+Avatar URL: assets\28a90c77b5793d80eb62484a43c66748-D8837.png
+Content: I hope it is this https://discord.com/channels/1242249109298221066/1270925721895698482/1279151984678797453 , which is also pinned in the Vote Team scheduling channel.
+--------------------

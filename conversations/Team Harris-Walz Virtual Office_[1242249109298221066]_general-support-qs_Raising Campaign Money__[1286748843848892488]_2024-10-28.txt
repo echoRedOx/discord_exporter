@@ -1,0 +1,38 @@
+Guild: Team Harris-Walz Virtual Office (ID: 1242249109298221066)
+Channel: Raising Campaign Money? (ID: 1286748843848892488)
+Channel Topic: None
+Exported At: 2024-10-28T20:00:56.9873224+00:00
+
+
+--- Message ---
+Message ID: 1286748843848892488
+Message Type: Default
+Reply to: None
+Timestamp: 2024-09-20T18:00:31.011+00:00
+Author: Belle Ward (TX) (belleyells)
+Author Id: 1190850265981657178
+Avatar URL: assets\c1b3f1edbdda3858cd5c83f07708b993-81177.png
+Content: Hi! I was wondering if there are any ways for an individual to raise money for the campaign? I know you can’t donate *for* someone else, but I haven’t been able to find any rules and regulations regarding individual fundraising, whether it’s through a shop where the proceeds go to the campaign or through a fundraiser. I’m trying to explore all my options for helping. 🙂 I haven’t read through the entire server yet, so I figured I’d ask in case I missed the info somewhere or haven’t found it yet.
+--------------------
+
+--- Message ---
+Message ID: 1286750179667738715
+Message Type: Default
+Reply to: None
+Timestamp: 2024-09-20T18:05:49.495+00:00
+Author: Carolyn B [CA] • Lead Mod (carb.on)
+Author Id: 568257600228032512
+Avatar URL: assets\28a90c77b5793d80eb62484a43c66748-D8837.png
+Content: Hello <@1190850265981657178> thank you for asking this question and it's great that you are interested in fundraising. One of the ways you can incorporate fundraising into your efforts is with hosting events. The events can be virtual or in-person, they can happen once or in a series and I believe the can be on-going. You can set up your event with https://events.democrats.org/host/ and then connect ActBlue to have your donors funds go directly to the campaign. Also check with the https://discord.com/channels/1242249109298221066/1242264464246440017 team, they may have more ideas. If you can't see that link, go to Channels & Roles at the top of your menu and select the Host Events option.
+--------------------
+
+--- Message ---
+Message ID: 1286754703467745331
+Message Type: Default
+Reply to: None
+Timestamp: 2024-09-20T18:23:48.053+00:00
+Author: Belle Ward (TX) (belleyells)
+Author Id: 1190850265981657178
+Avatar URL: assets\c1b3f1edbdda3858cd5c83f07708b993-81177.png
+Content: Awesome, thank you!
+--------------------

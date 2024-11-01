@@ -1,0 +1,38 @@
+Guild: Team Harris-Walz Virtual Office (ID: 1242249109298221066)
+Channel: What is a discord handle (ID: 1277764556164432046)
+Channel Topic: None
+Exported At: 2024-10-24T06:54:01.0433936+00:00
+
+
+--- Message ---
+Message ID: 1277764556164432046
+Message Type: Default
+Reply to: None
+Timestamp: 2024-08-26T23:00:09.907+00:00
+Author: Alison Rempel (alisonrempel)
+Author Id: 1266900496770400339
+Avatar URL: assets\ce3882a42b0011362b6f403aa78dcbc2-C5246.png
+Content: People refer to a discord handle... is that my display name or user name or something else?
+--------------------
+
+--- Message ---
+Message ID: 1277764650397601926
+Message Type: Default
+Reply to: None
+Timestamp: 2024-08-26T23:00:32.374+00:00
+Author: cas! (imcastin)
+Author Id: 788310105635422218
+Avatar URL: assets\4b24822eb51726ea0a388ddde126cc84-A693A.png
+Content: it’s your username. for example, yours is dollars4democracy
+--------------------
+
+--- Message ---
+Message ID: 1277767469020221553
+Message Type: Reply
+Reply to: 1277764650397601926
+Timestamp: 2024-08-26T23:11:44.386+00:00
+Author: Alison Rempel (alisonrempel)
+Author Id: 1266900496770400339
+Avatar URL: assets\ce3882a42b0011362b6f403aa78dcbc2-C5246.png
+Content: TY
+--------------------

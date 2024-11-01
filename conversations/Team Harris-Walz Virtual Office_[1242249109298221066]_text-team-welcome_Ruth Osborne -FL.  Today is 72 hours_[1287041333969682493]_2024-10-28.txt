@@ -1,0 +1,49 @@
+Guild: Team Harris-Walz Virtual Office (ID: 1242249109298221066)
+Channel: Ruth Osborne -FL.  Today is 72 hours. (ID: 1287041333969682493)
+Channel Topic: None
+Exported At: 2024-10-28T23:10:35.6097006+00:00
+
+
+--- Message ---
+Message ID: 1287052130380943473
+Message Type: 21
+Reply to: 1287041333969682493
+Timestamp: 2024-09-21T14:05:40.155+00:00
+Author: Jack Joannides KC text admin (jjoannid)
+Author Id: 477560366432256000
+Avatar URL: assets\791c521e62160be1f3df04992f6e5470-36A38.png
+Content: 
+--------------------
+
+--- Message ---
+Message ID: 1287052131949477898
+Message Type: Default
+Reply to: None
+Timestamp: 2024-09-21T14:05:40.529+00:00
+Author: Jack Joannides KC text admin (jjoannid)
+Author Id: 477560366432256000
+Avatar URL: assets\791c521e62160be1f3df04992f6e5470-36A38.png
+Content: We'll add you when we can. I'm currently awaiting additional things.
+--------------------
+
+--- Message ---
+Message ID: 1287055343037317131
+Message Type: Default
+Reply to: None
+Timestamp: 2024-09-21T14:18:26.112+00:00
+Author: Jack Joannides KC text admin (jjoannid)
+Author Id: 477560366432256000
+Avatar URL: assets\791c521e62160be1f3df04992f6e5470-36A38.png
+Content: You're not the only one waiting from the 8/18 training btw.
+--------------------
+
+--- Message ---
+Message ID: 1287151117486260255
+Message Type: Default
+Reply to: None
+Timestamp: 2024-09-21T20:39:00.52+00:00
+Author: Ruth Osborne - FL (osbork228)
+Author Id: 1284642729132818483
+Avatar URL: assets\8569adcbd36c70a7578c017bf5604ea5-6767E.png
+Content: TY!!! Can’t wait to get started 😊
+--------------------

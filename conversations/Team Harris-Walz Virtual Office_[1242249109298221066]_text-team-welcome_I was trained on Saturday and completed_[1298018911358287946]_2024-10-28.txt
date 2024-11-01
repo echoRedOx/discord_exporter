@@ -1,0 +1,38 @@
+Guild: Team Harris-Walz Virtual Office (ID: 1242249109298221066)
+Channel: I was trained on Saturday and completed (ID: 1298018911358287946)
+Channel Topic: None
+Exported At: 2024-10-28T22:26:32.5104057+00:00
+
+
+--- Message ---
+Message ID: 1298027516887437393
+Message Type: 21
+Reply to: 1298018911358287946
+Timestamp: 2024-10-21T20:57:56.211+00:00
+Author: Jack Joannides KC text admin (jjoannid)
+Author Id: 477560366432256000
+Avatar URL: assets\791c521e62160be1f3df04992f6e5470-36A38.png
+Content: 
+--------------------
+
+--- Message ---
+Message ID: 1298027519450157157
+Message Type: Default
+Reply to: None
+Timestamp: 2024-10-21T20:57:56.822+00:00
+Author: Jack Joannides KC text admin (jjoannid)
+Author Id: 477560366432256000
+Avatar URL: assets\791c521e62160be1f3df04992f6e5470-36A38.png
+Content: We'll try to add yu in the next 24 hours sorry. We just got the zoom report today.
+--------------------
+
+--- Message ---
+Message ID: 1298027768629563456
+Message Type: Default
+Reply to: None
+Timestamp: 2024-10-21T20:58:56.231+00:00
+Author: Ruth Kaminski OR (.ruthiek)
+Author Id: 1135674106826723379
+Avatar URL: assets\a73309d3eca9f81e16658f678e7cf544-B0AE3.png
+Content: Thanks, Jack. I appreciate it!
+--------------------

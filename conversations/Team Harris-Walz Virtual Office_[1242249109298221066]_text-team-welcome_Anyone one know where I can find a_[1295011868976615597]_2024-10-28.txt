@@ -1,0 +1,27 @@
+Guild: Team Harris-Walz Virtual Office (ID: 1242249109298221066)
+Channel: Anyone one know where I can find a (ID: 1295011868976615597)
+Channel Topic: None
+Exported At: 2024-10-28T22:41:55.4715343+00:00
+
+
+--- Message ---
+Message ID: 1295030668622954556
+Message Type: 21
+Reply to: 1295011868976615597
+Timestamp: 2024-10-13T14:29:31.906+00:00
+Author: Roberta Bavin CA KC Greeter/Mod (roberta_24935)
+Author Id: 1269872908759597148
+Avatar URL: assets\df6d19d97b04a49ffcafbe7be14c7839-D9CE4.png
+Content: 
+--------------------
+
+--- Message ---
+Message ID: 1295030671953104970
+Message Type: Default
+Reply to: None
+Timestamp: 2024-10-13T14:29:32.7+00:00
+Author: Roberta Bavin CA KC Greeter/Mod (roberta_24935)
+Author Id: 1269872908759597148
+Avatar URL: assets\df6d19d97b04a49ffcafbe7be14c7839-D9CE4.png
+Content: Hi <@636956738842787869> Please put this in general-support-qs, general conversation or your state channel to get a better answer. Most likely, you can check with your local Dem office. Thanks for reaching out!
+--------------------

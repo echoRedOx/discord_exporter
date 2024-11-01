@@ -1,0 +1,73 @@
+Guild: Team Harris-Walz Virtual Office (ID: 1242249109298221066)
+Channel: State Travel Recommendations (ID: 1293099348120309780)
+Channel Topic: None
+Exported At: 2024-10-24T06:25:33.2443036+00:00
+
+
+--- Message ---
+Message ID: 1293099348120309780
+Message Type: Default
+Reply to: None
+Timestamp: 2024-10-08T06:35:09.216+00:00
+Author: Mark Williams (maw_2k5374)
+Author Id: 371398908695281669
+Avatar URL: assets\5-E9BDB.png
+Content: Hi,
+
+I'm interested in traveling to a swing state sometime in the week before the election to do in-person canvassing, and I was wondering if there were preferred states for volunteers to go to (e.g. Michigan, Georgia)? Thanks for the help.
+--------------------
+
+--- Message ---
+Message ID: 1293295757268484137
+Message Type: Default
+Reply to: None
+Timestamp: 2024-10-08T19:35:36.806+00:00
+Author: Carolyn B [CA] • Lead Mod (carb.on)
+Author Id: 568257600228032512
+Avatar URL: assets\28a90c77b5793d80eb62484a43c66748-D8837.png
+Content: Hello <@371398908695281669> depending on where you are and where you want to travel to, I would suggest searching for canvassing opportunities on [mobilize.us](https://www.mobilize.us/?country=US&q=canvass&state=PA). You can type "canvass" in the search box and put the state, city, or zip code in the location box.
+--------------------
+
+--- Message ---
+Message ID: 1293345680328228924
+Message Type: Default
+Reply to: None
+Timestamp: 2024-10-08T22:53:59.391+00:00
+Author: Eric Gallager (NH02) (egallager)
+Author Id: 379278050212315148
+Avatar URL: assets\3455937c80f8c69cd430cbb4f671a3ab-A02E8.png
+Content: Well where are you from? I personally would just pick whichever swing state is closest to you...
+--------------------
+
+--- Message ---
+Message ID: 1293356196970893383
+Message Type: Reply
+Reply to: 1293099348120309780
+Timestamp: 2024-10-08T23:35:46.754+00:00
+Author: Kate F [MA] (kpzo4n)
+Author Id: 1277431784530903134
+Avatar URL: assets\849d796e50d40e2dbf18d09868ab02fa-4CBC5.png
+Content: This page on the campaign site is also a great resource! https://go.kamalaharris.com/resources/battlegroundstateshelp/
+--------------------
+
+--- Message ---
+Message ID: 1294091499067146242
+Message Type: Default
+Reply to: None
+Timestamp: 2024-10-11T00:17:36.435+00:00
+Author: Eric Gallager (NH02) (egallager)
+Author Id: 379278050212315148
+Avatar URL: assets\3455937c80f8c69cd430cbb4f671a3ab-A02E8.png
+Content: see also: https://votemaximizer.org/
+--------------------
+
+--- Message ---
+Message ID: 1295508094939561995
+Message Type: Default
+Reply to: None
+Timestamp: 2024-10-14T22:06:39.21+00:00
+Author: Mark Williams (maw_2k5374)
+Author Id: 371398908695281669
+Avatar URL: assets\5-E9BDB.png
+Content: Thank you!
+--------------------

@@ -1,0 +1,16 @@
+Guild: Team Harris-Walz Virtual Office (ID: 1242249109298221066)
+Channel: test17 - question, answer, lock, close (ID: 1280920979681579057)
+Channel Topic: None
+Exported At: 2024-10-28T20:11:14.3345895+00:00
+
+
+--- Message ---
+Message ID: 1280920979681579057
+Message Type: Default
+Reply to: None
+Timestamp: 2024-09-04T16:02:39.917+00:00
+Author: Mlep's Test Account (mleptestrole)
+Author Id: 936375939552661537
+Avatar URL: assets\4bf3403a3b7eed99c09363da48aad7dd-D138E.png
+Content: test17 - question, answer, lock, close
+--------------------

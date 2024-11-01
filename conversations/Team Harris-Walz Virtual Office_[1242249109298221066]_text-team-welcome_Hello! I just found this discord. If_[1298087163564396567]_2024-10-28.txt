@@ -1,0 +1,38 @@
+Guild: Team Harris-Walz Virtual Office (ID: 1242249109298221066)
+Channel: Hello! I just found this discord. If (ID: 1298087163564396567)
+Channel Topic: None
+Exported At: 2024-10-28T22:24:30.7176479+00:00
+
+
+--- Message ---
+Message ID: 1298097594936983624
+Message Type: 21
+Reply to: 1298087163564396567
+Timestamp: 2024-10-22T01:36:24.12+00:00
+Author: Roberta Bavin CA KC Greeter/Mod (roberta_24935)
+Author Id: 1269872908759597148
+Avatar URL: assets\df6d19d97b04a49ffcafbe7be14c7839-D9CE4.png
+Content: 
+--------------------
+
+--- Message ---
+Message ID: 1298097598019932160
+Message Type: Default
+Reply to: None
+Timestamp: 2024-10-22T01:36:24.855+00:00
+Author: Roberta Bavin CA KC Greeter/Mod (roberta_24935)
+Author Id: 1269872908759597148
+Avatar URL: assets\df6d19d97b04a49ffcafbe7be14c7839-D9CE4.png
+Content: Hi <@259854464788332544> Thanks for reaching out! There are different opportunities in some of the states or you can check the <#1268426751164551199> channel. <:thankyou:1252806147396735057>
+--------------------
+
+--- Message ---
+Message ID: 1298128138064363572
+Message Type: Default
+Reply to: None
+Timestamp: 2024-10-22T03:37:46.169+00:00
+Author: Devin Franke (IL) (mrbellyrubz)
+Author Id: 259854464788332544
+Avatar URL: assets\a6f6d795fd4d46dc7df5c96db50d8426-3F37F.png
+Content: Thank you! If there is anyway to get involved in the formal training, please let me know. Best of luck.
+--------------------

@@ -1,0 +1,71 @@
+Guild: Team Harris-Walz Virtual Office (ID: 1242249109298221066)
+Channel: Hi, I attended a text bank training (ID: 1279936173338529882)
+Channel Topic: None
+Exported At: 2024-10-28T19:42:30.82016+00:00
+
+
+--- Message ---
+Message ID: 1279936632727928906
+Message Type: 21
+Reply to: 1279936173338529882
+Timestamp: 2024-09-01T22:51:13.315+00:00
+Author: Jack Joannides KC text admin (jjoannid)
+Author Id: 477560366432256000
+Avatar URL: assets\791c521e62160be1f3df04992f6e5470-36A38.png
+Content: 
+--------------------
+
+--- Message ---
+Message ID: 1279936635236257843
+Message Type: Default
+Reply to: None
+Timestamp: 2024-09-01T22:51:13.913+00:00
+Author: Jack Joannides KC text admin (jjoannid)
+Author Id: 477560366432256000
+Avatar URL: assets\791c521e62160be1f3df04992f6e5470-36A38.png
+Content: You should have gotten an direct message to change your display name.
+--------------------
+
+--- Message ---
+Message ID: 1279938742685270058
+Message Type: Default
+Reply to: None
+Timestamp: 2024-09-01T22:59:36.368+00:00
+Author: Peter Hsu (hsuuperman)
+Author Id: 1278937469152399416
+Avatar URL: assets\5-E9BDB.png
+Content: Hi Jack, thanks! New to discord, only just saw the DM. Sorry if I’m still a bit new to this, but after receiving the DM and updating my profile, what’s next to get started on texting?
+--------------------
+
+--- Message ---
+Message ID: 1279939577079136287
+Message Type: Default
+Reply to: None
+Timestamp: 2024-09-01T23:02:55.303+00:00
+Author: Jack Joannides KC text admin (jjoannid)
+Author Id: 477560366432256000
+Avatar URL: assets\791c521e62160be1f3df04992f6e5470-36A38.png
+Content: You'll get the scale to win link next.
+--------------------
+
+--- Message ---
+Message ID: 1279978202118361089
+Message Type: Default
+Reply to: None
+Timestamp: 2024-09-02T01:36:24.23+00:00
+Author: Peter Hsu (hsuuperman)
+Author Id: 1278937469152399416
+Avatar URL: assets\5-E9BDB.png
+Content: Thanks, when should I expect that link?
+--------------------
+
+--- Message ---
+Message ID: 1279979136370348083
+Message Type: Default
+Reply to: None
+Timestamp: 2024-09-02T01:40:06.973+00:00
+Author: Jack Joannides KC text admin (jjoannid)
+Author Id: 477560366432256000
+Avatar URL: assets\791c521e62160be1f3df04992f6e5470-36A38.png
+Content: In an direct message 24-72 hours after the training
+--------------------

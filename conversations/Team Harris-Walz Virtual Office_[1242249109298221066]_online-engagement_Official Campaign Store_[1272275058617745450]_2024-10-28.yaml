@@ -1,0 +1,165 @@
+- author_avatar_url: assets\37de34190564f7c9acae5895cc884c8a-6F9C7.png
+  author_id: '869778676986814514'
+  author_name: jessica033389
+  author_nickname: Jessica Puchala (MD) [OE Lead]
+  content: ''
+  id: '1272277627561836691'
+  ref_to: '1272275058617745450'
+  timestamp: '2024-08-11T19:37:04.186+00:00'
+  type: '21'
+- author_avatar_url: assets\37de34190564f7c9acae5895cc884c8a-6F9C7.png
+  author_id: '869778676986814514'
+  author_name: jessica033389
+  author_nickname: Jessica Puchala (MD) [OE Lead]
+  content: Hi <@260982275506700288>. Thanks for the question. While I don't have that
+    answer for you as we're focused on Online Engagement here, one of our <@&1245831457818279986>s
+    may be able to assist you with an answer. (You can usually reach them through
+    <#1242249109298221069> or <#1267941954243526756>.) In my experience shopping there,
+    some sold out material did eventually return while other pieces did NOT.
+  id: '1272277630229549209'
+  ref_to: null
+  timestamp: '2024-08-11T19:37:04.822+00:00'
+  type: Default
+- author_avatar_url: assets\33bc28b94ceba3872bed7864e06e3045-6FEAB.png
+  author_id: '260982275506700288'
+  author_name: itsnickk5525
+  author_nickname: Nick from NY
+  content: Great thanks, I will ask there!
+  id: '1272280456380809228'
+  ref_to: '1272277630229549209'
+  timestamp: '2024-08-11T19:48:18.629+00:00'
+  type: Reply
+- author_avatar_url: assets\7e0b92ac9c219576d1678866b1fa9479-1625E.png
+  author_id: '717621451380752384'
+  author_name: blackgirlmagic5148
+  author_nickname: Vicky
+  content: "Has anyone received an order? I placed an order two weeks ago and still\
+    \ don\u2019t have any shipping confirmation."
+  id: '1272290269353611388'
+  ref_to: null
+  timestamp: '2024-08-11T20:27:18.224+00:00'
+  type: Default
+- author_avatar_url: assets\37de34190564f7c9acae5895cc884c8a-6F9C7.png
+  author_id: '869778676986814514'
+  author_name: jessica033389
+  author_nickname: Jessica Puchala (MD) [OE Lead]
+  content: 'My order was recieved. However, I''ve noticed that some items now are
+    sold out or noted as not available until a certain date. Was your item one of
+    those that ships later perhaps? Regardless, I won''t have any answers for you
+    as an Online Engagement Lead. You may wish to contact a general <@&1266883962727432304>.
+    (FYI: The <#1269677234357010522> section is new and awesome! )'
+  id: '1272372237793759263'
+  ref_to: '1272290269353611388'
+  timestamp: '2024-08-12T01:53:01.023+00:00'
+  type: Reply
+- author_avatar_url: assets\4412fd436c9a7d43a1770d5771bbdd0c-8CC79.png
+  author_id: '941196169852366859'
+  author_name: mariebroph2677695
+  author_nickname: Marie B. | PA/NJ | OE/KC
+  content: I would think with the popularity of the campaign, they're having a hard
+    time keeping up. The same thing happened with Fetterman two years ago.
+  id: '1272375575314567182'
+  ref_to: null
+  timestamp: '2024-08-12T02:06:16.75+00:00'
+  type: Default
+- author_avatar_url: assets\8b706a86e5f9b8dcaaa950a7500b77b8-E1341.png
+  author_id: '957714233217409174'
+  author_name: opheliawild
+  author_nickname: "Ophelia W \u2022 Lead Mod"
+  content: Yes, Jessica and Marie are correct. They have various shipping dates for
+    different items and many don't ship until September. Depends on the items. They
+    likely do this to produce larger runs so the campaign gets to keep more money
+    for campaigning rather than product. You might check the receipt and/or item/s
+    on the website to see if it lists the shipping date/s. They often do.
+  id: '1272376714533670966'
+  ref_to: '1272290269353611388'
+  timestamp: '2024-08-12T02:10:48.361+00:00'
+  type: Reply
+- author_avatar_url: assets\8b706a86e5f9b8dcaaa950a7500b77b8-E1341.png
+  author_id: '957714233217409174'
+  author_name: opheliawild
+  author_nickname: "Ophelia W \u2022 Lead Mod"
+  content: "I've also heard they are producing much of it, if not all of it, by U.S.\
+    \ labor union companies. \U0001F642"
+  id: '1272377011045666917'
+  ref_to: null
+  timestamp: '2024-08-12T02:11:59.055+00:00'
+  type: Default
+- author_avatar_url: assets\4412fd436c9a7d43a1770d5771bbdd0c-8CC79.png
+  author_id: '941196169852366859'
+  author_name: mariebroph2677695
+  author_nickname: Marie B. | PA/NJ | OE/KC
+  content: Most Democratic campaigns use US union labor for these things. I know the
+    DNC uses it for the stuff they sell on the party's website since I have the donkey
+    coffee cup from that.
+  id: '1272377277971435623'
+  ref_to: '1272377011045666917'
+  timestamp: '2024-08-12T02:13:02.695+00:00'
+  type: Reply
+- author_avatar_url: assets\7e0b92ac9c219576d1678866b1fa9479-1625E.png
+  author_id: '717621451380752384'
+  author_name: blackgirlmagic5148
+  author_nickname: Vicky
+  content: "Thank you for the responses. I don\u2019t see any shipping dates on the\
+    \ confirmation receipt. I can definitely understand that they\u2019ve been flooded\
+    \ with orders!"
+  id: '1272402165989769329'
+  ref_to: null
+  timestamp: '2024-08-12T03:51:56.461+00:00'
+  type: Default
+- author_avatar_url: assets\7e0b92ac9c219576d1678866b1fa9479-1625E.png
+  author_id: '717621451380752384'
+  author_name: blackgirlmagic5148
+  author_nickname: Vicky
+  content: "And I\u2019ll add - both of the items that I ordered state Ships within\
+    \ 10 days. I\u2019m not complaining. Just wondering if anyone else received their\
+    \ orders!"
+  id: '1272402466398408716'
+  ref_to: null
+  timestamp: '2024-08-12T03:53:08.084+00:00'
+  type: Default
+- author_avatar_url: assets\4412fd436c9a7d43a1770d5771bbdd0c-8CC79.png
+  author_id: '941196169852366859'
+  author_name: mariebroph2677695
+  author_nickname: Marie B. | PA/NJ | OE/KC
+  content: I know I received my order but that was a week before this campaign really
+    came to life.
+  id: '1272584497837379678'
+  ref_to: '1272402466398408716'
+  timestamp: '2024-08-12T15:56:27.761+00:00'
+  type: Reply
+- author_avatar_url: assets\4412fd436c9a7d43a1770d5771bbdd0c-8CC79.png
+  author_id: '941196169852366859'
+  author_name: mariebroph2677695
+  author_nickname: Marie B. | PA/NJ | OE/KC
+  content: Like I said I have a feeling what's going on is something very similar
+    to what the Fetterman campaign experienced in 2022 when they became so popular
+    that their online store got slammed with orders that it took slightly longer than
+    expected for a lot of items. Check back periodically. Also, if you get the Shop
+    app on your phone, you can probably get notifications that way too because that's
+    how I got a lot of notifications on DNC gear I ordered a few times.
+  id: '1272585208176054313'
+  ref_to: null
+  timestamp: '2024-08-12T15:59:17.119+00:00'
+  type: Default
+- author_avatar_url: assets\7e0b92ac9c219576d1678866b1fa9479-1625E.png
+  author_id: '717621451380752384'
+  author_name: blackgirlmagic5148
+  author_nickname: Vicky
+  content: "I placed my order on July 30. I understand- there is so much excitement\
+    \ about this campaign. I didn\u2019t follow Fetterman as much (I\u2019m in California.)\
+    \ Thank you for the response!"
+  id: '1272589786309201992'
+  ref_to: '1272585208176054313'
+  timestamp: '2024-08-12T16:17:28.631+00:00'
+  type: Reply
+- author_avatar_url: assets\4412fd436c9a7d43a1770d5771bbdd0c-8CC79.png
+  author_id: '941196169852366859'
+  author_name: mariebroph2677695
+  author_nickname: Marie B. | PA/NJ | OE/KC
+  content: No problem. I worked on the Fetterman campagin as a digital volunteer so
+    I remember the excitement all too well.
+  id: '1272599720593854484'
+  ref_to: null
+  timestamp: '2024-08-12T16:56:57.149+00:00'
+  type: Default

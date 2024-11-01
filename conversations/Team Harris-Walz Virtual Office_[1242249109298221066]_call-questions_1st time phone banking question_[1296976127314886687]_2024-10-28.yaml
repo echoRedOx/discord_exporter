@@ -1,0 +1,21 @@
+- author_avatar_url: assets\6c5996770c985bcd6e5b68131ff2ba04-0820A.png
+  author_id: '1296969542219726862'
+  author_name: c08373
+  author_nickname: "\U0001F642C"
+  content: <@&1266883962727432304>- is there a way to protect my personal number with
+    remote calling?
+  id: '1296976127314886687'
+  ref_to: null
+  timestamp: '2024-10-18T23:20:05.403+00:00'
+  type: Default
+- author_avatar_url: assets\a_de0e3d4a3f9b486ad3ad6df0d72323da-D0252.gif
+  author_id: '112080668296564736'
+  author_name: kyaizen
+  author_nickname: "Jared R [CO] \u2022 Lead Mod"
+  content: Hi <@1296969542219726862>! Yes, when you use the dialer, your phone number/info
+    is not shared with the voter. When you input your name/email/phone number, that
+    is for the dialer, not for who we're calling!
+  id: '1296976791277408366'
+  ref_to: '1296976127314886687'
+  timestamp: '2024-10-18T23:22:43.704+00:00'
+  type: Reply

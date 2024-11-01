@@ -1,0 +1,38 @@
+Guild: Team Harris-Walz Virtual Office (ID: 1242249109298221066)
+Channel: I passed the quiz and signed the (ID: 1277056506704953457)
+Channel Topic: None
+Exported At: 2024-10-28T23:59:45.8680464+00:00
+
+
+--- Message ---
+Message ID: 1277060449740787729
+Message Type: 21
+Reply to: 1277056506704953457
+Timestamp: 2024-08-25T00:22:17.854+00:00
+Author: Nicole Morris - Text Admin (nmorris237)
+Author Id: 935762347753103382
+Avatar URL: assets\27b1e286b65ae02b3378793b5f098411-A7B20.png
+Content: 
+--------------------
+
+--- Message ---
+Message ID: 1277060451129364563
+Message Type: Default
+Reply to: None
+Timestamp: 2024-08-25T00:22:18.185+00:00
+Author: Nicole Morris - Text Admin (nmorris237)
+Author Id: 935762347753103382
+Avatar URL: assets\27b1e286b65ae02b3378793b5f098411-A7B20.png
+Content: Thanks! Please keep an eye on your Direct Messages in Discord within the next 24-48 hours for final steps on getting added to the text channels! It'll be a notification on the top left in Discord
+--------------------
+
+--- Message ---
+Message ID: 1278016288987545693
+Message Type: Default
+Reply to: None
+Timestamp: 2024-08-27T15:40:27.689+00:00
+Author: Nicole Morris - Text Admin (nmorris237)
+Author Id: 935762347753103382
+Avatar URL: assets\27b1e286b65ae02b3378793b5f098411-A7B20.png
+Content: Hi <@854888408085692428> I just sent you a Direct Message on Discord - please let me know if you didn't see it.
+--------------------

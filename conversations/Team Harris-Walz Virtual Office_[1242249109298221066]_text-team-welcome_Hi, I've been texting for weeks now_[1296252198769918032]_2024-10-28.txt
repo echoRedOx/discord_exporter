@@ -1,0 +1,49 @@
+Guild: Team Harris-Walz Virtual Office (ID: 1242249109298221066)
+Channel: Hi, I've been texting for weeks now. (ID: 1296252198769918032)
+Channel Topic: None
+Exported At: 2024-10-28T22:35:51.2713951+00:00
+
+
+--- Message ---
+Message ID: 1296252331138220075
+Message Type: 21
+Reply to: 1296252198769918032
+Timestamp: 2024-10-16T23:23:58.947+00:00
+Author: Jack Joannides KC text admin (jjoannid)
+Author Id: 477560366432256000
+Avatar URL: assets\791c521e62160be1f3df04992f6e5470-36A38.png
+Content: 
+--------------------
+
+--- Message ---
+Message ID: 1296252334241742849
+Message Type: Default
+Reply to: None
+Timestamp: 2024-10-16T23:23:59.687+00:00
+Author: Jack Joannides KC text admin (jjoannid)
+Author Id: 477560366432256000
+Avatar URL: assets\791c521e62160be1f3df04992f6e5470-36A38.png
+Content: Can you please ask this in <#1259238714157305936>
+--------------------
+
+--- Message ---
+Message ID: 1296252510775808061
+Message Type: Default
+Reply to: None
+Timestamp: 2024-10-16T23:24:41.776+00:00
+Author: Jane Anderson (VA) (janeonpelican)
+Author Id: 861272255396708362
+Avatar URL: assets\9f727efb0d6b4f748c19da548ce344f4-9A921.png
+Content: Of course, thanks! I wasn't sure where the correct place was ...
+--------------------
+
+--- Message ---
+Message ID: 1296252666900516864
+Message Type: Default
+Reply to: None
+Timestamp: 2024-10-16T23:25:18.999+00:00
+Author: Jack Joannides KC text admin (jjoannid)
+Author Id: 477560366432256000
+Avatar URL: assets\791c521e62160be1f3df04992f6e5470-36A38.png
+Content: Yea NP. This is a place where like new volunteers ask questions like how to get onto the channels and like stuff.
+--------------------

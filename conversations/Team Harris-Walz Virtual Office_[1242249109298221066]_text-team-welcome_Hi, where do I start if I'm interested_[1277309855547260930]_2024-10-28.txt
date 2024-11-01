@@ -1,0 +1,27 @@
+Guild: Team Harris-Walz Virtual Office (ID: 1242249109298221066)
+Channel: Hi, where do I start if I'm interested (ID: 1277309855547260930)
+Channel Topic: None
+Exported At: 2024-10-29T00:02:45.9432946+00:00
+
+
+--- Message ---
+Message ID: 1277363298760659065
+Message Type: 21
+Reply to: 1277309855547260930
+Timestamp: 2024-08-25T20:25:42.687+00:00
+Author: Nicole Morris - Text Admin (nmorris237)
+Author Id: 935762347753103382
+Avatar URL: assets\27b1e286b65ae02b3378793b5f098411-A7B20.png
+Content: 
+--------------------
+
+--- Message ---
+Message ID: 1277363300409282741
+Message Type: Default
+Reply to: None
+Timestamp: 2024-08-25T20:25:43.08+00:00
+Author: Nicole Morris - Text Admin (nmorris237)
+Author Id: 935762347753103382
+Avatar URL: assets\27b1e286b65ae02b3378793b5f098411-A7B20.png
+Content: Hi <@742484998267076708> Thanks! There's a text training happening next weekend - and more dates hopefully soon too, if you can't make the Sat 8/31 one https://events.democrats.org/event/654680/
+--------------------

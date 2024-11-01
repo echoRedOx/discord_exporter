@@ -1,0 +1,137 @@
+Guild: Team Harris-Walz Virtual Office (ID: 1242249109298221066)
+Channel: How do I get the Kamala’s Captain role? (ID: 1299789783819882496)
+Channel Topic: None
+Exported At: 2024-10-28T19:47:43.5503768+00:00
+
+
+--- Message ---
+Message ID: 1299789783819882496
+Message Type: Default
+Reply to: None
+Timestamp: 2024-10-26T17:40:33.389+00:00
+Author: Carmen (Triston) (GA) (spotifyllc)
+Author Id: 947516905386831902
+Avatar URL: assets\93d5489f227e1c913d16cd0ff0335167-CC277.png
+Content: I completed the training for the Kamala’s Captains, and was wondering how to get the role :3
+--------------------
+
+--- Message ---
+Message ID: 1299790667580440727
+Message Type: Default
+Reply to: None
+Timestamp: 2024-10-26T17:44:04.094+00:00
+Author: Carolyn B [CA] • Lead Mod (carb.on)
+Author Id: 568257600228032512
+Avatar URL: assets\28a90c77b5793d80eb62484a43c66748-D8837.png
+Content: Hi <@947516905386831902> you should see the role about 72 hours after you did the training.
+--------------------
+
+--- Message ---
+Message ID: 1299790745083052072
+Message Type: Default
+Reply to: None
+Timestamp: 2024-10-26T17:44:22.572+00:00
+Author: Carmen (Triston) (GA) (spotifyllc)
+Author Id: 947516905386831902
+Avatar URL: assets\93d5489f227e1c913d16cd0ff0335167-CC277.png
+Content: It’s been 4 days
+--------------------
+
+--- Message ---
+Message ID: 1299790873004998676
+Message Type: Default
+Reply to: None
+Timestamp: 2024-10-26T17:44:53.071+00:00
+Author: Carmen (Triston) (GA) (spotifyllc)
+Author Id: 947516905386831902
+Avatar URL: assets\93d5489f227e1c913d16cd0ff0335167-CC277.png
+Content: I’ll sign up for another training I think. I did it with a local org in Atlanta because it’s the only virtual I can find
+--------------------
+
+--- Message ---
+Message ID: 1299790908346204237
+Message Type: Default
+Reply to: None
+Timestamp: 2024-10-26T17:45:01.497+00:00
+Author: Carmen (Triston) (GA) (spotifyllc)
+Author Id: 947516905386831902
+Avatar URL: assets\93d5489f227e1c913d16cd0ff0335167-CC277.png
+Content: In Dekalb County
+--------------------
+
+--- Message ---
+Message ID: 1299791381476147273
+Message Type: Default
+Reply to: None
+Timestamp: 2024-10-26T17:46:54.3+00:00
+Author: Carolyn B [CA] • Lead Mod (carb.on)
+Author Id: 568257600228032512
+Avatar URL: assets\28a90c77b5793d80eb62484a43c66748-D8837.png
+Content: Thanks for telling me. The locals manage their own rosters, so definitely reach out to them. For Kamala's Captains in the H-W server, you do the training with our team.
+--------------------
+
+--- Message ---
+Message ID: 1299794028149342209
+Message Type: Reply
+Reply to: 1299791381476147273
+Timestamp: 2024-10-26T17:57:25.316+00:00
+Author: Carmen (Triston) (GA) (spotifyllc)
+Author Id: 947516905386831902
+Avatar URL: assets\93d5489f227e1c913d16cd0ff0335167-CC277.png
+Content: Can you get me a sign up link?
+--------------------
+
+--- Message ---
+Message ID: 1299794057014284360
+Message Type: Default
+Reply to: None
+Timestamp: 2024-10-26T17:57:32.198+00:00
+Author: Carmen (Triston) (GA) (spotifyllc)
+Author Id: 947516905386831902
+Avatar URL: assets\93d5489f227e1c913d16cd0ff0335167-CC277.png
+Content: For the training I mean
+--------------------
+
+--- Message ---
+Message ID: 1300192113627234417
+Message Type: Reply
+Reply to: 1299794057014284360
+Timestamp: 2024-10-27T20:19:16.29+00:00
+Author: Ophelia W • Lead Mod (opheliawild)
+Author Id: 957714233217409174
+Avatar URL: assets\8b706a86e5f9b8dcaaa950a7500b77b8-E1341.png
+Content: Last I heard, the Kamala's Captains training for the server is complete now. I'm sorry!
+--------------------
+
+--- Message ---
+Message ID: 1300305092745887786
+Message Type: Reply
+Reply to: 1300192113627234417
+Timestamp: 2024-10-28T03:48:12.611+00:00
+Author: Carmen (Triston) (GA) (spotifyllc)
+Author Id: 947516905386831902
+Avatar URL: assets\93d5489f227e1c913d16cd0ff0335167-CC277.png
+Content: Oh you’re fine!!
+--------------------
+
+--- Message ---
+Message ID: 1300305117639213086
+Message Type: Default
+Reply to: None
+Timestamp: 2024-10-28T03:48:18.546+00:00
+Author: Carmen (Triston) (GA) (spotifyllc)
+Author Id: 947516905386831902
+Avatar URL: assets\93d5489f227e1c913d16cd0ff0335167-CC277.png
+Content: Thanks for letting me know!
+--------------------
+
+--- Message ---
+Message ID: 1300314916498051103
+Message Type: Default
+Reply to: None
+Timestamp: 2024-10-28T04:27:14.776+00:00
+Author: Carolyn B [CA] • Lead Mod (carb.on)
+Author Id: 568257600228032512
+Avatar URL: assets\28a90c77b5793d80eb62484a43c66748-D8837.png
+Content: You are already trained so you should be able to participate. What kind of role are looking for, Chat Captain, Data Captain, or Facilitator?
+--------------------

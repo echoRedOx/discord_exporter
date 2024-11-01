@@ -1,0 +1,75 @@
+- author_avatar_url: assets\1-B2132.png
+  author_id: '1272416530390585447'
+  author_name: dayandnight25
+  author_nickname: David W [OR]
+  content: "How do I add an icon or avatar to my Discord profile so it\u2019s not\
+    \ just the \u201CDiscord guy\u201D or whatever that thing is? When I try, the\
+    \ system only lets me add an avatar if I sign up for paid Nitro which I don\u2019\
+    t want to do. I want a free avatar. Thanks."
+  id: '1281753227020468334'
+  ref_to: null
+  timestamp: '2024-09-06T23:09:43.145+00:00'
+  type: Default
+- author_avatar_url: assets\28a90c77b5793d80eb62484a43c66748-D8837.png
+  author_id: '568257600228032512'
+  author_name: carb.on
+  author_nickname: "Carolyn B [CA] \u2022 Lead Mod"
+  content: Hi <@1272416530390585447> I can help you with this. Click on your profile
+    then click on the discord guy then click edit profile then click on the discord
+    guy and you will see a pencil. This is on desktop. it is similar on mobile.
+  id: '1281758494483152958'
+  ref_to: null
+  timestamp: '2024-09-06T23:30:39.006+00:00'
+  type: Default
+- author_avatar_url: assets\1-B2132.png
+  author_id: '1272416530390585447'
+  author_name: dayandnight25
+  author_nickname: David W [OR]
+  content: "When I do this, I see three options: 1) upload image (from my photos)\
+    \ 2) get animated avatars, unlock with Nitro (which I don\u2019t want to subscribe\
+    \ to) 3) change decorations. Which option gets me free avatars? I\u2019m using\
+    \ an iPad."
+  id: '1281763770544291891'
+  ref_to: null
+  timestamp: '2024-09-06T23:51:36.917+00:00'
+  type: Default
+- author_avatar_url: assets\a9493779f6f0e06c0c98b2ddf25a0db5-17406.png
+  author_id: '430470599064682507'
+  author_name: msloki01
+  author_nickname: Frances Haydock [HQ Staff Alt]
+  content: "Your best best is to upload an image to replace the default discord image\
+    \ it gives you. I\u2019m not sure what you mean by free avatars, though."
+  id: '1281765795034304633'
+  ref_to: null
+  timestamp: '2024-09-06T23:59:39.593+00:00'
+  type: Default
+- author_avatar_url: assets\28a90c77b5793d80eb62484a43c66748-D8837.png
+  author_id: '568257600228032512'
+  author_name: carb.on
+  author_nickname: "Carolyn B [CA] \u2022 Lead Mod"
+  content: Hi <@1272416530390585447> the free option is "upload from your photos"
+  id: '1281766184844263455'
+  ref_to: '1281763770544291891'
+  timestamp: '2024-09-07T00:01:12.531+00:00'
+  type: Reply
+- author_avatar_url: assets\28a90c77b5793d80eb62484a43c66748-D8837.png
+  author_id: '568257600228032512'
+  author_name: carb.on
+  author_nickname: "Carolyn B [CA] \u2022 Lead Mod"
+  content: you can get/make free avatars by photographing or screenshotting something
+    on your device
+  id: '1281766489195806834'
+  ref_to: null
+  timestamp: '2024-09-07T00:02:25.094+00:00'
+  type: Default
+- author_avatar_url: assets\1-B2132.png
+  author_id: '1272416530390585447'
+  author_name: dayandnight25
+  author_nickname: David W [OR]
+  content: "Something like what you and Carolyn B have next to your name which doesn\u2019\
+    t require paid Nitro. Carolyn just clarified put something in my photo library\
+    \ and upload it (option 1). Thanks."
+  id: '1281766703667089419'
+  ref_to: null
+  timestamp: '2024-09-07T00:03:16.228+00:00'
+  type: Default

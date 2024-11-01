@@ -1,0 +1,38 @@
+Guild: Team Harris-Walz Virtual Office (ID: 1242249109298221066)
+Channel: Disregard - Hi it's been over 72 hours (ID: 1298064150018392146)
+Channel Topic: None
+Exported At: 2024-10-28T22:25:32.9349609+00:00
+
+
+--- Message ---
+Message ID: 1298071811740930153
+Message Type: 21
+Reply to: 1298064150018392146
+Timestamp: 2024-10-21T23:53:56.927+00:00
+Author: Roberta Bavin CA KC Greeter/Mod (roberta_24935)
+Author Id: 1269872908759597148
+Avatar URL: assets\df6d19d97b04a49ffcafbe7be14c7839-D9CE4.png
+Content: 
+--------------------
+
+--- Message ---
+Message ID: 1298071815494569994
+Message Type: Default
+Reply to: None
+Timestamp: 2024-10-21T23:53:57.822+00:00
+Author: Roberta Bavin CA KC Greeter/Mod (roberta_24935)
+Author Id: 1269872908759597148
+Avatar URL: assets\df6d19d97b04a49ffcafbe7be14c7839-D9CE4.png
+Content: Hi Evelyn! It looks like you got a DM 10/19. It's at left upper corner of Discord; can you see it? Thanks for following up!
+--------------------
+
+--- Message ---
+Message ID: 1298072158706077786
+Message Type: Default
+Reply to: None
+Timestamp: 2024-10-21T23:55:19.65+00:00
+Author: Evelyn Cabrera [HI] (nini_21764)
+Author Id: 1296251606345449498
+Avatar URL: assets\5-E9BDB.png
+Content: Yep, sorry I hadn't seen it. I just completed the sign up on Spoke.
+--------------------

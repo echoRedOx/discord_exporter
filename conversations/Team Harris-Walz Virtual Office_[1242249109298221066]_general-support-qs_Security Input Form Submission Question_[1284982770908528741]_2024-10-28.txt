@@ -1,0 +1,49 @@
+Guild: Team Harris-Walz Virtual Office (ID: 1242249109298221066)
+Channel: Security Input Form Submission Question (ID: 1284982770908528741)
+Channel Topic: None
+Exported At: 2024-10-28T20:03:00.6465735+00:00
+
+
+--- Message ---
+Message ID: 1284982770908528741
+Message Type: Default
+Reply to: None
+Timestamp: 2024-09-15T21:02:46.41+00:00
+Author: Kristine A [IL] (kristinera)
+Author Id: 1273772436340605002
+Avatar URL: assets\e781871ef0dde5d189740fcbf9d10a15-2B5F7.png
+Content: I was directed here - if this is not the correct location if you can direct me further? Question regarding new security measures submission form: I submitted the form for the Digital Correspondence team and realized I placed my handle vs. user name after submitted. I submitted the form again with the correct user name. Apologies and hope I did not mix things up but thought I should reach out to confirm. Thanks for your assistance!
+--------------------
+
+--- Message ---
+Message ID: 1284985755441037433
+Message Type: Default
+Reply to: None
+Timestamp: 2024-09-15T21:14:37.978+00:00
+Author: Carolyn B [CA] • Lead Mod (carb.on)
+Author Id: 568257600228032512
+Avatar URL: assets\28a90c77b5793d80eb62484a43c66748-D8837.png
+Content: <@1250157249352171604> or <@1261023537183981671>
+--------------------
+
+--- Message ---
+Message ID: 1285057119476781147
+Message Type: Reply
+Reply to: 1284982770908528741
+Timestamp: 2024-09-16T01:58:12.49+00:00
+Author: Katherine U [Email-Mod] [GA] (katherineunderwood)
+Author Id: 1255219043741204532
+Avatar URL: assets\78a349e0c09e5babd677770a8c5bb37b-E89FE.png
+Content: I let <@1250157249352171604> know. Will check in with her tomorrow.
+--------------------
+
+--- Message ---
+Message ID: 1285272483498299473
+Message Type: Default
+Reply to: None
+Timestamp: 2024-09-16T16:13:59.274+00:00
+Author: Krissie [Staff] (krissiepalomo)
+Author Id: 1250157249352171604
+Avatar URL: assets\61f1993fd6d452675c383bbf9e35e7b3-DB275.png
+Content: Thank you. There should be no problem here
+--------------------

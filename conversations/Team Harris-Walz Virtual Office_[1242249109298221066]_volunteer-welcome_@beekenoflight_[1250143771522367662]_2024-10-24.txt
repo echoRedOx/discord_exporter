@@ -1,0 +1,38 @@
+Guild: Team Harris-Walz Virtual Office (ID: 1242249109298221066)
+Channel: @beekenoflight (ID: 1250143771522367662)
+Channel Topic: None
+Exported At: 2024-10-24T06:17:20.8889912+00:00
+
+
+--- Message ---
+Message ID: 1250143976015527968
+Message Type: 21
+Reply to: 1250143771522367662
+Timestamp: 2024-06-11T17:45:50.434+00:00
+Author: demtortilla (demtortilla_60949)
+Author Id: 1242248892804763712
+Avatar URL: assets\a_c1a2d0423471e6287ce2d2c69bf8abe5-C5FA2.gif
+Content: 
+--------------------
+
+--- Message ---
+Message ID: 1250143981254344864
+Message Type: Default
+Reply to: None
+Timestamp: 2024-06-11T17:45:51.683+00:00
+Author: demtortilla (demtortilla_60949)
+Author Id: 1242248892804763712
+Avatar URL: assets\a_c1a2d0423471e6287ce2d2c69bf8abe5-C5FA2.gif
+Content: did you know, that you don't actually have to put (staff) on your name in discord? You can verify your identity with the moderators and get the appropriate role added to your name. It's like having a blue checkmark!
+--------------------
+
+--- Message ---
+Message ID: 1250144013307351181
+Message Type: Default
+Reply to: None
+Timestamp: 2024-06-11T17:45:59.325+00:00
+Author: demtortilla (demtortilla_60949)
+Author Id: 1242248892804763712
+Avatar URL: assets\a_c1a2d0423471e6287ce2d2c69bf8abe5-C5FA2.gif
+Content: also this message is a test of the threads
+--------------------

@@ -1,0 +1,27 @@
+Guild: Team Harris-Walz Virtual Office (ID: 1242249109298221066)
+Channel: Still waiting to be added to text team (ID: 1286393242128093184)
+Channel Topic: None
+Exported At: 2024-10-28T23:13:46.0442021+00:00
+
+
+--- Message ---
+Message ID: 1286406693969989683
+Message Type: 21
+Reply to: 1286393242128093184
+Timestamp: 2024-09-19T19:20:56.123+00:00
+Author: Roberta Bavin CA KC Greeter/Mod (roberta_24935)
+Author Id: 1269872908759597148
+Avatar URL: assets\df6d19d97b04a49ffcafbe7be14c7839-D9CE4.png
+Content: 
+--------------------
+
+--- Message ---
+Message ID: 1286406695328677911
+Message Type: Default
+Reply to: None
+Timestamp: 2024-09-19T19:20:56.447+00:00
+Author: Roberta Bavin CA KC Greeter/Mod (roberta_24935)
+Author Id: 1269872908759597148
+Avatar URL: assets\df6d19d97b04a49ffcafbe7be14c7839-D9CE4.png
+Content: Hi Jess! Please look for a DM from me in a few minutes. Thanks for checking in! <:thankyou:1252806147396735057>
+--------------------

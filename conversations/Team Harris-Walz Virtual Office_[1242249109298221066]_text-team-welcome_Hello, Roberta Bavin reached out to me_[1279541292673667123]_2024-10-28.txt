@@ -1,0 +1,49 @@
+Guild: Team Harris-Walz Virtual Office (ID: 1242249109298221066)
+Channel: Hello, Roberta Bavin reached out to me (ID: 1279541292673667123)
+Channel Topic: None
+Exported At: 2024-10-28T23:44:31.311237+00:00
+
+
+--- Message ---
+Message ID: 1279547674819035217
+Message Type: 21
+Reply to: 1279541292673667123
+Timestamp: 2024-08-31T21:05:38.523+00:00
+Author: Jack Joannides KC text admin (jjoannid)
+Author Id: 477560366432256000
+Avatar URL: assets\791c521e62160be1f3df04992f6e5470-36A38.png
+Content: 
+--------------------
+
+--- Message ---
+Message ID: 1279547675984920587
+Message Type: Default
+Reply to: None
+Timestamp: 2024-08-31T21:05:38.801+00:00
+Author: Jack Joannides KC text admin (jjoannid)
+Author Id: 477560366432256000
+Avatar URL: assets\791c521e62160be1f3df04992f6e5470-36A38.png
+Content: Let me check on this.
+--------------------
+
+--- Message ---
+Message ID: 1279548254639489125
+Message Type: Default
+Reply to: None
+Timestamp: 2024-08-31T21:07:56.763+00:00
+Author: Jack Joannides KC text admin (jjoannid)
+Author Id: 477560366432256000
+Avatar URL: assets\791c521e62160be1f3df04992f6e5470-36A38.png
+Content: Going to add you in an second. Since you're an slack texter.
+--------------------
+
+--- Message ---
+Message ID: 1279593058584760380
+Message Type: Default
+Reply to: None
+Timestamp: 2024-09-01T00:05:58.856+00:00
+Author: Ilona Kalisky (ilona_15123)
+Author Id: 1277011909534683251
+Avatar URL: assets\1-B2132.png
+Content: Thanks
+--------------------

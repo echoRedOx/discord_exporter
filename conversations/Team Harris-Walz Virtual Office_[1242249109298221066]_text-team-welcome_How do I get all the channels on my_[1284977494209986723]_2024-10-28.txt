@@ -1,0 +1,93 @@
+Guild: Team Harris-Walz Virtual Office (ID: 1242249109298221066)
+Channel: How do I get all the channels on my (ID: 1284977494209986723)
+Channel Topic: None
+Exported At: 2024-10-28T23:21:51.9837563+00:00
+
+
+--- Message ---
+Message ID: 1284988923948437565
+Message Type: 21
+Reply to: 1284977494209986723
+Timestamp: 2024-09-15T21:27:13.409+00:00
+Author: Roberta Bavin CA KC Greeter/Mod (roberta_24935)
+Author Id: 1269872908759597148
+Avatar URL: assets\df6d19d97b04a49ffcafbe7be14c7839-D9CE4.png
+Content: 
+--------------------
+
+--- Message ---
+Message ID: 1284988925424697528
+Message Type: Default
+Reply to: None
+Timestamp: 2024-09-15T21:27:13.761+00:00
+Author: Roberta Bavin CA KC Greeter/Mod (roberta_24935)
+Author Id: 1269872908759597148
+Avatar URL: assets\df6d19d97b04a49ffcafbe7be14c7839-D9CE4.png
+Content: Hi Marilyn-Have you tried logging out and back in; maybe restarting your computer? Thanks!
+--------------------
+
+--- Message ---
+Message ID: 1284991960805019730
+Message Type: Default
+Reply to: None
+Timestamp: 2024-09-15T21:39:17.452+00:00
+Author: Marilyn Stark (marilyns124)
+Author Id: 1256040697107189773
+Avatar URL: assets\2705511076d40adaf895701a64bd322b-288F0.png
+Content: Yes, I’ve done that
+--------------------
+
+--- Message ---
+Message ID: 1284993099600367637
+Message Type: Reply
+Reply to: 1284991960805019730
+Timestamp: 2024-09-15T21:43:48.962+00:00
+Author: Roberta Bavin CA KC Greeter/Mod (roberta_24935)
+Author Id: 1269872908759597148
+Avatar URL: assets\df6d19d97b04a49ffcafbe7be14c7839-D9CE4.png
+Content: I took you out of TextTeamNew and readded you, did that make a difference on your laptop?
+--------------------
+
+--- Message ---
+Message ID: 1284993381486821518
+Message Type: Default
+Reply to: None
+Timestamp: 2024-09-15T21:44:56.169+00:00
+Author: Roberta Bavin CA KC Greeter/Mod (roberta_24935)
+Author Id: 1269872908759597148
+Avatar URL: assets\df6d19d97b04a49ffcafbe7be14c7839-D9CE4.png
+Content: Next idea is to go into "Channels and Roles" on your laptop and go to Browse and make sure you are in all the channels there.
+--------------------
+
+--- Message ---
+Message ID: 1284994501168988261
+Message Type: Default
+Reply to: None
+Timestamp: 2024-09-15T21:49:23.122+00:00
+Author: Marilyn Stark (marilyns124)
+Author Id: 1256040697107189773
+Avatar URL: assets\2705511076d40adaf895701a64bd322b-288F0.png
+Content: That didn’t work and I actually don’t have channels and roles.
+--------------------
+
+--- Message ---
+Message ID: 1284994696883601420
+Message Type: Default
+Reply to: None
+Timestamp: 2024-09-15T21:50:09.784+00:00
+Author: Marilyn Stark (marilyns124)
+Author Id: 1256040697107189773
+Avatar URL: assets\2705511076d40adaf895701a64bd322b-288F0.png
+Content: I’m wondering if I need to uninstall it and start with a new invite for the Democrats server
+--------------------
+
+--- Message ---
+Message ID: 1284995181988286558
+Message Type: Default
+Reply to: None
+Timestamp: 2024-09-15T21:52:05.442+00:00
+Author: Roberta Bavin CA KC Greeter/Mod (roberta_24935)
+Author Id: 1269872908759597148
+Avatar URL: assets\df6d19d97b04a49ffcafbe7be14c7839-D9CE4.png
+Content: It should be near the top.
+--------------------

@@ -1,0 +1,27 @@
+Guild: Team Harris-Walz Virtual Office (ID: 1242249109298221066)
+Channel: I took the test last week and also did (ID: 1290015868897460266)
+Channel Topic: None
+Exported At: 2024-10-28T22:59:17.3604615+00:00
+
+
+--- Message ---
+Message ID: 1290017408521605230
+Message Type: 21
+Reply to: 1290015868897460266
+Timestamp: 2024-09-29T18:28:37.556+00:00
+Author: Andrew Martin [CA[ KC Text Admin (andrewjnla)
+Author Id: 932025725777743923
+Avatar URL: assets\8156a8c1e23069b2fac6bd70259a5ade-A321B.png
+Content: 
+--------------------
+
+--- Message ---
+Message ID: 1290017410581135500
+Message Type: Default
+Reply to: None
+Timestamp: 2024-09-29T18:28:38.047+00:00
+Author: Andrew Martin [CA[ KC Text Admin (andrewjnla)
+Author Id: 932025725777743923
+Avatar URL: assets\8156a8c1e23069b2fac6bd70259a5ade-A321B.png
+Content: Hi Pam - it looks like you're all set and in the texting channels already! Do you see a DM from Roberta with instructions on how to get started?
+--------------------

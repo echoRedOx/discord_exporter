@@ -1,0 +1,38 @@
+Guild: Team Harris-Walz Virtual Office (ID: 1242249109298221066)
+Channel: Daniel (ID: 1286931456324796428)
+Channel Topic: None
+Exported At: 2024-10-28T23:10:40.824583+00:00
+
+
+--- Message ---
+Message ID: 1287046125160894484
+Message Type: 21
+Reply to: 1286931456324796428
+Timestamp: 2024-09-21T13:41:48.399+00:00
+Author: Nicole Morris - Text Admin (nmorris237)
+Author Id: 935762347753103382
+Avatar URL: assets\27b1e286b65ae02b3378793b5f098411-A7B20.png
+Content: 
+--------------------
+
+--- Message ---
+Message ID: 1287046128000438302
+Message Type: Default
+Reply to: None
+Timestamp: 2024-09-21T13:41:49.076+00:00
+Author: Nicole Morris - Text Admin (nmorris237)
+Author Id: 935762347753103382
+Avatar URL: assets\27b1e286b65ae02b3378793b5f098411-A7B20.png
+Content: Hi <@1284647334889918619> Thanks! They can sign up here https://events.democrats.org/event/672393/
+--------------------
+
+--- Message ---
+Message ID: 1287116928728436830
+Message Type: Default
+Reply to: None
+Timestamp: 2024-09-21T18:23:09.285+00:00
+Author: Daniel Wise [OR] (danielw_30303)
+Author Id: 1284647334889918619
+Avatar URL: assets\1-B2132.png
+Content: Thanks. I passed it on.
+--------------------

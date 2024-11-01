@@ -1,0 +1,45 @@
+- author_avatar_url: assets\37de34190564f7c9acae5895cc884c8a-6F9C7.png
+  author_id: '869778676986814514'
+  author_name: jessica033389
+  author_nickname: Jessica Puchala (MD) [OE Lead]
+  content: ''
+  id: '1273798006298378291'
+  ref_to: '1273794249581793361'
+  timestamp: '2024-08-16T00:18:30.724+00:00'
+  type: '21'
+- author_avatar_url: assets\37de34190564f7c9acae5895cc884c8a-6F9C7.png
+  author_id: '869778676986814514'
+  author_name: jessica033389
+  author_nickname: Jessica Puchala (MD) [OE Lead]
+  content: 'Hi <@1123079657856716901>. If you mean this event: DNC Watch Party Host
+    Information Session, my calendar shows it starting at 9pm Eastern. I hope that
+    helps!'
+  id: '1273798007632166953'
+  ref_to: null
+  timestamp: '2024-08-16T00:18:31.042+00:00'
+  type: Default
+- author_avatar_url: assets\231a8bca8366f93c1d8d92a7400301fa-6102F.png
+  author_id: '1123079657856716901'
+  author_name: shelbilyn_953
+  author_nickname: ShelbiLyn (NY)
+  content: "I just saw your response. Thank you for reaching out to me. \U0001F60A\
+    \ I was in the Women for Harris-Waltz Pre-Convention Call. It was scheduled for\
+    \ 8pm but I was still waiting for it to load. Both the YouTube live stream link\
+    \ and the Zoom call were delayed and once they loaded it was five-ten minutes\
+    \ until I had sound.\n\nIs there another Party Host Information Session coming\
+    \ up? I missed the one last night but I'd like to host a watch party."
+  id: '1274000002422931487'
+  ref_to: null
+  timestamp: '2024-08-16T13:41:10.353+00:00'
+  type: Default
+- author_avatar_url: assets\37de34190564f7c9acae5895cc884c8a-6F9C7.png
+  author_id: '869778676986814514'
+  author_name: jessica033389
+  author_nickname: Jessica Puchala (MD) [OE Lead]
+  content: Hi. Just seeing your reply now. I hope you were able to make one of the
+    calls. If not,  you may be able to get party related support in <#1268992013840416879>.
+    Thanks for being a volunteer!
+  id: '1275935040634884218'
+  ref_to: '1274000002422931487'
+  timestamp: '2024-08-21T21:50:19.414+00:00'
+  type: Reply

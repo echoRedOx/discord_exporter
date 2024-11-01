@@ -1,0 +1,229 @@
+- author_avatar_url: assets\0-EB806.png
+  author_id: '1009873386190667866'
+  author_name: jaz6535
+  author_nickname: JAZ
+  content: Hello.  I am a retired Information Technology professional.  Are there
+    volunteer roles that would utilize my skills?  If so, how may I find out about
+    the specific opportunities?
+  id: '1278067120898310188'
+  ref_to: null
+  timestamp: '2024-08-27T19:02:26.961+00:00'
+  type: Default
+- author_avatar_url: assets\28a90c77b5793d80eb62484a43c66748-D8837.png
+  author_id: '568257600228032512'
+  author_name: carb.on
+  author_nickname: "Carolyn B [CA] \u2022 Lead Mod"
+  content: Hi <@1009873386190667866> I really appreciate your reaching out to share
+    your skills. I encourage you to attend one of the vote team trainings and then
+    volunteer to be a chat captain.
+  id: '1278073499705151561'
+  ref_to: null
+  timestamp: '2024-08-27T19:27:47.787+00:00'
+  type: Default
+- author_avatar_url: assets\a30e650576a6d42a3c9ee24648f67c90-2AE37.png
+  author_id: '791857656897732648'
+  author_name: rootsmusic
+  author_nickname: rootsmusic
+  content: '[Data Captain training](https://events.democrats.org/event/654890/)'
+  id: '1278074867480133687'
+  ref_to: '1278067120898310188'
+  timestamp: '2024-08-27T19:33:13.89+00:00'
+  type: Reply
+- author_avatar_url: assets\0-EB806.png
+  author_id: '911700060360818688'
+  author_name: .billh
+  author_nickname: billh
+  content: Put him on the problem of people trying to stay on their computer to call
+    people. They shouldn't have to disconnect and use their phones.
+  id: '1278080264249020579'
+  ref_to: '1278067120898310188'
+  timestamp: '2024-08-27T19:54:40.58+00:00'
+  type: Reply
+- author_avatar_url: assets\0-EB806.png
+  author_id: '1009873386190667866'
+  author_name: jaz6535
+  author_nickname: JAZ
+  content: Thank you for the replies.  I have signed up for the VOTE Team Data Captain
+    Training.
+  id: '1278095488486342797'
+  ref_to: '1278074867480133687'
+  timestamp: '2024-08-27T20:55:10.321+00:00'
+  type: Reply
+- author_avatar_url: assets\d1341d3c05d207da49a6fa548b4c1086-4BE71.png
+  author_id: '1267643778043482122'
+  author_name: hollymateluber
+  author_nickname: Holly Mate-Luber [Call Mod]
+  content: I was going to suggest data captain role here as well! Thanks
+  id: '1278103544427319388'
+  ref_to: null
+  timestamp: '2024-08-27T21:27:11.007+00:00'
+  type: Default
+- author_avatar_url: assets\6c5996770c985bcd6e5b68131ff2ba04-12302.png
+  author_id: '1254167148457103405'
+  author_name: rogue240933
+  author_nickname: Rogue24
+  content: What about someone myself who has other type of skills? I am working two
+    part time jobs one a library assistant and the other I work a non-profit organization
+    that parts with the IRS for the Vita program! I have experience using social media
+    like Facebook, twitter and I just register for Discord learning about it LinkedIn!
+  id: '1278151992975425599'
+  ref_to: null
+  timestamp: '2024-08-28T00:39:42.041+00:00'
+  type: Default
+- author_avatar_url: assets\54ff5e8dfab835d878a961f9f7b7d161-6C0EE.png
+  author_id: '1266879741785538682'
+  author_name: jean9_28218_79932
+  author_nickname: "Jeannine M \u2022 Lead Mod"
+  content: '<@1254167148457103405>  It sounds like you might really enjoy our [Online
+    Engagement Team training Part 1: Mapping Your Digital Communities](https://events.democrats.org/event/615101/)'
+  id: '1278197230720778240'
+  ref_to: null
+  timestamp: '2024-08-28T03:39:27.56+00:00'
+  type: Default
+- author_avatar_url: assets\14898a8002e4993a7f764b5b857d4efb-1E2DC.png
+  author_id: '891758018478366741'
+  author_name: ndru4617
+  author_nickname: nDru
+  content: Thanks <@791857656897732648>  I was hoping to do something other than banking
+    and canvassing, too. I will join my first data captain training in 2 hours. Thanks
+    again for the recommendation.
+  id: '1278469149177417750'
+  ref_to: null
+  timestamp: '2024-08-28T21:39:57.972+00:00'
+  type: Default
+- author_avatar_url: assets\6c5996770c985bcd6e5b68131ff2ba04-12302.png
+  author_id: '1254167148457103405'
+  author_name: rogue240933
+  author_nickname: Rogue24
+  content: <@1266879741785538682> thank you Jean I will definitely registered for
+    online engagement for part 1 and part 2
+  id: '1278493308964048897'
+  ref_to: null
+  timestamp: '2024-08-28T23:15:58.114+00:00'
+  type: Default
+- author_avatar_url: assets\6c5996770c985bcd6e5b68131ff2ba04-12302.png
+  author_id: '1254167148457103405'
+  author_name: rogue240933
+  author_nickname: Rogue24
+  content: <@1266879741785538682> this will be great to learn new skills to add to
+    my resume!
+  id: '1278493924222177343'
+  ref_to: null
+  timestamp: '2024-08-28T23:18:24.803+00:00'
+  type: Default
+- author_avatar_url: assets\54ff5e8dfab835d878a961f9f7b7d161-6C0EE.png
+  author_id: '1266879741785538682'
+  author_name: jean9_28218_79932
+  author_nickname: "Jeannine M \u2022 Lead Mod"
+  content: You're so welcome! Let us know if we can help you find other ways to get
+    involved, too. You're making a difference and we really appreciate it!
+  id: '1278497310996955187'
+  ref_to: '1278493924222177343'
+  timestamp: '2024-08-28T23:31:52.273+00:00'
+  type: Reply
+- author_avatar_url: assets\6c5996770c985bcd6e5b68131ff2ba04-12302.png
+  author_id: '1254167148457103405'
+  author_name: rogue240933
+  author_nickname: Rogue24
+  content: <@1266879741785538682> thank you Jean I am going to the Misinformation
+    training tomorrow right when I finish work 6-7 pm try to hop on zoom tomorrow
+  id: '1278504657609560116'
+  ref_to: null
+  timestamp: '2024-08-29T00:01:03.842+00:00'
+  type: Default
+- author_avatar_url: assets\6c5996770c985bcd6e5b68131ff2ba04-12302.png
+  author_id: '1254167148457103405'
+  author_name: rogue240933
+  author_nickname: Rogue24
+  content: <@1266879741785538682> Zoom on my iPhone
+  id: '1278504807358791734'
+  ref_to: null
+  timestamp: '2024-08-29T00:01:39.545+00:00'
+  type: Default
+- author_avatar_url: assets\6c5996770c985bcd6e5b68131ff2ba04-12302.png
+  author_id: '1254167148457103405'
+  author_name: rogue240933
+  author_nickname: Rogue24
+  content: <@1266879741785538682> my mistake it is 7-8 pm good!
+  id: '1278547405385629737'
+  ref_to: null
+  timestamp: '2024-08-29T02:50:55.706+00:00'
+  type: Default
+- author_avatar_url: assets\6c5996770c985bcd6e5b68131ff2ba04-12302.png
+  author_id: '1254167148457103405'
+  author_name: rogue240933
+  author_nickname: Rogue24
+  content: <@1266879741785538682> Jean is there another day for the misinformation
+    training I am not going make it on time took a little longer at work not making
+    it home on time for it!
+  id: '1278845136578543688'
+  ref_to: null
+  timestamp: '2024-08-29T22:34:00.354+00:00'
+  type: Default
+- author_avatar_url: assets\6c5996770c985bcd6e5b68131ff2ba04-12302.png
+  author_id: '1254167148457103405'
+  author_name: rogue240933
+  author_nickname: Rogue24
+  content: <@1266879741785538682> I did sign up for tiktok training for October
+  id: '1278845565651648615'
+  ref_to: null
+  timestamp: '2024-08-29T22:35:42.653+00:00'
+  type: Default
+- author_avatar_url: assets\6c5996770c985bcd6e5b68131ff2ba04-12302.png
+  author_id: '1254167148457103405'
+  author_name: rogue240933
+  author_nickname: Rogue24
+  content: <@1266879741785538682> two buses I missed!
+  id: '1278849540992139389'
+  ref_to: null
+  timestamp: '2024-08-29T22:51:30.448+00:00'
+  type: Default
+- author_avatar_url: assets\28a90c77b5793d80eb62484a43c66748-D8837.png
+  author_id: '568257600228032512'
+  author_name: carb.on
+  author_nickname: "Carolyn B [CA] \u2022 Lead Mod"
+  content: "There is one on Sept. 3. \nhttps://events.democrats.org/event/620800/"
+  id: '1278852362391261276'
+  ref_to: '1278845136578543688'
+  timestamp: '2024-08-29T23:02:43.122+00:00'
+  type: Reply
+- author_avatar_url: assets\28a90c77b5793d80eb62484a43c66748-D8837.png
+  author_id: '568257600228032512'
+  author_name: carb.on
+  author_nickname: "Carolyn B [CA] \u2022 Lead Mod"
+  content: 'There is also Tiktok on Sept. 10
+
+    https://events.democrats.org/event/634652/'
+  id: '1278852530889293846'
+  ref_to: null
+  timestamp: '2024-08-29T23:03:23.295+00:00'
+  type: Default
+- author_avatar_url: assets\6c5996770c985bcd6e5b68131ff2ba04-12302.png
+  author_id: '1254167148457103405'
+  author_name: rogue240933
+  author_nickname: Rogue24
+  content: <@568257600228032512> Thank you Carolyn one day is the September 3rd day
+    I have jury duty! Think on that one I appreciate it!
+  id: '1278853442927988778'
+  ref_to: null
+  timestamp: '2024-08-29T23:07:00.742+00:00'
+  type: Default
+- author_avatar_url: assets\28a90c77b5793d80eb62484a43c66748-D8837.png
+  author_id: '568257600228032512'
+  author_name: carb.on
+  author_nickname: "Carolyn B [CA] \u2022 Lead Mod"
+  content: Those are the ones on the schedule now. There may be more added to accommodate
+    the demand
+  id: '1278855737560400055'
+  ref_to: '1278853442927988778'
+  timestamp: '2024-08-29T23:16:07.825+00:00'
+  type: Reply
+- author_avatar_url: assets\6c5996770c985bcd6e5b68131ff2ba04-12302.png
+  author_id: '1254167148457103405'
+  author_name: rogue240933
+  author_nickname: Rogue24
+  content: <@568257600228032512> That will be great!
+  id: '1278856280647270401'
+  ref_to: null
+  timestamp: '2024-08-29T23:18:17.307+00:00'
+  type: Default

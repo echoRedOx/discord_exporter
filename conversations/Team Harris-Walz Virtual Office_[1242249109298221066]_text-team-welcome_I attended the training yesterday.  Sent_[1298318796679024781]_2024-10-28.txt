@@ -1,0 +1,27 @@
+Guild: Team Harris-Walz Virtual Office (ID: 1242249109298221066)
+Channel: I attended the training yesterday.  Sent (ID: 1298318796679024781)
+Channel Topic: None
+Exported At: 2024-10-28T22:23:32.9550614+00:00
+
+
+--- Message ---
+Message ID: 1298318991852572723
+Message Type: 21
+Reply to: 1298318796679024781
+Timestamp: 2024-10-22T16:16:09.258+00:00
+Author: Roberta Bavin CA KC Greeter/Mod (roberta_24935)
+Author Id: 1269872908759597148
+Avatar URL: assets\df6d19d97b04a49ffcafbe7be14c7839-D9CE4.png
+Content: 
+--------------------
+
+--- Message ---
+Message ID: 1298318995623121010
+Message Type: Default
+Reply to: None
+Timestamp: 2024-10-22T16:16:10.157+00:00
+Author: Roberta Bavin CA KC Greeter/Mod (roberta_24935)
+Author Id: 1269872908759597148
+Avatar URL: assets\df6d19d97b04a49ffcafbe7be14c7839-D9CE4.png
+Content: Hi <@1287937655731912775> Let me send you a DM to answer your question. <:thankyou:1252806147396735057>
+--------------------

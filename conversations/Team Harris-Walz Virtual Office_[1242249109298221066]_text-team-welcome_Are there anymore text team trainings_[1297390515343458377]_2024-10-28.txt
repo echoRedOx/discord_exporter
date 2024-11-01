@@ -1,0 +1,49 @@
+Guild: Team Harris-Walz Virtual Office (ID: 1242249109298221066)
+Channel: Are there anymore text team trainings (ID: 1297390515343458377)
+Channel Topic: None
+Exported At: 2024-10-28T22:26:30.8114022+00:00
+
+
+--- Message ---
+Message ID: 1297417258221436948
+Message Type: 21
+Reply to: 1297390515343458377
+Timestamp: 2024-10-20T04:32:59.207+00:00
+Author: Nicole Morris - Text Admin (nmorris237)
+Author Id: 935762347753103382
+Avatar URL: assets\27b1e286b65ae02b3378793b5f098411-A7B20.png
+Content: 
+--------------------
+
+--- Message ---
+Message ID: 1297417261883068468
+Message Type: Default
+Reply to: None
+Timestamp: 2024-10-20T04:33:00.08+00:00
+Author: Nicole Morris - Text Admin (nmorris237)
+Author Id: 935762347753103382
+Avatar URL: assets\27b1e286b65ae02b3378793b5f098411-A7B20.png
+Content: Hi Karin! Our text trainings have ended, but you can check out <#1268426751164551199>⁠ to look through or ask about other texting opportunities. You can also go to https://go.kamalaharris.com/ to find more ways to get involved. Thank you!
+--------------------
+
+--- Message ---
+Message ID: 1297989286204801127
+Message Type: Default
+Reply to: None
+Timestamp: 2024-10-21T18:26:01.306+00:00
+Author: Andrew Martin [CA[ KC Text Admin (andrewjnla)
+Author Id: 932025725777743923
+Avatar URL: assets\8156a8c1e23069b2fac6bd70259a5ade-A321B.png
+Content: Hi <@1097617161738002453> We just added one final training later today. Please join us if you can! https://events.democrats.org/event/715820/
+--------------------
+
+--- Message ---
+Message ID: 1298030122292609111
+Message Type: Default
+Reply to: None
+Timestamp: 2024-10-21T21:08:17.388+00:00
+Author: Karin James CA (marleysmommy)
+Author Id: 1097617161738002453
+Avatar URL: assets\5-E9BDB.png
+Content: Thank you! I just signed up!
+--------------------

@@ -1,0 +1,43 @@
+- author_avatar_url: assets\ce3882a42b0011362b6f403aa78dcbc2-C5246.png
+  author_id: '1266900496770400339'
+  author_name: alisonrempel
+  author_nickname: Alison Rempel
+  content: "Not entirely sure if this is a tech or discord question.  \nIn adding\
+    \ 2FA I had a glitch with my pw manager and have lost my discord pw and I can't\
+    \ change the pw without the current.  \nI tried logging in from my phone (on a\
+    \ Mac here) and the Authy app seemed to get me in, but not on any channels.  Team\
+    \ H-W shows up, but says I'm in a weird space with no channel access.  \n1) How\
+    \ do I get back on channels?\n2) How do I change my pw without a current one?"
+  id: '1280987618246660139'
+  ref_to: null
+  timestamp: '2024-09-04T20:27:27.789+00:00'
+  type: Default
+- author_avatar_url: assets\28a90c77b5793d80eb62484a43c66748-D8837.png
+  author_id: '568257600228032512'
+  author_name: carb.on
+  author_nickname: "Carolyn B [CA] \u2022 Lead Mod"
+  content: Hi <@1266900496770400339> oh dear! I am looking for a solution. Can you
+    try this https://support.discord.com/hc/en-us/articles/115001221072-Lost-Two-Factor-Codes
+  id: '1280994235591426119'
+  ref_to: null
+  timestamp: '2024-09-04T20:53:45.487+00:00'
+  type: Default
+- author_avatar_url: assets\ce3882a42b0011362b6f403aa78dcbc2-C5246.png
+  author_id: '1266900496770400339'
+  author_name: alisonrempel
+  author_nickname: Alison Rempel
+  content: My 2FA seems to be working, it's my pw that's lost to the ether gods.
+  id: '1280998519770976317'
+  ref_to: '1280994235591426119'
+  timestamp: '2024-09-04T21:10:46.915+00:00'
+  type: Reply
+- author_avatar_url: assets\ce3882a42b0011362b6f403aa78dcbc2-C5246.png
+  author_id: '1266900496770400339'
+  author_name: alisonrempel
+  author_nickname: Alison Rempel
+  content: "Oh wait...  my channels are back.  Yay. \nYou can close and lock this\
+    \ thread, which I still haven't figured out."
+  id: '1280999243460513924'
+  ref_to: '1280998519770976317'
+  timestamp: '2024-09-04T21:13:39.456+00:00'
+  type: Reply

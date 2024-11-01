@@ -1,0 +1,59 @@
+- author_avatar_url: assets\27b1e286b65ae02b3378793b5f098411-A7B20.png
+  author_id: '935762347753103382'
+  author_name: nmorris237
+  author_nickname: Nicole Morris - Text Admin
+  content: ''
+  id: '1282006904465260544'
+  ref_to: '1281728005210771508'
+  timestamp: '2024-09-07T15:57:44.561+00:00'
+  type: '21'
+- author_avatar_url: assets\27b1e286b65ae02b3378793b5f098411-A7B20.png
+  author_id: '935762347753103382'
+  author_name: nmorris237
+  author_nickname: Nicole Morris - Text Admin
+  content: Hi <@1279593928030556254> Thanks - have you completed a text training with
+    us?
+  id: '1282006906780647476'
+  ref_to: null
+  timestamp: '2024-09-07T15:57:45.113+00:00'
+  type: Default
+- author_avatar_url: assets\c82b3fa769ed6e6ffdea579381ed5f5c-2468B.png
+  author_id: '1279593928030556254'
+  author_name: '5024323912'
+  author_nickname: Michael Plumley
+  content: I have
+  id: '1282085026791555126'
+  ref_to: null
+  timestamp: '2024-09-07T21:08:10.375+00:00'
+  type: Default
+- author_avatar_url: assets\27b1e286b65ae02b3378793b5f098411-A7B20.png
+  author_id: '935762347753103382'
+  author_name: nmorris237
+  author_nickname: Nicole Morris - Text Admin
+  content: Thank you - please update your Discord name to be your first name/last
+    name, and give us ~72 hours after your text training. If it's been more than 72
+    hours, let us know.
+  id: '1282117852685533206'
+  ref_to: null
+  timestamp: '2024-09-07T23:18:36.678+00:00'
+  type: Default
+- author_avatar_url: assets\c82b3fa769ed6e6ffdea579381ed5f5c-2468B.png
+  author_id: '1279593928030556254'
+  author_name: '5024323912'
+  author_nickname: Michael Plumley
+  content: "Done. It\u2019s been over 72."
+  id: '1282334062358302722'
+  ref_to: null
+  timestamp: '2024-09-08T13:37:45.081+00:00'
+  type: Default
+- author_avatar_url: assets\27b1e286b65ae02b3378793b5f098411-A7B20.png
+  author_id: '935762347753103382'
+  author_name: nmorris237
+  author_nickname: Nicole Morris - Text Admin
+  content: Thanks! I believe <@932025725777743923> sent you a Direct Message on this
+    a few days ago. Please reply to him there (let us know if you don't see the message)
+    and he'll get you the next steps.
+  id: '1282368889929470086'
+  ref_to: null
+  timestamp: '2024-09-08T15:56:08.621+00:00'
+  type: Default

@@ -1,0 +1,129 @@
+- author_avatar_url: assets\791c521e62160be1f3df04992f6e5470-36A38.png
+  author_id: '477560366432256000'
+  author_name: jjoannid
+  author_nickname: Jack Joannides KC text admin
+  content: ''
+  id: '1287465777863200840'
+  ref_to: '1287465270251880489'
+  timestamp: '2024-09-22T17:29:21.4+00:00'
+  type: '21'
+- author_avatar_url: assets\791c521e62160be1f3df04992f6e5470-36A38.png
+  author_id: '477560366432256000'
+  author_name: jjoannid
+  author_nickname: Jack Joannides KC text admin
+  content: You'll get a direct message in 24-72 hours.
+  id: '1287465779964412056'
+  ref_to: null
+  timestamp: '2024-09-22T17:29:21.901+00:00'
+  type: Default
+- author_avatar_url: assets\5-E9BDB.png
+  author_id: '766511749486346242'
+  author_name: sharky051193
+  author_nickname: Andrew Rein Maryland
+  content: Cool, thanks for the update. Is there an option to get an email notice
+    of a dm? I am new to discord and don't really know how to use this com tool.
+  id: '1287466036555419721'
+  ref_to: null
+  timestamp: '2024-09-22T17:30:23.077+00:00'
+  type: Default
+- author_avatar_url: assets\791c521e62160be1f3df04992f6e5470-36A38.png
+  author_id: '477560366432256000'
+  author_name: jjoannid
+  author_nickname: Jack Joannides KC text admin
+  content: No.
+  id: '1287466325802877068'
+  ref_to: null
+  timestamp: '2024-09-22T17:31:32.039+00:00'
+  type: Default
+- author_avatar_url: assets\791c521e62160be1f3df04992f6e5470-36A38.png
+  author_id: '477560366432256000'
+  author_name: jjoannid
+  author_nickname: Jack Joannides KC text admin
+  content: Please update your display name so we can locate you easier.
+  id: '1287466426969358458'
+  ref_to: null
+  timestamp: '2024-09-22T17:31:56.159+00:00'
+  type: Default
+- author_avatar_url: assets\5-E9BDB.png
+  author_id: '766511749486346242'
+  author_name: sharky051193
+  author_nickname: Andrew Rein Maryland
+  content: I added my last name and state, is that what you mean?
+  id: '1287466751478468639'
+  ref_to: null
+  timestamp: '2024-09-22T17:33:13.528+00:00'
+  type: Default
+- author_avatar_url: assets\791c521e62160be1f3df04992f6e5470-36A38.png
+  author_id: '477560366432256000'
+  author_name: jjoannid
+  author_nickname: Jack Joannides KC text admin
+  content: Yep.
+  id: '1287468258563461130'
+  ref_to: null
+  timestamp: '2024-09-22T17:39:12.845+00:00'
+  type: Default
+- author_avatar_url: assets\5-E9BDB.png
+  author_id: '766511749486346242'
+  author_name: sharky051193
+  author_nickname: Andrew Rein Maryland
+  content: So I need to log into discord to check my dm in 24-72 hrs, is that correct?
+    Or is there some other way for me to find out I got a dm?
+  id: '1287471892252459152'
+  ref_to: null
+  timestamp: '2024-09-22T17:53:39.184+00:00'
+  type: Default
+- author_avatar_url: assets\791c521e62160be1f3df04992f6e5470-36A38.png
+  author_id: '477560366432256000'
+  author_name: jjoannid
+  author_nickname: Jack Joannides KC text admin
+  content: You would see a thing called message requests.
+  id: '1287472627895763034'
+  ref_to: null
+  timestamp: '2024-09-22T17:56:34.575+00:00'
+  type: Default
+- author_avatar_url: assets\5-E9BDB.png
+  author_id: '766511749486346242'
+  author_name: sharky051193
+  author_nickname: Andrew Rein Maryland
+  content: Where to look for that?
+  id: '1287472723844399215'
+  ref_to: null
+  timestamp: '2024-09-22T17:56:57.451+00:00'
+  type: Default
+- author_avatar_url: assets\791c521e62160be1f3df04992f6e5470-36A38.png
+  author_id: '477560366432256000'
+  author_name: jjoannid
+  author_nickname: Jack Joannides KC text admin
+  content: Near the gaming icon.
+  id: '1287473606883807334'
+  ref_to: null
+  timestamp: '2024-09-22T18:00:27.984+00:00'
+  type: Default
+- author_avatar_url: assets\5-E9BDB.png
+  author_id: '766511749486346242'
+  author_name: sharky051193
+  author_nickname: Andrew Rein Maryland
+  content: I don't know what that is
+  id: '1287473817161170945'
+  ref_to: null
+  timestamp: '2024-09-22T18:01:18.118+00:00'
+  type: Default
+- author_avatar_url: assets\791c521e62160be1f3df04992f6e5470-36A38.png
+  author_id: '477560366432256000'
+  author_name: jjoannid
+  author_nickname: Jack Joannides KC text admin
+  content: 'Here: https://support.discord.com/hc/en-us/articles/7924992471191-Message-Requests'
+  id: '1287475479225303103'
+  ref_to: null
+  timestamp: '2024-09-22T18:07:54.385+00:00'
+  type: Default
+- author_avatar_url: assets\5-E9BDB.png
+  author_id: '766511749486346242'
+  author_name: sharky051193
+  author_nickname: Andrew Rein Maryland
+  content: Thanks, as I said, new to discord. Seems like Slack to me, which I hated
+    when had to use it.
+  id: '1287476983084613644'
+  ref_to: null
+  timestamp: '2024-09-22T18:13:52.933+00:00'
+  type: Default

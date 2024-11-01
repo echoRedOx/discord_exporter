@@ -1,0 +1,38 @@
+Guild: Team Harris-Walz Virtual Office (ID: 1242249109298221066)
+Channel: Here’s a question for the online (ID: 1267461776333869161)
+Channel Topic: None
+Exported At: 2024-10-28T21:56:31.0021572+00:00
+
+
+--- Message ---
+Message ID: 1267839245184405507
+Message Type: 21
+Reply to: 1267461776333869161
+Timestamp: 2024-07-30T13:40:31.366+00:00
+Author: Christian Bosse (ch.bosse)
+Author Id: 1256039311367999658
+Avatar URL: assets\e940fcd0527f7edd98cdee8d31c08cc0-9A6CA.png
+Content: 
+--------------------
+
+--- Message ---
+Message ID: 1267839247336079510
+Message Type: Default
+Reply to: None
+Timestamp: 2024-07-30T13:40:31.879+00:00
+Author: Christian Bosse (ch.bosse)
+Author Id: 1256039311367999658
+Avatar URL: assets\e940fcd0527f7edd98cdee8d31c08cc0-9A6CA.png
+Content: Hi @Hawkbox. I think it's worth discussing that for adds, flyers, etc. For the Online Engagement content, i.e. the memes for Insta, Twitter, etc., in my eyes this is not always necessary. You're usually using your phone to look at them, so you don't need to scan a QR code to go to a website.
+--------------------
+
+--- Message ---
+Message ID: 1267839330131509249
+Message Type: Default
+Reply to: None
+Timestamp: 2024-07-30T13:40:51.619+00:00
+Author: Christian Bosse (ch.bosse)
+Author Id: 1256039311367999658
+Avatar URL: assets\e940fcd0527f7edd98cdee8d31c08cc0-9A6CA.png
+Content: But I agree, since the pandemic QR codes had a come back 🙂
+--------------------

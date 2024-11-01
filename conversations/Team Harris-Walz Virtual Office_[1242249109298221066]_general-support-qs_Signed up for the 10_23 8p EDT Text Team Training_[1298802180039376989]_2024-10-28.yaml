@@ -1,0 +1,141 @@
+- author_avatar_url: assets\2-ADBB4.png
+  author_id: '1290823299114471598'
+  author_name: megameg80_99605
+  author_nickname: Megan Dailor [NY]
+  content: I'm logged into the zoom call and it still hasn't started at 8:15. Should
+    I bail or is this normal?
+  id: '1298802180039376989'
+  ref_to: null
+  timestamp: '2024-10-24T00:16:10.299+00:00'
+  type: Default
+- author_avatar_url: assets\a_de0e3d4a3f9b486ad3ad6df0d72323da-D0252.gif
+  author_id: '112080668296564736'
+  author_name: kyaizen
+  author_nickname: "Jared R [CO] \u2022 Lead Mod"
+  content: I will flag the text team to see if they know what's going on, but staff
+    has been absolutely swarmed these last few days so it may just be a delay. Hang
+    tight!
+  id: '1298802431064281159'
+  ref_to: '1298802180039376989'
+  timestamp: '2024-10-24T00:17:10.148+00:00'
+  type: Reply
+- author_avatar_url: assets\2-ADBB4.png
+  author_id: '1290823299114471598'
+  author_name: megameg80_99605
+  author_nickname: Megan Dailor [NY]
+  content: Ok thanks!!
+  id: '1298802482272538755'
+  ref_to: null
+  timestamp: '2024-10-24T00:17:22.357+00:00'
+  type: Default
+- author_avatar_url: assets\a_de0e3d4a3f9b486ad3ad6df0d72323da-D0252.gif
+  author_id: '112080668296564736'
+  author_name: kyaizen
+  author_nickname: "Jared R [CO] \u2022 Lead Mod"
+  content: I flagged them but can you confirm which training you signed up for? Was
+    it the persuasion text team training?
+  id: '1298803607625400421'
+  ref_to: '1298802482272538755'
+  timestamp: '2024-10-24T00:21:50.662+00:00'
+  type: Reply
+- author_avatar_url: assets\2-ADBB4.png
+  author_id: '1290823299114471598'
+  author_name: megameg80_99605
+  author_nickname: Megan Dailor [NY]
+  content: "Sure: Harris For President Text Team\nView on Google Calendar\nWhen  \
+    \  Wed Oct 23, 2024 8pm \u2013 9pm (EDT)\nWhere    Virtual event\nWho    The Democratic\
+    \ National Committee*"
+  id: '1298803795937071195'
+  ref_to: null
+  timestamp: '2024-10-24T00:22:35.559+00:00'
+  type: Default
+- author_avatar_url: assets\a_de0e3d4a3f9b486ad3ad6df0d72323da-D0252.gif
+  author_id: '112080668296564736'
+  author_name: kyaizen
+  author_nickname: "Jared R [CO] \u2022 Lead Mod"
+  content: Strange, I'm not seeing this event on my end. Do you remember when you
+    signed up for it?
+  id: '1298804169481654314'
+  ref_to: '1298803795937071195'
+  timestamp: '2024-10-24T00:24:04.619+00:00'
+  type: Reply
+- author_avatar_url: assets\2-ADBB4.png
+  author_id: '1290823299114471598'
+  author_name: megameg80_99605
+  author_nickname: Megan Dailor [NY]
+  content: "Weird! I signed up for it at like 7:45 so not a ton of notice lol \nhttps://events.democrats.org/event/654680/"
+  id: '1298804589973213245'
+  ref_to: null
+  timestamp: '2024-10-24T00:25:44.872+00:00'
+  type: Default
+- author_avatar_url: assets\a_de0e3d4a3f9b486ad3ad6df0d72323da-D0252.gif
+  author_id: '112080668296564736'
+  author_name: kyaizen
+  author_nickname: "Jared R [CO] \u2022 Lead Mod"
+  content: Trying to get to the bottom of this. Just to make sure, nothing has started
+    and does it show "waiting for host to join"?
+  id: '1298805500225261699'
+  ref_to: '1298804589973213245'
+  timestamp: '2024-10-24T00:29:21.893+00:00'
+  type: Reply
+- author_avatar_url: assets\2-ADBB4.png
+  author_id: '1290823299114471598'
+  author_name: megameg80_99605
+  author_nickname: Megan Dailor [NY]
+  content: Correct, nothing has started and "waiting for host to start meeting"
+  id: '1298805628663238679'
+  ref_to: null
+  timestamp: '2024-10-24T00:29:52.515+00:00'
+  type: Default
+- author_avatar_url: assets\2-ADBB4.png
+  author_id: '1290823299114471598'
+  author_name: megameg80_99605
+  author_nickname: Megan Dailor [NY]
+  content: If there's another one soon I can join that's fine, if you have a link!
+  id: '1298805775384317985'
+  ref_to: null
+  timestamp: '2024-10-24T00:30:27.496+00:00'
+  type: Default
+- author_avatar_url: assets\a_de0e3d4a3f9b486ad3ad6df0d72323da-D0252.gif
+  author_id: '112080668296564736'
+  author_name: kyaizen
+  author_nickname: "Jared R [CO] \u2022 Lead Mod"
+  content: 'After doing some digging, there seems to have been an error with Mobilize.
+    The text team is no longer doing any training. That said, there is a new text-based
+    team called the Persuasion text team that IS offering training. You can even do
+    this one on-demand if you''d like, although they do have trainings on Zoom as
+    well to sign up for. Check out this channel if you''re interested: https://discord.com/channels/1242249109298221066/1298623273566732300'
+  id: '1298806374955876363'
+  ref_to: '1298805775384317985'
+  timestamp: '2024-10-24T00:32:50.445+00:00'
+  type: Reply
+- author_avatar_url: assets\2-ADBB4.png
+  author_id: '1290823299114471598'
+  author_name: megameg80_99605
+  author_nickname: Megan Dailor [NY]
+  content: "Ok! Thanks for figuring it out! I'll go do the on demand one, thank you\
+    \ \U0001F642"
+  id: '1298806551687073832'
+  ref_to: null
+  timestamp: '2024-10-24T00:33:32.581+00:00'
+  type: Default
+- author_avatar_url: assets\a_de0e3d4a3f9b486ad3ad6df0d72323da-D0252.gif
+  author_id: '112080668296564736'
+  author_name: kyaizen
+  author_nickname: "Jared R [CO] \u2022 Lead Mod"
+  content: Thank YOU and so sorry for the mixup and wasted time on your end. Appreciate
+    you being here and I'll see you over there!
+  id: '1298806687989366845'
+  ref_to: '1298806551687073832'
+  timestamp: '2024-10-24T00:34:05.078+00:00'
+  type: Reply
+- author_avatar_url: assets\2-ADBB4.png
+  author_id: '1290823299114471598'
+  author_name: megameg80_99605
+  author_nickname: Megan Dailor [NY]
+  content: "No worries, I still got some work done while waiting! Excited to persuade\
+    \ some folks \U0001F642"
+  id: '1298806923247751249'
+  ref_to: null
+  timestamp: '2024-10-24T00:35:01.168+00:00'
+  type: Default

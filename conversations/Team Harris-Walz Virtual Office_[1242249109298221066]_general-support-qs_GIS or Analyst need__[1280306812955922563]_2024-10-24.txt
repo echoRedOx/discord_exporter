@@ -1,0 +1,27 @@
+Guild: Team Harris-Walz Virtual Office (ID: 1242249109298221066)
+Channel: GIS or Analyst need? (ID: 1280306812955922563)
+Channel Topic: None
+Exported At: 2024-10-24T06:47:00.6935469+00:00
+
+
+--- Message ---
+Message ID: 1280306812955922563
+Message Type: Default
+Reply to: None
+Timestamp: 2024-09-02T23:22:11.159+00:00
+Author: rebeccakelly (rebeccakelly)
+Author Id: 1068683608774148096
+Avatar URL: assets\c82b3fa769ed6e6ffdea579381ed5f5c-DCA9A.png
+Content: Hi, 20 years as a GIS demographer and analyst. Spent time at ESRI. Is there a need in the campaign for an additional researcher or support analyst?
+--------------------
+
+--- Message ---
+Message ID: 1280313023751520337
+Message Type: Default
+Reply to: None
+Timestamp: 2024-09-02T23:46:51.928+00:00
+Author: Carolyn B [CA] • Lead Mod (carb.on)
+Author Id: 568257600228032512
+Avatar URL: assets\28a90c77b5793d80eb62484a43c66748-D8837.png
+Content: Hi <@1068683608774148096> those are great skills to have. While we don't do GIS analysis as part of our outreach in this virutual field office. You might be able to apply your skills in an Analytics role at the national campaign https://kamalaharris.com/work-with-us/
+--------------------

@@ -1,0 +1,38 @@
+Guild: Team Harris-Walz Virtual Office (ID: 1242249109298221066)
+Channel: Very nice. Thank you! 🙏 (ID: 1275564121030656001)
+Channel Topic: None
+Exported At: 2024-10-24T13:00:44.9815452+00:00
+
+
+--- Message ---
+Message ID: 1275565039977496576
+Message Type: 21
+Reply to: 1275564121030656001
+Timestamp: 2024-08-20T21:20:04.383+00:00
+Author: Travis ST (CA) [Creator] (happilybeardedafter)
+Author Id: 908540464280510494
+Avatar URL: assets\068a49d2f301a26cea5f4d4f99596745-F33C7.png
+Content: 
+--------------------
+
+--- Message ---
+Message ID: 1275565041675927673
+Message Type: Default
+Reply to: None
+Timestamp: 2024-08-20T21:20:04.788+00:00
+Author: Travis ST (CA) [Creator] (happilybeardedafter)
+Author Id: 908540464280510494
+Avatar URL: assets\068a49d2f301a26cea5f4d4f99596745-F33C7.png
+Content: You're very welcome! If there's something specific you want, let me know and I can throw if together. 🙂
+--------------------
+
+--- Message ---
+Message ID: 1275587835872804875
+Message Type: Default
+Reply to: None
+Timestamp: 2024-08-20T22:50:39.348+00:00
+Author: Gina Turone (ginaturone)
+Author Id: 779382569534881824
+Avatar URL: assets\90595ea07dd349adc8ba22cb8d2f8a14-00AFD.png
+Content: Awesome. Thanks!
+--------------------

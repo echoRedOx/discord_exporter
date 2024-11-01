@@ -1,0 +1,29 @@
+- author_avatar_url: assets\27b1e286b65ae02b3378793b5f098411-A7B20.png
+  author_id: '935762347753103382'
+  author_name: nmorris237
+  author_nickname: Nicole Morris - Text Admin
+  content: ''
+  id: '1294505848114249763'
+  ref_to: '1294477855077699686'
+  timestamp: '2024-10-12T03:44:04.946+00:00'
+  type: '21'
+- author_avatar_url: assets\27b1e286b65ae02b3378793b5f098411-A7B20.png
+  author_id: '935762347753103382'
+  author_name: nmorris237
+  author_nickname: Nicole Morris - Text Admin
+  content: Hi Mo - thanks! I believe Roberta sent you a Direct Message -- let me know
+    if you don't see it!
+  id: '1294505850819317791'
+  ref_to: null
+  timestamp: '2024-10-12T03:44:05.591+00:00'
+  type: Default
+- author_avatar_url: assets\27b1e286b65ae02b3378793b5f098411-A7B20.png
+  author_id: '935762347753103382'
+  author_name: nmorris237
+  author_nickname: Nicole Morris - Text Admin
+  content: <@1291520387334541312> nevermind - I see you replied my thread message.
+    We can chat there! I'll respond to you now.
+  id: '1294506142990471170'
+  ref_to: null
+  timestamp: '2024-10-12T03:45:15.25+00:00'
+  type: Default

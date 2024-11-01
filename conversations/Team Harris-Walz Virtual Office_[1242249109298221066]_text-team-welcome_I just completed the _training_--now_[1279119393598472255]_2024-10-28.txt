@@ -1,0 +1,82 @@
+Guild: Team Harris-Walz Virtual Office (ID: 1242249109298221066)
+Channel: I just completed the "training"--now (ID: 1279119393598472255)
+Channel Topic: None
+Exported At: 2024-10-28T23:48:30.2561749+00:00
+
+
+--- Message ---
+Message ID: 1279120422348132524
+Message Type: 21
+Reply to: 1279119393598472255
+Timestamp: 2024-08-30T16:47:53.596+00:00
+Author: Jack Joannides KC text admin (jjoannid)
+Author Id: 477560366432256000
+Avatar URL: assets\791c521e62160be1f3df04992f6e5470-36A38.png
+Content: 
+--------------------
+
+--- Message ---
+Message ID: 1279120423812071504
+Message Type: Default
+Reply to: None
+Timestamp: 2024-08-30T16:47:53.945+00:00
+Author: Jack Joannides KC text admin (jjoannid)
+Author Id: 477560366432256000
+Avatar URL: assets\791c521e62160be1f3df04992f6e5470-36A38.png
+Content: This has been in the works for the past few months actually. And we've been texting on discord for an month actually.
+--------------------
+
+--- Message ---
+Message ID: 1279128960407572552
+Message Type: Default
+Reply to: None
+Timestamp: 2024-08-30T17:21:49.228+00:00
+Author: Judy Weatherly (judyweatherlyca)
+Author Id: 1273821264812703781
+Avatar URL: assets\855a71029592a69e643131b93058f786-B4A16.png
+Content: So, are you saying that Discord is a texting tool like Spoke. Does that mean we won't be using Spoke? Sorry, but I've been texting since 2015 and I find this timing and training confusing.
+--------------------
+
+--- Message ---
+Message ID: 1279129402977812561
+Message Type: Default
+Reply to: None
+Timestamp: 2024-08-30T17:23:34.745+00:00
+Author: Jack Joannides KC text admin (jjoannid)
+Author Id: 477560366432256000
+Avatar URL: assets\791c521e62160be1f3df04992f6e5470-36A38.png
+Content: We don't use discord to text. Discord is like slack.
+--------------------
+
+--- Message ---
+Message ID: 1279129999743389788
+Message Type: Default
+Reply to: None
+Timestamp: 2024-08-30T17:25:57.025+00:00
+Author: Judy Weatherly (judyweatherlyca)
+Author Id: 1273821264812703781
+Avatar URL: assets\855a71029592a69e643131b93058f786-B4A16.png
+Content: You said in your response "we've been texting on discord for an month actually." Confusion here.
+--------------------
+
+--- Message ---
+Message ID: 1279130182074110065
+Message Type: Default
+Reply to: None
+Timestamp: 2024-08-30T17:26:40.496+00:00
+Author: Jack Joannides KC text admin (jjoannid)
+Author Id: 477560366432256000
+Avatar URL: assets\791c521e62160be1f3df04992f6e5470-36A38.png
+Content: We've been posting texting campaigns on here for an Month basically. Well a little less then that. But close to.
+--------------------
+
+--- Message ---
+Message ID: 1279130765980073984
+Message Type: Default
+Reply to: None
+Timestamp: 2024-08-30T17:28:59.71+00:00
+Author: Judy Weatherly (judyweatherlyca)
+Author Id: 1273821264812703781
+Avatar URL: assets\855a71029592a69e643131b93058f786-B4A16.png
+Content: Let's hope I can get over myself cuz it's pretty weird for me and my wife and we've been doing this since the beginning. I'll check in when my frustrations settle down. Thanks for engaging! Have a good day!
+--------------------

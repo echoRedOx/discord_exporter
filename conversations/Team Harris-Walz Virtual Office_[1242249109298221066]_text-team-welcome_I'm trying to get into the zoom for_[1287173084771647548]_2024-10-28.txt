@@ -1,0 +1,49 @@
+Guild: Team Harris-Walz Virtual Office (ID: 1242249109298221066)
+Channel: I'm trying to get into the zoom for (ID: 1287173084771647548)
+Channel Topic: None
+Exported At: 2024-10-28T23:09:40.0051535+00:00
+
+
+--- Message ---
+Message ID: 1287173252992602133
+Message Type: 21
+Reply to: 1287173084771647548
+Timestamp: 2024-09-21T22:06:58.036+00:00
+Author: Jack Joannides KC text admin (jjoannid)
+Author Id: 477560366432256000
+Avatar URL: assets\791c521e62160be1f3df04992f6e5470-36A38.png
+Content: 
+--------------------
+
+--- Message ---
+Message ID: 1287173254578044990
+Message Type: Default
+Reply to: None
+Timestamp: 2024-09-21T22:06:58.414+00:00
+Author: Jack Joannides KC text admin (jjoannid)
+Author Id: 477560366432256000
+Avatar URL: assets\791c521e62160be1f3df04992f6e5470-36A38.png
+Content: You can sign up for another training. I know we hve had that issue. But just create an zoom account or is that not the issue.
+--------------------
+
+--- Message ---
+Message ID: 1287175618882043914
+Message Type: Default
+Reply to: None
+Timestamp: 2024-09-21T22:16:22.108+00:00
+Author: Amber Johnson OR (knitting_catlady)
+Author Id: 1284558907229999177
+Avatar URL: assets\4-4551A.png
+Content: I got it after resetting a password
+--------------------
+
+--- Message ---
+Message ID: 1287175801942577164
+Message Type: Default
+Reply to: None
+Timestamp: 2024-09-21T22:17:05.753+00:00
+Author: Jack Joannides KC text admin (jjoannid)
+Author Id: 477560366432256000
+Avatar URL: assets\791c521e62160be1f3df04992f6e5470-36A38.png
+Content: Great.
+--------------------

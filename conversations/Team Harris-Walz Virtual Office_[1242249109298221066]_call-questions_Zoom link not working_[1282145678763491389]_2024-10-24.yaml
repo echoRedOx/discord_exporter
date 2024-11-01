@@ -1,0 +1,35 @@
+- author_avatar_url: assets\6c5996770c985bcd6e5b68131ff2ba04-FCB01.png
+  author_id: '1282131456994574370'
+  author_name: patricia4democracy
+  author_nickname: Patricia
+  content: "I just finished up a Welcome Zoom meeting - the link that was shared to\
+    \ join a phone bank is not working - I keep getting a message stating that I have\
+    \ to log in via my commercial Zoom account.\nThis is the link that I was given:\n\
+    \nStephen Bronskill (Harris for President): \U0001F4DEJoin today\u2019s 9pm ET\
+    \ Phone Bank shift: https://democrats.zoom.us/j/95357918984?pwd=gGpGUPc6ZpbB8A7XyhrsQMSswpF2eq.1\n\
+    \nWould someone please tell me where I can find a link that will let me join?\
+    \ Thank you!"
+  id: '1282145678763491389'
+  ref_to: null
+  timestamp: '2024-09-08T01:09:10.932+00:00'
+  type: Default
+- author_avatar_url: assets\5fde485e55d806d8356ca6e7e08f1f48-77A19.png
+  author_id: '1266903666879627274'
+  author_name: larrya._98544
+  author_nickname: Larry Ahlgrim (VA) [Call Mod]
+  content: That was the correct link. You do have to create a Zoom Workplace account
+    and log into it to get into the Zoom Phone Bank. The Zoom Workplace account is
+    free.
+  id: '1282353711599063193'
+  ref_to: '1282145678763491389'
+  timestamp: '2024-09-08T14:55:49.825+00:00'
+  type: Reply
+- author_avatar_url: assets\6c5996770c985bcd6e5b68131ff2ba04-FCB01.png
+  author_id: '1282131456994574370'
+  author_name: patricia4democracy
+  author_nickname: Patricia
+  content: Thanks for the info! I will be ready for next time!
+  id: '1282384347000868998'
+  ref_to: '1282353711599063193'
+  timestamp: '2024-09-08T16:57:33.874+00:00'
+  type: Reply

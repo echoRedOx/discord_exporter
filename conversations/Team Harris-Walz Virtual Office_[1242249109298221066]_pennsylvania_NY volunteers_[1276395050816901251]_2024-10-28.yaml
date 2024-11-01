@@ -1,0 +1,29 @@
+- author_avatar_url: assets\a30e650576a6d42a3c9ee24648f67c90-2AE37.png
+  author_id: '791857656897732648'
+  author_name: rootsmusic
+  author_nickname: rootsmusic
+  content: ''
+  id: '1280945172254953524'
+  ref_to: '1276395050816901251'
+  timestamp: '2024-09-04T17:38:47.876+00:00'
+  type: '21'
+- author_avatar_url: assets\a30e650576a6d42a3c9ee24648f67c90-2AE37.png
+  author_id: '791857656897732648'
+  author_name: rootsmusic
+  author_nickname: rootsmusic
+  content: '[NYC buses](https://votebluenyc.org/topics/2024/09/12/bus-schedule.html)
+    for canvassing <@260982275506700288> <@1121930851106701382> <@1275554237870247947>'
+  id: '1280945174217883749'
+  ref_to: null
+  timestamp: '2024-09-04T17:38:48.344+00:00'
+  type: Default
+- author_avatar_url: assets\a30e650576a6d42a3c9ee24648f67c90-2AE37.png
+  author_id: '791857656897732648'
+  author_name: rootsmusic
+  author_nickname: rootsmusic
+  content: <@1275554237870247947> Voter registration in [Philly/Bucks county or NY-19](https://swingbluealliance.org/canvassing/)
+    but week-long.  See above for single-day canvassing.
+  id: '1281454657989902367'
+  ref_to: null
+  timestamp: '2024-09-06T03:23:18.741+00:00'
+  type: Default

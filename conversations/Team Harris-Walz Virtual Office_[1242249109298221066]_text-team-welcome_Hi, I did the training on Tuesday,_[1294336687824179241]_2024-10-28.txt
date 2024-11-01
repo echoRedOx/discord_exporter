@@ -1,0 +1,27 @@
+Guild: Team Harris-Walz Virtual Office (ID: 1242249109298221066)
+Channel: Hi, I did the training on Tuesday, (ID: 1294336687824179241)
+Channel Topic: None
+Exported At: 2024-10-28T22:43:58.6450828+00:00
+
+
+--- Message ---
+Message ID: 1294368411358597290
+Message Type: 21
+Reply to: 1294336687824179241
+Timestamp: 2024-10-11T18:37:57.47+00:00
+Author: Roberta Bavin CA KC Greeter/Mod (roberta_24935)
+Author Id: 1269872908759597148
+Avatar URL: assets\df6d19d97b04a49ffcafbe7be14c7839-D9CE4.png
+Content: 
+--------------------
+
+--- Message ---
+Message ID: 1294368414650990693
+Message Type: Default
+Reply to: None
+Timestamp: 2024-10-11T18:37:58.255+00:00
+Author: Roberta Bavin CA KC Greeter/Mod (roberta_24935)
+Author Id: 1269872908759597148
+Avatar URL: assets\df6d19d97b04a49ffcafbe7be14c7839-D9CE4.png
+Content: Hi <@1288224878004011164> Thanks for reaching out! Please check your DM for a message from Andrew on 10/8. <:thankyou:1252806147396735057>
+--------------------

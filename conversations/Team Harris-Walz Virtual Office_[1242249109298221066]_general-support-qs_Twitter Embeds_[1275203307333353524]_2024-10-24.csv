@@ -1,0 +1,18 @@
+id,type,ref_to,timestamp,author_name,author_nickname,author_id,author_avatar_url,content
+1275203307333353524,Default,,2024-08-19T21:22:40.6+00:00,kutiekatelyn,KutieKatelyn,191632562483888129,assets\abdbf56a6962efc4b9f14a616f125b4f-00BB4.png,"This is more of a general tip for the moderation team to maybe adjust the bot and for any users posting Twitter videos because not everyone can watch videos on Twitter:
+
+- Add ""fixv"" in front of x.com to make videos show up on Discord directly
+- Add ""vx"" in front of twitter.com to make videos show up on Discore directly"
+1275203751359156234,Default,,2024-08-19T21:24:26.464+00:00,kutiekatelyn,KutieKatelyn,191632562483888129,assets\abdbf56a6962efc4b9f14a616f125b4f-00BB4.png,"Example:
+
+https://fixvx.com/KamalaHQ/status/1825639672283811907
+
+https://vxtwitter.com/KamalaHQ/status/1825578805009719777"
+1275207395659878421,Default,,2024-08-19T21:38:55.333+00:00,carb.on,Carolyn B [CA] • Lead Mod,568257600228032512,assets\28a90c77b5793d80eb62484a43c66748-D8837.png,"Hi <@191632562483888129> TY this is a really nice tip. I don't know if we can automate it tho. We have a simple setup, folks just paste links and Discord does it's thing. I will look into it."
+1275208609508360382,Default,,2024-08-19T21:43:44.737+00:00,egallager,Eric Gallager (NH02),379278050212315148,assets\3455937c80f8c69cd430cbb4f671a3ab-A02E8.png,yeah there are lots of these sorts of link fixers; I'm also aware of fixupx for x and fxtwitter for twitter
+1275209280093683845,Default,,2024-08-19T21:46:24.617+00:00,egallager,Eric Gallager (NH02),379278050212315148,assets\3455937c80f8c69cd430cbb4f671a3ab-A02E8.png,"also for other sites: ddinstagram for instagram, cbsky for bsky, and vxtiktok for tiktok"
+1275213715213647923,Default,,2024-08-19T22:04:02.032+00:00,carb.on,Carolyn B [CA] • Lead Mod,568257600228032512,assets\28a90c77b5793d80eb62484a43c66748-D8837.png,Right. We want to avoid adding too much external elements because they don't aways play well together.
+1275216233960177789,Reply,1275208609508360382,2024-08-19T22:14:02.548+00:00,rootsmusic,rootsmusic,791857656897732648,assets\a30e650576a6d42a3c9ee24648f67c90-2AE37.png,Is there a fix for showing a post's preview instead of a FB login?
+1275216339027497066,Default,,2024-08-19T22:14:27.598+00:00,egallager,Eric Gallager (NH02),379278050212315148,assets\3455937c80f8c69cd430cbb4f671a3ab-A02E8.png,I haven't come across one of those yet
+1276580503851372584,Reply,1275207395659878421,2024-08-23T16:35:09.837+00:00,rootsmusic,rootsmusic,791857656897732648,assets\a30e650576a6d42a3c9ee24648f67c90-2AE37.png,"Not a good idea, because the OE Team's mission is to amplify OFF-Discord.  While these fixers embed videos in Discord, volunteers will copy the ""fixed"" URL to paste into another platform where those fixers may break the pasted video."
+1276581233136107570,Reply,1276580503851372584,2024-08-23T16:38:03.712+00:00,carb.on,Carolyn B [CA] • Lead Mod,568257600228032512,assets\28a90c77b5793d80eb62484a43c66748-D8837.png,Good to know. We will continue to supporting the existing method for sharing videos.

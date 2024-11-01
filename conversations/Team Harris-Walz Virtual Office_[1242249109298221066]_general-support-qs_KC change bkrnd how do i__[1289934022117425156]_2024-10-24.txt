@@ -1,0 +1,49 @@
+Guild: Team Harris-Walz Virtual Office (ID: 1242249109298221066)
+Channel: KC change bkrnd how do i? (ID: 1289934022117425156)
+Channel Topic: None
+Exported At: 2024-10-24T06:30:36.9324371+00:00
+
+
+--- Message ---
+Message ID: 1289934022117425156
+Message Type: Default
+Reply to: None
+Timestamp: 2024-09-29T12:57:16.688+00:00
+Author: Dennis (denniscassidy1)
+Author Id: 1277646444953866395
+Avatar URL: assets\2-ADBB4.png
+Content: help
+--------------------
+
+--- Message ---
+Message ID: 1289946766254280755
+Message Type: Default
+Reply to: None
+Timestamp: 2024-09-29T13:47:55.127+00:00
+Author: Gail Levine CA (CALL Mod D.C.) (gail_13473)
+Author Id: 1266903886434799708
+Avatar URL: assets\9a73536ac815ab8b7516ce92a4c36681-C7CBF.png
+Content: Dennis, if you want to change your Zoom background, hover over the three dots in the upper right hand corner of your picture and choose the option you want.  I will leave your question up in case you are looking for other types of help.  Thank you for being here!
+--------------------
+
+--- Message ---
+Message ID: 1289969492117688420
+Message Type: Default
+Reply to: None
+Timestamp: 2024-09-29T15:18:13.395+00:00
+Author: Carolyn B [CA] • Lead Mod (carb.on)
+Author Id: 568257600228032512
+Avatar URL: assets\28a90c77b5793d80eb62484a43c66748-D8837.png
+Content: Change zoom background by clicking the  ^ next to the Video button on the toolbar.
+--------------------
+
+--- Message ---
+Message ID: 1290316885232975873
+Message Type: Default
+Reply to: None
+Timestamp: 2024-09-30T14:18:38.368+00:00
+Author: Gail Levine CA (CALL Mod D.C.) (gail_13473)
+Author Id: 1266903886434799708
+Avatar URL: assets\9a73536ac815ab8b7516ce92a4c36681-C7CBF.png
+Content: <@568257600228032512> Thanks, Carolyn.  As much as I use Zoom, I never paid attention to that fact.  It's my one new thing learned today!  😍
+--------------------

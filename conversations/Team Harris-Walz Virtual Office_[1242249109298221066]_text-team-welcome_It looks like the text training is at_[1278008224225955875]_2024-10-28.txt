@@ -1,0 +1,38 @@
+Guild: Team Harris-Walz Virtual Office (ID: 1242249109298221066)
+Channel: It looks like the text training is at (ID: 1278008224225955875)
+Channel Topic: None
+Exported At: 2024-10-28T23:59:47.364138+00:00
+
+
+--- Message ---
+Message ID: 1278013797365317695
+Message Type: 21
+Reply to: 1278008224225955875
+Timestamp: 2024-08-27T15:30:33.64+00:00
+Author: Nicole Morris - Text Admin (nmorris237)
+Author Id: 935762347753103382
+Avatar URL: assets\27b1e286b65ae02b3378793b5f098411-A7B20.png
+Content: 
+--------------------
+
+--- Message ---
+Message ID: 1278013798837522563
+Message Type: Default
+Reply to: None
+Timestamp: 2024-08-27T15:30:33.991+00:00
+Author: Nicole Morris - Text Admin (nmorris237)
+Author Id: 935762347753103382
+Avatar URL: assets\27b1e286b65ae02b3378793b5f098411-A7B20.png
+Content: Hi <@1270413401327403078> It looks like (at least one spot) just opened for tomorrow's training - https://events.democrats.org/event/654680/
+--------------------
+
+--- Message ---
+Message ID: 1278013834635776073
+Message Type: Default
+Reply to: None
+Timestamp: 2024-08-27T15:30:42.526+00:00
+Author: Nicole Morris - Text Admin (nmorris237)
+Author Id: 935762347753103382
+Avatar URL: assets\27b1e286b65ae02b3378793b5f098411-A7B20.png
+Content: If you can't make that time, keep an eye on that same link for more days/times.
+--------------------

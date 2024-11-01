@@ -1,0 +1,60 @@
+Guild: Team Harris-Walz Virtual Office (ID: 1242249109298221066)
+Channel: @Stephanie Helsel (CO)  Sherri Saucedo. (ID: 1284924540954218646)
+Channel Topic: None
+Exported At: 2024-10-28T23:22:52.1597939+00:00
+
+
+--- Message ---
+Message ID: 1284924855594254459
+Message Type: 21
+Reply to: 1284924540954218646
+Timestamp: 2024-09-15T17:12:38.323+00:00
+Author: Nicole Morris - Text Admin (nmorris237)
+Author Id: 935762347753103382
+Avatar URL: assets\27b1e286b65ae02b3378793b5f098411-A7B20.png
+Content: 
+--------------------
+
+--- Message ---
+Message ID: 1284924857800327198
+Message Type: Default
+Reply to: None
+Timestamp: 2024-09-15T17:12:38.849+00:00
+Author: Nicole Morris - Text Admin (nmorris237)
+Author Id: 935762347753103382
+Avatar URL: assets\27b1e286b65ae02b3378793b5f098411-A7B20.png
+Content: Hi <@1276721899216441344> Thanks! I'll send you a Direct Message now in Discord. Let me know if you don't see it.
+--------------------
+
+--- Message ---
+Message ID: 1284931421718184039
+Message Type: Default
+Reply to: None
+Timestamp: 2024-09-15T17:38:43.809+00:00
+Author: Saucefive (saucefive)
+Author Id: 1276721899216441344
+Avatar URL: assets\cadc3f72c8e83eb61e92b4af972b155f-9A47D.png
+Content: Don't see it.
+--------------------
+
+--- Message ---
+Message ID: 1284934751353835591
+Message Type: Default
+Reply to: None
+Timestamp: 2024-09-15T17:51:57.656+00:00
+Author: Saucefive (saucefive)
+Author Id: 1276721899216441344
+Avatar URL: assets\cadc3f72c8e83eb61e92b4af972b155f-9A47D.png
+Content: Looking for direct thread with me, instead of under <@1283914546846634095> .
+--------------------
+
+--- Message ---
+Message ID: 1284937598833397851
+Message Type: Default
+Reply to: None
+Timestamp: 2024-09-15T18:03:16.548+00:00
+Author: Nicole Morris - Text Admin (nmorris237)
+Author Id: 935762347753103382
+Avatar URL: assets\27b1e286b65ae02b3378793b5f098411-A7B20.png
+Content: Understood - thanks! Are you on a computer or tablet/phone?
+--------------------

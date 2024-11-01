@@ -1,0 +1,71 @@
+Guild: Team Harris-Walz Virtual Office (ID: 1242249109298221066)
+Channel: Have a text recipient who needs some assistance accessing her Discord account (ID: 1293374224509046844)
+Channel Topic: None
+Exported At: 2024-10-24T06:27:38.459301+00:00
+
+
+--- Message ---
+Message ID: 1293374224509046844
+Message Type: Default
+Reply to: None
+Timestamp: 2024-10-09T00:47:24.854+00:00
+Author: Cody Dadiw (cody_93080)
+Author Id: 1279574690041430170
+Avatar URL: assets\90c6bd7de8f9013ef485a90dd3f62ded-0ECFE.png
+Content: I'm on the text team and had a message in one of my batches from someone who's already volunteering but has hit a roadblock with verifying her phone # for Discord. From the little that I know, it sounds like it's because it's attributed to an existing Discord account and she's not sure how to solve the issue in order to get involved. One of the Text Mods is trying to get an answer for me but noted we may not hear back. I'd hate to leave this person hanging, because they appear to be genuinely motivated to volunteer with us - thought I'd post here on her behalf for good measure. Can anyone help with this? Is there a general tech support email perhaps I can direct her to or....?  I have the Spoke convo info up for the time being, if that's helpful!
+--------------------
+
+--- Message ---
+Message ID: 1293374465849167892
+Message Type: Default
+Reply to: None
+Timestamp: 2024-10-09T00:48:22.394+00:00
+Author: Frances Haydock (HFP HQ!) (franceshaydock_20619)
+Author Id: 1257469301435400238
+Avatar URL: assets\8286d5b1308e7b3d80a3523e4ec50548-C029D.png
+Content: <@568257600228032512> when you're next online can you help with this?
+--------------------
+
+--- Message ---
+Message ID: 1293378037378846741
+Message Type: Default
+Reply to: None
+Timestamp: 2024-10-09T01:02:33.913+00:00
+Author: Carolyn B [CA] • Lead Mod (carb.on)
+Author Id: 568257600228032512
+Avatar URL: assets\28a90c77b5793d80eb62484a43c66748-D8837.png
+Content: Hi <@1279574690041430170> do you have the volunteer's Discord username?
+--------------------
+
+--- Message ---
+Message ID: 1293378411007311974
+Message Type: Reply
+Reply to: 1293378037378846741
+Timestamp: 2024-10-09T01:04:02.993+00:00
+Author: Cody Dadiw (cody_93080)
+Author Id: 1279574690041430170
+Avatar URL: assets\90c6bd7de8f9013ef485a90dd3f62ded-0ECFE.png
+Content: No, she didn't share that with me - but I do have her full name and the additional conversation data info from Spoke!
+--------------------
+
+--- Message ---
+Message ID: 1293378610475958272
+Message Type: Default
+Reply to: None
+Timestamp: 2024-10-09T01:04:50.55+00:00
+Author: Cody Dadiw (cody_93080)
+Author Id: 1279574690041430170
+Avatar URL: assets\90c6bd7de8f9013ef485a90dd3f62ded-0ECFE.png
+Content: I can DM it all to you if that's helpful? I'll provide the little I have
+--------------------
+
+--- Message ---
+Message ID: 1293380332346671105
+Message Type: Default
+Reply to: None
+Timestamp: 2024-10-09T01:11:41.076+00:00
+Author: Carolyn B [CA] • Lead Mod (carb.on)
+Author Id: 568257600228032512
+Avatar URL: assets\28a90c77b5793d80eb62484a43c66748-D8837.png
+Content: <@1279574690041430170> I sent you a friend request.
+--------------------

@@ -1,0 +1,45 @@
+- author_avatar_url: assets\791c521e62160be1f3df04992f6e5470-36A38.png
+  author_id: '477560366432256000'
+  author_name: jjoannid
+  author_nickname: Jack Joannides KC text admin
+  content: ''
+  id: '1287245511140835432'
+  ref_to: '1287241666067038332'
+  timestamp: '2024-09-22T02:54:05.721+00:00'
+  type: '21'
+- author_avatar_url: assets\791c521e62160be1f3df04992f6e5470-36A38.png
+  author_id: '477560366432256000'
+  author_name: jjoannid
+  author_nickname: Jack Joannides KC text admin
+  content: What do you mean?
+  id: '1287245517146816533'
+  ref_to: null
+  timestamp: '2024-09-22T02:54:07.153+00:00'
+  type: Default
+- author_avatar_url: assets\c82b3fa769ed6e6ffdea579381ed5f5c-0C1CD.png
+  author_id: '1284931034089001031'
+  author_name: debrafranklin
+  author_nickname: Debra Franklin
+  content: You have us a series of questions we were suppose to complete
+  id: '1287500997912039495'
+  ref_to: null
+  timestamp: '2024-09-22T19:49:18.514+00:00'
+  type: Default
+- author_avatar_url: assets\c82b3fa769ed6e6ffdea579381ed5f5c-0C1CD.png
+  author_id: '1284931034089001031'
+  author_name: debrafranklin
+  author_nickname: Debra Franklin
+  content: I did not get them from the class yesterday
+  id: '1287501074240114954'
+  ref_to: null
+  timestamp: '2024-09-22T19:49:36.712+00:00'
+  type: Default
+- author_avatar_url: assets\791c521e62160be1f3df04992f6e5470-36A38.png
+  author_id: '477560366432256000'
+  author_name: jjoannid
+  author_nickname: Jack Joannides KC text admin
+  content: Oh the quiz. Once we get zoom reports I can share that to you.
+  id: '1287508589552078909'
+  ref_to: null
+  timestamp: '2024-09-22T20:19:28.502+00:00'
+  type: Default

@@ -1,0 +1,82 @@
+Guild: Team Harris-Walz Virtual Office (ID: 1242249109298221066)
+Channel: Let me check on this (ID: 1280191784772964464)
+Channel Topic: None
+Exported At: 2024-10-28T23:42:18.2757472+00:00
+
+
+--- Message ---
+Message ID: 1280195679259459707
+Message Type: 21
+Reply to: 1280191784772964464
+Timestamp: 2024-09-02T16:00:34.821+00:00
+Author: Jack Joannides KC text admin (jjoannid)
+Author Id: 477560366432256000
+Avatar URL: assets\791c521e62160be1f3df04992f6e5470-36A38.png
+Content: 
+--------------------
+
+--- Message ---
+Message ID: 1280195680710955121
+Message Type: Default
+Reply to: None
+Timestamp: 2024-09-02T16:00:35.167+00:00
+Author: Jack Joannides KC text admin (jjoannid)
+Author Id: 477560366432256000
+Avatar URL: assets\791c521e62160be1f3df04992f6e5470-36A38.png
+Content: Let me check.
+--------------------
+
+--- Message ---
+Message ID: 1280196186938146866
+Message Type: Default
+Reply to: None
+Timestamp: 2024-09-02T16:02:35.861+00:00
+Author: Jack Joannides KC text admin (jjoannid)
+Author Id: 477560366432256000
+Avatar URL: assets\791c521e62160be1f3df04992f6e5470-36A38.png
+Content: I don’t see you
+--------------------
+
+--- Message ---
+Message ID: 1280207791046266972
+Message Type: Reply
+Reply to: 1280196186938146866
+Timestamp: 2024-09-02T16:48:42.496+00:00
+Author: Amanda Irwin [OH] (theamandashow1742)
+Author Id: 816843832859689010
+Avatar URL: assets\0-EB806.png
+Content: What do you mean?
+--------------------
+
+--- Message ---
+Message ID: 1280207925717106809
+Message Type: Default
+Reply to: None
+Timestamp: 2024-09-02T16:49:14.604+00:00
+Author: Jack Joannides KC text admin (jjoannid)
+Author Id: 477560366432256000
+Avatar URL: assets\791c521e62160be1f3df04992f6e5470-36A38.png
+Content: I don't have proof that you've taken the quiz or the agreement form.
+--------------------
+
+--- Message ---
+Message ID: 1280208033556992122
+Message Type: Default
+Reply to: None
+Timestamp: 2024-09-02T16:49:40.315+00:00
+Author: Jack Joannides KC text admin (jjoannid)
+Author Id: 477560366432256000
+Avatar URL: assets\791c521e62160be1f3df04992f6e5470-36A38.png
+Content: Oh wait.
+--------------------
+
+--- Message ---
+Message ID: 1280208237551157412
+Message Type: Default
+Reply to: None
+Timestamp: 2024-09-02T16:50:28.951+00:00
+Author: Amanda Irwin [OH] (theamandashow1742)
+Author Id: 816843832859689010
+Avatar URL: assets\0-EB806.png
+Content: Would it be easier if you had my email?
+--------------------

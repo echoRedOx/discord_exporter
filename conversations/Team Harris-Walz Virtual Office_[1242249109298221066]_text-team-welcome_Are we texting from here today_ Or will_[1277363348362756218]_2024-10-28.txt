@@ -1,0 +1,38 @@
+Guild: Team Harris-Walz Virtual Office (ID: 1242249109298221066)
+Channel: Are we texting from here today? Or will (ID: 1277363348362756218)
+Channel Topic: None
+Exported At: 2024-10-29T00:01:48.0709118+00:00
+
+
+--- Message ---
+Message ID: 1277364485547364373
+Message Type: 21
+Reply to: 1277363348362756218
+Timestamp: 2024-08-25T20:30:25.639+00:00
+Author: Nicole Morris - Text Admin (nmorris237)
+Author Id: 935762347753103382
+Avatar URL: assets\27b1e286b65ae02b3378793b5f098411-A7B20.png
+Content: 
+--------------------
+
+--- Message ---
+Message ID: 1277364486516506696
+Message Type: Default
+Reply to: None
+Timestamp: 2024-08-25T20:30:25.87+00:00
+Author: Nicole Morris - Text Admin (nmorris237)
+Author Id: 935762347753103382
+Avatar URL: assets\27b1e286b65ae02b3378793b5f098411-A7B20.png
+Content: Hi Michele - and welcome! We're still working on how to add Slack texters to our Discord texting channels. We should have more information by tomorrow (for now, texting opportunities are the same in Slack and Discord, so you'll see the campaigns avaialble in Slack still while we move over)
+--------------------
+
+--- Message ---
+Message ID: 1277366905220632751
+Message Type: Default
+Reply to: None
+Timestamp: 2024-08-25T20:40:02.534+00:00
+Author: Michele Leschi [CA] (miblu22)
+Author Id: 1264756267990122521
+Avatar URL: assets\812c40d778e45367353049733269c7f8-F1551.png
+Content: Okay! Thank You! <:thankyou:1252806147396735057>
+--------------------

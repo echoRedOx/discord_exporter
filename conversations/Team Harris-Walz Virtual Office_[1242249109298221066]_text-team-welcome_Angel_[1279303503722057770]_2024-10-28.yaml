@@ -1,0 +1,49 @@
+- author_avatar_url: assets\27b1e286b65ae02b3378793b5f098411-A7B20.png
+  author_id: '935762347753103382'
+  author_name: nmorris237
+  author_nickname: Nicole Morris - Text Admin
+  content: ''
+  id: '1279305273437196379'
+  ref_to: '1279303503722057770'
+  timestamp: '2024-08-31T05:02:25.53+00:00'
+  type: '21'
+- author_avatar_url: assets\27b1e286b65ae02b3378793b5f098411-A7B20.png
+  author_id: '935762347753103382'
+  author_name: nmorris237
+  author_nickname: Nicole Morris - Text Admin
+  content: "Hi <@1262407313503813764> Thanks! Yes - I sent you a Direct Message here\
+    \ a day ago on Discord. Please let me know if you don\u2019t see it \u2014 top\
+    \ left corner, may be hidden under \u201CMessage Requests\u201D"
+  id: '1279305282694025246'
+  ref_to: null
+  timestamp: '2024-08-31T05:02:27.737+00:00'
+  type: Default
+- author_avatar_url: assets\3-FB033.png
+  author_id: '1262407313503813764'
+  author_name: angelb_00479
+  author_nickname: Angel Braveboy MD
+  content: I did the training during the week.
+  id: '1279587173334777930'
+  ref_to: null
+  timestamp: '2024-08-31T23:42:35.703+00:00'
+  type: Default
+- author_avatar_url: assets\3-FB033.png
+  author_id: '1262407313503813764'
+  author_name: angelb_00479
+  author_nickname: Angel Braveboy MD
+  content: Hi Nicole, where is the "message request" is located? I see the speech
+    bubble where you DM about setting up profile on Discord.
+  id: '1279588008651128835'
+  ref_to: null
+  timestamp: '2024-08-31T23:45:54.858+00:00'
+  type: Default
+- author_avatar_url: assets\27b1e286b65ae02b3378793b5f098411-A7B20.png
+  author_id: '935762347753103382'
+  author_name: nmorris237
+  author_nickname: Nicole Morris - Text Admin
+  content: "Thanks! That was the DM (message request) I was referring to. But looks\
+    \ like you\u2019re all set and added!"
+  id: '1279595952394604607'
+  ref_to: null
+  timestamp: '2024-09-01T00:17:28.794+00:00'
+  type: Default

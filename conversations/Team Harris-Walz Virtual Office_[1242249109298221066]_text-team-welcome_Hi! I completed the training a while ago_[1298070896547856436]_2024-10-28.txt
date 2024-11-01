@@ -1,0 +1,27 @@
+Guild: Team Harris-Walz Virtual Office (ID: 1242249109298221066)
+Channel: Hi! I completed the training a while ago (ID: 1298070896547856436)
+Channel Topic: None
+Exported At: 2024-10-28T22:25:29.4481869+00:00
+
+
+--- Message ---
+Message ID: 1298073257429303338
+Message Type: 21
+Reply to: 1298070896547856436
+Timestamp: 2024-10-21T23:59:41.606+00:00
+Author: Roberta Bavin CA KC Greeter/Mod (roberta_24935)
+Author Id: 1269872908759597148
+Avatar URL: assets\df6d19d97b04a49ffcafbe7be14c7839-D9CE4.png
+Content: 
+--------------------
+
+--- Message ---
+Message ID: 1298073260889739274
+Message Type: Default
+Reply to: None
+Timestamp: 2024-10-21T23:59:42.431+00:00
+Author: Roberta Bavin CA KC Greeter/Mod (roberta_24935)
+Author Id: 1269872908759597148
+Avatar URL: assets\df6d19d97b04a49ffcafbe7be14c7839-D9CE4.png
+Content: Hi <@868963029943988226> Thanks for reaching out and thanks for your patience. Please look for a DM from me at the left upper corner of Discord, game controller icon. <:thankyou:1252806147396735057>
+--------------------

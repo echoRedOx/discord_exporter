@@ -1,0 +1,16 @@
+Guild: Team Harris-Walz Virtual Office (ID: 1242249109298221066)
+Channel: 25717:Nevada Rally Build (ID: 1288553355458773043)
+Channel Topic: None
+Exported At: 2024-10-24T12:49:35.627091+00:00
+
+
+--- Message ---
+Message ID: 1288572622799507508
+Message Type: Reply
+Reply to: 1288553355458773043
+Timestamp: 2024-09-25T18:47:33.797+00:00
+Author: Jared R [CO] • Lead Mod (kyaizen)
+Author Id: 112080668296564736
+Avatar URL: assets\a_de0e3d4a3f9b486ad3ad6df0d72323da-D0252.gif
+Content: Hi <@1271547853852115017> Val please post in <#1259238714157305936>
+--------------------

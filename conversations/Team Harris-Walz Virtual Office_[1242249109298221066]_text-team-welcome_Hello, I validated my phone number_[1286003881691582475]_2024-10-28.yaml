@@ -1,0 +1,63 @@
+- author_avatar_url: assets\df6d19d97b04a49ffcafbe7be14c7839-D9CE4.png
+  author_id: '1269872908759597148'
+  author_name: roberta_24935
+  author_nickname: Roberta Bavin CA KC Greeter/Mod
+  content: ''
+  id: '1286007305258668193'
+  ref_to: '1286003881691582475'
+  timestamp: '2024-09-18T16:53:54.434+00:00'
+  type: '21'
+- author_avatar_url: assets\df6d19d97b04a49ffcafbe7be14c7839-D9CE4.png
+  author_id: '1269872908759597148'
+  author_name: roberta_24935
+  author_nickname: Roberta Bavin CA KC Greeter/Mod
+  content: Hi Sonja- Thanks for checking in. Some of the campaigns are replies only,
+    FYI. If you are having difficulties with STW, please post in general-support-qs.
+    Watch the texting campaigns channel for links and try to get into one as soon
+    as it's posted. Thanks for being here!
+  id: '1286007307074932748'
+  ref_to: null
+  timestamp: '2024-09-18T16:53:54.867+00:00'
+  type: Default
+- author_avatar_url: assets\1120cfca724fbbe3facb6cdb77d681eb-5E844.png
+  author_id: '1279571577347899535'
+  author_name: sonjacamden_38357
+  author_nickname: Sonja Camden TX
+  content: "Prior to Sept 16 I never had any problems with grey tabs. If I was not\
+    \ in the system because of the phone number not being validated correctly, then\
+    \ the system wouldn't let me in at all, correct? And thx for helping! \U0001F499"
+  id: '1286011285288517765'
+  ref_to: null
+  timestamp: '2024-09-18T17:09:43.347+00:00'
+  type: Default
+- author_avatar_url: assets\df6d19d97b04a49ffcafbe7be14c7839-D9CE4.png
+  author_id: '1269872908759597148'
+  author_name: roberta_24935
+  author_nickname: Roberta Bavin CA KC Greeter/Mod
+  content: They started with some campaigns that are now reply only on September 16
+    also. Maybe that's what happened? They just posted replies in texting campaigns.
+    What happens if you click on one of those?
+  id: '1286013850080247921'
+  ref_to: '1286011285288517765'
+  timestamp: '2024-09-18T17:19:54.841+00:00'
+  type: Reply
+- author_avatar_url: assets\1120cfca724fbbe3facb6cdb77d681eb-5E844.png
+  author_id: '1279571577347899535'
+  author_name: sonjacamden_38357
+  author_nickname: Sonja Camden TX
+  content: The response/reply tab is also grey.
+  id: '1286020065644253255'
+  ref_to: null
+  timestamp: '2024-09-18T17:44:36.747+00:00'
+  type: Default
+- author_avatar_url: assets\df6d19d97b04a49ffcafbe7be14c7839-D9CE4.png
+  author_id: '1269872908759597148'
+  author_name: roberta_24935
+  author_nickname: Roberta Bavin CA KC Greeter/Mod
+  content: It was for me also when I checked. Please keep trying when new reply campaigns
+    are posted. If it's still not working, ask in general-support-qs. Thanks for your
+    persistence!
+  id: '1286020840802095146'
+  ref_to: '1286020065644253255'
+  timestamp: '2024-09-18T17:47:41.559+00:00'
+  type: Reply

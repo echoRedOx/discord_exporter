@@ -1,0 +1,38 @@
+Guild: Team Harris-Walz Virtual Office (ID: 1242249109298221066)
+Channel: I filled out the form/ quiz last week (ID: 1298426788111716373)
+Channel Topic: None
+Exported At: 2024-10-28T22:21:24.5753124+00:00
+
+
+--- Message ---
+Message ID: 1298427517467885620
+Message Type: 21
+Reply to: 1298426788111716373
+Timestamp: 2024-10-22T23:27:23.781+00:00
+Author: Roberta Bavin CA KC Greeter/Mod (roberta_24935)
+Author Id: 1269872908759597148
+Avatar URL: assets\df6d19d97b04a49ffcafbe7be14c7839-D9CE4.png
+Content: 
+--------------------
+
+--- Message ---
+Message ID: 1298427520873398387
+Message Type: Default
+Reply to: None
+Timestamp: 2024-10-22T23:27:24.593+00:00
+Author: Roberta Bavin CA KC Greeter/Mod (roberta_24935)
+Author Id: 1269872908759597148
+Avatar URL: assets\df6d19d97b04a49ffcafbe7be14c7839-D9CE4.png
+Content: Hi <@1118164329783631943> Please check for DM sent 10/15; it's at left upper corner of Discord at the game controller icon. Thanks for following up!
+--------------------
+
+--- Message ---
+Message ID: 1298428018183766058
+Message Type: Default
+Reply to: None
+Timestamp: 2024-10-22T23:29:23.161+00:00
+Author: Nicole Morell (mabelsez)
+Author Id: 1118164329783631943
+Avatar URL: assets\3-FB033.png
+Content: ah, thank you! Still a discord newbie
+--------------------

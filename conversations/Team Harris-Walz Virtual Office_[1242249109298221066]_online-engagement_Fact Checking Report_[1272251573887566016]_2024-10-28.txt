@@ -1,0 +1,60 @@
+Guild: Team Harris-Walz Virtual Office (ID: 1242249109298221066)
+Channel: Fact Checking Report (ID: 1272251573887566016)
+Channel Topic: None
+Exported At: 2024-10-28T21:54:28.2384073+00:00
+
+
+--- Message ---
+Message ID: 1272265954650361918
+Message Type: 21
+Reply to: 1272251573887566016
+Timestamp: 2024-08-11T18:50:41.147+00:00
+Author: Jessica Puchala (MD) [OE Lead] (jessica033389)
+Author Id: 869778676986814514
+Avatar URL: assets\37de34190564f7c9acae5895cc884c8a-6F9C7.png
+Content: 
+--------------------
+
+--- Message ---
+Message ID: 1272265956164505693
+Message Type: Default
+Reply to: None
+Timestamp: 2024-08-11T18:50:41.508+00:00
+Author: Jessica Puchala (MD) [OE Lead] (jessica033389)
+Author Id: 869778676986814514
+Avatar URL: assets\37de34190564f7c9acae5895cc884c8a-6F9C7.png
+Content: Thanks for sharing this NPR piece with the team <@1263626794951774320>! We really appreciate you being here today. You may want to share it in the new<#1268690577960992878>  channel to get the conversation started there. (We're hoping to use this oneline engagement channel to answer volunteer questions about that program.) Have a great weekend!
+--------------------
+
+--- Message ---
+Message ID: 1272270575259222128
+Message Type: Reply
+Reply to: 1272265956164505693
+Timestamp: 2024-08-11T19:09:02.786+00:00
+Author: Dan S (dans_41097)
+Author Id: 1263626794951774320
+Avatar URL: assets\3-FB033.png
+Content: Sounds good! Thanks. I thought I was posting it to twitter-community-notes where I hang out most of the time.  Am not seeing the news channel right now but will look more. Am new so need to learn more about purpose of each channel 😎
+--------------------
+
+--- Message ---
+Message ID: 1272271529778085949
+Message Type: Reply
+Reply to: 1272270575259222128
+Timestamp: 2024-08-11T19:12:50.361+00:00
+Author: Jessica Puchala (MD) [OE Lead] (jessica033389)
+Author Id: 869778676986814514
+Avatar URL: assets\37de34190564f7c9acae5895cc884c8a-6F9C7.png
+Content: I hear you. Isn't that a nice group to work with as well? I enjoy working with them, too. You should be able to click on my hyperlink in the previous message (and here) to see <#1268690577960992878> AND see it near the top of your left hand navigation under Community! You will find a quick description of the channel at the very top once you click on the channel name! If you ever want extra help the community moderators will help. And you can join us for a Discord specific training. https://events.democrats.org/event/643907/
+--------------------
+
+--- Message ---
+Message ID: 1272564149129318411
+Message Type: Default
+Reply to: None
+Timestamp: 2024-08-12T14:35:36.251+00:00
+Author: Dan S (dans_41097)
+Author Id: 1263626794951774320
+Avatar URL: assets\3-FB033.png
+Content: Hi Jessica -- Someone was asking for fact-checking on Tim  Walz's ties to a Muslim cleric. I can't find the message now, but maybe you've seen it? I thought it was on online-engagement. I did a search. MANY right-wing outlets reported on the supposed ties 3 days ago, e.g. Fox News https://www.foxnews.com/politics/tim-walz-ties-muslim-cleric-antisemitic-views-gave-state-funding-group-report Does not look like the ties are very direct. One time the cleric helped Walz calm protesters. Walz supported the Muslim community in many ways https://www.americamagazine.org/politics-society/2024/08/06/five-faith-facts-tim-walz-lutheran-248512 Perhaps someone can create a message about the true nature of the ties -- Walz did not support any anti-semitic views.
+--------------------

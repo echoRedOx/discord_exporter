@@ -1,0 +1,49 @@
+Guild: Team Harris-Walz Virtual Office (ID: 1242249109298221066)
+Channel: What are the bulk of the text concerned (ID: 1284678506638217238)
+Channel Topic: None
+Exported At: 2024-10-28T23:22:58.4531944+00:00
+
+
+--- Message ---
+Message ID: 1284702399667240991
+Message Type: 21
+Reply to: 1284678506638217238
+Timestamp: 2024-09-15T02:28:40.697+00:00
+Author: Nicole Morris - Text Admin (nmorris237)
+Author Id: 935762347753103382
+Avatar URL: assets\27b1e286b65ae02b3378793b5f098411-A7B20.png
+Content: 
+--------------------
+
+--- Message ---
+Message ID: 1284702401411944510
+Message Type: Default
+Reply to: None
+Timestamp: 2024-09-15T02:28:41.113+00:00
+Author: Nicole Morris - Text Admin (nmorris237)
+Author Id: 935762347753103382
+Avatar URL: assets\27b1e286b65ae02b3378793b5f098411-A7B20.png
+Content: Hi <@1153395332739239946> Thanks - good question! It varies. Have you taken a text training with us yet?
+--------------------
+
+--- Message ---
+Message ID: 1284705280642383903
+Message Type: Reply
+Reply to: 1284702401411944510
+Timestamp: 2024-09-15T02:40:07.575+00:00
+Author: Kathleen Mercer (kathleensmercer)
+Author Id: 1153395332739239946
+Avatar URL: assets\0-EB806.png
+Content: Yes I just did today! I also was a text banker in 2020. Looking forward to being accepted so I can get started!
+--------------------
+
+--- Message ---
+Message ID: 1284705608645480548
+Message Type: Default
+Reply to: None
+Timestamp: 2024-09-15T02:41:25.777+00:00
+Author: Nicole Morris - Text Admin (nmorris237)
+Author Id: 935762347753103382
+Avatar URL: assets\27b1e286b65ae02b3378793b5f098411-A7B20.png
+Content: Ah wonderful - thanks Kathleen! Sounds good!
+--------------------

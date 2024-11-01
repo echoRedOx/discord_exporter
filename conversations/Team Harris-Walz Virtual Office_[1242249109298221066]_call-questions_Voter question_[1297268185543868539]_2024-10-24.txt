@@ -1,0 +1,27 @@
+Guild: Team Harris-Walz Virtual Office (ID: 1242249109298221066)
+Channel: Voter question (ID: 1297268185543868539)
+Channel Topic: None
+Exported At: 2024-10-24T12:42:22.8586245+00:00
+
+
+--- Message ---
+Message ID: 1297268185543868539
+Message Type: Default
+Reply to: None
+Timestamp: 2024-10-19T18:40:37.511+00:00
+Author: hissssthaneversharp (hissssthaneversharp)
+Author Id: 707373236379320410
+Avatar URL: assets\11a9419bfa9d87553f0e351b21d28d1d-B243B.png
+Content: An NC voter I talked to said she had a friend who requested a PA mail-in ballot and was having difficulties getting one. She said she could give me his # but "he probably won't answer if you call," which I understand. She asked me to note it though, so I am.
+--------------------
+
+--- Message ---
+Message ID: 1297268652071977075
+Message Type: Default
+Reply to: None
+Timestamp: 2024-10-19T18:42:28.74+00:00
+Author: Denise Ward [CO] [Call MOD] (denise.ward)
+Author Id: 1277408157664284795
+Avatar URL: assets\43ec2b9e8ddf26e3072b9feb4516a5fd-3D55A.png
+Content: We cannot make outbound calls direct to voters so in the future the best course would be to suggest they go to iwillvote.com, select their state and see the instructions there.
+--------------------

@@ -1,0 +1,38 @@
+Guild: Team Harris-Walz Virtual Office (ID: 1242249109298221066)
+Channel: i guess i'm just waiting for the Spoke (ID: 1277323400548847708)
+Channel Topic: None
+Exported At: 2024-10-29T00:01:52.8208196+00:00
+
+
+--- Message ---
+Message ID: 1277363493351325747
+Message Type: 21
+Reply to: 1277323400548847708
+Timestamp: 2024-08-25T20:26:29.081+00:00
+Author: Nicole Morris - Text Admin (nmorris237)
+Author Id: 935762347753103382
+Avatar URL: assets\27b1e286b65ae02b3378793b5f098411-A7B20.png
+Content: 
+--------------------
+
+--- Message ---
+Message ID: 1277363494911610961
+Message Type: Default
+Reply to: None
+Timestamp: 2024-08-25T20:26:29.453+00:00
+Author: Nicole Morris - Text Admin (nmorris237)
+Author Id: 935762347753103382
+Avatar URL: assets\27b1e286b65ae02b3378793b5f098411-A7B20.png
+Content: Hi <@1170136212279918633> Thanks! I sent you a Direct Message last night in Discord with next steps - please let me know if you don't see it
+--------------------
+
+--- Message ---
+Message ID: 1277363522006810636
+Message Type: Default
+Reply to: None
+Timestamp: 2024-08-25T20:26:35.913+00:00
+Author: Nicole Morris - Text Admin (nmorris237)
+Author Id: 935762347753103382
+Avatar URL: assets\27b1e286b65ae02b3378793b5f098411-A7B20.png
+Content: 
+--------------------

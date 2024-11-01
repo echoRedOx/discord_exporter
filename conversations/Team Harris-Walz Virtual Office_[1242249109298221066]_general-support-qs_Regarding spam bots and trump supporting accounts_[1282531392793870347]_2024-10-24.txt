@@ -1,0 +1,38 @@
+Guild: Team Harris-Walz Virtual Office (ID: 1242249109298221066)
+Channel: Regarding spam bots and trump supporting accounts (ID: 1282531392793870347)
+Channel Topic: None
+Exported At: 2024-10-24T06:40:03.4429068+00:00
+
+
+--- Message ---
+Message ID: 1282531392793870347
+Message Type: Default
+Reply to: None
+Timestamp: 2024-09-09T02:41:52.323+00:00
+Author: Jake Henderson (NJ-2) [MOD] (i_am_anxious02)
+Author Id: 648018187342053395
+Avatar URL: assets\ee6fcc15dae8462931d1ad1c70c5d780-D008C.png
+Content: If a message clearly needs to be deleted by a moderator and no mod has seen it yet, do we ping the moderator role, do we ping a specific moderator, do we just post in the chat that it needs to be deleted without pinging anyone, or something else?
+--------------------
+
+--- Message ---
+Message ID: 1282531805890613329
+Message Type: Default
+Reply to: None
+Timestamp: 2024-09-09T02:43:30.813+00:00
+Author: Frances Haydock (HFP HQ!) (franceshaydock_20619)
+Author Id: 1257469301435400238
+Avatar URL: assets\8286d5b1308e7b3d80a3523e4ec50548-C029D.png
+Content: Please ping @ moderator if you see this and no mod has reacted yet
+--------------------
+
+--- Message ---
+Message ID: 1282531866590580766
+Message Type: Default
+Reply to: None
+Timestamp: 2024-09-09T02:43:45.285+00:00
+Author: Jake Henderson (NJ-2) [MOD] (i_am_anxious02)
+Author Id: 648018187342053395
+Avatar URL: assets\ee6fcc15dae8462931d1ad1c70c5d780-D008C.png
+Content: Okay, thank you
+--------------------

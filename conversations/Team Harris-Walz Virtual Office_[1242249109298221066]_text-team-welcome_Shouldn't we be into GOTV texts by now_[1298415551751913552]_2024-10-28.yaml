@@ -1,0 +1,29 @@
+- author_avatar_url: assets\df6d19d97b04a49ffcafbe7be14c7839-D9CE4.png
+  author_id: '1269872908759597148'
+  author_name: roberta_24935
+  author_nickname: Roberta Bavin CA KC Greeter/Mod
+  content: ''
+  id: '1298416541225848885'
+  ref_to: '1298415551751913552'
+  timestamp: '2024-10-22T22:43:46.841+00:00'
+  type: '21'
+- author_avatar_url: assets\df6d19d97b04a49ffcafbe7be14c7839-D9CE4.png
+  author_id: '1269872908759597148'
+  author_name: roberta_24935
+  author_nickname: Roberta Bavin CA KC Greeter/Mod
+  content: Hi <@778084600257839124> Please ask this in <#1267941954243526756> GOTV
+    is coming! Thanks for reaching out!
+  id: '1298416551501893675'
+  ref_to: null
+  timestamp: '2024-10-22T22:43:49.291+00:00'
+  type: Default
+- author_avatar_url: assets\10937d3a9c819d0fa2c99a4f186455d2-B1884.png
+  author_id: '778084600257839124'
+  author_name: abindc
+  author_nickname: Andrew Brecher
+  content: Thanks!  I haven't had much time to text lately due to health and job issues,
+    but once we get into GOTV then I'll be there!
+  id: '1298425597747400797'
+  ref_to: null
+  timestamp: '2024-10-22T23:19:46.084+00:00'
+  type: Default

@@ -1,0 +1,49 @@
+Guild: Team Harris-Walz Virtual Office (ID: 1242249109298221066)
+Channel: Filled out the quiz, signed the (ID: 1278823167426564106)
+Channel Topic: None
+Exported At: 2024-10-28T23:50:34.8305557+00:00
+
+
+--- Message ---
+Message ID: 1278823637402783935
+Message Type: 21
+Reply to: 1278823167426564106
+Timestamp: 2024-08-29T21:08:34.551+00:00
+Author: Jack Joannides KC text admin (jjoannid)
+Author Id: 477560366432256000
+Avatar URL: assets\791c521e62160be1f3df04992f6e5470-36A38.png
+Content: 
+--------------------
+
+--- Message ---
+Message ID: 1278823638669463553
+Message Type: Default
+Reply to: None
+Timestamp: 2024-08-29T21:08:34.853+00:00
+Author: Jack Joannides KC text admin (jjoannid)
+Author Id: 477560366432256000
+Avatar URL: assets\791c521e62160be1f3df04992f6e5470-36A38.png
+Content: We'll add you in 24-48 hours. Did you direct message them that you've signed up to scale to win.
+--------------------
+
+--- Message ---
+Message ID: 1278823901903716413
+Message Type: Reply
+Reply to: 1278823638669463553
+Timestamp: 2024-08-29T21:09:37.613+00:00
+Author: Jake Henderson (NJ-2) [MOD] (i_am_anxious02)
+Author Id: 648018187342053395
+Avatar URL: assets\ee6fcc15dae8462931d1ad1c70c5d780-D008C.png
+Content: Yes
+--------------------
+
+--- Message ---
+Message ID: 1278824316682764288
+Message Type: Default
+Reply to: None
+Timestamp: 2024-08-29T21:11:16.504+00:00
+Author: Jack Joannides KC text admin (jjoannid)
+Author Id: 477560366432256000
+Avatar URL: assets\791c521e62160be1f3df04992f6e5470-36A38.png
+Content: Great.
+--------------------

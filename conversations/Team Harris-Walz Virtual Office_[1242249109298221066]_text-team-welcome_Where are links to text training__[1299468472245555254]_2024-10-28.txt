@@ -1,0 +1,27 @@
+Guild: Team Harris-Walz Virtual Office (ID: 1242249109298221066)
+Channel: Where are links to text training? (ID: 1299468472245555254)
+Channel Topic: None
+Exported At: 2024-10-28T22:13:13.3285562+00:00
+
+
+--- Message ---
+Message ID: 1299511616903319552
+Message Type: 21
+Reply to: 1299468472245555254
+Timestamp: 2024-10-25T23:15:13.228+00:00
+Author: Roberta Bavin CA KC Greeter/Mod (roberta_24935)
+Author Id: 1269872908759597148
+Avatar URL: assets\df6d19d97b04a49ffcafbe7be14c7839-D9CE4.png
+Content: 
+--------------------
+
+--- Message ---
+Message ID: 1299511620107505755
+Message Type: Default
+Reply to: None
+Timestamp: 2024-10-25T23:15:13.992+00:00
+Author: Roberta Bavin CA KC Greeter/Mod (roberta_24935)
+Author Id: 1269872908759597148
+Avatar URL: assets\df6d19d97b04a49ffcafbe7be14c7839-D9CE4.png
+Content: Our text trainings have ended, but you can check out ⁠⁠the <#1268426751164551199> or <#1298623273566732300> channels. We would also love help with making phone calls during this final stretch -- you can sign up for that at https://events.democrats.org/event/725393/ . Thank you!
+--------------------

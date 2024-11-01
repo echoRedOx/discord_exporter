@@ -1,0 +1,28 @@
+- author_avatar_url: assets\df6d19d97b04a49ffcafbe7be14c7839-D9CE4.png
+  author_id: '1269872908759597148'
+  author_name: roberta_24935
+  author_nickname: Roberta Bavin CA KC Greeter/Mod
+  content: ''
+  id: '1297610482747965490'
+  ref_to: '1297610080874922066'
+  timestamp: '2024-10-20T17:20:47.524+00:00'
+  type: '21'
+- author_avatar_url: assets\df6d19d97b04a49ffcafbe7be14c7839-D9CE4.png
+  author_id: '1269872908759597148'
+  author_name: roberta_24935
+  author_nickname: Roberta Bavin CA KC Greeter/Mod
+  content: Hi <@353672895781666816> Please check your DM for message sent yesterday;
+    it's upper left corner of Discord at the game controller icon. <:thankyou:1252806147396735057>
+  id: '1297610485528531057'
+  ref_to: null
+  timestamp: '2024-10-20T17:20:48.187+00:00'
+  type: Default
+- author_avatar_url: assets\97b53cd9ac58e9dd126208a1f97f282a-F7CF6.png
+  author_id: '353672895781666816'
+  author_name: bloody_duck
+  author_nickname: Geoff Brooks [CA]
+  content: Thank you - responded!
+  id: '1297612333862092950'
+  ref_to: null
+  timestamp: '2024-10-20T17:28:08.864+00:00'
+  type: Default

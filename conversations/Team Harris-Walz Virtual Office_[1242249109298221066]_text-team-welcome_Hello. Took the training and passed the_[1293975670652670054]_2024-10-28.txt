@@ -1,0 +1,49 @@
+Guild: Team Harris-Walz Virtual Office (ID: 1242249109298221066)
+Channel: Hello. Took the training and passed the (ID: 1293975670652670054)
+Channel Topic: None
+Exported At: 2024-10-28T22:45:03.3126515+00:00
+
+
+--- Message ---
+Message ID: 1293989156120166402
+Message Type: 21
+Reply to: 1293975670652670054
+Timestamp: 2024-10-10T17:30:55.975+00:00
+Author: Roberta Bavin CA KC Greeter/Mod (roberta_24935)
+Author Id: 1269872908759597148
+Avatar URL: assets\df6d19d97b04a49ffcafbe7be14c7839-D9CE4.png
+Content: 
+--------------------
+
+--- Message ---
+Message ID: 1293989159823868016
+Message Type: Default
+Reply to: None
+Timestamp: 2024-10-10T17:30:56.858+00:00
+Author: Roberta Bavin CA KC Greeter/Mod (roberta_24935)
+Author Id: 1269872908759597148
+Avatar URL: assets\df6d19d97b04a49ffcafbe7be14c7839-D9CE4.png
+Content: Hi <@369561391692120084> Thanks for reaching out. It looks like Andrew sent you a DM on 10/8. Please look for it at upper left hand side of Discord at the game controller icon. Thanks for being here!
+--------------------
+
+--- Message ---
+Message ID: 1294057661381214351
+Message Type: Default
+Reply to: None
+Timestamp: 2024-10-10T22:03:08.902+00:00
+Author: EileenSerra [MI] (eileen161152)
+Author Id: 369561391692120084
+Avatar URL: assets\2-ADBB4.png
+Content: Sorry, not seeing that DM. I had to reconnect my phone number to this account today so I could send messages. Could Andrew or someone send it again?
+--------------------
+
+--- Message ---
+Message ID: 1294096711018614805
+Message Type: Reply
+Reply to: 1294057661381214351
+Timestamp: 2024-10-11T00:38:19.061+00:00
+Author: Roberta Bavin CA KC Greeter/Mod (roberta_24935)
+Author Id: 1269872908759597148
+Avatar URL: assets\df6d19d97b04a49ffcafbe7be14c7839-D9CE4.png
+Content: Just sent you a DM! Did you find it?
+--------------------

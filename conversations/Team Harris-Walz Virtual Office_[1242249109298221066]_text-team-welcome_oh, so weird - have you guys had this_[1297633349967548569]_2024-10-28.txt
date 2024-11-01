@@ -1,0 +1,27 @@
+Guild: Team Harris-Walz Virtual Office (ID: 1242249109298221066)
+Channel: oh, so weird - have you guys had this (ID: 1297633349967548569)
+Channel Topic: None
+Exported At: 2024-10-28T22:29:39.1190381+00:00
+
+
+--- Message ---
+Message ID: 1297652454820937758
+Message Type: 21
+Reply to: 1297633349967548569
+Timestamp: 2024-10-20T20:07:34.446+00:00
+Author: Roberta Bavin CA KC Greeter/Mod (roberta_24935)
+Author Id: 1269872908759597148
+Avatar URL: assets\df6d19d97b04a49ffcafbe7be14c7839-D9CE4.png
+Content: 
+--------------------
+
+--- Message ---
+Message ID: 1297652458809593958
+Message Type: Default
+Reply to: None
+Timestamp: 2024-10-20T20:07:35.397+00:00
+Author: Roberta Bavin CA KC Greeter/Mod (roberta_24935)
+Author Id: 1269872908759597148
+Avatar URL: assets\df6d19d97b04a49ffcafbe7be14c7839-D9CE4.png
+Content: Allison- Just sent you a DM and it didn't bounce back. Please check it out! Thanks!
+--------------------

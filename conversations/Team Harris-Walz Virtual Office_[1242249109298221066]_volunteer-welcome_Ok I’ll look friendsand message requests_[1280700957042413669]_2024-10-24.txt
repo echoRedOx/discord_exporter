@@ -1,0 +1,203 @@
+Guild: Team Harris-Walz Virtual Office (ID: 1242249109298221066)
+Channel: Ok I’ll look friendsand message requests (ID: 1280700957042413669)
+Channel Topic: None
+Exported At: 2024-10-24T06:16:08.7331072+00:00
+
+
+--- Message ---
+Message ID: 1280701367647731752
+Message Type: 21
+Reply to: 1280700957042413669
+Timestamp: 2024-09-04T01:30:00.328+00:00
+Author: Jared R [CO] • Lead Mod (kyaizen)
+Author Id: 112080668296564736
+Avatar URL: assets\a_de0e3d4a3f9b486ad3ad6df0d72323da-D0252.gif
+Content: 
+--------------------
+
+--- Message ---
+Message ID: 1280701369061343386
+Message Type: Default
+Reply to: None
+Timestamp: 2024-09-04T01:30:00.665+00:00
+Author: Jared R [CO] • Lead Mod (kyaizen)
+Author Id: 112080668296564736
+Avatar URL: assets\a_de0e3d4a3f9b486ad3ad6df0d72323da-D0252.gif
+Content: Click the Discord logo in the top left of the app. Otherwise, we can chat on here if this is easier. Don't post your phone number on here or in the messages, please! I can help on the platform only.
+--------------------
+
+--- Message ---
+Message ID: 1280701531632570411
+Message Type: Default
+Reply to: None
+Timestamp: 2024-09-04T01:30:39.425+00:00
+Author: Jared R [CO] • Lead Mod (kyaizen)
+Author Id: 112080668296564736
+Avatar URL: assets\a_de0e3d4a3f9b486ad3ad6df0d72323da-D0252.gif
+Content: This will keep the messages under the thread so it doesn't clog up the chat for other new users, but all text is still visibile so others can benefit from the help.
+--------------------
+
+--- Message ---
+Message ID: 1280702045740859454
+Message Type: Default
+Reply to: None
+Timestamp: 2024-09-04T01:32:41.998+00:00
+Author: Kathleen jones [CA] (kathleenjones0851)
+Author Id: 1277052930255622148
+Avatar URL: assets\1-B2132.png
+Content: Ok let me try again laptop discord
+--------------------
+
+--- Message ---
+Message ID: 1280702092494766102
+Message Type: Default
+Reply to: None
+Timestamp: 2024-09-04T01:32:53.145+00:00
+Author: Kathleen jones [CA] (kathleenjones0851)
+Author Id: 1277052930255622148
+Avatar URL: assets\1-B2132.png
+Content: Just a minute
+--------------------
+
+--- Message ---
+Message ID: 1280702210061369356
+Message Type: Default
+Reply to: None
+Timestamp: 2024-09-04T01:33:21.175+00:00
+Author: Jared R [CO] • Lead Mod (kyaizen)
+Author Id: 112080668296564736
+Avatar URL: assets\a_de0e3d4a3f9b486ad3ad6df0d72323da-D0252.gif
+Content: No problem! I would start by pulling up discord.com in your browser and clicking download. There is a web version, but the app is much better IMO
+--------------------
+
+--- Message ---
+Message ID: 1280703085047713792
+Message Type: Default
+Reply to: None
+Timestamp: 2024-09-04T01:36:49.788+00:00
+Author: Kathleen jones [CA] (kathleenjones0851)
+Author Id: 1277052930255622148
+Avatar URL: assets\1-B2132.png
+Content: I get a discord image w an arrow towards applications folder
+--------------------
+
+--- Message ---
+Message ID: 1280703228094316575
+Message Type: Default
+Reply to: None
+Timestamp: 2024-09-04T01:37:23.893+00:00
+Author: Kathleen jones [CA] (kathleenjones0851)
+Author Id: 1277052930255622148
+Avatar URL: assets\1-B2132.png
+Content: Nothing can be clicked on it is just an image
+--------------------
+
+--- Message ---
+Message ID: 1280703391609393214
+Message Type: Default
+Reply to: None
+Timestamp: 2024-09-04T01:38:02.878+00:00
+Author: Jared R [CO] • Lead Mod (kyaizen)
+Author Id: 112080668296564736
+Avatar URL: assets\a_de0e3d4a3f9b486ad3ad6df0d72323da-D0252.gif
+Content: Is that when you click the download button?
+--------------------
+
+--- Message ---
+Message ID: 1280703489558974495
+Message Type: Default
+Reply to: None
+Timestamp: 2024-09-04T01:38:26.231+00:00
+Author: Kathleen jones [CA] (kathleenjones0851)
+Author Id: 1277052930255622148
+Avatar URL: assets\1-B2132.png
+Content: Yes……There is upper right cue says open discord
+--------------------
+
+--- Message ---
+Message ID: 1280703626272047145
+Message Type: Default
+Reply to: None
+Timestamp: 2024-09-04T01:38:58.826+00:00
+Author: Jared R [CO] • Lead Mod (kyaizen)
+Author Id: 112080668296564736
+Avatar URL: assets\a_de0e3d4a3f9b486ad3ad6df0d72323da-D0252.gif
+Content: Do you see these two buttons on the home page?
+--------------------
+
+--- Message ---
+Message ID: 1280703724234342461
+Message Type: Default
+Reply to: None
+Timestamp: 2024-09-04T01:39:22.182+00:00
+Author: Kathleen jones [CA] (kathleenjones0851)
+Author Id: 1277052930255622148
+Avatar URL: assets\1-B2132.png
+Content: Yup hit the left one
+--------------------
+
+--- Message ---
+Message ID: 1280703850554069075
+Message Type: Default
+Reply to: None
+Timestamp: 2024-09-04T01:39:52.299+00:00
+Author: Jared R [CO] • Lead Mod (kyaizen)
+Author Id: 112080668296564736
+Avatar URL: assets\a_de0e3d4a3f9b486ad3ad6df0d72323da-D0252.gif
+Content: Okay it should have downloaded an .exe file or prompted you on where to save it. Navigate to your downloads folder and there should be a file there to open the installer
+--------------------
+
+--- Message ---
+Message ID: 1280703895286452285
+Message Type: Default
+Reply to: None
+Timestamp: 2024-09-04T01:40:02.964+00:00
+Author: Jared R [CO] • Lead Mod (kyaizen)
+Author Id: 112080668296564736
+Avatar URL: assets\a_de0e3d4a3f9b486ad3ad6df0d72323da-D0252.gif
+Content: DiscordSetup.exe
+--------------------
+
+--- Message ---
+Message ID: 1280704244730691635
+Message Type: Default
+Reply to: None
+Timestamp: 2024-09-04T01:41:26.278+00:00
+Author: Jared R [CO] • Lead Mod (kyaizen)
+Author Id: 112080668296564736
+Avatar URL: assets\a_de0e3d4a3f9b486ad3ad6df0d72323da-D0252.gif
+Content: I'm using Win10 so yours might be a bit different
+--------------------
+
+--- Message ---
+Message ID: 1280709855685906546
+Message Type: Default
+Reply to: None
+Timestamp: 2024-09-04T02:03:44.034+00:00
+Author: Kathleen jones [CA] (kathleenjones0851)
+Author Id: 1277052930255622148
+Avatar URL: assets\1-B2132.png
+Content: Jared!! My daughter helped us get loaded and fundctional on my laptop...thanks so much for reaching our to help me get here! <:blueheart:1252803082849488956>
+--------------------
+
+--- Message ---
+Message ID: 1280710105171492976
+Message Type: Reply
+Reply to: 1280704244730691635
+Timestamp: 2024-09-04T02:04:43.516+00:00
+Author: Kathleen jones [CA] (kathleenjones0851)
+Author Id: 1277052930255622148
+Avatar URL: assets\1-B2132.png
+Content: Jared!! My daughter helped us get loaded and fundctional on my laptop...thanks so much for reaching our to help me get here! <:blueheart:1252803082849488956>
+--------------------
+
+--- Message ---
+Message ID: 1280717208439488584
+Message Type: Default
+Reply to: None
+Timestamp: 2024-09-04T02:32:57.067+00:00
+Author: Jared R [CO] • Lead Mod (kyaizen)
+Author Id: 112080668296564736
+Avatar URL: assets\a_de0e3d4a3f9b486ad3ad6df0d72323da-D0252.gif
+Content: Yay! <a:Partypopper:1279823487061725266> Happy to help! Feel free to post in <#1267941954243526756> if any questions come up about volunteering or any tech issues!
+--------------------

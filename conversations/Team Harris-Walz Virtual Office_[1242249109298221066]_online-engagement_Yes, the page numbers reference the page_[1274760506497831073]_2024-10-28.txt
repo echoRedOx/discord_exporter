@@ -1,0 +1,27 @@
+Guild: Team Harris-Walz Virtual Office (ID: 1242249109298221066)
+Channel: Yes, the page numbers reference the page (ID: 1274760506497831073)
+Channel Topic: None
+Exported At: 2024-10-28T21:52:33.2278743+00:00
+
+
+--- Message ---
+Message ID: 1275479704912269365
+Message Type: 21
+Reply to: 1274760506497831073
+Timestamp: 2024-08-20T15:40:58.918+00:00
+Author: Ada Lester (adal_86101)
+Author Id: 1266797220175413363
+Avatar URL: assets\42e6fdf9e74db04e69ffce9b7a7915d3-DF523.png
+Content: 
+--------------------
+
+--- Message ---
+Message ID: 1275479707533574236
+Message Type: Default
+Reply to: None
+Timestamp: 2024-08-20T15:40:59.543+00:00
+Author: Ada Lester (adal_86101)
+Author Id: 1266797220175413363
+Avatar URL: assets\42e6fdf9e74db04e69ffce9b7a7915d3-DF523.png
+Content: This is the best thing I've seen for Project 2025, I have the PDF downloaded for my phone but didn't have a great way of utilizing it. The effort you put in is tremendous. You really do Rock! <@568257600228032512> - this link should really be elevated. The tool is a wonderful way to give unbiased information about Project 2025, letting the project expose itself.
+--------------------

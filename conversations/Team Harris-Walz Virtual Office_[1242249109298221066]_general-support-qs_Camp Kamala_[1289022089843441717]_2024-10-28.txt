@@ -1,0 +1,49 @@
+Guild: Team Harris-Walz Virtual Office (ID: 1242249109298221066)
+Channel: Camp Kamala (ID: 1289022089843441717)
+Channel Topic: None
+Exported At: 2024-10-28T19:57:58.8160492+00:00
+
+
+--- Message ---
+Message ID: 1289022089843441717
+Message Type: Default
+Reply to: None
+Timestamp: 2024-09-27T00:33:35.091+00:00
+Author: Tai (PA) [Mod/Kamala's Captain] (shesepuede)
+Author Id: 957309531308822639
+Avatar URL: assets\455d163d4abd434dfbbea9e687c97e27-74EF4.png
+Content: Curious: Does anyone know if Camp Kamala trainings are happening this cycle? I attended in 2020 and loved it and would love to do it again. I know there are some in person ones in CA.
+--------------------
+
+--- Message ---
+Message ID: 1289032591311241287
+Message Type: Default
+Reply to: None
+Timestamp: 2024-09-27T01:15:18.836+00:00
+Author: Ophelia W • Lead Mod (opheliawild)
+Author Id: 957714233217409174
+Avatar URL: assets\8b706a86e5f9b8dcaaa950a7500b77b8-E1341.png
+Content: I've seen a few people post some for this cycle, yes. I would check your state channel (and state on events.democrats.org) for that since it seems to fall under more regional and local jurisdiction, not national. 🙂
+--------------------
+
+--- Message ---
+Message ID: 1289293585044475998
+Message Type: Default
+Reply to: None
+Timestamp: 2024-09-27T18:32:24.591+00:00
+Author: DC (dc38923)
+Author Id: 1148793385415622656
+Avatar URL: assets\79ee349b6511e2000af8a32fb8a6974e-915D2.png
+Content: Can someone send me deets for Kamp Kamala tmaro in the Bay, CA?  I signed up but haven’t gotten word.
+--------------------
+
+--- Message ---
+Message ID: 1289303340542328843
+Message Type: Reply
+Reply to: 1289293585044475998
+Timestamp: 2024-09-27T19:11:10.483+00:00
+Author: Ophelia W • Lead Mod (opheliawild)
+Author Id: 957714233217409174
+Avatar URL: assets\8b706a86e5f9b8dcaaa950a7500b77b8-E1341.png
+Content: You'll need to contact them directly on that. You can ask in the <#1268356016240857088> channel if anyone else is in this or you can look for contact info in any email registration confirmation. These events are not part of this discord server as we are the online volunteer arm of the national Harris campaign. Thank you!
+--------------------

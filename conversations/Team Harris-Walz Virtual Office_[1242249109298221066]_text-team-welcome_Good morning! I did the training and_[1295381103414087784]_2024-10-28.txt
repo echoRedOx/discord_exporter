@@ -1,0 +1,38 @@
+Guild: Team Harris-Walz Virtual Office (ID: 1242249109298221066)
+Channel: Good morning! I did the training and (ID: 1295381103414087784)
+Channel Topic: None
+Exported At: 2024-10-28T22:39:55.2994728+00:00
+
+
+--- Message ---
+Message ID: 1295398028487950336
+Message Type: 21
+Reply to: 1295381103414087784
+Timestamp: 2024-10-14T14:49:17.323+00:00
+Author: Roberta Bavin CA KC Greeter/Mod (roberta_24935)
+Author Id: 1269872908759597148
+Avatar URL: assets\df6d19d97b04a49ffcafbe7be14c7839-D9CE4.png
+Content: 
+--------------------
+
+--- Message ---
+Message ID: 1295398032279343135
+Message Type: Default
+Reply to: None
+Timestamp: 2024-10-14T14:49:18.227+00:00
+Author: Roberta Bavin CA KC Greeter/Mod (roberta_24935)
+Author Id: 1269872908759597148
+Avatar URL: assets\df6d19d97b04a49ffcafbe7be14c7839-D9CE4.png
+Content: Hi there <@838948173082001439> Thanks for reaching out. Please look for a DM from Andrew on 10/8. The DM are in upper left corner of Discord at the game controller icon. Thanks!
+--------------------
+
+--- Message ---
+Message ID: 1295399113587949599
+Message Type: Reply
+Reply to: 1295398032279343135
+Timestamp: 2024-10-14T14:53:36.031+00:00
+Author: Savanna Richie, DC (tvdorrose)
+Author Id: 838948173082001439
+Avatar URL: assets\86084c3058f0a59e7eef3ab3b85fc6ad-BA4B4.png
+Content: Oops, I see it now, thank you! That notification is so small.
+--------------------

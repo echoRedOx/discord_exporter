@@ -1,0 +1,37 @@
+- author_avatar_url: assets\df6d19d97b04a49ffcafbe7be14c7839-D9CE4.png
+  author_id: '1269872908759597148'
+  author_name: roberta_24935
+  author_nickname: Roberta Bavin CA KC Greeter/Mod
+  content: ''
+  id: '1298397016510173366'
+  ref_to: '1298381603973632030'
+  timestamp: '2024-10-22T21:26:11.786+00:00'
+  type: '21'
+- author_avatar_url: assets\df6d19d97b04a49ffcafbe7be14c7839-D9CE4.png
+  author_id: '1269872908759597148'
+  author_name: roberta_24935
+  author_nickname: Roberta Bavin CA KC Greeter/Mod
+  content: Hi <@1292805371840172075> Please explain your question. Thanks!
+  id: '1298397020331053139'
+  ref_to: null
+  timestamp: '2024-10-22T21:26:12.697+00:00'
+  type: Default
+- author_avatar_url: assets\8569adcbd36c70a7578c017bf5604ea5-B1442.png
+  author_id: '1292805371840172075'
+  author_name: 2024winit
+  author_nickname: Kate
+  content: <@1269872908759597148> How do I access the text agreement and quiz?
+  id: '1298910266939015168'
+  ref_to: null
+  timestamp: '2024-10-24T07:25:40.224+00:00'
+  type: Default
+- author_avatar_url: assets\df6d19d97b04a49ffcafbe7be14c7839-D9CE4.png
+  author_id: '1269872908759597148'
+  author_name: roberta_24935
+  author_nickname: Roberta Bavin CA KC Greeter/Mod
+  content: Hi Kate! Let me send you a DM! Left upper corner of Discord at game controller
+    icon. Thanks!
+  id: '1299015374292910100'
+  ref_to: null
+  timestamp: '2024-10-24T14:23:19.77+00:00'
+  type: Default

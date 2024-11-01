@@ -1,0 +1,43 @@
+- author_avatar_url: assets\3-FB033.png
+  author_id: '1277036032671617154'
+  author_name: marcyb_23261
+  author_nickname: Marcy Butler (VA)
+  content: In slack I can see a list of all my mentions, so I can go to one place
+    to easily see if & where I've been tagged - does Discord have a similar function?
+    I keep seeing my name tagged in messages when I scroll through old messages in
+    a channel and I can't find any other way of actually knowing those mentions happened.
+    Thank you!
+  id: '1296190261122301984'
+  ref_to: null
+  timestamp: '2024-10-16T19:17:20.302+00:00'
+  type: Default
+- author_avatar_url: assets\a_de0e3d4a3f9b486ad3ad6df0d72323da-D0252.gif
+  author_id: '112080668296564736'
+  author_name: kyaizen
+  author_nickname: "Jared R [CO] \u2022 Lead Mod"
+  content: Hi Marcy, welcome! Yes, Discord has a similar function. If you look in
+    the top right there will be a button to view your inbox which will show all of
+    your mentions.
+  id: '1296190800236908587'
+  ref_to: '1296190261122301984'
+  timestamp: '2024-10-16T19:19:28.837+00:00'
+  type: Reply
+- author_avatar_url: assets\a_de0e3d4a3f9b486ad3ad6df0d72323da-D0252.gif
+  author_id: '112080668296564736'
+  author_name: kyaizen
+  author_nickname: "Jared R [CO] \u2022 Lead Mod"
+  content: ''
+  id: '1296190888371818599'
+  ref_to: null
+  timestamp: '2024-10-16T19:19:49.85+00:00'
+  type: Default
+- author_avatar_url: assets\3-FB033.png
+  author_id: '1277036032671617154'
+  author_name: marcyb_23261
+  author_nickname: Marcy Butler (VA)
+  content: oh my gosh thank you!!! I had no idea thats what that was and this has
+    been driving me mad. thank you!!!
+  id: '1296191045033267300'
+  ref_to: null
+  timestamp: '2024-10-16T19:20:27.201+00:00'
+  type: Default

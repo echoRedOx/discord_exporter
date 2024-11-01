@@ -1,0 +1,45 @@
+- author_avatar_url: assets\791c521e62160be1f3df04992f6e5470-36A38.png
+  author_id: '477560366432256000'
+  author_name: jjoannid
+  author_nickname: Jack Joannides KC text admin
+  content: ''
+  id: '1286819061165985893'
+  ref_to: '1286817184768593993'
+  timestamp: '2024-09-20T22:39:32.124+00:00'
+  type: '21'
+- author_avatar_url: assets\791c521e62160be1f3df04992f6e5470-36A38.png
+  author_id: '477560366432256000'
+  author_name: jjoannid
+  author_nickname: Jack Joannides KC text admin
+  content: We'll add you when you can.
+  id: '1286819062500036668'
+  ref_to: null
+  timestamp: '2024-09-20T22:39:32.442+00:00'
+  type: Default
+- author_avatar_url: assets\55ebaf87879c2e4eccef67749538fd12-0AE7C.png
+  author_id: '1286124961005703199'
+  author_name: danoenterprises
+  author_nickname: Daniel Fischer (MN)
+  content: Thank you!  Just wanted to make sure I did everything as I am new.
+  id: '1286821630596878398'
+  ref_to: null
+  timestamp: '2024-09-20T22:49:44.724+00:00'
+  type: Default
+- author_avatar_url: assets\55ebaf87879c2e4eccef67749538fd12-0AE7C.png
+  author_id: '1286124961005703199'
+  author_name: danoenterprises
+  author_nickname: Daniel Fischer (MN)
+  content: Any update?
+  id: '1287569853737340981'
+  ref_to: null
+  timestamp: '2024-09-23T00:22:55.022+00:00'
+  type: Default
+- author_avatar_url: assets\791c521e62160be1f3df04992f6e5470-36A38.png
+  author_id: '477560366432256000'
+  author_name: jjoannid
+  author_nickname: Jack Joannides KC text admin
+  content: You should have gotten a direct message from <@1269872908759597148>
+  id: '1287572610976317482'
+  ref_to: null
+  timestamp: '2024-09-23T00:33:52.399+00:00'
+  type: Default

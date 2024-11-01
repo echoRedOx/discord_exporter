@@ -1,0 +1,71 @@
+Guild: Team Harris-Walz Virtual Office (ID: 1242249109298221066)
+Channel: I want to do text bank and send edited (ID: 1280329250146357308)
+Channel Topic: None
+Exported At: 2024-10-24T06:16:17.2964015+00:00
+
+
+--- Message ---
+Message ID: 1280329680117043252
+Message Type: 21
+Reply to: 1280329250146357308
+Timestamp: 2024-09-03T00:53:03.115+00:00
+Author: Linda in Burbank (lindainburbank)
+Author Id: 1137876010591846470
+Avatar URL: assets\83bfa3398a8ae3688a52fd908d701050-2D7C6.png
+Content: 
+--------------------
+
+--- Message ---
+Message ID: 1280329682071584890
+Message Type: Default
+Reply to: None
+Timestamp: 2024-09-03T00:53:03.581+00:00
+Author: Linda in Burbank (lindainburbank)
+Author Id: 1137876010591846470
+Avatar URL: assets\83bfa3398a8ae3688a52fd908d701050-2D7C6.png
+Content: We have the <#1265762143559618624> channel so take a look at that and see if that interests you
+--------------------
+
+--- Message ---
+Message ID: 1280330062494830633
+Message Type: Default
+Reply to: None
+Timestamp: 2024-09-03T00:54:34.281+00:00
+Author: Val Hodell (celestial_puppy_58847)
+Author Id: 1150772431175290933
+Avatar URL: assets\5e88585c64e08a25faaa79ec07136b16-1D433.png
+Content: Ok, thank you
+--------------------
+
+--- Message ---
+Message ID: 1280330065070260245
+Message Type: Default
+Reply to: None
+Timestamp: 2024-09-03T00:54:34.895+00:00
+Author: Linda in Burbank (lindainburbank)
+Author Id: 1137876010591846470
+Avatar URL: assets\83bfa3398a8ae3688a52fd908d701050-2D7C6.png
+Content: For Text banking, go to <id:customize> and look for Text Voters in Key States - if you click on that you will find all the available current texting programs
+--------------------
+
+--- Message ---
+Message ID: 1280330220871614464
+Message Type: Default
+Reply to: None
+Timestamp: 2024-09-03T00:55:12.041+00:00
+Author: Val Hodell (celestial_puppy_58847)
+Author Id: 1150772431175290933
+Avatar URL: assets\5e88585c64e08a25faaa79ec07136b16-1D433.png
+Content: Thank you!
+--------------------
+
+--- Message ---
+Message ID: 1280330356372799530
+Message Type: Default
+Reply to: None
+Timestamp: 2024-09-03T00:55:44.347+00:00
+Author: Mlep [TX] • Lead Mod (growth)
+Author Id: 276010165549924353
+Avatar URL: assets\8db27bf35eb7f0b046b8bf1514edce01-02FA5.png
+Content: Hi Val!  I wanted to add, that if you're looking to just enjoy memes that have been seen around the internet, we have the <#1265762143559618624> for that.  If you're interested in creating material with the content creation team, you can apply here: https://events.democrats.org/event/637836/
+--------------------

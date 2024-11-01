@@ -1,0 +1,27 @@
+Guild: Team Harris-Walz Virtual Office (ID: 1242249109298221066)
+Channel: Question, when I am waiting for a (ID: 1299829549072252979)
+Channel Topic: None
+Exported At: 2024-10-28T22:12:20.2246747+00:00
+
+
+--- Message ---
+Message ID: 1299868767895027722
+Message Type: 21
+Reply to: 1299829549072252979
+Timestamp: 2024-10-26T22:54:24.66+00:00
+Author: Andrew Martin [CA[ KC Text Admin (andrewjnla)
+Author Id: 932025725777743923
+Avatar URL: assets\8156a8c1e23069b2fac6bd70259a5ade-A321B.png
+Content: 
+--------------------
+
+--- Message ---
+Message ID: 1299868770634039337
+Message Type: Default
+Reply to: None
+Timestamp: 2024-10-26T22:54:25.313+00:00
+Author: Andrew Martin [CA[ KC Text Admin (andrewjnla)
+Author Id: 932025725777743923
+Avatar URL: assets\8156a8c1e23069b2fac6bd70259a5ade-A321B.png
+Content: Hi <@442134314877059073> Please ask your questions in <#1259238714157305936> Thank you!
+--------------------

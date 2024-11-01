@@ -1,0 +1,27 @@
+Guild: Team Harris-Walz Virtual Office (ID: 1242249109298221066)
+Channel: Lindsey (ID: 1281426885913350186)
+Channel Topic: None
+Exported At: 2024-10-28T23:37:20.1594385+00:00
+
+
+--- Message ---
+Message ID: 1281431213441286184
+Message Type: 21
+Reply to: 1281426885913350186
+Timestamp: 2024-09-06T01:50:09.125+00:00
+Author: Nicole Morris - Text Admin (nmorris237)
+Author Id: 935762347753103382
+Avatar URL: assets\27b1e286b65ae02b3378793b5f098411-A7B20.png
+Content: 
+--------------------
+
+--- Message ---
+Message ID: 1281431215316013169
+Message Type: Default
+Reply to: None
+Timestamp: 2024-09-06T01:50:09.572+00:00
+Author: Nicole Morris - Text Admin (nmorris237)
+Author Id: 935762347753103382
+Avatar URL: assets\27b1e286b65ae02b3378793b5f098411-A7B20.png
+Content: Hi <@1279571981171429591> Thanks! I just sent you a Direct Message as a next step
+--------------------

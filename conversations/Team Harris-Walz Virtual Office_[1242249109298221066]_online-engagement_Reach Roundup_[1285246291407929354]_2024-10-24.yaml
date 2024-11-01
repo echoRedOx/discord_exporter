@@ -1,0 +1,45 @@
+- author_avatar_url: assets\240de4e960e8591f3136c93fbf92c244-59538.png
+  author_id: '1280619651029798924'
+  author_name: gabriellelynn_4444
+  author_nickname: Gabrielle Lynn [HFP Staff]
+  content: ''
+  id: '1285246377898807378'
+  ref_to: '1285246291407929354'
+  timestamp: '2024-09-16T14:30:15.214+00:00'
+  type: '21'
+- author_avatar_url: assets\240de4e960e8591f3136c93fbf92c244-59538.png
+  author_id: '1280619651029798924'
+  author_name: gabriellelynn_4444
+  author_nickname: Gabrielle Lynn [HFP Staff]
+  content: Here's one of my favorites I shared this week!
+  id: '1285246378955505776'
+  ref_to: null
+  timestamp: '2024-09-16T14:30:15.466+00:00'
+  type: Default
+- author_avatar_url: assets\240de4e960e8591f3136c93fbf92c244-59538.png
+  author_id: '1280619651029798924'
+  author_name: gabriellelynn_4444
+  author_nickname: Gabrielle Lynn [HFP Staff]
+  content: ''
+  id: '1285246417950081098'
+  ref_to: null
+  timestamp: '2024-09-16T14:30:24.763+00:00'
+  type: Default
+- author_avatar_url: assets\76cf951b8e67e24cfdb9c9a41a9020e3-1474E.png
+  author_id: '1229872515531280384'
+  author_name: danielledravenstadt
+  author_nickname: Danielle Dravenstadt
+  content: This video.
+  id: '1285249592635424839'
+  ref_to: null
+  timestamp: '2024-09-16T14:43:01.667+00:00'
+  type: Default
+- author_avatar_url: assets\240de4e960e8591f3136c93fbf92c244-59538.png
+  author_id: '1280619651029798924'
+  author_name: gabriellelynn_4444
+  author_nickname: Gabrielle Lynn [HFP Staff]
+  content: "I saw this one on KamalaHQ first! It's too good \U0001F602"
+  id: '1285268906302374031'
+  ref_to: '1285249592635424839'
+  timestamp: '2024-09-16T15:59:46.404+00:00'
+  type: Reply

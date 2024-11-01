@@ -1,0 +1,59 @@
+- author_avatar_url: assets\df6d19d97b04a49ffcafbe7be14c7839-D9CE4.png
+  author_id: '1269872908759597148'
+  author_name: roberta_24935
+  author_nickname: Roberta Bavin CA KC Greeter/Mod
+  content: ''
+  id: '1298333588441534546'
+  ref_to: '1298332543548002437'
+  timestamp: '2024-10-22T17:14:09.356+00:00'
+  type: '21'
+- author_avatar_url: assets\df6d19d97b04a49ffcafbe7be14c7839-D9CE4.png
+  author_id: '1269872908759597148'
+  author_name: roberta_24935
+  author_nickname: Roberta Bavin CA KC Greeter/Mod
+  content: Hi <@1278118222876639326> Thanks for reaching out! It looks like you are
+    fully onboarded. There's a new channel called <#1287795589655822397> that has
+    lots of good information. Thank you so much for coming back!
+  id: '1298333591704698900'
+  ref_to: null
+  timestamp: '2024-10-22T17:14:10.134+00:00'
+  type: Default
+- author_avatar_url: assets\4-4551A.png
+  author_id: '1278118222876639326'
+  author_name: perryd._12789
+  author_nickname: Perry DiToto
+  content: Thank you Roberta!
+  id: '1298334054873038868'
+  ref_to: null
+  timestamp: '2024-10-22T17:16:00.562+00:00'
+  type: Default
+- author_avatar_url: assets\4-4551A.png
+  author_id: '1278118222876639326'
+  author_name: perryd._12789
+  author_nickname: Perry DiToto
+  content: What do the different colors stand for? Where do I find the scripted responses?
+  id: '1298336710240899082'
+  ref_to: null
+  timestamp: '2024-10-22T17:26:33.651+00:00'
+  type: Default
+- author_avatar_url: assets\df6d19d97b04a49ffcafbe7be14c7839-D9CE4.png
+  author_id: '1269872908759597148'
+  author_name: roberta_24935
+  author_nickname: Roberta Bavin CA KC Greeter/Mod
+  content: There are three STW accounts now; you may need to sign up for pink and
+    green since you were onboarded a while ago. Those links should still be in the
+    <#1245442408305393675> channel. The scripted responses are in the campaigns themselves,
+    as replies. We are not sending out the texts, only doing replies.
+  id: '1298340326381191189'
+  ref_to: '1298336710240899082'
+  timestamp: '2024-10-22T17:40:55.806+00:00'
+  type: Reply
+- author_avatar_url: assets\4-4551A.png
+  author_id: '1278118222876639326'
+  author_name: perryd._12789
+  author_nickname: Perry DiToto
+  content: Ok, thanks
+  id: '1298341087525601411'
+  ref_to: null
+  timestamp: '2024-10-22T17:43:57.277+00:00'
+  type: Default

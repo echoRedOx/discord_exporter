@@ -1,0 +1,170 @@
+Guild: Team Harris-Walz Virtual Office (ID: 1242249109298221066)
+Channel: hello all! I dont think texting is (ID: 1281011578413776978)
+Channel Topic: None
+Exported At: 2024-10-28T23:39:21.3589355+00:00
+
+
+--- Message ---
+Message ID: 1281011814766874735
+Message Type: 21
+Reply to: 1281011578413776978
+Timestamp: 2024-09-04T22:03:36.689+00:00
+Author: Jack Joannides KC text admin (jjoannid)
+Author Id: 477560366432256000
+Avatar URL: assets\791c521e62160be1f3df04992f6e5470-36A38.png
+Content: 
+--------------------
+
+--- Message ---
+Message ID: 1281011815945605240
+Message Type: Default
+Reply to: None
+Timestamp: 2024-09-04T22:03:36.97+00:00
+Author: Jack Joannides KC text admin (jjoannid)
+Author Id: 477560366432256000
+Avatar URL: assets\791c521e62160be1f3df04992f6e5470-36A38.png
+Content: Not sure what you mean? You can text here if you've taken an training.
+--------------------
+
+--- Message ---
+Message ID: 1281012758002794571
+Message Type: Default
+Reply to: None
+Timestamp: 2024-09-04T22:07:21.574+00:00
+Author: Devin Golub (devin_45462)
+Author Id: 1278832118797045813
+Avatar URL: assets\eb4b4cb9629beed331ca690b84d1fd8f-C5F1C.png
+Content: oh!! I've taken the training and am ready!
+--------------------
+
+--- Message ---
+Message ID: 1281012902605885511
+Message Type: Default
+Reply to: None
+Timestamp: 2024-09-04T22:07:56.05+00:00
+Author: Devin Golub (devin_45462)
+Author Id: 1278832118797045813
+Avatar URL: assets\eb4b4cb9629beed331ca690b84d1fd8f-C5F1C.png
+Content: are there any on going campaigns?
+--------------------
+
+--- Message ---
+Message ID: 1281013473505054720
+Message Type: Default
+Reply to: None
+Timestamp: 2024-09-04T22:10:12.163+00:00
+Author: Jack Joannides KC text admin (jjoannid)
+Author Id: 477560366432256000
+Avatar URL: assets\791c521e62160be1f3df04992f6e5470-36A38.png
+Content: What's your name?
+--------------------
+
+--- Message ---
+Message ID: 1281013500629618698
+Message Type: Default
+Reply to: None
+Timestamp: 2024-09-04T22:10:18.63+00:00
+Author: Devin Golub (devin_45462)
+Author Id: 1278832118797045813
+Avatar URL: assets\eb4b4cb9629beed331ca690b84d1fd8f-C5F1C.png
+Content: Devin Golub
+--------------------
+
+--- Message ---
+Message ID: 1281013642590031953
+Message Type: Default
+Reply to: None
+Timestamp: 2024-09-04T22:10:52.476+00:00
+Author: Jack Joannides KC text admin (jjoannid)
+Author Id: 477560366432256000
+Avatar URL: assets\791c521e62160be1f3df04992f6e5470-36A38.png
+Content: You should have gotten an direct message from ROberta to update your name.
+--------------------
+
+--- Message ---
+Message ID: 1281013866515533825
+Message Type: Default
+Reply to: None
+Timestamp: 2024-09-04T22:11:45.864+00:00
+Author: Jack Joannides KC text admin (jjoannid)
+Author Id: 477560366432256000
+Avatar URL: assets\791c521e62160be1f3df04992f6e5470-36A38.png
+Content: Let me know if you don't see it.
+--------------------
+
+--- Message ---
+Message ID: 1281014174301945968
+Message Type: Default
+Reply to: None
+Timestamp: 2024-09-04T22:12:59.246+00:00
+Author: Devin Golub (devin_45462)
+Author Id: 1278832118797045813
+Avatar URL: assets\eb4b4cb9629beed331ca690b84d1fd8f-C5F1C.png
+Content: yes...thank you. i just changed my display name..sorry this is the first time im using discord
+--------------------
+
+--- Message ---
+Message ID: 1281014397417947138
+Message Type: Default
+Reply to: None
+Timestamp: 2024-09-04T22:13:52.441+00:00
+Author: Jack Joannides KC text admin (jjoannid)
+Author Id: 477560366432256000
+Avatar URL: assets\791c521e62160be1f3df04992f6e5470-36A38.png
+Content: It's okay. Let me direct you with next steps.
+--------------------
+
+--- Message ---
+Message ID: 1281014827158081656
+Message Type: Default
+Reply to: None
+Timestamp: 2024-09-04T22:15:34.899+00:00
+Author: Devin Golub (devin_45462)
+Author Id: 1278832118797045813
+Avatar URL: assets\eb4b4cb9629beed331ca690b84d1fd8f-C5F1C.png
+Content: ok
+--------------------
+
+--- Message ---
+Message ID: 1281053215692947539
+Message Type: Default
+Reply to: None
+Timestamp: 2024-09-05T00:48:07.439+00:00
+Author: Kirsten Helmer (kirsten_94088)
+Author Id: 1275871861384806472
+Avatar URL: assets\4b45ebbb0e5afa4a1ac8686b76984f9a-4CEDD.png
+Content: Hi. Is there anything going on with texting? I only see the text-team-welcome channel.
+--------------------
+
+--- Message ---
+Message ID: 1281053652852932722
+Message Type: Default
+Reply to: None
+Timestamp: 2024-09-05T00:49:51.666+00:00
+Author: Jack Joannides KC text admin (jjoannid)
+Author Id: 477560366432256000
+Avatar URL: assets\791c521e62160be1f3df04992f6e5470-36A38.png
+Content: You would need to be added to the channels after the training.
+--------------------
+
+--- Message ---
+Message ID: 1281053851931246614
+Message Type: Default
+Reply to: None
+Timestamp: 2024-09-05T00:50:39.13+00:00
+Author: Kirsten Helmer (kirsten_94088)
+Author Id: 1275871861384806472
+Avatar URL: assets\4b45ebbb0e5afa4a1ac8686b76984f9a-4CEDD.png
+Content: I already did the training, signed the community agreement and completed the quiz
+--------------------
+
+--- Message ---
+Message ID: 1281054032013557855
+Message Type: Default
+Reply to: None
+Timestamp: 2024-09-05T00:51:22.065+00:00
+Author: Jack Joannides KC text admin (jjoannid)
+Author Id: 477560366432256000
+Avatar URL: assets\791c521e62160be1f3df04992f6e5470-36A38.png
+Content: Ask this as an new post you’ll get added in 24-72 hours
+--------------------

@@ -1,0 +1,27 @@
+Guild: Team Harris-Walz Virtual Office (ID: 1242249109298221066)
+Channel: @Jack J I'm ready for texting as well. I (ID: 1281629319759663226)
+Channel Topic: None
+Exported At: 2024-10-28T23:37:11.3862886+00:00
+
+
+--- Message ---
+Message ID: 1281629502128001138
+Message Type: 21
+Reply to: 1281629319759663226
+Timestamp: 2024-09-06T14:58:04.832+00:00
+Author: Jack Joannides KC text admin (jjoannid)
+Author Id: 477560366432256000
+Avatar URL: assets\791c521e62160be1f3df04992f6e5470-36A38.png
+Content: 
+--------------------
+
+--- Message ---
+Message ID: 1281629506892726375
+Message Type: Default
+Reply to: None
+Timestamp: 2024-09-06T14:58:05.968+00:00
+Author: Jack Joannides KC text admin (jjoannid)
+Author Id: 477560366432256000
+Avatar URL: assets\791c521e62160be1f3df04992f6e5470-36A38.png
+Content: We'll add you in 24-72 hours.
+--------------------

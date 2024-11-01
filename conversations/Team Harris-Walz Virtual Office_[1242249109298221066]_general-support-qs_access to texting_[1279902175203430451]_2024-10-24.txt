@@ -1,0 +1,94 @@
+Guild: Team Harris-Walz Virtual Office (ID: 1242249109298221066)
+Channel: access to texting (ID: 1279902175203430451)
+Channel Topic: None
+Exported At: 2024-10-24T06:47:55.5829789+00:00
+
+
+--- Message ---
+Message ID: 1279902175203430451
+Message Type: Default
+Reply to: None
+Timestamp: 2024-09-01T20:34:18.001+00:00
+Author: Donna Baugh {CA} (deeebaugh)
+Author Id: 1278122229091012629
+Avatar URL: assets\6c5996770c985bcd6e5b68131ff2ba04-C41B0.png
+Content: @text. 
+I’ve come over from Slack and created my discord account set everything up but still am waiting for access to begin texting.  It’s been  at least 5 days.  Am I missing something?
+--------------------
+
+--- Message ---
+Message ID: 1279903979886612631
+Message Type: Default
+Reply to: None
+Timestamp: 2024-09-01T20:41:28.271+00:00
+Author: Jack Joannides KC text admin (jjoannid)
+Author Id: 477560366432256000
+Avatar URL: assets\791c521e62160be1f3df04992f6e5470-36A38.png
+Content: Let me check on this.
+--------------------
+
+--- Message ---
+Message ID: 1279904221994422284
+Message Type: Default
+Reply to: None
+Timestamp: 2024-09-01T20:42:25.994+00:00
+Author: Jack Joannides KC text admin (jjoannid)
+Author Id: 477560366432256000
+Avatar URL: assets\791c521e62160be1f3df04992f6e5470-36A38.png
+Content: I see now. You never told us if you updated your display name. I'll add you now.
+--------------------
+
+--- Message ---
+Message ID: 1279904736555827250
+Message Type: Default
+Reply to: None
+Timestamp: 2024-09-01T20:44:28.675+00:00
+Author: Jack Joannides KC text admin (jjoannid)
+Author Id: 477560366432256000
+Avatar URL: assets\791c521e62160be1f3df04992f6e5470-36A38.png
+Content: All set.
+--------------------
+
+--- Message ---
+Message ID: 1279905741771378781
+Message Type: Default
+Reply to: None
+Timestamp: 2024-09-01T20:48:28.337+00:00
+Author: Donna Baugh {CA} (deeebaugh)
+Author Id: 1278122229091012629
+Avatar URL: assets\6c5996770c985bcd6e5b68131ff2ba04-C41B0.png
+Content: Thank you.
+--------------------
+
+--- Message ---
+Message ID: 1279949057007161539
+Message Type: Default
+Reply to: None
+Timestamp: 2024-09-01T23:40:35.494+00:00
+Author: Kathleen (kathleen_25898)
+Author Id: 1279947079594152009
+Avatar URL: assets\2-ADBB4.png
+Content: I would like to do text banking for Harris-Walz. How do I get started?
+--------------------
+
+--- Message ---
+Message ID: 1279949306295746662
+Message Type: Default
+Reply to: None
+Timestamp: 2024-09-01T23:41:34.929+00:00
+Author: Jack Joannides KC text admin (jjoannid)
+Author Id: 477560366432256000
+Avatar URL: assets\791c521e62160be1f3df04992f6e5470-36A38.png
+Content: https://events.democrats.org/event/654680/ and let me find the other link.
+--------------------
+
+--- Message ---
+Message ID: 1279949402626068502
+Message Type: Default
+Reply to: None
+Timestamp: 2024-09-01T23:41:57.896+00:00
+Author: Jack Joannides KC text admin (jjoannid)
+Author Id: 477560366432256000
+Avatar URL: assets\791c521e62160be1f3df04992f6e5470-36A38.png
+Content: https://events.democrats.org/event/672393/
+--------------------

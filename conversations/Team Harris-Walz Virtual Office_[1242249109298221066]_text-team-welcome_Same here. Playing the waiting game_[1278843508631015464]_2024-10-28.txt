@@ -1,0 +1,27 @@
+Guild: Team Harris-Walz Virtual Office (ID: 1242249109298221066)
+Channel: Same here. Playing the waiting game... (ID: 1278843508631015464)
+Channel Topic: None
+Exported At: 2024-10-28T23:49:29.7973034+00:00
+
+
+--- Message ---
+Message ID: 1278906324838650077
+Message Type: 21
+Reply to: 1278843508631015464
+Timestamp: 2024-08-30T02:37:08.772+00:00
+Author: Nicole Morris - Text Admin (nmorris237)
+Author Id: 935762347753103382
+Avatar URL: assets\27b1e286b65ae02b3378793b5f098411-A7B20.png
+Content: 
+--------------------
+
+--- Message ---
+Message ID: 1278906326285811772
+Message Type: Default
+Reply to: None
+Timestamp: 2024-08-30T02:37:09.117+00:00
+Author: Nicole Morris - Text Admin (nmorris237)
+Author Id: 935762347753103382
+Avatar URL: assets\27b1e286b65ae02b3378793b5f098411-A7B20.png
+Content: <@936622618293968958> Thanks! Please give us 24-48 hours to complete your onboarding. Keep an eye on our your Direct Messages on Discord (top left corner) for a message from a moderator.
+--------------------

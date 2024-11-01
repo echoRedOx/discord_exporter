@@ -1,0 +1,49 @@
+Guild: Team Harris-Walz Virtual Office (ID: 1242249109298221066)
+Channel: Offer to Help with Meme Creation (ID: 1286196125921054791)
+Channel Topic: None
+Exported At: 2024-10-28T21:46:19.1715168+00:00
+
+
+--- Message ---
+Message ID: 1286196799790645290
+Message Type: 21
+Reply to: 1286196125921054791
+Timestamp: 2024-09-19T05:26:53.451+00:00
+Author: Jay E  (TX)  OE Mod (jayrio76)
+Author Id: 782870341445353522
+Avatar URL: assets\41ef520387924aa4413513eda28784df-34D82.png
+Content: 
+--------------------
+
+--- Message ---
+Message ID: 1286196801149603901
+Message Type: Default
+Reply to: None
+Timestamp: 2024-09-19T05:26:53.775+00:00
+Author: Jay E  (TX)  OE Mod (jayrio76)
+Author Id: 782870341445353522
+Avatar URL: assets\41ef520387924aa4413513eda28784df-34D82.png
+Content: <@188697047153508353>  - Thank you. We appreciate it.
+--------------------
+
+--- Message ---
+Message ID: 1286197449689665567
+Message Type: Default
+Reply to: None
+Timestamp: 2024-09-19T05:29:28.399+00:00
+Author: Bre Hoffman (IL) (bre777)
+Author Id: 188697047153508353
+Avatar URL: assets\eb4e3f919cfa6aead6d4b30c7be4365f-4DA14.png
+Content: No worries. I like to do what I can and I have applied for the content team but never hear back unfortunately.
+--------------------
+
+--- Message ---
+Message ID: 1286198319449903114
+Message Type: Reply
+Reply to: 1286197449689665567
+Timestamp: 2024-09-19T05:32:55.766+00:00
+Author: Jay E  (TX)  OE Mod (jayrio76)
+Author Id: 782870341445353522
+Avatar URL: assets\41ef520387924aa4413513eda28784df-34D82.png
+Content: I know they are swamped, but I would post in the <#1250550849998946417> channel. (Online Engagement) to inquire further.
+--------------------

@@ -1,0 +1,39 @@
+- author_avatar_url: assets\28a90c77b5793d80eb62484a43c66748-D8837.png
+  author_id: '568257600228032512'
+  author_name: carb.on
+  author_nickname: "Carolyn B [CA] \u2022 Lead Mod"
+  content: ''
+  id: '1277090363399471216'
+  ref_to: '1277090048600440884'
+  timestamp: '2024-08-25T02:21:09.826+00:00'
+  type: '21'
+- author_avatar_url: assets\28a90c77b5793d80eb62484a43c66748-D8837.png
+  author_id: '568257600228032512'
+  author_name: carb.on
+  author_nickname: "Carolyn B [CA] \u2022 Lead Mod"
+  content: I just turned this into a thread for you. Now it's a smaller group chat
+    within the larger NY group chat.
+  id: '1277090364486062150'
+  ref_to: null
+  timestamp: '2024-08-25T02:21:10.085+00:00'
+  type: Default
+- author_avatar_url: assets\374448971e4297dfc0697d204edf1d9e-D0925.png
+  author_id: '1074776784207368402'
+  author_name: marais9160
+  author_nickname: alexandra
+  content: Great! Thanks! Can I make a poll to decide on a time/location?
+  id: '1277266549941469246'
+  ref_to: null
+  timestamp: '2024-08-25T14:01:15.971+00:00'
+  type: Default
+- author_avatar_url: assets\28a90c77b5793d80eb62484a43c66748-D8837.png
+  author_id: '568257600228032512'
+  author_name: carb.on
+  author_nickname: "Carolyn B [CA] \u2022 Lead Mod"
+  content: "You can make a simple poll, ask your question and use emoji reactions\
+    \ for answers. Like this:\nWhat do you want for dinner? pick \U0001F955 \U0001F345\
+    \ \U0001FAD1"
+  id: '1277493382016663553'
+  ref_to: '1277266549941469246'
+  timestamp: '2024-08-26T05:02:36.952+00:00'
+  type: Reply

@@ -1,0 +1,152 @@
+Guild: Team Harris-Walz Virtual Office (ID: 1242249109298221066)
+Channel: text banking sign up (ID: 1272669194349051955)
+Channel Topic: None
+Exported At: 2024-10-24T07:03:26.5530935+00:00
+
+
+--- Message ---
+Message ID: 1272669194349051955
+Message Type: Default
+Reply to: None
+Timestamp: 2024-08-12T21:33:00.983+00:00
+Author: David W [OR] (dayandnight25)
+Author Id: 1272416530390585447
+Avatar URL: assets\1-B2132.png
+Content: Just signed up with Harris Walz discord today. I want to do text banking. How do I get trained in the texting platform? How do I join the Harris Walz national texting team and start texting? Thanks.
+--------------------
+
+--- Message ---
+Message ID: 1272669553528144013
+Message Type: Default
+Reply to: None
+Timestamp: 2024-08-12T21:34:26.618+00:00
+Author: Jack Joannides KC text admin (jjoannid)
+Author Id: 477560366432256000
+Avatar URL: assets\791c521e62160be1f3df04992f6e5470-36A38.png
+Content: At this moment in time texting is at capcity for trainings.
+--------------------
+
+--- Message ---
+Message ID: 1272670354523033825
+Message Type: Default
+Reply to: None
+Timestamp: 2024-08-12T21:37:37.59+00:00
+Author: David W [OR] (dayandnight25)
+Author Id: 1272416530390585447
+Avatar URL: assets\1-B2132.png
+Content: OK. How do I find out about the next available training so I can be first to sign up? I’ve seen nothing in the usual places.
+--------------------
+
+--- Message ---
+Message ID: 1272670913132888125
+Message Type: Default
+Reply to: None
+Timestamp: 2024-08-12T21:39:50.773+00:00
+Author: Jack Joannides KC text admin (jjoannid)
+Author Id: 477560366432256000
+Avatar URL: assets\791c521e62160be1f3df04992f6e5470-36A38.png
+Content: Here https://events.democrats.org/event/654680/?referring_vol=6476689&share_context=dashboard-event-details&sharer_role=SharerRole.ORGANIZER
+--------------------
+
+--- Message ---
+Message ID: 1272673103180468317
+Message Type: Default
+Reply to: None
+Timestamp: 2024-08-12T21:48:32.921+00:00
+Author: David W [OR] (dayandnight25)
+Author Id: 1272416530390585447
+Avatar URL: assets\1-B2132.png
+Content: Thanks. I will check that site periodically. How do I become part of this discord server’s text team channel so I might get notices of upcoming trainings and am ready to go with texting? Also, must I go thru training before I can text? I did texting for Biden Harris in 2020 with Through Text I believe.
+--------------------
+
+--- Message ---
+Message ID: 1272677370335334533
+Message Type: Reply
+Reply to: 1272673103180468317
+Timestamp: 2024-08-12T22:05:30.29+00:00
+Author: Jack Joannides KC text admin (jjoannid)
+Author Id: 477560366432256000
+Avatar URL: assets\791c521e62160be1f3df04992f6e5470-36A38.png
+Content: So the only channel would be <#1266829704204386334> as all the other text channels are private. And you have to go through training before we text. And we don't send out notices.
+--------------------
+
+--- Message ---
+Message ID: 1272685723731890256
+Message Type: Default
+Reply to: None
+Timestamp: 2024-08-12T22:38:41.895+00:00
+Author: David W [OR] (dayandnight25)
+Author Id: 1272416530390585447
+Avatar URL: assets\1-B2132.png
+Content: OK. I will check the DNC site link you sent periodically. Can you please pass on a message to whoever is in charge of scheduling the text trainings and the texting program in general? I am aware that this greatly compressed timeframe for the Harris Walz campaign is like building an airplane while you’re flying it, but the digital campaign has GOT to schedule more and frequent text platform trainings ASAP so we can get more people texting now. Me, for example, I’m ready to start texting now but I’ll have to wait. I LOVED doing national texting with the Biden Harris 2020 campaign. I want to do the same for Harris Walz 2024. I’m sure there are many others in my position, too. Got to find a way to turn all this potential campaign volunteer energy into work. We’ve got less than 3 months to win this thing. Thanks.
+--------------------
+
+--- Message ---
+Message ID: 1272686837239910451
+Message Type: Default
+Reply to: None
+Timestamp: 2024-08-12T22:43:07.376+00:00
+Author: David W [OR] (dayandnight25)
+Author Id: 1272416530390585447
+Avatar URL: assets\1-B2132.png
+Content: Jack, don’t mean to rant and rave. Just trying to point out a bottleneck as perceived by a wanna be volunteer. Thank you for your work as moderator.
+--------------------
+
+--- Message ---
+Message ID: 1272687453240819794
+Message Type: Default
+Reply to: None
+Timestamp: 2024-08-12T22:45:34.242+00:00
+Author: Jeannine M • Lead Mod (jean9_28218_79932)
+Author Id: 1266879741785538682
+Avatar URL: assets\54ff5e8dfab835d878a961f9f7b7d161-6C0EE.png
+Content: Thank you for your enthusiasm and willingness to get to work, David! I know you are excite to text, and we have lots of other ways you can get involved, and soon! Check out these events/trainings and see what looks good to you:
+[Organizing on TikTok](https://events.democrats.org/event/634652/)
+[Zoom Phone Bank](https://events.democrats.org/event/569897/)
+[Mobile Inbox Team](https://events.democrats.org/event/645904/)
+[Special projects volunteer](https://events.democrats.org/event/621790/)
+--------------------
+
+--- Message ---
+Message ID: 1272689030600851507
+Message Type: Reply
+Reply to: 1272686837239910451
+Timestamp: 2024-08-12T22:51:50.314+00:00
+Author: Jack Joannides KC text admin (jjoannid)
+Author Id: 477560366432256000
+Avatar URL: assets\791c521e62160be1f3df04992f6e5470-36A38.png
+Content: I understand your concerns.
+--------------------
+
+--- Message ---
+Message ID: 1272691182484455525
+Message Type: Default
+Reply to: None
+Timestamp: 2024-08-12T23:00:23.363+00:00
+Author: David W [OR] (dayandnight25)
+Author Id: 1272416530390585447
+Avatar URL: assets\1-B2132.png
+Content: Jeannine and/or Jack: thanks for responding. I will check these out. Based on past volunteer work, I’ve found that texting is better than phone banking. (For starters, many people just don’t pick up calls from unknown numbers. I don’t.) For the text banking, am I correct that my next steps are to watch the DNC site for future trainings, do the training, then I will get an invitation from the text team moderators and given access to the daily batches of text assignments to sign up for? This was more or less the process with Slack and Through Text in 2020. Thanks and have a good day.
+--------------------
+
+--- Message ---
+Message ID: 1272882063275724801
+Message Type: Reply
+Reply to: 1272685723731890256
+Timestamp: 2024-08-13T11:38:52.89+00:00
+Author: Cindy Cunningham (VA) (cindyva.)
+Author Id: 1190278252384763966
+Avatar URL: assets\6c5996770c985bcd6e5b68131ff2ba04-E85C1.png
+Content: Came here with the same question (even though I've already texted here in past year elections, including the Kansas abortion amendment). Oh well. David, the Gavin Newsome PAC has been texting nationally to swing states since before Harris became the new nominee and they're very well-organized and the training is easy and on You Tube. Maybe try that for now? https://campaignfordemocracy.com/text/?source=em240709-1
+--------------------
+
+--- Message ---
+Message ID: 1272988865631883398
+Message Type: Default
+Reply to: None
+Timestamp: 2024-08-13T18:43:16.556+00:00
+Author: David W [OR] (dayandnight25)
+Author Id: 1272416530390585447
+Avatar URL: assets\1-B2132.png
+Content: Cindy: Thanks. I will check this out. Hope this gets to you, still learning discord. Have a great day!
+--------------------

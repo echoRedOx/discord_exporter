@@ -1,0 +1,16 @@
+Guild: Team Harris-Walz Virtual Office (ID: 1242249109298221066)
+Channel: starting a zoom (ID: 1290069789120659569)
+Channel Topic: None
+Exported At: 2024-10-24T12:48:18.8296183+00:00
+
+
+--- Message ---
+Message ID: 1290069789120659569
+Message Type: Default
+Reply to: None
+Timestamp: 2024-09-29T21:56:46.064+00:00
+Author: Meina (meina_47301)
+Author Id: 1289986962643746877
+Avatar URL: assets\5-E9BDB.png
+Content: hi-- i am supposed to be co-hosting a phone bank at 6pm et, but the host hasn't started the zoom. what should i do?
+--------------------

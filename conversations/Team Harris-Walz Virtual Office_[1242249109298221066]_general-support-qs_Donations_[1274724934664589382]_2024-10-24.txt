@@ -1,0 +1,104 @@
+Guild: Team Harris-Walz Virtual Office (ID: 1242249109298221066)
+Channel: Donations (ID: 1274724934664589382)
+Channel Topic: None
+Exported At: 2024-10-24T07:01:15.5952157+00:00
+
+
+--- Message ---
+Message ID: 1274724934664589382
+Message Type: Default
+Reply to: None
+Timestamp: 2024-08-18T13:41:47.668+00:00
+Author: Paul in Newburgh (paulinnewburgh)
+Author Id: 1274405252514189383
+Avatar URL: assets\ed6d95cf5e1dbf7a027ee8b92282a4a9-53BC8.png
+Content: My partner and I are hosting a fundraiser. How do I direct donations? QR code? Cash? I’ve tried repeatedly to reach someone at the campaign, but no response.
+--------------------
+
+--- Message ---
+Message ID: 1274733907132026912
+Message Type: Default
+Reply to: None
+Timestamp: 2024-08-18T14:17:26.871+00:00
+Author: Jeannine M • Lead Mod (jean9_28218_79932)
+Author Id: 1266879741785538682
+Avatar URL: assets\54ff5e8dfab835d878a961f9f7b7d161-6C0EE.png
+Content: Hi, <@1274405252514189383> ! Let me see if I can get an answer for you, or get someone to help 🙂
+--------------------
+
+--- Message ---
+Message ID: 1274736439258644553
+Message Type: Reply
+Reply to: 1274733907132026912
+Timestamp: 2024-08-18T14:27:30.577+00:00
+Author: Paul in Newburgh (paulinnewburgh)
+Author Id: 1274405252514189383
+Avatar URL: assets\ed6d95cf5e1dbf7a027ee8b92282a4a9-53BC8.png
+Content: Thank you.
+--------------------
+
+--- Message ---
+Message ID: 1274739202453667901
+Message Type: Default
+Reply to: None
+Timestamp: 2024-08-18T14:38:29.374+00:00
+Author: Jeannine M • Lead Mod (jean9_28218_79932)
+Author Id: 1266879741785538682
+Avatar URL: assets\54ff5e8dfab835d878a961f9f7b7d161-6C0EE.png
+Content: <@1257469301435400238> would you be able to share some info on this?
+--------------------
+
+--- Message ---
+Message ID: 1274741085846900827
+Message Type: Default
+Reply to: None
+Timestamp: 2024-08-18T14:45:58.41+00:00
+Author: Frances Haydock (HFP HQ!) (franceshaydock_20619)
+Author Id: 1257469301435400238
+Avatar URL: assets\8286d5b1308e7b3d80a3523e4ec50548-C029D.png
+Content: Probably just have folks go to kamalaharris.com/donate
+--------------------
+
+--- Message ---
+Message ID: 1274741888813105163
+Message Type: Default
+Reply to: None
+Timestamp: 2024-08-18T14:49:09.852+00:00
+Author: Jeannine M • Lead Mod (jean9_28218_79932)
+Author Id: 1266879741785538682
+Avatar URL: assets\54ff5e8dfab835d878a961f9f7b7d161-6C0EE.png
+Content: Thank you, Frances!
+--------------------
+
+--- Message ---
+Message ID: 1274743498846765097
+Message Type: Default
+Reply to: None
+Timestamp: 2024-08-18T14:55:33.714+00:00
+Author: Mimi P. [UT] • Lead Moo 🐄 (snowbunslc)
+Author Id: 690265089013842114
+Avatar URL: assets\a_af687ec26437850595306bad054786e9-735FE.gif
+Content: It’s possible to make a QR code for the website that people at your fundraiser can scan. Would that be helpful? If so, let me see if I can either find one, or I can create one, or even show you how to make one yourself if you’d like.
+--------------------
+
+--- Message ---
+Message ID: 1274744308230262828
+Message Type: Reply
+Reply to: 1274743498846765097
+Timestamp: 2024-08-18T14:58:46.686+00:00
+Author: rootsmusic (rootsmusic)
+Author Id: 791857656897732648
+Avatar URL: assets\a30e650576a6d42a3c9ee24648f67c90-2AE37.png
+Content: The campaign's QR codes are saved at https://discord.com/channels/1242249109298221066/1269443346372362383/1269476024857399418.  But others have asked about text numbers.
+--------------------
+
+--- Message ---
+Message ID: 1274770435766091948
+Message Type: Default
+Reply to: None
+Timestamp: 2024-08-18T16:42:35.976+00:00
+Author: Paul in Newburgh (paulinnewburgh)
+Author Id: 1274405252514189383
+Avatar URL: assets\ed6d95cf5e1dbf7a027ee8b92282a4a9-53BC8.png
+Content: I will try to set up a QR code. I’m surprised there isn’t a guide to how to host a fundraiser. I suppose unless you are an A-lister or mega donor, a fundraiser isn’t very important.
+--------------------

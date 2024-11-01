@@ -1,0 +1,55 @@
+Guild: Team Harris-Walz Virtual Office (ID: 1242249109298221066)
+Channel: Text Team Gatekeeping Concerns (ID: 1275514170493632623)
+Channel Topic: None
+Exported At: 2024-10-28T20:27:33.7445279+00:00
+
+
+--- Message ---
+Message ID: 1275514170493632623
+Message Type: Default
+Reply to: None
+Timestamp: 2024-08-20T17:57:56.153+00:00
+Author: Ashley D’Andrea [NJ] (robwilco)
+Author Id: 391802910217863168
+Avatar URL: assets\2c535c9a78b6e0a6791bcf4d0d2ae524-0F11E.png
+Content: A gatekeeping step was recently put in place for the text team. Participants who already went through training were given a five question pop quiz and a new form to complete.
+
+Following that, an unknown number of participants were removed from text team access, including myself.
+
+It’s been days and still no news on what’s next, just silence. It is a significant speed bump and is demoralizing and dispiriting besides, especially for the more neurospicy amongst us or folks who are simply not good quiz/test takers. 
+
+This gatekeeping needs to be addressed or we risk losing many good folks unnecessarily and needlessly.
+--------------------
+
+--- Message ---
+Message ID: 1275517800877789205
+Message Type: Default
+Reply to: None
+Timestamp: 2024-08-20T18:12:21.704+00:00
+Author: Tim B [CA] KC Text Admin (otter20079058)
+Author Id: 968557716832391219
+Avatar URL: assets\ff322353539338ae0919d2cd05ec6b4f-297C8.png
+Content: <@391802910217863168>  Please check your DMs, Text Mods have messaged you yesterday. The upper left corner of screen, the game controller may see 'message request' to approve to read the DM.  Appreciate it. <:thankyou:1252806147396735057> <:blueheart:1252803082849488956>
+--------------------
+
+--- Message ---
+Message ID: 1275560526088507423
+Message Type: Default
+Reply to: None
+Timestamp: 2024-08-20T21:02:08.188+00:00
+Author: Katherine Dela Cruz (CA) (kat_dc_ca)
+Author Id: 1270900908007489538
+Avatar URL: assets\4-4551A.png
+Content: <@968557716832391219> Can you please support me on this as well? I was on the channels and have been removed. I never got a request to fill out any additional information after I was added to the channels but now I'm not on them anymore. Thanks
+--------------------
+
+--- Message ---
+Message ID: 1275563122500833406
+Message Type: Reply
+Reply to: 1275560526088507423
+Timestamp: 2024-08-20T21:12:27.221+00:00
+Author: Tim B [CA] KC Text Admin (otter20079058)
+Author Id: 968557716832391219
+Avatar URL: assets\ff322353539338ae0919d2cd05ec6b4f-297C8.png
+Content: <@1270900908007489538>  please check you Discord DMs. thank you.
+--------------------

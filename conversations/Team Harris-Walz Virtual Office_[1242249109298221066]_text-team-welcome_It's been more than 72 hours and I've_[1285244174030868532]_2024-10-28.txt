@@ -1,0 +1,38 @@
+Guild: Team Harris-Walz Virtual Office (ID: 1242249109298221066)
+Channel: It's been more than 72 hours and I've (ID: 1285244174030868532)
+Channel Topic: None
+Exported At: 2024-10-28T23:20:50.5326205+00:00
+
+
+--- Message ---
+Message ID: 1285249043399708774
+Message Type: 21
+Reply to: 1285244174030868532
+Timestamp: 2024-09-16T14:40:50.719+00:00
+Author: Nicole Morris - Text Admin (nmorris237)
+Author Id: 935762347753103382
+Avatar URL: assets\27b1e286b65ae02b3378793b5f098411-A7B20.png
+Content: 
+--------------------
+
+--- Message ---
+Message ID: 1285249045509705792
+Message Type: Default
+Reply to: None
+Timestamp: 2024-09-16T14:40:51.222+00:00
+Author: Nicole Morris - Text Admin (nmorris237)
+Author Id: 935762347753103382
+Avatar URL: assets\27b1e286b65ae02b3378793b5f098411-A7B20.png
+Content: Hi <@1251569091106439292> Thanks! I'll send you a Direct Message now!
+--------------------
+
+--- Message ---
+Message ID: 1285249207728472097
+Message Type: Default
+Reply to: None
+Timestamp: 2024-09-16T14:41:29.898+00:00
+Author: Susan Acevedo (susan___a)
+Author Id: 1251569091106439292
+Avatar URL: assets\7d6c0acf0f7c8326fd86b6c459ae0587-40F31.png
+Content: Thank you I'll look for it.
+--------------------

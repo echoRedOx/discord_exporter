@@ -1,0 +1,49 @@
+Guild: Team Harris-Walz Virtual Office (ID: 1242249109298221066)
+Channel: I haven’t seen a DM yet, did I miss a (ID: 1298667173828362251)
+Channel Topic: None
+Exported At: 2024-10-28T22:17:19.8967486+00:00
+
+
+--- Message ---
+Message ID: 1298856200846311464
+Message Type: 21
+Reply to: 1298667173828362251
+Timestamp: 2024-10-24T03:50:49.863+00:00
+Author: Nicole Morris - Text Admin (nmorris237)
+Author Id: 935762347753103382
+Avatar URL: assets\27b1e286b65ae02b3378793b5f098411-A7B20.png
+Content: 
+--------------------
+
+--- Message ---
+Message ID: 1298856204633641020
+Message Type: Default
+Reply to: None
+Timestamp: 2024-10-24T03:50:50.766+00:00
+Author: Nicole Morris - Text Admin (nmorris237)
+Author Id: 935762347753103382
+Avatar URL: assets\27b1e286b65ae02b3378793b5f098411-A7B20.png
+Content: Hi Sasha - thanks! It looks like you're part of our Persusion team. This channel is for onboarding texters for the Text Team (different team!).
+--------------------
+
+--- Message ---
+Message ID: 1298999214357090344
+Message Type: Default
+Reply to: None
+Timestamp: 2024-10-24T13:19:06.941+00:00
+Author: Sasha Geist NY (the__sasha)
+Author Id: 434387454435393536
+Avatar URL: assets\7ca4ee1b4ec03f04eae9db4a9df262f3-ACA3C.png
+Content: Oh sorry about that! Ty
+--------------------
+
+--- Message ---
+Message ID: 1299003478483402753
+Message Type: Default
+Reply to: None
+Timestamp: 2024-10-24T13:36:03.588+00:00
+Author: Nicole Morris - Text Admin (nmorris237)
+Author Id: 935762347753103382
+Avatar URL: assets\27b1e286b65ae02b3378793b5f098411-A7B20.png
+Content: No worries!
+--------------------

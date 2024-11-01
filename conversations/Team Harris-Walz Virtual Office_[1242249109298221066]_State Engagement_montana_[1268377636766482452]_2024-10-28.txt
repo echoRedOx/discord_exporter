@@ -1,0 +1,802 @@
+Guild: Team Harris-Walz Virtual Office (ID: 1242249109298221066)
+Channel: montana (ID: 1268377636766482452)
+Channel Topic: To discuss organizing endeavors specific to Montana!
+Exported At: 2024-10-29T00:24:30.1854257+00:00
+
+
+--- Message ---
+Message ID: 1268717303030349855
+Message Type: Default
+Reply to: None
+Timestamp: 2024-08-01T23:49:36.67+00:00
+Author: Gail Waldby (gailwaldby)
+Author Id: 1256282021962055682
+Avatar URL: assets\d4fcd3e6b11457a95896ffae23db27f8-690EF.png
+Content: The Montana Megaphone project has graphics that support Democratic policies and Senator Jon Tester https://mt.ourmegaphone.org/
+--------------------
+
+--- Message ---
+Message ID: 1271893005690998836
+Message Type: Default
+Reply to: None
+Timestamp: 2024-08-10T18:08:43.186+00:00
+Author: KTMG  • Community Mod (ktmg)
+Author Id: 447570500030562314
+Avatar URL: assets\4ab56c60f334133787a2e11eccf36d79-7F4A0.png
+Content: This is just a reminder that you can sign up to phone bank, canvass, get trainings  or take other actions at https://events.democrats.org/ in your state or in one of our battleground states (NC, PA, GA, NH, WI, PA, MI, AZ, NV). Volunteers like you make all the difference! We look forward to seeing you at an event soon.
+--------------------
+
+--- Message ---
+Message ID: 1276263102752751758
+Message Type: Default
+Reply to: None
+Timestamp: 2024-08-22T19:33:55.518+00:00
+Author: Carolyn B [CA] • Lead Mod (carb.on)
+Author Id: 568257600228032512
+Avatar URL: assets\28a90c77b5793d80eb62484a43c66748-D8837.png
+Content: ## [Montana Voter Information](https://www.vote.org/state/montana/)
+--------------------
+
+--- Message ---
+Message ID: 1276263124441501746
+Message Type: ChannelPinnedMessage
+Reply to: 1276263102752751758
+Timestamp: 2024-08-22T19:34:00.689+00:00
+Author: Carolyn B [CA] • Lead Mod (carb.on)
+Author Id: 568257600228032512
+Avatar URL: assets\28a90c77b5793d80eb62484a43c66748-D8837.png
+Content: Pinned a message.
+--------------------
+
+--- Message ---
+Message ID: 1277454011288784937
+Message Type: Default
+Reply to: None
+Timestamp: 2024-08-26T02:26:10.239+00:00
+Author: Revka-Ordo (revka_ordo)
+Author Id: 308031439755149315
+Avatar URL: assets\b988f852d38cfea10a5a86c94c5c4488-BDDEC.png
+Content: Western MT peeps: the mail sort facility for letters was moved to Spokane from Missoula with no public announcement, and it’s adding 2-3 days to mail times. Plan ahead if you mail in your ballot.
+--------------------
+
+--- Message ---
+Message ID: 1279244491018211349
+Message Type: Reply
+Reply to: 1277454011288784937
+Timestamp: 2024-08-31T01:00:53.872+00:00
+Author: MAC (gentle.storm)
+Author Id: 696402442270801953
+Avatar URL: assets\627a8a664156cb1dbc63c1d763551084-1E936.png
+Content: Does it have to be recieved by election day? I thought it has to be postmarked by election day. I'm planning to vote in person but most people I know are voting by mail so I want to make sure I give them good info if I encourage people to vote early.
+--------------------
+
+--- Message ---
+Message ID: 1279271753058746439
+Message Type: Reply
+Reply to: 1279244491018211349
+Timestamp: 2024-08-31T02:49:13.649+00:00
+Author: Revka-Ordo (revka_ordo)
+Author Id: 308031439755149315
+Avatar URL: assets\b988f852d38cfea10a5a86c94c5c4488-BDDEC.png
+Content: They need to be RECEIVED by 8PM the day of the election. If you change your status to absentee ballot 30 days or less before the election, you must pick up the ballot at the election office.
+
+https://sosmt.gov/elections/absentee/
+--------------------
+
+--- Message ---
+Message ID: 1279272231100223489
+Message Type: Default
+Reply to: None
+Timestamp: 2024-08-31T02:51:07.623+00:00
+Author: Revka-Ordo (revka_ordo)
+Author Id: 308031439755149315
+Avatar URL: assets\b988f852d38cfea10a5a86c94c5c4488-BDDEC.png
+Content: Also, Montanans need to start voting in every election. Skip one and you are marked “inactive” and your signature no longer counts for ballot initiatives. More Republican gamesmanship.
+--------------------
+
+--- Message ---
+Message ID: 1279272615462305946
+Message Type: Default
+Reply to: None
+Timestamp: 2024-08-31T02:52:39.262+00:00
+Author: Revka-Ordo (revka_ordo)
+Author Id: 308031439755149315
+Avatar URL: assets\b988f852d38cfea10a5a86c94c5c4488-BDDEC.png
+Content: #votejessemullen
+--------------------
+
+--- Message ---
+Message ID: 1279299157005172788
+Message Type: Reply
+Reply to: 1279272231100223489
+Timestamp: 2024-08-31T04:38:07.259+00:00
+Author: MAC (gentle.storm)
+Author Id: 696402442270801953
+Avatar URL: assets\627a8a664156cb1dbc63c1d763551084-1E936.png
+Content: Does that include primaries? I've been living in Minneapolis for 10 yrs. I thought I'd kept up with MT politics but guess I have some reading to do...I knew the signatures were a big deal but haven't heard about the "inactive" status.
+--------------------
+
+--- Message ---
+Message ID: 1279306868434538546
+Message Type: Reply
+Reply to: 1279299157005172788
+Timestamp: 2024-08-31T05:08:45.807+00:00
+Author: Revka-Ordo (revka_ordo)
+Author Id: 308031439755149315
+Avatar URL: assets\b988f852d38cfea10a5a86c94c5c4488-BDDEC.png
+Content: I don’t think it’s primaries or the local county elections, just any federal election. A bunch of people skipped midterms and got screwed. (“Every” was not specific enough, my mistake.)
+--------------------
+
+--- Message ---
+Message ID: 1279307115714052097
+Message Type: Default
+Reply to: None
+Timestamp: 2024-08-31T05:09:44.763+00:00
+Author: Revka-Ordo (revka_ordo)
+Author Id: 308031439755149315
+Avatar URL: assets\b988f852d38cfea10a5a86c94c5c4488-BDDEC.png
+Content: The statute *says* Federal, but the statute ALSO *says* they are supposed be warn you by mail first before moving your status.
+--------------------
+
+--- Message ---
+Message ID: 1279307784575258634
+Message Type: Default
+Reply to: None
+Timestamp: 2024-08-31T05:12:24.232+00:00
+Author: MAC (gentle.storm)
+Author Id: 696402442270801953
+Avatar URL: assets\627a8a664156cb1dbc63c1d763551084-1E936.png
+Content: Thanks for the clarification! Super helpful.
+--------------------
+
+--- Message ---
+Message ID: 1280372838225805352
+Message Type: Default
+Reply to: None
+Timestamp: 2024-09-03T03:44:32.81+00:00
+Author: Jeannine M • Lead Mod (jean9_28218_79932)
+Author Id: 1266879741785538682
+Avatar URL: assets\54ff5e8dfab835d878a961f9f7b7d161-6C0EE.png
+Content: <a:star_wave:1269735420359606369> Hey, Team! We know you want to help make a difference! Did you know though that hosting a debate watch party is an amazing way to get involved and bring people together? <a:rainbow_heart_scribble:1269029739432120465> It’s all about good vibes, great conversations, and getting folks fired up for the election. Your watch party could be the spark that motivates someone to vote! <a:PinkFlames:1252802562659193004>  [Register your watch party](https://events.democrats.org/c/host-a-debate-watch-party/event/create/) to get access to all sorts of resources for throwing a successful debate watch party, including a [Host Information Session](https://events.democrats.org/event/677337/). <a:ThanksRainbow:1278765693579431967>
+--------------------
+
+--- Message ---
+Message ID: 1280813698142965862
+Message Type: Default
+Reply to: None
+Timestamp: 2024-09-04T08:56:22.005+00:00
+Author: Michael Pelaez | FL (trumansleeps)
+Author Id: 389839010576465936
+Avatar URL: assets\3a91c3446fca9803ffb1d856364145a2-A8603.png
+Content: https://www.mobilize.us/voteriders/event/564817/?referring_vol=6684605&rname=Michael&share_context=event_details&share_medium=copy_link
+--------------------
+
+--- Message ---
+Message ID: 1283845754942783540
+Message Type: Default
+Reply to: None
+Timestamp: 2024-09-12T17:44:40.679+00:00
+Author: Michael Pelaez | FL (trumansleeps)
+Author Id: 389839010576465936
+Avatar URL: assets\3a91c3446fca9803ffb1d856364145a2-A8603.png
+Content: Let's get a volunteer wave going! Repond on a thread with how many events you signed up to! Let's make the goal 5+  https://www.mobilize.us/events/montana-volunteer-opportunities/
+--------------------
+
+--- Message ---
+Message ID: 1285809252912467998
+Message Type: Default
+Reply to: None
+Timestamp: 2024-09-18T03:46:55.075+00:00
+Author: Jen Medeiros [CA] • [Lead Mod] (starkittynmom)
+Author Id: 1276944250491113656
+Avatar URL: assets\a_2aba4b7f19fcab5fe5391fcdb73d735d-D670A.gif
+Content: <:bluewave3:1270555729836900453> <:bluewave3:1270555729836900453> <:bluewave3:1270555729836900453> <:bluewave3:1270555729836900453> <:bluewave3:1270555729836900453> <:bluewave3:1270555729836900453> <:bluewave3:1270555729836900453> <:bluewave3:1270555729836900453> <:bluewave3:1270555729836900453> <:bluewave3:1270555729836900453> <:bluewave3:1270555729836900453> <:bluewave3:1270555729836900453> 
+**COOL STUFF ALERT**
+
+Hey everyone : 
+The moderators of www.reddit.com/r/VoteDem and r/Bluemidterm2018 (the FORMER moderators of r/Voteblue) made this amazing spreadsheet:
+
+https://docs.google.com/spreadsheets/d/1jxO8g7q9VO3ZMAABcrvR7PMyX4Yl6dgIYhD3eRTKk1M/edit?usp=sharing
+This Google Sheet has links to the sign up pages for HUNDREDS of opportunities to engage from home for campaigns across the country. Check it out and sign up! Let's keep going to build this BLUE WAVE!
+<:bluewave3:1270555729836900453> <:bluewave3:1270555729836900453> <:bluewave3:1270555729836900453> <:bluewave3:1270555729836900453> <:bluewave3:1270555729836900453> <:bluewave3:1270555729836900453> <:bluewave3:1270555729836900453> <:bluewave3:1270555729836900453> <:bluewave3:1270555729836900453> <:bluewave3:1270555729836900453> <:bluewave3:1270555729836900453> <:bluewave3:1270555729836900453>
+--------------------
+
+--- Message ---
+Message ID: 1287924135657472043
+Message Type: Reply
+Reply to: 1279244491018211349
+Timestamp: 2024-09-23T23:50:42.414+00:00
+Author: Karsten Bondy[MT/CA] (Call Mod) (alzakex)
+Author Id: 784274313074966548
+Avatar URL: assets\fea0bde2a8fcc6f76c3da6e4f95ba409-8DC67.png
+Content: Late-but-not-too-late suggestion: If they are worried obout their ballot getting there in time,  and you are going to  vote in person, you are legally  allowed to drop off absentee ballots of anyone to whom you are a "caregiver, a family member, a household member, or an aquaintance,"  The new law says you can only bring in 6 ballots per election, but enforcement of that law is currently enjoined. So it's like speeding used to be.
+--------------------
+
+--- Message ---
+Message ID: 1287936181195112542
+Message Type: Default
+Reply to: None
+Timestamp: 2024-09-24T00:38:34.294+00:00
+Author: S [MT/NM] (genericusername8797)
+Author Id: 465305140786888705
+Avatar URL: assets\a187dcd150192cbe1a6b1b9cb0ffe55c-6C116.png
+Content: I’m trying to find reputable sources to what’s happening with absentee ballots? Does anyone have a good source or better sense of what’s happening?
+--------------------
+
+--- Message ---
+Message ID: 1287943416394682480
+Message Type: Default
+Reply to: None
+Timestamp: 2024-09-24T01:07:19.3+00:00
+Author: Karsten Bondy[MT/CA] (Call Mod) (alzakex)
+Author Id: 784274313074966548
+Avatar URL: assets\fea0bde2a8fcc6f76c3da6e4f95ba409-8DC67.png
+Content: Right now it is working perfectly, as long as you don't want to vote for Kamala.:https://www.bozemandailychronicle.com/news/politics/elections/ballot-glitch-omits-kamala-harris-temporarily-halts-montana-online-absentee-voting-system/article_db25d492-08fc-57d5-98d1-89da75ab9207.html
+--------------------
+
+--- Message ---
+Message ID: 1288067467180249108
+Message Type: Default
+Reply to: None
+Timestamp: 2024-09-24T09:20:15.312+00:00
+Author: apfel4harris (NY/abroad) (lapfel2024_81383)
+Author Id: 1274293080794595339
+Avatar URL: assets\1303b6be213537796f03663d46f2634d-369E3.png
+Content: <:clap:1252804035489169459>  https://www.reddit.com/r/Bumperstickers/comments/1fnx09o/rural_montana/
+--------------------
+
+--- Message ---
+Message ID: 1288209182054551605
+Message Type: Reply
+Reply to: 1287943416394682480
+Timestamp: 2024-09-24T18:43:22.771+00:00
+Author: S [MT/NM] (genericusername8797)
+Author Id: 465305140786888705
+Avatar URL: assets\a187dcd150192cbe1a6b1b9cb0ffe55c-6C116.png
+Content: Yeah that’s what I thought I read, but had slight hope that *surely* we couldn’t be *that* blatant. Sigh…
+--------------------
+
+--- Message ---
+Message ID: 1288240481418874961
+Message Type: Default
+Reply to: None
+Timestamp: 2024-09-24T20:47:45.121+00:00
+Author: Zunny A. (AK) (zunny74)
+Author Id: 1199911282623664181
+Avatar URL: assets\b4ef549817e2b5f7cbfce7d56ccac071-EE8C8.png
+Content: https://discord.com/channels/1242249109298221066/1268354336677822594/1288239689182089267
+--------------------
+
+--- Message ---
+Message ID: 1288403363112816661
+Message Type: Reply
+Reply to: 1288067467180249108
+Timestamp: 2024-09-25T07:34:59.143+00:00
+Author: Karsten Bondy[MT/CA] (Call Mod) (alzakex)
+Author Id: 784274313074966548
+Avatar URL: assets\fea0bde2a8fcc6f76c3da6e4f95ba409-8DC67.png
+Content: I wish they had left the first number of the licence plate unblocked so I could tell if the truck is from Missoula or Bozeman. I'm guessing Bozeman. That's a serious trailer hitch.
+--------------------
+
+--- Message ---
+Message ID: 1290288009157283882
+Message Type: Default
+Reply to: None
+Timestamp: 2024-09-30T12:23:53.775+00:00
+Author: apfel4harris (NY/abroad) (lapfel2024_81383)
+Author Id: 1274293080794595339
+Avatar URL: assets\1303b6be213537796f03663d46f2634d-369E3.png
+Content: Tester/Sheehy debate today: https://dailymontanan.com/2024/09/25/tester-sheehy-to-participate-in-montana-pbs-debate-on-sept-30/
+--------------------
+
+--- Message ---
+Message ID: 1290322768834986055
+Message Type: Default
+Reply to: None
+Timestamp: 2024-09-30T14:42:01.128+00:00
+Author: Kripa Patwardhan [VA] (domitiaenobaria2709)
+Author Id: 771560612186161172
+Avatar URL: assets\2-ADBB4.png
+Content: There’s a ballot referendum for abortion rights. Is it being connected with re-electing Tester?
+--------------------
+
+--- Message ---
+Message ID: 1290349987695431784
+Message Type: Default
+Reply to: None
+Timestamp: 2024-09-30T16:30:10.61+00:00
+Author: Megan Morris NY (megk8199)
+Author Id: 1266394779676184707
+Avatar URL: assets\ef0881069adff0161f4bd602f9c62624-E5156.png
+Content: Hi! I may have missed it, but are there any text banking opportunities for Tester?
+--------------------
+
+--- Message ---
+Message ID: 1290746689698664518
+Message Type: Reply
+Reply to: 1290288009157283882
+Timestamp: 2024-10-01T18:46:31.738+00:00
+Author: Jake Henderson (NJ-2) [MOD] (i_am_anxious02)
+Author Id: 648018187342053395
+Avatar URL: assets\ee6fcc15dae8462931d1ad1c70c5d780-D008C.png
+Content: To anyone that watched, how did this go
+--------------------
+
+--- Message ---
+Message ID: 1291492272248193075
+Message Type: Default
+Reply to: None
+Timestamp: 2024-10-03T20:09:12.47+00:00
+Author: Autumn S [AR]🤘• Lead Mod/OE Mod (meanderingstone6495)
+Author Id: 936622618293968958
+Avatar URL: assets\af45a372ba919e7bac10686b43e799f1-BDEE3.png
+Content: Want to join me for this event? https://mobilize.us/s/ncZVaj
+--------------------
+
+--- Message ---
+Message ID: 1291846824256081980
+Message Type: Default
+Reply to: None
+Timestamp: 2024-10-04T19:38:04.256+00:00
+Author: Autumn S [AR]🤘• Lead Mod/OE Mod (meanderingstone6495)
+Author Id: 936622618293968958
+Avatar URL: assets\af45a372ba919e7bac10686b43e799f1-BDEE3.png
+Content: Want to join me for this event? https://mobilize.us/s/NPgfUm
+--------------------
+
+--- Message ---
+Message ID: 1291937359486652557
+Message Type: Default
+Reply to: None
+Timestamp: 2024-10-05T01:37:49.537+00:00
+Author: Jack Ferreira (KC) (jackferreira.246012)
+Author Id: 1276396030375624789
+Avatar URL: assets\cd48a61b3416a1c6fe47335cfcfc484e-EE993.png
+Content: On this day 4 years ago, a record 3.3 million Americans cast their ballot early.  And as expected, only 1.7 million early votes have been cast (a 45% decrease).  Please use the link below or call the Democratic Voter Assistance Hotline 9am-9pm (EST) (1-833-336-8683) to request an absentee ballot, or make a plan to vote early or on election day.  https://iwillvote.com/
+--------------------
+
+--- Message ---
+Message ID: 1292095534571585580
+Message Type: Default
+Reply to: None
+Timestamp: 2024-10-05T12:06:21.416+00:00
+Author: apfel4harris (NY/abroad) (lapfel2024_81383)
+Author Id: 1274293080794595339
+Avatar URL: assets\1303b6be213537796f03663d46f2634d-369E3.png
+Content: <:mega2:1269006580976976076> A reminder that we have a dedicated ⁠<#1288163431911788586> channel where we coordinate our efforts to post campaign content, leave comments, and upvote <:kamala1:1269028302203523114> <:WalzSmile:1270424129853456445> -related posts. Right now even supportive subreddits like r/politics are bombarded with Trump info, and we're trying to change that. Let's help people find information about our candidates and the brighter future they offer! Head on over to our channel and we'll plug you in with opportunities to contribute. Even if you have just one minute to help, you can make a difference.
+--------------------
+
+--- Message ---
+Message ID: 1292132356710207599
+Message Type: Default
+Reply to: None
+Timestamp: 2024-10-05T14:32:40.498+00:00
+Author: Chuck4Democracy (chuck.laird)
+Author Id: 1222328177993715933
+Avatar URL: assets\bab353131d078cca0d835c1a415c425b-91A38.png
+Content: How might I do this? I don’t appear to have access to this channel. Just want to help where I can.
+--------------------
+
+--- Message ---
+Message ID: 1292133155289174156
+Message Type: Default
+Reply to: None
+Timestamp: 2024-10-05T14:35:50.894+00:00
+Author: Michael Pelaez | FL (trumansleeps)
+Author Id: 389839010576465936
+Avatar URL: assets\3a91c3446fca9803ffb1d856364145a2-A8603.png
+Content: 
+--------------------
+
+--- Message ---
+Message ID: 1292223194568196158
+Message Type: Default
+Reply to: None
+Timestamp: 2024-10-05T20:33:37.931+00:00
+Author: Gabrielle Lynn [HFP Staff] (gabriellelynn_4444)
+Author Id: 1280619651029798924
+Avatar URL: assets\240de4e960e8591f3136c93fbf92c244-59538.png
+Content: 🗳️ 🗳️ 🗳️ 
+<@&1245910596403335290> Don’t wait! Make sure you are registered to vote in Montana! Can you take a second today to make sure you and your network are all set to vote?
+Here’s what you can do:
+
+1. Reach out to everyone in your network with this message, that can also be found in Reach: 
+
+Don’t wait! Make sure you are registered to vote in Montana! I’m reaching out to everyone I know to make sure their registration is up to date. This election is too important to miss. Will you check your registration status? Here’s the link: https://IWillVote.com/
+
+2. Share this image on your social media! It can also be found in Reach! ✨ Make sure you’ve joined Reach for campaign updates here: https://app.reach.vote/join/7DRDMN
+3. Check your own registration, at IWillVote.com. 
+React with ✅when you’ve done it!
+🗳️ 🗳️ 🗳️
+--------------------
+
+--- Message ---
+Message ID: 1292227773154332789
+Message Type: ThreadCreated
+Reply to: None
+Timestamp: 2024-10-05T20:51:49.551+00:00
+Author: Judy0708 (penfold2012)
+Author Id: 734718412017762345
+Avatar URL: assets\5-E9BDB.png
+Content: Started a thread.
+--------------------
+
+--- Message ---
+Message ID: 1292472018284974131
+Message Type: Default
+Reply to: None
+Timestamp: 2024-10-06T13:02:22.128+00:00
+Author: Autumn S [AR]🤘• Lead Mod/OE Mod (meanderingstone6495)
+Author Id: 936622618293968958
+Avatar URL: assets\af45a372ba919e7bac10686b43e799f1-BDEE3.png
+Content: Want to join me for this event? https://mobilize.us/s/PNzBX2
+--------------------
+
+--- Message ---
+Message ID: 1292503850602856521
+Message Type: Default
+Reply to: None
+Timestamp: 2024-10-06T15:08:51.544+00:00
+Author: Karsten Bondy[MT/CA] (Call Mod) (alzakex)
+Author Id: 784274313074966548
+Avatar URL: assets\fea0bde2a8fcc6f76c3da6e4f95ba409-8DC67.png
+Content: Hello @MT, it is Sunday morning October 6th, and I am here with a  short, friendly reminder that IF YOU DID NOT VOTE IN THE 2022 MID-TERM ELECTIONS IN MONTANA, YOU ARE MOST LIKELY NO LONGER REGISTERED TO VOTE IN MONTANA. 
+
+You can check your registration status at https://iwillvote.com/, and get the form to register by mail, but YOUR APPLICATION TO REGISTER MUST BE POSTMARKED NO LATER THAN MONDAY, OCTOBER 7TH TO COUNT. Bring it to a post office. Ask (politely) to watch them postmark it if you try to mail it Monday. 
+
+You can also check your registration status and download the forms you need to register at Montana Secretary of State  Christi Jacobsen's official page, https://votemt.gov/ Same due date applies. 
+
+ IF YOU MISS THE MONDAY DEADLINE, YOU CAN STILL OFFICIALLY REGISTER AT ANY OF THE STATE'S 56 COUNTY ELECTION OFFICES UNTIL NOON THE DAY BEFORE ELECTION DAY (you can also register on election day, but maybe don't push your luck)
+Here is a link to the addresses of all 56 Election Offices from Ms. Jacobsen's office: https://sosmt.gov/wp-admin/admin-ajax.php?juwpfisadmin=false&action=wpfd&task=file.download&wpfd_category_id=23&wpfd_file_id=65879
+
+Oh  wait, no it is not. These are the addresses to mail your applications in to. Most of them are PO boxes. It looks like most bigger towns have addresses for actual offices where you can pick up and drop off your registration in person - Helena has one, Missoula, Butte, even my birthplace Shelby is showing off their big Toole energy with a real office, not just a PO box. But if you're somewhere off in the boonies like Scobey or Billings or Great Falls, you might want to fill out an application TODAY and  hit the post office first thing in the morning tomorrow.
+--------------------
+
+--- Message ---
+Message ID: 1292504953784635535
+Message Type: Default
+Reply to: None
+Timestamp: 2024-10-06T15:13:14.563+00:00
+Author: Karsten Bondy[MT/CA] (Call Mod) (alzakex)
+Author Id: 784274313074966548
+Avatar URL: assets\fea0bde2a8fcc6f76c3da6e4f95ba409-8DC67.png
+Content: BTW, can anyone explain to me what 'vagtarap' means/stands for?
+--------------------
+
+--- Message ---
+Message ID: 1292585446685278231
+Message Type: Default
+Reply to: None
+Timestamp: 2024-10-06T20:33:05.566+00:00
+Author: Carolyn B [CA] • Lead Mod (carb.on)
+Author Id: 568257600228032512
+Avatar URL: assets\28a90c77b5793d80eb62484a43c66748-D8837.png
+Content: <:mega2:1269006580976976076> A reminder that we have a dedicated ⁠https://discord.com/channels/1242249109298221066/1288163431911788586 Reddit channel where we coordinate our efforts to post campaign content, leave comments, and upvote <:kamala1:1269028302203523114> <:WalzSmile:1270424129853456445> -related posts. Right now even supportive subreddits like r/politics are bombarded with Trump info, and we're trying to change that. Let's help people find information about our candidates and the brighter future they offer! Head on over to our channel and we'll plug you in with opportunities to contribute. Even if you have just one minute to help, you can make a difference.
+Get the role to see the Reddit channel, go to https://discord.com/channels/1242249109298221066/1260651617867399188 and pick the 👾
+--------------------
+
+--- Message ---
+Message ID: 1292924322104610922
+Message Type: Default
+Reply to: None
+Timestamp: 2024-10-07T18:59:39.762+00:00
+Author: Gabrielle Lynn [HFP Staff] (gabriellelynn_4444)
+Author Id: 1280619651029798924
+Avatar URL: assets\240de4e960e8591f3136c93fbf92c244-59538.png
+Content: Sharing this link https://iwillvote.com/votinginfo/MT with all the voter information for Montana!! Also pinning in this channel for easy reference <:happysun1:1270566006590541896>
+--------------------
+
+--- Message ---
+Message ID: 1292924338126848080
+Message Type: ChannelPinnedMessage
+Reply to: 1292924322104610922
+Timestamp: 2024-10-07T18:59:43.582+00:00
+Author: Gabrielle Lynn [HFP Staff] (gabriellelynn_4444)
+Author Id: 1280619651029798924
+Avatar URL: assets\240de4e960e8591f3136c93fbf92c244-59538.png
+Content: Pinned a message.
+--------------------
+
+--- Message ---
+Message ID: 1293288745877114880
+Message Type: Default
+Reply to: None
+Timestamp: 2024-10-08T19:07:45.16+00:00
+Author: Autumn S [AR]🤘• Lead Mod/OE Mod (meanderingstone6495)
+Author Id: 936622618293968958
+Avatar URL: assets\af45a372ba919e7bac10686b43e799f1-BDEE3.png
+Content: Want to join me for this event? https://mobilize.us/s/6Cs1xV
+--------------------
+
+--- Message ---
+Message ID: 1294870831272431669
+Message Type: Default
+Reply to: None
+Timestamp: 2024-10-13T03:54:23.712+00:00
+Author: Autumn S [AR]🤘• Lead Mod/OE Mod (meanderingstone6495)
+Author Id: 936622618293968958
+Avatar URL: assets\af45a372ba919e7bac10686b43e799f1-BDEE3.png
+Content: Want to join me for this High Hopes for Harris event? https://mobilize.us/s/1nez72
+--------------------
+
+--- Message ---
+Message ID: 1295015127036198972
+Message Type: Default
+Reply to: None
+Timestamp: 2024-10-13T13:27:46.503+00:00
+Author: SteveTX1 (stevetx1)
+Author Id: 977406049915134002
+Avatar URL: assets\19bf1bc141198794cb83e0290acb77af-B6629.png
+Content: Finished some phone banking, doing what I can to try and help get Tester across the finish line!
+--------------------
+
+--- Message ---
+Message ID: 1295287750152552449
+Message Type: Default
+Reply to: None
+Timestamp: 2024-10-14T07:31:04.919+00:00
+Author: S [MT/NM] (genericusername8797)
+Author Id: 465305140786888705
+Avatar URL: assets\a187dcd150192cbe1a6b1b9cb0ffe55c-6C116.png
+Content: I have an idea for a phonebanking event for Jon Tester, and wanted your input. We Montanans are passionate about our college football teams, and sometimes if a home has both Griz & Cat fans in it, it's "A House Divided." So it might be fun to bring Griz & Cats fans together for "A House Divided, United for Tester" virtual phonebank. Thoughts?
+--------------------
+
+--- Message ---
+Message ID: 1295771449251987559
+Message Type: Reply
+Reply to: 1295287750152552449
+Timestamp: 2024-10-15T15:33:07.771+00:00
+Author: SteveTX1 (stevetx1)
+Author Id: 977406049915134002
+Avatar URL: assets\19bf1bc141198794cb83e0290acb77af-B6629.png
+Content: I personally think that’s a great idea
+--------------------
+
+--- Message ---
+Message ID: 1295826059446718564
+Message Type: Reply
+Reply to: 1295771449251987559
+Timestamp: 2024-10-15T19:10:07.856+00:00
+Author: S [MT/NM] (genericusername8797)
+Author Id: 465305140786888705
+Avatar URL: assets\a187dcd150192cbe1a6b1b9cb0ffe55c-6C116.png
+Content: Any ideas on how to get it set up and gain traction?
+--------------------
+
+--- Message ---
+Message ID: 1296198374738890883
+Message Type: Default
+Reply to: None
+Timestamp: 2024-10-16T19:49:34.739+00:00
+Author: Autumn S [AR]🤘• Lead Mod/OE Mod (meanderingstone6495)
+Author Id: 936622618293968958
+Avatar URL: assets\af45a372ba919e7bac10686b43e799f1-BDEE3.png
+Content: Want to join me for this event? https://mobilize.us/s/yCrvow
+--------------------
+
+--- Message ---
+Message ID: 1296915211139416084
+Message Type: Default
+Reply to: None
+Timestamp: 2024-10-18T19:18:01.855+00:00
+Author: Autumn S [AR]🤘• Lead Mod/OE Mod (meanderingstone6495)
+Author Id: 936622618293968958
+Avatar URL: assets\af45a372ba919e7bac10686b43e799f1-BDEE3.png
+Content: <:eyes:1252803301137842251>  Looking for more ways to get involved and get out the vote? **Join us Monday through Saturday for our GOTV Power Hours**, where you'll learn everything you need to know to reach out to your friends, family, and online communities and make sure they get out the vote! 🗳️ Sign up HERE: https://txt.democrats.org/GOTVHour 
+
+<:retweet:1278893511780864010> Check out our priority content from Reach to share HERE: https://share.kamalaharris.com/toolkit/Discord-2f08
+--------------------
+
+--- Message ---
+Message ID: 1297568915777392703
+Message Type: Default
+Reply to: None
+Timestamp: 2024-10-20T14:35:37.186+00:00
+Author: Marisa K. -(NY) [Mod]/KC TextMod (marisak._74585)
+Author Id: 1268363112956952637
+Avatar URL: assets\19f0a12ecb0c947e057e402ffc5ebae4-846B0.png
+Content: We've got a phonebanking block  starting in about 30 minutes to celebrate Kamala's Birthday!  We're trying to reach over 3 million voters today! Can you help?  Knock out some calls while you are drinking your morning coffee and still be out in time to hit up a pumpkin patch! Join the [5M Dial-a-thon](https://events.democrats.org/event/730026/) and help make history! Will you join us?!
+--------------------
+
+--- Message ---
+Message ID: 1297571794793791569
+Message Type: Default
+Reply to: None
+Timestamp: 2024-10-20T14:47:03.597+00:00
+Author: Marisa K. -(NY) [Mod]/KC TextMod (marisak._74585)
+Author Id: 1268363112956952637
+Avatar URL: assets\19f0a12ecb0c947e057e402ffc5ebae4-846B0.png
+Content: 
+--------------------
+
+--- Message ---
+Message ID: 1297698562762739764
+Message Type: Default
+Reply to: None
+Timestamp: 2024-10-20T23:10:47.436+00:00
+Author: Maggie M [MD] • Community Mod (dramacrone)
+Author Id: 291311960417370112
+Avatar URL: assets\3526c602178143a48a9785cd02cc3110-F2E2E.png
+Content: **Courage is mastery of fear, not absence of fear.** Which [**Phone Bank with Team Harris-Walz**](https://events.democrats.org/event/725393/?utm_source=Discord&utm_medium=Posts&utm_campaign=Daily%20Engagement) are you signing up for right now?
+--------------------
+
+--- Message ---
+Message ID: 1297736914043928587
+Message Type: Default
+Reply to: None
+Timestamp: 2024-10-21T01:43:11.094+00:00
+Author: Frances Haydock (HFP HQ!) (franceshaydock_20619)
+Author Id: 1257469301435400238
+Avatar URL: assets\8286d5b1308e7b3d80a3523e4ec50548-C029D.png
+Content: <@&1245910596403335290> FOLKS, WE LOVE YA, AND YOUR DEDICATION TO THIS CAMPAIGN! WHAT IS OF IMMEDIATE HELP RIGHT NOW IS TO  HOP ON THE DIALER **RIGHT NOW** AND HELP US GET TO 5 MILLION CALLS!!! 
+
+WE ARE LESS THAN 600K AWAY FROM IT, AND WE CAN DO THIS, BUT WE NEED ***ALL OF YOU TO HELP US GET THERE!***
+
+HOP ON THE DIALER RIGHT NOW AND CALL SOME AWESOME WISCONSIN VOTERS: https://democrats.call.scaletowin.com/?t=f80c83d9-aa81-404c-9137-bbd269d6b1c7&ref=discord
+--------------------
+
+--- Message ---
+Message ID: 1297741223724978238
+Message Type: Default
+Reply to: None
+Timestamp: 2024-10-21T02:00:18.602+00:00
+Author: Jared R [CO] • Lead Mod (kyaizen)
+Author Id: 112080668296564736
+Avatar URL: assets\a_de0e3d4a3f9b486ad3ad6df0d72323da-D0252.gif
+Content: NOW CALLING NV!! JOIN US! https://democrats.call.scaletowin.com/?t=09bd534e-841d-495f-b590-68e74150764e&ef=discord
+--------------------
+
+--- Message ---
+Message ID: 1297936587455201281
+Message Type: Default
+Reply to: None
+Timestamp: 2024-10-21T14:56:36.945+00:00
+Author: Marisa K. -(NY) [Mod]/KC TextMod (marisak._74585)
+Author Id: 1268363112956952637
+Avatar URL: assets\19f0a12ecb0c947e057e402ffc5ebae4-846B0.png
+Content: Happy Monday!
+
+ We made almost 5 million calls this weekend to celebrate Kamala's birthday! 
+
+How did get involved?: 
+
+<:phone:1252803032346001479> Phone Bank Powerhouse
+<:text_heart1:1270612783796584541> Text Bank Warrior
+🚪 Steps-in Canvasser
+<:9364_blobpumpkin:1285344377065046047> Something different
+<:100:1252803350026653726> Didn't get on this weekend but will today! 
+
+
+We still need you all on the phones!!! We are on them too!! Join us!  [Phonebank with Team Harris-Walz ](https://events.democrats.org/event/725393/?utm_source=Discord&utm_medium=Posts&utm_campaign=Daily%20Engagement)today!! Will you join us?!  <:100:1252803350026653726>
+--------------------
+
+--- Message ---
+Message ID: 1297985321241411615
+Message Type: Default
+Reply to: None
+Timestamp: 2024-10-21T18:10:15.985+00:00
+Author: Jack Ferreira (KC) (jackferreira.246012)
+Author Id: 1276396030375624789
+Avatar URL: assets\cd48a61b3416a1c6fe47335cfcfc484e-EE993.png
+Content: Hey friends, four years ago, we sent President Biden to the White House with one of the largest popular vote margins in history, thanks to support from all 50 states, blue and red alike. A bigger margin makes it harder for Trump and MAGA Republicans to challenge the election. The work we do in these last two weeks is crucial.
+
+Visit: https://iwillvote.com/
+Call: Democratic Voter Assistance Hotline (833-336-8683)
+
+Let's ensure Kamala Harris is elected!
+--------------------
+
+--- Message ---
+Message ID: 1298379670877769738
+Message Type: Default
+Reply to: None
+Timestamp: 2024-10-22T20:17:16.265+00:00
+Author: Kassie Byers - Mod (KY) (amirina9811)
+Author Id: 243492115739312128
+Avatar URL: assets\a28ffed52ccc318441eb259552b68f66-B9E24.png
+Content: <@&1242265273055314051> Happy Tuesday! We need volunteers on our dialers NOW! Come give us 30 minutes or more of your time! 
+
+ We made almost 5 million calls this weekend to celebrate Kamala's birthday! 
+
+We still need you all on the phones!!! We are on them too!! Join us! [**Phone Banks with Team Harris-Walz for Warriors Who are Not Quitting**](https://events.democrats.org/event/725393/?utm_source=Discord&utm_medium=Posts&utm_campaign=Daily%20Engagement)
+--------------------
+
+--- Message ---
+Message ID: 1298727584271695925
+Message Type: Default
+Reply to: None
+Timestamp: 2024-10-23T19:19:45.282+00:00
+Author: Autumn S [AR]🤘• Lead Mod/OE Mod (meanderingstone6495)
+Author Id: 936622618293968958
+Avatar URL: assets\af45a372ba919e7bac10686b43e799f1-BDEE3.png
+Content: Got some free time on your hands? 
+
+MAKE SOME CALLS🙌 https://go.kamalaharris.com/calls/
+--------------------
+
+--- Message ---
+Message ID: 1299087320540254301
+Message Type: Default
+Reply to: None
+Timestamp: 2024-10-24T19:09:13.092+00:00
+Author: Autumn S [AR]🤘• Lead Mod/OE Mod (meanderingstone6495)
+Author Id: 936622618293968958
+Avatar URL: assets\af45a372ba919e7bac10686b43e799f1-BDEE3.png
+Content: 📞  You CAN sit with us -- check out our Twitch livestream and join us as we call voters across the country! <:happysun1:1270566006590541896> 
+
+<:twitch:1297444838249074729> Join the livestream here: https://www.twitch.tv/kamalaharris
+<:phone:1252803032346001479> Start making calls here: https://go.kamalaharris.com/calls/
+--------------------
+
+--- Message ---
+Message ID: 1299697170236182609
+Message Type: Default
+Reply to: None
+Timestamp: 2024-10-26T11:32:32.59+00:00
+Author: Autumn S [AR]🤘• Lead Mod/OE Mod (meanderingstone6495)
+Author Id: 936622618293968958
+Avatar URL: assets\af45a372ba919e7bac10686b43e799f1-BDEE3.png
+Content: GOOD DAY EVERYONE 👋
+
+Hope you all are amazing and well  💙
+
+You've all been doing so much, which we greatly appreciate <:blobcheer:1278915863491383377> 
+
+We still have a lot of work to do though...
+
+Please help us reach our goal of <:phone:1252803032346001479> 10 million dials<:phone:1252803032346001479>  this weekend ...
+
+Please help us save democracy! 🙏 
+
+https://events.democrats.org/event/734916/?utm_source=Discord&utm_medium=Posts&utm_campaign=Daily%20Engagement
+--------------------
+
+--- Message ---
+Message ID: 1300066227837992971
+Message Type: Default
+Reply to: None
+Timestamp: 2024-10-27T11:59:02.779+00:00
+Author: Autumn S [AR]🤘• Lead Mod/OE Mod (meanderingstone6495)
+Author Id: 936622618293968958
+Avatar URL: assets\af45a372ba919e7bac10686b43e799f1-BDEE3.png
+Content: HEY <@&1245910596403335290> 👋
+
+Hope you all are having a great weekend! 🙌
+
+If you didn't join us yesterday... there is still time to call and boost voter turnout in your state💙
+
+Help us make history (herstory🙏)
+
+https://events.democrats.org/event/734916/?utm_source=Discord&utm_medium=Posts&utm_campaign=Daily%20Engagement
+--------------------
+
+--- Message ---
+Message ID: 1300271054626754621
+Message Type: Default
+Reply to: None
+Timestamp: 2024-10-28T01:32:57.291+00:00
+Author: Marisa K. -(NY) [Mod]/KC TextMod (marisak._74585)
+Author Id: 1268363112956952637
+Avatar URL: assets\19f0a12ecb0c947e057e402ffc5ebae4-846B0.png
+Content: Sunday Scaries got you down?! We have less than 2million calls left to make to hit our goal of [10 Million to Victory!  ](https://events.democrats.org/event/734916/?[utm_source=Discord&utm_medium=Posts&utm_campaign=Daily%20Engagement)Can you hop onto the Dialer and help us out?!
+--------------------
+
+--- Message ---
+Message ID: 1300588348301250712
+Message Type: Default
+Reply to: None
+Timestamp: 2024-10-28T22:33:45.998+00:00
+Author: Susan C [CT] • Lead Mod (susanclancyct_81390)
+Author Id: 1261701914454659092
+Avatar URL: assets\071fc6cce2ec3001e5f374ff696b2996-98A50.png
+Content: # <:80s:1300476405079080980>  80,000 calls for 80's Week!  <:80s:1300476405079080980> 
+
+## 🌟  Let's do this, Discorders! [Jump on the dialer anytime it's open and get those dials IN!](https://go.kamalaharris.com/dial/national?ref=natl_dis_host_discordveveryoneelse) Help us hit our goal and elect Kamala Harris! 🌟 
+
+All week, also be on the lookout for:
+- special live events on The Stage  🎤 
+- fun messages, videos, and memes <:eyes:1252803301137842251> 
+- updates on our goal! 📈 
+
+## <:celebrate:1252803817095958548>  Let's get those dials in so we can [party like it's 1999](https://youtu.be/rblt2EtFfC4?si=TAExS7rBb9SZs9A7) [!](https://cdn.discordapp.com/attachments/1265762143559618624/1300548748488867850/Screenshot_2024-10-28_at_1.05.08_PM.png?ex=67213de8&is=671fec68&hm=3757f1b42488f5d6bf35f5400ea9b3be6bc9fedc024c7ca8e4b6b1e79a90c617&) <:celebrate:1252803817095958548>
+--------------------

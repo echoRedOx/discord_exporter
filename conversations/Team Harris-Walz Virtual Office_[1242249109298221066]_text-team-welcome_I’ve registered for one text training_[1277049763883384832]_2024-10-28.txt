@@ -1,0 +1,27 @@
+Guild: Team Harris-Walz Virtual Office (ID: 1242249109298221066)
+Channel: I’ve registered for one text training (ID: 1277049763883384832)
+Channel Topic: None
+Exported At: 2024-10-29T00:05:50.1146899+00:00
+
+
+--- Message ---
+Message ID: 1277056899740860457
+Message Type: 21
+Reply to: 1277049763883384832
+Timestamp: 2024-08-25T00:08:11.468+00:00
+Author: Nicole Morris - Text Admin (nmorris237)
+Author Id: 935762347753103382
+Avatar URL: assets\27b1e286b65ae02b3378793b5f098411-A7B20.png
+Content: 
+--------------------
+
+--- Message ---
+Message ID: 1277056901493952524
+Message Type: Default
+Reply to: None
+Timestamp: 2024-08-25T00:08:11.886+00:00
+Author: Nicole Morris - Text Admin (nmorris237)
+Author Id: 935762347753103382
+Avatar URL: assets\27b1e286b65ae02b3378793b5f098411-A7B20.png
+Content: That's great! Nothing else as of right now - after the training session, there are some forms to complete and you'll be added
+--------------------

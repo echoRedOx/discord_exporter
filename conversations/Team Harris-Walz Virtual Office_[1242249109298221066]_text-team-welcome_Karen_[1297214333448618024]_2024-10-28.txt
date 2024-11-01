@@ -1,0 +1,38 @@
+Guild: Team Harris-Walz Virtual Office (ID: 1242249109298221066)
+Channel: Karen (ID: 1297214333448618024)
+Channel Topic: None
+Exported At: 2024-10-28T22:31:44.1711427+00:00
+
+
+--- Message ---
+Message ID: 1297214476491296778
+Message Type: 21
+Reply to: 1297214333448618024
+Timestamp: 2024-10-19T15:07:12.275+00:00
+Author: Nicole Morris - Text Admin (nmorris237)
+Author Id: 935762347753103382
+Avatar URL: assets\27b1e286b65ae02b3378793b5f098411-A7B20.png
+Content: 
+--------------------
+
+--- Message ---
+Message ID: 1297214478189989969
+Message Type: Default
+Reply to: None
+Timestamp: 2024-10-19T15:07:12.68+00:00
+Author: Nicole Morris - Text Admin (nmorris237)
+Author Id: 935762347753103382
+Avatar URL: assets\27b1e286b65ae02b3378793b5f098411-A7B20.png
+Content: Hi! Can you please ask this in <#1259238714157305936>
+--------------------
+
+--- Message ---
+Message ID: 1297214547634946099
+Message Type: Default
+Reply to: None
+Timestamp: 2024-10-19T15:07:29.237+00:00
+Author: Karen Bullock, NJ (islandfrogdolls)
+Author Id: 1266116073372127382
+Avatar URL: assets\387d5bff31b5145246887e05dea15562-7FD83.png
+Content: no problem
+--------------------

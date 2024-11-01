@@ -1,0 +1,50 @@
+- author_avatar_url: assets\b80ef764da5443309a44166b992f3f80-CFFCE.png
+  author_id: '1243175035980742687'
+  author_name: your_odd_auntie
+  author_nickname: Your Odd Auntie
+  content: "Is there a place we can drop our general feedback, insights, suggestions\
+    \ for those who are managing the campaign and their immediate staff? (Or is that\
+    \ not realistic\u2026am I even posting this in the correct way? lol)"
+  id: '1272985572670967838'
+  ref_to: null
+  timestamp: '2024-08-13T18:30:11.453+00:00'
+  type: Default
+- author_avatar_url: assets\9a1cf4df2df35afc17dbc2d78b623d4a-06B66.png
+  author_id: '690265089013842114'
+  author_name: snowbunslc
+  author_nickname: "Mimi P. [UT] \u2022 Lead Moo \U0001F404"
+  content: Hey, there! Thank you for your suggestion. What specifically would you
+    have in mind? What type of feedback and insights?
+  id: '1272987939583954975'
+  ref_to: null
+  timestamp: '2024-08-13T18:39:35.769+00:00'
+  type: Default
+- author_avatar_url: assets\28a90c77b5793d80eb62484a43c66748-D8837.png
+  author_id: '568257600228032512'
+  author_name: carb.on
+  author_nickname: "Carolyn B [CA] \u2022 Lead Mod"
+  content: Hi <@1243175035980742687> we do watch for debaters and help them get back
+    on topic of "support". As far as feedback for managing the campaign. I can chat
+    with you in DMs. I sent a friend request.
+  id: '1272991735664083088'
+  ref_to: null
+  timestamp: '2024-08-13T18:54:40.825+00:00'
+  type: Default
+- author_avatar_url: assets\b80ef764da5443309a44166b992f3f80-CFFCE.png
+  author_id: '1243175035980742687'
+  author_name: your_odd_auntie
+  author_nickname: Your Odd Auntie
+  content: Thank you, Carolyn!
+  id: '1272992448267816971'
+  ref_to: '1272991735664083088'
+  timestamp: '2024-08-13T18:57:30.723+00:00'
+  type: Reply
+- author_avatar_url: assets\28a90c77b5793d80eb62484a43c66748-D8837.png
+  author_id: '568257600228032512'
+  author_name: carb.on
+  author_nickname: "Carolyn B [CA] \u2022 Lead Mod"
+  content: Answering in DMs.
+  id: '1273003060255522858'
+  ref_to: null
+  timestamp: '2024-08-13T19:39:40.818+00:00'
+  type: Default

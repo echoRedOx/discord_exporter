@@ -1,0 +1,23 @@
+- author_avatar_url: assets\0-EB806.png
+  author_id: '911700060360818688'
+  author_name: .billh
+  author_nickname: billh
+  content: I'm trying to help answer questions here. When I am on a question, I go
+    look for an answer and then can't get back to the question to answer it unless
+    I remember exactly where I was. I've used Discord before somewhere else but having
+    difficulty finding my way around here.
+  id: '1279896149255389204'
+  ref_to: null
+  timestamp: '2024-09-01T20:10:21.303+00:00'
+  type: Default
+- author_avatar_url: assets\28a90c77b5793d80eb62484a43c66748-D8837.png
+  author_id: '568257600228032512'
+  author_name: carb.on
+  author_nickname: "Carolyn B [CA] \u2022 Lead Mod"
+  content: Hello <@911700060360818688> we appreciate you are eager to support other
+    volunteers. You can go back with ctrl (or cmd)+], but you don't need to answer
+    the questions, our staff will take care of it.
+  id: '1279897225111142502'
+  ref_to: '1279896149255389204'
+  timestamp: '2024-09-01T20:14:37.807+00:00'
+  type: Reply

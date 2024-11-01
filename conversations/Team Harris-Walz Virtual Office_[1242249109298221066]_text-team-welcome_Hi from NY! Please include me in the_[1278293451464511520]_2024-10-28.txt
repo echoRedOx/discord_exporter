@@ -1,0 +1,27 @@
+Guild: Team Harris-Walz Virtual Office (ID: 1242249109298221066)
+Channel: Hi from NY! Please include me in the (ID: 1278293451464511520)
+Channel Topic: None
+Exported At: 2024-10-28T23:55:41.7461023+00:00
+
+
+--- Message ---
+Message ID: 1278338739223138334
+Message Type: 21
+Reply to: 1278293451464511520
+Timestamp: 2024-08-28T13:01:45.816+00:00
+Author: Nicole Morris - Text Admin (nmorris237)
+Author Id: 935762347753103382
+Avatar URL: assets\27b1e286b65ae02b3378793b5f098411-A7B20.png
+Content: 
+--------------------
+
+--- Message ---
+Message ID: 1278338740741214311
+Message Type: Default
+Reply to: None
+Timestamp: 2024-08-28T13:01:46.178+00:00
+Author: Nicole Morris - Text Admin (nmorris237)
+Author Id: 935762347753103382
+Avatar URL: assets\27b1e286b65ae02b3378793b5f098411-A7B20.png
+Content: Hi <@1141757645330595875> Thanks! Have you taken our text training?
+--------------------

@@ -1,0 +1,27 @@
+Guild: Team Harris-Walz Virtual Office (ID: 1242249109298221066)
+Channel: post call debrief (ID: 1293692240039903232)
+Channel Topic: None
+Exported At: 2024-10-24T12:46:15.0281192+00:00
+
+
+--- Message ---
+Message ID: 1293692240039903232
+Message Type: Default
+Reply to: None
+Timestamp: 2024-10-09T21:51:05.665+00:00
+Author: jpaulk81 (jpaulyk81)
+Author Id: 1279957515290804306
+Avatar URL: assets\157e517cdbf371a47aaead44675714a3-73EB7.png
+Content: I’m doing calls now, is there a post calls session wrap up? Do I go back to my original zoom?
+--------------------
+
+--- Message ---
+Message ID: 1293692974596882515
+Message Type: Default
+Reply to: None
+Timestamp: 2024-10-09T21:54:00.797+00:00
+Author: AndreaV, KY Call Mod (andrearogersvalen)
+Author Id: 965992907981074443
+Avatar URL: assets\72d82e393a66b89996d99840a07990ec-C9EFF.png
+Content: Hi <@1279957515290804306> -- There is usually a debrief at the end. You can go back to the Zoom session to join the debrief discussion.
+--------------------

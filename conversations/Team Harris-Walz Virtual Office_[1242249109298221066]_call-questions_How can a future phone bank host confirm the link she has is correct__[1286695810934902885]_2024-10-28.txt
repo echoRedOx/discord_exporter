@@ -1,0 +1,38 @@
+Guild: Team Harris-Walz Virtual Office (ID: 1242249109298221066)
+Channel: How can a future phone bank host confirm the link she has is correct? (ID: 1286695810934902885)
+Channel Topic: None
+Exported At: 2024-10-28T20:56:20.9442543+00:00
+
+
+--- Message ---
+Message ID: 1286695810934902885
+Message Type: Default
+Reply to: None
+Timestamp: 2024-09-20T14:29:46.979+00:00
+Author: Jill [IN] - Call Mod (jill_48674)
+Author Id: 1274013602189148272
+Avatar URL: assets\23fb9e1dad59ae672c9b0f5fc1bd244a-E0B6D.png
+Content: Message: I am hosting an in-person phone bank on Sunday.  How do I share the link with my attendees so that they can make calls from their own device?  I just tried to share the link with a friend to practice and she doesn't have permission.  Will this change once my event goes LIVE?
+--------------------
+
+--- Message ---
+Message ID: 1286713298401628341
+Message Type: Default
+Reply to: None
+Timestamp: 2024-09-20T15:39:16.316+00:00
+Author: Emily Powers (CO) [Call MOD] (epowers7)
+Author Id: 937887742262673429
+Avatar URL: assets\d91f2745c5a60026d6f81161ae61335f-53ED9.png
+Content: Hi Jill! The answer to this is to contact Andre at amartin@2024victory.com who helps set up these events 🙂
+--------------------
+
+--- Message ---
+Message ID: 1286779162681671791
+Message Type: Default
+Reply to: None
+Timestamp: 2024-09-20T20:00:59.584+00:00
+Author: Holly Mate-Luber [Call Mod] (hollymateluber)
+Author Id: 1267643778043482122
+Avatar URL: assets\d1341d3c05d207da49a6fa548b4c1086-4BE71.png
+Content: <@1257469301435400238> would you be able to ping Andre? This same person has just followed up again on the calls channel, they are panicking!
+--------------------

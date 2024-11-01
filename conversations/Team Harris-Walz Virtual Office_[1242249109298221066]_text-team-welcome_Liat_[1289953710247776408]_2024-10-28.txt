@@ -1,0 +1,27 @@
+Guild: Team Harris-Walz Virtual Office (ID: 1242249109298221066)
+Channel: Liat (ID: 1289953710247776408)
+Channel Topic: None
+Exported At: 2024-10-28T22:59:18.8427687+00:00
+
+
+--- Message ---
+Message ID: 1289962681130025083
+Message Type: 21
+Reply to: 1289953710247776408
+Timestamp: 2024-09-29T14:51:09.529+00:00
+Author: Branton J. [GA] Text Mod (perry.p)
+Author Id: 946953677611077642
+Avatar URL: assets\19838db602948fa14c3fa90a94996f8c-8CE56.png
+Content: 
+--------------------
+
+--- Message ---
+Message ID: 1289962683009073263
+Message Type: Default
+Reply to: None
+Timestamp: 2024-09-29T14:51:09.977+00:00
+Author: Branton J. [GA] Text Mod (perry.p)
+Author Id: 946953677611077642
+Avatar URL: assets\19838db602948fa14c3fa90a94996f8c-8CE56.png
+Content: Hi <@1288659279858896908> , please check your DMs.  One of our Greeters reached out to you on 09/26/24
+--------------------

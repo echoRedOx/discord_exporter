@@ -1,0 +1,18 @@
+- author_avatar_url: assets\27b1e286b65ae02b3378793b5f098411-A7B20.png
+  author_id: '935762347753103382'
+  author_name: nmorris237
+  author_nickname: Nicole Morris - Text Admin
+  content: ''
+  id: '1298856394879008840'
+  ref_to: '1298676852000424019'
+  timestamp: '2024-10-24T03:51:36.124+00:00'
+  type: '21'
+- author_avatar_url: assets\27b1e286b65ae02b3378793b5f098411-A7B20.png
+  author_id: '935762347753103382'
+  author_name: nmorris237
+  author_nickname: Nicole Morris - Text Admin
+  content: Looks like <#1298623273566732300>
+  id: '1298856418077704226'
+  ref_to: null
+  timestamp: '2024-10-24T03:51:41.655+00:00'
+  type: Default

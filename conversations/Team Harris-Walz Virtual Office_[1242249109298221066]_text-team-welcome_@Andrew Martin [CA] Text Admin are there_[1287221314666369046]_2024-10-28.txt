@@ -1,0 +1,71 @@
+Guild: Team Harris-Walz Virtual Office (ID: 1242249109298221066)
+Channel: @Andrew Martin [CA] Text Admin are there (ID: 1287221314666369046)
+Channel Topic: None
+Exported At: 2024-10-28T23:05:25.0997019+00:00
+
+
+--- Message ---
+Message ID: 1287228482811596800
+Message Type: 21
+Reply to: 1287221314666369046
+Timestamp: 2024-09-22T01:46:25.851+00:00
+Author: Nicole Morris - Text Admin (nmorris237)
+Author Id: 935762347753103382
+Avatar URL: assets\27b1e286b65ae02b3378793b5f098411-A7B20.png
+Content: 
+--------------------
+
+--- Message ---
+Message ID: 1287228484703490059
+Message Type: Default
+Reply to: None
+Timestamp: 2024-09-22T01:46:26.302+00:00
+Author: Nicole Morris - Text Admin (nmorris237)
+Author Id: 935762347753103382
+Avatar URL: assets\27b1e286b65ae02b3378793b5f098411-A7B20.png
+Content: Hi <@878004392769490995> Thanks! Just the ones currently on the Mobilize link https://events.democrats.org/event/672393/
+--------------------
+
+--- Message ---
+Message ID: 1287576972351766618
+Message Type: Reply
+Reply to: 1287228484703490059
+Timestamp: 2024-09-23T00:51:12.232+00:00
+Author: Ninalyn (ninalyn4895)
+Author Id: 321866318297169922
+Avatar URL: assets\b3aa4eebe20332119e18ec63eb9049d9-B7E52.png
+Content: I have a problem in that I’d be way more comfortable texting than calling, but ALL of the trainings are when I’m at work (my schedule is M-Th). Is there any chance of weekend trainings?
+--------------------
+
+--- Message ---
+Message ID: 1287785768365854823
+Message Type: Default
+Reply to: None
+Timestamp: 2024-09-23T14:40:53.081+00:00
+Author: Nicole Morris - Text Admin (nmorris237)
+Author Id: 935762347753103382
+Avatar URL: assets\27b1e286b65ae02b3378793b5f098411-A7B20.png
+Content: Hi <@321866318297169922> I hear you - thanks! We used to have Saturday trainings, and as of now they are not on the schedule. We are checking with staff if they will be re-added change going forward. I would encourage you to keep an eye on the link in case additional dates/times get added
+--------------------
+
+--- Message ---
+Message ID: 1287987068882124843
+Message Type: Default
+Reply to: None
+Timestamp: 2024-09-24T04:00:46.864+00:00
+Author: Nicole Morris - Text Admin (nmorris237)
+Author Id: 935762347753103382
+Avatar URL: assets\27b1e286b65ae02b3378793b5f098411-A7B20.png
+Content: <@321866318297169922> Saturday trainings have been re-added! 🎉
+--------------------
+
+--- Message ---
+Message ID: 1288024936874639432
+Message Type: Reply
+Reply to: 1287987068882124843
+Timestamp: 2024-09-24T06:31:15.297+00:00
+Author: Ninalyn (ninalyn4895)
+Author Id: 321866318297169922
+Avatar URL: assets\b3aa4eebe20332119e18ec63eb9049d9-B7E52.png
+Content: Awesome!!! I’m currently at work—I’ll sign up when I get home!
+--------------------

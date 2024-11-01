@@ -1,0 +1,27 @@
+Guild: Team Harris-Walz Virtual Office (ID: 1242249109298221066)
+Channel: Do I have to sign up if I want to do a (ID: 1290519884815400993)
+Channel Topic: None
+Exported At: 2024-10-28T22:56:18.9761406+00:00
+
+
+--- Message ---
+Message ID: 1290527886117441576
+Message Type: 21
+Reply to: 1290519884815400993
+Timestamp: 2024-10-01T04:17:04.899+00:00
+Author: Roberta Bavin CA KC Greeter/Mod (roberta_24935)
+Author Id: 1269872908759597148
+Avatar URL: assets\df6d19d97b04a49ffcafbe7be14c7839-D9CE4.png
+Content: 
+--------------------
+
+--- Message ---
+Message ID: 1290527887220539423
+Message Type: Default
+Reply to: None
+Timestamp: 2024-10-01T04:17:05.162+00:00
+Author: Roberta Bavin CA KC Greeter/Mod (roberta_24935)
+Author Id: 1269872908759597148
+Avatar URL: assets\df6d19d97b04a49ffcafbe7be14c7839-D9CE4.png
+Content: Hi Kai! Thanks for reaching out! If you want to do the training again, it's totally fine. Please use the same link to sign up so you can get the Zoom Meeting link sent to you; just in case it changes. Thanks for being here! 🌊
+--------------------

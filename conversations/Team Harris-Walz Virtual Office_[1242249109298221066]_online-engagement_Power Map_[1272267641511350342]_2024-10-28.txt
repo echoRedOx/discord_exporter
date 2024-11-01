@@ -1,0 +1,38 @@
+Guild: Team Harris-Walz Virtual Office (ID: 1242249109298221066)
+Channel: Power Map (ID: 1272267641511350342)
+Channel Topic: None
+Exported At: 2024-10-28T21:54:29.6768874+00:00
+
+
+--- Message ---
+Message ID: 1272268865778356224
+Message Type: 21
+Reply to: 1272267641511350342
+Timestamp: 2024-08-11T19:02:15.214+00:00
+Author: Jessica Puchala (MD) [OE Lead] (jessica033389)
+Author Id: 869778676986814514
+Avatar URL: assets\37de34190564f7c9acae5895cc884c8a-6F9C7.png
+Content: 
+--------------------
+
+--- Message ---
+Message ID: 1272268867716255856
+Message Type: Default
+Reply to: None
+Timestamp: 2024-08-11T19:02:15.676+00:00
+Author: Jessica Puchala (MD) [OE Lead] (jessica033389)
+Author Id: 869778676986814514
+Avatar URL: assets\37de34190564f7c9acae5895cc884c8a-6F9C7.png
+Content: You can make a copy of the Power Map HERE: https://docs.google.com/document/d/1pzZhRNoZ5rX5tU_DuzFsgTp1f4LMee4m6BdPr1Z2niA/copy
+--------------------
+
+--- Message ---
+Message ID: 1272287396871929868
+Message Type: Default
+Reply to: None
+Timestamp: 2024-08-11T20:15:53.371+00:00
+Author: Sarah B (SC) (booksw.)
+Author Id: 612479592858648577
+Avatar URL: assets\669e4a5d1fc5af6d0b965760be07bd0f-6AC04.png
+Content: sweet- thanks!!
+--------------------

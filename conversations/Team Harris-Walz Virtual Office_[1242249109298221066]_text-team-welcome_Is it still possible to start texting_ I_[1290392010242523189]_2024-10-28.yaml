@@ -1,0 +1,27 @@
+- author_avatar_url: assets\791c521e62160be1f3df04992f6e5470-36A38.png
+  author_id: '477560366432256000'
+  author_name: jjoannid
+  author_nickname: Jack Joannides KC text admin
+  content: ''
+  id: '1290454121005973565'
+  ref_to: '1290392010242523189'
+  timestamp: '2024-09-30T23:23:57.926+00:00'
+  type: '21'
+- author_avatar_url: assets\791c521e62160be1f3df04992f6e5470-36A38.png
+  author_id: '477560366432256000'
+  author_name: jjoannid
+  author_nickname: Jack Joannides KC text admin
+  content: 'Yes it is. You can take a training here: https://events.democrats.org/event/672393/'
+  id: '1290454123334078486'
+  ref_to: null
+  timestamp: '2024-09-30T23:23:58.481+00:00'
+  type: Default
+- author_avatar_url: assets\b9edab76b68b1b7722cf9672c4650d1a-A665F.png
+  author_id: '1283172494160822285'
+  author_name: cathyfromky_67248
+  author_nickname: Catherine Mekus [KY]
+  content: Thank you!
+  id: '1290473934784823359'
+  ref_to: '1290454123334078486'
+  timestamp: '2024-10-01T00:42:41.899+00:00'
+  type: Reply

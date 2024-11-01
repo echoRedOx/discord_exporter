@@ -1,0 +1,104 @@
+Guild: Team Harris-Walz Virtual Office (ID: 1242249109298221066)
+Channel: Okay I can't take this anymore. These (ID: 1288702897097412663)
+Channel Topic: None
+Exported At: 2024-10-28T23:02:21.1653698+00:00
+
+
+--- Message ---
+Message ID: 1288704222640214056
+Message Type: 21
+Reply to: 1288702897097412663
+Timestamp: 2024-09-26T03:30:29.644+00:00
+Author: Roberta Bavin CA KC Greeter/Mod (roberta_24935)
+Author Id: 1269872908759597148
+Avatar URL: assets\df6d19d97b04a49ffcafbe7be14c7839-D9CE4.png
+Content: 
+--------------------
+
+--- Message ---
+Message ID: 1288704224355553302
+Message Type: Default
+Reply to: None
+Timestamp: 2024-09-26T03:30:30.053+00:00
+Author: Roberta Bavin CA KC Greeter/Mod (roberta_24935)
+Author Id: 1269872908759597148
+Avatar URL: assets\df6d19d97b04a49ffcafbe7be14c7839-D9CE4.png
+Content: Hi there! Welcome! Please sign up for a training. https://events.democrats.org/event/672393/  <:thankyou:1252806147396735057>
+--------------------
+
+--- Message ---
+Message ID: 1288704317540532234
+Message Type: Default
+Reply to: None
+Timestamp: 2024-09-26T03:30:52.27+00:00
+Author: Purple (Maryland) (purplehumaniod)
+Author Id: 1072639754765615237
+Avatar URL: assets\c77904d529d439bb07f5f80ab2d95609-B585A.png
+Content: Thank you
+--------------------
+
+--- Message ---
+Message ID: 1288704470250819604
+Message Type: Default
+Reply to: None
+Timestamp: 2024-09-26T03:31:28.679+00:00
+Author: Purple (Maryland) (purplehumaniod)
+Author Id: 1072639754765615237
+Avatar URL: assets\c77904d529d439bb07f5f80ab2d95609-B585A.png
+Content: Sorry for coming off harsh, Maryland is getting bombarded with GOP super PAC ads. I can't even go a few videos without getting one anymore
+--------------------
+
+--- Message ---
+Message ID: 1288704503348068382
+Message Type: Default
+Reply to: None
+Timestamp: 2024-09-26T03:31:36.57+00:00
+Author: Purple (Maryland) (purplehumaniod)
+Author Id: 1072639754765615237
+Avatar URL: assets\c77904d529d439bb07f5f80ab2d95609-B585A.png
+Content: And I have to do something against that
+--------------------
+
+--- Message ---
+Message ID: 1288704648655536231
+Message Type: Reply
+Reply to: 1288704503348068382
+Timestamp: 2024-09-26T03:32:11.214+00:00
+Author: Roberta Bavin CA KC Greeter/Mod (roberta_24935)
+Author Id: 1269872908759597148
+Avatar URL: assets\df6d19d97b04a49ffcafbe7be14c7839-D9CE4.png
+Content: We have a lot of work to do and we're glad to have you join us! Thanks for being here!
+--------------------
+
+--- Message ---
+Message ID: 1288704897419837511
+Message Type: Default
+Reply to: None
+Timestamp: 2024-09-26T03:33:10.524+00:00
+Author: Purple (Maryland) (purplehumaniod)
+Author Id: 1072639754765615237
+Avatar URL: assets\c77904d529d439bb07f5f80ab2d95609-B585A.png
+Content: Is there a line that's only for the senate race in my state?
+--------------------
+
+--- Message ---
+Message ID: 1288705166442237972
+Message Type: Reply
+Reply to: 1288704897419837511
+Timestamp: 2024-09-26T03:34:14.664+00:00
+Author: Roberta Bavin CA KC Greeter/Mod (roberta_24935)
+Author Id: 1269872908759597148
+Avatar URL: assets\df6d19d97b04a49ffcafbe7be14c7839-D9CE4.png
+Content: You could check with the Dem office for your state. The work we do here is recruiting volunteers and inviting people to events. 🌊
+--------------------
+
+--- Message ---
+Message ID: 1288705362903564288
+Message Type: Default
+Reply to: None
+Timestamp: 2024-09-26T03:35:01.504+00:00
+Author: Purple (Maryland) (purplehumaniod)
+Author Id: 1072639754765615237
+Avatar URL: assets\c77904d529d439bb07f5f80ab2d95609-B585A.png
+Content: I will check that. Thak you
+--------------------

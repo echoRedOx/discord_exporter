@@ -1,0 +1,27 @@
+Guild: Team Harris-Walz Virtual Office (ID: 1242249109298221066)
+Channel: Is there a response for those wanting to (ID: 1279153452173361154)
+Channel Topic: None
+Exported At: 2024-10-28T23:48:26.9101358+00:00
+
+
+--- Message ---
+Message ID: 1279154278128423027
+Message Type: 21
+Reply to: 1279153452173361154
+Timestamp: 2024-08-30T19:02:25.443+00:00
+Author: Jack Joannides KC text admin (jjoannid)
+Author Id: 477560366432256000
+Avatar URL: assets\791c521e62160be1f3df04992f6e5470-36A38.png
+Content: 
+--------------------
+
+--- Message ---
+Message ID: 1279154279973654672
+Message Type: Default
+Reply to: None
+Timestamp: 2024-08-30T19:02:25.883+00:00
+Author: Jack Joannides KC text admin (jjoannid)
+Author Id: 477560366432256000
+Avatar URL: assets\791c521e62160be1f3df04992f6e5470-36A38.png
+Content: Please ask in <#1259238714157305936>
+--------------------

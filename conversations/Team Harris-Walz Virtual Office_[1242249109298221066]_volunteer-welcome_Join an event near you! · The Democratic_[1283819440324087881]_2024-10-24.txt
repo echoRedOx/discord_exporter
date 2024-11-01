@@ -1,0 +1,60 @@
+Guild: Team Harris-Walz Virtual Office (ID: 1242249109298221066)
+Channel: Join an event near you! · The Democratic... (ID: 1283819440324087881)
+Channel Topic: None
+Exported At: 2024-10-24T06:15:33.5265469+00:00
+
+
+--- Message ---
+Message ID: 1283819767895035954
+Message Type: 21
+Reply to: 1283819440324087881
+Timestamp: 2024-09-12T16:01:24.884+00:00
+Author: Ruti Regan [MA] (rutiregan)
+Author Id: 663410272110772226
+Avatar URL: assets\4-4551A.png
+Content: 
+--------------------
+
+--- Message ---
+Message ID: 1283819769711300769
+Message Type: Default
+Reply to: None
+Timestamp: 2024-09-12T16:01:25.317+00:00
+Author: Ruti Regan [MA] (rutiregan)
+Author Id: 663410272110772226
+Avatar URL: assets\4-4551A.png
+Content: That doesn't really help because it's a list of different discrete events to sign up for and it's hard to tell if I'm keeping track of what all the options are - I'm trying to find just something short summarizing what the types of things are?
+--------------------
+
+--- Message ---
+Message ID: 1283820054240165981
+Message Type: Default
+Reply to: None
+Timestamp: 2024-09-12T16:02:33.154+00:00
+Author: Ruti Regan [MA] (rutiregan)
+Author Id: 663410272110772226
+Avatar URL: assets\4-4551A.png
+Content: So I *think*, there's textbanking, phonebanking, doorknocking, and one or more things called digital engagement.
+--------------------
+
+--- Message ---
+Message ID: 1283820160708513943
+Message Type: Default
+Reply to: None
+Timestamp: 2024-09-12T16:02:58.538+00:00
+Author: Linda in Burbank (lindainburbank)
+Author Id: 1137876010591846470
+Avatar URL: assets\83bfa3398a8ae3688a52fd908d701050-2D7C6.png
+Content: The best way is to look at our <#1268398608097476750> page which lists the different types of activities and events
+--------------------
+
+--- Message ---
+Message ID: 1283820449251197009
+Message Type: Default
+Reply to: None
+Timestamp: 2024-09-12T16:04:07.332+00:00
+Author: Linda in Burbank (lindainburbank)
+Author Id: 1137876010591846470
+Avatar URL: assets\83bfa3398a8ae3688a52fd908d701050-2D7C6.png
+Content: Digital engagement is about how we interact with others online - the people in our circle on FB, etc. It helps us find ways to be persuasive in effective ways
+--------------------

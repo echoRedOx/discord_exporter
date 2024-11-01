@@ -1,0 +1,28 @@
+- author_avatar_url: assets\ce3882a42b0011362b6f403aa78dcbc2-C5246.png
+  author_id: '1266900496770400339'
+  author_name: alisonrempel
+  author_nickname: Alison Rempel
+  content: People refer to a discord handle... is that my display name or user name
+    or something else?
+  id: '1277764556164432046'
+  ref_to: null
+  timestamp: '2024-08-26T23:00:09.907+00:00'
+  type: Default
+- author_avatar_url: assets\4b24822eb51726ea0a388ddde126cc84-A693A.png
+  author_id: '788310105635422218'
+  author_name: imcastin
+  author_nickname: cas!
+  content: "it\u2019s your username. for example, yours is dollars4democracy"
+  id: '1277764650397601926'
+  ref_to: null
+  timestamp: '2024-08-26T23:00:32.374+00:00'
+  type: Default
+- author_avatar_url: assets\ce3882a42b0011362b6f403aa78dcbc2-C5246.png
+  author_id: '1266900496770400339'
+  author_name: alisonrempel
+  author_nickname: Alison Rempel
+  content: TY
+  id: '1277767469020221553'
+  ref_to: '1277764650397601926'
+  timestamp: '2024-08-26T23:11:44.386+00:00'
+  type: Reply

@@ -1,0 +1,82 @@
+Guild: Team Harris-Walz Virtual Office (ID: 1242249109298221066)
+Channel: Let me dm you (ID: 1284003020979568641)
+Channel Topic: None
+Exported At: 2024-10-28T23:26:01.4072904+00:00
+
+
+--- Message ---
+Message ID: 1284003865959858198
+Message Type: 21
+Reply to: 1284003020979568641
+Timestamp: 2024-09-13T04:12:57.283+00:00
+Author: Jack Joannides KC text admin (jjoannid)
+Author Id: 477560366432256000
+Avatar URL: assets\791c521e62160be1f3df04992f6e5470-36A38.png
+Content: 
+--------------------
+
+--- Message ---
+Message ID: 1284003867725529130
+Message Type: Default
+Reply to: None
+Timestamp: 2024-09-13T04:12:57.704+00:00
+Author: Jack Joannides KC text admin (jjoannid)
+Author Id: 477560366432256000
+Avatar URL: assets\791c521e62160be1f3df04992f6e5470-36A38.png
+Content: Going to direct message you.
+--------------------
+
+--- Message ---
+Message ID: 1284006126446448642
+Message Type: Default
+Reply to: None
+Timestamp: 2024-09-13T04:21:56.225+00:00
+Author: Lori Gonzalez (FL) (loripg.)
+Author Id: 1283229481363832916
+Avatar URL: assets\26ccfba5f83a2cef89fdf4cf4f84e28f-047C7.png
+Content: ok to my phone?
+--------------------
+
+--- Message ---
+Message ID: 1284008364392714271
+Message Type: Default
+Reply to: None
+Timestamp: 2024-09-13T04:30:49.793+00:00
+Author: Jack Joannides KC text admin (jjoannid)
+Author Id: 477560366432256000
+Avatar URL: assets\791c521e62160be1f3df04992f6e5470-36A38.png
+Content: Yes I direct messaged you.
+--------------------
+
+--- Message ---
+Message ID: 1284032486241861713
+Message Type: Default
+Reply to: None
+Timestamp: 2024-09-13T06:06:40.89+00:00
+Author: Lori Gonzalez (FL) (loripg.)
+Author Id: 1283229481363832916
+Avatar URL: assets\26ccfba5f83a2cef89fdf4cf4f84e28f-047C7.png
+Content: I did not get a message
+--------------------
+
+--- Message ---
+Message ID: 1284032615774556171
+Message Type: Default
+Reply to: None
+Timestamp: 2024-09-13T06:07:11.773+00:00
+Author: Lori Gonzalez (FL) (loripg.)
+Author Id: 1283229481363832916
+Avatar URL: assets\26ccfba5f83a2cef89fdf4cf4f84e28f-047C7.png
+Content: my number is ******0063
+--------------------
+
+--- Message ---
+Message ID: 1284146922201944157
+Message Type: Default
+Reply to: None
+Timestamp: 2024-09-13T13:41:24.549+00:00
+Author: Jack Joannides KC text admin (jjoannid)
+Author Id: 477560366432256000
+Avatar URL: assets\791c521e62160be1f3df04992f6e5470-36A38.png
+Content: I direct messaged you on discord. I didn’t call you.
+--------------------

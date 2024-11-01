@@ -1,0 +1,60 @@
+Guild: Team Harris-Walz Virtual Office (ID: 1242249109298221066)
+Channel: technical issue? (ID: 1298467109508087871)
+Channel Topic: None
+Exported At: 2024-10-28T20:45:07.7219375+00:00
+
+
+--- Message ---
+Message ID: 1298467109508087871
+Message Type: Default
+Reply to: None
+Timestamp: 2024-10-23T02:04:43.259+00:00
+Author: Jennifer Bernard AK (jenbernard8437)
+Author Id: 660555540027539540
+Avatar URL: assets\3-FB033.png
+Content: I just reached someone who I could hear clearly at first, but then after I asked who she was supporting, there was just silence, which kind of dragged on until I ended the call. Is that  a busy/callback? Does this ever happen with the dialer, that the connection just goes silent?
+--------------------
+
+--- Message ---
+Message ID: 1298467620676304998
+Message Type: Reply
+Reply to: 1298467109508087871
+Timestamp: 2024-10-23T02:06:45.131+00:00
+Author: Larry Ahlgrim (VA) [Call Mod] (larrya._98544)
+Author Id: 1266903666879627274
+Avatar URL: assets\5fde485e55d806d8356ca6e7e08f1f48-77A19.png
+Content: It sounds like maybe she didn't want to answer and put the phone down, I would mark it as a refused.
+--------------------
+
+--- Message ---
+Message ID: 1298467756710039642
+Message Type: Default
+Reply to: None
+Timestamp: 2024-10-23T02:07:17.564+00:00
+Author: Jennifer Bernard AK (jenbernard8437)
+Author Id: 660555540027539540
+Avatar URL: assets\3-FB033.png
+Content: Ok, but does that mean she won't get a call back?
+--------------------
+
+--- Message ---
+Message ID: 1298468309762572329
+Message Type: Default
+Reply to: None
+Timestamp: 2024-10-23T02:09:29.422+00:00
+Author: Larry Ahlgrim (VA) [Call Mod] (larrya._98544)
+Author Id: 1266903666879627274
+Avatar URL: assets\5fde485e55d806d8356ca6e7e08f1f48-77A19.png
+Content: Actually, she will get another call, but not again in the current list
+--------------------
+
+--- Message ---
+Message ID: 1298468355321233418
+Message Type: Default
+Reply to: None
+Timestamp: 2024-10-23T02:09:40.284+00:00
+Author: Jennifer Bernard AK (jenbernard8437)
+Author Id: 660555540027539540
+Avatar URL: assets\3-FB033.png
+Content: ok
+--------------------

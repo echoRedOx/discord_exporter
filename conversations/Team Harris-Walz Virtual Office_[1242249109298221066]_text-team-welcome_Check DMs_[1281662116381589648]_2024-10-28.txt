@@ -1,0 +1,49 @@
+Guild: Team Harris-Walz Virtual Office (ID: 1242249109298221066)
+Channel: Check DMs (ID: 1281662116381589648)
+Channel Topic: None
+Exported At: 2024-10-28T23:35:16.6355002+00:00
+
+
+--- Message ---
+Message ID: 1281662724404940851
+Message Type: 21
+Reply to: 1281662116381589648
+Timestamp: 2024-09-06T17:10:05.64+00:00
+Author: Jack Joannides KC text admin (jjoannid)
+Author Id: 477560366432256000
+Avatar URL: assets\791c521e62160be1f3df04992f6e5470-36A38.png
+Content: 
+--------------------
+
+--- Message ---
+Message ID: 1281662727491817504
+Message Type: Default
+Reply to: None
+Timestamp: 2024-09-06T17:10:06.376+00:00
+Author: Jack Joannides KC text admin (jjoannid)
+Author Id: 477560366432256000
+Avatar URL: assets\791c521e62160be1f3df04992f6e5470-36A38.png
+Content: You should have gotten a direct message from <@935762347753103382> yesterday.
+--------------------
+
+--- Message ---
+Message ID: 1281668691238584321
+Message Type: Default
+Reply to: None
+Timestamp: 2024-09-06T17:33:48.244+00:00
+Author: Katherine Perez (FL) (kathyp0285)
+Author Id: 1277791094645456897
+Avatar URL: assets\6c5996770c985bcd6e5b68131ff2ba04-5BD6B.png
+Content: Thanks Jack but I didn't receive a direct message from Nicole yet.
+--------------------
+
+--- Message ---
+Message ID: 1281786933093203969
+Message Type: Default
+Reply to: None
+Timestamp: 2024-09-07T01:23:39.299+00:00
+Author: Nicole Morris - Text Admin (nmorris237)
+Author Id: 935762347753103382
+Avatar URL: assets\27b1e286b65ae02b3378793b5f098411-A7B20.png
+Content: Hi Katherine - thanks! I see your DM back to me now 🙂
+--------------------

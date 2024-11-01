@@ -1,0 +1,71 @@
+Guild: Team Harris-Walz Virtual Office (ID: 1242249109298221066)
+Channel: ASL call banks (ID: 1274149354214522960)
+Channel Topic: None
+Exported At: 2024-10-24T12:56:31.0763341+00:00
+
+
+--- Message ---
+Message ID: 1274149354214522960
+Message Type: Default
+Reply to: None
+Timestamp: 2024-08-16T23:34:38.595+00:00
+Author: Susan C [CT] • Lead Mod (susanclancyct_81390)
+Author Id: 1261701914454659092
+Avatar URL: assets\071fc6cce2ec3001e5f374ff696b2996-98A50.png
+Content: Hey there will we have ASL and additional language phone banking?
+--------------------
+
+--- Message ---
+Message ID: 1277010496633049215
+Message Type: Default
+Reply to: None
+Timestamp: 2024-08-24T21:03:48.105+00:00
+Author: Abigail P.(Data Captain) (abigailpritchard)
+Author Id: 1174129892019941411
+Avatar URL: assets\6f513b8af09f9314bc65d892f3473a23-9D45C.png
+Content: Hey, so a phone bank in ASL probably wouldn’t work, as the person on the other end is unable to see us. Moblize does have some Spanish language phonebanks that you could participate in.
+--------------------
+
+--- Message ---
+Message ID: 1277034882081493034
+Message Type: Default
+Reply to: None
+Timestamp: 2024-08-24T22:40:42.049+00:00
+Author: Stephsail67 (stephsail67)
+Author Id: 1276891697283993652
+Avatar URL: assets\c82b3fa769ed6e6ffdea579381ed5f5c-8BD08.png
+Content: ASL banks would be possible if we used a relay service. Or those of us with video set up and are fluent could directly communicate. If anything does get worked out I would like to volunteer. <@&1245831457818279986>
+--------------------
+
+--- Message ---
+Message ID: 1277284421862555739
+Message Type: Default
+Reply to: None
+Timestamp: 2024-08-25T15:12:16.969+00:00
+Author: Abigail P.(Data Captain) (abigailpritchard)
+Author Id: 1174129892019941411
+Avatar URL: assets\6f513b8af09f9314bc65d892f3473a23-9D45C.png
+Content: I think there’s a link somewhere on discord for people with unique talents to sign up to do projects for the DNC. That might be a good place to start.
+--------------------
+
+--- Message ---
+Message ID: 1277284732198981784
+Message Type: Reply
+Reply to: 1277284421862555739
+Timestamp: 2024-08-25T15:13:30.959+00:00
+Author: Abigail P.(Data Captain) (abigailpritchard)
+Author Id: 1174129892019941411
+Avatar URL: assets\6f513b8af09f9314bc65d892f3473a23-9D45C.png
+Content: https://democrats.org/take-action/work-with-us/
+--------------------
+
+--- Message ---
+Message ID: 1277284855440212059
+Message Type: Default
+Reply to: None
+Timestamp: 2024-08-25T15:14:00.342+00:00
+Author: Abigail P.(Data Captain) (abigailpritchard)
+Author Id: 1174129892019941411
+Avatar URL: assets\6f513b8af09f9314bc65d892f3473a23-9D45C.png
+Content: One of the HQ team members might be more able to help.
+--------------------

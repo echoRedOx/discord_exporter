@@ -1,0 +1,27 @@
+Guild: Team Harris-Walz Virtual Office (ID: 1242249109298221066)
+Channel: @Frances (HQ Staff) @Kate B. @Brynna (ID: 1266802741632569394)
+Channel Topic: None
+Exported At: 2024-10-28T21:57:27.6993557+00:00
+
+
+--- Message ---
+Message ID: 1266804087513550950
+Message Type: 21
+Reply to: 1266802741632569394
+Timestamp: 2024-07-27T17:07:10.545+00:00
+Author: Vincent A | NC 08 (vammo3747)
+Author Id: 835581031184334898
+Avatar URL: assets\57168285728923befc664032abd74165-D22E3.png
+Content: 
+--------------------
+
+--- Message ---
+Message ID: 1266804088566321264
+Message Type: Default
+Reply to: None
+Timestamp: 2024-07-27T17:07:10.796+00:00
+Author: Vincent A | NC 08 (vammo3747)
+Author Id: 835581031184334898
+Avatar URL: assets\57168285728923befc664032abd74165-D22E3.png
+Content: I have working scripts now that I've been testing mainly to write product descriptions for retail but the model can easily be tweaked to utilize OSINT inputs (geo/demo/psychographic) to better inform outreach attempts....door, phone or even localized display ads.
+--------------------

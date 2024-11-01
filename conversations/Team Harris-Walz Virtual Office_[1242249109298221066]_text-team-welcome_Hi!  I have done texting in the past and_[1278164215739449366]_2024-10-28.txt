@@ -1,0 +1,49 @@
+Guild: Team Harris-Walz Virtual Office (ID: 1242249109298221066)
+Channel: Hi!  I have done texting in the past and (ID: 1278164215739449366)
+Channel Topic: None
+Exported At: 2024-10-28T23:51:35.4844308+00:00
+
+
+--- Message ---
+Message ID: 1278171917374984235
+Message Type: 21
+Reply to: 1278164215739449366
+Timestamp: 2024-08-28T01:58:52.388+00:00
+Author: Nicole Morris - Text Admin (nmorris237)
+Author Id: 935762347753103382
+Avatar URL: assets\27b1e286b65ae02b3378793b5f098411-A7B20.png
+Content: 
+--------------------
+
+--- Message ---
+Message ID: 1278171918746255482
+Message Type: Default
+Reply to: None
+Timestamp: 2024-08-28T01:58:52.715+00:00
+Author: Nicole Morris - Text Admin (nmorris237)
+Author Id: 935762347753103382
+Avatar URL: assets\27b1e286b65ae02b3378793b5f098411-A7B20.png
+Content: <@1274836011188359179> Thanks! The August trainings are currently all full - but please keep an eye on https://events.democrats.org/event/654680/ as new times open up (or sometimes someone cancels last minute, etc)
+--------------------
+
+--- Message ---
+Message ID: 1278703244146901012
+Message Type: Default
+Reply to: None
+Timestamp: 2024-08-29T13:10:10.562+00:00
+Author: Nicole Morris - Text Admin (nmorris237)
+Author Id: 935762347753103382
+Avatar URL: assets\27b1e286b65ae02b3378793b5f098411-A7B20.png
+Content: Hi <@1274836011188359179> New link is here -- more training times have opened up https://events.democrats.org/event/672393/
+--------------------
+
+--- Message ---
+Message ID: 1278731452099461130
+Message Type: Default
+Reply to: None
+Timestamp: 2024-08-29T15:02:15.862+00:00
+Author: Danielle Moora VA (danielle.moora)
+Author Id: 1274836011188359179
+Avatar URL: assets\1-B2132.png
+Content: Thank you!  I signed up!
+--------------------

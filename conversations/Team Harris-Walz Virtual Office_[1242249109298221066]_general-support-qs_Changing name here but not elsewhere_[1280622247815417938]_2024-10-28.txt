@@ -1,0 +1,38 @@
+Guild: Team Harris-Walz Virtual Office (ID: 1242249109298221066)
+Channel: Changing name here but not elsewhere (ID: 1280622247815417938)
+Channel Topic: None
+Exported At: 2024-10-28T20:11:07.138771+00:00
+
+
+--- Message ---
+Message ID: 1280622247815417938
+Message Type: Default
+Reply to: None
+Timestamp: 2024-09-03T20:15:36.69+00:00
+Author: billh (.billh)
+Author Id: 911700060360818688
+Avatar URL: assets\0-EB806.png
+Content: When I change my name here, Discord also changes my name on another site I use Discord for. Does anybody here know how to do this? I need to change it here to get on the Text Team.
+--------------------
+
+--- Message ---
+Message ID: 1280623183300530267
+Message Type: Default
+Reply to: None
+Timestamp: 2024-09-03T20:19:19.727+00:00
+Author: Carolyn B [CA] • Lead Mod (carb.on)
+Author Id: 568257600228032512
+Avatar URL: assets\28a90c77b5793d80eb62484a43c66748-D8837.png
+Content: You can change your nickname for this server only. Click your profile picture and then click Edit Profile, choose Server Profiles and then change your Server Nickname
+--------------------
+
+--- Message ---
+Message ID: 1281009010086252668
+Message Type: Default
+Reply to: None
+Timestamp: 2024-09-04T21:52:28.001+00:00
+Author: billh (.billh)
+Author Id: 911700060360818688
+Avatar URL: assets\0-EB806.png
+Content: Thank you! Server Profile is what I needed to change.
+--------------------

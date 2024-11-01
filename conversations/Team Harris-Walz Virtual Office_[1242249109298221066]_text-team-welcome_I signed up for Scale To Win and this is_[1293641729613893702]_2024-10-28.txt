@@ -1,0 +1,27 @@
+Guild: Team Harris-Walz Virtual Office (ID: 1242249109298221066)
+Channel: I signed up for Scale To Win and this is (ID: 1293641729613893702)
+Channel Topic: None
+Exported At: 2024-10-28T22:47:00.5898476+00:00
+
+
+--- Message ---
+Message ID: 1293716157068738621
+Message Type: 21
+Reply to: 1293641729613893702
+Timestamp: 2024-10-09T23:26:07.929+00:00
+Author: Roberta Bavin CA KC Greeter/Mod (roberta_24935)
+Author Id: 1269872908759597148
+Avatar URL: assets\df6d19d97b04a49ffcafbe7be14c7839-D9CE4.png
+Content: 
+--------------------
+
+--- Message ---
+Message ID: 1293716159694377012
+Message Type: Default
+Reply to: None
+Timestamp: 2024-10-09T23:26:08.555+00:00
+Author: Roberta Bavin CA KC Greeter/Mod (roberta_24935)
+Author Id: 1269872908759597148
+Avatar URL: assets\df6d19d97b04a49ffcafbe7be14c7839-D9CE4.png
+Content: Hi <@1290823020788584488> Please check DM that was just sent to you. Thanks for being here!
+--------------------

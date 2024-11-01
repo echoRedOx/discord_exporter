@@ -1,0 +1,29 @@
+Guild: Team Harris-Walz Virtual Office (ID: 1242249109298221066)
+Channel: Could I get a connection to a staffer at the DNC? (opportunity to help the Harris/Walz campaign) (ID: 1276240884584677447)
+Channel Topic: None
+Exported At: 2024-10-24T06:58:18.2088068+00:00
+
+
+--- Message ---
+Message ID: 1276289567552573544
+Message Type: Default
+Reply to: None
+Timestamp: 2024-08-22T21:19:05.218+00:00
+Author: Ophelia W • Lead Mod (opheliawild)
+Author Id: 957714233217409174
+Avatar URL: assets\8b706a86e5f9b8dcaaa950a7500b77b8-E1341.png
+Content: Hi Sam! The most direct way to contact them is via this form on the website which has a good drop-down menu so it can get to the right place. 
+
+https://democrats.org/contact-us/
+--------------------
+
+--- Message ---
+Message ID: 1276381642629451887
+Message Type: Default
+Reply to: None
+Timestamp: 2024-08-23T03:24:57.627+00:00
+Author: Sam Hulick [IL] (ffxsam)
+Author Id: 286566480043048961
+Avatar URL: assets\c2a4ce37ff20da7e90948fc9bb817436-D45D1.png
+Content: <@957714233217409174> thank you!
+--------------------

@@ -1,0 +1,27 @@
+Guild: Team Harris-Walz Virtual Office (ID: 1242249109298221066)
+Channel: I think I copied the link incorrectly. (ID: 1277059940481241119)
+Channel Topic: None
+Exported At: 2024-10-29T00:04:50.2711257+00:00
+
+
+--- Message ---
+Message ID: 1277060583916572682
+Message Type: 21
+Reply to: 1277059940481241119
+Timestamp: 2024-08-25T00:22:49.844+00:00
+Author: Nicole Morris - Text Admin (nmorris237)
+Author Id: 935762347753103382
+Avatar URL: assets\27b1e286b65ae02b3378793b5f098411-A7B20.png
+Content: 
+--------------------
+
+--- Message ---
+Message ID: 1277060585787494553
+Message Type: Default
+Reply to: None
+Timestamp: 2024-08-25T00:22:50.29+00:00
+Author: Nicole Morris - Text Admin (nmorris237)
+Author Id: 935762347753103382
+Avatar URL: assets\27b1e286b65ae02b3378793b5f098411-A7B20.png
+Content: Understood, I'll send you a follow up Direct Message. It'll be on the top left in Discord, let me know if you don't see it.
+--------------------

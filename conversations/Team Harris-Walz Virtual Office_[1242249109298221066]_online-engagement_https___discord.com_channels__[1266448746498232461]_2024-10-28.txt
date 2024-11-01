@@ -1,0 +1,82 @@
+Guild: Team Harris-Walz Virtual Office (ID: 1242249109298221066)
+Channel: https://discord.com/channels/ (ID: 1266448746498232461)
+Channel Topic: None
+Exported At: 2024-10-28T21:56:31.7957623+00:00
+
+
+--- Message ---
+Message ID: 1266449874656694313
+Message Type: 21
+Reply to: 1266448746498232461
+Timestamp: 2024-07-26T17:39:39.619+00:00
+Author: Christian Bosse (ch.bosse)
+Author Id: 1256039311367999658
+Avatar URL: assets\e940fcd0527f7edd98cdee8d31c08cc0-9A6CA.png
+Content: 
+--------------------
+
+--- Message ---
+Message ID: 1266449876040941598
+Message Type: Default
+Reply to: None
+Timestamp: 2024-07-26T17:39:39.949+00:00
+Author: Christian Bosse (ch.bosse)
+Author Id: 1256039311367999658
+Avatar URL: assets\e940fcd0527f7edd98cdee8d31c08cc0-9A6CA.png
+Content: Hi <@244255410964398081>. I can highlight this to the staff. Is there a ticket reference that you can share?
+--------------------
+
+--- Message ---
+Message ID: 1266450200705368106
+Message Type: Default
+Reply to: None
+Timestamp: 2024-07-26T17:40:57.355+00:00
+Author: Jake H. (MN) (sheodox)
+Author Id: 244255410964398081
+Avatar URL: assets\7c9e6ce418028d8d80ab6a21bc6f94e3-7A9E5.png
+Content: all i know is the channel for it is called "9-sheodox", but at any rate, the ticket says basically the same thing as my message here anyway
+--------------------
+
+--- Message ---
+Message ID: 1266450368381063200
+Message Type: Default
+Reply to: None
+Timestamp: 2024-07-26T17:41:37.332+00:00
+Author: Christian Bosse (ch.bosse)
+Author Id: 1256039311367999658
+Avatar URL: assets\e940fcd0527f7edd98cdee8d31c08cc0-9A6CA.png
+Content: Alright, the "#9-sheodox" helps already. I'll ping the staff.
+--------------------
+
+--- Message ---
+Message ID: 1266459450789593270
+Message Type: Default
+Reply to: None
+Timestamp: 2024-07-26T18:17:42.747+00:00
+Author: Christian Bosse (ch.bosse)
+Author Id: 1256039311367999658
+Avatar URL: assets\e940fcd0527f7edd98cdee8d31c08cc0-9A6CA.png
+Content: We got it forwarded and highlighted to the Tech team. They will look into it
+--------------------
+
+--- Message ---
+Message ID: 1266462911375872042
+Message Type: Default
+Reply to: None
+Timestamp: 2024-07-26T18:31:27.815+00:00
+Author: Jake H. (MN) (sheodox)
+Author Id: 244255410964398081
+Avatar URL: assets\7c9e6ce418028d8d80ab6a21bc6f94e3-7A9E5.png
+Content: thank you!
+--------------------
+
+--- Message ---
+Message ID: 1267282484853215344
+Message Type: Default
+Reply to: None
+Timestamp: 2024-07-29T00:48:09.359+00:00
+Author: Christian Bosse (ch.bosse)
+Author Id: 1256039311367999658
+Avatar URL: assets\e940fcd0527f7edd98cdee8d31c08cc0-9A6CA.png
+Content: Hey, that seems to be fixed since yesterday, I believe. <:1f44d2x:1252804076849074276>
+--------------------

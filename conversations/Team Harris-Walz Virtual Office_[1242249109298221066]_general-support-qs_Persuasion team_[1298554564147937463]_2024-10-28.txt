@@ -1,0 +1,38 @@
+Guild: Team Harris-Walz Virtual Office (ID: 1242249109298221066)
+Channel: Persuasion team (ID: 1298554564147937463)
+Channel Topic: None
+Exported At: 2024-10-28T19:50:38.0110153+00:00
+
+
+--- Message ---
+Message ID: 1298554564147937463
+Message Type: Default
+Reply to: None
+Timestamp: 2024-10-23T07:52:14.07+00:00
+Author: Gaga Simon CA (gargi_prasad)
+Author Id: 1287168460736041085
+Avatar URL: assets\8ab8b84c682caef843b8f4d42f10ec91-30D10.png
+Content: I completed the quiz 100% correctly - still did not get access to persuasion team channels.
+--------------------
+
+--- Message ---
+Message ID: 1298649588038897718
+Message Type: Default
+Reply to: None
+Timestamp: 2024-10-23T14:09:49.531+00:00
+Author: Elin (elin1506)
+Author Id: 929767146840547329
+Avatar URL: assets\3-FB033.png
+Content: Me either
+--------------------
+
+--- Message ---
+Message ID: 1298653973141782579
+Message Type: Default
+Reply to: None
+Timestamp: 2024-10-23T14:27:15.021+00:00
+Author: Midsummer NYC • Lead Mod (midsummernyc)
+Author Id: 288902250955538432
+Avatar URL: assets\4ab0a2262b0338fe668a1314cfc0512b-8638D.png
+Content: Good morning! Access is approved by a separate team. It may take a little bit of extra time for this to occur but not too long. If you have any further questions please head down to the channel, <#1298623273566732300>
+--------------------

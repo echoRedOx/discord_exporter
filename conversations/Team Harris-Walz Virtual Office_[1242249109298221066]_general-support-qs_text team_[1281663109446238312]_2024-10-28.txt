@@ -1,0 +1,324 @@
+Guild: Team Harris-Walz Virtual Office (ID: 1242249109298221066)
+Channel: text team (ID: 1281663109446238312)
+Channel Topic: None
+Exported At: 2024-10-28T20:08:09.6203266+00:00
+
+
+--- Message ---
+Message ID: 1281663109446238312
+Message Type: Default
+Reply to: None
+Timestamp: 2024-09-06T17:11:37.441+00:00
+Author: Bill Strobridge CA (bills_28761)
+Author Id: 1273073371487141942
+Avatar URL: assets\2-ADBB4.png
+Content: Hi Bill Strorbridge here. Please add my name to the texting channels. I would very much like to get started texting to help get the vote out. Thanks
+--------------------
+
+--- Message ---
+Message ID: 1281665393823322223
+Message Type: Default
+Reply to: None
+Timestamp: 2024-09-06T17:20:42.079+00:00
+Author: Bill Strobridge CA (bills_28761)
+Author Id: 1273073371487141942
+Avatar URL: assets\2-ADBB4.png
+Content: Sorry. It's BILL STROBRIDGE. How do I start texting please
+--------------------
+
+--- Message ---
+Message ID: 1281677466146045962
+Message Type: Default
+Reply to: None
+Timestamp: 2024-09-06T18:08:40.345+00:00
+Author: Alex M (Mod) (alexmullins1)
+Author Id: 1276292565112721534
+Avatar URL: assets\1a9a64baef02f20f62b0a2b3bea1ccfc-4D644.png
+Content: Hi Bill. I have added you to the Text Team channel here on DIscord, where you can find all things Text. In addition, I have included the link to sign up for Text Team training. Note that they do often have limited spots.(https://events.democrats.org/event/672393/)
+--------------------
+
+--- Message ---
+Message ID: 1281714623132860439
+Message Type: Reply
+Reply to: 1281677466146045962
+Timestamp: 2024-09-06T20:36:19.261+00:00
+Author: Val Hodell (celestial_puppy_58847)
+Author Id: 1150772431175290933
+Avatar URL: assets\5e88585c64e08a25faaa79ec07136b16-1D433.png
+Content: Can you add me as well? I’m wanting to start texting asap!
+--------------------
+
+--- Message ---
+Message ID: 1281714769375789127
+Message Type: Reply
+Reply to: 1281714623132860439
+Timestamp: 2024-09-06T20:36:54.128+00:00
+Author: Frances Haydock (HFP HQ!) (franceshaydock_20619)
+Author Id: 1257469301435400238
+Avatar URL: assets\8286d5b1308e7b3d80a3523e4ec50548-C029D.png
+Content: Hi Val! Have you done a text training with us?
+--------------------
+
+--- Message ---
+Message ID: 1281714915375317013
+Message Type: Default
+Reply to: None
+Timestamp: 2024-09-06T20:37:28.937+00:00
+Author: Val Hodell (celestial_puppy_58847)
+Author Id: 1150772431175290933
+Avatar URL: assets\5e88585c64e08a25faaa79ec07136b16-1D433.png
+Content: Not yet, I’m scheduled for one on Tuesday the tenth at 7p.m
+--------------------
+
+--- Message ---
+Message ID: 1281715235723542673
+Message Type: Default
+Reply to: None
+Timestamp: 2024-09-06T20:38:45.314+00:00
+Author: Frances Haydock (HFP HQ!) (franceshaydock_20619)
+Author Id: 1257469301435400238
+Avatar URL: assets\8286d5b1308e7b3d80a3523e4ec50548-C029D.png
+Content: Okay! Once you do your training the text team will tell you about its onboarding processes! But you won’t have access to those channels until after you’ve finished training and gone thru all the steps of onboarding.
+--------------------
+
+--- Message ---
+Message ID: 1281715374605471875
+Message Type: Default
+Reply to: None
+Timestamp: 2024-09-06T20:39:18.426+00:00
+Author: Val Hodell (celestial_puppy_58847)
+Author Id: 1150772431175290933
+Avatar URL: assets\5e88585c64e08a25faaa79ec07136b16-1D433.png
+Content: Ok
+--------------------
+
+--- Message ---
+Message ID: 1281715458688548937
+Message Type: Default
+Reply to: None
+Timestamp: 2024-09-06T20:39:38.473+00:00
+Author: Frances Haydock (HFP HQ!) (franceshaydock_20619)
+Author Id: 1257469301435400238
+Avatar URL: assets\8286d5b1308e7b3d80a3523e4ec50548-C029D.png
+Content: thank you!
+--------------------
+
+--- Message ---
+Message ID: 1281715474689818676
+Message Type: Default
+Reply to: None
+Timestamp: 2024-09-06T20:39:42.288+00:00
+Author: Val Hodell (celestial_puppy_58847)
+Author Id: 1150772431175290933
+Avatar URL: assets\5e88585c64e08a25faaa79ec07136b16-1D433.png
+Content: Thank you!
+--------------------
+
+--- Message ---
+Message ID: 1281715510731604029
+Message Type: Reply
+Reply to: 1281715458688548937
+Timestamp: 2024-09-06T20:39:50.881+00:00
+Author: Val Hodell (celestial_puppy_58847)
+Author Id: 1150772431175290933
+Avatar URL: assets\5e88585c64e08a25faaa79ec07136b16-1D433.png
+Content: You’re welcome!
+--------------------
+
+--- Message ---
+Message ID: 1281715774792143039
+Message Type: Default
+Reply to: None
+Timestamp: 2024-09-06T20:40:53.838+00:00
+Author: Val Hodell (celestial_puppy_58847)
+Author Id: 1150772431175290933
+Avatar URL: assets\5e88585c64e08a25faaa79ec07136b16-1D433.png
+Content: I’ll let you know if I have any further questions. I might because I found myself getting lost on where to go. I was supposed to be doing a phone bank now, but never received a link for it from it from Erin Lehman in my email
+--------------------
+
+--- Message ---
+Message ID: 1281715971723100262
+Message Type: Default
+Reply to: None
+Timestamp: 2024-09-06T20:41:40.79+00:00
+Author: Frances Haydock (HFP HQ!) (franceshaydock_20619)
+Author Id: 1257469301435400238
+Avatar URL: assets\8286d5b1308e7b3d80a3523e4ec50548-C029D.png
+Content: You should receive an email as well as a text from mobilize with the zoom link to join both our phone banks and our text bank trainings!
+--------------------
+
+--- Message ---
+Message ID: 1281720014868709417
+Message Type: Default
+Reply to: None
+Timestamp: 2024-09-06T20:57:44.751+00:00
+Author: Val Hodell (celestial_puppy_58847)
+Author Id: 1150772431175290933
+Avatar URL: assets\5e88585c64e08a25faaa79ec07136b16-1D433.png
+Content: I get text to join the trainings, but only got this about the actual phone bank today
+--------------------
+
+--- Message ---
+Message ID: 1281720062041919540
+Message Type: Default
+Reply to: None
+Timestamp: 2024-09-06T20:57:55.998+00:00
+Author: Val Hodell (celestial_puppy_58847)
+Author Id: 1150772431175290933
+Avatar URL: assets\5e88585c64e08a25faaa79ec07136b16-1D433.png
+Content: 
+--------------------
+
+--- Message ---
+Message ID: 1281721823700058284
+Message Type: Default
+Reply to: None
+Timestamp: 2024-09-06T21:04:56.01+00:00
+Author: Val Hodell (celestial_puppy_58847)
+Author Id: 1150772431175290933
+Avatar URL: assets\5e88585c64e08a25faaa79ec07136b16-1D433.png
+Content: And I contacted the organizer and they said I would get an email from mobilize with a link to join the zoom meeting, but never got one
+--------------------
+
+--- Message ---
+Message ID: 1281721860803002409
+Message Type: Default
+Reply to: None
+Timestamp: 2024-09-06T21:05:04.856+00:00
+Author: Val Hodell (celestial_puppy_58847)
+Author Id: 1150772431175290933
+Avatar URL: assets\5e88585c64e08a25faaa79ec07136b16-1D433.png
+Content: And I checked my spam and didn’t see it
+--------------------
+
+--- Message ---
+Message ID: 1281722689933017139
+Message Type: Default
+Reply to: None
+Timestamp: 2024-09-06T21:08:22.536+00:00
+Author: Frances Haydock (HFP HQ!) (franceshaydock_20619)
+Author Id: 1257469301435400238
+Avatar URL: assets\8286d5b1308e7b3d80a3523e4ec50548-C029D.png
+Content: I am so sorry that that happened to you! You may have turned off email notifications on your mobilize acct and that’s maybe why you didn’t get it. Can you try signing up for another phone bank rn and seeing if you get an email?
+--------------------
+
+--- Message ---
+Message ID: 1281991979936387255
+Message Type: Default
+Reply to: None
+Timestamp: 2024-09-07T14:58:26.276+00:00
+Author: Bill Strobridge CA (bills_28761)
+Author Id: 1273073371487141942
+Avatar URL: assets\2-ADBB4.png
+Content: Thanks Alex. Did the training.
+--------------------
+
+--- Message ---
+Message ID: 1282013167412576326
+Message Type: Default
+Reply to: None
+Timestamp: 2024-09-07T16:22:37.764+00:00
+Author: Bill Strobridge CA (bills_28761)
+Author Id: 1273073371487141942
+Avatar URL: assets\2-ADBB4.png
+Content: Yes, Hello. I've done the training. It's been more than 72 hours now. What's next please?
+--------------------
+
+--- Message ---
+Message ID: 1282017723874021428
+Message Type: Default
+Reply to: None
+Timestamp: 2024-09-07T16:40:44.109+00:00
+Author: Jack Joannides KC text admin (jjoannid)
+Author Id: 477560366432256000
+Avatar URL: assets\791c521e62160be1f3df04992f6e5470-36A38.png
+Content: Bill we'll add you soon. We get you're excited.
+--------------------
+
+--- Message ---
+Message ID: 1282017804333351075
+Message Type: Default
+Reply to: None
+Timestamp: 2024-09-07T16:41:03.292+00:00
+Author: Jack Joannides KC text admin (jjoannid)
+Author Id: 477560366432256000
+Avatar URL: assets\791c521e62160be1f3df04992f6e5470-36A38.png
+Content: We'll dm you soon with next steps.
+--------------------
+
+--- Message ---
+Message ID: 1282068031518019645
+Message Type: Reply
+Reply to: 1281722689933017139
+Timestamp: 2024-09-07T20:00:38.386+00:00
+Author: Val Hodell (celestial_puppy_58847)
+Author Id: 1150772431175290933
+Avatar URL: assets\5e88585c64e08a25faaa79ec07136b16-1D433.png
+Content: Sorry I just got your message, I think I’m going to stick to text team. I have a virtual training tomorrow and next Thursday
+--------------------
+
+--- Message ---
+Message ID: 1282068209935188068
+Message Type: Reply
+Reply to: 1281715971723100262
+Timestamp: 2024-09-07T20:01:20.924+00:00
+Author: Val Hodell (celestial_puppy_58847)
+Author Id: 1150772431175290933
+Avatar URL: assets\5e88585c64e08a25faaa79ec07136b16-1D433.png
+Content: Correct me if I’m wrong, did you say that after training people would be able to start there process with the text team?
+--------------------
+
+--- Message ---
+Message ID: 1282069775102771322
+Message Type: Default
+Reply to: None
+Timestamp: 2024-09-07T20:07:34.089+00:00
+Author: Jack Joannides KC text admin (jjoannid)
+Author Id: 477560366432256000
+Avatar URL: assets\791c521e62160be1f3df04992f6e5470-36A38.png
+Content: Yes. We'll direct message you.
+--------------------
+
+--- Message ---
+Message ID: 1282069859986833560
+Message Type: Default
+Reply to: None
+Timestamp: 2024-09-07T20:07:54.327+00:00
+Author: Jack Joannides KC text admin (jjoannid)
+Author Id: 477560366432256000
+Avatar URL: assets\791c521e62160be1f3df04992f6e5470-36A38.png
+Content: It would be bet if you update your display name to firstname lastname and state.
+--------------------
+
+--- Message ---
+Message ID: 1282072828744695902
+Message Type: Default
+Reply to: None
+Timestamp: 2024-09-07T20:19:42.134+00:00
+Author: Edith (edith_57337)
+Author Id: 1281369243576832114
+Avatar URL: assets\4-4551A.png
+Content: pls add me to the texting channel. already did the training.
+--------------------
+
+--- Message ---
+Message ID: 1282073501829824563
+Message Type: Default
+Reply to: None
+Timestamp: 2024-09-07T20:22:22.61+00:00
+Author: Jack Joannides KC text admin (jjoannid)
+Author Id: 477560366432256000
+Avatar URL: assets\791c521e62160be1f3df04992f6e5470-36A38.png
+Content: That's not how it works.
+--------------------
+
+--- Message ---
+Message ID: 1282074383065677936
+Message Type: Default
+Reply to: None
+Timestamp: 2024-09-07T20:25:52.713+00:00
+Author: Jack Joannides KC text admin (jjoannid)
+Author Id: 477560366432256000
+Avatar URL: assets\791c521e62160be1f3df04992f6e5470-36A38.png
+Content: Btw I just direct messaged you Edith.
+--------------------

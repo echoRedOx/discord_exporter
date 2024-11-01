@@ -1,0 +1,36 @@
+- author_avatar_url: assets\791c521e62160be1f3df04992f6e5470-36A38.png
+  author_id: '477560366432256000'
+  author_name: jjoannid
+  author_nickname: Jack Joannides KC text admin
+  content: ''
+  id: '1290455167531225088'
+  ref_to: '1290447890938073119'
+  timestamp: '2024-09-30T23:28:07.437+00:00'
+  type: '21'
+- author_avatar_url: assets\791c521e62160be1f3df04992f6e5470-36A38.png
+  author_id: '477560366432256000'
+  author_name: jjoannid
+  author_nickname: Jack Joannides KC text admin
+  content: 'Please take a training here: https://events.democrats.org/event/672393/'
+  id: '1290455168873402379'
+  ref_to: null
+  timestamp: '2024-09-30T23:28:07.757+00:00'
+  type: Default
+- author_avatar_url: assets\6ed9d257e45408e8fc075f1a38a3efcf-04381.png
+  author_id: '1282121849362190397'
+  author_name: kyledonohue.22_94249
+  author_nickname: "Kyle Donohue \U0001F1FA\U0001F1F2 \u2618 \U0001F340"
+  content: Thank you for this!
+  id: '1291246619202945054'
+  ref_to: '1290455168873402379'
+  timestamp: '2024-10-03T03:53:04.22+00:00'
+  type: Reply
+- author_avatar_url: assets\791c521e62160be1f3df04992f6e5470-36A38.png
+  author_id: '477560366432256000'
+  author_name: jjoannid
+  author_nickname: Jack Joannides KC text admin
+  content: Np
+  id: '1291249783112994866'
+  ref_to: null
+  timestamp: '2024-10-03T04:05:38.555+00:00'
+  type: Default

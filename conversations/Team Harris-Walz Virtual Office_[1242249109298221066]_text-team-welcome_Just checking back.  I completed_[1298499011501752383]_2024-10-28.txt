@@ -1,0 +1,27 @@
+Guild: Team Harris-Walz Virtual Office (ID: 1242249109298221066)
+Channel: Just checking back.  I completed (ID: 1298499011501752383)
+Channel Topic: None
+Exported At: 2024-10-28T22:20:24.2582302+00:00
+
+
+--- Message ---
+Message ID: 1298655121915383889
+Message Type: 21
+Reply to: 1298499011501752383
+Timestamp: 2024-10-23T14:31:48.91+00:00
+Author: Roberta Bavin CA KC Greeter/Mod (roberta_24935)
+Author Id: 1269872908759597148
+Avatar URL: assets\df6d19d97b04a49ffcafbe7be14c7839-D9CE4.png
+Content: 
+--------------------
+
+--- Message ---
+Message ID: 1298655125115768882
+Message Type: Default
+Reply to: None
+Timestamp: 2024-10-23T14:31:49.673+00:00
+Author: Roberta Bavin CA KC Greeter/Mod (roberta_24935)
+Author Id: 1269872908759597148
+Avatar URL: assets\df6d19d97b04a49ffcafbe7be14c7839-D9CE4.png
+Content: Hi <@1296235890334503005> Thanks for reaching out. Please see DM I'll send you in a few minutes. Thanks for following up!
+--------------------

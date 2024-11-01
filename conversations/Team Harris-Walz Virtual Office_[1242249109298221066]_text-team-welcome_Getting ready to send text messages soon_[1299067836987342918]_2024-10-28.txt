@@ -1,0 +1,38 @@
+Guild: Team Harris-Walz Virtual Office (ID: 1242249109298221066)
+Channel: Getting ready to send text messages soon (ID: 1299067836987342918)
+Channel Topic: None
+Exported At: 2024-10-28T22:15:19.4946659+00:00
+
+
+--- Message ---
+Message ID: 1299100277026324509
+Message Type: 21
+Reply to: 1299067836987342918
+Timestamp: 2024-10-24T20:00:42.159+00:00
+Author: Roberta Bavin CA KC Greeter/Mod (roberta_24935)
+Author Id: 1269872908759597148
+Avatar URL: assets\df6d19d97b04a49ffcafbe7be14c7839-D9CE4.png
+Content: 
+--------------------
+
+--- Message ---
+Message ID: 1299100281287606383
+Message Type: Default
+Reply to: None
+Timestamp: 2024-10-24T20:00:43.175+00:00
+Author: Roberta Bavin CA KC Greeter/Mod (roberta_24935)
+Author Id: 1269872908759597148
+Avatar URL: assets\df6d19d97b04a49ffcafbe7be14c7839-D9CE4.png
+Content: Hi <@690811070058594354> Please check your DM's in upper left corner of Discord. Thanks for reaching out!
+--------------------
+
+--- Message ---
+Message ID: 1299105046343974932
+Message Type: Default
+Reply to: None
+Timestamp: 2024-10-24T20:19:39.253+00:00
+Author: Carlos Ortiz [CA] (eldariontkd)
+Author Id: 690811070058594354
+Avatar URL: assets\f6a387929c1b2f582f249f8bb401c865-A2A5D.png
+Content: I just responded. Nothing is working, so I'll just make calls instead.
+--------------------

@@ -1,0 +1,19 @@
+- author_avatar_url: assets\27b1e286b65ae02b3378793b5f098411-A7B20.png
+  author_id: '935762347753103382'
+  author_name: nmorris237
+  author_nickname: Nicole Morris - Text Admin
+  content: ''
+  id: '1276313787640578170'
+  ref_to: '1276297948174618706'
+  timestamp: '2024-08-22T22:55:19.737+00:00'
+  type: '21'
+- author_avatar_url: assets\27b1e286b65ae02b3378793b5f098411-A7B20.png
+  author_id: '935762347753103382'
+  author_name: nmorris237
+  author_nickname: Nicole Morris - Text Admin
+  content: Thanks <@970714198730489937> Did you take the training yesterday, or need
+    to take the training still?
+  id: '1276313788890615850'
+  ref_to: null
+  timestamp: '2024-08-22T22:55:20.035+00:00'
+  type: Default

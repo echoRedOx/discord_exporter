@@ -1,0 +1,126 @@
+Guild: Team Harris-Walz Virtual Office (ID: 1242249109298221066)
+Channel: Democratic Party Platform 2024 (ID: 1277780208958705697)
+Channel Topic: None
+Exported At: 2024-10-28T20:20:32.30563+00:00
+
+
+--- Message ---
+Message ID: 1277780208958705697
+Message Type: Default
+Reply to: None
+Timestamp: 2024-08-27T00:02:21.824+00:00
+Author: Jean Dittmyer CA (jeandittmyer)
+Author Id: 1253526433276624978
+Avatar URL: assets\50e0f84881238986b45eb7f36dedb30b-CF6BB.png
+Content: I looked on the DNC website and the platform is from 2020.  Can we get the 2024 platform posted and in a place where we can refer folks when they ask about issues/policy/goals?  It would also be good to have more issues info on the Harris-Walz website.  Thids came up during our phonebanking yesterday. (Sunday, August 25). Thanks!
+--------------------
+
+--- Message ---
+Message ID: 1277781307807633460
+Message Type: Default
+Reply to: None
+Timestamp: 2024-08-27T00:06:43.81+00:00
+Author: Carolyn B [CA] • Lead Mod (carb.on)
+Author Id: 568257600228032512
+Avatar URL: assets\28a90c77b5793d80eb62484a43c66748-D8837.png
+Content: https://democrats.org/news/dnc-releases-2024-party-platform-to-be-voted-on-at-convention/
+--------------------
+
+--- Message ---
+Message ID: 1277782064598487040
+Message Type: Default
+Reply to: None
+Timestamp: 2024-08-27T00:09:44.243+00:00
+Author: Jean Dittmyer CA (jeandittmyer)
+Author Id: 1253526433276624978
+Avatar URL: assets\50e0f84881238986b45eb7f36dedb30b-CF6BB.png
+Content: Yes, saw this saying the platform would be voted on.  Asking now for the platform itself.  We know it was voted on and adopted.  We need this for those voters who ask our phone bankers about issues and policies they can expect the candidates to pursue or invest in... Looking for the document.  Thanks.
+--------------------
+
+--- Message ---
+Message ID: 1277790375771242497
+Message Type: Default
+Reply to: None
+Timestamp: 2024-08-27T00:42:45.781+00:00
+Author: Carolyn B [CA] • Lead Mod (carb.on)
+Author Id: 568257600228032512
+Avatar URL: assets\28a90c77b5793d80eb62484a43c66748-D8837.png
+Content: On that page you will find the link to the platform. I will show you in my screenshot.
+--------------------
+
+--- Message ---
+Message ID: 1277797123974500412
+Message Type: Default
+Reply to: None
+Timestamp: 2024-08-27T01:09:34.678+00:00
+Author: Joanna N. (joenorm)
+Author Id: 1198033542341476425
+Avatar URL: assets\0add02f4a3a9628d359eb702c4324c57-82855.png
+Content: is this really the final doc they voted on? It still has Biden named as the nominee. https://democrats.org/wp-content/uploads/2024/08/FINAL-MASTER-PLATFORM.pdf  (the platform linked above)
+--------------------
+
+--- Message ---
+Message ID: 1277798149297012789
+Message Type: Reply
+Reply to: 1277797123974500412
+Timestamp: 2024-08-27T01:13:39.134+00:00
+Author: Carolyn B [CA] • Lead Mod (carb.on)
+Author Id: 568257600228032512
+Avatar URL: assets\28a90c77b5793d80eb62484a43c66748-D8837.png
+Content: Democrats.org has a contact form, that would be the best place to ask. https://democrats.org/contact-us/
+--------------------
+
+--- Message ---
+Message ID: 1277804985706348585
+Message Type: Reply
+Reply to: 1277790375771242497
+Timestamp: 2024-08-27T01:40:49.061+00:00
+Author: Ruthie R (ruthieforkamala)
+Author Id: 1272334036781629441
+Avatar URL: assets\809b23961623aac58464d44d09ab8508-02AED.png
+Content: When I download the PDF it is still downloading the 2020 platform.  Who ever is managing the website can you fix that link please? I don;t want to have conversations based out outdated info. Thanks!
+--------------------
+
+--- Message ---
+Message ID: 1277805597995307109
+Message Type: Reply
+Reply to: 1277804985706348585
+Timestamp: 2024-08-27T01:43:15.042+00:00
+Author: Carolyn B [CA] • Lead Mod (carb.on)
+Author Id: 568257600228032512
+Avatar URL: assets\28a90c77b5793d80eb62484a43c66748-D8837.png
+Content: try this link https://democrats.org/wp-content/uploads/2024/08/FINAL-MASTER-PLATFORM.pdf
+--------------------
+
+--- Message ---
+Message ID: 1277837741450858567
+Message Type: Reply
+Reply to: 1277805597995307109
+Timestamp: 2024-08-27T03:50:58.639+00:00
+Author: Ruthie R (ruthieforkamala)
+Author Id: 1272334036781629441
+Avatar URL: assets\809b23961623aac58464d44d09ab8508-02AED.png
+Content: Thank you! This is great! The website is still out of date.  I hope someone at the DNC can update  the links on this page to direct others to the 2024 platform: https://democrats.org/where-we-stand/party-platform/
+--------------------
+
+--- Message ---
+Message ID: 1277838298978586758
+Message Type: Reply
+Reply to: 1277837741450858567
+Timestamp: 2024-08-27T03:53:11.564+00:00
+Author: Carolyn B [CA] • Lead Mod (carb.on)
+Author Id: 568257600228032512
+Avatar URL: assets\28a90c77b5793d80eb62484a43c66748-D8837.png
+Content: Yes, I appreciate your frustration. It is challenging to get everything aligned with the recent changes.
+--------------------
+
+--- Message ---
+Message ID: 1277870319796748310
+Message Type: Reply
+Reply to: 1277838298978586758
+Timestamp: 2024-08-27T06:00:25.922+00:00
+Author: Ruthie R (ruthieforkamala)
+Author Id: 1272334036781629441
+Avatar URL: assets\809b23961623aac58464d44d09ab8508-02AED.png
+Content: I get it!<:thankyou:1252806147396735057> for all you are doing!
+--------------------

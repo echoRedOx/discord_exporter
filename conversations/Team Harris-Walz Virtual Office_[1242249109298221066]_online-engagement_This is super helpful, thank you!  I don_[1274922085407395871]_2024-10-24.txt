@@ -1,0 +1,38 @@
+Guild: Team Harris-Walz Virtual Office (ID: 1242249109298221066)
+Channel: This is super helpful, thank you!  I don (ID: 1274922085407395871)
+Channel Topic: None
+Exported At: 2024-10-24T13:11:48.9690827+00:00
+
+
+--- Message ---
+Message ID: 1274923110100893787
+Message Type: 21
+Reply to: 1274922085407395871
+Timestamp: 2024-08-19T02:49:16.374+00:00
+Author: Joyce (joycemaree)
+Author Id: 1265075476406472785
+Avatar URL: assets\24c0bd8064e61b879a4cc88ad3932d95-C7EAF.png
+Content: 
+--------------------
+
+--- Message ---
+Message ID: 1274923111048941569
+Message Type: Default
+Reply to: None
+Timestamp: 2024-08-19T02:49:16.6+00:00
+Author: Joyce (joycemaree)
+Author Id: 1265075476406472785
+Avatar URL: assets\24c0bd8064e61b879a4cc88ad3932d95-C7EAF.png
+Content: Oh I also realized I don't have the Orientation section either.
+--------------------
+
+--- Message ---
+Message ID: 1274923274802954280
+Message Type: Default
+Reply to: None
+Timestamp: 2024-08-19T02:49:55.642+00:00
+Author: Carolyn B [CA] • Lead Mod (carb.on)
+Author Id: 568257600228032512
+Avatar URL: assets\28a90c77b5793d80eb62484a43c66748-D8837.png
+Content: HI Joyce, are you on desktop? can you right-click on "Team Harris-Walz" at the top left, in the menu check "show all channels" If you are on mobile, tap on "Team Harris-Walz" at the top and turn on "show all channels"
+--------------------

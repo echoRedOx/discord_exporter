@@ -1,0 +1,181 @@
+Guild: Team Harris-Walz Virtual Office (ID: 1242249109298221066)
+Channel: How would I attain access to the Text (ID: 1271587763124174879)
+Channel Topic: None
+Exported At: 2024-10-24T06:21:13.5300362+00:00
+
+
+--- Message ---
+Message ID: 1271588071233556501
+Message Type: 21
+Reply to: 1271587763124174879
+Timestamp: 2024-08-09T21:57:01.146+00:00
+Author: Jack Joannides KC text admin (jjoannid)
+Author Id: 477560366432256000
+Avatar URL: assets\791c521e62160be1f3df04992f6e5470-36A38.png
+Content: 
+--------------------
+
+--- Message ---
+Message ID: 1271588072349241354
+Message Type: Default
+Reply to: None
+Timestamp: 2024-08-09T21:57:01.412+00:00
+Author: Jack Joannides KC text admin (jjoannid)
+Author Id: 477560366432256000
+Avatar URL: assets\791c521e62160be1f3df04992f6e5470-36A38.png
+Content: Did you take a training?
+--------------------
+
+--- Message ---
+Message ID: 1271588159842549830
+Message Type: Default
+Reply to: None
+Timestamp: 2024-08-09T21:57:22.272+00:00
+Author: Jack Joannides KC text admin (jjoannid)
+Author Id: 477560366432256000
+Avatar URL: assets\791c521e62160be1f3df04992f6e5470-36A38.png
+Content: And please update your diaplay name.
+--------------------
+
+--- Message ---
+Message ID: 1271588220483797063
+Message Type: Default
+Reply to: None
+Timestamp: 2024-08-09T21:57:36.73+00:00
+Author: Bradley Wiederspan (NJ) (brad0741)
+Author Id: 1173375926839549962
+Avatar URL: assets\11161c9a4c03388e4338da74c9cfe691-33131.png
+Content: No.  How would I start the training, and how can I update my display name?
+--------------------
+
+--- Message ---
+Message ID: 1271588562185228359
+Message Type: Default
+Reply to: None
+Timestamp: 2024-08-09T21:58:58.198+00:00
+Author: Jack Joannides KC text admin (jjoannid)
+Author Id: 477560366432256000
+Avatar URL: assets\791c521e62160be1f3df04992f6e5470-36A38.png
+Content: You can sign up here: https://events.democrats.org/event/654680/?referring_vol=6476689&share_context=dashboard-event-details&sharer_role=SharerRole.ORGANIZER
+--------------------
+
+--- Message ---
+Message ID: 1271588704976113766
+Message Type: Default
+Reply to: None
+Timestamp: 2024-08-09T21:59:32.242+00:00
+Author: Bradley Wiederspan (NJ) (brad0741)
+Author Id: 1173375926839549962
+Avatar URL: assets\11161c9a4c03388e4338da74c9cfe691-33131.png
+Content: Thank you
+--------------------
+
+--- Message ---
+Message ID: 1271588747078668449
+Message Type: Default
+Reply to: None
+Timestamp: 2024-08-09T21:59:42.28+00:00
+Author: Jack Joannides KC text admin (jjoannid)
+Author Id: 477560366432256000
+Avatar URL: assets\791c521e62160be1f3df04992f6e5470-36A38.png
+Content: NP
+--------------------
+
+--- Message ---
+Message ID: 1271589236587626609
+Message Type: Default
+Reply to: None
+Timestamp: 2024-08-09T22:01:38.988+00:00
+Author: Bradley Wiederspan (NJ) (brad0741)
+Author Id: 1173375926839549962
+Avatar URL: assets\11161c9a4c03388e4338da74c9cfe691-33131.png
+Content: I just signed up for tomorrow's text training 🙂
+--------------------
+
+--- Message ---
+Message ID: 1271589261354864751
+Message Type: Default
+Reply to: None
+Timestamp: 2024-08-09T22:01:44.893+00:00
+Author: Jack Joannides KC text admin (jjoannid)
+Author Id: 477560366432256000
+Avatar URL: assets\791c521e62160be1f3df04992f6e5470-36A38.png
+Content: Great.
+--------------------
+
+--- Message ---
+Message ID: 1271590254280704063
+Message Type: Default
+Reply to: None
+Timestamp: 2024-08-09T22:05:41.625+00:00
+Author: Bradley Wiederspan (NJ) (brad0741)
+Author Id: 1173375926839549962
+Avatar URL: assets\11161c9a4c03388e4338da74c9cfe691-33131.png
+Content: What would you like me to change my display name to for this server?  Just curious 🙂
+--------------------
+
+--- Message ---
+Message ID: 1271592518357745745
+Message Type: Default
+Reply to: None
+Timestamp: 2024-08-09T22:14:41.423+00:00
+Author: Jack Joannides KC text admin (jjoannid)
+Author Id: 477560366432256000
+Avatar URL: assets\791c521e62160be1f3df04992f6e5470-36A38.png
+Content: To first name last name. Or first name last intial
+--------------------
+
+--- Message ---
+Message ID: 1271592568966353057
+Message Type: Default
+Reply to: None
+Timestamp: 2024-08-09T22:14:53.489+00:00
+Author: Jack Joannides KC text admin (jjoannid)
+Author Id: 477560366432256000
+Avatar URL: assets\791c521e62160be1f3df04992f6e5470-36A38.png
+Content: That works
+--------------------
+
+--- Message ---
+Message ID: 1271592956591345766
+Message Type: Default
+Reply to: None
+Timestamp: 2024-08-09T22:16:25.906+00:00
+Author: Bradley Wiederspan (NJ) (brad0741)
+Author Id: 1173375926839549962
+Avatar URL: assets\11161c9a4c03388e4338da74c9cfe691-33131.png
+Content: Thanks
+--------------------
+
+--- Message ---
+Message ID: 1271927291475263531
+Message Type: Default
+Reply to: None
+Timestamp: 2024-08-10T20:24:57.554+00:00
+Author: Subrahmanyan Ramnath (ramnath_82012)
+Author Id: 1269422916261380199
+Avatar URL: assets\3dcae54c652af0bfd3397abd34b0d6c3-70C34.png
+Content: Have the text channels opened? My dshboard still shows locked.   I have taken the training, submitted the text agreement form and also made sure my display name is first name last name.
+--------------------
+
+--- Message ---
+Message ID: 1271928198925652122
+Message Type: Reply
+Reply to: 1271927291475263531
+Timestamp: 2024-08-10T20:28:33.907+00:00
+Author: Jack Joannides KC text admin (jjoannid)
+Author Id: 477560366432256000
+Avatar URL: assets\791c521e62160be1f3df04992f6e5470-36A38.png
+Content: Let me send you some guidance.
+--------------------
+
+--- Message ---
+Message ID: 1271929107310973011
+Message Type: Default
+Reply to: None
+Timestamp: 2024-08-10T20:32:10.483+00:00
+Author: Subrahmanyan Ramnath (ramnath_82012)
+Author Id: 1269422916261380199
+Avatar URL: assets\3dcae54c652af0bfd3397abd34b0d6c3-70C34.png
+Content: thanks
+--------------------

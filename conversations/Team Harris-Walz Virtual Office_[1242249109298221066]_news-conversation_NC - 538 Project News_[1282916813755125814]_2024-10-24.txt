@@ -1,0 +1,49 @@
+Guild: Team Harris-Walz Virtual Office (ID: 1242249109298221066)
+Channel: NC - 538 Project News (ID: 1282916813755125814)
+Channel Topic: None
+Exported At: 2024-10-24T12:16:01.8070534+00:00
+
+
+--- Message ---
+Message ID: 1282919226365050880
+Message Type: 21
+Reply to: 1282916813755125814
+Timestamp: 2024-09-10T04:22:59.052+00:00
+Author: Jay E  (TX)  OE Mod (jayrio76)
+Author Id: 782870341445353522
+Avatar URL: assets\41ef520387924aa4413513eda28784df-34D82.png
+Content: 
+--------------------
+
+--- Message ---
+Message ID: 1282919227627405325
+Message Type: Default
+Reply to: None
+Timestamp: 2024-09-10T04:22:59.353+00:00
+Author: Jay E  (TX)  OE Mod (jayrio76)
+Author Id: 782870341445353522
+Avatar URL: assets\41ef520387924aa4413513eda28784df-34D82.png
+Content: <@919266668574810122> - Thanks for sharing.
+--------------------
+
+--- Message ---
+Message ID: 1282919578447384598
+Message Type: Default
+Reply to: None
+Timestamp: 2024-09-10T04:24:22.995+00:00
+Author: Anthony D. [PA] (twanathan)
+Author Id: 919266668574810122
+Avatar URL: assets\a83e87e798ebaa7348a3e1045f867690-F0776.png
+Content: Np I thought it relevant and not a coincidence the campaign is choosing to go there right after the debate
+--------------------
+
+--- Message ---
+Message ID: 1282919694826999809
+Message Type: Default
+Reply to: None
+Timestamp: 2024-09-10T04:24:50.742+00:00
+Author: Anthony D. [PA] (twanathan)
+Author Id: 919266668574810122
+Avatar URL: assets\a83e87e798ebaa7348a3e1045f867690-F0776.png
+Content: Especially seeing the Quinnipiac poll that some internal polling might be good there
+--------------------

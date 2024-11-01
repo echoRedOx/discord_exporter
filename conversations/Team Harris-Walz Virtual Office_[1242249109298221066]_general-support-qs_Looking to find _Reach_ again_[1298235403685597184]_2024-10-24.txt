@@ -1,0 +1,83 @@
+Guild: Team Harris-Walz Virtual Office (ID: 1242249109298221066)
+Channel: Looking to find "Reach" again (ID: 1298235403685597184)
+Channel Topic: None
+Exported At: 2024-10-24T06:23:16.7561047+00:00
+
+
+--- Message ---
+Message ID: 1298235403685597184
+Message Type: Default
+Reply to: None
+Timestamp: 2024-10-22T10:44:00.286+00:00
+Author: LRL (eligibly8529)
+Author Id: 480262660794089472
+Avatar URL: assets\41a2575811de2efd852a24ea8542f91d-C479E.png
+Content: Please can someone link me to "Reach." It was something that I found here, clicked the link, signed up, already used their material on social media but can't find my way back. Thanks!
+--------------------
+
+--- Message ---
+Message ID: 1298244194015641600
+Message Type: ChannelNameChange
+Reply to: None
+Timestamp: 2024-10-22T11:18:56.064+00:00
+Author: LRL (eligibly8529)
+Author Id: 480262660794089472
+Avatar URL: assets\41a2575811de2efd852a24ea8542f91d-C479E.png
+Content: Changed the channel name: Looking to find "Reach" again
+--------------------
+
+--- Message ---
+Message ID: 1298252985541070911
+Message Type: Default
+Reply to: None
+Timestamp: 2024-10-22T11:53:52.127+00:00
+Author: Ophelia W • Lead Mod (opheliawild)
+Author Id: 957714233217409174
+Avatar URL: assets\8b706a86e5f9b8dcaaa950a7500b77b8-E1341.png
+Content: Hi <@480262660794089472>. Here's the link to Reach app and if you already have it, it should open it right up! You may also be able to search your device for "Reach" to find the app if you've installed it. 
+
+**HOW DO I DOWNLOAD THE REACH APP?**
+
+https://www.reach.vote/get-the-app/
+
+**WHAT IS THE CODE TO JOIN REACH?**
+
+## ZUMT5Q
+--------------------
+
+--- Message ---
+Message ID: 1298253456997482498
+Message Type: Default
+Reply to: None
+Timestamp: 2024-10-22T11:55:44.531+00:00
+Author: Ophelia W • Lead Mod (opheliawild)
+Author Id: 957714233217409174
+Avatar URL: assets\8b706a86e5f9b8dcaaa950a7500b77b8-E1341.png
+Content: Also, a Reach FAQ for you: https://democrats.org/reach/vr/
+--------------------
+
+--- Message ---
+Message ID: 1298254649584914443
+Message Type: Reply
+Reply to: 1298253456997482498
+Timestamp: 2024-10-22T12:00:28.866+00:00
+Author: LRL (eligibly8529)
+Author Id: 480262660794089472
+Avatar URL: assets\41a2575811de2efd852a24ea8542f91d-C479E.png
+Content: Yes, I had searched my phone and couldn't find the link in history which I thought I'd bookmarked but apparently hadn't.  😏
+
+Also thanks for the link to Reach and to their FAQ page. 
+
+Thank you, Ophelia!  🤗
+--------------------
+
+--- Message ---
+Message ID: 1298255048463351809
+Message Type: Reply
+Reply to: 1298254649584914443
+Timestamp: 2024-10-22T12:02:03.966+00:00
+Author: Ophelia W • Lead Mod (opheliawild)
+Author Id: 957714233217409174
+Avatar URL: assets\8b706a86e5f9b8dcaaa950a7500b77b8-E1341.png
+Content: Thank **you** for sharing Reach content on socials!
+--------------------

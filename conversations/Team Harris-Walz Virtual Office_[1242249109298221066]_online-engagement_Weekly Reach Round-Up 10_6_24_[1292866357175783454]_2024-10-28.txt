@@ -1,0 +1,40 @@
+Guild: Team Harris-Walz Virtual Office (ID: 1242249109298221066)
+Channel: Weekly Reach Round-Up 10/6/24 (ID: 1292866357175783454)
+Channel Topic: None
+Exported At: 2024-10-28T21:48:22.6501841+00:00
+
+
+--- Message ---
+Message ID: 1292866639137607710
+Message Type: 21
+Reply to: 1292866357175783454
+Timestamp: 2024-10-07T15:10:27.071+00:00
+Author: Susan C [CT] • Lead Mod (susanclancyct_81390)
+Author Id: 1261701914454659092
+Avatar URL: assets\071fc6cce2ec3001e5f374ff696b2996-98A50.png
+Content: 
+--------------------
+
+--- Message ---
+Message ID: 1292866641084022876
+Message Type: Default
+Reply to: None
+Timestamp: 2024-10-07T15:10:27.535+00:00
+Author: Susan C [CT] • Lead Mod (susanclancyct_81390)
+Author Id: 1261701914454659092
+Avatar URL: assets\071fc6cce2ec3001e5f374ff696b2996-98A50.png
+Content: <@&1250537336639586325> quick reminder to send your engagement stats. We want to celebrate your success and thank you for all you do!!
+--------------------
+
+--- Message ---
+Message ID: 1292897814501789706
+Message Type: Default
+Reply to: None
+Timestamp: 2024-10-07T17:14:19.857+00:00
+Author: RJ Gilman [CA][OE Lead] (rj_weatherwax)
+Author Id: 1056295974194122842
+Avatar URL: assets\25735137099d8bdfe5eeda6e2ac928bd-BF1B5.png
+Content: Hey Team!
+
+Lots of chatter and engagement across all channels in re: Helene relief, Milton on the way, and countering mis/disinformation about FEMA response, FEMA funding, and available resources
+--------------------

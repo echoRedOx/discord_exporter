@@ -1,0 +1,27 @@
+- author_avatar_url: assets\f7f2e9361e8a54ce6e72580ac7b967af-22084.png
+  author_id: '1275601531084738704'
+  author_name: mperloe
+  author_nickname: '017363'
+  content: I'd like to see FB cover photo formatted photos.
+  id: '1277418454298923169'
+  ref_to: null
+  timestamp: '2024-08-26T00:04:52.792+00:00'
+  type: Default
+- author_avatar_url: assets\a_c1a2d0423471e6287ce2d2c69bf8abe5-C5FA2.gif
+  author_id: '1242248892804763712'
+  author_name: demtortilla_60949
+  author_nickname: demtortilla
+  content: thank you for the feedback! I'll share it with the content creation team.
+  id: '1277703910555123784'
+  ref_to: null
+  timestamp: '2024-08-26T18:59:10.867+00:00'
+  type: Default
+- author_avatar_url: assets\a30e650576a6d42a3c9ee24648f67c90-2AE37.png
+  author_id: '791857656897732648'
+  author_name: rootsmusic
+  author_nickname: rootsmusic
+  content: Do you mean https://share.kamalaharris.com/toolkit/dnc-day-3-916b ?
+  id: '1277706905602621594'
+  ref_to: '1277418454298923169'
+  timestamp: '2024-08-26T19:11:04.942+00:00'
+  type: Reply

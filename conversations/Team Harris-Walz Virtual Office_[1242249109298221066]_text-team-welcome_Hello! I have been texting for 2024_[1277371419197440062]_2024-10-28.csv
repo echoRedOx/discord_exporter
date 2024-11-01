@@ -1,0 +1,3 @@
+id,type,ref_to,timestamp,author_name,author_nickname,author_id,author_avatar_url,content
+1277371983201566730,21,1277371419197440062,2024-08-25T21:00:13.219+00:00,nmorris237,Nicole Morris - Text Admin,935762347753103382,assets\27b1e286b65ae02b3378793b5f098411-A7B20.png,
+1277371984619241618,Default,,2024-08-25T21:00:13.557+00:00,nmorris237,Nicole Morris - Text Admin,935762347753103382,assets\27b1e286b65ae02b3378793b5f098411-A7B20.png,"Hi <@1259973683724816556>  - and welcome! We're still working on how to add Slack texters to our Discord texting channels. We should have more information by tomorrow (for now, texting opportunities are the same in Slack and Discord, so you'll see the campaigns avaialble in Slack still while we move over)"

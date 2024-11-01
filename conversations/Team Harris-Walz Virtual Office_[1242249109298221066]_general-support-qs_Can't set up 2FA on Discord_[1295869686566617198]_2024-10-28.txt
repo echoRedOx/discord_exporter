@@ -1,0 +1,51 @@
+Guild: Team Harris-Walz Virtual Office (ID: 1242249109298221066)
+Channel: Can't set up 2FA on Discord (ID: 1295869686566617198)
+Channel Topic: None
+Exported At: 2024-10-28T19:52:50.4428658+00:00
+
+
+--- Message ---
+Message ID: 1295869686566617198
+Message Type: Default
+Reply to: None
+Timestamp: 2024-10-15T22:03:29.372+00:00
+Author: Ann Exline Starr (combatantlawyer)
+Author Id: 1262361764796825722
+Avatar URL: assets\da9e81922eb4ca340bcb0915b9234f86-78FA2.png
+Content: Hi, Discord won't allow me to set up 2FA.  I tried downloading Google Authenticator and scanned the QR Code, but the 6-digit codes won't work.  I also purchased a Google Titan Security Key, which the Discord 2FA doesn't recognize.  I'd appreciate any help I can get, since I can't perform any moderation functions without it!
+--------------------
+
+--- Message ---
+Message ID: 1295871418864631910
+Message Type: Default
+Reply to: None
+Timestamp: 2024-10-15T22:10:22.384+00:00
+Author: Carolyn B [CA] • Lead Mod (carb.on)
+Author Id: 568257600228032512
+Avatar URL: assets\28a90c77b5793d80eb62484a43c66748-D8837.png
+Content: Hi <@1262361764796825722> can you come to the Discord training at 7p eastern today?
+https://mobilize.us/s/lvz2ve/r
+I can help you then, otherwise I can meet you on zoom tomorrow and sort this out.
+--------------------
+
+--- Message ---
+Message ID: 1296113757965258804
+Message Type: Reply
+Reply to: 1295871418864631910
+Timestamp: 2024-10-16T14:13:20.528+00:00
+Author: Ann Exline Starr (combatantlawyer)
+Author Id: 1262361764796825722
+Avatar URL: assets\da9e81922eb4ca340bcb0915b9234f86-78FA2.png
+Content: Thanks Carolyn.  I had signed up for Discord Dashboard training, but I was in another training for Combating Mis and Dis Information.  I'm going to be a training Facilitator for 12-2 today (ET).  I would love to chat with you by Zoom.  I work from 3-7, and then offered to do confirm the PB'ers from 7:30-8:30.  Are you free now?  (I know it's a big ask)!!
+--------------------
+
+--- Message ---
+Message ID: 1296174824560791786
+Message Type: Default
+Reply to: None
+Timestamp: 2024-10-16T18:15:59.939+00:00
+Author: Carolyn B [CA] • Lead Mod (carb.on)
+Author Id: 568257600228032512
+Avatar URL: assets\28a90c77b5793d80eb62484a43c66748-D8837.png
+Content: Hi <@1262361764796825722> I'm available from now until 8pm eastern (and after 9p) today. Sorry I missed you earlier, I'm west coast and I do my volunteer work in my afternoon/evenings.
+--------------------

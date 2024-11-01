@@ -1,0 +1,192 @@
+Guild: Team Harris-Walz Virtual Office (ID: 1242249109298221066)
+Channel: KH Virtual Office. (ID: 1287302896769171476)
+Channel Topic: None
+Exported At: 2024-10-28T19:43:42.6265211+00:00
+
+
+--- Message ---
+Message ID: 1287303157407289410
+Message Type: 21
+Reply to: 1287302896769171476
+Timestamp: 2024-09-22T06:43:09.662+00:00
+Author: Jay E  (TX)  OE Mod (jayrio76)
+Author Id: 782870341445353522
+Avatar URL: assets\41ef520387924aa4413513eda28784df-34D82.png
+Content: 
+--------------------
+
+--- Message ---
+Message ID: 1287303159143862285
+Message Type: Default
+Reply to: None
+Timestamp: 2024-09-22T06:43:10.076+00:00
+Author: Jay E  (TX)  OE Mod (jayrio76)
+Author Id: 782870341445353522
+Avatar URL: assets\41ef520387924aa4413513eda28784df-34D82.png
+Content: Yes, we work for her.  How would you like to volunteer to help?
+--------------------
+
+--- Message ---
+Message ID: 1287303202080817236
+Message Type: Reply
+Reply to: 1287303159143862285
+Timestamp: 2024-09-22T06:43:20.313+00:00
+Author: Lunar (moonyx_lunar)
+Author Id: 766826560606175242
+Avatar URL: assets\899e72d18d272a2803dada078b9ca2f2-FF6B3.png
+Content: sure
+--------------------
+
+--- Message ---
+Message ID: 1287303233752141835
+Message Type: Default
+Reply to: None
+Timestamp: 2024-09-22T06:43:27.864+00:00
+Author: Lunar (moonyx_lunar)
+Author Id: 766826560606175242
+Avatar URL: assets\899e72d18d272a2803dada078b9ca2f2-FF6B3.png
+Content: Idk where to start tho
+--------------------
+
+--- Message ---
+Message ID: 1287303331768827978
+Message Type: Default
+Reply to: None
+Timestamp: 2024-09-22T06:43:51.233+00:00
+Author: Lunar (moonyx_lunar)
+Author Id: 766826560606175242
+Avatar URL: assets\899e72d18d272a2803dada078b9ca2f2-FF6B3.png
+Content: ddint mean to make this
+--------------------
+
+--- Message ---
+Message ID: 1287303341843546202
+Message Type: Default
+Reply to: None
+Timestamp: 2024-09-22T06:43:53.635+00:00
+Author: Lunar (moonyx_lunar)
+Author Id: 766826560606175242
+Avatar URL: assets\899e72d18d272a2803dada078b9ca2f2-FF6B3.png
+Content: unless you did
+--------------------
+
+--- Message ---
+Message ID: 1287303608378986579
+Message Type: Default
+Reply to: None
+Timestamp: 2024-09-22T06:44:57.182+00:00
+Author: Jay E  (TX)  OE Mod (jayrio76)
+Author Id: 782870341445353522
+Avatar URL: assets\41ef520387924aa4413513eda28784df-34D82.png
+Content: You can start here at <#1268398608097476750> - that contains our key volunteer options.
+--------------------
+
+--- Message ---
+Message ID: 1287303924214398987
+Message Type: Reply
+Reply to: 1287303608378986579
+Timestamp: 2024-09-22T06:46:12.483+00:00
+Author: Lunar (moonyx_lunar)
+Author Id: 766826560606175242
+Avatar URL: assets\899e72d18d272a2803dada078b9ca2f2-FF6B3.png
+Content: Alrighty! I'll take a look at it. Have ya'll talked to her?
+--------------------
+
+--- Message ---
+Message ID: 1287303966346051584
+Message Type: Default
+Reply to: None
+Timestamp: 2024-09-22T06:46:22.528+00:00
+Author: Lunar (moonyx_lunar)
+Author Id: 766826560606175242
+Avatar URL: assets\899e72d18d272a2803dada078b9ca2f2-FF6B3.png
+Content: thru this
+--------------------
+
+--- Message ---
+Message ID: 1287304302833963009
+Message Type: Default
+Reply to: None
+Timestamp: 2024-09-22T06:47:42.753+00:00
+Author: Jay E  (TX)  OE Mod (jayrio76)
+Author Id: 782870341445353522
+Avatar URL: assets\41ef520387924aa4413513eda28784df-34D82.png
+Content: @Lunar - hey I just noticed you like online stuff and climate, we have key messaging training and a <#1280681648563949660>  and <#1283752765629141042>  for memes and art. That might be fun.
+--------------------
+
+--- Message ---
+Message ID: 1287304454865031289
+Message Type: Reply
+Reply to: 1287303924214398987
+Timestamp: 2024-09-22T06:48:19+00:00
+Author: Jay E  (TX)  OE Mod (jayrio76)
+Author Id: 782870341445353522
+Avatar URL: assets\41ef520387924aa4413513eda28784df-34D82.png
+Content: Yes, I am sure some people have. She's pretty busy as are all of us here. 🙂
+--------------------
+
+--- Message ---
+Message ID: 1287304519474090028
+Message Type: Reply
+Reply to: 1287304454865031289
+Timestamp: 2024-09-22T06:48:34.404+00:00
+Author: Lunar (moonyx_lunar)
+Author Id: 766826560606175242
+Avatar URL: assets\899e72d18d272a2803dada078b9ca2f2-FF6B3.png
+Content: hmmm okay
+--------------------
+
+--- Message ---
+Message ID: 1287304670829875241
+Message Type: Default
+Reply to: None
+Timestamp: 2024-09-22T06:49:10.49+00:00
+Author: Lunar (moonyx_lunar)
+Author Id: 766826560606175242
+Avatar URL: assets\899e72d18d272a2803dada078b9ca2f2-FF6B3.png
+Content: When can I start working?
+--------------------
+
+--- Message ---
+Message ID: 1287305101790412840
+Message Type: Default
+Reply to: None
+Timestamp: 2024-09-22T06:50:53.239+00:00
+Author: Jay E  (TX)  OE Mod (jayrio76)
+Author Id: 782870341445353522
+Avatar URL: assets\41ef520387924aa4413513eda28784df-34D82.png
+Content: You can start right now.  Go to <#1242256950402744431> that has the campaign key.  Then you can start sharing messages right away to all your platforms.
+--------------------
+
+--- Message ---
+Message ID: 1287306226253959179
+Message Type: Default
+Reply to: None
+Timestamp: 2024-09-22T06:55:21.332+00:00
+Author: Jay E  (TX)  OE Mod (jayrio76)
+Author Id: 782870341445353522
+Avatar URL: assets\41ef520387924aa4413513eda28784df-34D82.png
+Content: <@766826560606175242> - In fact, here is the link with the QR code to the Democrats Reach: https://discord.com/channels/1242249109298221066/1268398608097476750/1286105357663600671
+--------------------
+
+--- Message ---
+Message ID: 1287318554240352267
+Message Type: Reply
+Reply to: 1287306226253959179
+Timestamp: 2024-09-22T07:44:20.553+00:00
+Author: Lunar (moonyx_lunar)
+Author Id: 766826560606175242
+Avatar URL: assets\899e72d18d272a2803dada078b9ca2f2-FF6B3.png
+Content: Alright, I'll install the app on my phone rn
+--------------------
+
+--- Message ---
+Message ID: 1287460286223220778
+Message Type: Reply
+Reply to: 1287318554240352267
+Timestamp: 2024-09-22T17:07:32.091+00:00
+Author: Jay E  (TX)  OE Mod (jayrio76)
+Author Id: 782870341445353522
+Avatar URL: assets\41ef520387924aa4413513eda28784df-34D82.png
+Content: <@766826560606175242> - Thanks so much. Hope you have fun with Reach!
+--------------------

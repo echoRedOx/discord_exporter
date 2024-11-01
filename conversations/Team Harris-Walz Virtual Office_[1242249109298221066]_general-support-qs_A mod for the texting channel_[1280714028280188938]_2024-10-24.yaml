@@ -1,0 +1,72 @@
+- author_avatar_url: assets\e67a6ac9419628ecb45f29be34c5f615-D17E0.png
+  author_id: '454416840798502933'
+  author_name: sarahrose13
+  author_nickname: Sarah Johnson | CT
+  content: "I need someone to respond to me in one of the texting channels, but I\
+    \ haven\u2019t heard back from anyone."
+  id: '1280714028280188938'
+  ref_to: null
+  timestamp: '2024-09-04T02:20:18.858+00:00'
+  type: Default
+- author_avatar_url: assets\28a90c77b5793d80eb62484a43c66748-D8837.png
+  author_id: '568257600228032512'
+  author_name: carb.on
+  author_nickname: "Carolyn B [CA] \u2022 Lead Mod"
+  content: Hi <@454416840798502933> I saw you posted a message in https://discord.com/channels/1242249109298221066/1266829704204386334.
+    Text team is a different team and has separate on-boarding from Online Engagement.
+    Attend a Text tranfing to join the text team. There is a training on Thursday.
+    After that you will be added to the text team.
+  id: '1280715750704943176'
+  ref_to: null
+  timestamp: '2024-09-04T02:27:09.516+00:00'
+  type: Default
+- author_avatar_url: assets\28a90c77b5793d80eb62484a43c66748-D8837.png
+  author_id: '568257600228032512'
+  author_name: carb.on
+  author_nickname: "Carolyn B [CA] \u2022 Lead Mod"
+  content: https://events.democrats.org/event/672393/
+  id: '1280715764898205758'
+  ref_to: null
+  timestamp: '2024-09-04T02:27:12.9+00:00'
+  type: Default
+- author_avatar_url: assets\e67a6ac9419628ecb45f29be34c5f615-D17E0.png
+  author_id: '454416840798502933'
+  author_name: sarahrose13
+  author_nickname: Sarah Johnson | CT
+  content: "I\u2019m just confused bcuz the mod that posted about the text team training\
+    \ said sorry if we missed the beginning of the training this evening, when it\
+    \ wasn\u2019t for texting. It was for online engagement."
+  id: '1280716041005043776'
+  ref_to: '1280715750704943176'
+  timestamp: '2024-09-04T02:28:18.729+00:00'
+  type: Reply
+- author_avatar_url: assets\28a90c77b5793d80eb62484a43c66748-D8837.png
+  author_id: '568257600228032512'
+  author_name: carb.on
+  author_nickname: "Carolyn B [CA] \u2022 Lead Mod"
+  content: I apologize for the confusion. Online engagement is also a great team if
+    you want to do something right away. I appreciate you are intereste in texting,
+    so I hope you can make time for that on Thursday.
+  id: '1280716599631941632'
+  ref_to: null
+  timestamp: '2024-09-04T02:30:31.916+00:00'
+  type: Default
+- author_avatar_url: assets\e67a6ac9419628ecb45f29be34c5f615-D17E0.png
+  author_id: '454416840798502933'
+  author_name: sarahrose13
+  author_nickname: Sarah Johnson | CT
+  content: "No worries! I did the online engagement training and I\u2019m gonna do\
+    \ the texting training on Thursday."
+  id: '1280716884622180403'
+  ref_to: null
+  timestamp: '2024-09-04T02:31:39.863+00:00'
+  type: Default
+- author_avatar_url: assets\e67a6ac9419628ecb45f29be34c5f615-D17E0.png
+  author_id: '454416840798502933'
+  author_name: sarahrose13
+  author_nickname: Sarah Johnson | CT
+  content: Thank you for your help!
+  id: '1280717636543451219'
+  ref_to: null
+  timestamp: '2024-09-04T02:34:39.135+00:00'
+  type: Default

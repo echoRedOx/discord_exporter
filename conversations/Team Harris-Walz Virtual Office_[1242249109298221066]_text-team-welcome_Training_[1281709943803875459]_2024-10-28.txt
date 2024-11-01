@@ -1,0 +1,93 @@
+Guild: Team Harris-Walz Virtual Office (ID: 1242249109298221066)
+Channel: Training (ID: 1281709943803875459)
+Channel Topic: None
+Exported At: 2024-10-28T23:36:11.3051584+00:00
+
+
+--- Message ---
+Message ID: 1281710474697642107
+Message Type: 21
+Reply to: 1281709943803875459
+Timestamp: 2024-09-06T20:19:50.197+00:00
+Author: Jack Joannides KC text admin (jjoannid)
+Author Id: 477560366432256000
+Avatar URL: assets\791c521e62160be1f3df04992f6e5470-36A38.png
+Content: 
+--------------------
+
+--- Message ---
+Message ID: 1281710476836999220
+Message Type: Default
+Reply to: None
+Timestamp: 2024-09-06T20:19:50.707+00:00
+Author: Jack Joannides KC text admin (jjoannid)
+Author Id: 477560366432256000
+Avatar URL: assets\791c521e62160be1f3df04992f6e5470-36A38.png
+Content: Here: https://events.democrats.org/event/672393/
+--------------------
+
+--- Message ---
+Message ID: 1281710692981932063
+Message Type: Default
+Reply to: None
+Timestamp: 2024-09-06T20:20:42.24+00:00
+Author: Elvin Choi (OR) (cascadiuh)
+Author Id: 639189827757146162
+Avatar URL: assets\e11f33ba8cf8f233125c47b0fc7a4839-F6617.png
+Content: Thanks!
+--------------------
+
+--- Message ---
+Message ID: 1281711043537797120
+Message Type: Default
+Reply to: None
+Timestamp: 2024-09-06T20:22:05.819+00:00
+Author: Elvin Choi (OR) (cascadiuh)
+Author Id: 639189827757146162
+Avatar URL: assets\e11f33ba8cf8f233125c47b0fc7a4839-F6617.png
+Content: Are these the only times? I have classes during those Tuesday and Thursday time slots 😔
+--------------------
+
+--- Message ---
+Message ID: 1281716072634122241
+Message Type: Default
+Reply to: None
+Timestamp: 2024-09-06T20:42:04.849+00:00
+Author: Jack Joannides KC text admin (jjoannid)
+Author Id: 477560366432256000
+Avatar URL: assets\791c521e62160be1f3df04992f6e5470-36A38.png
+Content: We might have others but I don't have an link to those.
+--------------------
+
+--- Message ---
+Message ID: 1281716225411514472
+Message Type: Default
+Reply to: None
+Timestamp: 2024-09-06T20:42:41.274+00:00
+Author: Jack Joannides KC text admin (jjoannid)
+Author Id: 477560366432256000
+Avatar URL: assets\791c521e62160be1f3df04992f6e5470-36A38.png
+Content: Here: https://events.democrats.org/event/654680/?referring_vol=6476689&share_context=dashboard-event-details&sharer_role=SharerRole.ORGANIZER
+--------------------
+
+--- Message ---
+Message ID: 1281718093046874245
+Message Type: Default
+Reply to: None
+Timestamp: 2024-09-06T20:50:06.553+00:00
+Author: Elvin Choi (OR) (cascadiuh)
+Author Id: 639189827757146162
+Avatar URL: assets\e11f33ba8cf8f233125c47b0fc7a4839-F6617.png
+Content: Thanks!
+--------------------
+
+--- Message ---
+Message ID: 1281718254078918686
+Message Type: Default
+Reply to: None
+Timestamp: 2024-09-06T20:50:44.946+00:00
+Author: Jack Joannides KC text admin (jjoannid)
+Author Id: 477560366432256000
+Avatar URL: assets\791c521e62160be1f3df04992f6e5470-36A38.png
+Content: NP
+--------------------

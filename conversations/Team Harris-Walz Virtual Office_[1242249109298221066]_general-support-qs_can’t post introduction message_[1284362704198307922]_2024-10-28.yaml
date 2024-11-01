@@ -1,0 +1,32 @@
+- author_avatar_url: assets\8569adcbd36c70a7578c017bf5604ea5-224AD.png
+  author_id: '1098075348446498886'
+  author_name: frau_schmitty
+  author_nickname: Sherri Smith [OH]
+  content: New to discord so still trying to orient myself. Tried to introduce myself
+    on the new volunteer page/channel(??) but my message was rejected.
+  id: '1284362704198307922'
+  ref_to: null
+  timestamp: '2024-09-14T03:58:50.986+00:00'
+  type: Default
+- author_avatar_url: assets\28a90c77b5793d80eb62484a43c66748-D8837.png
+  author_id: '568257600228032512'
+  author_name: carb.on
+  author_nickname: "Carolyn B [CA] \u2022 Lead Mod"
+  content: Hi Sherry if you can post here I promise you can post in the welcome channel.
+    https://discord.com/channels/1242249109298221066/1242264162948874360 go ahead
+    and try again just like what you did here.
+  id: '1284379173909037067'
+  ref_to: '1284362704198307922'
+  timestamp: '2024-09-14T05:04:17.671+00:00'
+  type: Reply
+- author_avatar_url: assets\28a90c77b5793d80eb62484a43c66748-D8837.png
+  author_id: '568257600228032512'
+  author_name: carb.on
+  author_nickname: "Carolyn B [CA] \u2022 Lead Mod"
+  content: 'Hi <@1098075348446498886> this video might help a little.
+
+    https://youtu.be/cA32MMsN61g'
+  id: '1284442990965821472'
+  ref_to: null
+  timestamp: '2024-09-14T09:17:52.843+00:00'
+  type: Default

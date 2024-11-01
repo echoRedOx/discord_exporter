@@ -1,0 +1,27 @@
+Guild: Team Harris-Walz Virtual Office (ID: 1242249109298221066)
+Channel: How to practice calling (ID: 1276937924272717935)
+Channel Topic: None
+Exported At: 2024-10-28T21:02:40.3949+00:00
+
+
+--- Message ---
+Message ID: 1276937924272717935
+Message Type: Default
+Reply to: None
+Timestamp: 2024-08-24T16:15:25.506+00:00
+Author: Flipper, CO (flipper.must.stop.grinning)
+Author Id: 753567954712657981
+Avatar URL: assets\06d27279fddddaf777b7d9a441c8bec4-7C03F.png
+Content: Is there a way to practice the dialer app without signing up for a calling session? i'm watching the 'scale to win training', and i'd like to practice what it is showing before actually doing it
+--------------------
+
+--- Message ---
+Message ID: 1276944414274490474
+Message Type: Default
+Reply to: None
+Timestamp: 2024-08-24T16:41:12.843+00:00
+Author: Laura M (CO) • Call Mod (hungry.hiker)
+Author Id: 756314488113987654
+Avatar URL: assets\4aa5ed3c3ad66beef8f10bd0d3979dae-08843.png
+Content: Replying as a fellow volunteer, not a mod. There is an option to choose Preview Script before you start calling. You can click on all the options just like when making a real call. This allows you to get familiar with the script for each situation and also the talking points before you call. I hope this was helpful.
+--------------------

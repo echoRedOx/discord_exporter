@@ -1,0 +1,95 @@
+Guild: Team Harris-Walz Virtual Office (ID: 1242249109298221066)
+Channel: Persuasion Team: Need Link to Join Scale to Win (ID: 1299104868174270668)
+Channel Topic: None
+Exported At: 2024-10-28T19:49:38.2071945+00:00
+
+
+--- Message ---
+Message ID: 1299104868174270668
+Message Type: Default
+Reply to: None
+Timestamp: 2024-10-24T20:18:56.774+00:00
+Author: Daniel Marro (he/him) NY (danrmarro)
+Author Id: 1278514638774075444
+Avatar URL: assets\b8621b7bfa61ceea0cf528862e4a038f-5637B.png
+Content: Hi there! I was signed up for the 4pm training today for the Persuasion Text Team. I saw it got cancelled so I watched the recording pinned in the channel <#1298623273566732300> 
+
+The only issue is, the recording doesn’t include the invitation link to join Scale to Win! Would a mod be able to send me an invitation link? Thank you!!
+--------------------
+
+--- Message ---
+Message ID: 1299112868721197086
+Message Type: Default
+Reply to: None
+Timestamp: 2024-10-24T20:50:44.253+00:00
+Author: Carolyn B [CA] • Lead Mod (carb.on)
+Author Id: 568257600228032512
+Avatar URL: assets\28a90c77b5793d80eb62484a43c66748-D8837.png
+Content: Hi <@1278514638774075444> please click [HERE](https://discord.com/channels/1242249109298221066/1298432769516634202) and share your email to get your invite.
+--------------------
+
+--- Message ---
+Message ID: 1299113203447631922
+Message Type: Default
+Reply to: None
+Timestamp: 2024-10-24T20:52:04.058+00:00
+Author: Daniel Marro (he/him) NY (danrmarro)
+Author Id: 1278514638774075444
+Avatar URL: assets\b8621b7bfa61ceea0cf528862e4a038f-5637B.png
+Content: Thanks <@568257600228032512> ! When I click the link I get this error screen. I've just completed the quiz and waiting to get access to the rest of the Persuasion Channels, is this why?
+--------------------
+
+--- Message ---
+Message ID: 1299113448499576924
+Message Type: Default
+Reply to: None
+Timestamp: 2024-10-24T20:53:02.483+00:00
+Author: Carolyn B [CA] • Lead Mod (carb.on)
+Author Id: 568257600228032512
+Avatar URL: assets\28a90c77b5793d80eb62484a43c66748-D8837.png
+Content: Actually click [HERE](https://discord.com/channels/1242249109298221066/1298623273566732300) and take the quiz then you will be able to go [HERE](https://discord.com/channels/1242249109298221066/1298432769516634202) to share your email.
+--------------------
+
+--- Message ---
+Message ID: 1299113800380977153
+Message Type: Default
+Reply to: None
+Timestamp: 2024-10-24T20:54:26.378+00:00
+Author: Carolyn B [CA] • Lead Mod (carb.on)
+Author Id: 568257600228032512
+Avatar URL: assets\28a90c77b5793d80eb62484a43c66748-D8837.png
+Content: you should see the channel now.
+--------------------
+
+--- Message ---
+Message ID: 1299114177238929428
+Message Type: Default
+Reply to: None
+Timestamp: 2024-10-24T20:55:56.228+00:00
+Author: Daniel Marro (he/him) NY (danrmarro)
+Author Id: 1278514638774075444
+Avatar URL: assets\b8621b7bfa61ceea0cf528862e4a038f-5637B.png
+Content: Perfect, I just had to restart Discord and then it recognized that I'd completed the quiz and allowed me to add my email. Thank you so much for your help Carolyn!
+--------------------
+
+--- Message ---
+Message ID: 1299116540733689856
+Message Type: Default
+Reply to: None
+Timestamp: 2024-10-24T21:05:19.729+00:00
+Author: Diana (diana_82948)
+Author Id: 1299108639105093742
+Avatar URL: assets\4-4551A.png
+Content: I watched a prerecorded training session for texting but don't know how to access Scale to Win. Please help.
+--------------------
+
+--- Message ---
+Message ID: 1299118725043191889
+Message Type: Default
+Reply to: None
+Timestamp: 2024-10-24T21:14:00.509+00:00
+Author: Carolyn B [CA] • Lead Mod (carb.on)
+Author Id: 568257600228032512
+Avatar URL: assets\28a90c77b5793d80eb62484a43c66748-D8837.png
+Content: Hi <@1299108639105093742> please click [HERE](https://discord.com/channels/1242249109298221066/1298623273566732300) and take the quiz then you will be able to go [HERE](https://discord.com/channels/1242249109298221066/1298432769516634202) to share your email to get the invite.
+--------------------

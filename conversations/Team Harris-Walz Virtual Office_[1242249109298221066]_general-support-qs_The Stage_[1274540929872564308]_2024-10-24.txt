@@ -1,0 +1,38 @@
+Guild: Team Harris-Walz Virtual Office (ID: 1242249109298221066)
+Channel: The Stage (ID: 1274540929872564308)
+Channel Topic: None
+Exported At: 2024-10-24T07:01:25.7629151+00:00
+
+
+--- Message ---
+Message ID: 1274540929872564308
+Message Type: Default
+Reply to: None
+Timestamp: 2024-08-18T01:30:37.507+00:00
+Author: David W [OR] (dayandnight25)
+Author Id: 1272416530390585447
+Avatar URL: assets\1-B2132.png
+Content: My Stage channel is locked. Previously, it wasn’t. What’s up with that?
+--------------------
+
+--- Message ---
+Message ID: 1274543847736741928
+Message Type: Default
+Reply to: None
+Timestamp: 2024-08-18T01:42:13.18+00:00
+Author: Carolyn B [CA] • Lead Mod (carb.on)
+Author Id: 568257600228032512
+Avatar URL: assets\28a90c77b5793d80eb62484a43c66748-D8837.png
+Content: We are preparing the Stage for tomorrow's weekly recap. Make sure to visit the stage tomorrow and hear about all the exciting things we have going on. https://discord.gg/F3P3TGKp?event=1273027649576505475
+--------------------
+
+--- Message ---
+Message ID: 1274546088203780231
+Message Type: Default
+Reply to: None
+Timestamp: 2024-08-18T01:51:07.349+00:00
+Author: David W [OR] (dayandnight25)
+Author Id: 1272416530390585447
+Avatar URL: assets\1-B2132.png
+Content: OK, thanks, that would explain the new lock icon.
+--------------------

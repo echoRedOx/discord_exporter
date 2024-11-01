@@ -1,0 +1,60 @@
+Guild: Team Harris-Walz Virtual Office (ID: 1242249109298221066)
+Channel: Linda (ID: 1300131258709573693)
+Channel Topic: None
+Exported At: 2024-10-28T22:07:20.5663573+00:00
+
+
+--- Message ---
+Message ID: 1300132469802270721
+Message Type: 21
+Reply to: 1300131258709573693
+Timestamp: 2024-10-27T16:22:16.094+00:00
+Author: Nicole Morris - Text Admin (nmorris237)
+Author Id: 935762347753103382
+Avatar URL: assets\27b1e286b65ae02b3378793b5f098411-A7B20.png
+Content: 
+--------------------
+
+--- Message ---
+Message ID: 1300132474193444885
+Message Type: Default
+Reply to: None
+Timestamp: 2024-10-27T16:22:17.141+00:00
+Author: Nicole Morris - Text Admin (nmorris237)
+Author Id: 935762347753103382
+Avatar URL: assets\27b1e286b65ae02b3378793b5f098411-A7B20.png
+Content: Hi Linda! I sent you a Direct Message yesterday - let me know if you don’t see it
+--------------------
+
+--- Message ---
+Message ID: 1300137852197142671
+Message Type: Default
+Reply to: None
+Timestamp: 2024-10-27T16:43:39.357+00:00
+Author: Linda W (TX) (ariel817)
+Author Id: 161475441654235136
+Avatar URL: assets\cf8f2cd8acfb25565f31f96b21cae9df-B19FF.png
+Content: I do see it, and followed the steps.  We had to put our dog down yesterday, and as much as I wanted to help, I just didn't have the heart.  I did a few click-to-approves and that was about all I had in me.  THANK YOU!  Spoke is funny when you have multiple groups you're active with, but I think I got it sorted out.
+--------------------
+
+--- Message ---
+Message ID: 1300189911361654795
+Message Type: Default
+Reply to: None
+Timestamp: 2024-10-27T20:10:31.229+00:00
+Author: Nicole Morris - Text Admin (nmorris237)
+Author Id: 935762347753103382
+Avatar URL: assets\27b1e286b65ae02b3378793b5f098411-A7B20.png
+Content: Thanks - oh goodness, so sorry to hear 💔
+--------------------
+
+--- Message ---
+Message ID: 1300190012184330240
+Message Type: Default
+Reply to: None
+Timestamp: 2024-10-27T20:10:55.267+00:00
+Author: Nicole Morris - Text Admin (nmorris237)
+Author Id: 935762347753103382
+Avatar URL: assets\27b1e286b65ae02b3378793b5f098411-A7B20.png
+Content: Let me reply back to your DM now
+--------------------

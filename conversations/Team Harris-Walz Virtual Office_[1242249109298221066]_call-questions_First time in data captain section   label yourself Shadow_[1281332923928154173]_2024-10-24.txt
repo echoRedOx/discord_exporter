@@ -1,0 +1,82 @@
+Guild: Team Harris-Walz Virtual Office (ID: 1242249109298221066)
+Channel: First time in data captain section   label yourself Shadow (ID: 1281332923928154173)
+Channel Topic: None
+Exported At: 2024-10-24T12:53:24.8577844+00:00
+
+
+--- Message ---
+Message ID: 1281332923928154173
+Message Type: Default
+Reply to: None
+Timestamp: 2024-09-05T19:19:35.079+00:00
+Author: billh (.billh)
+Author Id: 911700060360818688
+Avatar URL: assets\0-EB806.png
+Content: I never saw Shadow mentioned in regard to the captain sections. I told someone I knew nothing. For some reason I was put in a Tech room by myself to answer questions. Two hours there, maybe five minutes of actually seeing what to do. Captains: if someone says they know nothing,  assume they know nothing and tell them to label themself as Shadow something Captain. New people in Captain: rename yourself as Shadow ___ Captain if you know nothing. I was there for two hours before someone told me I should have labelled as Shadow.
+--------------------
+
+--- Message ---
+Message ID: 1281348306538074194
+Message Type: Default
+Reply to: None
+Timestamp: 2024-09-05T20:20:42.579+00:00
+Author: AndreaV, KY Call Mod (andrearogersvalen)
+Author Id: 965992907981074443
+Avatar URL: assets\72d82e393a66b89996d99840a07990ec-C9EFF.png
+Content: Hi <@911700060360818688> -- Are you in the VOTE Team channels yet? Your feedback is very  important but I need to flag it there for the right people to see it.
+--------------------
+
+--- Message ---
+Message ID: 1281348827189874700
+Message Type: Default
+Reply to: None
+Timestamp: 2024-09-05T20:22:46.712+00:00
+Author: AndreaV, KY Call Mod (andrearogersvalen)
+Author Id: 965992907981074443
+Avatar URL: assets\72d82e393a66b89996d99840a07990ec-C9EFF.png
+Content: <@1263159708466811000> -- Tagging you here so you can see quickly.
+--------------------
+
+--- Message ---
+Message ID: 1281673954939113474
+Message Type: Default
+Reply to: None
+Timestamp: 2024-09-06T17:54:43.208+00:00
+Author: billh (.billh)
+Author Id: 911700060360818688
+Avatar URL: assets\0-EB806.png
+Content: No. I don't see anything that says Vote Team.
+--------------------
+
+--- Message ---
+Message ID: 1281708478888415313
+Message Type: Default
+Reply to: None
+Timestamp: 2024-09-06T20:11:54.359+00:00
+Author: AndreaV, KY Call Mod (andrearogersvalen)
+Author Id: 965992907981074443
+Avatar URL: assets\72d82e393a66b89996d99840a07990ec-C9EFF.png
+Content: <@1271505055589339207> or <@1257469301435400238> Can one of you help here? Thanks!
+--------------------
+
+--- Message ---
+Message ID: 1281716025611517962
+Message Type: Default
+Reply to: None
+Timestamp: 2024-09-06T20:41:53.638+00:00
+Author: Marie B. | PA/NJ | OE/KC (mariebroph2677695)
+Author Id: 941196169852366859
+Avatar URL: assets\4412fd436c9a7d43a1770d5771bbdd0c-8CC79.png
+Content: Always label if you are a shadow... always.
+--------------------
+
+--- Message ---
+Message ID: 1281760448873758864
+Message Type: Reply
+Reply to: 1281332923928154173
+Timestamp: 2024-09-06T23:38:24.969+00:00
+Author: Eva Kwiatkowski [HQ Staff] (evakwi)
+Author Id: 1263159708466811000
+Avatar URL: assets\1-B2132.png
+Content: Hi Bill, you're now in our VOTE Team channel. Where did you sign up to shadow? We had instructions on our sign up links to label shadow, my apologies again for the confusion!
+--------------------

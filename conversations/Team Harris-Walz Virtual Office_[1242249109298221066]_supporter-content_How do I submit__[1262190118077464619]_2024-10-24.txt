@@ -1,0 +1,49 @@
+Guild: Team Harris-Walz Virtual Office (ID: 1242249109298221066)
+Channel: How do I submit? (ID: 1262190118077464619)
+Channel Topic: None
+Exported At: 2024-10-24T13:01:00.8944961+00:00
+
+
+--- Message ---
+Message ID: 1263588665846661252
+Message Type: Default
+Reply to: None
+Timestamp: 2024-07-18T20:10:14.28+00:00
+Author: rootsmusic (rootsmusic)
+Author Id: 791857656897732648
+Avatar URL: assets\a30e650576a6d42a3c9ee24648f67c90-2AE37.png
+Content: https://events.democrats.org/event/637836/ <@800039874211479573>
+--------------------
+
+--- Message ---
+Message ID: 1284167050637480049
+Message Type: Default
+Reply to: None
+Timestamp: 2024-09-13T15:01:23.542+00:00
+Author: Anastasia Ashman (CA) (anastasiakip)
+Author Id: 1268063316387827712
+Avatar URL: assets\f15957093af5aa72f55de863f140362d-A2EA9.png
+Content: I’ve tried to join this content creation team and was told they are only looking for professional graphics designers and video editors? Is this still the case and how do we start sharing content?
+--------------------
+
+--- Message ---
+Message ID: 1286703044947607583
+Message Type: Default
+Reply to: None
+Timestamp: 2024-09-20T14:58:31.702+00:00
+Author: Carolyn B [CA] • Lead Mod (carb.on)
+Author Id: 568257600228032512
+Avatar URL: assets\28a90c77b5793d80eb62484a43c66748-D8837.png
+Content: Hello <@1268063316387827712> you can use this form to apply to the Content Creation team https://txt.democrats.org/CreatorTeamApply
+--------------------
+
+--- Message ---
+Message ID: 1286706472633237595
+Message Type: Reply
+Reply to: 1284167050637480049
+Timestamp: 2024-09-20T15:12:08.926+00:00
+Author: Carolyn B [CA] • Lead Mod (carb.on)
+Author Id: 568257600228032512
+Avatar URL: assets\28a90c77b5793d80eb62484a43c66748-D8837.png
+Content: While you are waiting for your application to Content Brigade to be approved, I support you to continue to share your content with your own socials as that that where it will be most impactful. You can also share memes in our https://discord.com/channels/1242249109298221066/1265762143559618624
+--------------------

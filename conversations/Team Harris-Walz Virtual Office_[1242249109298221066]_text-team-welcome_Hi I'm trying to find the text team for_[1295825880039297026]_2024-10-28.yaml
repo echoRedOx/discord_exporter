@@ -1,0 +1,86 @@
+- author_avatar_url: assets\df6d19d97b04a49ffcafbe7be14c7839-D9CE4.png
+  author_id: '1269872908759597148'
+  author_name: roberta_24935
+  author_nickname: Roberta Bavin CA KC Greeter/Mod
+  content: ''
+  id: '1295837591006089258'
+  ref_to: '1295825880039297026'
+  timestamp: '2024-10-15T19:55:57.194+00:00'
+  type: '21'
+- author_avatar_url: assets\df6d19d97b04a49ffcafbe7be14c7839-D9CE4.png
+  author_id: '1269872908759597148'
+  author_name: roberta_24935
+  author_nickname: Roberta Bavin CA KC Greeter/Mod
+  content: Hi <@1294793929325285407> Have you taken a training with us yet?
+  id: '1295837594562596904'
+  ref_to: null
+  timestamp: '2024-10-15T19:55:58.042+00:00'
+  type: Default
+- author_avatar_url: assets\1-B2132.png
+  author_id: '1294793929325285407'
+  author_name: busy_gull_26748
+  author_nickname: Benjamin Ferris II California
+  content: Yes and was approved and given instructions to go to "Channels and Roles"
+    and then browse.
+  id: '1295887927468888115'
+  ref_to: null
+  timestamp: '2024-10-15T23:15:58.342+00:00'
+  type: Default
+- author_avatar_url: assets\1-B2132.png
+  author_id: '1294793929325285407'
+  author_name: busy_gull_26748
+  author_nickname: Benjamin Ferris II California
+  content: Roberta I tried DM ing you after you sent the instructions but a message
+    came back saying I wasn't set up to do that...
+  id: '1295888802539241556'
+  ref_to: null
+  timestamp: '2024-10-15T23:19:26.975+00:00'
+  type: Default
+- author_avatar_url: assets\1-B2132.png
+  author_id: '1294793929325285407'
+  author_name: busy_gull_26748
+  author_nickname: Benjamin Ferris II California
+  content: Also I've changed my screen name back if that's the issue...
+  id: '1295889025101729822'
+  ref_to: null
+  timestamp: '2024-10-15T23:20:20.038+00:00'
+  type: Default
+- author_avatar_url: assets\df6d19d97b04a49ffcafbe7be14c7839-D9CE4.png
+  author_id: '1269872908759597148'
+  author_name: roberta_24935
+  author_nickname: Roberta Bavin CA KC Greeter/Mod
+  content: It looks like you have two discord accounts and you were approved to text
+    using Ben Ferris. Please look for that discord account to text. Thanks!
+  id: '1295902475785867355'
+  ref_to: '1295887927468888115'
+  timestamp: '2024-10-16T00:13:46.931+00:00'
+  type: Reply
+- author_avatar_url: assets\1-B2132.png
+  author_id: '1294793929325285407'
+  author_name: busy_gull_26748
+  author_nickname: Benjamin Ferris II California
+  content: OK I've logged out and logged back in as Benjamin Ferris II. I thought
+    I could use a different screen name? All I'm seeing on the left column is text-team-welcome.
+    Aren't there more channels I should be able to access? Sorry to bother you Thanks!
+  id: '1295907011850141746'
+  ref_to: null
+  timestamp: '2024-10-16T00:31:48.413+00:00'
+  type: Default
+- author_avatar_url: assets\df6d19d97b04a49ffcafbe7be14c7839-D9CE4.png
+  author_id: '1269872908759597148'
+  author_name: roberta_24935
+  author_nickname: Roberta Bavin CA KC Greeter/Mod
+  content: Let me reply in a DM so it's not public. Thanks!
+  id: '1295908165338267689'
+  ref_to: '1295907011850141746'
+  timestamp: '2024-10-16T00:36:23.426+00:00'
+  type: Reply
+- author_avatar_url: assets\1-B2132.png
+  author_id: '1294793929325285407'
+  author_name: busy_gull_26748
+  author_nickname: Benjamin Ferris II California
+  content: Yes, success!
+  id: '1295909474636136449'
+  ref_to: null
+  timestamp: '2024-10-16T00:41:35.587+00:00'
+  type: Default

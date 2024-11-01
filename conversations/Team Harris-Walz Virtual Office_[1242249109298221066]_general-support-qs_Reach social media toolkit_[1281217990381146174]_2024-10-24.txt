@@ -1,0 +1,49 @@
+Guild: Team Harris-Walz Virtual Office (ID: 1242249109298221066)
+Channel: Reach social media toolkit (ID: 1281217990381146174)
+Channel Topic: None
+Exported At: 2024-10-24T06:40:52.1195661+00:00
+
+
+--- Message ---
+Message ID: 1281217990381146174
+Message Type: Default
+Reply to: None
+Timestamp: 2024-09-05T11:42:52.786+00:00
+Author: cjacobs101 (cjacobs1010617)
+Author Id: 812778714580254741
+Avatar URL: assets\4-4551A.png
+Content: The social media toolkit on Reach still has reels that talk about Biden’s plans. Great content, but should be updated to say Harris plans to do xyz. Can someone please create an updated toolkit. Tia
+--------------------
+
+--- Message ---
+Message ID: 1281761131563581550
+Message Type: Default
+Reply to: None
+Timestamp: 2024-09-06T23:41:07.735+00:00
+Author: MaryBeth V [CO] MOD (gomommago)
+Author Id: 1061334122716479618
+Avatar URL: assets\1c5b81e52321d16fe092ed1beedc9650-6BAD6.png
+Content: Thanks for pointing this out.  The Reach content comes directly from the Harris/Walz campaign, and we don't control that.  I am sure it is taking them some time to update all content on the reach app.
+--------------------
+
+--- Message ---
+Message ID: 1282056047485259937
+Message Type: Default
+Reply to: None
+Timestamp: 2024-09-07T19:13:01.17+00:00
+Author: mikeg2k (mikeg2k)
+Author Id: 182241006295449600
+Avatar URL: assets\05c89cab5b8d25e711e0a6b3020a092e-AD3A8.png
+Content: Reach needs to implement a Dark Theme.  A user should be able to switch to dark theme in their user preferences. I can send you documentarion for how to do that on Android.
+--------------------
+
+--- Message ---
+Message ID: 1282060559361249282
+Message Type: Reply
+Reply to: 1282056047485259937
+Timestamp: 2024-09-07T19:30:56.885+00:00
+Author: Carolyn B [CA] • Lead Mod (carb.on)
+Author Id: 568257600228032512
+Avatar URL: assets\28a90c77b5793d80eb62484a43c66748-D8837.png
+Content: This is a request for the Reach developers. You can open Reach, go to the menu in the upper-right corner and tap Technical Support from Reach and then tap Feedback, you can up-vote dark theme.
+--------------------

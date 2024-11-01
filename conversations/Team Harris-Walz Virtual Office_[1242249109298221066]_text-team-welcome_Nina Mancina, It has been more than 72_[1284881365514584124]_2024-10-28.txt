@@ -1,0 +1,27 @@
+Guild: Team Harris-Walz Virtual Office (ID: 1242249109298221066)
+Channel: Nina Mancina, It has been more than 72 (ID: 1284881365514584124)
+Channel Topic: None
+Exported At: 2024-10-28T23:22:57.0281567+00:00
+
+
+--- Message ---
+Message ID: 1284886438038605976
+Message Type: 21
+Reply to: 1284881365514584124
+Timestamp: 2024-09-15T14:39:58.864+00:00
+Author: Roberta Bavin CA KC Greeter/Mod (roberta_24935)
+Author Id: 1269872908759597148
+Avatar URL: assets\df6d19d97b04a49ffcafbe7be14c7839-D9CE4.png
+Content: 
+--------------------
+
+--- Message ---
+Message ID: 1284886439485636700
+Message Type: Default
+Reply to: None
+Timestamp: 2024-09-15T14:39:59.209+00:00
+Author: Roberta Bavin CA KC Greeter/Mod (roberta_24935)
+Author Id: 1269872908759597148
+Avatar URL: assets\df6d19d97b04a49ffcafbe7be14c7839-D9CE4.png
+Content: Hi Nina- Please check for DM from me on 9/12. Thanks for checking in! 🌊
+--------------------

@@ -1,0 +1,71 @@
+Guild: Team Harris-Walz Virtual Office (ID: 1242249109298221066)
+Channel: Hi! I am unable to join the the team (ID: 1287172603236323369)
+Channel Topic: None
+Exported At: 2024-10-28T23:10:33.9157789+00:00
+
+
+--- Message ---
+Message ID: 1287173220587274240
+Message Type: 21
+Reply to: 1287172603236323369
+Timestamp: 2024-09-21T22:06:50.31+00:00
+Author: Jack Joannides KC text admin (jjoannid)
+Author Id: 477560366432256000
+Avatar URL: assets\791c521e62160be1f3df04992f6e5470-36A38.png
+Content: 
+--------------------
+
+--- Message ---
+Message ID: 1287173221719871628
+Message Type: Default
+Reply to: None
+Timestamp: 2024-09-21T22:06:50.58+00:00
+Author: Jack Joannides KC text admin (jjoannid)
+Author Id: 477560366432256000
+Avatar URL: assets\791c521e62160be1f3df04992f6e5470-36A38.png
+Content: You can sign up for another training. I know we hve had that issue. But just create an zoom account or is that not the issue.
+--------------------
+
+--- Message ---
+Message ID: 1287173346399621143
+Message Type: Default
+Reply to: None
+Timestamp: 2024-09-21T22:07:20.306+00:00
+Author: MaryESQ (maryesq_61768)
+Author Id: 1285758224447836242
+Avatar URL: assets\1-B2132.png
+Content: tried but it says commercial account not accepting my personal account
+--------------------
+
+--- Message ---
+Message ID: 1287173538104475649
+Message Type: Default
+Reply to: None
+Timestamp: 2024-09-21T22:08:06.012+00:00
+Author: Jack Joannides KC text admin (jjoannid)
+Author Id: 477560366432256000
+Avatar URL: assets\791c521e62160be1f3df04992f6e5470-36A38.png
+Content: So many people have joined the zoom already and many other zooms for training.
+--------------------
+
+--- Message ---
+Message ID: 1287173850609614849
+Message Type: Default
+Reply to: None
+Timestamp: 2024-09-21T22:09:20.519+00:00
+Author: MaryESQ (maryesq_61768)
+Author Id: 1285758224447836242
+Avatar URL: assets\1-B2132.png
+Content: Ok well I tried and I was reaching out for help to join. Guess I'm not doing this...
+--------------------
+
+--- Message ---
+Message ID: 1287173953525387371
+Message Type: Default
+Reply to: None
+Timestamp: 2024-09-21T22:09:45.056+00:00
+Author: Jack Joannides KC text admin (jjoannid)
+Author Id: 477560366432256000
+Avatar URL: assets\791c521e62160be1f3df04992f6e5470-36A38.png
+Content: Sorry to hear that.
+--------------------

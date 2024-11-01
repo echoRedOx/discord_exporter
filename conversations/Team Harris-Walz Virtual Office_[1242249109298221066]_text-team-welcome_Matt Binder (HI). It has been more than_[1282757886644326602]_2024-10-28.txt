@@ -1,0 +1,49 @@
+Guild: Team Harris-Walz Virtual Office (ID: 1242249109298221066)
+Channel: Matt Binder (HI). It has been more than (ID: 1282757886644326602)
+Channel Topic: None
+Exported At: 2024-10-28T23:30:06.9569572+00:00
+
+
+--- Message ---
+Message ID: 1282889450531061840
+Message Type: 21
+Reply to: 1282757886644326602
+Timestamp: 2024-09-10T02:24:39.94+00:00
+Author: Nicole Morris - Text Admin (nmorris237)
+Author Id: 935762347753103382
+Avatar URL: assets\27b1e286b65ae02b3378793b5f098411-A7B20.png
+Content: 
+--------------------
+
+--- Message ---
+Message ID: 1282889453068750888
+Message Type: Default
+Reply to: None
+Timestamp: 2024-09-10T02:24:40.545+00:00
+Author: Nicole Morris - Text Admin (nmorris237)
+Author Id: 935762347753103382
+Avatar URL: assets\27b1e286b65ae02b3378793b5f098411-A7B20.png
+Content: Hi Matt - thanks! I'll send you a Direct Message on Discord now
+--------------------
+
+--- Message ---
+Message ID: 1282890919607013416
+Message Type: Reply
+Reply to: 1282889453068750888
+Timestamp: 2024-09-10T02:30:30.195+00:00
+Author: Matt Binder (HI) (mattbinder_11961)
+Author Id: 1269078050411253833
+Avatar URL: assets\4-4551A.png
+Content: I am not seeing your message in the DM area. Did you send it?
+--------------------
+
+--- Message ---
+Message ID: 1282891555060846676
+Message Type: Default
+Reply to: None
+Timestamp: 2024-09-10T02:33:01.699+00:00
+Author: Nicole Morris - Text Admin (nmorris237)
+Author Id: 935762347753103382
+Avatar URL: assets\27b1e286b65ae02b3378793b5f098411-A7B20.png
+Content: Ah! I see what happened - just re sent it. Do you see it now?
+--------------------

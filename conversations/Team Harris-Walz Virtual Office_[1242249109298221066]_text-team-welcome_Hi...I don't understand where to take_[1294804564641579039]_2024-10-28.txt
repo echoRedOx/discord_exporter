@@ -1,0 +1,71 @@
+Guild: Team Harris-Walz Virtual Office (ID: 1242249109298221066)
+Channel: Hi...I don't understand where to take (ID: 1294804564641579039)
+Channel Topic: None
+Exported At: 2024-10-28T22:37:50.6783804+00:00
+
+
+--- Message ---
+Message ID: 1294812859968258068
+Message Type: 21
+Reply to: 1294804564641579039
+Timestamp: 2024-10-13T00:04:02.276+00:00
+Author: Jack Joannides KC text admin (jjoannid)
+Author Id: 477560366432256000
+Avatar URL: assets\791c521e62160be1f3df04992f6e5470-36A38.png
+Content: 
+--------------------
+
+--- Message ---
+Message ID: 1294812861796978688
+Message Type: Default
+Reply to: None
+Timestamp: 2024-10-13T00:04:02.712+00:00
+Author: Jack Joannides KC text admin (jjoannid)
+Author Id: 477560366432256000
+Avatar URL: assets\791c521e62160be1f3df04992f6e5470-36A38.png
+Content: You should have gotten it in zoom.
+--------------------
+
+--- Message ---
+Message ID: 1295182069743353939
+Message Type: Reply
+Reply to: 1294812861796978688
+Timestamp: 2024-10-14T00:31:08.746+00:00
+Author: Katelyn Owens CT (katelynowensct_39414)
+Author Id: 1294793931439083533
+Avatar URL: assets\1-B2132.png
+Content: I think there was a link in the same image that had the discord link but the discord was so confusing and took so long to set up...I had no idea I couldn't close out zoom or else I'd lose the link to the quiz. Can it be resent?
+--------------------
+
+--- Message ---
+Message ID: 1295184282293375099
+Message Type: Default
+Reply to: None
+Timestamp: 2024-10-14T00:39:56.259+00:00
+Author: Jack Joannides KC text admin (jjoannid)
+Author Id: 477560366432256000
+Avatar URL: assets\791c521e62160be1f3df04992f6e5470-36A38.png
+Content: Did you fill out the agreement form?
+--------------------
+
+--- Message ---
+Message ID: 1295184855872704563
+Message Type: Default
+Reply to: None
+Timestamp: 2024-10-14T00:42:13.011+00:00
+Author: Jack Joannides KC text admin (jjoannid)
+Author Id: 477560366432256000
+Avatar URL: assets\791c521e62160be1f3df04992f6e5470-36A38.png
+Content: Let me dm you.
+--------------------
+
+--- Message ---
+Message ID: 1295897931915989054
+Message Type: Reply
+Reply to: 1295184282293375099
+Timestamp: 2024-10-15T23:55:43.588+00:00
+Author: Katelyn Owens CT (katelynowensct_39414)
+Author Id: 1294793931439083533
+Avatar URL: assets\1-B2132.png
+Content: yes, I believe I did. I think I see the inbox but no DM?
+--------------------

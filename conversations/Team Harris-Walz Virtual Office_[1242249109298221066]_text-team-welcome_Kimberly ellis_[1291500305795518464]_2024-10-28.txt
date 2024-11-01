@@ -1,0 +1,38 @@
+Guild: Team Harris-Walz Virtual Office (ID: 1242249109298221066)
+Channel: Kimberly ellis (ID: 1291500305795518464)
+Channel Topic: None
+Exported At: 2024-10-28T22:54:11.7048498+00:00
+
+
+--- Message ---
+Message ID: 1291501916832137248
+Message Type: 21
+Reply to: 1291500305795518464
+Timestamp: 2024-10-03T20:47:31.918+00:00
+Author: Roberta Bavin CA KC Greeter/Mod (roberta_24935)
+Author Id: 1269872908759597148
+Avatar URL: assets\df6d19d97b04a49ffcafbe7be14c7839-D9CE4.png
+Content: 
+--------------------
+
+--- Message ---
+Message ID: 1291501918543286447
+Message Type: Default
+Reply to: None
+Timestamp: 2024-10-03T20:47:32.326+00:00
+Author: Roberta Bavin CA KC Greeter/Mod (roberta_24935)
+Author Id: 1269872908759597148
+Avatar URL: assets\df6d19d97b04a49ffcafbe7be14c7839-D9CE4.png
+Content: Please check DM from Nicole sent on 9/24. It's upper left corner of Discord with game controller icon. Let us know if you can't find it. Thanks for being here!
+--------------------
+
+--- Message ---
+Message ID: 1291545345393954868
+Message Type: Default
+Reply to: None
+Timestamp: 2024-10-03T23:40:06.094+00:00
+Author: JennKB-PA (revjkb)
+Author Id: 1280680519440531480
+Avatar URL: assets\6c5996770c985bcd6e5b68131ff2ba04-1EE06.png
+Content: Where is DM?  Is that in Reach or Discord
+--------------------

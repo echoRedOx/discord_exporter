@@ -1,0 +1,27 @@
+Guild: Team Harris-Walz Virtual Office (ID: 1242249109298221066)
+Channel: Abroad tag (ID: 1273090886930141214)
+Channel Topic: None
+Exported At: 2024-10-24T07:02:39.462577+00:00
+
+
+--- Message ---
+Message ID: 1273090886930141214
+Message Type: Default
+Reply to: None
+Timestamp: 2024-08-14T01:28:40.329+00:00
+Author: Kristin Deason [KC] [VA/SLU] (kristin22209)
+Author Id: 1273037465766072350
+Avatar URL: assets\ee104f33d2fff22fd749a3aa0429a828-4E142.png
+Content: Could we add a new tag for those of us who are abroad, in addition to the state?
+--------------------
+
+--- Message ---
+Message ID: 1273092705072713779
+Message Type: Default
+Reply to: None
+Timestamp: 2024-08-14T01:35:53.808+00:00
+Author: Carolyn B [CA] • Lead Mod (carb.on)
+Author Id: 568257600228032512
+Avatar URL: assets\28a90c77b5793d80eb62484a43c66748-D8837.png
+Content: I am happy to share that we do have an Abroad tag, and you can see it on your profile now.
+--------------------

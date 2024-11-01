@@ -1,0 +1,27 @@
+Guild: Team Harris-Walz Virtual Office (ID: 1242249109298221066)
+Channel: sorry if this isn't where to ask this, (ID: 1297636628042616956)
+Channel Topic: None
+Exported At: 2024-10-28T22:29:36.5381539+00:00
+
+
+--- Message ---
+Message ID: 1297654973470867555
+Message Type: 21
+Reply to: 1297636628042616956
+Timestamp: 2024-10-20T20:17:34.939+00:00
+Author: Roberta Bavin CA KC Greeter/Mod (roberta_24935)
+Author Id: 1269872908759597148
+Avatar URL: assets\df6d19d97b04a49ffcafbe7be14c7839-D9CE4.png
+Content: 
+--------------------
+
+--- Message ---
+Message ID: 1297654977115721728
+Message Type: Default
+Reply to: None
+Timestamp: 2024-10-20T20:17:35.808+00:00
+Author: Roberta Bavin CA KC Greeter/Mod (roberta_24935)
+Author Id: 1269872908759597148
+Avatar URL: assets\df6d19d97b04a49ffcafbe7be14c7839-D9CE4.png
+Content: HI <@1278136852276056067> Thanks for reaching out. I don't think that's possible with the new platforms and channels. We really appreciate you being here!
+--------------------

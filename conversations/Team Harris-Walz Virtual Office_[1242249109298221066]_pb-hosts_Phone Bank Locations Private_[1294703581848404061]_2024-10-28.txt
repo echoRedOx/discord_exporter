@@ -1,0 +1,214 @@
+Guild: Team Harris-Walz Virtual Office (ID: 1242249109298221066)
+Channel: Phone Bank Locations Private (ID: 1294703581848404061)
+Channel Topic: None
+Exported At: 2024-10-28T22:02:57.0295376+00:00
+
+
+--- Message ---
+Message ID: 1294704048561197096
+Message Type: 21
+Reply to: 1294703581848404061
+Timestamp: 2024-10-12T16:51:39.615+00:00
+Author: Jay E  (TX)  OE Mod (jayrio76)
+Author Id: 782870341445353522
+Avatar URL: assets\41ef520387924aa4413513eda28784df-34D82.png
+Content: 
+--------------------
+
+--- Message ---
+Message ID: 1294704052302516256
+Message Type: Default
+Reply to: None
+Timestamp: 2024-10-12T16:51:40.507+00:00
+Author: Jay E  (TX)  OE Mod (jayrio76)
+Author Id: 782870341445353522
+Avatar URL: assets\41ef520387924aa4413513eda28784df-34D82.png
+Content: <@1290146855417675778>  - It looks like you named the event as a cafe, but it seems like a private, small space.  Either way, we usually send the address only to people who RSVP.  Thanks again.
+--------------------
+
+--- Message ---
+Message ID: 1294719926422208665
+Message Type: Default
+Reply to: None
+Timestamp: 2024-10-12T17:54:45.192+00:00
+Author: KBR (demetria14)
+Author Id: 1290146855417675778
+Avatar URL: assets\2f12f8cfba837c5ee7cd4804878df9c2-7C00C.png
+Content: Hi <@782870341445353522>   It is  a cafe like set up but it is very small.
+--------------------
+
+--- Message ---
+Message ID: 1294721032040480798
+Message Type: Default
+Reply to: None
+Timestamp: 2024-10-12T17:59:08.792+00:00
+Author: KBR (demetria14)
+Author Id: 1290146855417675778
+Avatar URL: assets\2f12f8cfba837c5ee7cd4804878df9c2-7C00C.png
+Content: we're you or Jeannine M able to make the requested changes to my Sunday phonebanks and delete any other phonebanks that were created outside of our Sunday, 2-4 events?
+--------------------
+
+--- Message ---
+Message ID: 1294724986237354066
+Message Type: Default
+Reply to: None
+Timestamp: 2024-10-12T18:14:51.546+00:00
+Author: KBR (demetria14)
+Author Id: 1290146855417675778
+Avatar URL: assets\2f12f8cfba837c5ee7cd4804878df9c2-7C00C.png
+Content: Hi again, <@782870341445353522>  and <@1266879741785538682> .  I went on the Mobilize event page and found the event listed below which was created as a PHONEBANK but it should be listed as a Post-Card  writing campaign! 😵‍💫  Can you please edit this as a Post Card writing event instead of deleting it?
+--------------------
+
+--- Message ---
+Message ID: 1294724998313017516
+Message Type: Default
+Reply to: None
+Timestamp: 2024-10-12T18:14:54.425+00:00
+Author: KBR (demetria14)
+Author Id: 1290146855417675778
+Avatar URL: assets\2f12f8cfba837c5ee7cd4804878df9c2-7C00C.png
+Content: 
+--------------------
+
+--- Message ---
+Message ID: 1294731547366264983
+Message Type: Default
+Reply to: None
+Timestamp: 2024-10-12T18:40:55.841+00:00
+Author: Jay E  (TX)  OE Mod (jayrio76)
+Author Id: 782870341445353522
+Avatar URL: assets\41ef520387924aa4413513eda28784df-34D82.png
+Content: <@1266879741785538682> can do that for you <@1290146855417675778>.  I do not have access personally.
+--------------------
+
+--- Message ---
+Message ID: 1294732105770864802
+Message Type: Default
+Reply to: None
+Timestamp: 2024-10-12T18:43:08.975+00:00
+Author: Jeannine M • Lead Mod (jean9_28218_79932)
+Author Id: 1266879741785538682
+Avatar URL: assets\54ff5e8dfab835d878a961f9f7b7d161-6C0EE.png
+Content: Hi, <@1290146855417675778>! Could you please email me the name and email that these events are listed under? Thank you!
+--------------------
+
+--- Message ---
+Message ID: 1294732868890792020
+Message Type: Default
+Reply to: None
+Timestamp: 2024-10-12T18:46:10.917+00:00
+Author: Jeannine M • Lead Mod (jean9_28218_79932)
+Author Id: 1266879741785538682
+Avatar URL: assets\54ff5e8dfab835d878a961f9f7b7d161-6C0EE.png
+Content: Also, <@1290146855417675778> are you saying all of your events are not phone banks? If so, you will need to delete them. We don't officially host postcard parties through the campaign but you can set up your own event
+--------------------
+
+--- Message ---
+Message ID: 1294733387650826290
+Message Type: Default
+Reply to: None
+Timestamp: 2024-10-12T18:48:14.599+00:00
+Author: Jeannine M • Lead Mod (jean9_28218_79932)
+Author Id: 1266879741785538682
+Avatar URL: assets\54ff5e8dfab835d878a961f9f7b7d161-6C0EE.png
+Content: You can also edit, or cancel, events yourself, <@1290146855417675778>! You can log in on Mobilize and manage your event there
+--------------------
+
+--- Message ---
+Message ID: 1294734095653404693
+Message Type: Default
+Reply to: None
+Timestamp: 2024-10-12T18:51:03.4+00:00
+Author: Jeannine M • Lead Mod (jean9_28218_79932)
+Author Id: 1266879741785538682
+Avatar URL: assets\54ff5e8dfab835d878a961f9f7b7d161-6C0EE.png
+Content: Here's an article on changing events. This speaks to deleting events, which you mentioned you want to do, but also shows you how to access the dashboard where you can make other changes you'd like
+--------------------
+
+--- Message ---
+Message ID: 1294734697468919919
+Message Type: Reply
+Reply to: 1294731547366264983
+Timestamp: 2024-10-12T18:53:26.884+00:00
+Author: KBR (demetria14)
+Author Id: 1290146855417675778
+Avatar URL: assets\2f12f8cfba837c5ee7cd4804878df9c2-7C00C.png
+Content: o. thx.
+--------------------
+
+--- Message ---
+Message ID: 1294735596211671061
+Message Type: Reply
+Reply to: 1294732868890792020
+Timestamp: 2024-10-12T18:57:01.161+00:00
+Author: KBR (demetria14)
+Author Id: 1290146855417675778
+Avatar URL: assets\2f12f8cfba837c5ee7cd4804878df9c2-7C00C.png
+Content: No, only the the events listed Thurs-Sunday from 12-4 are NOT phonebanks.  The Sunday events from 2-4 pm ARE phonebanks.  And I have logged onto Mobilize to edit the events and it won't let me change anything.  All it lets me do is email my registered guests.  I have emailed the organizers to ask how to make changes but  no one has responded to me
+--------------------
+
+--- Message ---
+Message ID: 1294742733055066205
+Message Type: Default
+Reply to: None
+Timestamp: 2024-10-12T19:25:22.717+00:00
+Author: KBR (demetria14)
+Author Id: 1290146855417675778
+Avatar URL: assets\2f12f8cfba837c5ee7cd4804878df9c2-7C00C.png
+Content: <@782870341445353522>   I believe the events were created by Paula Robinson Deare and her email address is prdeare@eworkstyle.com.  I have recently made contact with her so I will see if she can make the changes and if not, I will get back to you.  Sorry for all the confusion.  I appreciate your patience.
+--------------------
+
+--- Message ---
+Message ID: 1294750489233195019
+Message Type: Reply
+Reply to: 1294734095653404693
+Timestamp: 2024-10-12T19:56:11.934+00:00
+Author: KBR (demetria14)
+Author Id: 1290146855417675778
+Avatar URL: assets\2f12f8cfba837c5ee7cd4804878df9c2-7C00C.png
+Content: Sorry, I don't see the article you referenced here. 😥
+--------------------
+
+--- Message ---
+Message ID: 1294761738549334046
+Message Type: Default
+Reply to: None
+Timestamp: 2024-10-12T20:40:53.98+00:00
+Author: Jeannine M • Lead Mod (jean9_28218_79932)
+Author Id: 1266879741785538682
+Avatar URL: assets\54ff5e8dfab835d878a961f9f7b7d161-6C0EE.png
+Content: Sorry about that: https://help.mobilize.us/en/articles/4195992-delete-an-event-or-shift
+--------------------
+
+--- Message ---
+Message ID: 1294774215890964480
+Message Type: Reply
+Reply to: 1294761738549334046
+Timestamp: 2024-10-12T21:30:28.81+00:00
+Author: KBR (demetria14)
+Author Id: 1290146855417675778
+Avatar URL: assets\2f12f8cfba837c5ee7cd4804878df9c2-7C00C.png
+Content: No worries!  this helped me figure out how to navigate to the tab where I saw how to edit my event and I got the other event deleted by the person who created it so I am all set.
+--------------------
+
+--- Message ---
+Message ID: 1294842237955473542
+Message Type: Default
+Reply to: None
+Timestamp: 2024-10-13T02:00:46.534+00:00
+Author: Jeannine M • Lead Mod (jean9_28218_79932)
+Author Id: 1266879741785538682
+Avatar URL: assets\54ff5e8dfab835d878a961f9f7b7d161-6C0EE.png
+Content: Yay! So glad you are all set! Hope you have a great turnout!
+--------------------
+
+--- Message ---
+Message ID: 1294857999273427097
+Message Type: Reply
+Reply to: 1294842237955473542
+Timestamp: 2024-10-13T03:03:24.325+00:00
+Author: KBR (demetria14)
+Author Id: 1290146855417675778
+Avatar URL: assets\2f12f8cfba837c5ee7cd4804878df9c2-7C00C.png
+Content: <:Bey2:1286006349653868544>
+--------------------

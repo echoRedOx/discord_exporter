@@ -1,0 +1,27 @@
+Guild: Team Harris-Walz Virtual Office (ID: 1242249109298221066)
+Channel: just checked back in after the 12 pm EDT (ID: 1277691641217548359)
+Channel Topic: None
+Exported At: 2024-10-29T00:00:50.6011198+00:00
+
+
+--- Message ---
+Message ID: 1277693027015589948
+Message Type: 21
+Reply to: 1277691641217548359
+Timestamp: 2024-08-26T18:15:56.029+00:00
+Author: Branton J. [GA] Text Mod (perry.p)
+Author Id: 946953677611077642
+Avatar URL: assets\19838db602948fa14c3fa90a94996f8c-8CE56.png
+Content: 
+--------------------
+
+--- Message ---
+Message ID: 1277693033000997026
+Message Type: Default
+Reply to: None
+Timestamp: 2024-08-26T18:15:57.456+00:00
+Author: Branton J. [GA] Text Mod (perry.p)
+Author Id: 946953677611077642
+Avatar URL: assets\19838db602948fa14c3fa90a94996f8c-8CE56.png
+Content: <@1277661412482875454> you are all set now
+--------------------

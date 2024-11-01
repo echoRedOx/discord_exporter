@@ -1,0 +1,159 @@
+Guild: Team Harris-Walz Virtual Office (ID: 1242249109298221066)
+Channel: Hello. This an old texter from 20 and 22 (ID: 1279533757346611241)
+Channel Topic: None
+Exported At: 2024-10-28T23:41:23.6940762+00:00
+
+
+--- Message ---
+Message ID: 1279547260748828753
+Message Type: 21
+Reply to: 1279533757346611241
+Timestamp: 2024-08-31T21:03:59.801+00:00
+Author: Jack Joannides KC text admin (jjoannid)
+Author Id: 477560366432256000
+Avatar URL: assets\791c521e62160be1f3df04992f6e5470-36A38.png
+Content: 
+--------------------
+
+--- Message ---
+Message ID: 1279547261805662279
+Message Type: Default
+Reply to: None
+Timestamp: 2024-08-31T21:04:00.053+00:00
+Author: Jack Joannides KC text admin (jjoannid)
+Author Id: 477560366432256000
+Avatar URL: assets\791c521e62160be1f3df04992f6e5470-36A38.png
+Content: Hello Ed. It doesn't look like you've updated your display name or taken the form. Can you please update your display name. You can click on Team Harris-Walz Virtual office. Then click on edit server profile. And edit your server nickname to firstname lastname.
+--------------------
+
+--- Message ---
+Message ID: 1279876792269930628
+Message Type: Default
+Reply to: None
+Timestamp: 2024-09-01T18:53:26.238+00:00
+Author: ed oxer (edw8eo)
+Author Id: 873236174347575387
+Avatar URL: assets\e73340e6cf66d43f1b8fdd865d3a9adf-E4AAF.png
+Content: Done. Let me know if there is more. Best, Ed
+--------------------
+
+--- Message ---
+Message ID: 1279877197733298288
+Message Type: Default
+Reply to: None
+Timestamp: 2024-09-01T18:55:02.908+00:00
+Author: ed oxer (edw8eo)
+Author Id: 873236174347575387
+Avatar URL: assets\e73340e6cf66d43f1b8fdd865d3a9adf-E4AAF.png
+Content: Much easier on a laptop rather than cellphone.
+--------------------
+
+--- Message ---
+Message ID: 1279878647653728367
+Message Type: Default
+Reply to: None
+Timestamp: 2024-09-01T19:00:48.596+00:00
+Author: Jack Joannides KC text admin (jjoannid)
+Author Id: 477560366432256000
+Avatar URL: assets\791c521e62160be1f3df04992f6e5470-36A38.png
+Content: I don’t see it updated
+--------------------
+
+--- Message ---
+Message ID: 1279878721964212275
+Message Type: Default
+Reply to: None
+Timestamp: 2024-09-01T19:01:06.313+00:00
+Author: Jack Joannides KC text admin (jjoannid)
+Author Id: 477560366432256000
+Avatar URL: assets\791c521e62160be1f3df04992f6e5470-36A38.png
+Content: I’ll direct message you.
+--------------------
+
+--- Message ---
+Message ID: 1279883183789183116
+Message Type: Default
+Reply to: None
+Timestamp: 2024-09-01T19:18:50.095+00:00
+Author: ed oxer (edw8eo)
+Author Id: 873236174347575387
+Avatar URL: assets\e73340e6cf66d43f1b8fdd865d3a9adf-E4AAF.png
+Content: talking to another mod re form etc
+--------------------
+
+--- Message ---
+Message ID: 1279883856081588296
+Message Type: Default
+Reply to: None
+Timestamp: 2024-09-01T19:21:30.382+00:00
+Author: Jack Joannides KC text admin (jjoannid)
+Author Id: 477560366432256000
+Avatar URL: assets\791c521e62160be1f3df04992f6e5470-36A38.png
+Content: Great.
+--------------------
+
+--- Message ---
+Message ID: 1279889842192388186
+Message Type: Default
+Reply to: None
+Timestamp: 2024-09-01T19:45:17.582+00:00
+Author: ed oxer (edw8eo)
+Author Id: 873236174347575387
+Avatar URL: assets\e73340e6cf66d43f1b8fdd865d3a9adf-E4AAF.png
+Content: Roberta say i'm paused and need to talk to u. tnx Ed
+--------------------
+
+--- Message ---
+Message ID: 1279899969305837688
+Message Type: Default
+Reply to: None
+Timestamp: 2024-09-01T20:25:32.074+00:00
+Author: Jack Joannides KC text admin (jjoannid)
+Author Id: 477560366432256000
+Avatar URL: assets\791c521e62160be1f3df04992f6e5470-36A38.png
+Content: I'm not the person who would be talking to you. They'll reach out later today.
+--------------------
+
+--- Message ---
+Message ID: 1279907404783292497
+Message Type: Default
+Reply to: None
+Timestamp: 2024-09-01T20:55:04.83+00:00
+Author: Rachel Ruben [NY] KC Text Admin (matzahbrei)
+Author Id: 368807878926008341
+Avatar URL: assets\809f117d179a70576b3870d1aaf1eedb-18781.png
+Content: <@873236174347575387> , please check your Slack DMs.
+--------------------
+
+--- Message ---
+Message ID: 1279930952021311629
+Message Type: Default
+Reply to: None
+Timestamp: 2024-09-01T22:28:38.929+00:00
+Author: ed oxer (edw8eo)
+Author Id: 873236174347575387
+Avatar URL: assets\e73340e6cf66d43f1b8fdd865d3a9adf-E4AAF.png
+Content: Done.
+--------------------
+
+--- Message ---
+Message ID: 1280210452835733628
+Message Type: Default
+Reply to: None
+Timestamp: 2024-09-02T16:59:17.116+00:00
+Author: ed oxer (edw8eo)
+Author Id: 873236174347575387
+Avatar URL: assets\e73340e6cf66d43f1b8fdd865d3a9adf-E4AAF.png
+Content: Am I  up to date? I don't see a texting channel. What are the next steps? Tnx Ed
+--------------------
+
+--- Message ---
+Message ID: 1280210698080882708
+Message Type: Default
+Reply to: None
+Timestamp: 2024-09-02T17:00:15.587+00:00
+Author: ed oxer (edw8eo)
+Author Id: 873236174347575387
+Avatar URL: assets\e73340e6cf66d43f1b8fdd865d3a9adf-E4AAF.png
+Content: Should I uninstall slack?
+--------------------

@@ -1,0 +1,38 @@
+Guild: Team Harris-Walz Virtual Office (ID: 1242249109298221066)
+Channel: I want to do text-banking. (ID: 1289717458630086666)
+Channel Topic: None
+Exported At: 2024-10-28T22:58:19.0374058+00:00
+
+
+--- Message ---
+Message ID: 1289718815663591454
+Message Type: 21
+Reply to: 1289717458630086666
+Timestamp: 2024-09-28T22:42:07.471+00:00
+Author: Roberta Bavin CA KC Greeter/Mod (roberta_24935)
+Author Id: 1269872908759597148
+Avatar URL: assets\df6d19d97b04a49ffcafbe7be14c7839-D9CE4.png
+Content: 
+--------------------
+
+--- Message ---
+Message ID: 1289718816963825798
+Message Type: Default
+Reply to: None
+Timestamp: 2024-09-28T22:42:07.781+00:00
+Author: Roberta Bavin CA KC Greeter/Mod (roberta_24935)
+Author Id: 1269872908759597148
+Avatar URL: assets\df6d19d97b04a49ffcafbe7be14c7839-D9CE4.png
+Content: Hi Seth! Thanks for your interest. Please use this link to sign up for text training! https://events.democrats.org/event/672393/
+--------------------
+
+--- Message ---
+Message ID: 1290139313882923060
+Message Type: Reply
+Reply to: 1289718816963825798
+Timestamp: 2024-09-30T02:33:02.059+00:00
+Author: Seth Taylor (GA) (sethtaylor1991)
+Author Id: 883876096158859264
+Avatar URL: assets\2-ADBB4.png
+Content: Just signed up!
+--------------------

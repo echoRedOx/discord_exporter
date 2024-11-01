@@ -1,0 +1,71 @@
+Guild: Team Harris-Walz Virtual Office (ID: 1242249109298221066)
+Channel: How do you get to train for community engagement? (ID: 1268472477219160186)
+Channel Topic: None
+Exported At: 2024-10-24T07:02:21.6597784+00:00
+
+
+--- Message ---
+Message ID: 1268472477219160186
+Message Type: Default
+Reply to: None
+Timestamp: 2024-08-01T07:36:45.648+00:00
+Author: Matt | IL (blastmachanic)
+Author Id: 736763102615306280
+Avatar URL: assets\d599906d2e09a8b250b3f31f749779dd-F2C29.png
+Content: I can’t find the trainings anywhere!
+--------------------
+
+--- Message ---
+Message ID: 1268568046054670449
+Message Type: Default
+Reply to: None
+Timestamp: 2024-08-01T13:56:31.034+00:00
+Author: rootsmusic (rootsmusic)
+Author Id: 791857656897732648
+Avatar URL: assets\a30e650576a6d42a3c9ee24648f67c90-2AE37.png
+Content: [Part 1](https://events.democrats.org/event/615101/)
+--------------------
+
+--- Message ---
+Message ID: 1268654761872199783
+Message Type: Reply
+Reply to: 1268568046054670449
+Timestamp: 2024-08-01T19:41:05.696+00:00
+Author: Matt | IL (blastmachanic)
+Author Id: 736763102615306280
+Avatar URL: assets\d599906d2e09a8b250b3f31f749779dd-F2C29.png
+Content: Awesome! Thanks!
+--------------------
+
+--- Message ---
+Message ID: 1269038941869183136
+Message Type: Reply
+Reply to: 1268654761872199783
+Timestamp: 2024-08-02T21:07:41.345+00:00
+Author: Jessica Puchala (MD) [OE Lead] (jessica033389)
+Author Id: 869778676986814514
+Avatar URL: assets\37de34190564f7c9acae5895cc884c8a-6F9C7.png
+Content: When you're done with that, you can join us for Part 2! Sign-up for Part 2 to learn how you can find your voice online! RSVP here: https://events.democrats.org/event/647793/
+--------------------
+
+--- Message ---
+Message ID: 1273326225590583316
+Message Type: Default
+Reply to: None
+Timestamp: 2024-08-14T17:03:49.438+00:00
+Author: Julie Jackson (juliejackson0168)
+Author Id: 1270759817681702964
+Avatar URL: assets\5-E9BDB.png
+Content: I have completed parts 1 & 2.  Saw a reference earlier to writing emails (rather than texts) and request to take the writing training first.  I can't find that one?
+--------------------
+
+--- Message ---
+Message ID: 1273328821386481697
+Message Type: Reply
+Reply to: 1273326225590583316
+Timestamp: 2024-08-14T17:14:08.324+00:00
+Author: rootsmusic (rootsmusic)
+Author Id: 791857656897732648
+Avatar URL: assets\a30e650576a6d42a3c9ee24648f67c90-2AE37.png
+Content: If you're referring to the Digital Correspondence Team, see <#1271963799876014121>.
+--------------------

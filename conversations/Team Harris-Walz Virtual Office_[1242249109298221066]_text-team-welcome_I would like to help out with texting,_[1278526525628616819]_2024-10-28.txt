@@ -1,0 +1,27 @@
+Guild: Team Harris-Walz Virtual Office (ID: 1242249109298221066)
+Channel: I would like to help out with texting, (ID: 1278526525628616819)
+Channel Topic: None
+Exported At: 2024-10-28T23:52:38.6755794+00:00
+
+
+--- Message ---
+Message ID: 1278565753754226719
+Message Type: 21
+Reply to: 1278526525628616819
+Timestamp: 2024-08-29T04:03:50.298+00:00
+Author: Nicole Morris - Text Admin (nmorris237)
+Author Id: 935762347753103382
+Avatar URL: assets\27b1e286b65ae02b3378793b5f098411-A7B20.png
+Content: 
+--------------------
+
+--- Message ---
+Message ID: 1278565755369164843
+Message Type: Default
+Reply to: None
+Timestamp: 2024-08-29T04:03:50.683+00:00
+Author: Nicole Morris - Text Admin (nmorris237)
+Author Id: 935762347753103382
+Avatar URL: assets\27b1e286b65ae02b3378793b5f098411-A7B20.png
+Content: Hi <@1278148373005865014> Thanks! Please sign up for a training at https://events.democrats.org/event/672393/
+--------------------

@@ -1,0 +1,183 @@
+- author_avatar_url: assets\f7ebcd4727f2b8e05b4382b1b1eb6d74-1D9FE.png
+  author_id: '1254144571089354868'
+  author_name: kcmpolitical
+  author_nickname: Kris Morrell (CA) - KC TextAdmin
+  content: ''
+  id: '1279563968439914557'
+  ref_to: '1279560279570518027'
+  timestamp: '2024-08-31T22:10:23.225+00:00'
+  type: '21'
+- author_avatar_url: assets\f7ebcd4727f2b8e05b4382b1b1eb6d74-1D9FE.png
+  author_id: '1254144571089354868'
+  author_name: kcmpolitical
+  author_nickname: Kris Morrell (CA) - KC TextAdmin
+  content: Hi <@1273823886433194008>, you should have a DM from Roberta. But you also
+    have a confusing situation with two Discord accounts - so the DM is probably at
+    the other account.
+  id: '1279563970126151692'
+  ref_to: null
+  timestamp: '2024-08-31T22:10:23.627+00:00'
+  type: Default
+- author_avatar_url: assets\5-E9BDB.png
+  author_id: '1273823886433194008'
+  author_name: nancyburkeca
+  author_nickname: Nancy Burke
+  content: What do I do about the two accounts?
+  id: '1279564115324436592'
+  ref_to: null
+  timestamp: '2024-08-31T22:10:58.245+00:00'
+  type: Default
+- author_avatar_url: assets\f7ebcd4727f2b8e05b4382b1b1eb6d74-1D9FE.png
+  author_id: '1254144571089354868'
+  author_name: kcmpolitical
+  author_nickname: Kris Morrell (CA) - KC TextAdmin
+  content: Good question, do you want both? Which one do you want to use?
+  id: '1279564204214321205'
+  ref_to: null
+  timestamp: '2024-08-31T22:11:19.438+00:00'
+  type: Default
+- author_avatar_url: assets\5-E9BDB.png
+  author_id: '1273823886433194008'
+  author_name: nancyburkeca
+  author_nickname: Nancy Burke
+  content: I would prefer to only have one account.
+  id: '1279564292865130588'
+  ref_to: null
+  timestamp: '2024-08-31T22:11:40.574+00:00'
+  type: Default
+- author_avatar_url: assets\f7ebcd4727f2b8e05b4382b1b1eb6d74-1D9FE.png
+  author_id: '1254144571089354868'
+  author_name: kcmpolitical
+  author_nickname: Kris Morrell (CA) - KC TextAdmin
+  content: Your other account is already onboarded, so I suggest switching to that,
+    if you can and remember how to log into it. If you are on a computer, you may
+    be able to switch by clicking on your profile icon in the lower left corner of
+    the app window, then going to Switch Accounts. You can leave the server with this
+    one.
+  id: '1279564805107089419'
+  ref_to: null
+  timestamp: '2024-08-31T22:13:42.702+00:00'
+  type: Default
+- author_avatar_url: assets\5-E9BDB.png
+  author_id: '1273823886433194008'
+  author_name: nancyburkeca
+  author_nickname: Nancy Burke
+  content: What do I do with the switch accounts window?
+  id: '1279565170246553600'
+  ref_to: null
+  timestamp: '2024-08-31T22:15:09.758+00:00'
+  type: Default
+- author_avatar_url: assets\f7ebcd4727f2b8e05b4382b1b1eb6d74-1D9FE.png
+  author_id: '1254144571089354868'
+  author_name: kcmpolitical
+  author_nickname: Kris Morrell (CA) - KC TextAdmin
+  content: When I go to switch accounts, I see both of my accounts listed and can
+    click on the one that I want active. Do you see more than one account?
+  id: '1279565307328991304'
+  ref_to: null
+  timestamp: '2024-08-31T22:15:42.441+00:00'
+  type: Default
+- author_avatar_url: assets\5-E9BDB.png
+  author_id: '1273823886433194008'
+  author_name: nancyburkeca
+  author_nickname: Nancy Burke
+  content: It just has one account.
+  id: '1279565446600855615'
+  ref_to: null
+  timestamp: '2024-08-31T22:16:15.646+00:00'
+  type: Default
+- author_avatar_url: assets\f7ebcd4727f2b8e05b4382b1b1eb6d74-1D9FE.png
+  author_id: '1254144571089354868'
+  author_name: kcmpolitical
+  author_nickname: Kris Morrell (CA) - KC TextAdmin
+  content: Do you remember how to log in to the other account?
+  id: '1279565548006412288'
+  ref_to: null
+  timestamp: '2024-08-31T22:16:39.823+00:00'
+  type: Default
+- author_avatar_url: assets\5-E9BDB.png
+  author_id: '1273823886433194008'
+  author_name: nancyburkeca
+  author_nickname: Nancy Burke
+  content: Should I log out of it?  I think I can log into the other account.
+  id: '1279565650699882546'
+  ref_to: null
+  timestamp: '2024-08-31T22:17:04.307+00:00'
+  type: Default
+- author_avatar_url: assets\f7ebcd4727f2b8e05b4382b1b1eb6d74-1D9FE.png
+  author_id: '1254144571089354868'
+  author_name: kcmpolitical
+  author_nickname: Kris Morrell (CA) - KC TextAdmin
+  content: If you think you can log into the other account, then I think you can just
+    log into it in a browser window, rather than the app. If I remember correctly,
+    when I did that I had, at some point, the option to open that account in the app.
+  id: '1279566013691854942'
+  ref_to: null
+  timestamp: '2024-08-31T22:18:30.851+00:00'
+  type: Default
+- author_avatar_url: assets\5-E9BDB.png
+  author_id: '1273823886433194008'
+  author_name: nancyburkeca
+  author_nickname: Nancy Burke
+  content: Is there any way for you to delete one of them?
+  id: '1279566110051663922'
+  ref_to: null
+  timestamp: '2024-08-31T22:18:53.825+00:00'
+  type: Default
+- author_avatar_url: assets\f7ebcd4727f2b8e05b4382b1b1eb6d74-1D9FE.png
+  author_id: '1254144571089354868'
+  author_name: kcmpolitical
+  author_nickname: Kris Morrell (CA) - KC TextAdmin
+  content: I can't delete one of them for you. You *can* leave the server with one
+    of them. If you'd rather use this account, since it is logged in, then I can straighten
+    things out on our end, I think, other than having you leave the server.
+  id: '1279566353723953242'
+  ref_to: null
+  timestamp: '2024-08-31T22:19:51.921+00:00'
+  type: Default
+- author_avatar_url: assets\5-E9BDB.png
+  author_id: '1273823886433194008'
+  author_name: nancyburkeca
+  author_nickname: Nancy Burke
+  content: That would be great.  Sorry, but this is very confusing for me.
+  id: '1279566688110514228'
+  ref_to: null
+  timestamp: '2024-08-31T22:21:11.645+00:00'
+  type: Default
+- author_avatar_url: assets\f7ebcd4727f2b8e05b4382b1b1eb6d74-1D9FE.png
+  author_id: '1254144571089354868'
+  author_name: kcmpolitical
+  author_nickname: Kris Morrell (CA) - KC TextAdmin
+  content: OK, I'll see what I can do.
+  id: '1279566750597251114'
+  ref_to: null
+  timestamp: '2024-08-31T22:21:26.543+00:00'
+  type: Default
+- author_avatar_url: assets\f7ebcd4727f2b8e05b4382b1b1eb6d74-1D9FE.png
+  author_id: '1254144571089354868'
+  author_name: kcmpolitical
+  author_nickname: Kris Morrell (CA) - KC TextAdmin
+  content: OK, I have added you, removed the other account from the text team, and
+    sent you a DM with some info.
+  id: '1279568061254467605'
+  ref_to: null
+  timestamp: '2024-08-31T22:26:39.028+00:00'
+  type: Default
+- author_avatar_url: assets\f7ebcd4727f2b8e05b4382b1b1eb6d74-1D9FE.png
+  author_id: '1254144571089354868'
+  author_name: kcmpolitical
+  author_nickname: Kris Morrell (CA) - KC TextAdmin
+  content: ''
+  id: '1279568097803763733'
+  ref_to: null
+  timestamp: '2024-08-31T22:26:47.742+00:00'
+  type: Default
+- author_avatar_url: assets\f7ebcd4727f2b8e05b4382b1b1eb6d74-1D9FE.png
+  author_id: '1254144571089354868'
+  author_name: kcmpolitical
+  author_nickname: Kris Morrell (CA) - KC TextAdmin
+  content: I'm not sure what we'll do about the other account, it may just sit around.
+  id: '1279568347771703376'
+  ref_to: null
+  timestamp: '2024-08-31T22:27:47.339+00:00'
+  type: Default

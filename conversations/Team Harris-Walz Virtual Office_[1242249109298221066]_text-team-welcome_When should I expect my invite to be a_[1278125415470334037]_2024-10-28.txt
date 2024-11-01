@@ -1,0 +1,192 @@
+Guild: Team Harris-Walz Virtual Office (ID: 1242249109298221066)
+Channel: When should I expect my invite to be a (ID: 1278125415470334037)
+Channel Topic: None
+Exported At: 2024-10-28T23:47:26.5025569+00:00
+
+
+--- Message ---
+Message ID: 1278129663155241021
+Message Type: 21
+Reply to: 1278125415470334037
+Timestamp: 2024-08-27T23:10:58.197+00:00
+Author: Jack Joannides KC text admin (jjoannid)
+Author Id: 477560366432256000
+Avatar URL: assets\791c521e62160be1f3df04992f6e5470-36A38.png
+Content: 
+--------------------
+
+--- Message ---
+Message ID: 1278129664816189460
+Message Type: Default
+Reply to: None
+Timestamp: 2024-08-27T23:10:58.593+00:00
+Author: Jack Joannides KC text admin (jjoannid)
+Author Id: 477560366432256000
+Avatar URL: assets\791c521e62160be1f3df04992f6e5470-36A38.png
+Content: We typically say 24-48 hours. But could be larger or shorter then that.
+--------------------
+
+--- Message ---
+Message ID: 1278824223519019030
+Message Type: Default
+Reply to: None
+Timestamp: 2024-08-29T21:10:54.292+00:00
+Author: Sue Smith (suevictoria2019)
+Author Id: 1275970426102747248
+Avatar URL: assets\12034ddc9ce947a770b3bccc491481b5-350AB.png
+Content: Thanks. Should I reach out tomorrow if I've not been added yet since it's been 48 hours? My guess is mods are busy adding folks so I just want to make sure I've done everything I need to do on my end of things.
+--------------------
+
+--- Message ---
+Message ID: 1278824622296662139
+Message Type: Default
+Reply to: None
+Timestamp: 2024-08-29T21:12:29.368+00:00
+Author: Jack Joannides KC text admin (jjoannid)
+Author Id: 477560366432256000
+Avatar URL: assets\791c521e62160be1f3df04992f6e5470-36A38.png
+Content: I would say if you've not gotten an direct message by Friday night yes. But keep in mind so many took the training. So it takes time to add you all.
+--------------------
+
+--- Message ---
+Message ID: 1279459182193410080
+Message Type: Default
+Reply to: None
+Timestamp: 2024-08-31T15:14:00.237+00:00
+Author: Sue Smith (suevictoria2019)
+Author Id: 1275970426102747248
+Avatar URL: assets\12034ddc9ce947a770b3bccc491481b5-350AB.png
+Content: Hi. I still have not been added to the text team even though I took the training and created this discord account. Is there anything else I can do to get added? Thanks!
+--------------------
+
+--- Message ---
+Message ID: 1279460103711359108
+Message Type: Default
+Reply to: None
+Timestamp: 2024-08-31T15:17:39.944+00:00
+Author: Jack Joannides KC text admin (jjoannid)
+Author Id: 477560366432256000
+Avatar URL: assets\791c521e62160be1f3df04992f6e5470-36A38.png
+Content: We had an issue yesterday morning/afternoon. I'm not sure the process now sorry.
+--------------------
+
+--- Message ---
+Message ID: 1279460365142331442
+Message Type: Default
+Reply to: None
+Timestamp: 2024-08-31T15:18:42.274+00:00
+Author: Sue Smith (suevictoria2019)
+Author Id: 1275970426102747248
+Avatar URL: assets\12034ddc9ce947a770b3bccc491481b5-350AB.png
+Content: Okay - I understand. How long can we keep using Slack? Thanks
+--------------------
+
+--- Message ---
+Message ID: 1279461007520960562
+Message Type: Default
+Reply to: None
+Timestamp: 2024-08-31T15:21:15.429+00:00
+Author: Jack Joannides KC text admin (jjoannid)
+Author Id: 477560366432256000
+Avatar URL: assets\791c521e62160be1f3df04992f6e5470-36A38.png
+Content: I'm confused. Let me check something.
+--------------------
+
+--- Message ---
+Message ID: 1279461215059443764
+Message Type: Default
+Reply to: None
+Timestamp: 2024-08-31T15:22:04.91+00:00
+Author: Jack Joannides KC text admin (jjoannid)
+Author Id: 477560366432256000
+Avatar URL: assets\791c521e62160be1f3df04992f6e5470-36A38.png
+Content: Wait If you were on slack you could of just taken the form on slack and get added.
+--------------------
+
+--- Message ---
+Message ID: 1279461454323646524
+Message Type: Default
+Reply to: None
+Timestamp: 2024-08-31T15:23:01.955+00:00
+Author: Sue Smith (suevictoria2019)
+Author Id: 1275970426102747248
+Avatar URL: assets\12034ddc9ce947a770b3bccc491481b5-350AB.png
+Content: I filled out a form, took the training and set up discord.
+--------------------
+
+--- Message ---
+Message ID: 1279461492818706586
+Message Type: Default
+Reply to: None
+Timestamp: 2024-08-31T15:23:11.133+00:00
+Author: Sue Smith (suevictoria2019)
+Author Id: 1275970426102747248
+Avatar URL: assets\12034ddc9ce947a770b3bccc491481b5-350AB.png
+Content: Should I fill out the form again?
+--------------------
+
+--- Message ---
+Message ID: 1279462036484390982
+Message Type: Default
+Reply to: None
+Timestamp: 2024-08-31T15:25:20.753+00:00
+Author: Jack Joannides KC text admin (jjoannid)
+Author Id: 477560366432256000
+Avatar URL: assets\791c521e62160be1f3df04992f6e5470-36A38.png
+Content: Actually no.
+--------------------
+
+--- Message ---
+Message ID: 1279462305159188573
+Message Type: Default
+Reply to: None
+Timestamp: 2024-08-31T15:26:24.81+00:00
+Author: Sue Smith (suevictoria2019)
+Author Id: 1275970426102747248
+Avatar URL: assets\12034ddc9ce947a770b3bccc491481b5-350AB.png
+Content: okay
+--------------------
+
+--- Message ---
+Message ID: 1279462439137579089
+Message Type: Default
+Reply to: None
+Timestamp: 2024-08-31T15:26:56.753+00:00
+Author: Sue Smith (suevictoria2019)
+Author Id: 1275970426102747248
+Avatar URL: assets\12034ddc9ce947a770b3bccc491481b5-350AB.png
+Content: Perhaps I made a mistake. Just not sure...
+--------------------
+
+--- Message ---
+Message ID: 1279467820874469467
+Message Type: Default
+Reply to: None
+Timestamp: 2024-08-31T15:48:19.859+00:00
+Author: Sue Smith (suevictoria2019)
+Author Id: 1275970426102747248
+Avatar URL: assets\12034ddc9ce947a770b3bccc491481b5-350AB.png
+Content: Just checking - is there anything I should be doing to get added to discord?
+--------------------
+
+--- Message ---
+Message ID: 1279481215325438115
+Message Type: Default
+Reply to: None
+Timestamp: 2024-08-31T16:41:33.345+00:00
+Author: Jack Joannides KC text admin (jjoannid)
+Author Id: 477560366432256000
+Avatar URL: assets\791c521e62160be1f3df04992f6e5470-36A38.png
+Content: I'll add you sorry.
+--------------------
+
+--- Message ---
+Message ID: 1279483583647580182
+Message Type: Default
+Reply to: None
+Timestamp: 2024-08-31T16:50:57.997+00:00
+Author: Sue Smith (suevictoria2019)
+Author Id: 1275970426102747248
+Avatar URL: assets\12034ddc9ce947a770b3bccc491481b5-350AB.png
+Content: Thank you!
+--------------------

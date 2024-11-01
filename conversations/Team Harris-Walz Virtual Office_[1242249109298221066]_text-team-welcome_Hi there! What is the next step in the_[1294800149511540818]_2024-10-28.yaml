@@ -1,0 +1,48 @@
+- author_avatar_url: assets\df6d19d97b04a49ffcafbe7be14c7839-D9CE4.png
+  author_id: '1269872908759597148'
+  author_name: roberta_24935
+  author_nickname: Roberta Bavin CA KC Greeter/Mod
+  content: ''
+  id: '1294801186507198526'
+  ref_to: '1294800149511540818'
+  timestamp: '2024-10-12T23:17:39.106+00:00'
+  type: '21'
+- author_avatar_url: assets\df6d19d97b04a49ffcafbe7be14c7839-D9CE4.png
+  author_id: '1269872908759597148'
+  author_name: roberta_24935
+  author_nickname: Roberta Bavin CA KC Greeter/Mod
+  content: Hi there! Were you in the text training this afternoon? The link was dropped
+    in the training. Thanks
+  id: '1294801189032038482'
+  ref_to: null
+  timestamp: '2024-10-12T23:17:39.708+00:00'
+  type: Default
+- author_avatar_url: assets\8569adcbd36c70a7578c017bf5604ea5-0DD30.png
+  author_id: '1199534001401110559'
+  author_name: heather09288
+  author_nickname: Heather Gray (MA)
+  content: I was in there but didn't grab the rest of the links before signing off,
+    I'm sorry!
+  id: '1294801381898719313'
+  ref_to: null
+  timestamp: '2024-10-12T23:18:25.691+00:00'
+  type: Default
+- author_avatar_url: assets\df6d19d97b04a49ffcafbe7be14c7839-D9CE4.png
+  author_id: '1269872908759597148'
+  author_name: roberta_24935
+  author_nickname: Roberta Bavin CA KC Greeter/Mod
+  content: Once we receive the Zoom report, someone will reach out to you. Thanks
+    for being here!
+  id: '1294801547967987753'
+  ref_to: '1294801381898719313'
+  timestamp: '2024-10-12T23:19:05.285+00:00'
+  type: Reply
+- author_avatar_url: assets\8569adcbd36c70a7578c017bf5604ea5-0DD30.png
+  author_id: '1199534001401110559'
+  author_name: heather09288
+  author_nickname: Heather Gray (MA)
+  content: Ok, thanks!
+  id: '1294801648471904347'
+  ref_to: null
+  timestamp: '2024-10-12T23:19:29.247+00:00'
+  type: Default

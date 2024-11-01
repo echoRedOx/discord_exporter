@@ -1,0 +1,104 @@
+Guild: Team Harris-Walz Virtual Office (ID: 1242249109298221066)
+Channel: Question about reach data (ID: 1292981123042775071)
+Channel Topic: None
+Exported At: 2024-10-28T19:55:48.144434+00:00
+
+
+--- Message ---
+Message ID: 1292981123042775071
+Message Type: Default
+Reply to: None
+Timestamp: 2024-10-07T22:45:22.161+00:00
+Author: will (diekatzefliegt)
+Author Id: 958039986672910376
+Avatar URL: assets\3a5de4f3a9012287bd4cb4a6b1df6c40-3E138.png
+Content: Hello mods. I did the thing on Reach where you search for a person's name and you tag who they support, what issues matter to them, etc. I entered my girlfriend's name as a test. She has never signed up to volunteer and has never donated. She now got a text from the campaign today, about 2 months later. Is this info collected used for text banking? Or just unrelated and somehow she just got signed up ?
+--------------------
+
+--- Message ---
+Message ID: 1292981788553248831
+Message Type: Default
+Reply to: None
+Timestamp: 2024-10-07T22:48:00.831+00:00
+Author: Jen Medeiros [CA] • [Lead Mod] (starkittynmom)
+Author Id: 1276944250491113656
+Avatar URL: assets\a_2aba4b7f19fcab5fe5391fcdb73d735d-D670A.gif
+Content: Hi <@958039986672910376> I just went through the Reach re-training today and it was reiterated that they are not collecting this info- so that was coincidental
+--------------------
+
+--- Message ---
+Message ID: 1292981928110063787
+Message Type: Default
+Reply to: None
+Timestamp: 2024-10-07T22:48:34.104+00:00
+Author: will (diekatzefliegt)
+Author Id: 958039986672910376
+Avatar URL: assets\3a5de4f3a9012287bd4cb4a6b1df6c40-3E138.png
+Content: Wow, very very coincidental. I have no idea how else they would have gotten her name and info.
+--------------------
+
+--- Message ---
+Message ID: 1292981943859941417
+Message Type: Default
+Reply to: None
+Timestamp: 2024-10-07T22:48:37.859+00:00
+Author: Jen Medeiros [CA] • [Lead Mod] (starkittynmom)
+Author Id: 1276944250491113656
+Avatar URL: assets\a_2aba4b7f19fcab5fe5391fcdb73d735d-D670A.gif
+Content: The lists for call and text campaigns are based on voter registration info, if she's friends with you I'm assuming she's registered to vote?
+--------------------
+
+--- Message ---
+Message ID: 1292982005901951006
+Message Type: Default
+Reply to: None
+Timestamp: 2024-10-07T22:48:52.651+00:00
+Author: will (diekatzefliegt)
+Author Id: 958039986672910376
+Avatar URL: assets\3a5de4f3a9012287bd4cb4a6b1df6c40-3E138.png
+Content: Correct yes in NJ
+--------------------
+
+--- Message ---
+Message ID: 1292982059161092096
+Message Type: Default
+Reply to: None
+Timestamp: 2024-10-07T22:49:05.349+00:00
+Author: Jen Medeiros [CA] • [Lead Mod] (starkittynmom)
+Author Id: 1276944250491113656
+Avatar URL: assets\a_2aba4b7f19fcab5fe5391fcdb73d735d-D670A.gif
+Content: That's how. The campaign pulls voter data every day
+--------------------
+
+--- Message ---
+Message ID: 1292982090702262302
+Message Type: Default
+Reply to: None
+Timestamp: 2024-10-07T22:49:12.869+00:00
+Author: will (diekatzefliegt)
+Author Id: 958039986672910376
+Avatar URL: assets\3a5de4f3a9012287bd4cb4a6b1df6c40-3E138.png
+Content: Ah interesting
+--------------------
+
+--- Message ---
+Message ID: 1292982309288411137
+Message Type: Default
+Reply to: None
+Timestamp: 2024-10-07T22:50:04.984+00:00
+Author: Jen Medeiros [CA] • [Lead Mod] (starkittynmom)
+Author Id: 1276944250491113656
+Avatar URL: assets\a_2aba4b7f19fcab5fe5391fcdb73d735d-D670A.gif
+Content: It's also how we will be able to whittle down lists as people vote and those votes are counted. Apparently they can pull the data daily and are updating accordingly (this is now mixing info I've gotten from phone bank trainings with the Reach team training, but there you have it)
+--------------------
+
+--- Message ---
+Message ID: 1292982794661924906
+Message Type: Default
+Reply to: None
+Timestamp: 2024-10-07T22:52:00.706+00:00
+Author: will (diekatzefliegt)
+Author Id: 958039986672910376
+Avatar URL: assets\3a5de4f3a9012287bd4cb4a6b1df6c40-3E138.png
+Content: Very cool. thanks for the info, i appreciate it !
+--------------------

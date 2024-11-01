@@ -1,0 +1,49 @@
+Guild: Team Harris-Walz Virtual Office (ID: 1242249109298221066)
+Channel: I am interested in texting (ID: 1290104997853401182)
+Channel Topic: None
+Exported At: 2024-10-28T22:57:15.607676+00:00
+
+
+--- Message ---
+Message ID: 1290142197806796871
+Message Type: 21
+Reply to: 1290104997853401182
+Timestamp: 2024-09-30T02:44:29.64+00:00
+Author: Nicole Morris - Text Admin (nmorris237)
+Author Id: 935762347753103382
+Avatar URL: assets\27b1e286b65ae02b3378793b5f098411-A7B20.png
+Content: 
+--------------------
+
+--- Message ---
+Message ID: 1290142199304028285
+Message Type: Default
+Reply to: None
+Timestamp: 2024-09-30T02:44:29.997+00:00
+Author: Nicole Morris - Text Admin (nmorris237)
+Author Id: 935762347753103382
+Avatar URL: assets\27b1e286b65ae02b3378793b5f098411-A7B20.png
+Content: Hi <@479393778218696704> Thanks! Have you taken a text training with us yet?
+--------------------
+
+--- Message ---
+Message ID: 1290400412746383586
+Message Type: Default
+Reply to: None
+Timestamp: 2024-09-30T19:50:32.879+00:00
+Author: dancarvajalfl69 (dcarvajal5601)
+Author Id: 479393778218696704
+Avatar URL: assets\d06ca11beea200916aaf6466af5058c9-D0C81.png
+Content: yes I did
+--------------------
+
+--- Message ---
+Message ID: 1290460526052245596
+Message Type: Default
+Reply to: None
+Timestamp: 2024-09-30T23:49:25.008+00:00
+Author: Nicole Morris - Text Admin (nmorris237)
+Author Id: 935762347753103382
+Avatar URL: assets\27b1e286b65ae02b3378793b5f098411-A7B20.png
+Content: Got it - thanks! A moderator should be following up either later today or tomorrow!
+--------------------

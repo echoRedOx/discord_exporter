@@ -1,0 +1,27 @@
+Guild: Team Harris-Walz Virtual Office (ID: 1242249109298221066)
+Channel: I took the test but haven't been able to (ID: 1298394542680178748)
+Channel Topic: None
+Exported At: 2024-10-28T22:22:24.4860253+00:00
+
+
+--- Message ---
+Message ID: 1298398664112214181
+Message Type: 21
+Reply to: 1298394542680178748
+Timestamp: 2024-10-22T21:32:44.605+00:00
+Author: Roberta Bavin CA KC Greeter/Mod (roberta_24935)
+Author Id: 1269872908759597148
+Avatar URL: assets\df6d19d97b04a49ffcafbe7be14c7839-D9CE4.png
+Content: 
+--------------------
+
+--- Message ---
+Message ID: 1298398667354673183
+Message Type: Default
+Reply to: None
+Timestamp: 2024-10-22T21:32:45.378+00:00
+Author: Roberta Bavin CA KC Greeter/Mod (roberta_24935)
+Author Id: 1269872908759597148
+Avatar URL: assets\df6d19d97b04a49ffcafbe7be14c7839-D9CE4.png
+Content: Hi <@1298383208324399205> Thanks for reaching out. Are you in the correct server/event? Which training and test did you take? <:thankyou:1252806147396735057>
+--------------------

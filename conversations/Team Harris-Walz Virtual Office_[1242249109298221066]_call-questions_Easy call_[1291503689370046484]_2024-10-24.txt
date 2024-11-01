@@ -1,0 +1,29 @@
+Guild: Team Harris-Walz Virtual Office (ID: 1242249109298221066)
+Channel: Easy call (ID: 1291503689370046484)
+Channel Topic: None
+Exported At: 2024-10-24T12:46:36.1604738+00:00
+
+
+--- Message ---
+Message ID: 1291503689370046484
+Message Type: Default
+Reply to: None
+Timestamp: 2024-10-03T20:54:34.524+00:00
+Author: JennKB-PA (revjkb)
+Author Id: 1280680519440531480
+Avatar URL: assets\6c5996770c985bcd6e5b68131ff2ba04-1EE06.png
+Content: missed the Easy call training last night at 7.  couldn't get in.
+--------------------
+
+--- Message ---
+Message ID: 1291504493539627079
+Message Type: Default
+Reply to: None
+Timestamp: 2024-10-03T20:57:46.253+00:00
+Author: AndreaV, KY Call Mod (andrearogersvalen)
+Author Id: 965992907981074443
+Avatar URL: assets\72d82e393a66b89996d99840a07990ec-C9EFF.png
+Content: <@1280680519440531480> Sorry that you missed the training. You can join a Zoom Phone Bank session -- they review the training at the beginning of each session.
+
+See the available shifts [here](https://events.democrats.org/event/664004/?utm_source=&utm_medium=Posts&utm_campaign=Daily%20Engagement)
+--------------------

@@ -1,0 +1,88 @@
+- author_avatar_url: assets\9a34df16fc4be6f484f0f080c69e4646-90FD4.png
+  author_id: '1272583070087643180'
+  author_name: markjacobs_35786
+  author_nickname: Mark Jacobs
+  content: "Hi there, I'm the Co-founder of Creatures for Kamala, a grassroots campaign\
+    \ to elect Vice President Harris.\n\nWe'd like to host a community event to increase\
+    \ awareness of our campaign and help get out the vote. \n\nI see a lot of organizations\
+    \ shown on the event website: https://events.democrats.org/ \n\nHow does an organization\
+    \ get added to the system? I'd love to be included!"
+  id: '1272683692149706772'
+  ref_to: null
+  timestamp: '2024-08-12T22:30:37.528+00:00'
+  type: Default
+- author_avatar_url: assets\bfccaff89d7c287575ef163d39d3bde8-053E1.png
+  author_id: '763374129772363776'
+  author_name: tenaciousg27
+  author_nickname: "Gillian D [TX] \u2022 Lead Mod"
+  content: Hi <@1272583070087643180> ! Please give me a moment to grab a link for
+    you. In the meantime, would you mind removing the link to your organization from
+    your post? We have a channel specifically for outside events and links at <#1268426751164551199>.
+    Thanks so much!
+  id: '1272685817705533440'
+  ref_to: null
+  timestamp: '2024-08-12T22:39:04.3+00:00'
+  type: Default
+- author_avatar_url: assets\9a34df16fc4be6f484f0f080c69e4646-90FD4.png
+  author_id: '1272583070087643180'
+  author_name: markjacobs_35786
+  author_nickname: Mark Jacobs
+  content: <@763374129772363776> Done, thanks!
+  id: '1272686132290781234'
+  ref_to: null
+  timestamp: '2024-08-12T22:40:19.303+00:00'
+  type: Default
+- author_avatar_url: assets\bfccaff89d7c287575ef163d39d3bde8-053E1.png
+  author_id: '763374129772363776'
+  author_name: tenaciousg27
+  author_nickname: "Gillian D [TX] \u2022 Lead Mod"
+  content: "Ok, Here's a link to the event hosting form https://docs.google.com/forms/d/e/1FAIpQLScsAZ3wde3d_2QYSm1sp9-aX9POqY6mqppfHfXxubbCLrNYdQ/viewform?vc=0&c=0&w=1&flr=0\n\
+    I've added you to our Hosts so you should now have access to that section, including\
+    \ <#1245826306780823563> ; they should be able to answer any further questions\
+    \ you may have regarding hosting events! Thanks so much for putting this all together!!\n\
+    (As a side note, judging by the name of your group, you may be interested in one\
+    \ of our newer channels <#1271922058250555444> \U0001F638 )"
+  id: '1272687576935039060'
+  ref_to: null
+  timestamp: '2024-08-12T22:46:03.733+00:00'
+  type: Default
+- author_avatar_url: assets\9a34df16fc4be6f484f0f080c69e4646-90FD4.png
+  author_id: '1272583070087643180'
+  author_name: markjacobs_35786
+  author_nickname: Mark Jacobs
+  content: "Awesome, thank you! \U0001F64F"
+  id: '1272687905520746568'
+  ref_to: null
+  timestamp: '2024-08-12T22:47:22.074+00:00'
+  type: Default
+- author_avatar_url: assets\a30e650576a6d42a3c9ee24648f67c90-2AE37.png
+  author_id: '791857656897732648'
+  author_name: rootsmusic
+  author_nickname: rootsmusic
+  content: <@1272583070087643180> The approval process using Mobilize's template for
+    [Community Events](https://events.democrats.org/c/host-a-relational-event/event/create/)
+    would be faster, because the DNC would need to manually verify events submitted
+    using Google Forms (data-entry into Mobilize).
+  id: '1272714304688492645'
+  ref_to: '1272687576935039060'
+  timestamp: '2024-08-13T00:32:16.126+00:00'
+  type: Reply
+- author_avatar_url: assets\bfccaff89d7c287575ef163d39d3bde8-053E1.png
+  author_id: '763374129772363776'
+  author_name: tenaciousg27
+  author_nickname: "Gillian D [TX] \u2022 Lead Mod"
+  content: "Noted! Thanks for the tip \U0001F600"
+  id: '1272714909011935346'
+  ref_to: '1272714304688492645'
+  timestamp: '2024-08-13T00:34:40.208+00:00'
+  type: Reply
+- author_avatar_url: assets\a30e650576a6d42a3c9ee24648f67c90-2AE37.png
+  author_id: '791857656897732648'
+  author_name: rootsmusic
+  author_nickname: rootsmusic
+  content: You're welcome!  The Google Form is intended for events that don't fit
+    the Mobilize templates, but its approval process is slow.
+  id: '1272728782012284948'
+  ref_to: '1272714909011935346'
+  timestamp: '2024-08-13T01:29:47.789+00:00'
+  type: Reply

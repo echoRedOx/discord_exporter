@@ -1,0 +1,49 @@
+- author_avatar_url: assets\3-FB033.png
+  author_id: '1043311146339414127'
+  author_name: fdumary
+  author_nickname: Francesca Dumary (FL)
+  content: Hi! This is Francesca Dumary, a volunteer with the Democrats. I am part
+    of text team on Discord. There is a channel called texting-questions where can
+    ask for assistance with replies. Is there a similar way we can ask for help with
+    replies for the inbox team?
+  id: '1286502619812204567'
+  ref_to: null
+  timestamp: '2024-09-20T01:42:06.626+00:00'
+  type: Default
+- author_avatar_url: assets\a_de0e3d4a3f9b486ad3ad6df0d72323da-D0252.gif
+  author_id: '112080668296564736'
+  author_name: kyaizen
+  author_nickname: "Jared R [CO] \u2022 Lead Mod"
+  content: Hi Francesca, thanks for asking! Yes, it's <#1272985533525659752>
+  id: '1286503279185891328'
+  ref_to: null
+  timestamp: '2024-09-20T01:44:43.833+00:00'
+  type: Default
+- author_avatar_url: assets\3-FB033.png
+  author_id: '1043311146339414127'
+  author_name: fdumary
+  author_nickname: Francesca Dumary (FL)
+  content: What are the inbox hours in Eastern Time?
+  id: '1286503680975175761'
+  ref_to: null
+  timestamp: '2024-09-20T01:46:19.627+00:00'
+  type: Default
+- author_avatar_url: assets\a_de0e3d4a3f9b486ad3ad6df0d72323da-D0252.gif
+  author_id: '112080668296564736'
+  author_name: kyaizen
+  author_nickname: "Jared R [CO] \u2022 Lead Mod"
+  content: That would be a better question to post there!
+  id: '1286504011213832276'
+  ref_to: '1286503680975175761'
+  timestamp: '2024-09-20T01:47:38.362+00:00'
+  type: Reply
+- author_avatar_url: assets\791c521e62160be1f3df04992f6e5470-36A38.png
+  author_id: '477560366432256000'
+  author_name: jjoannid
+  author_nickname: Jack Joannides KC text admin
+  content: You can also ask in <#1260309561378603028> sorry for jumping in. Also on
+    that team somewhat.
+  id: '1286505041888280711'
+  ref_to: null
+  timestamp: '2024-09-20T01:51:44.094+00:00'
+  type: Default

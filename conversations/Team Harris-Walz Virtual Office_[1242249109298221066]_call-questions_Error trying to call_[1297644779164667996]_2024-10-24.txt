@@ -1,0 +1,82 @@
+Guild: Team Harris-Walz Virtual Office (ID: 1242249109298221066)
+Channel: Error trying to call (ID: 1297644779164667996)
+Channel Topic: None
+Exported At: 2024-10-24T12:42:10.1638078+00:00
+
+
+--- Message ---
+Message ID: 1297644779164667996
+Message Type: Default
+Reply to: None
+Timestamp: 2024-10-20T19:37:04.427+00:00
+Author: Autumn S [AR]🤘• Lead Mod/OE Mod (meanderingstone6495)
+Author Id: 936622618293968958
+Avatar URL: assets\af45a372ba919e7bac10686b43e799f1-BDEE3.png
+Content: I keep getting this.. tried a bunch of different links and clearing my cache. Any ideas or should I just keep trying?
+--------------------
+
+--- Message ---
+Message ID: 1297645193809367070
+Message Type: Default
+Reply to: None
+Timestamp: 2024-10-20T19:38:43.286+00:00
+Author: Jen Medeiros [CA] • [Lead Mod] (starkittynmom)
+Author Id: 1276944250491113656
+Avatar URL: assets\a_2aba4b7f19fcab5fe5391fcdb73d735d-D670A.gif
+Content: <@936622618293968958> did it refresh once you backed out and clicked again? We just switched to WI, so that might have caused the glitch?
+--------------------
+
+--- Message ---
+Message ID: 1297645340165541979
+Message Type: Default
+Reply to: None
+Timestamp: 2024-10-20T19:39:18.18+00:00
+Author: Autumn S [AR]🤘• Lead Mod/OE Mod (meanderingstone6495)
+Author Id: 936622618293968958
+Avatar URL: assets\af45a372ba919e7bac10686b43e799f1-BDEE3.png
+Content: Nope. I'll just keep trying.  Maybe network is shaky in my area. Thanks Jen!
+--------------------
+
+--- Message ---
+Message ID: 1297646633705672785
+Message Type: Default
+Reply to: None
+Timestamp: 2024-10-20T19:44:26.584+00:00
+Author: Holly Mate-Luber [Call Mod] (hollymateluber)
+Author Id: 1267643778043482122
+Avatar URL: assets\d1341d3c05d207da49a6fa548b4c1086-4BE71.png
+Content: <@936622618293968958> you may want to close out completely, toggle your internet connection off, wait a few minutes, toggle internet back on, then reconnect to the dialer. Which I know is basically a fancy way of saying...have you tried unplugging it and plugging it back in again. But actually disconnecting from my internet network and reconnecting has helped in certain situations.
+--------------------
+
+--- Message ---
+Message ID: 1297647056403562548
+Message Type: Default
+Reply to: None
+Timestamp: 2024-10-20T19:46:07.363+00:00
+Author: Autumn S [AR]🤘• Lead Mod/OE Mod (meanderingstone6495)
+Author Id: 936622618293968958
+Avatar URL: assets\af45a372ba919e7bac10686b43e799f1-BDEE3.png
+Content: I haven't tried a hard reset like that, but will give it a go. Appreciate it!!
+--------------------
+
+--- Message ---
+Message ID: 1297651889030303779
+Message Type: Reply
+Reply to: 1297644779164667996
+Timestamp: 2024-10-20T20:05:19.551+00:00
+Author: Larry Ahlgrim (VA) [Call Mod] (larrya._98544)
+Author Id: 1266903666879627274
+Avatar URL: assets\5fde485e55d806d8356ca6e7e08f1f48-77A19.png
+Content: Sorry, I know this is frustrating. 2 things to try - first if you're on a Safari browser, try Chrome. second, see if going inconito fixes it.
+--------------------
+
+--- Message ---
+Message ID: 1297652276588187668
+Message Type: Default
+Reply to: None
+Timestamp: 2024-10-20T20:06:51.952+00:00
+Author: Autumn S [AR]🤘• Lead Mod/OE Mod (meanderingstone6495)
+Author Id: 936622618293968958
+Avatar URL: assets\af45a372ba919e7bac10686b43e799f1-BDEE3.png
+Content: Thanks, Larry! I'll give that a go, cause I was still getting the error. Hopefully it's just me and not a bunch of callers.
+--------------------

@@ -1,0 +1,49 @@
+Guild: Team Harris-Walz Virtual Office (ID: 1242249109298221066)
+Channel: IT Meets Real World: Part I (ID: 1266805144239083651)
+Channel Topic: None
+Exported At: 2024-10-24T13:14:00.1342246+00:00
+
+
+--- Message ---
+Message ID: 1266810549975650478
+Message Type: 21
+Reply to: 1266805144239083651
+Timestamp: 2024-07-27T17:32:51.316+00:00
+Author: Marie B. | PA/NJ | OE/KC (mariebroph2677695)
+Author Id: 941196169852366859
+Avatar URL: assets\4412fd436c9a7d43a1770d5771bbdd0c-8CC79.png
+Content: 
+--------------------
+
+--- Message ---
+Message ID: 1266810551615623288
+Message Type: Default
+Reply to: None
+Timestamp: 2024-07-27T17:32:51.707+00:00
+Author: Marie B. | PA/NJ | OE/KC (mariebroph2677695)
+Author Id: 941196169852366859
+Avatar URL: assets\4412fd436c9a7d43a1770d5771bbdd0c-8CC79.png
+Content: Okay, I'm going to tag <@1184187512491618404> and we'll see what happens.
+--------------------
+
+--- Message ---
+Message ID: 1266821713149165629
+Message Type: Default
+Reply to: None
+Timestamp: 2024-07-27T18:17:12.824+00:00
+Author: Vincent A | NC 08 (vammo3747)
+Author Id: 835581031184334898
+Avatar URL: assets\57168285728923befc664032abd74165-D22E3.png
+Content: Thank you! We'll see where it leads.
+--------------------
+
+--- Message ---
+Message ID: 1270510176050352128
+Message Type: Reply
+Reply to: 1266821713149165629
+Timestamp: 2024-08-06T22:33:50.908+00:00
+Author: rootsmusic (rootsmusic)
+Author Id: 791857656897732648
+Avatar URL: assets\a30e650576a6d42a3c9ee24648f67c90-2AE37.png
+Content: https://events.democrats.org/event/654890/
+--------------------

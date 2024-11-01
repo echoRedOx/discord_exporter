@@ -1,0 +1,27 @@
+Guild: Team Harris-Walz Virtual Office (ID: 1242249109298221066)
+Channel: How long should I wait before I get to (ID: 1294429428608139267)
+Channel Topic: None
+Exported At: 2024-10-28T22:43:00.8765446+00:00
+
+
+--- Message ---
+Message ID: 1294431853868220467
+Message Type: 21
+Reply to: 1294429428608139267
+Timestamp: 2024-10-11T22:50:03.343+00:00
+Author: Jack Joannides KC text admin (jjoannid)
+Author Id: 477560366432256000
+Avatar URL: assets\791c521e62160be1f3df04992f6e5470-36A38.png
+Content: 
+--------------------
+
+--- Message ---
+Message ID: 1294431877092081665
+Message Type: Default
+Reply to: None
+Timestamp: 2024-10-11T22:50:08.88+00:00
+Author: Jack Joannides KC text admin (jjoannid)
+Author Id: 477560366432256000
+Avatar URL: assets\791c521e62160be1f3df04992f6e5470-36A38.png
+Content: Hello. You can take a training here: https://events.democrats.org/event/672393/
+--------------------

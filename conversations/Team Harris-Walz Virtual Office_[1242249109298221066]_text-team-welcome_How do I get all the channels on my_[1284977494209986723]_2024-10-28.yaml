@@ -1,0 +1,76 @@
+- author_avatar_url: assets\df6d19d97b04a49ffcafbe7be14c7839-D9CE4.png
+  author_id: '1269872908759597148'
+  author_name: roberta_24935
+  author_nickname: Roberta Bavin CA KC Greeter/Mod
+  content: ''
+  id: '1284988923948437565'
+  ref_to: '1284977494209986723'
+  timestamp: '2024-09-15T21:27:13.409+00:00'
+  type: '21'
+- author_avatar_url: assets\df6d19d97b04a49ffcafbe7be14c7839-D9CE4.png
+  author_id: '1269872908759597148'
+  author_name: roberta_24935
+  author_nickname: Roberta Bavin CA KC Greeter/Mod
+  content: Hi Marilyn-Have you tried logging out and back in; maybe restarting your
+    computer? Thanks!
+  id: '1284988925424697528'
+  ref_to: null
+  timestamp: '2024-09-15T21:27:13.761+00:00'
+  type: Default
+- author_avatar_url: assets\2705511076d40adaf895701a64bd322b-288F0.png
+  author_id: '1256040697107189773'
+  author_name: marilyns124
+  author_nickname: Marilyn Stark
+  content: "Yes, I\u2019ve done that"
+  id: '1284991960805019730'
+  ref_to: null
+  timestamp: '2024-09-15T21:39:17.452+00:00'
+  type: Default
+- author_avatar_url: assets\df6d19d97b04a49ffcafbe7be14c7839-D9CE4.png
+  author_id: '1269872908759597148'
+  author_name: roberta_24935
+  author_nickname: Roberta Bavin CA KC Greeter/Mod
+  content: I took you out of TextTeamNew and readded you, did that make a difference
+    on your laptop?
+  id: '1284993099600367637'
+  ref_to: '1284991960805019730'
+  timestamp: '2024-09-15T21:43:48.962+00:00'
+  type: Reply
+- author_avatar_url: assets\df6d19d97b04a49ffcafbe7be14c7839-D9CE4.png
+  author_id: '1269872908759597148'
+  author_name: roberta_24935
+  author_nickname: Roberta Bavin CA KC Greeter/Mod
+  content: Next idea is to go into "Channels and Roles" on your laptop and go to Browse
+    and make sure you are in all the channels there.
+  id: '1284993381486821518'
+  ref_to: null
+  timestamp: '2024-09-15T21:44:56.169+00:00'
+  type: Default
+- author_avatar_url: assets\2705511076d40adaf895701a64bd322b-288F0.png
+  author_id: '1256040697107189773'
+  author_name: marilyns124
+  author_nickname: Marilyn Stark
+  content: "That didn\u2019t work and I actually don\u2019t have channels and roles."
+  id: '1284994501168988261'
+  ref_to: null
+  timestamp: '2024-09-15T21:49:23.122+00:00'
+  type: Default
+- author_avatar_url: assets\2705511076d40adaf895701a64bd322b-288F0.png
+  author_id: '1256040697107189773'
+  author_name: marilyns124
+  author_nickname: Marilyn Stark
+  content: "I\u2019m wondering if I need to uninstall it and start with a new invite\
+    \ for the Democrats server"
+  id: '1284994696883601420'
+  ref_to: null
+  timestamp: '2024-09-15T21:50:09.784+00:00'
+  type: Default
+- author_avatar_url: assets\df6d19d97b04a49ffcafbe7be14c7839-D9CE4.png
+  author_id: '1269872908759597148'
+  author_name: roberta_24935
+  author_nickname: Roberta Bavin CA KC Greeter/Mod
+  content: It should be near the top.
+  id: '1284995181988286558'
+  ref_to: null
+  timestamp: '2024-09-15T21:52:05.442+00:00'
+  type: Default

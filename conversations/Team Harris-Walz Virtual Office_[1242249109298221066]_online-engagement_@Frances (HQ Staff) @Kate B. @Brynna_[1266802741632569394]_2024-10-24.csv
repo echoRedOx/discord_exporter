@@ -1,0 +1,3 @@
+id,type,ref_to,timestamp,author_name,author_nickname,author_id,author_avatar_url,content
+1266804087513550950,21,1266802741632569394,2024-07-27T17:07:10.545+00:00,vammo3747,Vincent A | NC 08,835581031184334898,assets\57168285728923befc664032abd74165-D22E3.png,
+1266804088566321264,Default,,2024-07-27T17:07:10.796+00:00,vammo3747,Vincent A | NC 08,835581031184334898,assets\57168285728923befc664032abd74165-D22E3.png,"I have working scripts now that I've been testing mainly to write product descriptions for retail but the model can easily be tweaked to utilize OSINT inputs (geo/demo/psychographic) to better inform outreach attempts....door, phone or even localized display ads."

@@ -1,0 +1,38 @@
+Guild: Team Harris-Walz Virtual Office (ID: 1242249109298221066)
+Channel: For after the election (ID: 1279976771508371568)
+Channel Topic: None
+Exported At: 2024-10-24T06:47:51.010734+00:00
+
+
+--- Message ---
+Message ID: 1279976771508371568
+Message Type: Default
+Reply to: None
+Timestamp: 2024-09-02T01:30:43.146+00:00
+Author: Jake Henderson (NJ-2) [MOD] (i_am_anxious02)
+Author Id: 648018187342053395
+Avatar URL: assets\ee6fcc15dae8462931d1ad1c70c5d780-D008C.png
+Content: Would it be possible to repurpose this server for other democratic campaigns once the 2024 election concludes (for example, the two 2025 Gubernatorial elections and the 2026 midterms)?
+--------------------
+
+--- Message ---
+Message ID: 1279980868886069379
+Message Type: Reply
+Reply to: 1279976771508371568
+Timestamp: 2024-09-02T01:47:00.037+00:00
+Author: Carolyn B [CA] • Lead Mod (carb.on)
+Author Id: 568257600228032512
+Avatar URL: assets\28a90c77b5793d80eb62484a43c66748-D8837.png
+Content: Hello <@648018187342053395> this server is the for the democratic national campaign, it will continue on as the home of the 2028 presidential campaign. Individual Gubernatorial elections and midterm campaigns would be supported by their own servers.
+--------------------
+
+--- Message ---
+Message ID: 1279980984711778334
+Message Type: Reply
+Reply to: 1279980868886069379
+Timestamp: 2024-09-02T01:47:27.652+00:00
+Author: Jake Henderson (NJ-2) [MOD] (i_am_anxious02)
+Author Id: 648018187342053395
+Avatar URL: assets\ee6fcc15dae8462931d1ad1c70c5d780-D008C.png
+Content: Thank you!
+--------------------

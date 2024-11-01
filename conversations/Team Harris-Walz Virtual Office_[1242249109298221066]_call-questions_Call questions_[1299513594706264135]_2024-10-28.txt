@@ -1,0 +1,52 @@
+Guild: Team Harris-Walz Virtual Office (ID: 1242249109298221066)
+Channel: Call questions (ID: 1299513594706264135)
+Channel Topic: None
+Exported At: 2024-10-28T20:43:04.8863126+00:00
+
+
+--- Message ---
+Message ID: 1299513594706264135
+Message Type: Default
+Reply to: None
+Timestamp: 2024-10-25T23:23:04.773+00:00
+Author: Jeff (jeff_11583)
+Author Id: 1299496775186382891
+Avatar URL: assets\5-E9BDB.png
+Content: If the person declines to tell me how they are voting, do I enter nothing?
+If they tell me they've registered in another state, can I capture that?
+If they tell me they're the right person and THEN hang up, how do I code that?
+Thx
+--------------------
+
+--- Message ---
+Message ID: 1299516182130331658
+Message Type: Reply
+Reply to: 1299513594706264135
+Timestamp: 2024-10-25T23:33:21.663+00:00
+Author: Larry Ahlgrim (VA) [Call Mod] (larrya._98544)
+Author Id: 1266903666879627274
+Avatar URL: assets\5fde485e55d806d8356ca6e7e08f1f48-77A19.png
+Content: Hi Jeff, if they declined, mark as refused. if they're registered in another state mark them as moved. if the right person hangs up, mark it as hang up
+--------------------
+
+--- Message ---
+Message ID: 1299517890340323369
+Message Type: Reply
+Reply to: 1299516182130331658
+Timestamp: 2024-10-25T23:40:08.932+00:00
+Author: Jeff (jeff_11583)
+Author Id: 1299496775186382891
+Avatar URL: assets\5-E9BDB.png
+Content: Thank you. Didn't see a refused button, but will dive back in and look. Appreciate the quick response.
+--------------------
+
+--- Message ---
+Message ID: 1299518478557909002
+Message Type: Reply
+Reply to: 1299517890340323369
+Timestamp: 2024-10-25T23:42:29.174+00:00
+Author: Larry Ahlgrim (VA) [Call Mod] (larrya._98544)
+Author Id: 1266903666879627274
+Avatar URL: assets\5fde485e55d806d8356ca6e7e08f1f48-77A19.png
+Content: You're welcome!
+--------------------

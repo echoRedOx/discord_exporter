@@ -1,0 +1,27 @@
+Guild: Team Harris-Walz Virtual Office (ID: 1242249109298221066)
+Channel: I signed up for the text training (ID: 1285554880156798997)
+Channel Topic: None
+Exported At: 2024-10-28T23:17:49.2805965+00:00
+
+
+--- Message ---
+Message ID: 1285609926458085447
+Message Type: 21
+Reply to: 1285554880156798997
+Timestamp: 2024-09-17T14:34:51.945+00:00
+Author: Roberta Bavin CA KC Greeter/Mod (roberta_24935)
+Author Id: 1269872908759597148
+Avatar URL: assets\df6d19d97b04a49ffcafbe7be14c7839-D9CE4.png
+Content: 
+--------------------
+
+--- Message ---
+Message ID: 1285609927976685580
+Message Type: Default
+Reply to: None
+Timestamp: 2024-09-17T14:34:52.307+00:00
+Author: Roberta Bavin CA KC Greeter/Mod (roberta_24935)
+Author Id: 1269872908759597148
+Avatar URL: assets\df6d19d97b04a49ffcafbe7be14c7839-D9CE4.png
+Content: Hi Michele- Thanks for checking in. If you signed up with Mobilize, you should get an email and a text with the link for signing into the Zoom. 🌊
+--------------------

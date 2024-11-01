@@ -1,0 +1,60 @@
+Guild: Team Harris-Walz Virtual Office (ID: 1242249109298221066)
+Channel: Hi Text Moderators. May I join the text (ID: 1281746502649118750)
+Channel Topic: None
+Exported At: 2024-10-28T23:35:12.3676775+00:00
+
+
+--- Message ---
+Message ID: 1281749774868938905
+Message Type: 21
+Reply to: 1281746502649118750
+Timestamp: 2024-09-06T22:56:00.088+00:00
+Author: Jack Joannides KC text admin (jjoannid)
+Author Id: 477560366432256000
+Avatar URL: assets\791c521e62160be1f3df04992f6e5470-36A38.png
+Content: 
+--------------------
+
+--- Message ---
+Message ID: 1281749776341139486
+Message Type: Default
+Reply to: None
+Timestamp: 2024-09-06T22:56:00.439+00:00
+Author: Jack Joannides KC text admin (jjoannid)
+Author Id: 477560366432256000
+Avatar URL: assets\791c521e62160be1f3df04992f6e5470-36A38.png
+Content: Yes you can. Let me find the link.
+--------------------
+
+--- Message ---
+Message ID: 1281749825641250947
+Message Type: Default
+Reply to: None
+Timestamp: 2024-09-06T22:56:12.193+00:00
+Author: Jack Joannides KC text admin (jjoannid)
+Author Id: 477560366432256000
+Avatar URL: assets\791c521e62160be1f3df04992f6e5470-36A38.png
+Content: https://events.democrats.org/event/672393/
+--------------------
+
+--- Message ---
+Message ID: 1281803463608500276
+Message Type: Default
+Reply to: None
+Timestamp: 2024-09-07T02:29:20.481+00:00
+Author: Kathleen jones [CA] (kathleenjones0851)
+Author Id: 1277052930255622148
+Avatar URL: assets\1-B2132.png
+Content: Thanks <@477560366432256000> ! I appreciate it:) I'll re-do the training;)
+--------------------
+
+--- Message ---
+Message ID: 1281803651928555583
+Message Type: Default
+Reply to: None
+Timestamp: 2024-09-07T02:30:05.38+00:00
+Author: Jack Joannides KC text admin (jjoannid)
+Author Id: 477560366432256000
+Avatar URL: assets\791c521e62160be1f3df04992f6e5470-36A38.png
+Content: Okay great.
+--------------------

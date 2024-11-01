@@ -1,0 +1,445 @@
+Guild: Team Harris-Walz Virtual Office (ID: 1242249109298221066)
+Channel: Call team channels (ID: 1279807365042147432)
+Channel Topic: None
+Exported At: 2024-10-28T20:16:17.305868+00:00
+
+
+--- Message ---
+Message ID: 1279807365042147432
+Message Type: Default
+Reply to: None
+Timestamp: 2024-09-01T14:17:33.497+00:00
+Author: Deleted User (Deleted User)
+Author Id: 456226577798135808
+Avatar URL: assets\3-FB033.png
+Content: Hi. I have been a member of the call team for a number of weeks and have been making calls successfully. I did my shadow call shift and submitted my debrief form. I do not have access to any of the call team channels including the resource channel, the question channel and the main channel where announcements are made. I plan to continue making calls and would like to have access to these helpful resources. I am committed to being part of the call team and am respectful of all guidelines. If I have used a channel incorrectly, please let me know and I will abide by all additional information I receive. I am doing my best to be a good member of the call team and am unaware of any reason I should not have access to these channels, but if I have misunderstood how they are used please inform me and I will comply with any additional information you provide me with in response to this post. I reviewed a lot of information about how to use discord, the virtual office and its many channels and may have misinterpreted some of the information.
+--------------------
+
+--- Message ---
+Message ID: 1279807561121665106
+Message Type: Default
+Reply to: None
+Timestamp: 2024-09-01T14:18:20.246+00:00
+Author: Ophelia W • Lead Mod (opheliawild)
+Author Id: 957714233217409174
+Avatar URL: assets\8b706a86e5f9b8dcaaa950a7500b77b8-E1341.png
+Content: <@&1242252399284977714>
+--------------------
+
+--- Message ---
+Message ID: 1279807988563185695
+Message Type: Reply
+Reply to: 1279807365042147432
+Timestamp: 2024-09-01T14:20:02.156+00:00
+Author: Ophelia W • Lead Mod (opheliawild)
+Author Id: 957714233217409174
+Avatar URL: assets\8b706a86e5f9b8dcaaa950a7500b77b8-E1341.png
+Content: Hi Amy! I've tagged all call mods here so hopefully someone can help you with this. Also, be sure you click on "Team Harris-Walz Virtual Server" in top left sidebar and make sure "Show all Channels" is selected. Sometimes discord likes to glitch and turn that off even after we've selected it, so check first anytime channels disappear/aren't showing up for you!
+--------------------
+
+--- Message ---
+Message ID: 1279808145354522645
+Message Type: Default
+Reply to: None
+Timestamp: 2024-09-01T14:20:39.538+00:00
+Author: Deleted User (Deleted User)
+Author Id: 456226577798135808
+Avatar URL: assets\3-FB033.png
+Content: They are showing up. They have been locked.
+--------------------
+
+--- Message ---
+Message ID: 1279808250308726876
+Message Type: Reply
+Reply to: 1279808145354522645
+Timestamp: 2024-09-01T14:21:04.561+00:00
+Author: Ophelia W • Lead Mod (opheliawild)
+Author Id: 957714233217409174
+Avatar URL: assets\8b706a86e5f9b8dcaaa950a7500b77b8-E1341.png
+Content: In that case, a call mod should be able to come along and help you here soon.
+--------------------
+
+--- Message ---
+Message ID: 1279808372706639994
+Message Type: Default
+Reply to: None
+Timestamp: 2024-09-01T14:21:33.743+00:00
+Author: Deleted User (Deleted User)
+Author Id: 456226577798135808
+Avatar URL: assets\3-FB033.png
+Content: Thank you. I really appreciate your help.
+--------------------
+
+--- Message ---
+Message ID: 1279808388578152559
+Message Type: Default
+Reply to: None
+Timestamp: 2024-09-01T14:21:37.527+00:00
+Author: AndreaV, KY Call Mod (andrearogersvalen)
+Author Id: 965992907981074443
+Avatar URL: assets\72d82e393a66b89996d99840a07990ec-C9EFF.png
+Content: <@456226577798135808> Are you looking for VOTE Team access?
+--------------------
+
+--- Message ---
+Message ID: 1279808499785662485
+Message Type: Default
+Reply to: None
+Timestamp: 2024-09-01T14:22:04.041+00:00
+Author: Deleted User (Deleted User)
+Author Id: 456226577798135808
+Avatar URL: assets\3-FB033.png
+Content: I need access to the call team channels.
+--------------------
+
+--- Message ---
+Message ID: 1279808676626173993
+Message Type: Default
+Reply to: None
+Timestamp: 2024-09-01T14:22:46.203+00:00
+Author: Deleted User (Deleted User)
+Author Id: 456226577798135808
+Avatar URL: assets\3-FB033.png
+Content: I did have access to at least one of them yesterday.
+--------------------
+
+--- Message ---
+Message ID: 1279809613943930973
+Message Type: Default
+Reply to: None
+Timestamp: 2024-09-01T14:26:29.677+00:00
+Author: AndreaV, KY Call Mod (andrearogersvalen)
+Author Id: 965992907981074443
+Avatar URL: assets\72d82e393a66b89996d99840a07990ec-C9EFF.png
+Content: I see that you posted to <#1242256751445934262> this morning. Can you not see that channel any longer?
+--------------------
+
+--- Message ---
+Message ID: 1279810293832089631
+Message Type: Default
+Reply to: None
+Timestamp: 2024-09-01T14:29:11.775+00:00
+Author: Deleted User (Deleted User)
+Author Id: 456226577798135808
+Avatar URL: assets\3-FB033.png
+Content: I can see the channel but I do not have access to see the resource channel and ask questions. My calls team channels have been locked. I can no longer post to any of them.
+--------------------
+
+--- Message ---
+Message ID: 1279810754538639420
+Message Type: Default
+Reply to: None
+Timestamp: 2024-09-01T14:31:01.616+00:00
+Author: Deleted User (Deleted User)
+Author Id: 456226577798135808
+Avatar URL: assets\3-FB033.png
+Content: They have a lock symbol next to them.
+--------------------
+
+--- Message ---
+Message ID: 1279810923850240114
+Message Type: Default
+Reply to: None
+Timestamp: 2024-09-01T14:31:41.983+00:00
+Author: AndreaV, KY Call Mod (andrearogersvalen)
+Author Id: 965992907981074443
+Avatar URL: assets\72d82e393a66b89996d99840a07990ec-C9EFF.png
+Content: <@456226577798135808>  Like this?
+--------------------
+
+--- Message ---
+Message ID: 1279811701876985907
+Message Type: Default
+Reply to: None
+Timestamp: 2024-09-01T14:34:47.479+00:00
+Author: AndreaV, KY Call Mod (andrearogersvalen)
+Author Id: 965992907981074443
+Avatar URL: assets\72d82e393a66b89996d99840a07990ec-C9EFF.png
+Content: I also see that you did your shadow shift as a Data Captain. Did you do your debrief form for that?
+--------------------
+
+--- Message ---
+Message ID: 1279812014973390859
+Message Type: Default
+Reply to: None
+Timestamp: 2024-09-01T14:36:02.127+00:00
+Author: Deleted User (Deleted User)
+Author Id: 456226577798135808
+Avatar URL: assets\3-FB033.png
+Content: I did it for a Chat Captain. I did do my debrief form and I submitted it.
+--------------------
+
+--- Message ---
+Message ID: 1279812109613662310
+Message Type: Reply
+Reply to: 1279812014973390859
+Timestamp: 2024-09-01T14:36:24.691+00:00
+Author: AndreaV, KY Call Mod (andrearogersvalen)
+Author Id: 965992907981074443
+Avatar URL: assets\72d82e393a66b89996d99840a07990ec-C9EFF.png
+Content: Yes, I meant Chat. Sorry.
+--------------------
+
+--- Message ---
+Message ID: 1279812192782520330
+Message Type: Default
+Reply to: None
+Timestamp: 2024-09-01T14:36:44.52+00:00
+Author: AndreaV, KY Call Mod (andrearogersvalen)
+Author Id: 965992907981074443
+Avatar URL: assets\72d82e393a66b89996d99840a07990ec-C9EFF.png
+Content: So then you'll need both the Calls Team and the VOTE Team
+--------------------
+
+--- Message ---
+Message ID: 1279812240790388799
+Message Type: Default
+Reply to: None
+Timestamp: 2024-09-01T14:36:55.966+00:00
+Author: Deleted User (Deleted User)
+Author Id: 456226577798135808
+Avatar URL: assets\3-FB033.png
+Content: No problem. I really appreciate your help!
+--------------------
+
+--- Message ---
+Message ID: 1279812267377954876
+Message Type: Default
+Reply to: None
+Timestamp: 2024-09-01T14:37:02.305+00:00
+Author: Deleted User (Deleted User)
+Author Id: 456226577798135808
+Avatar URL: assets\3-FB033.png
+Content: Yes.
+--------------------
+
+--- Message ---
+Message ID: 1279812342691135604
+Message Type: Default
+Reply to: None
+Timestamp: 2024-09-01T14:37:20.261+00:00
+Author: AndreaV, KY Call Mod (andrearogersvalen)
+Author Id: 965992907981074443
+Avatar URL: assets\72d82e393a66b89996d99840a07990ec-C9EFF.png
+Content: <@1257469301435400238> or <@1263159708466811000> Can you give <@456226577798135808> access to the Calls and Vote categories?
+--------------------
+
+--- Message ---
+Message ID: 1279812428019929193
+Message Type: Default
+Reply to: None
+Timestamp: 2024-09-01T14:37:40.605+00:00
+Author: Deleted User (Deleted User)
+Author Id: 456226577798135808
+Avatar URL: assets\3-FB033.png
+Content: I have no access to them.
+--------------------
+
+--- Message ---
+Message ID: 1279813006355599441
+Message Type: Default
+Reply to: None
+Timestamp: 2024-09-01T14:39:58.491+00:00
+Author: Deleted User (Deleted User)
+Author Id: 456226577798135808
+Avatar URL: assets\3-FB033.png
+Content: Thank you for contacting Frances Haydock and Eva Kwiatkowski. I have no way to access them.
+--------------------
+
+--- Message ---
+Message ID: 1279813132100833302
+Message Type: Default
+Reply to: None
+Timestamp: 2024-09-01T14:40:28.471+00:00
+Author: Deleted User (Deleted User)
+Author Id: 456226577798135808
+Avatar URL: assets\3-FB033.png
+Content: I did DM Frances Haydock but I have not heard back.
+--------------------
+
+--- Message ---
+Message ID: 1279813281913114686
+Message Type: Default
+Reply to: None
+Timestamp: 2024-09-01T14:41:04.189+00:00
+Author: AndreaV, KY Call Mod (andrearogersvalen)
+Author Id: 965992907981074443
+Avatar URL: assets\72d82e393a66b89996d99840a07990ec-C9EFF.png
+Content: We just need to give them some time to see this post.
+--------------------
+
+--- Message ---
+Message ID: 1279813602001420358
+Message Type: Default
+Reply to: None
+Timestamp: 2024-09-01T14:42:20.504+00:00
+Author: AndreaV, KY Call Mod (andrearogersvalen)
+Author Id: 965992907981074443
+Avatar URL: assets\72d82e393a66b89996d99840a07990ec-C9EFF.png
+Content: <@1271505055589339207> - Can you give <@456226577798135808> access to Calls and Vote categories?
+--------------------
+
+--- Message ---
+Message ID: 1279814072279371808
+Message Type: Default
+Reply to: None
+Timestamp: 2024-09-01T14:44:12.627+00:00
+Author: Deleted User (Deleted User)
+Author Id: 456226577798135808
+Avatar URL: assets\3-FB033.png
+Content: Thank you so much. I really appreciate the time and effort you took to help me.
+--------------------
+
+--- Message ---
+Message ID: 1279823772853080217
+Message Type: Default
+Reply to: None
+Timestamp: 2024-09-01T15:22:45.424+00:00
+Author: Frances Haydock (HFP HQ!) (franceshaydock_20619)
+Author Id: 1257469301435400238
+Avatar URL: assets\8286d5b1308e7b3d80a3523e4ec50548-C029D.png
+Content: I just added you to the vote team channels!
+--------------------
+
+--- Message ---
+Message ID: 1279824924965605438
+Message Type: Default
+Reply to: None
+Timestamp: 2024-09-01T15:27:20.109+00:00
+Author: AnnapolisLyn [Call MOD] (lynfarrow)
+Author Id: 1273024393932574734
+Avatar URL: assets\ee1f838c4f1b6fc37ee52bef5abcace5-B2D34.png
+Content: <@1257469301435400238> <@1271505055589339207> <@965992907981074443> I have the lock symbol next to those channels as well.  Is it that the DNC is now moderating them?
+--------------------
+
+--- Message ---
+Message ID: 1279825290175975536
+Message Type: Default
+Reply to: None
+Timestamp: 2024-09-01T15:28:47.182+00:00
+Author: AndreaV, KY Call Mod (andrearogersvalen)
+Author Id: 965992907981074443
+Avatar URL: assets\72d82e393a66b89996d99840a07990ec-C9EFF.png
+Content: Not to my knowledge. I know that staff always had to add folks to the Vote team channels.
+--------------------
+
+--- Message ---
+Message ID: 1279826214957092874
+Message Type: Default
+Reply to: None
+Timestamp: 2024-09-01T15:32:27.667+00:00
+Author: Frances Haydock (HFP HQ!) (franceshaydock_20619)
+Author Id: 1257469301435400238
+Avatar URL: assets\8286d5b1308e7b3d80a3523e4ec50548-C029D.png
+Content: no--the lock symbol is standard symbol which means a channel is private (i.e. only open to a certain role)
+--------------------
+
+--- Message ---
+Message ID: 1279826297446465656
+Message Type: Default
+Reply to: None
+Timestamp: 2024-09-01T15:32:47.334+00:00
+Author: Frances Haydock (HFP HQ!) (franceshaydock_20619)
+Author Id: 1257469301435400238
+Avatar URL: assets\8286d5b1308e7b3d80a3523e4ec50548-C029D.png
+Content: so the locks on calls team are because calls team channels are private to only those with that role
+--------------------
+
+--- Message ---
+Message ID: 1279826444490641418
+Message Type: Default
+Reply to: None
+Timestamp: 2024-09-01T15:33:22.392+00:00
+Author: AnnapolisLyn [Call MOD] (lynfarrow)
+Author Id: 1273024393932574734
+Avatar URL: assets\ee1f838c4f1b6fc37ee52bef5abcace5-B2D34.png
+Content: Got it! Thanks.
+--------------------
+
+--- Message ---
+Message ID: 1279833689836228668
+Message Type: Default
+Reply to: None
+Timestamp: 2024-09-01T16:02:09.817+00:00
+Author: Deleted User (Deleted User)
+Author Id: 456226577798135808
+Avatar URL: assets\3-FB033.png
+Content: I am a part of a member of the calls team and need access to the resources channel as well as the other channels. Also I now have the Vote Team channels locked although Frances you just said you gave me access. Thank you for continuing to help me.
+--------------------
+
+--- Message ---
+Message ID: 1279833915594375218
+Message Type: Default
+Reply to: None
+Timestamp: 2024-09-01T16:03:03.642+00:00
+Author: Jen Medeiros [CA] • [Lead Mod] (starkittynmom)
+Author Id: 1276944250491113656
+Avatar URL: assets\a_2aba4b7f19fcab5fe5391fcdb73d735d-D670A.gif
+Content: <@456226577798135808> did you close out the app on your phone (shut it down completely, not just close it) and open it back up?
+--------------------
+
+--- Message ---
+Message ID: 1279833992891334787
+Message Type: Default
+Reply to: None
+Timestamp: 2024-09-01T16:03:22.071+00:00
+Author: Deleted User (Deleted User)
+Author Id: 456226577798135808
+Avatar URL: assets\3-FB033.png
+Content: Ok I will try
+--------------------
+
+--- Message ---
+Message ID: 1279834561915650134
+Message Type: Default
+Reply to: None
+Timestamp: 2024-09-01T16:05:37.737+00:00
+Author: Deleted User (Deleted User)
+Author Id: 456226577798135808
+Avatar URL: assets\3-FB033.png
+Content: Can you walk me through how to do that. I am making calls at 1:00 pm so I will do it after my call session. Can you DM me how to do that? I would really appreciate your help.
+--------------------
+
+--- Message ---
+Message ID: 1279835026032169070
+Message Type: Default
+Reply to: None
+Timestamp: 2024-09-01T16:07:28.391+00:00
+Author: Jen Medeiros [CA] • [Lead Mod] (starkittynmom)
+Author Id: 1276944250491113656
+Avatar URL: assets\a_2aba4b7f19fcab5fe5391fcdb73d735d-D670A.gif
+Content: Sure- Let's move back to DMs
+--------------------
+
+--- Message ---
+Message ID: 1279835164158984212
+Message Type: Default
+Reply to: None
+Timestamp: 2024-09-01T16:08:01.323+00:00
+Author: Deleted User (Deleted User)
+Author Id: 456226577798135808
+Avatar URL: assets\3-FB033.png
+Content: Thank you so much. I really appreciate how much you have helped me.
+--------------------
+
+--- Message ---
+Message ID: 1279836031436329153
+Message Type: Default
+Reply to: None
+Timestamp: 2024-09-01T16:11:28.098+00:00
+Author: Jen Medeiros [CA] • [Lead Mod] (starkittynmom)
+Author Id: 1276944250491113656
+Avatar URL: assets\a_2aba4b7f19fcab5fe5391fcdb73d735d-D670A.gif
+Content: Of course! I'm sorry it's been frustrating. It's nice to have this technology to allow us to connect and have a broader impact, but it is definitely not perfect and can get pretty frustrating. Thanks for sticking with it.
+--------------------
+
+--- Message ---
+Message ID: 1279843326606180506
+Message Type: Default
+Reply to: None
+Timestamp: 2024-09-01T16:40:27.402+00:00
+Author: Deleted User (Deleted User)
+Author Id: 456226577798135808
+Avatar URL: assets\3-FB033.png
+Content: I will stick with it! I really appreciate your help. I just sent you a DM. I really like making calls and want to take on a bigger role.
+--------------------

@@ -1,0 +1,49 @@
+Guild: Team Harris-Walz Virtual Office (ID: 1242249109298221066)
+Channel: Where are my points? (ID: 1278458359443492986)
+Channel Topic: None
+Exported At: 2024-10-24T06:51:58.9874381+00:00
+
+
+--- Message ---
+Message ID: 1278458359443492986
+Message Type: Default
+Reply to: None
+Timestamp: 2024-08-28T20:57:05.499+00:00
+Author: MrJimBe (OK) (mrjimbe)
+Author Id: 1225905054616387614
+Avatar URL: assets\9d3a27cb811f11962ce2d6162970f6c1-1479F.png
+Content: First timer here… I shared one of the action cards today on Facebook and Threads after the engagement training part 1 session so, two shares. Supposed to get 25 points per share so I should have 50 points, but I have 0. It’s not like I need those points to pay the rent but I’d like the credit due. So, any idea if I did it wrong?
+--------------------
+
+--- Message ---
+Message ID: 1278464261714083941
+Message Type: Default
+Reply to: None
+Timestamp: 2024-08-28T21:20:32.71+00:00
+Author: Jeannine M • Lead Mod (jean9_28218_79932)
+Author Id: 1266879741785538682
+Avatar URL: assets\54ff5e8dfab835d878a961f9f7b7d161-6C0EE.png
+Content: Hmm, good question! Could you ask the in the <#1250550849998946417> channel? A moderator or lead there might be able to better help!
+--------------------
+
+--- Message ---
+Message ID: 1278467138776076378
+Message Type: Reply
+Reply to: 1278464261714083941
+Timestamp: 2024-08-28T21:31:58.655+00:00
+Author: MrJimBe (OK) (mrjimbe)
+Author Id: 1225905054616387614
+Avatar URL: assets\9d3a27cb811f11962ce2d6162970f6c1-1479F.png
+Content: Will do, thanks
+--------------------
+
+--- Message ---
+Message ID: 1278468555154915369
+Message Type: Reply
+Reply to: 1278467138776076378
+Timestamp: 2024-08-28T21:37:36.346+00:00
+Author: Jeannine M • Lead Mod (jean9_28218_79932)
+Author Id: 1266879741785538682
+Avatar URL: assets\54ff5e8dfab835d878a961f9f7b7d161-6C0EE.png
+Content: Thanks for being here!
+--------------------

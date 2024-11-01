@@ -1,0 +1,93 @@
+Guild: Team Harris-Walz Virtual Office (ID: 1242249109298221066)
+Channel: Hello. I was contacted by Fiona Campbell (ID: 1298820654849720330)
+Channel Topic: None
+Exported At: 2024-10-28T22:12:20.5375374+00:00
+
+
+--- Message ---
+Message ID: 1298829753981337600
+Message Type: 21
+Reply to: 1298820654849720330
+Timestamp: 2024-10-24T02:05:44.439+00:00
+Author: Roberta Bavin CA KC Greeter/Mod (roberta_24935)
+Author Id: 1269872908759597148
+Avatar URL: assets\df6d19d97b04a49ffcafbe7be14c7839-D9CE4.png
+Content: 
+--------------------
+
+--- Message ---
+Message ID: 1298829756963225722
+Message Type: Default
+Reply to: None
+Timestamp: 2024-10-24T02:05:45.15+00:00
+Author: Roberta Bavin CA KC Greeter/Mod (roberta_24935)
+Author Id: 1269872908759597148
+Avatar URL: assets\df6d19d97b04a49ffcafbe7be14c7839-D9CE4.png
+Content: <@1290405812287832074>
+--------------------
+
+--- Message ---
+Message ID: 1299822818246135818
+Message Type: Default
+Reply to: None
+Timestamp: 2024-10-26T19:51:49.41+00:00
+Author: Fiona Campbell [HQ Staff] (fionacampbell_80825)
+Author Id: 1290405812287832074
+Avatar URL: assets\d3cb9f78f920bcc49a5d563b903b3668-90234.png
+Content: Hi <@1277411623342051338> I believe you attended one of our trainings and I'm so glad you were able to join Discord! Did you receive a direct message on Discord with information on next steps? Or have you taken our text team quiz yet?
+--------------------
+
+--- Message ---
+Message ID: 1299823090217259090
+Message Type: Default
+Reply to: None
+Timestamp: 2024-10-26T19:52:54.253+00:00
+Author: Precious Goodson (dr.pgoodson_10512)
+Author Id: 1277411623342051338
+Avatar URL: assets\6c5996770c985bcd6e5b68131ff2ba04-1FEA0.png
+Content: Hi @Fiona. I took the quiz when I attended the training. But I have not heard back with next steps.
+--------------------
+
+--- Message ---
+Message ID: 1299826473292529784
+Message Type: Reply
+Reply to: 1299823090217259090
+Timestamp: 2024-10-26T20:06:20.841+00:00
+Author: Roberta Bavin CA KC Greeter/Mod (roberta_24935)
+Author Id: 1269872908759597148
+Avatar URL: assets\df6d19d97b04a49ffcafbe7be14c7839-D9CE4.png
+Content: Please check your DM for a message sent late September with the steps for onboarding. Thanks for following up!
+--------------------
+
+--- Message ---
+Message ID: 1299834138903449663
+Message Type: Default
+Reply to: None
+Timestamp: 2024-10-26T20:36:48.465+00:00
+Author: Precious Goodson (dr.pgoodson_10512)
+Author Id: 1277411623342051338
+Avatar URL: assets\6c5996770c985bcd6e5b68131ff2ba04-1FEA0.png
+Content: Not sure how to get there
+--------------------
+
+--- Message ---
+Message ID: 1299834193911611424
+Message Type: Default
+Reply to: None
+Timestamp: 2024-10-26T20:37:01.58+00:00
+Author: Precious Goodson (dr.pgoodson_10512)
+Author Id: 1277411623342051338
+Avatar URL: assets\6c5996770c985bcd6e5b68131ff2ba04-1FEA0.png
+Content: I cannot find the DM
+--------------------
+
+--- Message ---
+Message ID: 1299834278347276421
+Message Type: Reply
+Reply to: 1299834138903449663
+Timestamp: 2024-10-26T20:37:21.711+00:00
+Author: Roberta Bavin CA KC Greeter/Mod (roberta_24935)
+Author Id: 1269872908759597148
+Avatar URL: assets\df6d19d97b04a49ffcafbe7be14c7839-D9CE4.png
+Content: Upper left hand corner of Discord at the game controller icon. I'll send you another DM in a few minutes.!
+--------------------

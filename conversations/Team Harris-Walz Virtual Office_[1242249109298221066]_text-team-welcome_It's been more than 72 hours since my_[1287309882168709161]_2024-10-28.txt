@@ -1,0 +1,27 @@
+Guild: Team Harris-Walz Virtual Office (ID: 1242249109298221066)
+Channel: It's been more than 72 hours since my (ID: 1287309882168709161)
+Channel Topic: None
+Exported At: 2024-10-28T23:08:30.1965876+00:00
+
+
+--- Message ---
+Message ID: 1287441402879545385
+Message Type: 21
+Reply to: 1287309882168709161
+Timestamp: 2024-09-22T15:52:29.951+00:00
+Author: Roberta Bavin CA KC Greeter/Mod (roberta_24935)
+Author Id: 1269872908759597148
+Avatar URL: assets\df6d19d97b04a49ffcafbe7be14c7839-D9CE4.png
+Content: 
+--------------------
+
+--- Message ---
+Message ID: 1287441404821508238
+Message Type: Default
+Reply to: None
+Timestamp: 2024-09-22T15:52:30.414+00:00
+Author: Roberta Bavin CA KC Greeter/Mod (roberta_24935)
+Author Id: 1269872908759597148
+Avatar URL: assets\df6d19d97b04a49ffcafbe7be14c7839-D9CE4.png
+Content: Hi JoAnn-Please look for a DM from me. Thanks for being here!
+--------------------

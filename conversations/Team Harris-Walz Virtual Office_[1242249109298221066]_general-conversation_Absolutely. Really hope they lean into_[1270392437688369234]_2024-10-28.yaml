@@ -1,0 +1,38 @@
+- author_avatar_url: assets\a9fc9fbd48b893a8bf777da59a460813-9D27B.png
+  author_id: '1264664181697675285'
+  author_name: lefty_lucy_60633
+  author_nickname: Kathryn Jean [MA]
+  content: ''
+  id: '1270394757260116019'
+  ref_to: '1270392437688369234'
+  timestamp: '2024-08-06T14:55:12.924+00:00'
+  type: '21'
+- author_avatar_url: assets\a9fc9fbd48b893a8bf777da59a460813-9D27B.png
+  author_id: '1264664181697675285'
+  author_name: lefty_lucy_60633
+  author_nickname: Kathryn Jean [MA]
+  content: Sounds like he's really "walking the talk." Incredibly motivating!
+  id: '1270394758526668820'
+  ref_to: null
+  timestamp: '2024-08-06T14:55:13.226+00:00'
+  type: Default
+- author_avatar_url: assets\a9fc9fbd48b893a8bf777da59a460813-9D27B.png
+  author_id: '1264664181697675285'
+  author_name: lefty_lucy_60633
+  author_nickname: Kathryn Jean [MA]
+  content: '<@385525795373842436> **KamalaHQ** just posted a new Tweet!
+
+    <https://twitter.com/KamalaHQ/status/1820865863517376542>'
+  id: '1270427113463480410'
+  ref_to: '1270394758526668820'
+  timestamp: '2024-08-06T17:03:47.244+00:00'
+  type: Reply
+- author_avatar_url: assets\bf2c6b374bc6e52f225742352c2d57e6-821CB.png
+  author_id: '385525795373842436'
+  author_name: pokewilly
+  author_nickname: PokeWilly
+  content: Amazing!!
+  id: '1270427198758715422'
+  ref_to: '1270427113463480410'
+  timestamp: '2024-08-06T17:04:07.58+00:00'
+  type: Reply

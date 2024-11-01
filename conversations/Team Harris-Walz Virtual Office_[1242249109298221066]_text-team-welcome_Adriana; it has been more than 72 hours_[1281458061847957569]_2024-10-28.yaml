@@ -1,0 +1,28 @@
+- author_avatar_url: assets\791c521e62160be1f3df04992f6e5470-36A38.png
+  author_id: '477560366432256000'
+  author_name: jjoannid
+  author_nickname: Jack Joannides KC text admin
+  content: ''
+  id: '1281460535111450664'
+  ref_to: '1281458061847957569'
+  timestamp: '2024-09-06T03:46:39.956+00:00'
+  type: '21'
+- author_avatar_url: assets\791c521e62160be1f3df04992f6e5470-36A38.png
+  author_id: '477560366432256000'
+  author_name: jjoannid
+  author_nickname: Jack Joannides KC text admin
+  content: You should of gotten a direct message from Roberta. Please check direct
+    messages.
+  id: '1281460536965464064'
+  ref_to: null
+  timestamp: '2024-09-06T03:46:40.398+00:00'
+  type: Default
+- author_avatar_url: assets\df6d19d97b04a49ffcafbe7be14c7839-D9CE4.png
+  author_id: '1269872908759597148'
+  author_name: roberta_24935
+  author_nickname: Roberta Bavin CA KC Greeter/Mod
+  content: Messages sent 9/2. Thanks!
+  id: '1281465207524429869'
+  ref_to: '1281460536965464064'
+  timestamp: '2024-09-06T04:05:13.946+00:00'
+  type: Reply

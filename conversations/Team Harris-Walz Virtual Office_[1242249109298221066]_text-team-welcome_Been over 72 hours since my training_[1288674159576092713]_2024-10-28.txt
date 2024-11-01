@@ -1,0 +1,60 @@
+Guild: Team Harris-Walz Virtual Office (ID: 1242249109298221066)
+Channel: Been over 72 hours since my training (ID: 1288674159576092713)
+Channel Topic: None
+Exported At: 2024-10-28T23:02:23.2354077+00:00
+
+
+--- Message ---
+Message ID: 1288677253483462719
+Message Type: 21
+Reply to: 1288674159576092713
+Timestamp: 2024-09-26T01:43:19.696+00:00
+Author: Nicole Morris - Text Admin (nmorris237)
+Author Id: 935762347753103382
+Avatar URL: assets\27b1e286b65ae02b3378793b5f098411-A7B20.png
+Content: 
+--------------------
+
+--- Message ---
+Message ID: 1288677276011204649
+Message Type: Default
+Reply to: None
+Timestamp: 2024-09-26T01:43:25.067+00:00
+Author: Nicole Morris - Text Admin (nmorris237)
+Author Id: 935762347753103382
+Avatar URL: assets\27b1e286b65ae02b3378793b5f098411-A7B20.png
+Content: Hi <@911443457896251393> Thanks! It looks like Roberta sent you a Direct Message in Discord -- let us know if you don't see it.
+--------------------
+
+--- Message ---
+Message ID: 1288678127878275126
+Message Type: Default
+Reply to: None
+Timestamp: 2024-09-26T01:46:48.168+00:00
+Author: Flynn McGinnis [CT] (flynn_mcg)
+Author Id: 911443457896251393
+Avatar URL: assets\2335621e65424a990761fdfa7144736e-770F8.png
+Content: Found it, didn’t notice my message request folder
+--------------------
+
+--- Message ---
+Message ID: 1288678134119530496
+Message Type: Default
+Reply to: None
+Timestamp: 2024-09-26T01:46:49.656+00:00
+Author: Flynn McGinnis [CT] (flynn_mcg)
+Author Id: 911443457896251393
+Avatar URL: assets\2335621e65424a990761fdfa7144736e-770F8.png
+Content: All set
+--------------------
+
+--- Message ---
+Message ID: 1288678728582303815
+Message Type: Default
+Reply to: None
+Timestamp: 2024-09-26T01:49:11.387+00:00
+Author: Nicole Morris - Text Admin (nmorris237)
+Author Id: 935762347753103382
+Avatar URL: assets\27b1e286b65ae02b3378793b5f098411-A7B20.png
+Content: No worries! Thanks!
+--------------------

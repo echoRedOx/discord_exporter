@@ -1,0 +1,93 @@
+Guild: Team Harris-Walz Virtual Office (ID: 1242249109298221066)
+Channel: Voters with disability access needs (ID: 1300153413472096427)
+Channel Topic: None
+Exported At: 2024-10-28T20:40:54.4620783+00:00
+
+
+--- Message ---
+Message ID: 1300153413472096427
+Message Type: Default
+Reply to: None
+Timestamp: 2024-10-27T17:45:29.454+00:00
+Author: Kaitlin Sundling (kaitlinsundling)
+Author Id: 714525659304558642
+Avatar URL: assets\7f75e357ec0601dad4ee148e4f48b391-2A317.png
+Content: I had a voter with a learning disability who is not able to read the ballot on their own, and I felt like the iwillvote.com website does not really address this scenario? Am I missing it? Thankfully they were already aware of getting in touch with their municipal clerk's office and could have a friend help them complete their ballot, but please advise how we should handle this and other disability access needs on a call in the future.
+--------------------
+
+--- Message ---
+Message ID: 1300154918866386998
+Message Type: Default
+Reply to: None
+Timestamp: 2024-10-27T17:51:28.368+00:00
+Author: Jack Ferreira (KC) (jackferreira.246012)
+Author Id: 1276396030375624789
+Avatar URL: assets\cd48a61b3416a1c6fe47335cfcfc484e-EE993.png
+Content: Hi Kaitlin, thanks for all your hard work.  Please direct all voter questions and concerns to our voter assistance hotline at https://iwillvote.com/
+--------------------
+
+--- Message ---
+Message ID: 1300155841097498755
+Message Type: Default
+Reply to: None
+Timestamp: 2024-10-27T17:55:08.245+00:00
+Author: Kaitlin Sundling (kaitlinsundling)
+Author Id: 714525659304558642
+Avatar URL: assets\7f75e357ec0601dad4ee148e4f48b391-2A317.png
+Content: Thank you.
+--------------------
+
+--- Message ---
+Message ID: 1300156337438593074
+Message Type: Reply
+Reply to: 1300155841097498755
+Timestamp: 2024-10-27T17:57:06.582+00:00
+Author: Jared R [CO] • Lead Mod (kyaizen)
+Author Id: 112080668296564736
+Avatar URL: assets\a_de0e3d4a3f9b486ad3ad6df0d72323da-D0252.gif
+Content: To add on to your question, you can also give the voter assistance hotline number to them if they have issues navigating websites. You had the right instinct about their local clerk's office but anything you're not able to speak to iwillvote.com & the hotline are the resources that will best assist them!
+--------------------
+
+--- Message ---
+Message ID: 1300160334299922463
+Message Type: Reply
+Reply to: 1300156337438593074
+Timestamp: 2024-10-27T18:12:59.508+00:00
+Author: Kaitlin Sundling (kaitlinsundling)
+Author Id: 714525659304558642
+Avatar URL: assets\7f75e357ec0601dad4ee148e4f48b391-2A317.png
+Content: Thanks. I did refer them to the iwillvote.com website as well but I didn’t feel confident that their question would be answered. It would be nice if the website mentioned anything about disability access (even just a mention and note to call the hotline). Many disabled people feel like they are on their own and don’t know that they have options. Good to know the hotline will be prepared.
+--------------------
+
+--- Message ---
+Message ID: 1300160720461107210
+Message Type: Reply
+Reply to: 1300160334299922463
+Timestamp: 2024-10-27T18:14:31.576+00:00
+Author: Jared R [CO] • Lead Mod (kyaizen)
+Author Id: 112080668296564736
+Avatar URL: assets\a_de0e3d4a3f9b486ad3ad6df0d72323da-D0252.gif
+Content: Ah yes I agree with you there. Thanks for following up and thanks for calling with us 😄
+--------------------
+
+--- Message ---
+Message ID: 1300162073392840804
+Message Type: Default
+Reply to: None
+Timestamp: 2024-10-27T18:19:54.14+00:00
+Author: Jack Ferreira (KC) (jackferreira.246012)
+Author Id: 1276396030375624789
+Avatar URL: assets\cd48a61b3416a1c6fe47335cfcfc484e-EE993.png
+Content: Forgot to post the number, my bad!
+--------------------
+
+--- Message ---
+Message ID: 1300227073406664724
+Message Type: Default
+Reply to: None
+Timestamp: 2024-10-27T22:38:11.351+00:00
+Author: Julia Cooper (she/her) (avgeek1261)
+Author Id: 754862671379169372
+Avatar URL: assets\419ba94daef5980261e5058b8b555739-A3459.png
+Content: I have a learning disability too! Just wanted to say that
+--------------------

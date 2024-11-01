@@ -1,0 +1,58 @@
+- author_avatar_url: assets\df6d19d97b04a49ffcafbe7be14c7839-D9CE4.png
+  author_id: '1269872908759597148'
+  author_name: roberta_24935
+  author_nickname: Roberta Bavin CA KC Greeter/Mod
+  content: ''
+  id: '1294837020748939334'
+  ref_to: '1294836355905617920'
+  timestamp: '2024-10-13T01:40:02.655+00:00'
+  type: '21'
+- author_avatar_url: assets\df6d19d97b04a49ffcafbe7be14c7839-D9CE4.png
+  author_id: '1269872908759597148'
+  author_name: roberta_24935
+  author_nickname: Roberta Bavin CA KC Greeter/Mod
+  content: Hi Adam! Thanks for reaching out! We recommend computers or full size tablets
+    for texting anything smaller and you won't be able to access or see the tags and/or
+    some replies. Have you taken a text training yet?
+  id: '1294837024456708126'
+  ref_to: null
+  timestamp: '2024-10-13T01:40:03.539+00:00'
+  type: Default
+- author_avatar_url: assets\db5550096f3637a7034af4a8877de11d-3B4FC.png
+  author_id: '688839107715137570'
+  author_name: flame3506
+  author_nickname: Adam Jenca (IL)
+  content: I watched the zoom session on Thursday
+  id: '1294848331075289089'
+  ref_to: '1294837024456708126'
+  timestamp: '2024-10-13T02:24:59.247+00:00'
+  type: Reply
+- author_avatar_url: assets\db5550096f3637a7034af4a8877de11d-3B4FC.png
+  author_id: '688839107715137570'
+  author_name: flame3506
+  author_nickname: Adam Jenca (IL)
+  content: Is there a specific app on the app store, or it a website accessible by
+    browser?
+  id: '1294848391259619410'
+  ref_to: null
+  timestamp: '2024-10-13T02:25:13.596+00:00'
+  type: Default
+- author_avatar_url: assets\df6d19d97b04a49ffcafbe7be14c7839-D9CE4.png
+  author_id: '1269872908759597148'
+  author_name: roberta_24935
+  author_nickname: Roberta Bavin CA KC Greeter/Mod
+  content: Usually most people download Discord App onto computer and use webpage
+    for STW. Does that make sense?
+  id: '1294848679286673508'
+  ref_to: null
+  timestamp: '2024-10-13T02:26:22.267+00:00'
+  type: Default
+- author_avatar_url: assets\db5550096f3637a7034af4a8877de11d-3B4FC.png
+  author_id: '688839107715137570'
+  author_name: flame3506
+  author_nickname: Adam Jenca (IL)
+  content: Yeah. Sorry I didn't see this until now
+  id: '1295271256999854121'
+  ref_to: '1294848679286673508'
+  timestamp: '2024-10-14T06:25:32.645+00:00'
+  type: Reply

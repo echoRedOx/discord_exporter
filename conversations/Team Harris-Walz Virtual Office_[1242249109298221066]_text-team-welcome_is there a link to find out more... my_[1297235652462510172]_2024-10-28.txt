@@ -1,0 +1,27 @@
+Guild: Team Harris-Walz Virtual Office (ID: 1242249109298221066)
+Channel: is there a link to find out more... my (ID: 1297235652462510172)
+Channel Topic: None
+Exported At: 2024-10-28T22:31:42.5324647+00:00
+
+
+--- Message ---
+Message ID: 1297252267841421464
+Message Type: 21
+Reply to: 1297235652462510172
+Timestamp: 2024-10-19T17:37:22.435+00:00
+Author: Roberta Bavin CA KC Greeter/Mod (roberta_24935)
+Author Id: 1269872908759597148
+Avatar URL: assets\df6d19d97b04a49ffcafbe7be14c7839-D9CE4.png
+Content: 
+--------------------
+
+--- Message ---
+Message ID: 1297252271553253496
+Message Type: Default
+Reply to: None
+Timestamp: 2024-10-19T17:37:23.32+00:00
+Author: Roberta Bavin CA KC Greeter/Mod (roberta_24935)
+Author Id: 1269872908759597148
+Avatar URL: assets\df6d19d97b04a49ffcafbe7be14c7839-D9CE4.png
+Content: ➡️ Please sign up at https://events.democrats.org/event/672393/ to join us tonight at 6pm ET!
+--------------------

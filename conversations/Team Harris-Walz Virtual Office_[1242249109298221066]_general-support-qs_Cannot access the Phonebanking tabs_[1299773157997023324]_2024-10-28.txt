@@ -1,0 +1,104 @@
+Guild: Team Harris-Walz Virtual Office (ID: 1242249109298221066)
+Channel: Cannot access the Phonebanking tabs (ID: 1299773157997023324)
+Channel Topic: None
+Exported At: 2024-10-28T19:48:44.8148894+00:00
+
+
+--- Message ---
+Message ID: 1299773157997023324
+Message Type: Default
+Reply to: None
+Timestamp: 2024-10-26T16:34:29.484+00:00
+Author: The Lothric Dictator (thelothricdictatoronyt)
+Author Id: 419682190469758987
+Avatar URL: assets\947e3f6ac727a71f1096ec5f185b3777-A9C4B.png
+Content: I forgot to select the option for contacting key states and now I don't have access to the phonebanking tab. The roles tab doesn't have the option to select it when I go into it now
+--------------------
+
+--- Message ---
+Message ID: 1299776582642302976
+Message Type: Default
+Reply to: None
+Timestamp: 2024-10-26T16:48:05.983+00:00
+Author: Midsummer NYC • Lead Mod (midsummernyc)
+Author Id: 288902250955538432
+Avatar URL: assets\4ab0a2262b0338fe668a1314cfc0512b-8638D.png
+Content: Hi <@419682190469758987> can you include a screengrab of what you see when you click or tap on customize please. You should see something like this
+--------------------
+
+--- Message ---
+Message ID: 1299776806374609049
+Message Type: Default
+Reply to: None
+Timestamp: 2024-10-26T16:48:59.325+00:00
+Author: The Lothric Dictator (thelothricdictatoronyt)
+Author Id: 419682190469758987
+Avatar URL: assets\947e3f6ac727a71f1096ec5f185b3777-A9C4B.png
+Content: I only see this, it might be because I've completed it once maybe?
+--------------------
+
+--- Message ---
+Message ID: 1299776965602971649
+Message Type: Default
+Reply to: None
+Timestamp: 2024-10-26T16:49:37.288+00:00
+Author: The Lothric Dictator (thelothricdictatoronyt)
+Author Id: 419682190469758987
+Avatar URL: assets\947e3f6ac727a71f1096ec5f185b3777-A9C4B.png
+Content: I forgot to tap key states and this happened, i do have access to digital correspondence as a tab now, is that what I need for the phonebankinf?
+--------------------
+
+--- Message ---
+Message ID: 1299777006682112021
+Message Type: Default
+Reply to: None
+Timestamp: 2024-10-26T16:49:47.082+00:00
+Author: The Lothric Dictator (thelothricdictatoronyt)
+Author Id: 419682190469758987
+Avatar URL: assets\947e3f6ac727a71f1096ec5f185b3777-A9C4B.png
+Content: 
+--------------------
+
+--- Message ---
+Message ID: 1299781055422926899
+Message Type: Default
+Reply to: None
+Timestamp: 2024-10-26T17:05:52.377+00:00
+Author: Carolyn B [CA] • Lead Mod (carb.on)
+Author Id: 568257600228032512
+Avatar URL: assets\28a90c77b5793d80eb62484a43c66748-D8837.png
+Content: HI <@419682190469758987> Have you made phone calls before? especially phone calls using the Harris-Walz campaign dialer?
+--------------------
+
+--- Message ---
+Message ID: 1299781243193397298
+Message Type: Default
+Reply to: None
+Timestamp: 2024-10-26T17:06:37.145+00:00
+Author: The Lothric Dictator (thelothricdictatoronyt)
+Author Id: 419682190469758987
+Avatar URL: assets\947e3f6ac727a71f1096ec5f185b3777-A9C4B.png
+Content: Not yet but I understand the zoom and I watched the course on it. I just wanted to be apart of the discussion here lol
+--------------------
+
+--- Message ---
+Message ID: 1299781400571940864
+Message Type: Default
+Reply to: None
+Timestamp: 2024-10-26T17:07:14.667+00:00
+Author: The Lothric Dictator (thelothricdictatoronyt)
+Author Id: 419682190469758987
+Avatar URL: assets\947e3f6ac727a71f1096ec5f185b3777-A9C4B.png
+Content: I have everything figured out for the actual calls, I tap the zoom link to my rsvp via email when the time comes right, and I watched the training on the dialer
+--------------------
+
+--- Message ---
+Message ID: 1299783651994632353
+Message Type: Default
+Reply to: None
+Timestamp: 2024-10-26T17:16:11.448+00:00
+Author: Carolyn B [CA] • Lead Mod (carb.on)
+Author Id: 568257600228032512
+Avatar URL: assets\28a90c77b5793d80eb62484a43c66748-D8837.png
+Content: Or you can tap the zoom link in your invite and attend the session that includes training and calling with a group.
+--------------------

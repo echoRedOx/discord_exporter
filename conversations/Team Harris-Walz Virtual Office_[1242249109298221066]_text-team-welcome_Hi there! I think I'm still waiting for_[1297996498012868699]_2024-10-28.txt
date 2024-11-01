@@ -1,0 +1,27 @@
+Guild: Team Harris-Walz Virtual Office (ID: 1242249109298221066)
+Channel: Hi there! I think I'm still waiting for (ID: 1297996498012868699)
+Channel Topic: None
+Exported At: 2024-10-28T22:11:21.1860077+00:00
+
+
+--- Message ---
+Message ID: 1297997277817733151
+Message Type: 21
+Reply to: 1297996498012868699
+Timestamp: 2024-10-21T18:57:46.655+00:00
+Author: Andrew Martin [CA[ KC Text Admin (andrewjnla)
+Author Id: 932025725777743923
+Avatar URL: assets\8156a8c1e23069b2fac6bd70259a5ade-A321B.png
+Content: 
+--------------------
+
+--- Message ---
+Message ID: 1297997280137318412
+Message Type: Default
+Reply to: None
+Timestamp: 2024-10-21T18:57:47.208+00:00
+Author: Andrew Martin [CA[ KC Text Admin (andrewjnla)
+Author Id: 932025725777743923
+Avatar URL: assets\8156a8c1e23069b2fac6bd70259a5ade-A321B.png
+Content: Hi Erin - I just sent you a DM.
+--------------------

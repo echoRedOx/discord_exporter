@@ -1,0 +1,27 @@
+Guild: Team Harris-Walz Virtual Office (ID: 1242249109298221066)
+Channel: Hi there...I was out of town for a (ID: 1279817481506000958)
+Channel Topic: None
+Exported At: 2024-10-28T23:43:26.1293865+00:00
+
+
+--- Message ---
+Message ID: 1279861090184073379
+Message Type: 21
+Reply to: 1279817481506000958
+Timestamp: 2024-09-01T17:51:02.569+00:00
+Author: Nicole Morris - Text Admin (nmorris237)
+Author Id: 935762347753103382
+Avatar URL: assets\27b1e286b65ae02b3378793b5f098411-A7B20.png
+Content: 
+--------------------
+
+--- Message ---
+Message ID: 1279861091492692101
+Message Type: Default
+Reply to: None
+Timestamp: 2024-09-01T17:51:02.881+00:00
+Author: Nicole Morris - Text Admin (nmorris237)
+Author Id: 935762347753103382
+Avatar URL: assets\27b1e286b65ae02b3378793b5f098411-A7B20.png
+Content: Hi <@935976656999436318> Apologies for the confusion! I'll send you a Direct Message now on next steps. Please let me know if you don't see a message from me
+--------------------

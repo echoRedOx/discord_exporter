@@ -1,0 +1,27 @@
+Guild: Team Harris-Walz Virtual Office (ID: 1242249109298221066)
+Channel: OE Training Part 1 (ID: 1275895958235775139)
+Channel Topic: None
+Exported At: 2024-10-28T21:52:32.0997141+00:00
+
+
+--- Message ---
+Message ID: 1275930770720034917
+Message Type: 21
+Reply to: 1275895958235775139
+Timestamp: 2024-08-21T21:33:21.387+00:00
+Author: Jessica Puchala (MD) [OE Lead] (jessica033389)
+Author Id: 869778676986814514
+Avatar URL: assets\37de34190564f7c9acae5895cc884c8a-6F9C7.png
+Content: 
+--------------------
+
+--- Message ---
+Message ID: 1275930772087378142
+Message Type: Default
+Reply to: None
+Timestamp: 2024-08-21T21:33:21.713+00:00
+Author: Jessica Puchala (MD) [OE Lead] (jessica033389)
+Author Id: 869778676986814514
+Avatar URL: assets\37de34190564f7c9acae5895cc884c8a-6F9C7.png
+Content: Hi <@690550534549012520>. Welcome! Thanks so much for signing up for part one of our zoom training. I strongly encourage you to give the live zoom a try. We leave the chat box open so you can ask any questions that you have there while the session is underway. It's a great overview of what we're doing online and how you can help with our various tools. (I'm not aware of any available recordings or transcripts.)  Should you have specific questions about those tools, such as Reach, you're welcome to jump right back here in our Online Engagement channel within Discord and ask!  You may also wish to check out this Reach Quick Start Guide: https://democrats.org/wp-content/uploads/2024/04/Reach-for-Social-Ambassadors-Quick-Start-Guide.pdf   Thanks again!
+--------------------

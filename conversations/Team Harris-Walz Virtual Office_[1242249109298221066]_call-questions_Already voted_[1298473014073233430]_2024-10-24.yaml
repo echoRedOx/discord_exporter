@@ -1,0 +1,19 @@
+- author_avatar_url: assets\3-FB033.png
+  author_id: '660555540027539540'
+  author_name: jenbernard8437
+  author_nickname: Jennifer Bernard AK
+  content: If someone already voted, but didn't say who for before quickly hanging
+    up ... how do I mark that?
+  id: '1298473014073233430'
+  ref_to: null
+  timestamp: '2024-10-23T02:28:11.017+00:00'
+  type: Default
+- author_avatar_url: assets\5fde485e55d806d8356ca6e7e08f1f48-77A19.png
+  author_id: '1266903666879627274'
+  author_name: larrya._98544
+  author_nickname: Larry Ahlgrim (VA) [Call Mod]
+  content: That one should be marked as other
+  id: '1298473646599311392'
+  ref_to: '1298473014073233430'
+  timestamp: '2024-10-23T02:30:41.823+00:00'
+  type: Reply

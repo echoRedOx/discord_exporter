@@ -1,0 +1,27 @@
+Guild: Team Harris-Walz Virtual Office (ID: 1242249109298221066)
+Channel: John Nave from slack.  Not sure how to (ID: 1278079418925060108)
+Channel Topic: None
+Exported At: 2024-10-28T23:58:40.8705587+00:00
+
+
+--- Message ---
+Message ID: 1278105722252431461
+Message Type: 21
+Reply to: 1278079418925060108
+Timestamp: 2024-08-27T21:35:50.241+00:00
+Author: Nicole Morris - Text Admin (nmorris237)
+Author Id: 935762347753103382
+Avatar URL: assets\27b1e286b65ae02b3378793b5f098411-A7B20.png
+Content: 
+--------------------
+
+--- Message ---
+Message ID: 1278105724441858049
+Message Type: Default
+Reply to: None
+Timestamp: 2024-08-27T21:35:50.763+00:00
+Author: Nicole Morris - Text Admin (nmorris237)
+Author Id: 935762347753103382
+Avatar URL: assets\27b1e286b65ae02b3378793b5f098411-A7B20.png
+Content: Hi <@1277424416351060070> Thanks! The form to fill out was posting in the #texting-annoucements channel in Slack. It should be in a pinned message
+--------------------

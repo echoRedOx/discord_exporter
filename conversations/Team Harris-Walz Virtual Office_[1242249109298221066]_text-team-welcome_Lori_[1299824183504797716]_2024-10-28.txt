@@ -1,0 +1,27 @@
+Guild: Team Harris-Walz Virtual Office (ID: 1242249109298221066)
+Channel: Lori (ID: 1299824183504797716)
+Channel Topic: None
+Exported At: 2024-10-28T22:08:26.3175921+00:00
+
+
+--- Message ---
+Message ID: 1299885758034743377
+Message Type: 21
+Reply to: 1299824183504797716
+Timestamp: 2024-10-27T00:01:55.425+00:00
+Author: Nicole Morris - Text Admin (nmorris237)
+Author Id: 935762347753103382
+Avatar URL: assets\27b1e286b65ae02b3378793b5f098411-A7B20.png
+Content: 
+--------------------
+
+--- Message ---
+Message ID: 1299885762246086776
+Message Type: Default
+Reply to: None
+Timestamp: 2024-10-27T00:01:56.429+00:00
+Author: Nicole Morris - Text Admin (nmorris237)
+Author Id: 935762347753103382
+Avatar URL: assets\27b1e286b65ae02b3378793b5f098411-A7B20.png
+Content: Hi Lori — please ask this in <#1259238714157305936> next time
+--------------------

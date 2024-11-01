@@ -1,0 +1,27 @@
+Guild: Team Harris-Walz Virtual Office (ID: 1242249109298221066)
+Channel: Hi. I took the agreement form and quiz (ID: 1298800054404124744)
+Channel Topic: None
+Exported At: 2024-10-28T22:19:19.8858989+00:00
+
+
+--- Message ---
+Message ID: 1298810266192052264
+Message Type: 21
+Reply to: 1298800054404124744
+Timestamp: 2024-10-24T00:48:18.188+00:00
+Author: Roberta Bavin CA KC Greeter/Mod (roberta_24935)
+Author Id: 1269872908759597148
+Avatar URL: assets\df6d19d97b04a49ffcafbe7be14c7839-D9CE4.png
+Content: 
+--------------------
+
+--- Message ---
+Message ID: 1298810270956916790
+Message Type: Default
+Reply to: None
+Timestamp: 2024-10-24T00:48:19.324+00:00
+Author: Roberta Bavin CA KC Greeter/Mod (roberta_24935)
+Author Id: 1269872908759597148
+Avatar URL: assets\df6d19d97b04a49ffcafbe7be14c7839-D9CE4.png
+Content: Hi <@811377295919022150> Please look for a DM from me in a few minutes. Thanks for reaching out!
+--------------------

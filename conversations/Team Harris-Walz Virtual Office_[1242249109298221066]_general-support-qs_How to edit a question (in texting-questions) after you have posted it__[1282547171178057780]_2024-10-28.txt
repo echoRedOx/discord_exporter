@@ -1,0 +1,38 @@
+Guild: Team Harris-Walz Virtual Office (ID: 1242249109298221066)
+Channel: How to edit a question (in texting-questions) after you have posted it? (ID: 1282547171178057780)
+Channel Topic: None
+Exported At: 2024-10-28T20:08:03.1758434+00:00
+
+
+--- Message ---
+Message ID: 1282547171178057780
+Message Type: Default
+Reply to: None
+Timestamp: 2024-09-09T03:44:34.183+00:00
+Author: Laurie S [NJ] KC Text Mod (clavicytherium)
+Author Id: 859508716738707486
+Avatar URL: assets\6f2f8939998bc6d31d41b401316abcbe-FDFDC.png
+Content: Sometimes the edit option is in the three dots drop down menu, and sometimes not. Sometimes, when I right click on the title of a message on the list on the left of the screen, I get a menu that includes an edit option, and sometimes a shorter menu without the edit option. I don't think I'm doing anything differently, but it could be that I am. Is there a more reliable way to get to an edit option? Thanks!
+--------------------
+
+--- Message ---
+Message ID: 1282550258038997055
+Message Type: Default
+Reply to: None
+Timestamp: 2024-09-09T03:56:50.148+00:00
+Author: Carolyn B [CA] • Lead Mod (carb.on)
+Author Id: 568257600228032512
+Avatar URL: assets\28a90c77b5793d80eb62484a43c66748-D8837.png
+Content: <@&1242252435074842654>
+--------------------
+
+--- Message ---
+Message ID: 1282551372864163850
+Message Type: Default
+Reply to: None
+Timestamp: 2024-09-09T04:01:15.943+00:00
+Author: Nicole Morris - Text Admin (nmorris237)
+Author Id: 935762347753103382
+Avatar URL: assets\27b1e286b65ae02b3378793b5f098411-A7B20.png
+Content: Hey Laura! I *think* the difference (and best way to edit a question) is that you have to click into your post and do the three dots drop down menu to edit it. Versus right clicking on the title of the post (like the big box of your question in <#1259238714157305936>). Does that help?
+--------------------

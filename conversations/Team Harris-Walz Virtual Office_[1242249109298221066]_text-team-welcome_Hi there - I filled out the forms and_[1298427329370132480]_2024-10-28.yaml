@@ -1,0 +1,29 @@
+- author_avatar_url: assets\df6d19d97b04a49ffcafbe7be14c7839-D9CE4.png
+  author_id: '1269872908759597148'
+  author_name: roberta_24935
+  author_nickname: Roberta Bavin CA KC Greeter/Mod
+  content: ''
+  id: '1298427775157534780'
+  ref_to: '1298427329370132480'
+  timestamp: '2024-10-22T23:28:25.219+00:00'
+  type: '21'
+- author_avatar_url: assets\df6d19d97b04a49ffcafbe7be14c7839-D9CE4.png
+  author_id: '1269872908759597148'
+  author_name: roberta_24935
+  author_nickname: Roberta Bavin CA KC Greeter/Mod
+  content: Hi <@444255745798570000> Please check for DM sent on 10/16 at upper left
+    corner of Discord, game controller icon. Thanks for following up!
+  id: '1298427777913061457'
+  ref_to: null
+  timestamp: '2024-10-22T23:28:25.876+00:00'
+  type: Default
+- author_avatar_url: assets\926f155534b64f865120dae4afc4d7df-A7F69.png
+  author_id: '444255745798570000'
+  author_name: jmgunter
+  author_nickname: Joshua Gunter [CA]
+  content: "Thanks Roberta! For some reason I don\u2019t see a message in my DMs on\
+    \ that date."
+  id: '1298494185703215104'
+  ref_to: '1298427777913061457'
+  timestamp: '2024-10-23T03:52:18.727+00:00'
+  type: Reply

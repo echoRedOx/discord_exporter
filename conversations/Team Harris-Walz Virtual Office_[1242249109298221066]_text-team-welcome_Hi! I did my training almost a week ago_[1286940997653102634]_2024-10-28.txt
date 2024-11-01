@@ -1,0 +1,27 @@
+Guild: Team Harris-Walz Virtual Office (ID: 1242249109298221066)
+Channel: Hi! I did my training almost a week ago (ID: 1286940997653102634)
+Channel Topic: None
+Exported At: 2024-10-28T23:11:39.0272497+00:00
+
+
+--- Message ---
+Message ID: 1287049848478109728
+Message Type: 21
+Reply to: 1286940997653102634
+Timestamp: 2024-09-21T13:56:36.107+00:00
+Author: Jack Joannides KC text admin (jjoannid)
+Author Id: 477560366432256000
+Avatar URL: assets\791c521e62160be1f3df04992f6e5470-36A38.png
+Content: 
+--------------------
+
+--- Message ---
+Message ID: 1287049850021609554
+Message Type: Default
+Reply to: None
+Timestamp: 2024-09-21T13:56:36.475+00:00
+Author: Jack Joannides KC text admin (jjoannid)
+Author Id: 477560366432256000
+Avatar URL: assets\791c521e62160be1f3df04992f6e5470-36A38.png
+Content: Let me check on this?
+--------------------

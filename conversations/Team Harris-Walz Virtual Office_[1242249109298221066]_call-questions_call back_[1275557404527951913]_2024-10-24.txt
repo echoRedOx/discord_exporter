@@ -1,0 +1,27 @@
+Guild: Team Harris-Walz Virtual Office (ID: 1242249109298221066)
+Channel: call back (ID: 1275557404527951913)
+Channel Topic: None
+Exported At: 2024-10-24T12:57:31.6050954+00:00
+
+
+--- Message ---
+Message ID: 1275557404527951913
+Message Type: Default
+Reply to: None
+Timestamp: 2024-08-20T20:49:43.95+00:00
+Author: Gilly (gilly02437)
+Author Id: 838904841458941973
+Avatar URL: assets\7a2b32d4a763194486bac310f5a788c7-989E5.png
+Content: How do we call back a person when  they've exited out of a dialer script?
+--------------------
+
+--- Message ---
+Message ID: 1275557862864846941
+Message Type: Default
+Reply to: None
+Timestamp: 2024-08-20T20:51:33.226+00:00
+Author: Larry Ahlgrim (VA) [Call Mod] (larrya._98544)
+Author Id: 1266903666879627274
+Avatar URL: assets\5fde485e55d806d8356ca6e7e08f1f48-77A19.png
+Content: <@838904841458941973> If the script is closed you've lost their number. If you haven't ended the call on the script use the back button upper left to go back to see their number.
+--------------------

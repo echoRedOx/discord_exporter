@@ -1,0 +1,49 @@
+Guild: Team Harris-Walz Virtual Office (ID: 1242249109298221066)
+Channel: Carla (ID: 1278023265536839762)
+Channel Topic: None
+Exported At: 2024-10-28T23:53:39.5812603+00:00
+
+
+--- Message ---
+Message ID: 1278025600023662602
+Message Type: 21
+Reply to: 1278023265536839762
+Timestamp: 2024-08-27T16:17:27.613+00:00
+Author: Nicole Morris - Text Admin (nmorris237)
+Author Id: 935762347753103382
+Avatar URL: assets\27b1e286b65ae02b3378793b5f098411-A7B20.png
+Content: 
+--------------------
+
+--- Message ---
+Message ID: 1278025601839796355
+Message Type: Default
+Reply to: None
+Timestamp: 2024-08-27T16:17:28.046+00:00
+Author: Nicole Morris - Text Admin (nmorris237)
+Author Id: 935762347753103382
+Avatar URL: assets\27b1e286b65ae02b3378793b5f098411-A7B20.png
+Content: Hi Carla - yay you made it! Thanks for your persistence. Nothing else right now — as long as you filled out the form we posted in Slack, you’ll be added within the next ~24-48 hours
+--------------------
+
+--- Message ---
+Message ID: 1278086154536882176
+Message Type: Default
+Reply to: None
+Timestamp: 2024-08-27T20:18:04.934+00:00
+Author: Ande Jacobson CA-KC Text Admin (reedywonder)
+Author Id: 1268669712175468664
+Avatar URL: assets\bb28cbade4eff3d0a4ff7c80f78b77d1-C53EE.png
+Content: Hi Carla - please check your DMs for an important message from me.
+--------------------
+
+--- Message ---
+Message ID: 1278492504500469781
+Message Type: Default
+Reply to: None
+Timestamp: 2024-08-28T23:12:46.315+00:00
+Author: Carla Hollowell (carla_82715)
+Author Id: 1278016694207381557
+Avatar URL: assets\ea049f0c3f996655d280efae3b1f4036-239B5.png
+Content: Sorry, Ande, for taking so long to respond. I apologize. Think I've got it.
+--------------------

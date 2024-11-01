@@ -1,0 +1,27 @@
+Guild: Team Harris-Walz Virtual Office (ID: 1242249109298221066)
+Channel: @Nicole Morris - Text Mod  Asynchronous (ID: 1297600492125552680)
+Channel Topic: None
+Exported At: 2024-10-28T22:27:32.7325554+00:00
+
+
+--- Message ---
+Message ID: 1297989209793106023
+Message Type: 21
+Reply to: 1297600492125552680
+Timestamp: 2024-10-21T18:25:43.088+00:00
+Author: Andrew Martin [CA[ KC Text Admin (andrewjnla)
+Author Id: 932025725777743923
+Avatar URL: assets\8156a8c1e23069b2fac6bd70259a5ade-A321B.png
+Content: 
+--------------------
+
+--- Message ---
+Message ID: 1297989213207138374
+Message Type: Default
+Reply to: None
+Timestamp: 2024-10-21T18:25:43.902+00:00
+Author: Andrew Martin [CA[ KC Text Admin (andrewjnla)
+Author Id: 932025725777743923
+Avatar URL: assets\8156a8c1e23069b2fac6bd70259a5ade-A321B.png
+Content: Hi <@1292805371840172075> We just added one final training later today. Please join us if you can! https://events.democrats.org/event/715820/
+--------------------

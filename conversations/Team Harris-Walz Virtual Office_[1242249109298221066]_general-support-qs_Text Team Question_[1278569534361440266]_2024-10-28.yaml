@@ -1,0 +1,34 @@
+- author_avatar_url: assets\5-E9BDB.png
+  author_id: '1277052348237352962'
+  author_name: bjacks00
+  author_nickname: Barbara Jackson
+  content: "I took text team training on 8/24, and then got on Discord, completed\
+    \ the required form, passed the quiz, and signed up on Scale To Win. Everything\
+    \ was done by 8/26, and I understand I would be notified when I was cleared to\
+    \ begin sending out texts within two days, but I haven\u2019t heard from anyone\
+    \ yet. Just checking to see if I missed something. I\u2019d like to begin contributing\
+    \ to the campaign. Thanks."
+  id: '1278569534361440266'
+  ref_to: null
+  timestamp: '2024-08-29T04:18:51.665+00:00'
+  type: Default
+- author_avatar_url: assets\28a90c77b5793d80eb62484a43c66748-D8837.png
+  author_id: '568257600228032512'
+  author_name: carb.on
+  author_nickname: "Carolyn B [CA] \u2022 Lead Mod"
+  content: HI <@1277052348237352962> it looks like you did everything perfectly. The
+    text team will likely notify you tomorrow.
+  id: '1278571355859583028'
+  ref_to: '1278569534361440266'
+  timestamp: '2024-08-29T04:26:05.944+00:00'
+  type: Reply
+- author_avatar_url: assets\ff322353539338ae0919d2cd05ec6b4f-297C8.png
+  author_id: '968557716832391219'
+  author_name: otter20079058
+  author_nickname: Tim B [CA] KC Text Admin
+  content: <@1277052348237352962>  Please check your Discord DMs, I'll share an update.
+    <:thankyou:1252806147396735057> <:blueheart:1252803082849488956>
+  id: '1278574911572410411'
+  ref_to: null
+  timestamp: '2024-08-29T04:40:13.692+00:00'
+  type: Default

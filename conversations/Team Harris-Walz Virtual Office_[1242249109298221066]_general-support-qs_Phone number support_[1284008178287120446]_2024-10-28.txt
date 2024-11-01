@@ -1,0 +1,445 @@
+Guild: Team Harris-Walz Virtual Office (ID: 1242249109298221066)
+Channel: Phone number support (ID: 1284008178287120446)
+Channel Topic: None
+Exported At: 2024-10-28T20:04:59.1329836+00:00
+
+
+--- Message ---
+Message ID: 1284008178287120446
+Message Type: Default
+Reply to: None
+Timestamp: 2024-09-13T04:30:05.422+00:00
+Author: Jungstir (jungstir)
+Author Id: 1276611691970560204
+Avatar URL: assets\6c5996770c985bcd6e5b68131ff2ba04-A99DD.png
+Content: I am there
+--------------------
+
+--- Message ---
+Message ID: 1284008273091104768
+Message Type: Default
+Reply to: None
+Timestamp: 2024-09-13T04:30:28.025+00:00
+Author: Carolyn B [CA] • Lead Mod (carb.on)
+Author Id: 568257600228032512
+Avatar URL: assets\28a90c77b5793d80eb62484a43c66748-D8837.png
+Content: okay
+--------------------
+
+--- Message ---
+Message ID: 1284008330867773440
+Message Type: Default
+Reply to: None
+Timestamp: 2024-09-13T04:30:41.8+00:00
+Author: Jungstir (jungstir)
+Author Id: 1276611691970560204
+Avatar URL: assets\6c5996770c985bcd6e5b68131ff2ba04-A99DD.png
+Content: So logged out
+--------------------
+
+--- Message ---
+Message ID: 1284008384311328789
+Message Type: Default
+Reply to: None
+Timestamp: 2024-09-13T04:30:54.542+00:00
+Author: Carolyn B [CA] • Lead Mod (carb.on)
+Author Id: 568257600228032512
+Avatar URL: assets\28a90c77b5793d80eb62484a43c66748-D8837.png
+Content: when you try to log in with your phone number did you get an error message?
+--------------------
+
+--- Message ---
+Message ID: 1284008384563249212
+Message Type: Default
+Reply to: None
+Timestamp: 2024-09-13T04:30:54.602+00:00
+Author: Jungstir (jungstir)
+Author Id: 1276611691970560204
+Avatar URL: assets\6c5996770c985bcd6e5b68131ff2ba04-A99DD.png
+Content: Could only log in with email
+--------------------
+
+--- Message ---
+Message ID: 1284008489861120042
+Message Type: Default
+Reply to: None
+Timestamp: 2024-09-13T04:31:19.707+00:00
+Author: Jungstir (jungstir)
+Author Id: 1276611691970560204
+Avatar URL: assets\6c5996770c985bcd6e5b68131ff2ba04-A99DD.png
+Content: Same error message codes already in use
+--------------------
+
+--- Message ---
+Message ID: 1284008741200724030
+Message Type: Default
+Reply to: None
+Timestamp: 2024-09-13T04:32:19.631+00:00
+Author: Carolyn B [CA] • Lead Mod (carb.on)
+Author Id: 568257600228032512
+Avatar URL: assets\28a90c77b5793d80eb62484a43c66748-D8837.png
+Content: Can you go to the PC and open an incognito window and try to log on with your phone.
+--------------------
+
+--- Message ---
+Message ID: 1284008971539320855
+Message Type: Default
+Reply to: None
+Timestamp: 2024-09-13T04:33:14.548+00:00
+Author: Jungstir (jungstir)
+Author Id: 1276611691970560204
+Avatar URL: assets\6c5996770c985bcd6e5b68131ff2ba04-A99DD.png
+Content: In Google?
+--------------------
+
+--- Message ---
+Message ID: 1284008988291235841
+Message Type: Default
+Reply to: None
+Timestamp: 2024-09-13T04:33:18.542+00:00
+Author: Carolyn B [CA] • Lead Mod (carb.on)
+Author Id: 568257600228032512
+Avatar URL: assets\28a90c77b5793d80eb62484a43c66748-D8837.png
+Content: sure
+--------------------
+
+--- Message ---
+Message ID: 1284009366164344918
+Message Type: Default
+Reply to: None
+Timestamp: 2024-09-13T04:34:48.634+00:00
+Author: Jungstir (jungstir)
+Author Id: 1276611691970560204
+Avatar URL: assets\6c5996770c985bcd6e5b68131ff2ba04-A99DD.png
+Content: One sec
+--------------------
+
+--- Message ---
+Message ID: 1284009404139569166
+Message Type: Default
+Reply to: None
+Timestamp: 2024-09-13T04:34:57.688+00:00
+Author: Carolyn B [CA] • Lead Mod (carb.on)
+Author Id: 568257600228032512
+Avatar URL: assets\28a90c77b5793d80eb62484a43c66748-D8837.png
+Content: take your time
+--------------------
+
+--- Message ---
+Message ID: 1284009493264334870
+Message Type: Default
+Reply to: None
+Timestamp: 2024-09-13T04:35:18.937+00:00
+Author: Jungstir (jungstir)
+Author Id: 1276611691970560204
+Avatar URL: assets\6c5996770c985bcd6e5b68131ff2ba04-A99DD.png
+Content: Google is up
+--------------------
+
+--- Message ---
+Message ID: 1284009865928507435
+Message Type: Default
+Reply to: None
+Timestamp: 2024-09-13T04:36:47.787+00:00
+Author: Jungstir (jungstir)
+Author Id: 1276611691970560204
+Avatar URL: assets\6c5996770c985bcd6e5b68131ff2ba04-A99DD.png
+Content: It saved discord channel for Harris Walz virtual office
+--------------------
+
+--- Message ---
+Message ID: 1284009977517707296
+Message Type: Default
+Reply to: None
+Timestamp: 2024-09-13T04:37:14.392+00:00
+Author: Carolyn B [CA] • Lead Mod (carb.on)
+Author Id: 568257600228032512
+Avatar URL: assets\28a90c77b5793d80eb62484a43c66748-D8837.png
+Content: do you know how to do incognito?
+--------------------
+
+--- Message ---
+Message ID: 1284010060065800264
+Message Type: Default
+Reply to: None
+Timestamp: 2024-09-13T04:37:34.073+00:00
+Author: Jungstir (jungstir)
+Author Id: 1276611691970560204
+Avatar URL: assets\6c5996770c985bcd6e5b68131ff2ba04-A99DD.png
+Content: Can you walk me through it?
+--------------------
+
+--- Message ---
+Message ID: 1284010147944861716
+Message Type: Default
+Reply to: None
+Timestamp: 2024-09-13T04:37:55.025+00:00
+Author: Carolyn B [CA] • Lead Mod (carb.on)
+Author Id: 568257600228032512
+Avatar URL: assets\28a90c77b5793d80eb62484a43c66748-D8837.png
+Content: in Chrome, open File menu > choose New Incognito Window
+--------------------
+
+--- Message ---
+Message ID: 1284010157285703680
+Message Type: Default
+Reply to: None
+Timestamp: 2024-09-13T04:37:57.252+00:00
+Author: Jungstir (jungstir)
+Author Id: 1276611691970560204
+Avatar URL: assets\6c5996770c985bcd6e5b68131ff2ba04-A99DD.png
+Content: Just found it
+--------------------
+
+--- Message ---
+Message ID: 1284010212616962048
+Message Type: Default
+Reply to: None
+Timestamp: 2024-09-13T04:38:10.444+00:00
+Author: Jungstir (jungstir)
+Author Id: 1276611691970560204
+Avatar URL: assets\6c5996770c985bcd6e5b68131ff2ba04-A99DD.png
+Content: Ready
+--------------------
+
+--- Message ---
+Message ID: 1284010441630158888
+Message Type: Default
+Reply to: None
+Timestamp: 2024-09-13T04:39:05.045+00:00
+Author: Carolyn B [CA] • Lead Mod (carb.on)
+Author Id: 568257600228032512
+Avatar URL: assets\28a90c77b5793d80eb62484a43c66748-D8837.png
+Content: go to Discord.gg on the new window, click Login, and use your phone number/password. If you don't know password, do the "forgot password"
+--------------------
+
+--- Message ---
+Message ID: 1284010587260588155
+Message Type: Default
+Reply to: None
+Timestamp: 2024-09-13T04:39:39.766+00:00
+Author: Carolyn B [CA] • Lead Mod (carb.on)
+Author Id: 568257600228032512
+Avatar URL: assets\28a90c77b5793d80eb62484a43c66748-D8837.png
+Content: I want to know if there is an error message when you log in.
+--------------------
+
+--- Message ---
+Message ID: 1284011055592374317
+Message Type: Default
+Reply to: None
+Timestamp: 2024-09-13T04:41:31.425+00:00
+Author: Jungstir (jungstir)
+Author Id: 1276611691970560204
+Avatar URL: assets\6c5996770c985bcd6e5b68131ff2ba04-A99DD.png
+Content: No nothing
+--------------------
+
+--- Message ---
+Message ID: 1284011199058542642
+Message Type: Default
+Reply to: None
+Timestamp: 2024-09-13T04:42:05.63+00:00
+Author: Jungstir (jungstir)
+Author Id: 1276611691970560204
+Avatar URL: assets\6c5996770c985bcd6e5b68131ff2ba04-A99DD.png
+Content: Let me try to rest the password
+--------------------
+
+--- Message ---
+Message ID: 1284011219338002442
+Message Type: Default
+Reply to: None
+Timestamp: 2024-09-13T04:42:10.465+00:00
+Author: Jungstir (jungstir)
+Author Id: 1276611691970560204
+Avatar URL: assets\6c5996770c985bcd6e5b68131ff2ba04-A99DD.png
+Content: Reset
+--------------------
+
+--- Message ---
+Message ID: 1284011219627540520
+Message Type: Default
+Reply to: None
+Timestamp: 2024-09-13T04:42:10.534+00:00
+Author: Carolyn B [CA] • Lead Mod (carb.on)
+Author Id: 568257600228032512
+Avatar URL: assets\28a90c77b5793d80eb62484a43c66748-D8837.png
+Content: okay
+--------------------
+
+--- Message ---
+Message ID: 1284011444509081651
+Message Type: Default
+Reply to: None
+Timestamp: 2024-09-13T04:43:04.15+00:00
+Author: Carolyn B [CA] • Lead Mod (carb.on)
+Author Id: 568257600228032512
+Avatar URL: assets\28a90c77b5793d80eb62484a43c66748-D8837.png
+Content: after you reset password, log in with phone number and new password
+--------------------
+
+--- Message ---
+Message ID: 1284011999960760344
+Message Type: Default
+Reply to: None
+Timestamp: 2024-09-13T04:45:16.58+00:00
+Author: Jungstir (jungstir)
+Author Id: 1276611691970560204
+Avatar URL: assets\6c5996770c985bcd6e5b68131ff2ba04-A99DD.png
+Content: It created another account
+--------------------
+
+--- Message ---
+Message ID: 1284012303955525674
+Message Type: Default
+Reply to: None
+Timestamp: 2024-09-13T04:46:29.058+00:00
+Author: Jungstir (jungstir)
+Author Id: 1276611691970560204
+Avatar URL: assets\6c5996770c985bcd6e5b68131ff2ba04-A99DD.png
+Content: My email was missing and I tried to add it and it said that email was in use
+--------------------
+
+--- Message ---
+Message ID: 1284012386239512576
+Message Type: Default
+Reply to: None
+Timestamp: 2024-09-13T04:46:48.676+00:00
+Author: Jungstir (jungstir)
+Author Id: 1276611691970560204
+Avatar URL: assets\6c5996770c985bcd6e5b68131ff2ba04-A99DD.png
+Content: Perhaps because it is now both in my PC and phone
+--------------------
+
+--- Message ---
+Message ID: 1284012625390211092
+Message Type: Default
+Reply to: None
+Timestamp: 2024-09-13T04:47:45.694+00:00
+Author: Jungstir (jungstir)
+Author Id: 1276611691970560204
+Avatar URL: assets\6c5996770c985bcd6e5b68131ff2ba04-A99DD.png
+Content: Let me see something again my plan is to power the computer down and rest the password for the phone account
+--------------------
+
+--- Message ---
+Message ID: 1284012677823336520
+Message Type: Default
+Reply to: None
+Timestamp: 2024-09-13T04:47:58.195+00:00
+Author: Jungstir (jungstir)
+Author Id: 1276611691970560204
+Avatar URL: assets\6c5996770c985bcd6e5b68131ff2ba04-A99DD.png
+Content: Reset
+--------------------
+
+--- Message ---
+Message ID: 1284012728368894075
+Message Type: Default
+Reply to: None
+Timestamp: 2024-09-13T04:48:10.246+00:00
+Author: Carolyn B [CA] • Lead Mod (carb.on)
+Author Id: 568257600228032512
+Avatar URL: assets\28a90c77b5793d80eb62484a43c66748-D8837.png
+Content: PC and phone is same.
+--------------------
+
+--- Message ---
+Message ID: 1284012811474833429
+Message Type: Default
+Reply to: None
+Timestamp: 2024-09-13T04:48:30.06+00:00
+Author: Jungstir (jungstir)
+Author Id: 1276611691970560204
+Avatar URL: assets\6c5996770c985bcd6e5b68131ff2ba04-A99DD.png
+Content: Not in incognito or isnt
+--------------------
+
+--- Message ---
+Message ID: 1284012829954932746
+Message Type: Default
+Reply to: None
+Timestamp: 2024-09-13T04:48:34.466+00:00
+Author: Jungstir (jungstir)
+Author Id: 1276611691970560204
+Avatar URL: assets\6c5996770c985bcd6e5b68131ff2ba04-A99DD.png
+Content: It
+--------------------
+
+--- Message ---
+Message ID: 1284012839413219379
+Message Type: Default
+Reply to: None
+Timestamp: 2024-09-13T04:48:36.721+00:00
+Author: Carolyn B [CA] • Lead Mod (carb.on)
+Author Id: 568257600228032512
+Avatar URL: assets\28a90c77b5793d80eb62484a43c66748-D8837.png
+Content: oh right
+--------------------
+
+--- Message ---
+Message ID: 1284012916126777456
+Message Type: Default
+Reply to: None
+Timestamp: 2024-09-13T04:48:55.011+00:00
+Author: Jungstir (jungstir)
+Author Id: 1276611691970560204
+Avatar URL: assets\6c5996770c985bcd6e5b68131ff2ba04-A99DD.png
+Content: Wait a few minutes please
+--------------------
+
+--- Message ---
+Message ID: 1284013174638645329
+Message Type: Default
+Reply to: None
+Timestamp: 2024-09-13T04:49:56.645+00:00
+Author: Jungstir (jungstir)
+Author Id: 1276611691970560204
+Avatar URL: assets\6c5996770c985bcd6e5b68131ff2ba04-A99DD.png
+Content: Do I delete the incognito account?
+--------------------
+
+--- Message ---
+Message ID: 1284013241701236736
+Message Type: Default
+Reply to: None
+Timestamp: 2024-09-13T04:50:12.634+00:00
+Author: Jungstir (jungstir)
+Author Id: 1276611691970560204
+Avatar URL: assets\6c5996770c985bcd6e5b68131ff2ba04-A99DD.png
+Content: Or just close browser
+--------------------
+
+--- Message ---
+Message ID: 1284013258591834154
+Message Type: Default
+Reply to: None
+Timestamp: 2024-09-13T04:50:16.661+00:00
+Author: Carolyn B [CA] • Lead Mod (carb.on)
+Author Id: 568257600228032512
+Avatar URL: assets\28a90c77b5793d80eb62484a43c66748-D8837.png
+Content: no
+--------------------
+
+--- Message ---
+Message ID: 1284013495418884171
+Message Type: Default
+Reply to: None
+Timestamp: 2024-09-13T04:51:13.125+00:00
+Author: Carolyn B [CA] • Lead Mod (carb.on)
+Author Id: 568257600228032512
+Avatar URL: assets\28a90c77b5793d80eb62484a43c66748-D8837.png
+Content: Can you click on the gear at the bottom left and click on Account settings and send me a picture of your screen.
+--------------------
+
+--- Message ---
+Message ID: 1284018200379396177
+Message Type: ChannelNameChange
+Reply to: None
+Timestamp: 2024-09-13T05:09:54.875+00:00
+Author: Carolyn B [CA] • Lead Mod (carb.on)
+Author Id: 568257600228032512
+Avatar URL: assets\28a90c77b5793d80eb62484a43c66748-D8837.png
+Content: Changed the channel name: Phone number support
+--------------------

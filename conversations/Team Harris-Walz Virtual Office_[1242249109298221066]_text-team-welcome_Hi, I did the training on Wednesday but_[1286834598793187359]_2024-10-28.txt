@@ -1,0 +1,27 @@
+Guild: Team Harris-Walz Virtual Office (ID: 1242249109298221066)
+Channel: Hi, I did the training on Wednesday but (ID: 1286834598793187359)
+Channel Topic: None
+Exported At: 2024-10-28T23:11:42.8446242+00:00
+
+
+--- Message ---
+Message ID: 1286835254031810621
+Message Type: 21
+Reply to: 1286834598793187359
+Timestamp: 2024-09-20T23:43:52.804+00:00
+Author: Roberta Bavin CA KC Greeter/Mod (roberta_24935)
+Author Id: 1269872908759597148
+Avatar URL: assets\df6d19d97b04a49ffcafbe7be14c7839-D9CE4.png
+Content: 
+--------------------
+
+--- Message ---
+Message ID: 1286835256158060579
+Message Type: Default
+Reply to: None
+Timestamp: 2024-09-20T23:43:53.311+00:00
+Author: Roberta Bavin CA KC Greeter/Mod (roberta_24935)
+Author Id: 1269872908759597148
+Avatar URL: assets\df6d19d97b04a49ffcafbe7be14c7839-D9CE4.png
+Content: Hi Eileen- Thanks for reaching out; we need 72 hours to completely onboard everyone in your training; please give us a little more time. Thanks so much!
+--------------------

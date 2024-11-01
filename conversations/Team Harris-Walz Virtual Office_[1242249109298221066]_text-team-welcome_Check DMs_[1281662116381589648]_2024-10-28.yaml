@@ -1,0 +1,36 @@
+- author_avatar_url: assets\791c521e62160be1f3df04992f6e5470-36A38.png
+  author_id: '477560366432256000'
+  author_name: jjoannid
+  author_nickname: Jack Joannides KC text admin
+  content: ''
+  id: '1281662724404940851'
+  ref_to: '1281662116381589648'
+  timestamp: '2024-09-06T17:10:05.64+00:00'
+  type: '21'
+- author_avatar_url: assets\791c521e62160be1f3df04992f6e5470-36A38.png
+  author_id: '477560366432256000'
+  author_name: jjoannid
+  author_nickname: Jack Joannides KC text admin
+  content: You should have gotten a direct message from <@935762347753103382> yesterday.
+  id: '1281662727491817504'
+  ref_to: null
+  timestamp: '2024-09-06T17:10:06.376+00:00'
+  type: Default
+- author_avatar_url: assets\6c5996770c985bcd6e5b68131ff2ba04-5BD6B.png
+  author_id: '1277791094645456897'
+  author_name: kathyp0285
+  author_nickname: Katherine Perez (FL)
+  content: Thanks Jack but I didn't receive a direct message from Nicole yet.
+  id: '1281668691238584321'
+  ref_to: null
+  timestamp: '2024-09-06T17:33:48.244+00:00'
+  type: Default
+- author_avatar_url: assets\27b1e286b65ae02b3378793b5f098411-A7B20.png
+  author_id: '935762347753103382'
+  author_name: nmorris237
+  author_nickname: Nicole Morris - Text Admin
+  content: "Hi Katherine - thanks! I see your DM back to me now \U0001F642"
+  id: '1281786933093203969'
+  ref_to: null
+  timestamp: '2024-09-07T01:23:39.299+00:00'
+  type: Default

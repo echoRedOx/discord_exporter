@@ -1,0 +1,73 @@
+Guild: Team Harris-Walz Virtual Office (ID: 1242249109298221066)
+Channel: Phone Number on Another Account (ID: 1285260049408589944)
+Channel Topic: None
+Exported At: 2024-10-24T06:34:57.8687832+00:00
+
+
+--- Message ---
+Message ID: 1285260049408589944
+Message Type: Default
+Reply to: None
+Timestamp: 2024-09-16T15:24:34.756+00:00
+Author: Danielle Moora VA (danielle.moora)
+Author Id: 1274836011188359179
+Avatar URL: assets\1-B2132.png
+Content: I don't have another account that uses my phone number and I get this error message.  Can I get help verifying?
+--------------------
+
+--- Message ---
+Message ID: 1285260884733853756
+Message Type: Default
+Reply to: None
+Timestamp: 2024-09-16T15:27:53.913+00:00
+Author: Carolyn B [CA] • Lead Mod (carb.on)
+Author Id: 568257600228032512
+Avatar URL: assets\28a90c77b5793d80eb62484a43c66748-D8837.png
+Content: Hello <@1274836011188359179> it is likely that you have an "accidental" second account. Here are the instructions for fixing this issue
+https://discord.com/channels/1242249109298221066/1284912441981010043
+I appreciate it is a bunch of steps and details. If you prefer to do this over a zoom screenshare, I am available on Zoom after 1:30p easter time today.
+--------------------
+
+--- Message ---
+Message ID: 1285262530108723251
+Message Type: Default
+Reply to: None
+Timestamp: 2024-09-16T15:34:26.201+00:00
+Author: Danielle Moora VA (dmoora)
+Author Id: 1274834301019619369
+Avatar URL: assets\1-B2132.png
+Content: I did it and now I don't have all the tabs for texting (campaigns, questions, etc.).  How do I get them back?
+--------------------
+
+--- Message ---
+Message ID: 1285263043315630081
+Message Type: Default
+Reply to: None
+Timestamp: 2024-09-16T15:36:28.559+00:00
+Author: Danielle Moora VA (dmoora)
+Author Id: 1274834301019619369
+Avatar URL: assets\1-B2132.png
+Content: and my direct messages also disappeared
+--------------------
+
+--- Message ---
+Message ID: 1285335857133256715
+Message Type: Default
+Reply to: None
+Timestamp: 2024-09-16T20:25:48.726+00:00
+Author: Carolyn B [CA] • Lead Mod (carb.on)
+Author Id: 568257600228032512
+Avatar URL: assets\28a90c77b5793d80eb62484a43c66748-D8837.png
+Content: I sounds like you are now logged in on the "accidental account" if you go to your Account settings you can remove your phone number, then log into the other account and add your phone number and you will have everything back.
+--------------------
+
+--- Message ---
+Message ID: 1285337316185083967
+Message Type: Default
+Reply to: None
+Timestamp: 2024-09-16T20:31:36.591+00:00
+Author: Carolyn B [CA] • Lead Mod (carb.on)
+Author Id: 568257600228032512
+Avatar URL: assets\28a90c77b5793d80eb62484a43c66748-D8837.png
+Content: I sent you a DM, we can finish this up there.
+--------------------

@@ -1,0 +1,60 @@
+Guild: Team Harris-Walz Virtual Office (ID: 1242249109298221066)
+Channel: anyone else waiting for 6pm phone bank (8/28)? (ID: 1278478100874657853)
+Channel Topic: None
+Exported At: 2024-10-24T12:54:33.0203194+00:00
+
+
+--- Message ---
+Message ID: 1278478100874657853
+Message Type: Default
+Reply to: None
+Timestamp: 2024-08-28T22:15:32.223+00:00
+Author: Loni Venti 🩷 (loniventi)
+Author Id: 1274405229445779509
+Avatar URL: assets\a50f82de2ebe8b1353e87862bcae45d7-92A3F.png
+Content: Hi! Anyone else waiting to get into the phone bank that was scheduled for 6pm EDT? (Or is anyone already on the call?) thank you!
+--------------------
+
+--- Message ---
+Message ID: 1278479390719606814
+Message Type: Default
+Reply to: None
+Timestamp: 2024-08-28T22:20:39.746+00:00
+Author: AnnapolisLyn [Call MOD] (lynfarrow)
+Author Id: 1273024393932574734
+Avatar URL: assets\ee1f838c4f1b6fc37ee52bef5abcace5-B2D34.png
+Content: <@1274405229445779509> are you having problems loging on to the Zoom?
+--------------------
+
+--- Message ---
+Message ID: 1278534455115513982
+Message Type: Default
+Reply to: None
+Timestamp: 2024-08-29T01:59:28.121+00:00
+Author: Loni Venti 🩷 (loniventi)
+Author Id: 1274405229445779509
+Avatar URL: assets\a50f82de2ebe8b1353e87862bcae45d7-92A3F.png
+Content: It was a Google meet, I wasn’t admitted in. Tried a couple times! Any advice on how to prevent that in the future? Thank you for your reply!
+--------------------
+
+--- Message ---
+Message ID: 1278537309796438016
+Message Type: Default
+Reply to: None
+Timestamp: 2024-08-29T02:10:48.73+00:00
+Author: Jack Ferreira (KC) (jackferreira.246012)
+Author Id: 1276396030375624789
+Avatar URL: assets\cd48a61b3416a1c6fe47335cfcfc484e-EE993.png
+Content: Use this link to sign up for upcoming phone banks: https://events.democrats.org/event/569897/
+--------------------
+
+--- Message ---
+Message ID: 1278706781836808266
+Message Type: Reply
+Reply to: 1278534455115513982
+Timestamp: 2024-08-29T13:24:14.013+00:00
+Author: AndreaV, KY Call Mod (andrearogersvalen)
+Author Id: 965992907981074443
+Avatar URL: assets\72d82e393a66b89996d99840a07990ec-C9EFF.png
+Content: This one time slot was a slightly different set up than usual Zoom Phone Bank sessions. We're updating our instructions to reflect this in the future so we can avoid the type of issue you had joining this one. Sorry for the inconvenience. We hope to see you on another phone bank session soon! <:blueheart:1252803082849488956>
+--------------------

@@ -1,0 +1,27 @@
+- author_avatar_url: assets\27b1e286b65ae02b3378793b5f098411-A7B20.png
+  author_id: '935762347753103382'
+  author_name: nmorris237
+  author_nickname: Nicole Morris - Text Admin
+  content: ''
+  id: '1287046125160894484'
+  ref_to: '1286931456324796428'
+  timestamp: '2024-09-21T13:41:48.399+00:00'
+  type: '21'
+- author_avatar_url: assets\27b1e286b65ae02b3378793b5f098411-A7B20.png
+  author_id: '935762347753103382'
+  author_name: nmorris237
+  author_nickname: Nicole Morris - Text Admin
+  content: Hi <@1284647334889918619> Thanks! They can sign up here https://events.democrats.org/event/672393/
+  id: '1287046128000438302'
+  ref_to: null
+  timestamp: '2024-09-21T13:41:49.076+00:00'
+  type: Default
+- author_avatar_url: assets\1-B2132.png
+  author_id: '1284647334889918619'
+  author_name: danielw_30303
+  author_nickname: Daniel Wise [OR]
+  content: Thanks. I passed it on.
+  id: '1287116928728436830'
+  ref_to: null
+  timestamp: '2024-09-21T18:23:09.285+00:00'
+  type: Default

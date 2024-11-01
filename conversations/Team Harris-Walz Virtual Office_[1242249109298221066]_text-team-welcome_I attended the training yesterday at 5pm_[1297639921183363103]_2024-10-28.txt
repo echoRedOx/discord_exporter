@@ -1,0 +1,38 @@
+Guild: Team Harris-Walz Virtual Office (ID: 1242249109298221066)
+Channel: I attended the training yesterday at 5pm (ID: 1297639921183363103)
+Channel Topic: None
+Exported At: 2024-10-28T22:29:35.9351763+00:00
+
+
+--- Message ---
+Message ID: 1297655248810410044
+Message Type: 21
+Reply to: 1297639921183363103
+Timestamp: 2024-10-20T20:18:40.585+00:00
+Author: Roberta Bavin CA KC Greeter/Mod (roberta_24935)
+Author Id: 1269872908759597148
+Avatar URL: assets\df6d19d97b04a49ffcafbe7be14c7839-D9CE4.png
+Content: 
+--------------------
+
+--- Message ---
+Message ID: 1297655253293989980
+Message Type: Default
+Reply to: None
+Timestamp: 2024-10-20T20:18:41.654+00:00
+Author: Roberta Bavin CA KC Greeter/Mod (roberta_24935)
+Author Id: 1269872908759597148
+Avatar URL: assets\df6d19d97b04a49ffcafbe7be14c7839-D9CE4.png
+Content: Hi <@1297327935396773962> Thanks for reaching out. Once the greeter team gets the Zoom Report from staff, we can finish whatever didn't get done. Thanks for being here!
+--------------------
+
+--- Message ---
+Message ID: 1297655573587820636
+Message Type: Default
+Reply to: None
+Timestamp: 2024-10-20T20:19:58.018+00:00
+Author: Scott (scott027889)
+Author Id: 1297327935396773962
+Avatar URL: assets\4-4551A.png
+Content: That would be great.  I'm making calls on Slack.  AZ for now but we will be switching to GA soon.
+--------------------

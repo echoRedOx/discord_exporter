@@ -1,0 +1,27 @@
+Guild: Team Harris-Walz Virtual Office (ID: 1242249109298221066)
+Channel: Im not sure what to do now that I am on (ID: 1288987547594391564)
+Channel Topic: None
+Exported At: 2024-10-28T23:01:24.2112811+00:00
+
+
+--- Message ---
+Message ID: 1288992894241341480
+Message Type: 21
+Reply to: 1288987547594391564
+Timestamp: 2024-09-26T22:37:34.317+00:00
+Author: Roberta Bavin CA KC Greeter/Mod (roberta_24935)
+Author Id: 1269872908759597148
+Avatar URL: assets\df6d19d97b04a49ffcafbe7be14c7839-D9CE4.png
+Content: 
+--------------------
+
+--- Message ---
+Message ID: 1288992895885508680
+Message Type: Default
+Reply to: None
+Timestamp: 2024-09-26T22:37:34.709+00:00
+Author: Roberta Bavin CA KC Greeter/Mod (roberta_24935)
+Author Id: 1269872908759597148
+Avatar URL: assets\df6d19d97b04a49ffcafbe7be14c7839-D9CE4.png
+Content: Hi Julie! Please see DM from me! Thanks!
+--------------------

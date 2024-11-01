@@ -1,0 +1,27 @@
+Guild: Team Harris-Walz Virtual Office (ID: 1242249109298221066)
+Channel: Same here.  I was just on the training (ID: 1283958156539461763)
+Channel Topic: None
+Exported At: 2024-10-28T23:26:04.6925383+00:00
+
+
+--- Message ---
+Message ID: 1283959907632025610
+Message Type: 21
+Reply to: 1283958156539461763
+Timestamp: 2024-09-13T01:18:16.801+00:00
+Author: Jack Joannides KC text admin (jjoannid)
+Author Id: 477560366432256000
+Avatar URL: assets\791c521e62160be1f3df04992f6e5470-36A38.png
+Content: 
+--------------------
+
+--- Message ---
+Message ID: 1283959909305548884
+Message Type: Default
+Reply to: None
+Timestamp: 2024-09-13T01:18:17.2+00:00
+Author: Jack Joannides KC text admin (jjoannid)
+Author Id: 477560366432256000
+Avatar URL: assets\791c521e62160be1f3df04992f6e5470-36A38.png
+Content: Join a training here: https://events.democrats.org/event/672393/
+--------------------

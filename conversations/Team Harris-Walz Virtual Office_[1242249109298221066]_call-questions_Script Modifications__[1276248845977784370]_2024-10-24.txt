@@ -1,0 +1,92 @@
+Guild: Team Harris-Walz Virtual Office (ID: 1242249109298221066)
+Channel: Script Modifications? (ID: 1276248845977784370)
+Channel Topic: None
+Exported At: 2024-10-24T12:56:35.2747505+00:00
+
+
+--- Message ---
+Message ID: 1276248845977784370
+Message Type: Default
+Reply to: None
+Timestamp: 2024-08-22T18:37:16.438+00:00
+Author: Suzi (MI - no party) (suzan52)
+Author Id: 474644069461524481
+Avatar URL: assets\53bedd607e2abf3d8bc98976a8379c21-B28AD.png
+Content: The script for the phone bank seems to assume I belong to the Democratic Party.
+I do not.  I am not affiliated with any party, and I'm typically conservative.
+
+Is it kosher to start with "I'm calling on behalf of the Democratic Party" instead of "I'm WITH the Democratic Party"?
+I think the fact that I do not affiliate with a party is beneficial for my conversation, particularly since I usually lean toward conservative.
+
+What's the skinny on that?
+--------------------
+
+--- Message ---
+Message ID: 1276266970823790612
+Message Type: Reply
+Reply to: 1276248845977784370
+Timestamp: 2024-08-22T19:49:17.738+00:00
+Author: AndreaV, KY Call Mod (andrearogersvalen)
+Author Id: 965992907981074443
+Avatar URL: assets\72d82e393a66b89996d99840a07990ec-C9EFF.png
+Content: That sounds like an excellent rephrasing, still keeping it honest for you in particular. Good luck with your calls and thanks for all you're doing!
+--------------------
+
+--- Message ---
+Message ID: 1276302228071776347
+Message Type: Default
+Reply to: None
+Timestamp: 2024-08-22T22:09:23.721+00:00
+Author: Jake (MA) (legrille)
+Author Id: 318554954254123008
+Avatar URL: assets\255cd1d1ea319e6943165ef183e7f5a2-A9C53.png
+Content: Same, I usually say something like "calling for the Democrats" or "Calling on behalf of" and if the conversation leads there, I mention I'm actually registered Independent.
+--------------------
+
+--- Message ---
+Message ID: 1276541073501589544
+Message Type: Default
+Reply to: None
+Timestamp: 2024-08-23T13:58:28.909+00:00
+Author: Suzi (MI - no party) (suzan52)
+Author Id: 474644069461524481
+Avatar URL: assets\53bedd607e2abf3d8bc98976a8379c21-B28AD.png
+Content: Last night I had about 30% of the hangups before I got to [YOUR NAME], and the rest of them after I said "Democratic Party".
+--------------------
+
+--- Message ---
+Message ID: 1276686461059600414
+Message Type: Default
+Reply to: None
+Timestamp: 2024-08-23T23:36:12.004+00:00
+Author: Thomas W E (renown8908)
+Author Id: 160094709543469056
+Avatar URL: assets\564b1b06163ea6ffd4f6b556ca413fb0-21B7F.png
+Content: I thought about calling like this.
+
+"Hi I'm Thomas, I'm calling on behalf of America. Is this (insert name)"
+
+That way they get a little bit of me in there, and sometimes if it's NOT the person I'm calling, maybe they'll still listen instead of immediately hang up?
+--------------------
+
+--- Message ---
+Message ID: 1277058847084646525
+Message Type: Default
+Reply to: None
+Timestamp: 2024-08-25T00:15:55.751+00:00
+Author: Suzi (MI - no party) (suzan52)
+Author Id: 474644069461524481
+Avatar URL: assets\53bedd607e2abf3d8bc98976a8379c21-B28AD.png
+Content: I like that!!!
+--------------------
+
+--- Message ---
+Message ID: 1277076351056089120
+Message Type: Default
+Reply to: None
+Timestamp: 2024-08-25T01:25:29.023+00:00
+Author: Abigail P.(Data Captain) (abigailpritchard)
+Author Id: 1174129892019941411
+Avatar URL: assets\6f513b8af09f9314bc65d892f3473a23-9D45C.png
+Content: Hey! As someone who helps with running the phone banks, the line I’ve been given on this is that you can play with the script as much as you like, as long as you ask the bolded questions.
+--------------------

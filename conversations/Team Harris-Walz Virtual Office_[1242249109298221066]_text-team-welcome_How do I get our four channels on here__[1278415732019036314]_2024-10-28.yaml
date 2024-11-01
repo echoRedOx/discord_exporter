@@ -1,0 +1,73 @@
+- author_avatar_url: assets\791c521e62160be1f3df04992f6e5470-36A38.png
+  author_id: '477560366432256000'
+  author_name: jjoannid
+  author_nickname: Jack Joannides KC text admin
+  content: ''
+  id: '1278415992497901630'
+  ref_to: '1278415732019036314'
+  timestamp: '2024-08-28T18:08:44.432+00:00'
+  type: '21'
+- author_avatar_url: assets\791c521e62160be1f3df04992f6e5470-36A38.png
+  author_id: '477560366432256000'
+  author_name: jjoannid
+  author_nickname: Jack Joannides KC text admin
+  content: We'll add you in 24-48 hours if you've taken the required steps.
+  id: '1278415994397655070'
+  ref_to: null
+  timestamp: '2024-08-28T18:08:44.885+00:00'
+  type: Default
+- author_avatar_url: assets\2-ADBB4.png
+  author_id: '1277051144140751003'
+  author_name: hgeiogue
+  author_nickname: Hal Geiogue [CA]
+  content: Right, I took the training last Sat.; I have filled out the agreement form;
+    and I took the 5 question quiz. Are there more steps I need to do?
+  id: '1278416856499355730'
+  ref_to: null
+  timestamp: '2024-08-28T18:12:10.426+00:00'
+  type: Default
+- author_avatar_url: assets\791c521e62160be1f3df04992f6e5470-36A38.png
+  author_id: '477560366432256000'
+  author_name: jjoannid
+  author_nickname: Jack Joannides KC text admin
+  content: Let me check on that in an second.
+  id: '1278417545816445091'
+  ref_to: null
+  timestamp: '2024-08-28T18:14:54.772+00:00'
+  type: Default
+- author_avatar_url: assets\2-ADBB4.png
+  author_id: '1277051144140751003'
+  author_name: hgeiogue
+  author_nickname: Hal Geiogue [CA]
+  content: Yo.
+  id: '1278417618717638706'
+  ref_to: null
+  timestamp: '2024-08-28T18:15:12.153+00:00'
+  type: Default
+- author_avatar_url: assets\791c521e62160be1f3df04992f6e5470-36A38.png
+  author_id: '477560366432256000'
+  author_name: jjoannid
+  author_nickname: Jack Joannides KC text admin
+  content: Let me send you stuff through an direct message.
+  id: '1278421934673231964'
+  ref_to: null
+  timestamp: '2024-08-28T18:32:21.157+00:00'
+  type: Default
+- author_avatar_url: assets\2-ADBB4.png
+  author_id: '1277051144140751003'
+  author_name: hgeiogue
+  author_nickname: Hal Geiogue [CA]
+  content: OK
+  id: '1278428730641088604'
+  ref_to: null
+  timestamp: '2024-08-28T18:59:21.442+00:00'
+  type: Default
+- author_avatar_url: assets\791c521e62160be1f3df04992f6e5470-36A38.png
+  author_id: '477560366432256000'
+  author_name: jjoannid
+  author_nickname: Jack Joannides KC text admin
+  content: I sent it to you like 30 mins ago.
+  id: '1278429295924084766'
+  ref_to: null
+  timestamp: '2024-08-28T19:01:36.216+00:00'
+  type: Default

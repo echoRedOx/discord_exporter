@@ -1,0 +1,27 @@
+Guild: Team Harris-Walz Virtual Office (ID: 1242249109298221066)
+Channel: Yeah, I never got the invite email but (ID: 1290470269462384640)
+Channel Topic: None
+Exported At: 2024-10-29T00:37:25.606239+00:00
+
+
+--- Message ---
+Message ID: 1290470708039782473
+Message Type: 21
+Reply to: 1290470269462384640
+Timestamp: 2024-10-01T00:29:52.583+00:00
+Author: Ellen M (ellenmm)
+Author Id: 804948269473333259
+Avatar URL: assets\0-EB806.png
+Content: 
+--------------------
+
+--- Message ---
+Message ID: 1290470709369503865
+Message Type: Default
+Reply to: None
+Timestamp: 2024-10-01T00:29:52.9+00:00
+Author: Ellen M (ellenmm)
+Author Id: 804948269473333259
+Avatar URL: assets\0-EB806.png
+Content: oh yeah it was initially a text, you are right. no emails yet.
+--------------------

@@ -1,0 +1,50 @@
+- author_avatar_url: assets\a50f82de2ebe8b1353e87862bcae45d7-92A3F.png
+  author_id: '1274405229445779509'
+  author_name: loniventi
+  author_nickname: "Loni Venti \U0001FA77"
+  content: Hi! Anyone else waiting to get into the phone bank that was scheduled for
+    6pm EDT? (Or is anyone already on the call?) thank you!
+  id: '1278478100874657853'
+  ref_to: null
+  timestamp: '2024-08-28T22:15:32.223+00:00'
+  type: Default
+- author_avatar_url: assets\ee1f838c4f1b6fc37ee52bef5abcace5-B2D34.png
+  author_id: '1273024393932574734'
+  author_name: lynfarrow
+  author_nickname: AnnapolisLyn [Call MOD]
+  content: <@1274405229445779509> are you having problems loging on to the Zoom?
+  id: '1278479390719606814'
+  ref_to: null
+  timestamp: '2024-08-28T22:20:39.746+00:00'
+  type: Default
+- author_avatar_url: assets\a50f82de2ebe8b1353e87862bcae45d7-92A3F.png
+  author_id: '1274405229445779509'
+  author_name: loniventi
+  author_nickname: "Loni Venti \U0001FA77"
+  content: "It was a Google meet, I wasn\u2019t admitted in. Tried a couple times!\
+    \ Any advice on how to prevent that in the future? Thank you for your reply!"
+  id: '1278534455115513982'
+  ref_to: null
+  timestamp: '2024-08-29T01:59:28.121+00:00'
+  type: Default
+- author_avatar_url: assets\cd48a61b3416a1c6fe47335cfcfc484e-EE993.png
+  author_id: '1276396030375624789'
+  author_name: jackferreira.246012
+  author_nickname: Jack Ferreira (KC)
+  content: 'Use this link to sign up for upcoming phone banks: https://events.democrats.org/event/569897/'
+  id: '1278537309796438016'
+  ref_to: null
+  timestamp: '2024-08-29T02:10:48.73+00:00'
+  type: Default
+- author_avatar_url: assets\72d82e393a66b89996d99840a07990ec-C9EFF.png
+  author_id: '965992907981074443'
+  author_name: andrearogersvalen
+  author_nickname: AndreaV, KY Call Mod
+  content: This one time slot was a slightly different set up than usual Zoom Phone
+    Bank sessions. We're updating our instructions to reflect this in the future so
+    we can avoid the type of issue you had joining this one. Sorry for the inconvenience.
+    We hope to see you on another phone bank session soon! <:blueheart:1252803082849488956>
+  id: '1278706781836808266'
+  ref_to: '1278534455115513982'
+  timestamp: '2024-08-29T13:24:14.013+00:00'
+  type: Reply

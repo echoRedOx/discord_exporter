@@ -1,0 +1,27 @@
+Guild: Team Harris-Walz Virtual Office (ID: 1242249109298221066)
+Channel: I got my training done three days ago. (ID: 1298432653929873449)
+Channel Topic: None
+Exported At: 2024-10-28T22:21:23.8818897+00:00
+
+
+--- Message ---
+Message ID: 1298434510509051967
+Message Type: 21
+Reply to: 1298432653929873449
+Timestamp: 2024-10-22T23:55:11.052+00:00
+Author: Roberta Bavin CA KC Greeter/Mod (roberta_24935)
+Author Id: 1269872908759597148
+Avatar URL: assets\df6d19d97b04a49ffcafbe7be14c7839-D9CE4.png
+Content: 
+--------------------
+
+--- Message ---
+Message ID: 1298434513793187862
+Message Type: Default
+Reply to: None
+Timestamp: 2024-10-22T23:55:11.835+00:00
+Author: Roberta Bavin CA KC Greeter/Mod (roberta_24935)
+Author Id: 1269872908759597148
+Avatar URL: assets\df6d19d97b04a49ffcafbe7be14c7839-D9CE4.png
+Content: Hi <@796929044427046942> Thanks for reaching out. Please look for a DM from me in a few minutes. Thanks!
+--------------------

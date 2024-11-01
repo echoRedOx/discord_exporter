@@ -1,0 +1,49 @@
+Guild: Team Harris-Walz Virtual Office (ID: 1242249109298221066)
+Channel: Average mortgage payments on a new home ... (ID: 1273839895718264894)
+Channel Topic: None
+Exported At: 2024-10-24T12:17:01.7111129+00:00
+
+
+--- Message ---
+Message ID: 1273840257259016296
+Message Type: 21
+Reply to: 1273839895718264894
+Timestamp: 2024-08-16T03:06:24.138+00:00
+Author: Deleted User (Deleted User)
+Author Id: 456226577798135808
+Avatar URL: assets\3-FB033.png
+Content: 
+--------------------
+
+--- Message ---
+Message ID: 1273840258265387009
+Message Type: Default
+Reply to: None
+Timestamp: 2024-08-16T03:06:24.378+00:00
+Author: Deleted User (Deleted User)
+Author Id: 456226577798135808
+Avatar URL: assets\3-FB033.png
+Content: I am curious if this is somehow distorted by thing like the real estate bust of 2007/8 ? Is there a cleaner more realistic view of this somewhere? Or, how does the campaign need to address this?
+--------------------
+
+--- Message ---
+Message ID: 1273846734795182111
+Message Type: Default
+Reply to: None
+Timestamp: 2024-08-16T03:32:08.503+00:00
+Author: Deleted User (Deleted User)
+Author Id: 456226577798135808
+Avatar URL: assets\3-FB033.png
+Content: Also is it too soon to talk about the results of this plan? https://www.whitehouse.gov/briefing-room/statements-releases/2024/03/07/fact-sheet-president-biden-announces-plan-to-lower-housing-costs-for-working-families/
+--------------------
+
+--- Message ---
+Message ID: 1273860578468823054
+Message Type: Default
+Reply to: None
+Timestamp: 2024-08-16T04:27:09.092+00:00
+Author: Deleted User (Deleted User)
+Author Id: 456226577798135808
+Avatar URL: assets\3-FB033.png
+Content: daily mail https://www.allsides.com/news-source/daily-mail VS politco https://www.allsides.com/news-source/politico-media-bias
+--------------------

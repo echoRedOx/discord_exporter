@@ -1,0 +1,104 @@
+Guild: Team Harris-Walz Virtual Office (ID: 1242249109298221066)
+Channel: I had my text training. What is my next (ID: 1287227440493498389)
+Channel Topic: None
+Exported At: 2024-10-28T23:07:28.4382881+00:00
+
+
+--- Message ---
+Message ID: 1287228921997299792
+Message Type: 21
+Reply to: 1287227440493498389
+Timestamp: 2024-09-22T01:48:10.561+00:00
+Author: Nicole Morris - Text Admin (nmorris237)
+Author Id: 935762347753103382
+Avatar URL: assets\27b1e286b65ae02b3378793b5f098411-A7B20.png
+Content: 
+--------------------
+
+--- Message ---
+Message ID: 1287228924190916692
+Message Type: Default
+Reply to: None
+Timestamp: 2024-09-22T01:48:11.084+00:00
+Author: Nicole Morris - Text Admin (nmorris237)
+Author Id: 935762347753103382
+Avatar URL: assets\27b1e286b65ae02b3378793b5f098411-A7B20.png
+Content: Hi <@1284582883331276813> Please give us up to 72 hours to send you a Direct Message on next steps. If it has been more than 72 hours already, let me know here!
+--------------------
+
+--- Message ---
+Message ID: 1287398198259879978
+Message Type: Default
+Reply to: None
+Timestamp: 2024-09-22T13:00:49.167+00:00
+Author: Anne Doran (anne037065)
+Author Id: 1284582883331276813
+Avatar URL: assets\8569adcbd36c70a7578c017bf5604ea5-2B291.png
+Content: I tried to set up Discord also on my laptop but I’m having trouble with my password.
+--------------------
+
+--- Message ---
+Message ID: 1287416671467733104
+Message Type: Default
+Reply to: None
+Timestamp: 2024-09-22T14:14:13.523+00:00
+Author: Anne Doran (anne037065)
+Author Id: 1284582883331276813
+Avatar URL: assets\8569adcbd36c70a7578c017bf5604ea5-2B291.png
+Content: Where will I see the DM?  Here?
+--------------------
+
+--- Message ---
+Message ID: 1287449969095344179
+Message Type: Default
+Reply to: None
+Timestamp: 2024-09-22T16:26:32.296+00:00
+Author: Nicole Morris - Text Admin (nmorris237)
+Author Id: 935762347753103382
+Avatar URL: assets\27b1e286b65ae02b3378793b5f098411-A7B20.png
+Content: Hi Anne -- no worries. Let me send you a message now to clarify. If you're on your phone/tablet, it'll be on the top left (purple speech bubble). It may be hidden within there in this small "1" envelope icon
+--------------------
+
+--- Message ---
+Message ID: 1287502517604716625
+Message Type: Default
+Reply to: None
+Timestamp: 2024-09-22T19:55:20.837+00:00
+Author: Anne Doran (anne037065)
+Author Id: 1284582883331276813
+Avatar URL: assets\8569adcbd36c70a7578c017bf5604ea5-2B291.png
+Content: Unfortunately I don’t see it. I’m not sure why I’m having so many issues. Perhaps I just don’t understand how to manage the platform
+--------------------
+
+--- Message ---
+Message ID: 1287514123340349550
+Message Type: Default
+Reply to: None
+Timestamp: 2024-09-22T20:41:27.86+00:00
+Author: Nicole Morris - Text Admin (nmorris237)
+Author Id: 935762347753103382
+Avatar URL: assets\27b1e286b65ae02b3378793b5f098411-A7B20.png
+Content: No worries at all! Are you on a computer or tablet/phone right now?
+--------------------
+
+--- Message ---
+Message ID: 1287527193358110812
+Message Type: Default
+Reply to: None
+Timestamp: 2024-09-22T21:33:23.995+00:00
+Author: Anne Doran (anne037065)
+Author Id: 1284582883331276813
+Avatar URL: assets\8569adcbd36c70a7578c017bf5604ea5-2B291.png
+Content: I’m on a phone but wanting to get set up on my computer so I can manage the platform easier
+--------------------
+
+--- Message ---
+Message ID: 1287566664573128794
+Message Type: Default
+Reply to: None
+Timestamp: 2024-09-23T00:10:14.666+00:00
+Author: Nicole Morris - Text Admin (nmorris237)
+Author Id: 935762347753103382
+Avatar URL: assets\27b1e286b65ae02b3378793b5f098411-A7B20.png
+Content: Got it - understood! Let me resend you the DM to ask. On your phone in Discord, click on the speech bubble icon on the top left and you should see a notification in there from me. It may be hidden within this small envelope 1 icon
+--------------------

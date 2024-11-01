@@ -1,0 +1,49 @@
+Guild: Team Harris-Walz Virtual Office (ID: 1242249109298221066)
+Channel: Hi, I completed training last Thursday 9 (ID: 1285268424074985573)
+Channel Topic: None
+Exported At: 2024-10-28T23:19:50.6311341+00:00
+
+
+--- Message ---
+Message ID: 1285310535860093110
+Message Type: 21
+Reply to: 1285268424074985573
+Timestamp: 2024-09-16T18:45:11.664+00:00
+Author: Roberta Bavin CA KC Greeter/Mod (roberta_24935)
+Author Id: 1269872908759597148
+Avatar URL: assets\df6d19d97b04a49ffcafbe7be14c7839-D9CE4.png
+Content: 
+--------------------
+
+--- Message ---
+Message ID: 1285310537768632332
+Message Type: Default
+Reply to: None
+Timestamp: 2024-09-16T18:45:12.119+00:00
+Author: Roberta Bavin CA KC Greeter/Mod (roberta_24935)
+Author Id: 1269872908759597148
+Avatar URL: assets\df6d19d97b04a49ffcafbe7be14c7839-D9CE4.png
+Content: Hi Linda- Thanks for reaching out. Please ask in 'general-support-qs. They should be able to help. Thanks for being here!
+--------------------
+
+--- Message ---
+Message ID: 1285345425401974876
+Message Type: Default
+Reply to: None
+Timestamp: 2024-09-16T21:03:49.979+00:00
+Author: Linda Thompson [TN] (lindathompson0888)
+Author Id: 1278743341776900121
+Avatar URL: assets\50dbbd403bd4d54506476b6915c65524-87127.png
+Content: Thanks and will do that. Any idea when will I will be added to text team?
+--------------------
+
+--- Message ---
+Message ID: 1285374239805014178
+Message Type: Default
+Reply to: None
+Timestamp: 2024-09-16T22:58:19.868+00:00
+Author: Roberta Bavin CA KC Greeter/Mod (roberta_24935)
+Author Id: 1269872908759597148
+Avatar URL: assets\df6d19d97b04a49ffcafbe7be14c7839-D9CE4.png
+Content: The DM you were sent is to sign up for STW/Spoke, then you will get access to texting channels.
+--------------------

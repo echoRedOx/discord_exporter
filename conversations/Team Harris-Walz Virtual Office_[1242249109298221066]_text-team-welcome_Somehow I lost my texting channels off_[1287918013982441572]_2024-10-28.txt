@@ -1,0 +1,27 @@
+Guild: Team Harris-Walz Virtual Office (ID: 1242249109298221066)
+Channel: Somehow I lost my texting channels off (ID: 1287918013982441572)
+Channel Topic: None
+Exported At: 2024-10-28T23:05:27.7333715+00:00
+
+
+--- Message ---
+Message ID: 1287934588101853226
+Message Type: 21
+Reply to: 1287918013982441572
+Timestamp: 2024-09-24T00:32:14.471+00:00
+Author: Roberta Bavin CA KC Greeter/Mod (roberta_24935)
+Author Id: 1269872908759597148
+Avatar URL: assets\df6d19d97b04a49ffcafbe7be14c7839-D9CE4.png
+Content: 
+--------------------
+
+--- Message ---
+Message ID: 1287934589523853313
+Message Type: Default
+Reply to: None
+Timestamp: 2024-09-24T00:32:14.81+00:00
+Author: Roberta Bavin CA KC Greeter/Mod (roberta_24935)
+Author Id: 1269872908759597148
+Avatar URL: assets\df6d19d97b04a49ffcafbe7be14c7839-D9CE4.png
+Content: Hi Nancy- Please log out; restart your computer and restart Discord. Thanks!
+--------------------

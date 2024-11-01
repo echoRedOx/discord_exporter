@@ -1,0 +1,38 @@
+Guild: Team Harris-Walz Virtual Office (ID: 1242249109298221066)
+Channel: How do I access training to do texting (ID: 1279578800018952255)
+Channel Topic: None
+Exported At: 2024-10-28T23:44:22.0690886+00:00
+
+
+--- Message ---
+Message ID: 1279603044803154002
+Message Type: 21
+Reply to: 1279578800018952255
+Timestamp: 2024-09-01T00:45:39.756+00:00
+Author: Nicole Morris - Text Admin (nmorris237)
+Author Id: 935762347753103382
+Avatar URL: assets\27b1e286b65ae02b3378793b5f098411-A7B20.png
+Content: 
+--------------------
+
+--- Message ---
+Message ID: 1279603045931421758
+Message Type: Default
+Reply to: None
+Timestamp: 2024-09-01T00:45:40.025+00:00
+Author: Nicole Morris - Text Admin (nmorris237)
+Author Id: 935762347753103382
+Avatar URL: assets\27b1e286b65ae02b3378793b5f098411-A7B20.png
+Content: Hi Tulsa - thanks! You can sign up here: https://events.democrats.org/event/672393/
+--------------------
+
+--- Message ---
+Message ID: 1279617730223280170
+Message Type: Default
+Reply to: None
+Timestamp: 2024-09-01T01:44:01.033+00:00
+Author: Tulsa Chick (tulsachick)
+Author Id: 879031811550871552
+Avatar URL: assets\5-E9BDB.png
+Content: <:thankyou:1252806147396735057>
+--------------------

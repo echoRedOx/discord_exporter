@@ -1,0 +1,60 @@
+Guild: Team Harris-Walz Virtual Office (ID: 1242249109298221066)
+Channel: Text Team Channels (ID: 1280685474960117853)
+Channel Topic: None
+Exported At: 2024-10-28T20:10:09.0913122+00:00
+
+
+--- Message ---
+Message ID: 1280685474960117853
+Message Type: Default
+Reply to: None
+Timestamp: 2024-09-04T00:26:51.216+00:00
+Author: Christine Jerry [MI] (christinej0734)
+Author Id: 1012791863293513879
+Avatar URL: assets\8569adcbd36c70a7578c017bf5604ea5-95E3A.png
+Content: I attended a text team training on 7/31. I completed the google form and was onboarded. I had access to several text team channels within a couple of days from that date.  I did check in regularly for texting opportunities but they were always completed for the day.  I checked in this evening and no longer have access to all of the text team channels. I don’t know where or how to direct this question as it was removed from the text team welcome announcements channel. Appreciate any help.
+--------------------
+
+--- Message ---
+Message ID: 1280687692279058492
+Message Type: Default
+Reply to: None
+Timestamp: 2024-09-04T00:35:39.866+00:00
+Author: Carolyn B [CA] • Lead Mod (carb.on)
+Author Id: 568257600228032512
+Avatar URL: assets\28a90c77b5793d80eb62484a43c66748-D8837.png
+Content: Hi <@1012791863293513879> while you were "away" the text team revised their onboarding. Since you are a texter from a while back, I will connect you with <@1257444318222876712> to get this sorted.
+--------------------
+
+--- Message ---
+Message ID: 1280914133386002473
+Message Type: Default
+Reply to: None
+Timestamp: 2024-09-04T15:35:27.633+00:00
+Author: Nicole Morris - Text Admin (nmorris237)
+Author Id: 935762347753103382
+Avatar URL: assets\27b1e286b65ae02b3378793b5f098411-A7B20.png
+Content: Hi <@1012791863293513879> Thanks! I'll send you a folllow up Direct Message now in Discord. Let me know if you don't see it.
+--------------------
+
+--- Message ---
+Message ID: 1281347311485714574
+Message Type: Default
+Reply to: None
+Timestamp: 2024-09-05T20:16:45.34+00:00
+Author: Elizabeth Riotto (eriotto1)
+Author Id: 1279173325477908536
+Avatar URL: assets\1-B2132.png
+Content: How do I get to the Text Team?
+--------------------
+
+--- Message ---
+Message ID: 1281469654531051572
+Message Type: Default
+Reply to: None
+Timestamp: 2024-09-06T04:22:54.195+00:00
+Author: Nicole Morris - Text Admin (nmorris237)
+Author Id: 935762347753103382
+Avatar URL: assets\27b1e286b65ae02b3378793b5f098411-A7B20.png
+Content: Hi <@1279173325477908536> It looks like you were added this evening! Thanks!
+--------------------

@@ -1,0 +1,27 @@
+- author_avatar_url: assets\791c521e62160be1f3df04992f6e5470-36A38.png
+  author_id: '477560366432256000'
+  author_name: jjoannid
+  author_nickname: Jack Joannides KC text admin
+  content: ''
+  id: '1295167548182237315'
+  ref_to: '1295165381035692113'
+  timestamp: '2024-10-13T23:33:26.536+00:00'
+  type: '21'
+- author_avatar_url: assets\791c521e62160be1f3df04992f6e5470-36A38.png
+  author_id: '477560366432256000'
+  author_name: jjoannid
+  author_nickname: Jack Joannides KC text admin
+  content: Please ask this in <#1259238714157305936>
+  id: '1295167551030169613'
+  ref_to: null
+  timestamp: '2024-10-13T23:33:27.215+00:00'
+  type: Default
+- author_avatar_url: assets\791c521e62160be1f3df04992f6e5470-36A38.png
+  author_id: '477560366432256000'
+  author_name: jjoannid
+  author_nickname: Jack Joannides KC text admin
+  content: And that's what you should see,
+  id: '1295167610484297729'
+  ref_to: null
+  timestamp: '2024-10-13T23:33:41.39+00:00'
+  type: Default

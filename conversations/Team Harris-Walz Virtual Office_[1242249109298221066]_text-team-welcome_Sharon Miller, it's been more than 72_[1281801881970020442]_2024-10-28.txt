@@ -1,0 +1,27 @@
+Guild: Team Harris-Walz Virtual Office (ID: 1242249109298221066)
+Channel: Sharon Miller, it's been more than 72 (ID: 1281801881970020442)
+Channel Topic: None
+Exported At: 2024-10-28T23:35:14.5169699+00:00
+
+
+--- Message ---
+Message ID: 1281803602603675689
+Message Type: 21
+Reply to: 1281801881970020442
+Timestamp: 2024-09-07T02:29:53.62+00:00
+Author: Jack Joannides KC text admin (jjoannid)
+Author Id: 477560366432256000
+Avatar URL: assets\791c521e62160be1f3df04992f6e5470-36A38.png
+Content: 
+--------------------
+
+--- Message ---
+Message ID: 1281803604860338197
+Message Type: Default
+Reply to: None
+Timestamp: 2024-09-07T02:29:54.158+00:00
+Author: Jack Joannides KC text admin (jjoannid)
+Author Id: 477560366432256000
+Avatar URL: assets\791c521e62160be1f3df04992f6e5470-36A38.png
+Content: You should have gotten a direct message from Nicole yesterday.
+--------------------

@@ -1,0 +1,90 @@
+- author_avatar_url: assets\ed6d95cf5e1dbf7a027ee8b92282a4a9-53BC8.png
+  author_id: '1274405252514189383'
+  author_name: paulinnewburgh
+  author_nickname: Paul in Newburgh
+  content: "My partner and I are hosting a fundraiser. How do I direct donations?\
+    \ QR code? Cash? I\u2019ve tried repeatedly to reach someone at the campaign,\
+    \ but no response."
+  id: '1274724934664589382'
+  ref_to: null
+  timestamp: '2024-08-18T13:41:47.668+00:00'
+  type: Default
+- author_avatar_url: assets\54ff5e8dfab835d878a961f9f7b7d161-6C0EE.png
+  author_id: '1266879741785538682'
+  author_name: jean9_28218_79932
+  author_nickname: "Jeannine M \u2022 Lead Mod"
+  content: "Hi, <@1274405252514189383> ! Let me see if I can get an answer for you,\
+    \ or get someone to help \U0001F642"
+  id: '1274733907132026912'
+  ref_to: null
+  timestamp: '2024-08-18T14:17:26.871+00:00'
+  type: Default
+- author_avatar_url: assets\ed6d95cf5e1dbf7a027ee8b92282a4a9-53BC8.png
+  author_id: '1274405252514189383'
+  author_name: paulinnewburgh
+  author_nickname: Paul in Newburgh
+  content: Thank you.
+  id: '1274736439258644553'
+  ref_to: '1274733907132026912'
+  timestamp: '2024-08-18T14:27:30.577+00:00'
+  type: Reply
+- author_avatar_url: assets\54ff5e8dfab835d878a961f9f7b7d161-6C0EE.png
+  author_id: '1266879741785538682'
+  author_name: jean9_28218_79932
+  author_nickname: "Jeannine M \u2022 Lead Mod"
+  content: <@1257469301435400238> would you be able to share some info on this?
+  id: '1274739202453667901'
+  ref_to: null
+  timestamp: '2024-08-18T14:38:29.374+00:00'
+  type: Default
+- author_avatar_url: assets\8286d5b1308e7b3d80a3523e4ec50548-C029D.png
+  author_id: '1257469301435400238'
+  author_name: franceshaydock_20619
+  author_nickname: Frances Haydock (HFP HQ!)
+  content: Probably just have folks go to kamalaharris.com/donate
+  id: '1274741085846900827'
+  ref_to: null
+  timestamp: '2024-08-18T14:45:58.41+00:00'
+  type: Default
+- author_avatar_url: assets\54ff5e8dfab835d878a961f9f7b7d161-6C0EE.png
+  author_id: '1266879741785538682'
+  author_name: jean9_28218_79932
+  author_nickname: "Jeannine M \u2022 Lead Mod"
+  content: Thank you, Frances!
+  id: '1274741888813105163'
+  ref_to: null
+  timestamp: '2024-08-18T14:49:09.852+00:00'
+  type: Default
+- author_avatar_url: assets\a_af687ec26437850595306bad054786e9-735FE.gif
+  author_id: '690265089013842114'
+  author_name: snowbunslc
+  author_nickname: "Mimi P. [UT] \u2022 Lead Moo \U0001F404"
+  content: "It\u2019s possible to make a QR code for the website that people at your\
+    \ fundraiser can scan. Would that be helpful? If so, let me see if I can either\
+    \ find one, or I can create one, or even show you how to make one yourself if\
+    \ you\u2019d like."
+  id: '1274743498846765097'
+  ref_to: null
+  timestamp: '2024-08-18T14:55:33.714+00:00'
+  type: Default
+- author_avatar_url: assets\a30e650576a6d42a3c9ee24648f67c90-2AE37.png
+  author_id: '791857656897732648'
+  author_name: rootsmusic
+  author_nickname: rootsmusic
+  content: The campaign's QR codes are saved at https://discord.com/channels/1242249109298221066/1269443346372362383/1269476024857399418.  But
+    others have asked about text numbers.
+  id: '1274744308230262828'
+  ref_to: '1274743498846765097'
+  timestamp: '2024-08-18T14:58:46.686+00:00'
+  type: Reply
+- author_avatar_url: assets\ed6d95cf5e1dbf7a027ee8b92282a4a9-53BC8.png
+  author_id: '1274405252514189383'
+  author_name: paulinnewburgh
+  author_nickname: Paul in Newburgh
+  content: "I will try to set up a QR code. I\u2019m surprised there isn\u2019t a\
+    \ guide to how to host a fundraiser. I suppose unless you are an A-lister or mega\
+    \ donor, a fundraiser isn\u2019t very important."
+  id: '1274770435766091948'
+  ref_to: null
+  timestamp: '2024-08-18T16:42:35.976+00:00'
+  type: Default

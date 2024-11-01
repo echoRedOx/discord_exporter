@@ -1,0 +1,188 @@
+Guild: Team Harris-Walz Virtual Office (ID: 1242249109298221066)
+Channel: Laura (ID: 1278022652941828249)
+Channel Topic: None
+Exported At: 2024-10-28T23:47:31.1057635+00:00
+
+
+--- Message ---
+Message ID: 1278022883293003847
+Message Type: 21
+Reply to: 1278022652941828249
+Timestamp: 2024-08-27T16:06:39.894+00:00
+Author: Nicole Morris - Text Admin (nmorris237)
+Author Id: 935762347753103382
+Avatar URL: assets\27b1e286b65ae02b3378793b5f098411-A7B20.png
+Content: 
+--------------------
+
+--- Message ---
+Message ID: 1278022885104947274
+Message Type: Default
+Reply to: None
+Timestamp: 2024-08-27T16:06:40.326+00:00
+Author: Nicole Morris - Text Admin (nmorris237)
+Author Id: 935762347753103382
+Avatar URL: assets\27b1e286b65ae02b3378793b5f098411-A7B20.png
+Content: Thanks Laura! We do have a training today and Thursday (at least this week!) too.
+--------------------
+
+--- Message ---
+Message ID: 1278022960954867864
+Message Type: Default
+Reply to: None
+Timestamp: 2024-08-27T16:06:58.41+00:00
+Author: Laura M (CO) • Call Mod (hungry.hiker)
+Author Id: 756314488113987654
+Avatar URL: assets\4aa5ed3c3ad66beef8f10bd0d3979dae-08843.png
+Content: Ok, thanks sorry for the bad information!
+--------------------
+
+--- Message ---
+Message ID: 1278025431529820224
+Message Type: Default
+Reply to: None
+Timestamp: 2024-08-27T16:16:47.441+00:00
+Author: Nicole Morris - Text Admin (nmorris237)
+Author Id: 935762347753103382
+Avatar URL: assets\27b1e286b65ae02b3378793b5f098411-A7B20.png
+Content: All good - appreciate your help!
+--------------------
+
+--- Message ---
+Message ID: 1278379547938525264
+Message Type: Default
+Reply to: None
+Timestamp: 2024-08-28T15:43:55.372+00:00
+Author: Jesse Liberty (jesseliberty)
+Author Id: 816713323272732704
+Avatar URL: assets\1d34e7e7c56007731c7c3c62e8224fb4-275E0.png
+Content: Thanks all. I'm all set
+--------------------
+
+--- Message ---
+Message ID: 1278720661044461608
+Message Type: Default
+Reply to: None
+Timestamp: 2024-08-29T14:19:23.074+00:00
+Author: Jesse Liberty (jesseliberty)
+Author Id: 816713323272732704
+Avatar URL: assets\1d34e7e7c56007731c7c3c62e8224fb4-275E0.png
+Content: Hi, sorry to bother you. A few quick questions:
+1) When I try to write to moderators I'm told I have to be on their server. What is the right way to ask questions/get help
+2) Should I have permission to post a response in online-engagement? 
+3) Is there training for community (X, Facebook, etc.) enagement?
+
+Thanks!
+--------------------
+
+--- Message ---
+Message ID: 1278907922918674433
+Message Type: Default
+Reply to: None
+Timestamp: 2024-08-30T02:43:29.784+00:00
+Author: Nicole Morris - Text Admin (nmorris237)
+Author Id: 935762347753103382
+Avatar URL: assets\27b1e286b65ae02b3378793b5f098411-A7B20.png
+Content: Hi <@816713323272732704> No worries! Hm -- are you trying to Direct Message a moderator? The best way to get help with texting right now is in this <#1266829704204386334> channel. Once you're added to our texting channels (looks like Roberta messaged you about setting up your Scale to Win account today), then you can ask questions in the **texting-questions** channel
+
+For 2 and 3 -- I'm not sure on those questions, as I'm not involved in those two parts of the server. I would suggest asking that in <#1242264162948874360> or <#1267941954243526756> and a community moderator can help
+--------------------
+
+--- Message ---
+Message ID: 1279063849487564811
+Message Type: Default
+Reply to: None
+Timestamp: 2024-08-30T13:03:05.575+00:00
+Author: Jesse Liberty (jesseliberty)
+Author Id: 816713323272732704
+Avatar URL: assets\1d34e7e7c56007731c7c3c62e8224fb4-275E0.png
+Content: Thanks!
+--------------------
+
+--- Message ---
+Message ID: 1279064515568336929
+Message Type: Default
+Reply to: None
+Timestamp: 2024-08-30T13:05:44.381+00:00
+Author: Jesse Liberty (jesseliberty)
+Author Id: 816713323272732704
+Avatar URL: assets\1d34e7e7c56007731c7c3c62e8224fb4-275E0.png
+Content: I'm sorry to keep bothering you. I don't see anything from Roberta. Where would i find that?
+--------------------
+
+--- Message ---
+Message ID: 1279070112745394238
+Message Type: Default
+Reply to: None
+Timestamp: 2024-08-30T13:27:58.852+00:00
+Author: Nicole Morris - Text Admin (nmorris237)
+Author Id: 935762347753103382
+Avatar URL: assets\27b1e286b65ae02b3378793b5f098411-A7B20.png
+Content: No worries! She should have sent you a Direct Message -- top left in Discord, under Message Requests
+--------------------
+
+--- Message ---
+Message ID: 1279070128574824470
+Message Type: Default
+Reply to: None
+Timestamp: 2024-08-30T13:28:02.626+00:00
+Author: Nicole Morris - Text Admin (nmorris237)
+Author Id: 935762347753103382
+Avatar URL: assets\27b1e286b65ae02b3378793b5f098411-A7B20.png
+Content: 
+--------------------
+
+--- Message ---
+Message ID: 1279070173508407381
+Message Type: Default
+Reply to: None
+Timestamp: 2024-08-30T13:28:13.339+00:00
+Author: Nicole Morris - Text Admin (nmorris237)
+Author Id: 935762347753103382
+Avatar URL: assets\27b1e286b65ae02b3378793b5f098411-A7B20.png
+Content: Tagging in <@1269872908759597148> on this thread -- in case you don't see it still.
+--------------------
+
+--- Message ---
+Message ID: 1279089244891119717
+Message Type: Reply
+Reply to: 1279070173508407381
+Timestamp: 2024-08-30T14:44:00.311+00:00
+Author: Roberta Bavin CA KC Greeter/Mod (roberta_24935)
+Author Id: 1269872908759597148
+Avatar URL: assets\df6d19d97b04a49ffcafbe7be14c7839-D9CE4.png
+Content: <@816713323272732704> It looks like the DM was sent to you yesterday. Please check again. Thanks!
+--------------------
+
+--- Message ---
+Message ID: 1279141230894252043
+Message Type: Reply
+Reply to: 1279089244891119717
+Timestamp: 2024-08-30T18:10:34.74+00:00
+Author: Jesse Liberty (jesseliberty)
+Author Id: 816713323272732704
+Avatar URL: assets\1d34e7e7c56007731c7c3c62e8224fb4-275E0.png
+Content: Not sure how to find it. Thanks
+--------------------
+
+--- Message ---
+Message ID: 1279149024703811658
+Message Type: Default
+Reply to: None
+Timestamp: 2024-08-30T18:41:32.929+00:00
+Author: Jesse Liberty (jesseliberty)
+Author Id: 816713323272732704
+Avatar URL: assets\1d34e7e7c56007731c7c3c62e8224fb4-275E0.png
+Content: Found it!  Thanks!!
+--------------------
+
+--- Message ---
+Message ID: 1279195213675364352
+Message Type: Default
+Reply to: None
+Timestamp: 2024-08-30T21:45:05.238+00:00
+Author: Nicole Morris - Text Admin (nmorris237)
+Author Id: 935762347753103382
+Avatar URL: assets\27b1e286b65ae02b3378793b5f098411-A7B20.png
+Content: Whohoo! Thanks both!
+--------------------

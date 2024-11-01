@@ -1,0 +1,21 @@
+- author_avatar_url: assets\3-FB033.png
+  author_id: '1295094071949529220'
+  author_name: marty_88532
+  author_nickname: Marty
+  content: I've used the autodialer to make a MI call and they hang up.  Then I hit
+    the red End Call button followed by the Resume Calling button.  The autodialer
+    gives me the same number to call.  Is there any way out of this loop?
+  id: '1295100399832797306'
+  ref_to: null
+  timestamp: '2024-10-13T19:06:37.122+00:00'
+  type: Default
+- author_avatar_url: assets\d1341d3c05d207da49a6fa548b4c1086-4BE71.png
+  author_id: '1267643778043482122'
+  author_name: hollymateluber
+  author_nickname: Holly Mate-Luber [Call Mod]
+  content: Hi Marty! I've responded to you over in <#1242256751445934262> before seeing
+    you also posted here, meet you back in there!
+  id: '1295100994367127583'
+  ref_to: null
+  timestamp: '2024-10-13T19:08:58.87+00:00'
+  type: Default

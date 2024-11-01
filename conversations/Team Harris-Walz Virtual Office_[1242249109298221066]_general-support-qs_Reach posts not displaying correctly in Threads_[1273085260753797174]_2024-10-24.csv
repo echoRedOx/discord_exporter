@@ -1,0 +1,13 @@
+id,type,ref_to,timestamp,author_name,author_nickname,author_id,author_avatar_url,content
+1273085260753797174,Default,,2024-08-14T01:06:18.944+00:00,citizen_cloyd,citizen_cloyd,1272713928836911196,assets\4-4551A.png,"Every time I try to post something from Reach onto Threads, all I see is the link text and not the post itself. I’ve tried copying directly from the “Select App” button but that doesn’t work either…"
+1273085435358482523,Reply,1273085260753797174,2024-08-14T01:07:00.573+00:00,rootsmusic,rootsmusic,791857656897732648,assets\a30e650576a6d42a3c9ee24648f67c90-2AE37.png,Need to use copy-and-paste.
+1273103562339127360,Default,,2024-08-14T02:19:02.382+00:00,citizen_cloyd,citizen_cloyd,1272713928836911196,assets\4-4551A.png,"That doesn’t work all the time. It’s acts like it’s copied but there’s nothing to paste when I’m in threads…
+
+I’ve gotten it to work with pictures but not video or audio."
+1273109940822736907,Reply,1273103562339127360,2024-08-14T02:44:23.131+00:00,rootsmusic,rootsmusic,791857656897732648,assets\a30e650576a6d42a3c9ee24648f67c90-2AE37.png,"For non-text, you'd have to download and upload.  (I know it's more work, but it actually boosts your posts in feeds because the algo prefers new content over shared ones.)"
+1273110911938203770,Default,,2024-08-14T02:48:14.663+00:00,citizen_cloyd,citizen_cloyd,1272713928836911196,assets\4-4551A.png,That worked. Thanks!
+1275248525978112080,Default,,2024-08-20T00:22:21.565+00:00,christy01640,Christy,1044052587265142795,assets\29cedbdc72d8b2753872437fd3753a67-DAAC7.png,Ok thanks i’ll try it
+1276250872984244286,Default,,2024-08-22T18:45:19.714+00:00,bry_guy,Bryan Moriarty [CA],554345843784679426,assets\5d19b1e18e37375027e191dfec69fe35-F0671.png,"I understand that this is the workaround, but this should not be the expected norm.  Is there a way to fill bug reports with the people who make the Reach app?"
+1276251300400468091,Reply,1276250872984244286,2024-08-22T18:47:01.618+00:00,rootsmusic,rootsmusic,791857656897732648,assets\a30e650576a6d42a3c9ee24648f67c90-2AE37.png,"Yes, [Reach feedback](https://feedback.reach.vote/)"
+1276255056785702912,Default,,2024-08-22T19:01:57.21+00:00,bry_guy,Bryan Moriarty [CA],554345843784679426,assets\5d19b1e18e37375027e191dfec69fe35-F0671.png,"Feedback has been filed! I used the problems described here as the text, and included a screenshot
+https://feedback.reach.vote/posts/176/reach-posts-not-displaying-correctly-in-threads"

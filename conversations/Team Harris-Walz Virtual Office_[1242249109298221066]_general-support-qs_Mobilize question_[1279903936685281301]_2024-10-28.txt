@@ -1,0 +1,38 @@
+Guild: Team Harris-Walz Virtual Office (ID: 1242249109298221066)
+Channel: Mobilize question (ID: 1279903936685281301)
+Channel Topic: None
+Exported At: 2024-10-28T20:15:18.8616237+00:00
+
+
+--- Message ---
+Message ID: 1279903936685281301
+Message Type: Default
+Reply to: None
+Timestamp: 2024-09-01T20:41:17.971+00:00
+Author: Jack Joannides KC text admin (jjoannid)
+Author Id: 477560366432256000
+Avatar URL: assets\791c521e62160be1f3df04992f6e5470-36A38.png
+Content: Just wondering myself. I see on mobilize that the last volunteer welcome session is on the 6th. Do you know if those will continue or not?
+--------------------
+
+--- Message ---
+Message ID: 1279952394121121884
+Message Type: Default
+Reply to: None
+Timestamp: 2024-09-01T23:53:51.124+00:00
+Author: Frances Haydock (HFP HQ!) (franceshaydock_20619)
+Author Id: 1257469301435400238
+Avatar URL: assets\8286d5b1308e7b3d80a3523e4ec50548-C029D.png
+Content: I am not sure--I kind of doubt it but we shall see.
+--------------------
+
+--- Message ---
+Message ID: 1279953107756781670
+Message Type: Default
+Reply to: None
+Timestamp: 2024-09-01T23:56:41.268+00:00
+Author: Jack Joannides KC text admin (jjoannid)
+Author Id: 477560366432256000
+Avatar URL: assets\791c521e62160be1f3df04992f6e5470-36A38.png
+Content: Thanks.
+--------------------

@@ -1,0 +1,151 @@
+- author_avatar_url: assets\791c521e62160be1f3df04992f6e5470-36A38.png
+  author_id: '477560366432256000'
+  author_name: jjoannid
+  author_nickname: Jack Joannides KC text admin
+  content: ''
+  id: '1270925918797434881'
+  ref_to: '1270922438812631101'
+  timestamp: '2024-08-08T02:05:51.703+00:00'
+  type: '21'
+- author_avatar_url: assets\791c521e62160be1f3df04992f6e5470-36A38.png
+  author_id: '477560366432256000'
+  author_name: jjoannid
+  author_nickname: Jack Joannides KC text admin
+  content: For the future yes you should tag wrong number and strong harris. And wrong
+    number response should work. But you can add the NV volunteer link.
+  id: '1270925919955062795'
+  ref_to: null
+  timestamp: '2024-08-08T02:05:51.979+00:00'
+  type: Default
+- author_avatar_url: assets\5-E9BDB.png
+  author_id: '945061096086188122'
+  author_name: jeanneb_ny
+  author_nickname: Jeanne Brunson [NY]
+  content: "How do we join the Slack texting channel while waiting for campaigns to\
+    \ be ported over to Discord? I can\u2019t even find where to sign up for training\
+    \ but I\u2019m an experienced texter and texted for Biden in 2020."
+  id: '1272198103771906188'
+  ref_to: null
+  timestamp: '2024-08-11T14:21:04.237+00:00'
+  type: Default
+- author_avatar_url: assets\791c521e62160be1f3df04992f6e5470-36A38.png
+  author_id: '477560366432256000'
+  author_name: jjoannid
+  author_nickname: Jack Joannides KC text admin
+  content: Well our text trainings are at capacity and we're only using  discord now.
+  id: '1272198694858526841'
+  ref_to: '1272198103771906188'
+  timestamp: '2024-08-11T14:23:25.163+00:00'
+  type: Reply
+- author_avatar_url: assets\5-E9BDB.png
+  author_id: '945061096086188122'
+  author_name: jeanneb_ny
+  author_nickname: Jeanne Brunson [NY]
+  content: Why do I not see any other text channels then?
+  id: '1272198783802937446'
+  ref_to: null
+  timestamp: '2024-08-11T14:23:46.369+00:00'
+  type: Default
+- author_avatar_url: assets\5-E9BDB.png
+  author_id: '945061096086188122'
+  author_name: jeanneb_ny
+  author_nickname: Jeanne Brunson [NY]
+  content: "I\u2019m only in the text welcome"
+  id: '1272199012757409892'
+  ref_to: null
+  timestamp: '2024-08-11T14:24:40.956+00:00'
+  type: Default
+- author_avatar_url: assets\791c521e62160be1f3df04992f6e5470-36A38.png
+  author_id: '477560366432256000'
+  author_name: jjoannid
+  author_nickname: Jack Joannides KC text admin
+  content: Because they're private. And only people with the role can see them.
+  id: '1272199039735038114'
+  ref_to: '1272198783802937446'
+  timestamp: '2024-08-11T14:24:47.388+00:00'
+  type: Reply
+- author_avatar_url: assets\5-E9BDB.png
+  author_id: '945061096086188122'
+  author_name: jeanneb_ny
+  author_nickname: Jeanne Brunson [NY]
+  content: "Ok, so where would I \u201Ccheck back\u201D for trainings to be posted\
+    \ or otherwise get added to the role?"
+  id: '1272199246095061056'
+  ref_to: null
+  timestamp: '2024-08-11T14:25:36.588+00:00'
+  type: Default
+- author_avatar_url: assets\791c521e62160be1f3df04992f6e5470-36A38.png
+  author_id: '477560366432256000'
+  author_name: jjoannid
+  author_nickname: Jack Joannides KC text admin
+  content: 'Here: https://events.democrats.org/event/654680/?referring_vol=6476689&share_context=dashboard-event-details&sharer_role=SharerRole.ORGANIZER'
+  id: '1272199654657757274'
+  ref_to: '1272199246095061056'
+  timestamp: '2024-08-11T14:27:13.997+00:00'
+  type: Reply
+- author_avatar_url: assets\5-E9BDB.png
+  author_id: '945061096086188122'
+  author_name: jeanneb_ny
+  author_nickname: Jeanne Brunson [NY]
+  content: Thank you!
+  id: '1272199698857459904'
+  ref_to: null
+  timestamp: '2024-08-11T14:27:24.535+00:00'
+  type: Default
+- author_avatar_url: assets\7d8a8ff8b1af8ed4548bea3eff10eda0-E5DA4.png
+  author_id: '1271962241540821144'
+  author_name: carollarsencalifornia_66888
+  author_nickname: Carol Larsen CA
+  content: How can I be added to the texting channel? I've participated in two trainings
+    and am finally on discord
+  id: '1273388710838407279'
+  ref_to: null
+  timestamp: '2024-08-14T21:12:07.082+00:00'
+  type: Default
+- author_avatar_url: assets\791c521e62160be1f3df04992f6e5470-36A38.png
+  author_id: '477560366432256000'
+  author_name: jjoannid
+  author_nickname: Jack Joannides KC text admin
+  content: We can't add you right at this second. Maybe in a few days.
+  id: '1273390752684183714'
+  ref_to: '1273388710838407279'
+  timestamp: '2024-08-14T21:20:13.896+00:00'
+  type: Reply
+- author_avatar_url: assets\5-E9BDB.png
+  author_id: '945061096086188122'
+  author_name: jeanneb_ny
+  author_nickname: Jeanne Brunson [NY]
+  content: "I registered for tonight\u2019s training but never got a link and now\
+    \ it says at capacity, with no other times available. This morning there were\
+    \ six or eight dates available, but most weren\u2019t until mid-September!"
+  id: '1273424782150467586'
+  ref_to: null
+  timestamp: '2024-08-14T23:35:27.153+00:00'
+  type: Default
+- author_avatar_url: assets\791c521e62160be1f3df04992f6e5470-36A38.png
+  author_id: '477560366432256000'
+  author_name: jjoannid
+  author_nickname: Jack Joannides KC text admin
+  content: It's cancelled for tonight. Sorry.
+  id: '1273425912590766162'
+  ref_to: '1273424782150467586'
+  timestamp: '2024-08-14T23:39:56.671+00:00'
+  type: Reply
+- author_avatar_url: assets\7d8a8ff8b1af8ed4548bea3eff10eda0-E5DA4.png
+  author_id: '1271962241540821144'
+  author_name: carollarsencalifornia_66888
+  author_nickname: Carol Larsen CA
+  content: Have I been added to the texting channel. ?
+  id: '1274468220186918983'
+  ref_to: null
+  timestamp: '2024-08-17T20:41:42.167+00:00'
+  type: Default
+- author_avatar_url: assets\791c521e62160be1f3df04992f6e5470-36A38.png
+  author_id: '477560366432256000'
+  author_name: jjoannid
+  author_nickname: Jack Joannides KC text admin
+  content: No.
+  id: '1274479954016468993'
+  ref_to: '1274468220186918983'
+  timestamp: '2024-08-17T21:28:19.73+00:00'
+  type: Reply

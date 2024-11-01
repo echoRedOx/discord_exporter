@@ -1,0 +1,27 @@
+Guild: Team Harris-Walz Virtual Office (ID: 1242249109298221066)
+Channel: I still don't believe I've been emailed since the text team training and filling out the quiz, etc. (ID: 1282521684493996042)
+Channel Topic: None
+Exported At: 2024-10-28T20:08:04.6888957+00:00
+
+
+--- Message ---
+Message ID: 1282521684493996042
+Message Type: Default
+Reply to: None
+Timestamp: 2024-09-09T02:03:17.684+00:00
+Author: Alissa Gallegos (orionsbelle)
+Author Id: 741761713904418896
+Avatar URL: assets\c7f0524b34a5919336eaab058f298378-A12C0.png
+Content: <#1266829704204386334>
+--------------------
+
+--- Message ---
+Message ID: 1282522525288632421
+Message Type: Default
+Reply to: None
+Timestamp: 2024-09-09T02:06:38.145+00:00
+Author: Kay Adams [Mod] (science4979)
+Author Id: 652991652448698388
+Avatar URL: assets\3d8690866ff0e62607a449287de8ca1d-57B17.png
+Content: Hi <@741761713904418896> We appreciate you are excited to get started. Text team is onboarding folks as they can. Please ask in <#1266829704204386334> and look for a Direct Message (it will show as a red dot on the game player icon in the top left of your screen).
+--------------------

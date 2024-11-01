@@ -1,0 +1,60 @@
+Guild: Team Harris-Walz Virtual Office (ID: 1242249109298221066)
+Channel: 25627: Person has given $10K to campaign and volunteered. Doesn't want to be contacted (ID: 1287932026300792862)
+Channel Topic: None
+Exported At: 2024-10-28T20:56:16.7040319+00:00
+
+
+--- Message ---
+Message ID: 1287932026300792862
+Message Type: Default
+Reply to: None
+Timestamp: 2024-09-24T00:22:03.69+00:00
+Author: Susan M (CO) (breckgirl5)
+Author Id: 1275302249333264426
+Avatar URL: assets\54b8db847b86bd4ebeb4fb047abbe849-E8882.png
+Content: https://democrats.text.scaletowin.com/admin/34/incoming/?campaign=25627&contact=270986656&includeArchived=true&includeOptOut=true
+--------------------
+
+--- Message ---
+Message ID: 1287932169041346624
+Message Type: Default
+Reply to: None
+Timestamp: 2024-09-24T00:22:37.722+00:00
+Author: Susan M (CO) (breckgirl5)
+Author Id: 1275302249333264426
+Avatar URL: assets\54b8db847b86bd4ebeb4fb047abbe849-E8882.png
+Content: I didn't want to opt this person out becaus they are a STRONG supporter and financial supporter.... should I close and save?
+--------------------
+
+--- Message ---
+Message ID: 1287932398624964670
+Message Type: Reply
+Reply to: 1287932169041346624
+Timestamp: 2024-09-24T00:23:32.459+00:00
+Author: Larry Ahlgrim (VA) [Call Mod] (larrya._98544)
+Author Id: 1266903666879627274
+Avatar URL: assets\5fde485e55d806d8356ca6e7e08f1f48-77A19.png
+Content: You should mark them do not call. we have to when they request
+--------------------
+
+--- Message ---
+Message ID: 1287932530175119371
+Message Type: Default
+Reply to: None
+Timestamp: 2024-09-24T00:24:03.823+00:00
+Author: Susan M (CO) (breckgirl5)
+Author Id: 1275302249333264426
+Avatar URL: assets\54b8db847b86bd4ebeb4fb047abbe849-E8882.png
+Content: Ok. I thought so, but wanted to be sure
+--------------------
+
+--- Message ---
+Message ID: 1287933348571775049
+Message Type: Default
+Reply to: None
+Timestamp: 2024-09-24T00:27:18.944+00:00
+Author: Jen Medeiros [CA] • [Lead Mod] (starkittynmom)
+Author Id: 1276944250491113656
+Avatar URL: assets\a_2aba4b7f19fcab5fe5391fcdb73d735d-D670A.gif
+Content: <@1275302249333264426> they'll still be able to contact the campaign on their own terms. 😍  Thanks for following up!
+--------------------

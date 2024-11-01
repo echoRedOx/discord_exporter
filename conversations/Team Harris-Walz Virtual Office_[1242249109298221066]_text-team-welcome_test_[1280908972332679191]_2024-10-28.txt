@@ -1,0 +1,16 @@
+Guild: Team Harris-Walz Virtual Office (ID: 1242249109298221066)
+Channel: test (ID: 1280908972332679191)
+Channel Topic: None
+Exported At: 2024-10-28T23:40:18.2145392+00:00
+
+
+--- Message ---
+Message ID: 1280908973695827988
+Message Type: Default
+Reply to: None
+Timestamp: 2024-09-04T15:14:57.467+00:00
+Author: Angelo Ruiz (aruiz46)
+Author Id: 1252341090892120162
+Avatar URL: assets\16b40a8509df5e46a71520654ea28214-D7F48.png
+Content: test
+--------------------

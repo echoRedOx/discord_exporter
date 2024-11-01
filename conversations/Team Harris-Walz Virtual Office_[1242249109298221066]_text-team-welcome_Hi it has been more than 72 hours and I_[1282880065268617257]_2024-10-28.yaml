@@ -1,0 +1,55 @@
+- author_avatar_url: assets\df6d19d97b04a49ffcafbe7be14c7839-D9CE4.png
+  author_id: '1269872908759597148'
+  author_name: roberta_24935
+  author_nickname: Roberta Bavin CA KC Greeter/Mod
+  content: ''
+  id: '1282889013111423072'
+  ref_to: '1282880065268617257'
+  timestamp: '2024-09-10T02:22:55.651+00:00'
+  type: '21'
+- author_avatar_url: assets\df6d19d97b04a49ffcafbe7be14c7839-D9CE4.png
+  author_id: '1269872908759597148'
+  author_name: roberta_24935
+  author_nickname: Roberta Bavin CA KC Greeter/Mod
+  content: Hi Kyle! It looks like you got a DM on 9/5 from Andrew. Can you find it?
+  id: '1282889015577673728'
+  ref_to: null
+  timestamp: '2024-09-10T02:22:56.239+00:00'
+  type: Default
+- author_avatar_url: assets\efe299c45e5458cbb604078e0341ce7f-201DF.png
+  author_id: '1104782655012221049'
+  author_name: brawlingfish
+  author_nickname: Kyle Andrews
+  content: "Hi Roberta, I had requests from non-friends blocked on discord so that\u2019\
+    s why it got blocked"
+  id: '1283053881735122944'
+  ref_to: null
+  timestamp: '2024-09-10T13:18:03.394+00:00'
+  type: Default
+- author_avatar_url: assets\efe299c45e5458cbb604078e0341ce7f-201DF.png
+  author_id: '1104782655012221049'
+  author_name: brawlingfish
+  author_nickname: Kyle Andrews
+  content: Are you able to resent it?
+  id: '1283053900248645697'
+  ref_to: null
+  timestamp: '2024-09-10T13:18:07.808+00:00'
+  type: Default
+- author_avatar_url: assets\df6d19d97b04a49ffcafbe7be14c7839-D9CE4.png
+  author_id: '1269872908759597148'
+  author_name: roberta_24935
+  author_nickname: Roberta Bavin CA KC Greeter/Mod
+  content: Resent it but it was blocked.
+  id: '1283073702241632286'
+  ref_to: '1283053900248645697'
+  timestamp: '2024-09-10T14:36:48.971+00:00'
+  type: Reply
+- author_avatar_url: assets\efe299c45e5458cbb604078e0341ce7f-201DF.png
+  author_id: '1104782655012221049'
+  author_name: brawlingfish
+  author_nickname: Kyle Andrews
+  content: Sorry can you try it one more time
+  id: '1283075351710531605'
+  ref_to: null
+  timestamp: '2024-09-10T14:43:22.235+00:00'
+  type: Default

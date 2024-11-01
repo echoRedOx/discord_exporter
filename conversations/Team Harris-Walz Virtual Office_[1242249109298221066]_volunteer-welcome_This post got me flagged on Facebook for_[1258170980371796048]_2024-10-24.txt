@@ -1,0 +1,150 @@
+Guild: Team Harris-Walz Virtual Office (ID: 1242249109298221066)
+Channel: This post got me flagged on Facebook for (ID: 1258170980371796048)
+Channel Topic: None
+Exported At: 2024-10-24T06:17:09.8792577+00:00
+
+
+--- Message ---
+Message ID: 1258180012549476496
+Message Type: 21
+Reply to: 1258170980371796048
+Timestamp: 2024-07-03T21:58:10.846+00:00
+Author: demtortilla (demtortilla_60949)
+Author Id: 1242248892804763712
+Avatar URL: assets\a_c1a2d0423471e6287ce2d2c69bf8abe5-C5FA2.gif
+Content: 
+--------------------
+
+--- Message ---
+Message ID: 1258180016169029683
+Message Type: Default
+Reply to: None
+Timestamp: 2024-07-03T21:58:11.709+00:00
+Author: demtortilla (demtortilla_60949)
+Author Id: 1242248892804763712
+Avatar URL: assets\a_c1a2d0423471e6287ce2d2c69bf8abe5-C5FA2.gif
+Content: Hi <@1256039663194345533>  - this is a volunteer welcome channel but you should definitely comment this in the <#1250550849998946417> channel where folks can be more helpful with tactics around sharing content.
+--------------------
+
+--- Message ---
+Message ID: 1267223402301751399
+Message Type: Default
+Reply to: None
+Timestamp: 2024-07-28T20:53:22.981+00:00
+Author: Vanessa Romo CA (vanessaromo_36475)
+Author Id: 1251589167444525188
+Avatar URL: assets\d9e12f31f06ecedb62c3f5f9a6569eab-44BB7.png
+Content: I had an issue on instagram where they claimed my posts are partially false information.
+--------------------
+
+--- Message ---
+Message ID: 1267657807050707014
+Message Type: Reply
+Reply to: 1267223402301751399
+Timestamp: 2024-07-30T01:39:33.144+00:00
+Author: Jessica Puchala (MD) [OE Lead] (jessica033389)
+Author Id: 869778676986814514
+Avatar URL: assets\37de34190564f7c9acae5895cc884c8a-6F9C7.png
+Content: <@1251589167444525188> You may wish to use this form to alert campaign staff about the issue you're having with meta (who owns Instagram and Facebook). 
+Meta Content Flags
+https://docs.google.com/forms/d/e/1FAIpQLSf-zsdDPQTpIqronNb423YP_cOQbJrg9xf4R-ZU5zLpkkZHkg/viewform
+--------------------
+
+--- Message ---
+Message ID: 1270189645178601473
+Message Type: Default
+Reply to: None
+Timestamp: 2024-08-06T01:20:10.393+00:00
+Author: rootsmusic (rootsmusic)
+Author Id: 791857656897732648
+Avatar URL: assets\a30e650576a6d42a3c9ee24648f67c90-2AE37.png
+Content: <@1266796930743271489> Meta is using [biased sources for "fact-checking"](https://www.facebook.com/TheOther98/posts/pfbid02WQpiMT5Ukn8GKGUhJ5hn7ki4yff1y3T5F1k4VM6XiYoFqVTRUmrEormedJumNdc5l)
+--------------------
+
+--- Message ---
+Message ID: 1270193729659211869
+Message Type: Default
+Reply to: None
+Timestamp: 2024-08-06T01:36:24.209+00:00
+Author: Danielle Conger (MD/ FL) (danielleconger)
+Author Id: 1266796930743271489
+Avatar URL: assets\8afd75fe2c93e7ef932537117d5f157d-751E0.png
+Content: <@791857656897732648> is there anything that can be done?
+--------------------
+
+--- Message ---
+Message ID: 1270193919472173120
+Message Type: Reply
+Reply to: 1270193729659211869
+Timestamp: 2024-08-06T01:37:09.464+00:00
+Author: rootsmusic (rootsmusic)
+Author Id: 791857656897732648
+Avatar URL: assets\a30e650576a6d42a3c9ee24648f67c90-2AE37.png
+Content: The campaign is monitoring with the above Google Form.
+--------------------
+
+--- Message ---
+Message ID: 1273384037871783979
+Message Type: Default
+Reply to: None
+Timestamp: 2024-08-14T20:53:32.96+00:00
+Author: DeeDee2 (deedee21949)
+Author Id: 861754434879094797
+Avatar URL: assets\4e819863b5ccb6d94e03a81af21fb089-7AB95.png
+Content: My instagram post on 2025 from Dems was also reported for inaccurate information from The Dispatch . Anything we can do?
+--------------------
+
+--- Message ---
+Message ID: 1273386484090667181
+Message Type: Reply
+Reply to: 1273384037871783979
+Timestamp: 2024-08-14T21:03:16.184+00:00
+Author: rootsmusic (rootsmusic)
+Author Id: 791857656897732648
+Avatar URL: assets\a30e650576a6d42a3c9ee24648f67c90-2AE37.png
+Content: Submit the above Google Form.
+--------------------
+
+--- Message ---
+Message ID: 1273407234499674243
+Message Type: Default
+Reply to: None
+Timestamp: 2024-08-14T22:25:43.467+00:00
+Author: DeeDee2 (deedee21949)
+Author Id: 861754434879094797
+Avatar URL: assets\4e819863b5ccb6d94e03a81af21fb089-7AB95.png
+Content: I sent a note to instagram asking what qualifies The Dispatch to be the arbiter for content. All of a sudden I can’t post anything from reach to instagram am I being blocked? The rest of the app is ok
+--------------------
+
+--- Message ---
+Message ID: 1273410819211661322
+Message Type: Default
+Reply to: None
+Timestamp: 2024-08-14T22:39:58.129+00:00
+Author: DeeDee2 (deedee21949)
+Author Id: 861754434879094797
+Avatar URL: assets\4e819863b5ccb6d94e03a81af21fb089-7AB95.png
+Content: I reinstalled the app, but I wonder if they did that on purpose seems to be working now
+--------------------
+
+--- Message ---
+Message ID: 1273431274744184842
+Message Type: Default
+Reply to: None
+Timestamp: 2024-08-15T00:01:15.108+00:00
+Author: DeeDee2 (deedee21949)
+Author Id: 861754434879094797
+Avatar URL: assets\4e819863b5ccb6d94e03a81af21fb089-7AB95.png
+Content: Update on problem look like nothing I shared is uploaded Looks like I’m blocked from using  reach
+--------------------
+
+--- Message ---
+Message ID: 1273431651376169101
+Message Type: Reply
+Reply to: 1273431274744184842
+Timestamp: 2024-08-15T00:02:44.904+00:00
+Author: rootsmusic (rootsmusic)
+Author Id: 791857656897732648
+Avatar URL: assets\a30e650576a6d42a3c9ee24648f67c90-2AE37.png
+Content: Try reinstalling and go to <#1242256950402744431> if it doesn't work.
+--------------------

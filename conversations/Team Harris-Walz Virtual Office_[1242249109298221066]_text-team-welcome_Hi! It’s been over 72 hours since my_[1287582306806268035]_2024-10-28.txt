@@ -1,0 +1,27 @@
+Guild: Team Harris-Walz Virtual Office (ID: 1242249109298221066)
+Channel: Hi! It’s been over 72 hours since my (ID: 1287582306806268035)
+Channel Topic: None
+Exported At: 2024-10-28T23:06:32.5188785+00:00
+
+
+--- Message ---
+Message ID: 1287582745249189920
+Message Type: 21
+Reply to: 1287582306806268035
+Timestamp: 2024-09-23T01:14:08.598+00:00
+Author: Jack Joannides KC text admin (jjoannid)
+Author Id: 477560366432256000
+Avatar URL: assets\791c521e62160be1f3df04992f6e5470-36A38.png
+Content: 
+--------------------
+
+--- Message ---
+Message ID: 1287582746566201398
+Message Type: Default
+Reply to: None
+Timestamp: 2024-09-23T01:14:08.912+00:00
+Author: Jack Joannides KC text admin (jjoannid)
+Author Id: 477560366432256000
+Avatar URL: assets\791c521e62160be1f3df04992f6e5470-36A38.png
+Content: You should have gotten a direct message from Roberta. Did you direct message her that you changed your name?
+--------------------

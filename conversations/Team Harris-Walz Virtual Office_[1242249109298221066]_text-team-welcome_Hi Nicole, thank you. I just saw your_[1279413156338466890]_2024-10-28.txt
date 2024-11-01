@@ -1,0 +1,27 @@
+Guild: Team Harris-Walz Virtual Office (ID: 1242249109298221066)
+Channel: Hi Nicole, thank you. I just saw your (ID: 1279413156338466890)
+Channel Topic: None
+Exported At: 2024-10-28T23:47:27.4391051+00:00
+
+
+--- Message ---
+Message ID: 1279440667952812156
+Message Type: 21
+Reply to: 1279413156338466890
+Timestamp: 2024-08-31T14:00:26.098+00:00
+Author: Nicole Morris - Text Admin (nmorris237)
+Author Id: 935762347753103382
+Avatar URL: assets\27b1e286b65ae02b3378793b5f098411-A7B20.png
+Content: 
+--------------------
+
+--- Message ---
+Message ID: 1279440670011949148
+Message Type: Default
+Reply to: None
+Timestamp: 2024-08-31T14:00:26.589+00:00
+Author: Nicole Morris - Text Admin (nmorris237)
+Author Id: 935762347753103382
+Avatar URL: assets\27b1e286b65ae02b3378793b5f098411-A7B20.png
+Content: Hi <@1262407313503813764> Please see your Direct Messages -- from an Android phone, there should be a speech bubble icon on the top left in Discord - and there's a little envelope icon at the top to find the DM's
+--------------------

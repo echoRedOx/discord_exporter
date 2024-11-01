@@ -1,0 +1,60 @@
+Guild: Team Harris-Walz Virtual Office (ID: 1242249109298221066)
+Channel: training completed - KnowApp quiz passed (ID: 1298328966033178626)
+Channel Topic: None
+Exported At: 2024-10-28T22:23:27.6902258+00:00
+
+
+--- Message ---
+Message ID: 1298329988671475763
+Message Type: 21
+Reply to: 1298328966033178626
+Timestamp: 2024-10-22T16:59:51.104+00:00
+Author: Roberta Bavin CA KC Greeter/Mod (roberta_24935)
+Author Id: 1269872908759597148
+Avatar URL: assets\df6d19d97b04a49ffcafbe7be14c7839-D9CE4.png
+Content: 
+--------------------
+
+--- Message ---
+Message ID: 1298329991293178001
+Message Type: Default
+Reply to: None
+Timestamp: 2024-10-22T16:59:51.729+00:00
+Author: Roberta Bavin CA KC Greeter/Mod (roberta_24935)
+Author Id: 1269872908759597148
+Avatar URL: assets\df6d19d97b04a49ffcafbe7be14c7839-D9CE4.png
+Content: Hi <@983469080893853716> Are you in the correct server? Our Quiz is not the KnowApp Quiz; and you aren't in the Agreement form. Thanks for checking in!
+--------------------
+
+--- Message ---
+Message ID: 1298335785090682952
+Message Type: Default
+Reply to: None
+Timestamp: 2024-10-22T17:22:53.078+00:00
+Author: Tammy Aguilar [NM} (taguilar55)
+Author Id: 983469080893853716
+Avatar URL: assets\b1fa14ad74538f8ab3cc33e5a0093553-419EB.png
+Content: correct - I did the correspondence quiz. I have done the text training and signed up for texting today. But since all the glitches on my end have gone unresolved, I will not waste any more of my time or yours. Thank you. My volunteer time here on Discord with content creation and the "brigade" were also lacking in structure.
+--------------------
+
+--- Message ---
+Message ID: 1298336383542497392
+Message Type: Default
+Reply to: None
+Timestamp: 2024-10-22T17:25:15.76+00:00
+Author: Roberta Bavin CA KC Greeter/Mod (roberta_24935)
+Author Id: 1269872908759597148
+Avatar URL: assets\df6d19d97b04a49ffcafbe7be14c7839-D9CE4.png
+Content: There are other volunteer opportunities if you have the availability. Please check the <#1268426751164551199> channel or your state channels. <:thankyou:1252806147396735057> 🌊
+--------------------
+
+--- Message ---
+Message ID: 1298341591165173832
+Message Type: Default
+Reply to: None
+Timestamp: 2024-10-22T17:45:57.354+00:00
+Author: Tammy Aguilar [NM} (taguilar55)
+Author Id: 983469080893853716
+Avatar URL: assets\b1fa14ad74538f8ab3cc33e5a0093553-419EB.png
+Content: no thank you - if there was not clarification here
+--------------------

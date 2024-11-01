@@ -1,0 +1,32 @@
+- author_avatar_url: assets\1-B2132.png
+  author_id: '690550534549012520'
+  author_name: adelespinasse
+  author_nickname: Alan deLespinasse (MA)
+  content: ''
+  id: '1275903800737267896'
+  ref_to: '1275898061427703829'
+  timestamp: '2024-08-21T19:46:11.242+00:00'
+  type: '21'
+- author_avatar_url: assets\1-B2132.png
+  author_id: '690550534549012520'
+  author_name: adelespinasse
+  author_nickname: Alan deLespinasse (MA)
+  content: Sure, I plan to, but I would choose a more efficient way if there was one.
+    Even if there was just a recording of the Zoom presentation, I would probably
+    watch it at 2x speed.
+  id: '1275903805573169194'
+  ref_to: null
+  timestamp: '2024-08-21T19:46:12.395+00:00'
+  type: Default
+- author_avatar_url: assets\956a030f8fd3be27176c0b45ddb73f81-D8A63.png
+  author_id: '1157136685683974144'
+  author_name: blindartstudios
+  author_nickname: Blind Art Studios
+  content: There is an aspect of team and community building. You want to be part
+    of that. You can ask questions. And so on. They also welcome suggestions and feedback
+    on the tools or content needed to help you be successful. You will not be alone
+    in this.  Welcome
+  id: '1275940501299662858'
+  ref_to: null
+  timestamp: '2024-08-21T22:12:01.338+00:00'
+  type: Default

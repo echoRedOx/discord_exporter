@@ -1,0 +1,27 @@
+Guild: Team Harris-Walz Virtual Office (ID: 1242249109298221066)
+Channel: Signed agreement. Passed quiz. Ready to (ID: 1277063671872229496)
+Channel Topic: None
+Exported At: 2024-10-29T00:03:54.2605896+00:00
+
+
+--- Message ---
+Message ID: 1277083805995499611
+Message Type: 21
+Reply to: 1277063671872229496
+Timestamp: 2024-08-25T01:55:06.419+00:00
+Author: Nicole Morris - Text Admin (nmorris237)
+Author Id: 935762347753103382
+Avatar URL: assets\27b1e286b65ae02b3378793b5f098411-A7B20.png
+Content: 
+--------------------
+
+--- Message ---
+Message ID: 1277083807228366919
+Message Type: Default
+Reply to: None
+Timestamp: 2024-08-25T01:55:06.713+00:00
+Author: Nicole Morris - Text Admin (nmorris237)
+Author Id: 935762347753103382
+Avatar URL: assets\27b1e286b65ae02b3378793b5f098411-A7B20.png
+Content: Thanks Kathleen! Keep an eye on your Direct Message notifications in Discord within the next 24-48 hours for final steps on onboarding!
+--------------------

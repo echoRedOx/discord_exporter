@@ -1,0 +1,27 @@
+Guild: Team Harris-Walz Virtual Office (ID: 1242249109298221066)
+Channel: Hi, I need to be added back into the (ID: 1289676646907117570)
+Channel Topic: None
+Exported At: 2024-10-28T22:59:21.2753849+00:00
+
+
+--- Message ---
+Message ID: 1289676958531190856
+Message Type: 21
+Reply to: 1289676646907117570
+Timestamp: 2024-09-28T19:55:47.953+00:00
+Author: Kris Morrell (CA) - KC TextAdmin (kcmpolitical)
+Author Id: 1254144571089354868
+Avatar URL: assets\f7ebcd4727f2b8e05b4382b1b1eb6d74-1D9FE.png
+Content: 
+--------------------
+
+--- Message ---
+Message ID: 1289676961362219181
+Message Type: Default
+Reply to: None
+Timestamp: 2024-09-28T19:55:48.628+00:00
+Author: Kris Morrell (CA) - KC TextAdmin (kcmpolitical)
+Author Id: 1254144571089354868
+Avatar URL: assets\f7ebcd4727f2b8e05b4382b1b1eb6d74-1D9FE.png
+Content: Hi! I'll DM you now
+--------------------

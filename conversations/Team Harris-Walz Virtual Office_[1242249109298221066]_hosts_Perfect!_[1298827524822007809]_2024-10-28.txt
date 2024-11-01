@@ -1,0 +1,61 @@
+Guild: Team Harris-Walz Virtual Office (ID: 1242249109298221066)
+Channel: Perfect! (ID: 1298827524822007809)
+Channel Topic: None
+Exported At: 2024-10-28T22:02:18.6675962+00:00
+
+
+--- Message ---
+Message ID: 1299048234521460816
+Message Type: 21
+Reply to: 1298827524822007809
+Timestamp: 2024-10-24T16:33:54.259+00:00
+Author: Jay Damashek (adventurous_flamingo_29002)
+Author Id: 1296592484931080253
+Avatar URL: assets\5-E9BDB.png
+Content: 
+--------------------
+
+--- Message ---
+Message ID: 1299048237713592411
+Message Type: Default
+Reply to: None
+Timestamp: 2024-10-24T16:33:55.02+00:00
+Author: Jay Damashek (adventurous_flamingo_29002)
+Author Id: 1296592484931080253
+Avatar URL: assets\5-E9BDB.png
+Content: Hi -I have just started to do texting yesterday and today  and  i have not been able
+--------------------
+
+--- Message ---
+Message ID: 1299048800685396044
+Message Type: Default
+Reply to: None
+Timestamp: 2024-10-24T16:36:09.243+00:00
+Author: Jay Damashek (adventurous_flamingo_29002)
+Author Id: 1296592484931080253
+Avatar URL: assets\5-E9BDB.png
+Content: and everytime I get a campaign on S
+poke the camapign is there but the get replies is always  gray and not green.  so I can't begin to do anything. Can you tell me what I a am doing wrong>
+--------------------
+
+--- Message ---
+Message ID: 1299086843060686948
+Message Type: Reply
+Reply to: 1299048237713592411
+Timestamp: 2024-10-24T19:07:19.252+00:00
+Author: Jen Medeiros [CA] • [Lead Mod] (starkittynmom)
+Author Id: 1276944250491113656
+Avatar URL: assets\a_2aba4b7f19fcab5fe5391fcdb73d735d-D670A.gif
+Content: Hi Jay- these questions need to be asked in <#1259238714157305936>
+--------------------
+
+--- Message ---
+Message ID: 1299086937839112362
+Message Type: Default
+Reply to: None
+Timestamp: 2024-10-24T19:07:41.849+00:00
+Author: Jen Medeiros [CA] • [Lead Mod] (starkittynmom)
+Author Id: 1276944250491113656
+Avatar URL: assets\a_2aba4b7f19fcab5fe5391fcdb73d735d-D670A.gif
+Content: I'm going to delete this thread as it is in a channel for phone bank hosts.
+--------------------

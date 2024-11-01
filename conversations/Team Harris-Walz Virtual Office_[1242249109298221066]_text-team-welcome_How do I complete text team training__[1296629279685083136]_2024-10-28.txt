@@ -1,0 +1,27 @@
+Guild: Team Harris-Walz Virtual Office (ID: 1242249109298221066)
+Channel: How do I complete text team training? (ID: 1296629279685083136)
+Channel Topic: None
+Exported At: 2024-10-28T22:33:43.6254189+00:00
+
+
+--- Message ---
+Message ID: 1296630936024125441
+Message Type: 21
+Reply to: 1296629279685083136
+Timestamp: 2024-10-18T00:28:25.386+00:00
+Author: Roberta Bavin CA KC Greeter/Mod (roberta_24935)
+Author Id: 1269872908759597148
+Avatar URL: assets\df6d19d97b04a49ffcafbe7be14c7839-D9CE4.png
+Content: 
+--------------------
+
+--- Message ---
+Message ID: 1296630939165655110
+Message Type: Default
+Reply to: None
+Timestamp: 2024-10-18T00:28:26.135+00:00
+Author: Roberta Bavin CA KC Greeter/Mod (roberta_24935)
+Author Id: 1269872908759597148
+Avatar URL: assets\df6d19d97b04a49ffcafbe7be14c7839-D9CE4.png
+Content: Hi <@688839107715137570> Thanks for reaching out! Please look for a DM from me in a few minutes. Thanks!
+--------------------

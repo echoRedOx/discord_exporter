@@ -1,0 +1,49 @@
+Guild: Team Harris-Walz Virtual Office (ID: 1242249109298221066)
+Channel: Hello! I did text banking for Biden/ (ID: 1296529044292112506)
+Channel Topic: None
+Exported At: 2024-10-28T22:34:46.8648274+00:00
+
+
+--- Message ---
+Message ID: 1296529370395049984
+Message Type: 21
+Reply to: 1296529044292112506
+Timestamp: 2024-10-17T17:44:50.253+00:00
+Author: Jack Joannides KC text admin (jjoannid)
+Author Id: 477560366432256000
+Avatar URL: assets\791c521e62160be1f3df04992f6e5470-36A38.png
+Content: 
+--------------------
+
+--- Message ---
+Message ID: 1296529372622225501
+Message Type: Default
+Reply to: None
+Timestamp: 2024-10-17T17:44:50.784+00:00
+Author: Jack Joannides KC text admin (jjoannid)
+Author Id: 477560366432256000
+Avatar URL: assets\791c521e62160be1f3df04992f6e5470-36A38.png
+Content: Here we have a training at 5 pm est 2 pm pt. https://events.democrats.org/event/672393/
+--------------------
+
+--- Message ---
+Message ID: 1296529792337711165
+Message Type: Default
+Reply to: None
+Timestamp: 2024-10-17T17:46:30.852+00:00
+Author: Jennifer Dean (CA) (jenniferdean_75927)
+Author Id: 1295801016654106680
+Avatar URL: assets\1-B2132.png
+Content: Thank you Jack! I scrolled up and saw the link so I already signed up for this evening! Sorry for the premature question and thanks for your quick reply.
+--------------------
+
+--- Message ---
+Message ID: 1296530136098668545
+Message Type: Default
+Reply to: None
+Timestamp: 2024-10-17T17:47:52.811+00:00
+Author: Jack Joannides KC text admin (jjoannid)
+Author Id: 477560366432256000
+Avatar URL: assets\791c521e62160be1f3df04992f6e5470-36A38.png
+Content: It's okay.
+--------------------

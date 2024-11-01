@@ -1,0 +1,38 @@
+- author_avatar_url: assets\e9ac40f0c03765455ccef12c35ec6d83-7F9C3.png
+  author_id: '1277034415855370243'
+  author_name: mstrashheap
+  author_nickname: Margot R [WA]
+  content: I have a friend who is moving this week within WA state and since WA state
+    is vote by mail, she is concerned she won't be able to vote. Does anyone know
+    how I best direct her?
+  id: '1288350611246415943'
+  ref_to: null
+  timestamp: '2024-09-25T04:05:22.118+00:00'
+  type: Default
+- author_avatar_url: assets\e9ac40f0c03765455ccef12c35ec6d83-7F9C3.png
+  author_id: '1277034415855370243'
+  author_name: mstrashheap
+  author_nickname: Margot R [WA]
+  content: I know this isn't a discord question, I just didn't know where to ask
+  id: '1288351438472478722'
+  ref_to: null
+  timestamp: '2024-09-25T04:08:39.344+00:00'
+  type: Default
+- author_avatar_url: assets\a_de0e3d4a3f9b486ad3ad6df0d72323da-D0252.gif
+  author_id: '112080668296564736'
+  author_name: kyaizen
+  author_nickname: "Jared R [CO] \u2022 Lead Mod"
+  content: No problem! Thank you for asking! Send her to http://iwillvote.com
+  id: '1288352427954798632'
+  ref_to: '1288350611246415943'
+  timestamp: '2024-09-25T04:12:35.255+00:00'
+  type: Reply
+- author_avatar_url: assets\e9ac40f0c03765455ccef12c35ec6d83-7F9C3.png
+  author_id: '1277034415855370243'
+  author_name: mstrashheap
+  author_nickname: Margot R [WA]
+  content: "Thanks so much for answering, Jared! I'll let her know\U0001F499"
+  id: '1288352611019259924'
+  ref_to: null
+  timestamp: '2024-09-25T04:13:18.901+00:00'
+  type: Default

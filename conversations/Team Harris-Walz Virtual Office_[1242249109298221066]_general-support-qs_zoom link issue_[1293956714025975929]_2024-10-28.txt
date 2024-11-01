@@ -1,0 +1,117 @@
+Guild: Team Harris-Walz Virtual Office (ID: 1242249109298221066)
+Channel: zoom link issue (ID: 1293956714025975929)
+Channel Topic: None
+Exported At: 2024-10-28T19:54:45.5981149+00:00
+
+
+--- Message ---
+Message ID: 1293956714025975929
+Message Type: Default
+Reply to: None
+Timestamp: 2024-10-10T15:22:01.177+00:00
+Author: Peggy (peggy_13107)
+Author Id: 1293954265022332938
+Avatar URL: assets\3-FB033.png
+Content: Hope I'm in the right place...when I click on the zoom link for 11:00 phone bank, it brings me to the zoom page and the dialog with "open link." but when i click that, it goes nowhere. I made sure to open zoom and sign in on  my account and tried again, but the same thing. any suggestions?
+--------------------
+
+--- Message ---
+Message ID: 1293957854889512961
+Message Type: Default
+Reply to: None
+Timestamp: 2024-10-10T15:26:33.18+00:00
+Author: Jess L (SATX) [Mod] (girasol.glory)
+Author Id: 936359743457464391
+Avatar URL: assets\a52faf4ea91846a78ac440fcdc876153-E0FED.png
+Content: hmm... trying to click around on my end and figure this out... if anything, I would try shutting down zoom completely and restarting it (+login) before clicking the link again.
+
+Or it could be that the link is broken (I've done that by accident on the other end of phonebanks, oops.)
+--------------------
+
+--- Message ---
+Message ID: 1293957951760896112
+Message Type: Default
+Reply to: None
+Timestamp: 2024-10-10T15:26:56.276+00:00
+Author: Peggy (peggy_13107)
+Author Id: 1293954265022332938
+Avatar URL: assets\3-FB033.png
+Content: i'll give it a try...thanks
+--------------------
+
+--- Message ---
+Message ID: 1293958099798851618
+Message Type: Reply
+Reply to: 1293957951760896112
+Timestamp: 2024-10-10T15:27:31.571+00:00
+Author: Jess L (SATX) [Mod] (girasol.glory)
+Author Id: 936359743457464391
+Avatar URL: assets\a52faf4ea91846a78ac440fcdc876153-E0FED.png
+Content: trying to get more knowledgeable troubleshooting for you, as well! hope you can connect!
+--------------------
+
+--- Message ---
+Message ID: 1293959843882995783
+Message Type: Default
+Reply to: None
+Timestamp: 2024-10-10T15:34:27.393+00:00
+Author: Peggy (peggy_13107)
+Author Id: 1293954265022332938
+Avatar URL: assets\3-FB033.png
+Content: no luck yet...I may try checking my computer for updates, restarting, etc.  I know the zoom app updated a day or two ago
+--------------------
+
+--- Message ---
+Message ID: 1293960091074166785
+Message Type: Reply
+Reply to: 1293959843882995783
+Timestamp: 2024-10-10T15:35:26.328+00:00
+Author: Jess L (SATX) [Mod] (girasol.glory)
+Author Id: 936359743457464391
+Avatar URL: assets\a52faf4ea91846a78ac440fcdc876153-E0FED.png
+Content: ahh, maybe that's it then. I know my computer goes glitchy for a day or two after it tries to run program updates.
+--------------------
+
+--- Message ---
+Message ID: 1293960154106040340
+Message Type: Default
+Reply to: None
+Timestamp: 2024-10-10T15:35:41.356+00:00
+Author: Jess L (SATX) [Mod] (girasol.glory)
+Author Id: 936359743457464391
+Avatar URL: assets\a52faf4ea91846a78ac440fcdc876153-E0FED.png
+Content: Thankfully, there are plenty more phonebanks for you to join, anytime!
+--------------------
+
+--- Message ---
+Message ID: 1293963601811472504
+Message Type: Reply
+Reply to: 1293959843882995783
+Timestamp: 2024-10-10T15:49:23.353+00:00
+Author: Helen Fairbrother[NJ] [Call Mod] (helen_fair)
+Author Id: 1277403351667048508
+Avatar URL: assets\ffcbaca1edffb25ac530087181864d5a-E82C5.png
+Content: Hi, Peggy -- Are you having any luck getting on your zoom link yet?
+--------------------
+
+--- Message ---
+Message ID: 1293964948334051378
+Message Type: Reply
+Reply to: 1293963601811472504
+Timestamp: 2024-10-10T15:54:44.389+00:00
+Author: Peggy (peggy_13107)
+Author Id: 1293954265022332938
+Avatar URL: assets\3-FB033.png
+Content: Yes-thanks.  Restarted everything, then I was able to connect
+--------------------
+
+--- Message ---
+Message ID: 1293965157114052628
+Message Type: Reply
+Reply to: 1293964948334051378
+Timestamp: 2024-10-10T15:55:34.166+00:00
+Author: Helen Fairbrother[NJ] [Call Mod] (helen_fair)
+Author Id: 1277403351667048508
+Avatar URL: assets\ffcbaca1edffb25ac530087181864d5a-E82C5.png
+Content: great.  I logged on to the call and found a Peggy.  Hoped it was you!  Happy Calling!
+--------------------

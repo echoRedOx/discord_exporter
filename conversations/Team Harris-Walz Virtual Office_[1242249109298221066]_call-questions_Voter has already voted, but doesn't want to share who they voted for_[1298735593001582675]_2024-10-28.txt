@@ -1,0 +1,27 @@
+Guild: Team Harris-Walz Virtual Office (ID: 1242249109298221066)
+Channel: Voter has already voted, but doesn't want to share who they voted for (ID: 1298735593001582675)
+Channel Topic: None
+Exported At: 2024-10-28T20:45:00.1952194+00:00
+
+
+--- Message ---
+Message ID: 1298735593001582675
+Message Type: Default
+Reply to: None
+Timestamp: 2024-10-23T19:51:34.712+00:00
+Author: Kelly Walker CA10 (kelly_4032)
+Author Id: 728671927694131351
+Avatar URL: assets\62de37a96f6f1d25cd346725b5b6666f-20EFE.png
+Content: How can we indicate that in the survey?
+--------------------
+
+--- Message ---
+Message ID: 1298736025467752481
+Message Type: Default
+Reply to: None
+Timestamp: 2024-10-23T19:53:17.82+00:00
+Author: Denise Ward [CO] [Call MOD] (denise.ward)
+Author Id: 1277408157664284795
+Avatar URL: assets\43ec2b9e8ddf26e3072b9feb4516a5fd-3D55A.png
+Content: Mark these as refused.  Its on the first page and you may have to go back to enter it.
+--------------------

@@ -1,0 +1,27 @@
+Guild: Team Harris-Walz Virtual Office (ID: 1242249109298221066)
+Channel: Can we get started on text banking right (ID: 1277050313672622193)
+Channel Topic: None
+Exported At: 2024-10-29T00:05:50.3459471+00:00
+
+
+--- Message ---
+Message ID: 1277056931906846763
+Message Type: 21
+Reply to: 1277050313672622193
+Timestamp: 2024-08-25T00:08:19.137+00:00
+Author: Nicole Morris - Text Admin (nmorris237)
+Author Id: 935762347753103382
+Avatar URL: assets\27b1e286b65ae02b3378793b5f098411-A7B20.png
+Content: 
+--------------------
+
+--- Message ---
+Message ID: 1277056933370658918
+Message Type: Default
+Reply to: None
+Timestamp: 2024-08-25T00:08:19.486+00:00
+Author: Nicole Morris - Text Admin (nmorris237)
+Author Id: 935762347753103382
+Avatar URL: assets\27b1e286b65ae02b3378793b5f098411-A7B20.png
+Content: Hi Matt - thanks! Have you taken a training yet?
+--------------------

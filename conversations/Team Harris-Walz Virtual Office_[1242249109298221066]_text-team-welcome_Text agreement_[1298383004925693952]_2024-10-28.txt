@@ -1,0 +1,27 @@
+Guild: Team Harris-Walz Virtual Office (ID: 1242249109298221066)
+Channel: Text agreement (ID: 1298383004925693952)
+Channel Topic: None
+Exported At: 2024-10-28T22:11:12.5911239+00:00
+
+
+--- Message ---
+Message ID: 1298397188082372619
+Message Type: 21
+Reply to: 1298383004925693952
+Timestamp: 2024-10-22T21:26:52.692+00:00
+Author: Roberta Bavin CA KC Greeter/Mod (roberta_24935)
+Author Id: 1269872908759597148
+Avatar URL: assets\df6d19d97b04a49ffcafbe7be14c7839-D9CE4.png
+Content: 
+--------------------
+
+--- Message ---
+Message ID: 1298397191693406209
+Message Type: Default
+Reply to: None
+Timestamp: 2024-10-22T21:26:53.553+00:00
+Author: Roberta Bavin CA KC Greeter/Mod (roberta_24935)
+Author Id: 1269872908759597148
+Avatar URL: assets\df6d19d97b04a49ffcafbe7be14c7839-D9CE4.png
+Content: HI <@1120376830428446820> Thanks for reaching out. Please explain your question. <:thankyou:1252806147396735057>
+--------------------

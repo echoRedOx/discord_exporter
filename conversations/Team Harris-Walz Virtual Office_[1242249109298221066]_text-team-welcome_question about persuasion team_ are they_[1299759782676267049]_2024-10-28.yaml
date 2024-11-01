@@ -1,0 +1,29 @@
+- author_avatar_url: assets\df6d19d97b04a49ffcafbe7be14c7839-D9CE4.png
+  author_id: '1269872908759597148'
+  author_name: roberta_24935
+  author_nickname: Roberta Bavin CA KC Greeter/Mod
+  content: ''
+  id: '1299760145529704532'
+  ref_to: '1299759782676267049'
+  timestamp: '2024-10-26T15:42:47.07+00:00'
+  type: '21'
+- author_avatar_url: assets\df6d19d97b04a49ffcafbe7be14c7839-D9CE4.png
+  author_id: '1269872908759597148'
+  author_name: roberta_24935
+  author_nickname: Roberta Bavin CA KC Greeter/Mod
+  content: Hi <@797336974506590208> Please post this in Persuasion Text Team channels
+    so they can give you the best answer. Thanks for all of your efforts!
+  id: '1299760148247613531'
+  ref_to: null
+  timestamp: '2024-10-26T15:42:47.718+00:00'
+  type: Default
+- author_avatar_url: assets\3-FB033.png
+  author_id: '797336974506590208'
+  author_name: ruberrypie
+  author_nickname: Ruby Bradley [NY]
+  content: I'm not part of the persuasion team actually so I don't have access to
+    that channel! I was just curious if anyoe here knew the answer..
+  id: '1299760564339212312'
+  ref_to: null
+  timestamp: '2024-10-26T15:44:26.922+00:00'
+  type: Default

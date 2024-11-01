@@ -1,0 +1,27 @@
+Guild: Team Harris-Walz Virtual Office (ID: 1242249109298221066)
+Channel: I just need to register for the Scale to (ID: 1285666899983863968)
+Channel Topic: None
+Exported At: 2024-10-28T23:17:45.7503011+00:00
+
+
+--- Message ---
+Message ID: 1285670020822597674
+Message Type: 21
+Reply to: 1285666899983863968
+Timestamp: 2024-09-17T18:33:39.558+00:00
+Author: Jack Joannides KC text admin (jjoannid)
+Author Id: 477560366432256000
+Avatar URL: assets\791c521e62160be1f3df04992f6e5470-36A38.png
+Content: 
+--------------------
+
+--- Message ---
+Message ID: 1285670022047596637
+Message Type: Default
+Reply to: None
+Timestamp: 2024-09-17T18:33:39.85+00:00
+Author: Jack Joannides KC text admin (jjoannid)
+Author Id: 477560366432256000
+Avatar URL: assets\791c521e62160be1f3df04992f6e5470-36A38.png
+Content: You should of gotten a direct message from <@935762347753103382>. Please update your name as well.
+--------------------

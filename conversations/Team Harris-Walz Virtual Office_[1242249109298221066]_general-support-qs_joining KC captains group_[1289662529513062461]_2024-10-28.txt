@@ -1,0 +1,38 @@
+Guild: Team Harris-Walz Virtual Office (ID: 1242249109298221066)
+Channel: joining KC captains group (ID: 1289662529513062461)
+Channel Topic: None
+Exported At: 2024-10-28T19:57:50.7095979+00:00
+
+
+--- Message ---
+Message ID: 1289662529513062461
+Message Type: Default
+Reply to: None
+Timestamp: 2024-09-28T18:58:27.807+00:00
+Author: Tweebstory (tweebstory)
+Author Id: 1287793122952220828
+Avatar URL: assets\2c845af4ccef9ea0b9b30dd614cd247e-F803B.png
+Content: Hi! I’ve been through shadowing for co facilitator and will sign up for co fac shift once one becomes available. How do I get added to the KC group here on discord?  Treanor is my first name
+--------------------
+
+--- Message ---
+Message ID: 1289663196243689584
+Message Type: Default
+Reply to: None
+Timestamp: 2024-09-28T19:01:06.768+00:00
+Author: Frances Haydock (HFP HQ!) (franceshaydock_20619)
+Author Id: 1257469301435400238
+Avatar URL: assets\8286d5b1308e7b3d80a3523e4ec50548-C029D.png
+Content: Added!
+--------------------
+
+--- Message ---
+Message ID: 1289685035254808689
+Message Type: Reply
+Reply to: 1289663196243689584
+Timestamp: 2024-09-28T20:27:53.594+00:00
+Author: Tweebstory (tweebstory)
+Author Id: 1287793122952220828
+Avatar URL: assets\2c845af4ccef9ea0b9b30dd614cd247e-F803B.png
+Content: Thank you!!
+--------------------

@@ -1,0 +1,19 @@
+- author_avatar_url: assets\19838db602948fa14c3fa90a94996f8c-8CE56.png
+  author_id: '946953677611077642'
+  author_name: perry.p
+  author_nickname: Branton J. [GA] Text Mod
+  content: ''
+  id: '1278160181938884639'
+  ref_to: '1278152310584774760'
+  timestamp: '2024-08-28T01:12:14.442+00:00'
+  type: '21'
+- author_avatar_url: assets\19838db602948fa14c3fa90a94996f8c-8CE56.png
+  author_id: '946953677611077642'
+  author_name: perry.p
+  author_nickname: Branton J. [GA] Text Mod
+  content: Hey there <@475105983778258955> If you are still on Slack, check the announcements
+    there for instructions.  Thank you!
+  id: '1278160183847026738'
+  ref_to: null
+  timestamp: '2024-08-28T01:12:14.897+00:00'
+  type: Default

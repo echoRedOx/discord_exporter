@@ -1,0 +1,60 @@
+Guild: Team Harris-Walz Virtual Office (ID: 1242249109298221066)
+Channel: Hi all! I have completed the training, (ID: 1279108863488163841)
+Channel Topic: None
+Exported At: 2024-10-28T23:43:24.5662125+00:00
+
+
+--- Message ---
+Message ID: 1279110557236199486
+Message Type: 21
+Reply to: 1279108863488163841
+Timestamp: 2024-08-30T16:08:41.57+00:00
+Author: Kris Morrell (CA) - KC TextAdmin (kcmpolitical)
+Author Id: 1254144571089354868
+Avatar URL: assets\f7ebcd4727f2b8e05b4382b1b1eb6d74-1D9FE.png
+Content: 
+--------------------
+
+--- Message ---
+Message ID: 1279110559081431051
+Message Type: Default
+Reply to: None
+Timestamp: 2024-08-30T16:08:42.01+00:00
+Author: Kris Morrell (CA) - KC TextAdmin (kcmpolitical)
+Author Id: 1254144571089354868
+Avatar URL: assets\f7ebcd4727f2b8e05b4382b1b1eb6d74-1D9FE.png
+Content: Hi <@816843832859689010>, it might help us if you changed your name here to your first and last name.
+--------------------
+
+--- Message ---
+Message ID: 1279110972774154373
+Message Type: Reply
+Reply to: 1279110559081431051
+Timestamp: 2024-08-30T16:10:20.642+00:00
+Author: Amanda Irwin [OH] (theamandashow1742)
+Author Id: 816843832859689010
+Avatar URL: assets\0-EB806.png
+Content: Updated!
+--------------------
+
+--- Message ---
+Message ID: 1279112587254169736
+Message Type: Default
+Reply to: None
+Timestamp: 2024-08-30T16:16:45.564+00:00
+Author: Kris Morrell (CA) - KC TextAdmin (kcmpolitical)
+Author Id: 1254144571089354868
+Avatar URL: assets\f7ebcd4727f2b8e05b4382b1b1eb6d74-1D9FE.png
+Content: I'll let other greeters know - I have to log off right now
+--------------------
+
+--- Message ---
+Message ID: 1279878515939872808
+Message Type: Default
+Reply to: None
+Timestamp: 2024-09-01T19:00:17.193+00:00
+Author: Amanda Irwin [OH] (theamandashow1742)
+Author Id: 816843832859689010
+Avatar URL: assets\0-EB806.png
+Content: Just following up on my previous message! Let me know how I can help push this along!
+--------------------

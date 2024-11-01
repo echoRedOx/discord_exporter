@@ -1,0 +1,93 @@
+Guild: Team Harris-Walz Virtual Office (ID: 1242249109298221066)
+Channel: Republicans for Harris website? (ID: 1272579097540956260)
+Channel Topic: None
+Exported At: 2024-10-28T20:29:40.8152406+00:00
+
+
+--- Message ---
+Message ID: 1272579097540956260
+Message Type: Default
+Reply to: None
+Timestamp: 2024-08-12T15:35:00.23+00:00
+Author: JoanL (joanl0180)
+Author Id: 1255695517342502922
+Avatar URL: assets\22957df0ee5436745fcbc73a23e86a13-976B4.png
+Content: I have not been able to locate a Republicans for Harris web site. Anyone know if there is one?  I have a friend who would like to refer her R friends to a Republicans for Harris web site.
+--------------------
+
+--- Message ---
+Message ID: 1272579963190513717
+Message Type: Default
+Reply to: None
+Timestamp: 2024-08-12T15:38:26.617+00:00
+Author: Justice (evo_devo)
+Author Id: 109848744362508288
+Avatar URL: assets\039a1a53b4ecb5d1413b1170cef883d6-5397F.png
+Content: Hi <@1255695517342502922>, are you referring to this: https://web.kamalaharris.com/forms/sign-up-to-join-republicans-for-harris
+--------------------
+
+--- Message ---
+Message ID: 1272580795730493462
+Message Type: Default
+Reply to: None
+Timestamp: 2024-08-12T15:41:45.11+00:00
+Author: Justice (evo_devo)
+Author Id: 109848744362508288
+Avatar URL: assets\039a1a53b4ecb5d1413b1170cef883d6-5397F.png
+Content: I believe this is the only official sub-site out there.
+--------------------
+
+--- Message ---
+Message ID: 1272585038063603743
+Message Type: Default
+Reply to: None
+Timestamp: 2024-08-12T15:58:36.561+00:00
+Author: JoanL (joanl0180)
+Author Id: 1255695517342502922
+Avatar URL: assets\22957df0ee5436745fcbc73a23e86a13-976B4.png
+Content: Thank you Justice.  I did pass this along to my friend as well as info on the upcoming call but she was hoping for a stand alone website she could refer folks to.  Already let her know about R’s against Trymp website and Lincoln Project etc.  Thank you for your help.
+--------------------
+
+--- Message ---
+Message ID: 1273048682337665168
+Message Type: Reply
+Reply to: 1272585038063603743
+Timestamp: 2024-08-13T22:40:57.97+00:00
+Author: rootsmusic (rootsmusic)
+Author Id: 791857656897732648
+Avatar URL: assets\a30e650576a6d42a3c9ee24648f67c90-2AE37.png
+Content: No, but Republicans For Harris does have SM accounts.  [Their call](http://bit.ly/RepublicansForHarris) is today.
+--------------------
+
+--- Message ---
+Message ID: 1273143227834171476
+Message Type: Reply
+Reply to: 1272579963190513717
+Timestamp: 2024-08-14T04:56:39.373+00:00
+Author: Deleted User (Deleted User)
+Author Id: 456226577798135808
+Avatar URL: assets\3-FB033.png
+Content: this is a site that redirects to that link as well https://kamalaharris.com/republicans
+--------------------
+
+--- Message ---
+Message ID: 1273299096207233034
+Message Type: Default
+Reply to: None
+Timestamp: 2024-08-14T15:16:01.289+00:00
+Author: Mary G (WA) (olymg.)
+Author Id: 1273294575192113152
+Avatar URL: assets\54c498a61af8f3207f639b5af581f40b-AE1DA.png
+Content: I screenshotted this from last nights Republicans for Harris event. The substack was pretty much empty but they promised content soon.
+--------------------
+
+--- Message ---
+Message ID: 1273304746157150249
+Message Type: Default
+Reply to: None
+Timestamp: 2024-08-14T15:38:28.342+00:00
+Author: rootsmusic (rootsmusic)
+Author Id: 791857656897732648
+Avatar URL: assets\a30e650576a6d42a3c9ee24648f67c90-2AE37.png
+Content: <@1260983976483356767> Today's announcement instructed us to amplify Republicans For Harris.  In Reach, Republicans doesn't have any gallery though.
+--------------------

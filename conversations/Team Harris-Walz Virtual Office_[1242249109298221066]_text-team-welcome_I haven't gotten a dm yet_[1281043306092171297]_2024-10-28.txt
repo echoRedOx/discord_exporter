@@ -1,0 +1,71 @@
+Guild: Team Harris-Walz Virtual Office (ID: 1242249109298221066)
+Channel: I haven't gotten a dm yet (ID: 1281043306092171297)
+Channel Topic: None
+Exported At: 2024-10-28T23:39:18.4669153+00:00
+
+
+--- Message ---
+Message ID: 1281075685586243676
+Message Type: 21
+Reply to: 1281043306092171297
+Timestamp: 2024-09-05T02:17:24.679+00:00
+Author: Jack Joannides KC text admin (jjoannid)
+Author Id: 477560366432256000
+Avatar URL: assets\791c521e62160be1f3df04992f6e5470-36A38.png
+Content: 
+--------------------
+
+--- Message ---
+Message ID: 1281075687926796319
+Message Type: Default
+Reply to: None
+Timestamp: 2024-09-05T02:17:25.237+00:00
+Author: Jack Joannides KC text admin (jjoannid)
+Author Id: 477560366432256000
+Avatar URL: assets\791c521e62160be1f3df04992f6e5470-36A38.png
+Content: Will direct message.
+--------------------
+
+--- Message ---
+Message ID: 1281077467896872981
+Message Type: Default
+Reply to: None
+Timestamp: 2024-09-05T02:24:29.615+00:00
+Author: Michael Carrigan New Jersey/AP (michaelcarrigan_)
+Author Id: 1279572107520639129
+Avatar URL: assets\fd677b24bfdbb9c3d2a9568bfce72c11-5C0B0.png
+Content: <@477560366432256000> Jack: I have not received my DM either.
+--------------------
+
+--- Message ---
+Message ID: 1281077847531847701
+Message Type: Default
+Reply to: None
+Timestamp: 2024-09-05T02:26:00.127+00:00
+Author: Jack Joannides KC text admin (jjoannid)
+Author Id: 477560366432256000
+Avatar URL: assets\791c521e62160be1f3df04992f6e5470-36A38.png
+Content: You should of gotten one. Do you see one from Roberta.
+--------------------
+
+--- Message ---
+Message ID: 1281078493349675019
+Message Type: Default
+Reply to: None
+Timestamp: 2024-09-05T02:28:34.102+00:00
+Author: Michael Carrigan New Jersey/AP (michaelcarrigan_)
+Author Id: 1279572107520639129
+Avatar URL: assets\fd677b24bfdbb9c3d2a9568bfce72c11-5C0B0.png
+Content: I will double check.
+--------------------
+
+--- Message ---
+Message ID: 1281092572105674825
+Message Type: Default
+Reply to: None
+Timestamp: 2024-09-05T03:24:30.739+00:00
+Author: Mina B. [CA] (minaya2197)
+Author Id: 1131256790164705402
+Avatar URL: assets\0-EB806.png
+Content: Hi !! I haven’t either…I’m sure everyone’s working so hard but thought I’d check.
+--------------------

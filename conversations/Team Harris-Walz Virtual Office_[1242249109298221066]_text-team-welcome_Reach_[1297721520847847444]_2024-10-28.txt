@@ -1,0 +1,60 @@
+Guild: Team Harris-Walz Virtual Office (ID: 1242249109298221066)
+Channel: Reach (ID: 1297721520847847444)
+Channel Topic: None
+Exported At: 2024-10-28T22:27:35.7734599+00:00
+
+
+--- Message ---
+Message ID: 1297722723186900992
+Message Type: 21
+Reply to: 1297721520847847444
+Timestamp: 2024-10-21T00:46:47.73+00:00
+Author: Jack Joannides KC text admin (jjoannid)
+Author Id: 477560366432256000
+Avatar URL: assets\791c521e62160be1f3df04992f6e5470-36A38.png
+Content: 
+--------------------
+
+--- Message ---
+Message ID: 1297722725061885992
+Message Type: Default
+Reply to: None
+Timestamp: 2024-10-21T00:46:48.177+00:00
+Author: Jack Joannides KC text admin (jjoannid)
+Author Id: 477560366432256000
+Avatar URL: assets\791c521e62160be1f3df04992f6e5470-36A38.png
+Content: We don't use reach.
+--------------------
+
+--- Message ---
+Message ID: 1297736624184234017
+Message Type: Default
+Reply to: None
+Timestamp: 2024-10-21T01:42:01.986+00:00
+Author: yan (yan_ding)
+Author Id: 899985833237549086
+Avatar URL: assets\4-4551A.png
+Content: ok, can i get access to text-team-campaign
+--------------------
+
+--- Message ---
+Message ID: 1297739669580288093
+Message Type: Default
+Reply to: None
+Timestamp: 2024-10-21T01:54:08.065+00:00
+Author: Jack Joannides KC text admin (jjoannid)
+Author Id: 477560366432256000
+Avatar URL: assets\791c521e62160be1f3df04992f6e5470-36A38.png
+Content: Not at the moment.
+--------------------
+
+--- Message ---
+Message ID: 1297988347225964594
+Message Type: Default
+Reply to: None
+Timestamp: 2024-10-21T18:22:17.436+00:00
+Author: Andrew Martin [CA[ KC Text Admin (andrewjnla)
+Author Id: 932025725777743923
+Avatar URL: assets\8156a8c1e23069b2fac6bd70259a5ade-A321B.png
+Content: Hi <@899985833237549086> We just added one final training later today. Please join us if you can! https://events.democrats.org/event/715820/
+--------------------

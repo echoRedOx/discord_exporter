@@ -1,0 +1,27 @@
+Guild: Team Harris-Walz Virtual Office (ID: 1242249109298221066)
+Channel: AZ: coding someone who is not a citizen? (ID: 1300191131878817882)
+Channel Topic: None
+Exported At: 2024-10-28T20:40:51.0687779+00:00
+
+
+--- Message ---
+Message ID: 1300191131878817882
+Message Type: Default
+Reply to: None
+Timestamp: 2024-10-27T20:15:22.223+00:00
+Author: Garrett Hall (garretth._07326)
+Author Id: 1274494501620023349
+Avatar URL: assets\c36da42f84fd0333cd2f452b58548ac5-6759F.png
+Content: Person said she is supporting but is no longer a citizen
+--------------------
+
+--- Message ---
+Message ID: 1300191481247694868
+Message Type: Reply
+Reply to: 1300191131878817882
+Timestamp: 2024-10-27T20:16:45.519+00:00
+Author: Larry Ahlgrim (VA) [Call Mod] (larrya._98544)
+Author Id: 1266903666879627274
+Avatar URL: assets\5fde485e55d806d8356ca6e7e08f1f48-77A19.png
+Content: Mark it as not voting
+--------------------

@@ -1,0 +1,38 @@
+Guild: Team Harris-Walz Virtual Office (ID: 1242249109298221066)
+Channel: I’d love to get texting again. Can I get (ID: 1284170792237535333)
+Channel Topic: None
+Exported At: 2024-10-28T23:25:59.5729161+00:00
+
+
+--- Message ---
+Message ID: 1284171313812078663
+Message Type: 21
+Reply to: 1284170792237535333
+Timestamp: 2024-09-13T15:18:19.962+00:00
+Author: Nicole Morris - Text Admin (nmorris237)
+Author Id: 935762347753103382
+Avatar URL: assets\27b1e286b65ae02b3378793b5f098411-A7B20.png
+Content: 
+--------------------
+
+--- Message ---
+Message ID: 1284171315334610996
+Message Type: Default
+Reply to: None
+Timestamp: 2024-09-13T15:18:20.325+00:00
+Author: Nicole Morris - Text Admin (nmorris237)
+Author Id: 935762347753103382
+Avatar URL: assets\27b1e286b65ae02b3378793b5f098411-A7B20.png
+Content: Hey Jess! I'll send you a DM now
+--------------------
+
+--- Message ---
+Message ID: 1284171513121214646
+Message Type: Default
+Reply to: None
+Timestamp: 2024-09-13T15:19:07.481+00:00
+Author: Jess Hudes (OR) (jesshudes)
+Author Id: 1283468639823073292
+Avatar URL: assets\4151d7dbd66707171ebcfcddeaa766ec-4BB76.png
+Content: <:blueheart:1252803082849488956> <:thankyou:1252806147396735057>
+--------------------

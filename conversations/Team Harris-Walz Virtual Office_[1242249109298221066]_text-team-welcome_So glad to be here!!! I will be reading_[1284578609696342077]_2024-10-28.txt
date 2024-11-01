@@ -1,0 +1,38 @@
+Guild: Team Harris-Walz Virtual Office (ID: 1242249109298221066)
+Channel: So glad to be here!!! I will be reading (ID: 1284578609696342077)
+Channel Topic: None
+Exported At: 2024-10-28T23:23:58.7126777+00:00
+
+
+--- Message ---
+Message ID: 1284585440544030824
+Message Type: 21
+Reply to: 1284578609696342077
+Timestamp: 2024-09-14T18:43:55.469+00:00
+Author: Roberta Bavin CA KC Greeter/Mod (roberta_24935)
+Author Id: 1269872908759597148
+Avatar URL: assets\df6d19d97b04a49ffcafbe7be14c7839-D9CE4.png
+Content: 
+--------------------
+
+--- Message ---
+Message ID: 1284585463633674280
+Message Type: Default
+Reply to: None
+Timestamp: 2024-09-14T18:44:00.974+00:00
+Author: Roberta Bavin CA KC Greeter/Mod (roberta_24935)
+Author Id: 1269872908759597148
+Avatar URL: assets\df6d19d97b04a49ffcafbe7be14c7839-D9CE4.png
+Content: Hi Barb: Please check for DM from me. Thanks for joining in!
+--------------------
+
+--- Message ---
+Message ID: 1284588265361637557
+Message Type: Default
+Reply to: None
+Timestamp: 2024-09-14T18:55:08.958+00:00
+Author: Barbara Sutliff [CC, CALL MOD] (barb4964)
+Author Id: 682129533041901620
+Avatar URL: assets\44df5ccfcd9af0891cb9fb1dd0ca8948-2D3BE.png
+Content: DM'd you back didn't see a new one
+--------------------

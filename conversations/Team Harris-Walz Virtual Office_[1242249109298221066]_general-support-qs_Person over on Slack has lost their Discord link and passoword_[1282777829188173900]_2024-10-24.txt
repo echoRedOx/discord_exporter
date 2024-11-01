@@ -1,0 +1,50 @@
+Guild: Team Harris-Walz Virtual Office (ID: 1242249109298221066)
+Channel: Person over on Slack has lost their Discord link and passoword (ID: 1282777829188173900)
+Channel Topic: None
+Exported At: 2024-10-24T06:39:46.1669485+00:00
+
+
+--- Message ---
+Message ID: 1282780144452505704
+Message Type: Default
+Reply to: None
+Timestamp: 2024-09-09T19:10:19.34+00:00
+Author: Jen Medeiros [CA] • [Lead Mod] (starkittynmom)
+Author Id: 1276944250491113656
+Avatar URL: assets\a_2aba4b7f19fcab5fe5391fcdb73d735d-D670A.gif
+Content: Hi <@1279476516945662074>  we don't have any permissions to affect anyone's Discord accounts. 
+It sounds like this person has already tried recovering lost passwords. The only real option I can think of to recommend is to have them create a new Discord account with a different email address. Once that is done, they can rejoin the Virtual Office and then would have to reach out to the staffers for whichever teams they're on to get permissions for those teams with this new account.
+--------------------
+
+--- Message ---
+Message ID: 1282780279693512848
+Message Type: Default
+Reply to: None
+Timestamp: 2024-09-09T19:10:51.584+00:00
+Author: GG (eggs_milk_bread_hope_change)
+Author Id: 1279476516945662074
+Avatar URL: assets\4-4551A.png
+Content: I will pass your message along!
+--------------------
+
+--- Message ---
+Message ID: 1282781903673360506
+Message Type: Default
+Reply to: None
+Timestamp: 2024-09-09T19:17:18.771+00:00
+Author: Jen Medeiros [CA] • [Lead Mod] (starkittynmom)
+Author Id: 1276944250491113656
+Avatar URL: assets\a_2aba4b7f19fcab5fe5391fcdb73d735d-D670A.gif
+Content: Thanks <@1279476516945662074>  I'm going to go ahead and delete your original post since it has someone's email address listed, but if you have any other questions, let us know!
+--------------------
+
+--- Message ---
+Message ID: 1282783220383092796
+Message Type: Default
+Reply to: None
+Timestamp: 2024-09-09T19:22:32.699+00:00
+Author: GG (eggs_milk_bread_hope_change)
+Author Id: 1279476516945662074
+Avatar URL: assets\4-4551A.png
+Content: Ok, sure! Thank you!
+--------------------

@@ -1,0 +1,36 @@
+- author_avatar_url: assets\791c521e62160be1f3df04992f6e5470-36A38.png
+  author_id: '477560366432256000'
+  author_name: jjoannid
+  author_nickname: Jack Joannides KC text admin
+  content: ''
+  id: '1296662783940890655'
+  ref_to: '1296655123233247252'
+  timestamp: '2024-10-18T02:34:58.521+00:00'
+  type: '21'
+- author_avatar_url: assets\791c521e62160be1f3df04992f6e5470-36A38.png
+  author_id: '477560366432256000'
+  author_name: jjoannid
+  author_nickname: Jack Joannides KC text admin
+  content: Can you please post this in <#1259238714157305936>
+  id: '1296662785991770252'
+  ref_to: null
+  timestamp: '2024-10-18T02:34:59.01+00:00'
+  type: Default
+- author_avatar_url: assets\791c521e62160be1f3df04992f6e5470-36A38.png
+  author_id: '477560366432256000'
+  author_name: jjoannid
+  author_nickname: Jack Joannides KC text admin
+  content: This is the wrong channel to post this.
+  id: '1296662840693755985'
+  ref_to: null
+  timestamp: '2024-10-18T02:35:12.052+00:00'
+  type: Default
+- author_avatar_url: assets\fdb258f2e60ed0d05e403bfbe7ad3841-7BA95.png
+  author_id: '1294006420320030812'
+  author_name: flsnowflake_43622
+  author_nickname: Angela Doll
+  content: https://tenor.com/view/oooppsss-gif-11079235799277952190
+  id: '1296663188590432350'
+  ref_to: null
+  timestamp: '2024-10-18T02:36:34.997+00:00'
+  type: Default

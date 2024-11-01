@@ -1,0 +1,38 @@
+Guild: Team Harris-Walz Virtual Office (ID: 1242249109298221066)
+Channel: Please remove this person (ID: 1273092134185992212)
+Channel Topic: None
+Exported At: 2024-10-24T12:55:36.7759073+00:00
+
+
+--- Message ---
+Message ID: 1273092134185992212
+Message Type: Default
+Reply to: None
+Timestamp: 2024-08-14T01:33:37.698+00:00
+Author: Daniel (bananaslap_)
+Author Id: 1237611873789022223
+Avatar URL: assets\b41d2c079529fc64a697c0932ec62208-65FA0.png
+Content: I have the name of a person I called who is "pro trump" when I called them, how do we ensure they're removed? I copied the number down.
+--------------------
+
+--- Message ---
+Message ID: 1273288092559605844
+Message Type: Default
+Reply to: None
+Timestamp: 2024-08-14T14:32:17.815+00:00
+Author: demtortilla (demtortilla_60949)
+Author Id: 1242248892804763712
+Avatar URL: assets\a_c1a2d0423471e6287ce2d2c69bf8abe5-C5FA2.gif
+Content: Which state were you calling into?
+--------------------
+
+--- Message ---
+Message ID: 1277655456264884327
+Message Type: Default
+Reply to: None
+Timestamp: 2024-08-26T15:46:38.464+00:00
+Author: AndreaV, KY Call Mod (andrearogersvalen)
+Author Id: 965992907981074443
+Avatar URL: assets\72d82e393a66b89996d99840a07990ec-C9EFF.png
+Content: You can also add the information to a debrief form here: https://forms.gle/6XihvVxwqpvrDaJg6
+--------------------

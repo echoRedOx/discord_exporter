@@ -1,0 +1,36 @@
+- author_avatar_url: assets\791c521e62160be1f3df04992f6e5470-36A38.png
+  author_id: '477560366432256000'
+  author_name: jjoannid
+  author_nickname: Jack Joannides KC text admin
+  content: ''
+  id: '1278530014631034922'
+  ref_to: '1278529573906288711'
+  timestamp: '2024-08-29T01:41:49.427+00:00'
+  type: '21'
+- author_avatar_url: assets\791c521e62160be1f3df04992f6e5470-36A38.png
+  author_id: '477560366432256000'
+  author_name: jjoannid
+  author_nickname: Jack Joannides KC text admin
+  content: We'll send it after the onboarding steps.
+  id: '1278530018187935794'
+  ref_to: null
+  timestamp: '2024-08-29T01:41:50.275+00:00'
+  type: Default
+- author_avatar_url: assets\b8621b7bfa61ceea0cf528862e4a038f-5637B.png
+  author_id: '1278514638774075444'
+  author_name: danrmarro
+  author_nickname: Daniel Marro (he/him) NY
+  content: Perfect, thanks Jack!
+  id: '1278530074987073558'
+  ref_to: null
+  timestamp: '2024-08-29T01:42:03.817+00:00'
+  type: Default
+- author_avatar_url: assets\791c521e62160be1f3df04992f6e5470-36A38.png
+  author_id: '477560366432256000'
+  author_name: jjoannid
+  author_nickname: Jack Joannides KC text admin
+  content: NP
+  id: '1278530134252584960'
+  ref_to: null
+  timestamp: '2024-08-29T01:42:17.947+00:00'
+  type: Default

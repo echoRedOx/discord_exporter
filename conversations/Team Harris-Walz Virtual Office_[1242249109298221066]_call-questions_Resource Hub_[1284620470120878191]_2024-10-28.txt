@@ -1,0 +1,38 @@
+Guild: Team Harris-Walz Virtual Office (ID: 1242249109298221066)
+Channel: Resource Hub (ID: 1284620470120878191)
+Channel Topic: None
+Exported At: 2024-10-28T20:58:17.6364736+00:00
+
+
+--- Message ---
+Message ID: 1284620470120878191
+Message Type: Default
+Reply to: None
+Timestamp: 2024-09-14T21:03:07.171+00:00
+Author: Joyce from Bandon (joycefrombandon_13608)
+Author Id: 1282082246932693138
+Avatar URL: assets\3-FB033.png
+Content: One skilled phone banker in our group debrief mentioned a "Resource Hub."  Anyone know what that is?  I need a source for facts about major issues, not just campaign slogans.  I wasn't able to locate talking points fast enough on the long sidebar during the call.  I'll have to put together my own workbook, I think.
+--------------------
+
+--- Message ---
+Message ID: 1284621196574462053
+Message Type: Reply
+Reply to: 1284620470120878191
+Timestamp: 2024-09-14T21:06:00.371+00:00
+Author: Larry Ahlgrim (VA) [Call Mod] (larrya._98544)
+Author Id: 1266903666879627274
+Avatar URL: assets\5fde485e55d806d8356ca6e7e08f1f48-77A19.png
+Content: Here's the official positions resource...Refer to this site for Harris issue positions…A New Way Forward - Kamala Harris for President: Official Campaign Website, whoops link didn't attach...https://kamalaharris.com/issues/
+--------------------
+
+--- Message ---
+Message ID: 1284621607842877552
+Message Type: Default
+Reply to: None
+Timestamp: 2024-09-14T21:07:38.425+00:00
+Author: Joyce from Bandon (joycefrombandon_13608)
+Author Id: 1282082246932693138
+Avatar URL: assets\3-FB033.png
+Content: Larry, thanks again!
+--------------------

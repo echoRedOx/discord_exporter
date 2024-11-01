@@ -1,0 +1,27 @@
+Guild: Team Harris-Walz Virtual Office (ID: 1242249109298221066)
+Channel: I need to take the text team training (ID: 1285401714198974546)
+Channel Topic: None
+Exported At: 2024-10-28T23:18:50.525528+00:00
+
+
+--- Message ---
+Message ID: 1285404513016090737
+Message Type: 21
+Reply to: 1285401714198974546
+Timestamp: 2024-09-17T00:58:37.564+00:00
+Author: Roberta Bavin CA KC Greeter/Mod (roberta_24935)
+Author Id: 1269872908759597148
+Avatar URL: assets\df6d19d97b04a49ffcafbe7be14c7839-D9CE4.png
+Content: 
+--------------------
+
+--- Message ---
+Message ID: 1285404515067236425
+Message Type: Default
+Reply to: None
+Timestamp: 2024-09-17T00:58:38.053+00:00
+Author: Roberta Bavin CA KC Greeter/Mod (roberta_24935)
+Author Id: 1269872908759597148
+Avatar URL: assets\df6d19d97b04a49ffcafbe7be14c7839-D9CE4.png
+Content: Hi Eve- Thanks for joining! Here's the link to sign up for text training! https://events.democrats.org/event/672393/
+--------------------

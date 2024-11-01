@@ -1,0 +1,29 @@
+- author_avatar_url: assets\27b1e286b65ae02b3378793b5f098411-A7B20.png
+  author_id: '935762347753103382'
+  author_name: nmorris237
+  author_nickname: Nicole Morris - Text Admin
+  content: ''
+  id: '1282006833288056996'
+  ref_to: '1281718933400981514'
+  timestamp: '2024-09-07T15:57:27.591+00:00'
+  type: '21'
+- author_avatar_url: assets\27b1e286b65ae02b3378793b5f098411-A7B20.png
+  author_id: '935762347753103382'
+  author_name: nmorris237
+  author_nickname: Nicole Morris - Text Admin
+  content: Hi <@1281327462017404981> Thanks! You have been added to the texting channels,
+    and should have been sent a welcome Direct Message (DM) by one of our moderators.
+    If you have any other questions, **please ask them in <#1259238714157305936> **
+  id: '1282006835359911996'
+  ref_to: null
+  timestamp: '2024-09-07T15:57:28.085+00:00'
+  type: Default
+- author_avatar_url: assets\4-4551A.png
+  author_id: '1281327462017404981'
+  author_name: amyg24.
+  author_nickname: Amy Greenberg
+  content: Thank you!
+  id: '1282009386343993426'
+  ref_to: '1282006835359911996'
+  timestamp: '2024-09-07T16:07:36.287+00:00'
+  type: Reply

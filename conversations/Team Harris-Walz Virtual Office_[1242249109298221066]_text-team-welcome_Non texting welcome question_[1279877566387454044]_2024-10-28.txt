@@ -1,0 +1,50 @@
+Guild: Team Harris-Walz Virtual Office (ID: 1242249109298221066)
+Channel: Non texting welcome question (ID: 1279877566387454044)
+Channel Topic: None
+Exported At: 2024-10-28T23:41:20.7336145+00:00
+
+
+--- Message ---
+Message ID: 1279879070229725337
+Message Type: 21
+Reply to: 1279877566387454044
+Timestamp: 2024-09-01T19:02:29.346+00:00
+Author: Jack Joannides KC text admin (jjoannid)
+Author Id: 477560366432256000
+Avatar URL: assets\791c521e62160be1f3df04992f6e5470-36A38.png
+Content: 
+--------------------
+
+--- Message ---
+Message ID: 1279879072167759893
+Message Type: Default
+Reply to: None
+Timestamp: 2024-09-01T19:02:29.808+00:00
+Author: Jack Joannides KC text admin (jjoannid)
+Author Id: 477560366432256000
+Avatar URL: assets\791c521e62160be1f3df04992f6e5470-36A38.png
+Content: This seems more like an thing to ask in <#1242249109298221069> 
+-conversation
+--------------------
+
+--- Message ---
+Message ID: 1280306009470009345
+Message Type: Default
+Reply to: None
+Timestamp: 2024-09-02T23:18:59.593+00:00
+Author: Playfair💗💚 (playfair0329)
+Author Id: 1229447809367937084
+Avatar URL: assets\93e9c0fa39e8335e092600162ca58c05-E418A.png
+Content: I have tic Toc and she was there with the request.   I am simply passing on as she asked someone call her.   I did see she has over 400000 followers and I thought it would be worth the effort.
+--------------------
+
+--- Message ---
+Message ID: 1280307019886100512
+Message Type: Default
+Reply to: None
+Timestamp: 2024-09-02T23:23:00.495+00:00
+Author: Jack Joannides KC text admin (jjoannid)
+Author Id: 477560366432256000
+Avatar URL: assets\791c521e62160be1f3df04992f6e5470-36A38.png
+Content: Is this an texting question or no. If it please ask it in another post.
+--------------------

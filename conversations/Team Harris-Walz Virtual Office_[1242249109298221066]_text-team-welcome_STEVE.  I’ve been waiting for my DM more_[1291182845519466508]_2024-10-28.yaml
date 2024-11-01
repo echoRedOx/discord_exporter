@@ -1,0 +1,37 @@
+- author_avatar_url: assets\df6d19d97b04a49ffcafbe7be14c7839-D9CE4.png
+  author_id: '1269872908759597148'
+  author_name: roberta_24935
+  author_nickname: Roberta Bavin CA KC Greeter/Mod
+  content: ''
+  id: '1291185043707924482'
+  ref_to: '1291182845519466508'
+  timestamp: '2024-10-02T23:48:23.478+00:00'
+  type: '21'
+- author_avatar_url: assets\df6d19d97b04a49ffcafbe7be14c7839-D9CE4.png
+  author_id: '1269872908759597148'
+  author_name: roberta_24935
+  author_nickname: Roberta Bavin CA KC Greeter/Mod
+  content: Hi Steve! Thanks for reaching out. Let me send you a DM in a couple of
+    minutes. Thanks!
+  id: '1291185045947682881'
+  ref_to: null
+  timestamp: '2024-10-02T23:48:24.012+00:00'
+  type: Default
+- author_avatar_url: assets\1-B2132.png
+  author_id: '1289716674530119722'
+  author_name: steve_51292
+  author_nickname: Steve David
+  content: I sent you a DM
+  id: '1291202517287571559'
+  ref_to: null
+  timestamp: '2024-10-03T00:57:49.504+00:00'
+  type: Default
+- author_avatar_url: assets\1-B2132.png
+  author_id: '1289716674530119722'
+  author_name: steve_51292
+  author_nickname: Steve David
+  content: Roberta,  I sent you the requested info through DM
+  id: '1291204004474523658'
+  ref_to: null
+  timestamp: '2024-10-03T01:03:44.077+00:00'
+  type: Default

@@ -1,0 +1,104 @@
+Guild: Team Harris-Walz Virtual Office (ID: 1242249109298221066)
+Channel: Is there any way to put a voter's preferred name in Reach? (ID: 1293963064617472030)
+Channel Topic: None
+Exported At: 2024-10-24T06:26:47.7403739+00:00
+
+
+--- Message ---
+Message ID: 1293963064617472030
+Message Type: Default
+Reply to: None
+Timestamp: 2024-10-10T15:47:15.276+00:00
+Author: Ruti Regan [MA] (rutiregan)
+Author Id: 663410272110772226
+Avatar URL: assets\4-4551A.png
+Content: I know some of my contacts get deadnamed by the voter file and I feel like there must be some way I can tell the Democratic data that in reach like I can tell them the corret phone number?
+--------------------
+
+--- Message ---
+Message ID: 1293987036532838450
+Message Type: Default
+Reply to: None
+Timestamp: 2024-10-10T17:22:30.626+00:00
+Author: Jay E  (TX)  OE Mod (jayrio76)
+Author Id: 782870341445353522
+Avatar URL: assets\41ef520387924aa4413513eda28784df-34D82.png
+Content: <@663410272110772226> - I have also wondered about this, so following and I will also research.
+--------------------
+
+--- Message ---
+Message ID: 1293989382805524502
+Message Type: Default
+Reply to: None
+Timestamp: 2024-10-10T17:31:50.021+00:00
+Author: Ruti Regan [MA] (rutiregan)
+Author Id: 663410272110772226
+Avatar URL: assets\4-4551A.png
+Content: ty!
+--------------------
+
+--- Message ---
+Message ID: 1293995558238945440
+Message Type: Default
+Reply to: None
+Timestamp: 2024-10-10T17:56:22.359+00:00
+Author: Carolyn B [CA] • Lead Mod (carb.on)
+Author Id: 568257600228032512
+Avatar URL: assets\28a90c77b5793d80eb62484a43c66748-D8837.png
+Content: When they change their name on their voter registration it should show up correctly in Reach. https://www.usa.gov/change-voter-registration
+--------------------
+
+--- Message ---
+Message ID: 1294004110068285512
+Message Type: Default
+Reply to: None
+Timestamp: 2024-10-10T18:30:21.274+00:00
+Author: Jay E  (TX)  OE Mod (jayrio76)
+Author Id: 782870341445353522
+Avatar URL: assets\41ef520387924aa4413513eda28784df-34D82.png
+Content: <@568257600228032512> Correct, but just to clarify, if they have not legally changed their name yet, is there anyway to note it in Reach, even if it does not change the official name, like a highlighted notes section.  If not, hope they add it.
+--------------------
+
+--- Message ---
+Message ID: 1294006906238664847
+Message Type: Default
+Reply to: None
+Timestamp: 2024-10-10T18:41:27.933+00:00
+Author: Carolyn B [CA] • Lead Mod (carb.on)
+Author Id: 568257600228032512
+Avatar URL: assets\28a90c77b5793d80eb62484a43c66748-D8837.png
+Content: In Reach you can select the person, tap the three dots and Add Nickname or Edit Name.
+--------------------
+
+--- Message ---
+Message ID: 1294011250476453981
+Message Type: Default
+Reply to: None
+Timestamp: 2024-10-10T18:58:43.68+00:00
+Author: Ruti Regan [MA] (rutiregan)
+Author Id: 663410272110772226
+Avatar URL: assets\4-4551A.png
+Content: Does that then share the info with the Democrats?
+--------------------
+
+--- Message ---
+Message ID: 1294019396389437511
+Message Type: Default
+Reply to: None
+Timestamp: 2024-10-10T19:31:05.817+00:00
+Author: Carolyn B [CA] • Lead Mod (carb.on)
+Author Id: 568257600228032512
+Avatar URL: assets\28a90c77b5793d80eb62484a43c66748-D8837.png
+Content: It is inside Reach. Dems would see if they are capturing info from Reach. You should ask the campaign if they are doing that. https://kamalaharris.com/contact-us/
+--------------------
+
+--- Message ---
+Message ID: 1294036576367673477
+Message Type: Default
+Reply to: None
+Timestamp: 2024-10-10T20:39:21.843+00:00
+Author: Jay E  (TX)  OE Mod (jayrio76)
+Author Id: 782870341445353522
+Avatar URL: assets\41ef520387924aa4413513eda28784df-34D82.png
+Content: Yay, thanks so much!
+--------------------

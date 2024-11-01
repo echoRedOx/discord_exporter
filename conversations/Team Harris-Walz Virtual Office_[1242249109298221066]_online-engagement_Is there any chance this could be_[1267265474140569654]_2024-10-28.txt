@@ -1,0 +1,49 @@
+Guild: Team Harris-Walz Virtual Office (ID: 1242249109298221066)
+Channel: Is there any chance this could be (ID: 1267265474140569654)
+Channel Topic: None
+Exported At: 2024-10-28T21:56:32.6065526+00:00
+
+
+--- Message ---
+Message ID: 1267266449207066695
+Message Type: 21
+Reply to: 1267265474140569654
+Timestamp: 2024-07-28T23:44:26.163+00:00
+Author: Christian Bosse (ch.bosse)
+Author Id: 1256039311367999658
+Avatar URL: assets\e940fcd0527f7edd98cdee8d31c08cc0-9A6CA.png
+Content: 
+--------------------
+
+--- Message ---
+Message ID: 1267266451090182215
+Message Type: Default
+Reply to: None
+Timestamp: 2024-07-28T23:44:26.612+00:00
+Author: Christian Bosse (ch.bosse)
+Author Id: 1256039311367999658
+Avatar URL: assets\e940fcd0527f7edd98cdee8d31c08cc0-9A6CA.png
+Content: Hi Jonathan, usually these events will not be recorded. But I'm sure our volunteers are happy to share their impressions here. Everybody is so excited.
+--------------------
+
+--- Message ---
+Message ID: 1267266923675123775
+Message Type: Default
+Reply to: None
+Timestamp: 2024-07-28T23:46:19.285+00:00
+Author: Christian Bosse (ch.bosse)
+Author Id: 1256039311367999658
+Avatar URL: assets\e940fcd0527f7edd98cdee8d31c08cc0-9A6CA.png
+Content: Or maybe have friends join as a volunteer, so they can join the call and then give you some of their insights.
+--------------------
+
+--- Message ---
+Message ID: 1267267157415297117
+Message Type: Default
+Reply to: None
+Timestamp: 2024-07-28T23:47:15.013+00:00
+Author: Jonathan N. (CO) (yonyonmaymay)
+Author Id: 879176227976519711
+Avatar URL: assets\7473ec0c6cd91e9853ecbbbb9314c4d2-D16A6.png
+Content: Ah, unfortunate I won't be able to see it myself. I'll deﬁnitely look through the impressions afterwards, though.
+--------------------

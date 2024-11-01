@@ -1,0 +1,49 @@
+Guild: Team Harris-Walz Virtual Office (ID: 1242249109298221066)
+Channel: Early Voting Wisconsin (ID: 1299901808508145817)
+Channel Topic: None
+Exported At: 2024-10-28T20:41:54.9994942+00:00
+
+
+--- Message ---
+Message ID: 1299901808508145817
+Message Type: Default
+Reply to: None
+Timestamp: 2024-10-27T01:05:42.156+00:00
+Author: Gaurav (geeves23)
+Author Id: 691836316706406440
+Avatar URL: assets\08dc16d76c4c9f25673a23f3b03638fe-F6F32.png
+Content: I don't see an option for already voted. What should I mark down?
+--------------------
+
+--- Message ---
+Message ID: 1299902082215710726
+Message Type: Default
+Reply to: None
+Timestamp: 2024-10-27T01:06:47.413+00:00
+Author: Emily Powers (CO) [Call MOD] (epowers7)
+Author Id: 937887742262673429
+Avatar URL: assets\d91f2745c5a60026d6f81161ae61335f-53ED9.png
+Content: If you don't know who they voted for you can mark it refused. If they voted Harris you can mark strong Harris and skip sending a text with voting info
+--------------------
+
+--- Message ---
+Message ID: 1299902183902547988
+Message Type: Default
+Reply to: None
+Timestamp: 2024-10-27T01:07:11.657+00:00
+Author: Gaurav (geeves23)
+Author Id: 691836316706406440
+Avatar URL: assets\08dc16d76c4c9f25673a23f3b03638fe-F6F32.png
+Content: Gotcha ok thank you! The person I spoke to voted dem down ballot so was good to hear!
+--------------------
+
+--- Message ---
+Message ID: 1299902375510675456
+Message Type: Reply
+Reply to: 1299902183902547988
+Timestamp: 2024-10-27T01:07:57.34+00:00
+Author: Emily Powers (CO) [Call MOD] (epowers7)
+Author Id: 937887742262673429
+Avatar URL: assets\d91f2745c5a60026d6f81161ae61335f-53ED9.png
+Content: Awesome! Love to hear it! Thank you for being here and making calls with us! <a:bluewave2:1269005280834752542> <:blueheart:1252803082849488956>
+--------------------

@@ -1,0 +1,38 @@
+Guild: Team Harris-Walz Virtual Office (ID: 1242249109298221066)
+Channel: Helping out in PA (ID: 1283201389287309312)
+Channel Topic: None
+Exported At: 2024-10-28T20:06:00.3064205+00:00
+
+
+--- Message ---
+Message ID: 1283201389287309312
+Message Type: Default
+Reply to: None
+Timestamp: 2024-09-10T23:04:11.935+00:00
+Author: Mary (mary_03744)
+Author Id: 1277630108127199437
+Avatar URL: assets\1-B2132.png
+Content: Pennsylvania is my closest swing state.  How do I find out what is needed on the ground?  I prefer not to make calls this time  around.
+--------------------
+
+--- Message ---
+Message ID: 1283202025298853958
+Message Type: Default
+Reply to: None
+Timestamp: 2024-09-10T23:06:43.572+00:00
+Author: Carolyn B [CA] • Lead Mod (carb.on)
+Author Id: 568257600228032512
+Avatar URL: assets\28a90c77b5793d80eb62484a43c66748-D8837.png
+Content: Hi <@1277630108127199437> I encourage you to get the PA role, then you can ask the folks in that channel. You can get your new fole by going to Channels & Roles near the top of your left menu. Also you can search on https://events.democrats.org, put the city, zip or state in the location to see events close by.
+--------------------
+
+--- Message ---
+Message ID: 1283513621984317543
+Message Type: Default
+Reply to: None
+Timestamp: 2024-09-11T19:44:54.011+00:00
+Author: Geoff Burch [PA/IL] (g3off_59950)
+Author Id: 1283455397063168172
+Avatar URL: assets\e69a5d6c4b83a86a9bdd5cec6a4bcb56-41B31.png
+Content: Here's a link to our PA Victory site on Mobilize. https://www.mobilize.us/2024pavictory/?tag_ids=3274
+--------------------

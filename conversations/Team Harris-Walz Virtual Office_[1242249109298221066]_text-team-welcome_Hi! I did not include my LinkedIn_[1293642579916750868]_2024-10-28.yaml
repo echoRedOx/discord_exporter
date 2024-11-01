@@ -1,0 +1,57 @@
+- author_avatar_url: assets\df6d19d97b04a49ffcafbe7be14c7839-D9CE4.png
+  author_id: '1269872908759597148'
+  author_name: roberta_24935
+  author_nickname: Roberta Bavin CA KC Greeter/Mod
+  content: ''
+  id: '1293715947596808203'
+  ref_to: '1293642579916750868'
+  timestamp: '2024-10-09T23:25:17.987+00:00'
+  type: '21'
+- author_avatar_url: assets\df6d19d97b04a49ffcafbe7be14c7839-D9CE4.png
+  author_id: '1269872908759597148'
+  author_name: roberta_24935
+  author_nickname: Roberta Bavin CA KC Greeter/Mod
+  content: Hi <@1283172494160822285> Thanks for letting us know. All is good! You
+    should have received a DM from Andrew yesterday to complete onboarding. Thanks
+    for being here!
+  id: '1293715950348275814'
+  ref_to: null
+  timestamp: '2024-10-09T23:25:18.643+00:00'
+  type: Default
+- author_avatar_url: assets\b9edab76b68b1b7722cf9672c4650d1a-A665F.png
+  author_id: '1283172494160822285'
+  author_name: cathyfromky_67248
+  author_nickname: Catherine Mekus [KY]
+  content: Hi, <@1269872908759597148> ! I filled out the 2 forms from the training.
+    Is there more to the onvoarding process?
+  id: '1293716469951107072'
+  ref_to: null
+  timestamp: '2024-10-09T23:27:22.526+00:00'
+  type: Default
+- author_avatar_url: assets\b9edab76b68b1b7722cf9672c4650d1a-A665F.png
+  author_id: '1283172494160822285'
+  author_name: cathyfromky_67248
+  author_nickname: Catherine Mekus [KY]
+  content: Onboarding ...
+  id: '1293716690223239260'
+  ref_to: null
+  timestamp: '2024-10-09T23:28:15.043+00:00'
+  type: Default
+- author_avatar_url: assets\df6d19d97b04a49ffcafbe7be14c7839-D9CE4.png
+  author_id: '1269872908759597148'
+  author_name: roberta_24935
+  author_nickname: Roberta Bavin CA KC Greeter/Mod
+  content: Please check your DM from Andrew as it has all the steps! Thanks so much!
+  id: '1293717342810935399'
+  ref_to: '1293716469951107072'
+  timestamp: '2024-10-09T23:30:50.632+00:00'
+  type: Reply
+- author_avatar_url: assets\b9edab76b68b1b7722cf9672c4650d1a-A665F.png
+  author_id: '1283172494160822285'
+  author_name: cathyfromky_67248
+  author_nickname: Catherine Mekus [KY]
+  content: I just found it ... thx & sorry for the slow response
+  id: '1293718941322969119'
+  ref_to: null
+  timestamp: '2024-10-09T23:37:11.747+00:00'
+  type: Default

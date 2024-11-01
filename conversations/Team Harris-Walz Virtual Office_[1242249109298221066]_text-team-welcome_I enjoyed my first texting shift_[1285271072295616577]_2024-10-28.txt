@@ -1,0 +1,27 @@
+Guild: Team Harris-Walz Virtual Office (ID: 1242249109298221066)
+Channel: I enjoyed my first texting shift (ID: 1285271072295616577)
+Channel Topic: None
+Exported At: 2024-10-28T23:19:49.0957169+00:00
+
+
+--- Message ---
+Message ID: 1285375168872710175
+Message Type: 21
+Reply to: 1285271072295616577
+Timestamp: 2024-09-16T23:02:01.375+00:00
+Author: Nicole Morris - Text Admin (nmorris237)
+Author Id: 935762347753103382
+Avatar URL: assets\27b1e286b65ae02b3378793b5f098411-A7B20.png
+Content: 
+--------------------
+
+--- Message ---
+Message ID: 1285375170416218165
+Message Type: Default
+Reply to: None
+Timestamp: 2024-09-16T23:02:01.743+00:00
+Author: Nicole Morris - Text Admin (nmorris237)
+Author Id: 935762347753103382
+Avatar URL: assets\27b1e286b65ae02b3378793b5f098411-A7B20.png
+Content: Hi Raymond - thanks! Appreciate it. And yes, thank you for the flag on the form - we are working to update it. In the future, feel free to share questions/suggestions in the <#1259238714157305936> channel now that you're in the texting channels.
+--------------------

@@ -1,0 +1,107 @@
+- author_avatar_url: assets\4aa5ed3c3ad66beef8f10bd0d3979dae-08843.png
+  author_id: '756314488113987654'
+  author_name: hungry.hiker
+  author_nickname: "Laura M (CO) \u2022 Call Mod"
+  content: 'I went to the mobilize sign up to get the link to invite my family and
+    friends to the phonebanks I''m facilitating over the next week. I noticed the
+    late night shift is listed as 10pm - 11:30pm EDT. Is that accurate? I assumed
+    this would be a standard 2 hour shift. I''m going to be facilitating at that time,
+    so want to be able to send out the right timeframe. I''m not sure if it can be
+    corrected in mobilize. Thanks!
+
+
+    This is the link where I''m seeing this at: https://events.democrats.org/event/664004/'
+  id: '1287542251999858851'
+  ref_to: null
+  timestamp: '2024-09-22T22:33:14.255+00:00'
+  type: Default
+- author_avatar_url: assets\a_de0e3d4a3f9b486ad3ad6df0d72323da-D0252.gif
+  author_id: '112080668296564736'
+  author_name: kyaizen
+  author_nickname: "Jared R [CO] \u2022 Lead Mod"
+  content: Hi Laura, yes! The campaign has opened up even more shifts for people to
+    call!
+  id: '1287542731836756000'
+  ref_to: null
+  timestamp: '2024-09-22T22:35:08.657+00:00'
+  type: Default
+- author_avatar_url: assets\4aa5ed3c3ad66beef8f10bd0d3979dae-08843.png
+  author_id: '756314488113987654'
+  author_name: hungry.hiker
+  author_nickname: "Laura M (CO) \u2022 Call Mod"
+  content: Sorry, my question was about the shift length. Is it 90 minutes or 2 hours?
+    The mobilize link shows only 90 minutes for that shift, whereas all the others
+    are 2 hours.
+  id: '1287543189456027738'
+  ref_to: null
+  timestamp: '2024-09-22T22:36:57.762+00:00'
+  type: Default
+- author_avatar_url: assets\41ef520387924aa4413513eda28784df-34D82.png
+  author_id: '782870341445353522'
+  author_name: jayrio76
+  author_nickname: Jay E  (TX)  OE Mod
+  content: Most of the shifts are two hours, but that includes training for beginners.
+  id: '1287543413587316808'
+  ref_to: null
+  timestamp: '2024-09-22T22:37:51.199+00:00'
+  type: Default
+- author_avatar_url: assets\a_de0e3d4a3f9b486ad3ad6df0d72323da-D0252.gif
+  author_id: '112080668296564736'
+  author_name: kyaizen
+  author_nickname: "Jared R [CO] \u2022 Lead Mod"
+  content: Oh, sorry! Yes I do believe it should still be 2 hours. They may have it
+    cut off since it is technically the next day at 12:00am?
+  id: '1287543514846203935'
+  ref_to: '1287543189456027738'
+  timestamp: '2024-09-22T22:38:15.341+00:00'
+  type: Reply
+- author_avatar_url: assets\4aa5ed3c3ad66beef8f10bd0d3979dae-08843.png
+  author_id: '756314488113987654'
+  author_name: hungry.hiker
+  author_nickname: "Laura M (CO) \u2022 Call Mod"
+  content: Yeah, that's what I was thinking as a possibility as well. Thanks for replying.
+    I will assume it's 2 hours. I still wonder if they could edit it on mobilize so
+    people generally would know what timeframe is expected when signing up. That's
+    above my pay grade ($0) though.
+  id: '1287543880375337060'
+  ref_to: '1287543514846203935'
+  timestamp: '2024-09-22T22:39:42.49+00:00'
+  type: Reply
+- author_avatar_url: assets\a_de0e3d4a3f9b486ad3ad6df0d72323da-D0252.gif
+  author_id: '112080668296564736'
+  author_name: kyaizen
+  author_nickname: "Jared R [CO] \u2022 Lead Mod"
+  content: I'll flag <@1284539093941878917> here. Sergio, would you mind clarifying
+    the time-frame for the 10pm shift, will it be 2-hours like other shifts?
+  id: '1287544208659320943'
+  ref_to: '1287543880375337060'
+  timestamp: '2024-09-22T22:41:00.759+00:00'
+  type: Reply
+- author_avatar_url: assets\8286d5b1308e7b3d80a3523e4ec50548-C029D.png
+  author_id: '1257469301435400238'
+  author_name: franceshaydock_20619
+  author_nickname: Frances Haydock (HFP HQ!)
+  content: Yes--it should be 2 hours, but mobilize has a cut off time of 11:30pm for
+    events
+  id: '1287548236999037042'
+  ref_to: null
+  timestamp: '2024-09-22T22:57:01.19+00:00'
+  type: Default
+- author_avatar_url: assets\a_de0e3d4a3f9b486ad3ad6df0d72323da-D0252.gif
+  author_id: '112080668296564736'
+  author_name: kyaizen
+  author_nickname: "Jared R [CO] \u2022 Lead Mod"
+  content: Perfect, thank you Frances! That's what I thought was happening.
+  id: '1287548346310856736'
+  ref_to: '1287548236999037042'
+  timestamp: '2024-09-22T22:57:27.252+00:00'
+  type: Reply
+- author_avatar_url: assets\a_de0e3d4a3f9b486ad3ad6df0d72323da-D0252.gif
+  author_id: '112080668296564736'
+  author_name: kyaizen
+  author_nickname: "Jared R [CO] \u2022 Lead Mod"
+  content: See above <@756314488113987654>!
+  id: '1287548420818473022'
+  ref_to: null
+  timestamp: '2024-09-22T22:57:45.016+00:00'
+  type: Default

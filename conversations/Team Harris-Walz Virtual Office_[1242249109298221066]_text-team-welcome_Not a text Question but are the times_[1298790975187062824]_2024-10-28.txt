@@ -1,0 +1,38 @@
+Guild: Team Harris-Walz Virtual Office (ID: 1242249109298221066)
+Channel: Not a text Question but are the times (ID: 1298790975187062824)
+Channel Topic: None
+Exported At: 2024-10-28T22:19:23.6143377+00:00
+
+
+--- Message ---
+Message ID: 1298792735506956379
+Message Type: 21
+Reply to: 1298790975187062824
+Timestamp: 2024-10-23T23:38:38.547+00:00
+Author: Roberta Bavin CA KC Greeter/Mod (roberta_24935)
+Author Id: 1269872908759597148
+Avatar URL: assets\df6d19d97b04a49ffcafbe7be14c7839-D9CE4.png
+Content: 
+--------------------
+
+--- Message ---
+Message ID: 1298792739164524577
+Message Type: Default
+Reply to: None
+Timestamp: 2024-10-23T23:38:39.419+00:00
+Author: Roberta Bavin CA KC Greeter/Mod (roberta_24935)
+Author Id: 1269872908759597148
+Avatar URL: assets\df6d19d97b04a49ffcafbe7be14c7839-D9CE4.png
+Content: Hi <@1293328916831928366> They are posted in Eastern times. Thanks for checking!
+--------------------
+
+--- Message ---
+Message ID: 1298793284688154645
+Message Type: Default
+Reply to: None
+Timestamp: 2024-10-23T23:40:49.482+00:00
+Author: Jenniece Centrella (MA) (jenniececentrellasheher_37405)
+Author Id: 1293328916831928366
+Avatar URL: assets\4ec2857fd001fb4800c9fdd03bc93255-A9FEA.png
+Content: Thanks
+--------------------

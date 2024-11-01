@@ -1,0 +1,49 @@
+Guild: Team Harris-Walz Virtual Office (ID: 1242249109298221066)
+Channel: Weekly Wins + Resource Request (ID: 1299097356171743373)
+Channel Topic: None
+Exported At: 2024-10-28T21:47:29.374649+00:00
+
+
+--- Message ---
+Message ID: 1299097506956705815
+Message Type: 21
+Reply to: 1299097356171743373
+Timestamp: 2024-10-24T19:49:41.723+00:00
+Author: Carolyn B [CA] • Lead Mod (carb.on)
+Author Id: 568257600228032512
+Avatar URL: assets\28a90c77b5793d80eb62484a43c66748-D8837.png
+Content: 
+--------------------
+
+--- Message ---
+Message ID: 1299097509632938005
+Message Type: Default
+Reply to: None
+Timestamp: 2024-10-24T19:49:42.361+00:00
+Author: Carolyn B [CA] • Lead Mod (carb.on)
+Author Id: 568257600228032512
+Avatar URL: assets\28a90c77b5793d80eb62484a43c66748-D8837.png
+Content: Please share your Weekly Wins + Resource Request
+--------------------
+
+--- Message ---
+Message ID: 1299098352692236390
+Message Type: Default
+Reply to: None
+Timestamp: 2024-10-24T19:53:03.362+00:00
+Author: SherM (mcher2415)
+Author Id: 1280918102221127702
+Avatar URL: assets\5445ffd7ffb201a98393cbdf684ea4b1-D8AB1.png
+Content: Wins - posted 5 positive Kamala posts on my social media.  Encouraging kindness over hatred.
+--------------------
+
+--- Message ---
+Message ID: 1299114657839321098
+Message Type: Default
+Reply to: None
+Timestamp: 2024-10-24T20:57:50.812+00:00
+Author: PaloDuro (.paloduro)
+Author Id: 710714262804234260
+Avatar URL: assets\d01f1fa3e487bb19bc97b1ef3e4f7327-B6C53.png
+Content: Wins - My 26 year old son is reaching out to his male friends to convince them to vote for Kamala or stay home.  He’s really good at this.
+--------------------

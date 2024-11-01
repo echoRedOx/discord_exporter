@@ -1,0 +1,27 @@
+Guild: Team Harris-Walz Virtual Office (ID: 1242249109298221066)
+Channel: Hi, I am Judy from NYC.  Looking forward (ID: 1278134030000197644)
+Channel Topic: None
+Exported At: 2024-10-28T23:57:39.5717894+00:00
+
+
+--- Message ---
+Message ID: 1278135459196833802
+Message Type: 21
+Reply to: 1278134030000197644
+Timestamp: 2024-08-27T23:34:00.081+00:00
+Author: Jack Joannides KC text admin (jjoannid)
+Author Id: 477560366432256000
+Avatar URL: assets\791c521e62160be1f3df04992f6e5470-36A38.png
+Content: 
+--------------------
+
+--- Message ---
+Message ID: 1278135460748722268
+Message Type: Default
+Reply to: None
+Timestamp: 2024-08-27T23:34:00.451+00:00
+Author: Jack Joannides KC text admin (jjoannid)
+Author Id: 477560366432256000
+Avatar URL: assets\791c521e62160be1f3df04992f6e5470-36A38.png
+Content: Hello Judy. You should be added in 24-48 hours.
+--------------------

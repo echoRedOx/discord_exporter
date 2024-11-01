@@ -1,0 +1,60 @@
+Guild: Team Harris-Walz Virtual Office (ID: 1242249109298221066)
+Channel: YouTube (ID: 1271220545593020446)
+Channel Topic: None
+Exported At: 2024-10-24T13:13:58.7604137+00:00
+
+
+--- Message ---
+Message ID: 1271221447611650140
+Message Type: 21
+Reply to: 1271220545593020446
+Timestamp: 2024-08-08T21:40:11.263+00:00
+Author: Jessica Puchala (MD) [OE Lead] (jessica033389)
+Author Id: 869778676986814514
+Avatar URL: assets\37de34190564f7c9acae5895cc884c8a-6F9C7.png
+Content: 
+--------------------
+
+--- Message ---
+Message ID: 1271221449457143888
+Message Type: Default
+Reply to: None
+Timestamp: 2024-08-08T21:40:11.703+00:00
+Author: Jessica Puchala (MD) [OE Lead] (jessica033389)
+Author Id: 869778676986814514
+Avatar URL: assets\37de34190564f7c9acae5895cc884c8a-6F9C7.png
+Content: Thanks for the idea. I'm sure the team will look into it if possible. In the meantime, you may want to check out <#1252676126698897429>.
+--------------------
+
+--- Message ---
+Message ID: 1271222040967385259
+Message Type: Reply
+Reply to: 1271221449457143888
+Timestamp: 2024-08-08T21:42:32.73+00:00
+Author: Gina Turone (ginaturone)
+Author Id: 779382569534881824
+Avatar URL: assets\90595ea07dd349adc8ba22cb8d2f8a14-00AFD.png
+Content: I do. I check all the channels for content several times a day.
+--------------------
+
+--- Message ---
+Message ID: 1271222565863559278
+Message Type: Default
+Reply to: None
+Timestamp: 2024-08-08T21:44:37.875+00:00
+Author: Kate Beeken [Staff] (beekenoflight)
+Author Id: 1184187512491618404
+Avatar URL: assets\45ab2e205f58fd1fdbebc1f2217ed4f5-0EE42.png
+Content: <#1266884554082222142> has this!
+--------------------
+
+--- Message ---
+Message ID: 1271222623774314588
+Message Type: Default
+Reply to: None
+Timestamp: 2024-08-08T21:44:51.682+00:00
+Author: Kate Beeken [Staff] (beekenoflight)
+Author Id: 1184187512491618404
+Avatar URL: assets\45ab2e205f58fd1fdbebc1f2217ed4f5-0EE42.png
+Content: It’s primarily for live streams of events, but all of the Ads end up there too!
+--------------------

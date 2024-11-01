@@ -1,0 +1,78 @@
+- author_avatar_url: assets\1ffcbcea61dca443c1fcf3a7623f4234-DB97E.png
+  author_id: '1296347366227705872'
+  author_name: elizabethwebbl
+  author_nickname: Elizabeth
+  content: Hey there, if I have a caller who says they are a republican, should I
+    engage or mark them as "Strong Trump" and move on?
+  id: '1296596405925838959'
+  ref_to: null
+  timestamp: '2024-10-17T22:11:12.769+00:00'
+  type: Default
+- author_avatar_url: assets\43ec2b9e8ddf26e3072b9feb4516a5fd-3D55A.png
+  author_id: '1277408157664284795'
+  author_name: denise.ward
+  author_nickname: Denise Ward [CO] [Call MOD]
+  content: Did they say Trump specificaly or refuse to say how they are voting?
+  id: '1296597007359803402'
+  ref_to: null
+  timestamp: '2024-10-17T22:13:36.162+00:00'
+  type: Default
+- author_avatar_url: assets\1ffcbcea61dca443c1fcf3a7623f4234-DB97E.png
+  author_id: '1296347366227705872'
+  author_name: elizabethwebbl
+  author_nickname: Elizabeth
+  content: Did not say how they were voting, just that they were voting Republican
+    and didn't have time to chat when I asked if they wanted to talk more in depth
+  id: '1296598094296911966'
+  ref_to: null
+  timestamp: '2024-10-17T22:17:55.308+00:00'
+  type: Default
+- author_avatar_url: assets\43ec2b9e8ddf26e3072b9feb4516a5fd-3D55A.png
+  author_id: '1277408157664284795'
+  author_name: denise.ward
+  author_nickname: Denise Ward [CO] [Call MOD]
+  content: ok you can just mark that refused.  They won't get a call back but it won't
+    record as a strong Trump.
+  id: '1296599129371316325'
+  ref_to: '1296598094296911966'
+  timestamp: '2024-10-17T22:22:02.089+00:00'
+  type: Reply
+- author_avatar_url: assets\467cc8b79a48629653d32198318749df-5AEAC.png
+  author_id: '912225955697786890'
+  author_name: douglasdenver
+  author_nickname: Douglas Olivas [NM/CO]
+  content: but would we engage with them? I was marking "strong trump" with a few
+    but was curious what was expected.
+  id: '1296618084383326291'
+  ref_to: null
+  timestamp: '2024-10-17T23:37:21.316+00:00'
+  type: Default
+- author_avatar_url: assets\43ec2b9e8ddf26e3072b9feb4516a5fd-3D55A.png
+  author_id: '1277408157664284795'
+  author_name: denise.ward
+  author_nickname: Denise Ward [CO] [Call MOD]
+  content: if they are just Republicans and are open to engagement/persuasion you
+    can absolutely go down that road.  Its up to you to test if the conversation can
+    be helpful but you can certainly try!
+  id: '1296619802311528458'
+  ref_to: '1296618084383326291'
+  timestamp: '2024-10-17T23:44:10.902+00:00'
+  type: Reply
+- author_avatar_url: assets\467cc8b79a48629653d32198318749df-5AEAC.png
+  author_id: '912225955697786890'
+  author_name: douglasdenver
+  author_nickname: Douglas Olivas [NM/CO]
+  content: 'Thank you! : )'
+  id: '1296622061661454460'
+  ref_to: null
+  timestamp: '2024-10-17T23:53:09.573+00:00'
+  type: Default
+- author_avatar_url: assets\2-ADBB4.png
+  author_id: '1272714525862531218'
+  author_name: davidnhoffman
+  author_nickname: Facilitator David N. Hoffman
+  content: Tell them Liz Chaney is a republican.
+  id: '1297195596394004492'
+  ref_to: null
+  timestamp: '2024-10-19T13:52:10.909+00:00'
+  type: Default

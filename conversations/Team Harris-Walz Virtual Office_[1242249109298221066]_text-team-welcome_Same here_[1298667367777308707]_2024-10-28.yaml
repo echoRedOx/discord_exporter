@@ -1,0 +1,58 @@
+- author_avatar_url: assets\27b1e286b65ae02b3378793b5f098411-A7B20.png
+  author_id: '935762347753103382'
+  author_name: nmorris237
+  author_nickname: Nicole Morris - Text Admin
+  content: ''
+  id: '1298856225055703122'
+  ref_to: '1298667367777308707'
+  timestamp: '2024-10-24T03:50:55.635+00:00'
+  type: '21'
+- author_avatar_url: assets\27b1e286b65ae02b3378793b5f098411-A7B20.png
+  author_id: '935762347753103382'
+  author_name: nmorris237
+  author_nickname: Nicole Morris - Text Admin
+  content: Hi Brad - thanks! It looks like you're part of our Persusion team. This
+    channel is for onboarding texters for the Text Team (different team!).
+  id: '1298856227626815578'
+  ref_to: null
+  timestamp: '2024-10-24T03:50:56.248+00:00'
+  type: Default
+- author_avatar_url: assets\95a67471b219aaa86b6715fbde84aabe-0FD58.png
+  author_id: '141970339281371145'
+  author_name: brad.ringel
+  author_nickname: Brad R (KY)
+  content: Thanks, not really sure what the difference is.
+  id: '1299076636255457382'
+  ref_to: null
+  timestamp: '2024-10-24T18:26:45.76+00:00'
+  type: Default
+- author_avatar_url: assets\27b1e286b65ae02b3378793b5f098411-A7B20.png
+  author_id: '935762347753103382'
+  author_name: nmorris237
+  author_nickname: Nicole Morris - Text Admin
+  content: Understood - the persuasion team is a newer text team, focused on persuasion
+    conversations.  The text team focuses on many different things (volunteer recruitment,
+    rally invites, getting out the vote, etc).
+  id: '1299406484844707850'
+  ref_to: null
+  timestamp: '2024-10-25T16:17:27.792+00:00'
+  type: Default
+- author_avatar_url: assets\26547e2a01e3ec43c6cacb2bb28dfd84-50C40.png
+  author_id: '989609895282241576'
+  author_name: mn4az
+  author_nickname: Tim Reck (MN)
+  content: <@935762347753103382> <@141970339281371145> as a former GOP precinct delegate
+    I'd like to be on the Persuasion Text team. How can I go about making that happen?
+  id: '1299420663005581384'
+  ref_to: null
+  timestamp: '2024-10-25T17:13:48.129+00:00'
+  type: Default
+- author_avatar_url: assets\27b1e286b65ae02b3378793b5f098411-A7B20.png
+  author_id: '935762347753103382'
+  author_name: nmorris237
+  author_nickname: Nicole Morris - Text Admin
+  content: Please check out the <#1298623273566732300> channel for more info
+  id: '1299434472311230525'
+  ref_to: null
+  timestamp: '2024-10-25T18:08:40.524+00:00'
+  type: Default

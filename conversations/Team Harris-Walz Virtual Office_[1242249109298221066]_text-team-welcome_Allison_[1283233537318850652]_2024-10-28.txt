@@ -1,0 +1,27 @@
+Guild: Team Harris-Walz Virtual Office (ID: 1242249109298221066)
+Channel: Allison (ID: 1283233537318850652)
+Channel Topic: None
+Exported At: 2024-10-28T23:29:06.4098462+00:00
+
+
+--- Message ---
+Message ID: 1283432503759212584
+Message Type: 21
+Reply to: 1283233537318850652
+Timestamp: 2024-09-11T14:22:33.919+00:00
+Author: Nicole Morris - Text Admin (nmorris237)
+Author Id: 935762347753103382
+Avatar URL: assets\27b1e286b65ae02b3378793b5f098411-A7B20.png
+Content: 
+--------------------
+
+--- Message ---
+Message ID: 1283432506636374050
+Message Type: Default
+Reply to: None
+Timestamp: 2024-09-11T14:22:34.605+00:00
+Author: Nicole Morris - Text Admin (nmorris237)
+Author Id: 935762347753103382
+Avatar URL: assets\27b1e286b65ae02b3378793b5f098411-A7B20.png
+Content: Hi Allison - I’ll send you a follow up direct message now. Thanks!
+--------------------

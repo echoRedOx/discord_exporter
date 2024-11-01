@@ -1,0 +1,27 @@
+Guild: Team Harris-Walz Virtual Office (ID: 1242249109298221066)
+Channel: Is there  a Harris for Iowa Facebook (ID: 1265386844414279793)
+Channel Topic: None
+Exported At: 2024-10-28T17:41:47.4847794+00:00
+
+
+--- Message ---
+Message ID: 1265692947438112890
+Message Type: 21
+Reply to: 1265386844414279793
+Timestamp: 2024-07-24T15:31:54.107+00:00
+Author: Reena Gupta (reenagupta_65991)
+Author Id: 1253344444158181376
+Avatar URL: assets\3-FB033.png
+Content: 
+--------------------
+
+--- Message ---
+Message ID: 1265692948700594340
+Message Type: Default
+Reply to: None
+Timestamp: 2024-07-24T15:31:54.408+00:00
+Author: Reena Gupta (reenagupta_65991)
+Author Id: 1253344444158181376
+Avatar URL: assets\3-FB033.png
+Content: Yes! https://www.facebook.com/groups/joeforia/
+--------------------

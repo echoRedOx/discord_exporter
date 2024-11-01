@@ -1,0 +1,60 @@
+Guild: Team Harris-Walz Virtual Office (ID: 1242249109298221066)
+Channel: I passed the test (ID: 1291516569620447303)
+Channel Topic: None
+Exported At: 2024-10-28T22:54:17.0039264+00:00
+
+
+--- Message ---
+Message ID: 1291518671855816766
+Message Type: 21
+Reply to: 1291516569620447303
+Timestamp: 2024-10-03T21:54:06.627+00:00
+Author: Roberta Bavin CA KC Greeter/Mod (roberta_24935)
+Author Id: 1269872908759597148
+Avatar URL: assets\df6d19d97b04a49ffcafbe7be14c7839-D9CE4.png
+Content: 
+--------------------
+
+--- Message ---
+Message ID: 1291518673265360917
+Message Type: Default
+Reply to: None
+Timestamp: 2024-10-03T21:54:06.963+00:00
+Author: Roberta Bavin CA KC Greeter/Mod (roberta_24935)
+Author Id: 1269872908759597148
+Avatar URL: assets\df6d19d97b04a49ffcafbe7be14c7839-D9CE4.png
+Content: Hi Alex! Thanks for reaching out, how can we help you?
+--------------------
+
+--- Message ---
+Message ID: 1291518964530286704
+Message Type: Default
+Reply to: None
+Timestamp: 2024-10-03T21:55:16.406+00:00
+Author: Alex Bourgeois (guccigurl1017)
+Author Id: 1013563708607320145
+Avatar URL: assets\d7bac5c242b9f33cf665939fc2cda181-A666E.png
+Content: I passed the onboarding test to text messages. What's the next step? Thanks
+--------------------
+
+--- Message ---
+Message ID: 1291519129823477783
+Message Type: Reply
+Reply to: 1291518964530286704
+Timestamp: 2024-10-03T21:55:55.815+00:00
+Author: Roberta Bavin CA KC Greeter/Mod (roberta_24935)
+Author Id: 1269872908759597148
+Avatar URL: assets\df6d19d97b04a49ffcafbe7be14c7839-D9CE4.png
+Content: I'll send you a DM.... please look for that upper left corner of Discord, game controller icon. Thanks!
+--------------------
+
+--- Message ---
+Message ID: 1291519316910538895
+Message Type: Default
+Reply to: None
+Timestamp: 2024-10-03T21:56:40.42+00:00
+Author: Alex Bourgeois (guccigurl1017)
+Author Id: 1013563708607320145
+Avatar URL: assets\d7bac5c242b9f33cf665939fc2cda181-A666E.png
+Content: Also, I live in NC
+--------------------

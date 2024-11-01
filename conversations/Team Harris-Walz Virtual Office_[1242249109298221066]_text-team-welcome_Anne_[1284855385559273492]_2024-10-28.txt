@@ -1,0 +1,128 @@
+Guild: Team Harris-Walz Virtual Office (ID: 1242249109298221066)
+Channel: Anne (ID: 1284855385559273492)
+Channel Topic: None
+Exported At: 2024-10-28T23:14:40.602896+00:00
+
+
+--- Message ---
+Message ID: 1284885400804003902
+Message Type: 21
+Reply to: 1284855385559273492
+Timestamp: 2024-09-15T14:35:51.568+00:00
+Author: Nicole Morris - Text Admin (nmorris237)
+Author Id: 935762347753103382
+Avatar URL: assets\27b1e286b65ae02b3378793b5f098411-A7B20.png
+Content: 
+--------------------
+
+--- Message ---
+Message ID: 1284885403471581205
+Message Type: Default
+Reply to: None
+Timestamp: 2024-09-15T14:35:52.204+00:00
+Author: Nicole Morris - Text Admin (nmorris237)
+Author Id: 935762347753103382
+Avatar URL: assets\27b1e286b65ae02b3378793b5f098411-A7B20.png
+Content: Hi Anne - good questions! You can find the steps to verify your phone number here https://discord.com/channels/1242249109298221066/1266829704204386334/1284876472036626493
+
+And no — the verifying phone number still is just for Discord security. When you are texting, no one sees your phone number or any other info except for your first name in the initial text. Let me know if that helps!
+--------------------
+
+--- Message ---
+Message ID: 1284887590331224145
+Message Type: Default
+Reply to: None
+Timestamp: 2024-09-15T14:44:33.592+00:00
+Author: Anne Doran (anne037065)
+Author Id: 1284582883331276813
+Avatar URL: assets\8569adcbd36c70a7578c017bf5604ea5-2B291.png
+Content: I’m sorry. I still can’t see the link to where I verify my number and where to see the training
+--------------------
+
+--- Message ---
+Message ID: 1284893149377859667
+Message Type: Default
+Reply to: None
+Timestamp: 2024-09-15T15:06:38.972+00:00
+Author: Nicole Morris - Text Admin (nmorris237)
+Author Id: 935762347753103382
+Avatar URL: assets\27b1e286b65ae02b3378793b5f098411-A7B20.png
+Content: No worries! For clarification, have you taken the text training with us yet?
+--------------------
+
+--- Message ---
+Message ID: 1284952692275544086
+Message Type: Default
+Reply to: None
+Timestamp: 2024-09-15T19:03:15.105+00:00
+Author: Anne Doran (anne037065)
+Author Id: 1284582883331276813
+Avatar URL: assets\8569adcbd36c70a7578c017bf5604ea5-2B291.png
+Content: I have not.  How can I do that?
+--------------------
+
+--- Message ---
+Message ID: 1284954520962601091
+Message Type: Default
+Reply to: None
+Timestamp: 2024-09-15T19:10:31.098+00:00
+Author: Nicole Morris - Text Admin (nmorris237)
+Author Id: 935762347753103382
+Avatar URL: assets\27b1e286b65ae02b3378793b5f098411-A7B20.png
+Content: Ah got it! No problem, let me get the link
+--------------------
+
+--- Message ---
+Message ID: 1284954571084660868
+Message Type: Default
+Reply to: None
+Timestamp: 2024-09-15T19:10:43.048+00:00
+Author: Nicole Morris - Text Admin (nmorris237)
+Author Id: 935762347753103382
+Avatar URL: assets\27b1e286b65ae02b3378793b5f098411-A7B20.png
+Content: You can sign up here! https://events.democrats.org/event/672393/
+--------------------
+
+--- Message ---
+Message ID: 1285004099170996256
+Message Type: Default
+Reply to: None
+Timestamp: 2024-09-15T22:27:31.464+00:00
+Author: Anne Doran (anne037065)
+Author Id: 1284582883331276813
+Avatar URL: assets\8569adcbd36c70a7578c017bf5604ea5-2B291.png
+Content: I signed up for a training 😀
+--------------------
+
+--- Message ---
+Message ID: 1285013316665872477
+Message Type: Default
+Reply to: None
+Timestamp: 2024-09-15T23:04:09.086+00:00
+Author: Nicole Morris - Text Admin (nmorris237)
+Author Id: 935762347753103382
+Avatar URL: assets\27b1e286b65ae02b3378793b5f098411-A7B20.png
+Content: Wonderful!
+--------------------
+
+--- Message ---
+Message ID: 1286261504630456361
+Message Type: Default
+Reply to: None
+Timestamp: 2024-09-19T09:44:00.287+00:00
+Author: Anne Doran (anne037065)
+Author Id: 1284582883331276813
+Avatar URL: assets\8569adcbd36c70a7578c017bf5604ea5-2B291.png
+Content: I missed the training Tuesday. How can I sign up for another one?
+--------------------
+
+--- Message ---
+Message ID: 1286324045482168370
+Message Type: Default
+Reply to: None
+Timestamp: 2024-09-19T13:52:31.188+00:00
+Author: Nicole Morris - Text Admin (nmorris237)
+Author Id: 935762347753103382
+Avatar URL: assets\27b1e286b65ae02b3378793b5f098411-A7B20.png
+Content: Hi - sure! Here's the link https://events.democrats.org/event/672393/
+--------------------

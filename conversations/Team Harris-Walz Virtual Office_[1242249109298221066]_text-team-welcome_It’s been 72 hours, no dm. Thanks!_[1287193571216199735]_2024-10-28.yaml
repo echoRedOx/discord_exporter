@@ -1,0 +1,36 @@
+- author_avatar_url: assets\791c521e62160be1f3df04992f6e5470-36A38.png
+  author_id: '477560366432256000'
+  author_name: jjoannid
+  author_nickname: Jack Joannides KC text admin
+  content: ''
+  id: '1287194221484314695'
+  ref_to: '1287193571216199735'
+  timestamp: '2024-09-21T23:30:17.314+00:00'
+  type: '21'
+- author_avatar_url: assets\791c521e62160be1f3df04992f6e5470-36A38.png
+  author_id: '477560366432256000'
+  author_name: jjoannid
+  author_nickname: Jack Joannides KC text admin
+  content: Please don't post twice.
+  id: '1287194222549536779'
+  ref_to: null
+  timestamp: '2024-09-21T23:30:17.568+00:00'
+  type: Default
+- author_avatar_url: assets\4-4551A.png
+  author_id: '1266164520649363466'
+  author_name: mslyn76
+  author_nickname: Melinda Harpe
+  content: Sorry
+  id: '1287194707704811645'
+  ref_to: null
+  timestamp: '2024-09-21T23:32:13.238+00:00'
+  type: Default
+- author_avatar_url: assets\791c521e62160be1f3df04992f6e5470-36A38.png
+  author_id: '477560366432256000'
+  author_name: jjoannid
+  author_nickname: Jack Joannides KC text admin
+  content: I direct messaged you.
+  id: '1287194767850999879'
+  ref_to: null
+  timestamp: '2024-09-21T23:32:27.578+00:00'
+  type: Default

@@ -1,0 +1,49 @@
+Guild: Team Harris-Walz Virtual Office (ID: 1242249109298221066)
+Channel: HI! Elena here from AZ!  I'm ready to (ID: 1297717845245034527)
+Channel Topic: None
+Exported At: 2024-10-28T22:27:40.8937058+00:00
+
+
+--- Message ---
+Message ID: 1297939497870430239
+Message Type: 21
+Reply to: 1297717845245034527
+Timestamp: 2024-10-21T15:08:10.842+00:00
+Author: Roberta Bavin CA KC Greeter/Mod (roberta_24935)
+Author Id: 1269872908759597148
+Avatar URL: assets\df6d19d97b04a49ffcafbe7be14c7839-D9CE4.png
+Content: 
+--------------------
+
+--- Message ---
+Message ID: 1297939501406093412
+Message Type: Default
+Reply to: None
+Timestamp: 2024-10-21T15:08:11.685+00:00
+Author: Roberta Bavin CA KC Greeter/Mod (roberta_24935)
+Author Id: 1269872908759597148
+Avatar URL: assets\df6d19d97b04a49ffcafbe7be14c7839-D9CE4.png
+Content: Hi there! Thanks for reaching out. We don't have any further trainings scheduled. Please check ⁠non-official-events-only channel for other activities. We appreciate you being here! :thankyou:
+--------------------
+
+--- Message ---
+Message ID: 1297960809871310910
+Message Type: Default
+Reply to: None
+Timestamp: 2024-10-21T16:32:52.019+00:00
+Author: Elena Dunkin (AZ) (elenadaz_06426)
+Author Id: 1297327058694836284
+Avatar URL: assets\5a7e079ae579f49161ae27f6c9ee9e6a-0C075.png
+Content: Hi! I trained on Saturday just waiting to get next steps?   Thanks!
+--------------------
+
+--- Message ---
+Message ID: 1297965311651352737
+Message Type: Reply
+Reply to: 1297960809871310910
+Timestamp: 2024-10-21T16:50:45.327+00:00
+Author: Roberta Bavin CA KC Greeter/Mod (roberta_24935)
+Author Id: 1269872908759597148
+Avatar URL: assets\df6d19d97b04a49ffcafbe7be14c7839-D9CE4.png
+Content: Please look for DM left upper corner of Discord game controller icon. <:thankyou:1252806147396735057>
+--------------------

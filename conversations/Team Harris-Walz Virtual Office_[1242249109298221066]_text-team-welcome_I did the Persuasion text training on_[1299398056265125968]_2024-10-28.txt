@@ -1,0 +1,27 @@
+Guild: Team Harris-Walz Virtual Office (ID: 1242249109298221066)
+Channel: I did the Persuasion text training on (ID: 1299398056265125968)
+Channel Topic: None
+Exported At: 2024-10-28T22:13:18.3078755+00:00
+
+
+--- Message ---
+Message ID: 1299406161652748298
+Message Type: 21
+Reply to: 1299398056265125968
+Timestamp: 2024-10-25T16:16:10.737+00:00
+Author: Nicole Morris - Text Admin (nmorris237)
+Author Id: 935762347753103382
+Avatar URL: assets\27b1e286b65ae02b3378793b5f098411-A7B20.png
+Content: 
+--------------------
+
+--- Message ---
+Message ID: 1299406166152974486
+Message Type: Default
+Reply to: None
+Timestamp: 2024-10-25T16:16:11.81+00:00
+Author: Nicole Morris - Text Admin (nmorris237)
+Author Id: 935762347753103382
+Avatar URL: assets\27b1e286b65ae02b3378793b5f098411-A7B20.png
+Content: Hi <@1097617161738002453> Thanks - please see <#1298623273566732300> for all of that info. This channel is for onboarding Text Team members (different team - sorry for the confusion)
+--------------------

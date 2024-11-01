@@ -1,0 +1,49 @@
+Guild: Team Harris-Walz Virtual Office (ID: 1242249109298221066)
+Channel: Does or Can Reach app show schedule of events I’ve signed up for? (ID: 1279118123479466107)
+Channel Topic: None
+Exported At: 2024-10-24T06:49:54.4767535+00:00
+
+
+--- Message ---
+Message ID: 1279118123479466107
+Message Type: Default
+Reply to: None
+Timestamp: 2024-08-30T16:38:45.503+00:00
+Author: Kay Adams [Mod] (science4979)
+Author Id: 652991652448698388
+Avatar URL: assets\3d8690866ff0e62607a449287de8ca1d-57B17.png
+Content: I’m excited to help but want to make sure I’m remembering all the things I signed up to do. An option to see them all in one place would be super helpful.
+--------------------
+
+--- Message ---
+Message ID: 1279179140838195292
+Message Type: Default
+Reply to: None
+Timestamp: 2024-08-30T20:41:13.175+00:00
+Author: Carolyn B [CA] • Lead Mod (carb.on)
+Author Id: 568257600228032512
+Avatar URL: assets\28a90c77b5793d80eb62484a43c66748-D8837.png
+Content: I can't find it on Reach, however if you log onto https://www.mobilize.us/me/settings/ with the same user you have on Reach, you can see all the events you signed up for in your schedule in the menu on the upper-right
+--------------------
+
+--- Message ---
+Message ID: 1279244678897729617
+Message Type: Default
+Reply to: None
+Timestamp: 2024-08-31T01:01:38.666+00:00
+Author: Jessie [TX-15th] 🌞 (sunnyhunny0723)
+Author Id: 682653283252437001
+Avatar URL: assets\f7a447ded91f118e124ac08c35f78c20-44CBD.png
+Content: Right after I get emailed the details for events I’ve signed up for, I save them to my phone’s reminders app (or calendar if you prefer). That way you create a concise “one stop shop” and can avoid all the back and forth between browser, inbox, texts… just thought I’d share since it’s one less thing to worry about when scheduling for more events. Also helps me avoid double booking by accident or messing up the time zones. <:bidenpointq:1251648410902069351> 😁
+--------------------
+
+--- Message ---
+Message ID: 1279459710789091328
+Message Type: Default
+Reply to: None
+Timestamp: 2024-08-31T15:16:06.264+00:00
+Author: Kay Adams [Mod] (science4979)
+Author Id: 652991652448698388
+Avatar URL: assets\3d8690866ff0e62607a449287de8ca1d-57B17.png
+Content: Thank you both. The mobilize site is most helpful to me. I appreciate the advice. 💙
+--------------------

@@ -1,0 +1,104 @@
+Guild: Team Harris-Walz Virtual Office (ID: 1242249109298221066)
+Channel: How do I change my role? (ID: 1276655922256805960)
+Channel Topic: None
+Exported At: 2024-10-28T20:20:21.6333236+00:00
+
+
+--- Message ---
+Message ID: 1276655922256805960
+Message Type: Default
+Reply to: None
+Timestamp: 2024-08-23T21:34:50.986+00:00
+Author: Kerry L (tattedsheep)
+Author Id: 1274514769021370403
+Avatar URL: assets\2-ADBB4.png
+Content: How do I change my role? I ended up in online engagement, but I'm not really social media savvy. How do I switch my role to something like back office volunteering or data entry or postcards? Thanks!
+--------------------
+
+--- Message ---
+Message ID: 1276660653473402960
+Message Type: Default
+Reply to: None
+Timestamp: 2024-08-23T21:53:38.996+00:00
+Author: Ophelia W • Lead Mod (opheliawild)
+Author Id: 957714233217409174
+Avatar URL: assets\8b706a86e5f9b8dcaaa950a7500b77b8-E1341.png
+Content: Hi Kerry! Just go back to <id:customize> <click/tap here and deselect/select the roles you prefer. Vote Team is the best place for data entry type work. We do not have a team doing postcards at this time. Thank you!
+--------------------
+
+--- Message ---
+Message ID: 1277806911680413810
+Message Type: Default
+Reply to: None
+Timestamp: 2024-08-27T01:48:28.249+00:00
+Author: Shelley NYC area (shelley_88641)
+Author Id: 1262931527797571614
+Avatar URL: assets\9b89cb21eff281731d507aba180ba681-D6308.png
+Content: <@957714233217409174> I'm looking for data entry/analysis tasks as well. I signed up for Data Captain training for this Wed. night. But on Channels & Roles I don't see an option for Vote Team.
+--------------------
+
+--- Message ---
+Message ID: 1277812485407244358
+Message Type: Reply
+Reply to: 1277806911680413810
+Timestamp: 2024-08-27T02:10:37.129+00:00
+Author: Ophelia W • Lead Mod (opheliawild)
+Author Id: 957714233217409174
+Avatar URL: assets\8b706a86e5f9b8dcaaa950a7500b77b8-E1341.png
+Content: All teams except Online Engagement and Hosts require everyone take a training first (sign up for an event at the links in general chat or on https://events.democrats.org) then there's a process to be approved to access each team's channels in this server. So you'll get access instructions in your training essentially! Very soon! Almost there!
+--------------------
+
+--- Message ---
+Message ID: 1277812506751926282
+Message Type: Default
+Reply to: None
+Timestamp: 2024-08-27T02:10:42.218+00:00
+Author: Ophelia W • Lead Mod (opheliawild)
+Author Id: 957714233217409174
+Avatar URL: assets\8b706a86e5f9b8dcaaa950a7500b77b8-E1341.png
+Content: Thank you for your work!
+--------------------
+
+--- Message ---
+Message ID: 1278152892880261192
+Message Type: Default
+Reply to: None
+Timestamp: 2024-08-28T00:43:16.595+00:00
+Author: Rogue24 (rogue240933)
+Author Id: 1254167148457103405
+Avatar URL: assets\6c5996770c985bcd6e5b68131ff2ba04-12302.png
+Content: Do you have any volunteer work for data entry and office work I have those experiences? What is the best recommendation?
+--------------------
+
+--- Message ---
+Message ID: 1278174885692047402
+Message Type: Default
+Reply to: None
+Timestamp: 2024-08-28T02:10:40.09+00:00
+Author: Carolyn B [CA] • Lead Mod (carb.on)
+Author Id: 568257600228032512
+Avatar URL: assets\28a90c77b5793d80eb62484a43c66748-D8837.png
+Content: Hi <@1254167148457103405> we have data captains for our phone bank sessions and for our vote team sessions. Look for an upcoming training in our daily announcements.
+--------------------
+
+--- Message ---
+Message ID: 1278179847314608229
+Message Type: Default
+Reply to: None
+Timestamp: 2024-08-28T02:30:23.033+00:00
+Author: Rogue24 (rogue240933)
+Author Id: 1254167148457103405
+Avatar URL: assets\6c5996770c985bcd6e5b68131ff2ba04-12302.png
+Content: Thank you Carolyn that is great! I definitely want to go for the data captains for those sessions! I will check the daily announcements!
+--------------------
+
+--- Message ---
+Message ID: 1278180181080674387
+Message Type: Default
+Reply to: None
+Timestamp: 2024-08-28T02:31:42.609+00:00
+Author: Rogue24 (rogue240933)
+Author Id: 1254167148457103405
+Avatar URL: assets\6c5996770c985bcd6e5b68131ff2ba04-12302.png
+Content: I appreciate it! <@568257600228032512>
+--------------------

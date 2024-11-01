@@ -1,0 +1,27 @@
+Guild: Team Harris-Walz Virtual Office (ID: 1242249109298221066)
+Channel: https://web.joebiden.com/forms/take-action-for-president-biden-and-vice-president-harris/ (ID: 1261115192323080282)
+Channel Topic: None
+Exported At: 2024-10-24T13:17:37.5383409+00:00
+
+
+--- Message ---
+Message ID: 1261121313247068261
+Message Type: 21
+Reply to: 1261115192323080282
+Timestamp: 2024-07-12T00:45:51.579+00:00
+Author: rootsmusic (rootsmusic)
+Author Id: 791857656897732648
+Avatar URL: assets\a30e650576a6d42a3c9ee24648f67c90-2AE37.png
+Content: 
+--------------------
+
+--- Message ---
+Message ID: 1261121437192949851
+Message Type: Default
+Reply to: None
+Timestamp: 2024-07-12T00:46:21.13+00:00
+Author: Kate Beeken [Staff] (beekenoflight)
+Author Id: 1184187512491618404
+Avatar URL: assets\45ab2e205f58fd1fdbebc1f2217ed4f5-0EE42.png
+Content: We are working on getting it out to those lists!
+--------------------

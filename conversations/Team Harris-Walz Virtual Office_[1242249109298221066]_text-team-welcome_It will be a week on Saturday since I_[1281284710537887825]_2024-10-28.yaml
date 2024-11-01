@@ -1,0 +1,84 @@
+- author_avatar_url: assets\791c521e62160be1f3df04992f6e5470-36A38.png
+  author_id: '477560366432256000'
+  author_name: jjoannid
+  author_nickname: Jack Joannides KC text admin
+  content: ''
+  id: '1281285097882124322'
+  ref_to: '1281284710537887825'
+  timestamp: '2024-09-05T16:09:32.461+00:00'
+  type: '21'
+- author_avatar_url: assets\791c521e62160be1f3df04992f6e5470-36A38.png
+  author_id: '477560366432256000'
+  author_name: jjoannid
+  author_nickname: Jack Joannides KC text admin
+  content: Sorry about that. Let me check on this.
+  id: '1281285100289654845'
+  ref_to: null
+  timestamp: '2024-09-05T16:09:33.035+00:00'
+  type: Default
+- author_avatar_url: assets\791c521e62160be1f3df04992f6e5470-36A38.png
+  author_id: '477560366432256000'
+  author_name: jjoannid
+  author_nickname: Jack Joannides KC text admin
+  content: You should of gotten an direct message from <@1269872908759597148> to setup
+    your account.
+  id: '1281285301863583776'
+  ref_to: null
+  timestamp: '2024-09-05T16:10:21.094+00:00'
+  type: Default
+- author_avatar_url: assets\1120cfca724fbbe3facb6cdb77d681eb-5E844.png
+  author_id: '1279571577347899535'
+  author_name: sonjacamden_38357
+  author_nickname: Sonja Camden TX
+  content: Thank you!
+  id: '1281286194956861462'
+  ref_to: null
+  timestamp: '2024-09-05T16:13:54.024+00:00'
+  type: Default
+- author_avatar_url: assets\df6d19d97b04a49ffcafbe7be14c7839-D9CE4.png
+  author_id: '1269872908759597148'
+  author_name: roberta_24935
+  author_nickname: Roberta Bavin CA KC Greeter/Mod
+  content: Hi Sonja! I sent you a DM on 9/1 at 4pm PT. Can you find it? Please reply
+    to the DM! Thanks!
+  id: '1281291531101405195'
+  ref_to: '1281286194956861462'
+  timestamp: '2024-09-05T16:35:06.26+00:00'
+  type: Reply
+- author_avatar_url: assets\1120cfca724fbbe3facb6cdb77d681eb-5E844.png
+  author_id: '1279571577347899535'
+  author_name: sonjacamden_38357
+  author_nickname: Sonja Camden TX
+  content: "Hi Roberta \U0001F499. I've checked everything and cannot find anything.\
+    \ Any suggestions? I do apologize if it's a problem on my end."
+  id: '1281291839978078302'
+  ref_to: null
+  timestamp: '2024-09-05T16:36:19.902+00:00'
+  type: Default
+- author_avatar_url: assets\df6d19d97b04a49ffcafbe7be14c7839-D9CE4.png
+  author_id: '1269872908759597148'
+  author_name: roberta_24935
+  author_nickname: Roberta Bavin CA KC Greeter/Mod
+  content: Just sent you a new DM. Do you have your DM's turned on?
+  id: '1281292948344148010'
+  ref_to: '1281291839978078302'
+  timestamp: '2024-09-05T16:40:44.157+00:00'
+  type: Reply
+- author_avatar_url: assets\1120cfca724fbbe3facb6cdb77d681eb-5E844.png
+  author_id: '1279571577347899535'
+  author_name: sonjacamden_38357
+  author_nickname: Sonja Camden TX
+  content: 'Yes'
+  id: '1281293001074671659'
+  ref_to: null
+  timestamp: '2024-09-05T16:40:56.729+00:00'
+  type: Default
+- author_avatar_url: assets\df6d19d97b04a49ffcafbe7be14c7839-D9CE4.png
+  author_id: '1269872908759597148'
+  author_name: roberta_24935
+  author_nickname: Roberta Bavin CA KC Greeter/Mod
+  content: Did you get the message?
+  id: '1281295775665487885'
+  ref_to: '1281293001074671659'
+  timestamp: '2024-09-05T16:51:58.243+00:00'
+  type: Reply

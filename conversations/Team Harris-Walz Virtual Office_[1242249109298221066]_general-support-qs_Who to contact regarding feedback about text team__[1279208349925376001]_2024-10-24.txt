@@ -1,0 +1,27 @@
+Guild: Team Harris-Walz Virtual Office (ID: 1242249109298221066)
+Channel: Who to contact regarding feedback about text team? (ID: 1279208349925376001)
+Channel Topic: None
+Exported At: 2024-10-24T06:50:02.5031285+00:00
+
+
+--- Message ---
+Message ID: 1279208349925376001
+Message Type: Default
+Reply to: None
+Timestamp: 2024-08-30T22:37:17.164+00:00
+Author: Laura M (CO) • Call Mod (hungry.hiker)
+Author Id: 756314488113987654
+Avatar URL: assets\4aa5ed3c3ad66beef8f10bd0d3979dae-08843.png
+Content: I have some feedback about the text team that I would like to share, regarding the training as well as some interactions with text mods on Discord. Please let me know who to contact. Ideally someone who is not on the team itself. Thanks.
+--------------------
+
+--- Message ---
+Message ID: 1279209790534586409
+Message Type: Default
+Reply to: None
+Timestamp: 2024-08-30T22:43:00.632+00:00
+Author: Carolyn B [CA] • Lead Mod (carb.on)
+Author Id: 568257600228032512
+Avatar URL: assets\28a90c77b5793d80eb62484a43c66748-D8837.png
+Content: Hello <@756314488113987654> we appreciate your feedback. I encourage you to share it with <@1257444318222876712> who is the Staff member overseeing Texting. Sophia is in the best position to answer your concerns and act on your suggestions. If you would prefer to make suggestions anonymously, you can DM me and I will relay your message to Staff.
+--------------------

@@ -1,0 +1,27 @@
+Guild: Team Harris-Walz Virtual Office (ID: 1242249109298221066)
+Channel: I didn't get a link in the zoom chat for (ID: 1278154751548325940)
+Channel Topic: None
+Exported At: 2024-10-28T23:55:49.0972871+00:00
+
+
+--- Message ---
+Message ID: 1278171408567898204
+Message Type: 21
+Reply to: 1278154751548325940
+Timestamp: 2024-08-28T01:56:51.079+00:00
+Author: Nicole Morris - Text Admin (nmorris237)
+Author Id: 935762347753103382
+Avatar URL: assets\27b1e286b65ae02b3378793b5f098411-A7B20.png
+Content: 
+--------------------
+
+--- Message ---
+Message ID: 1278171410254266472
+Message Type: Default
+Reply to: None
+Timestamp: 2024-08-28T01:56:51.481+00:00
+Author: Nicole Morris - Text Admin (nmorris237)
+Author Id: 935762347753103382
+Avatar URL: assets\27b1e286b65ae02b3378793b5f098411-A7B20.png
+Content: Hi <@1276603108952248474> Thanks -- I will follow up with you by tomorrow morning on this. Please follow up if you don't hear from me!
+--------------------

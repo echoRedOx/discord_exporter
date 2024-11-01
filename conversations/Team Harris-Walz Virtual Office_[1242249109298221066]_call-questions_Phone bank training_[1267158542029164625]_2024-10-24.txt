@@ -1,0 +1,227 @@
+Guild: Team Harris-Walz Virtual Office (ID: 1242249109298221066)
+Channel: Phone bank training (ID: 1267158542029164625)
+Channel Topic: None
+Exported At: 2024-10-24T12:58:37.5396821+00:00
+
+
+--- Message ---
+Message ID: 1267158542029164625
+Message Type: Default
+Reply to: None
+Timestamp: 2024-07-28T16:35:39.087+00:00
+Author: j0hann (j0hann)
+Author Id: 896589740567044147
+Avatar URL: assets\69406d854bb92a0b7d4d5cce952686a2-876FD.png
+Content: Hi, I got booted from the training call yesterday due to a technical problem. Is there a recording of it to listen to or a list of guidelines or key points and strategies when phone banking?
+
+Thank you!
+--------------------
+
+--- Message ---
+Message ID: 1267165323677794354
+Message Type: Reply
+Reply to: 1267158542029164625
+Timestamp: 2024-07-28T17:02:35.958+00:00
+Author: Ophelia W • Lead Mod (opheliawild)
+Author Id: 957714233217409174
+Avatar URL: assets\8b706a86e5f9b8dcaaa950a7500b77b8-E1341.png
+Content: I'm not staff but this link was in chat on yesterday's call and goes over the same training info I believe: https://www.youtube.com/watch?v=a8EgLFXd3M8&t=221s
+--------------------
+
+--- Message ---
+Message ID: 1267165419160993963
+Message Type: Reply
+Reply to: 1267165323677794354
+Timestamp: 2024-07-28T17:02:58.723+00:00
+Author: j0hann (j0hann)
+Author Id: 896589740567044147
+Avatar URL: assets\69406d854bb92a0b7d4d5cce952686a2-876FD.png
+Content: Great, thank you!
+--------------------
+
+--- Message ---
+Message ID: 1267165566083530802
+Message Type: Default
+Reply to: None
+Timestamp: 2024-07-28T17:03:33.752+00:00
+Author: Ophelia W • Lead Mod (opheliawild)
+Author Id: 957714233217409174
+Avatar URL: assets\8b706a86e5f9b8dcaaa950a7500b77b8-E1341.png
+Content: I had to go through it again just to make sure I understood it all right. 😉
+--------------------
+
+--- Message ---
+Message ID: 1267171305124266055
+Message Type: Default
+Reply to: None
+Timestamp: 2024-07-28T17:26:22.046+00:00
+Author: Benita Stills (benitastills)
+Author Id: 1266771108980326481
+Avatar URL: assets\8569adcbd36c70a7578c017bf5604ea5-3DF1E.png
+Content: Hi is the phone banking today @ 1 on zoom?
+--------------------
+
+--- Message ---
+Message ID: 1267171628392120340
+Message Type: Default
+Reply to: None
+Timestamp: 2024-07-28T17:27:39.119+00:00
+Author: LizBNYC (lizbnyc_55837)
+Author Id: 1266817291199320177
+Avatar URL: assets\8ae9c731f42c9c8612c3894f53580be3-07CCA.png
+Content: Yes, but I can't get in. Anyone else having the same problem?
+--------------------
+
+--- Message ---
+Message ID: 1267171966427725965
+Message Type: Default
+Reply to: None
+Timestamp: 2024-07-28T17:28:59.713+00:00
+Author: Frances Haydock [HQ Staff Alt] (msloki01)
+Author Id: 430470599064682507
+Avatar URL: assets\a9493779f6f0e06c0c98b2ddf25a0db5-17406.png
+Content: Sorry, there was a problem but if you try to enter the meeting again I believe they fixed it.
+--------------------
+
+--- Message ---
+Message ID: 1267172009100443739
+Message Type: Default
+Reply to: None
+Timestamp: 2024-07-28T17:29:09.887+00:00
+Author: LizBNYC (lizbnyc_55837)
+Author Id: 1266817291199320177
+Avatar URL: assets\8ae9c731f42c9c8612c3894f53580be3-07CCA.png
+Content: ok
+--------------------
+
+--- Message ---
+Message ID: 1267172296758657096
+Message Type: Default
+Reply to: None
+Timestamp: 2024-07-28T17:30:18.47+00:00
+Author: LizBNYC (lizbnyc_55837)
+Author Id: 1266817291199320177
+Avatar URL: assets\8ae9c731f42c9c8612c3894f53580be3-07CCA.png
+Content: Nope.  Does anyone have the zoom link?
+--------------------
+
+--- Message ---
+Message ID: 1267172367776612402
+Message Type: Default
+Reply to: None
+Timestamp: 2024-07-28T17:30:35.402+00:00
+Author: LizBNYC (lizbnyc_55837)
+Author Id: 1266817291199320177
+Avatar URL: assets\8ae9c731f42c9c8612c3894f53580be3-07CCA.png
+Content: <ine isn't working
+--------------------
+
+--- Message ---
+Message ID: 1267172938273001534
+Message Type: Default
+Reply to: None
+Timestamp: 2024-07-28T17:32:51.419+00:00
+Author: LizBNYC (lizbnyc_55837)
+Author Id: 1266817291199320177
+Avatar URL: assets\8ae9c731f42c9c8612c3894f53580be3-07CCA.png
+Content: It says waiting for host to start meeting
+--------------------
+
+--- Message ---
+Message ID: 1267173086952951948
+Message Type: Default
+Reply to: None
+Timestamp: 2024-07-28T17:33:26.867+00:00
+Author: LizBNYC (lizbnyc_55837)
+Author Id: 1266817291199320177
+Avatar URL: assets\8ae9c731f42c9c8612c3894f53580be3-07CCA.png
+Content: Thst's half an hour wasted.  I could have made many calls
+--------------------
+
+--- Message ---
+Message ID: 1267178204066484244
+Message Type: Default
+Reply to: None
+Timestamp: 2024-07-28T17:53:46.882+00:00
+Author: Frances Haydock (HFP HQ!) (franceshaydock_20619)
+Author Id: 1257469301435400238
+Avatar URL: assets\8286d5b1308e7b3d80a3523e4ec50548-C029D.png
+Content: DMed you the link to the West Coast Phone Bank
+--------------------
+
+--- Message ---
+Message ID: 1267178220071944193
+Message Type: Default
+Reply to: None
+Timestamp: 2024-07-28T17:53:50.698+00:00
+Author: Ophelia W • Lead Mod (opheliawild)
+Author Id: 957714233217409174
+Avatar URL: assets\8b706a86e5f9b8dcaaa950a7500b77b8-E1341.png
+Content: https://events.democrats.org/event/633159/
+--------------------
+
+--- Message ---
+Message ID: 1267178470220366017
+Message Type: Default
+Reply to: None
+Timestamp: 2024-07-28T17:54:50.338+00:00
+Author: Ophelia W • Lead Mod (opheliawild)
+Author Id: 957714233217409174
+Avatar URL: assets\8b706a86e5f9b8dcaaa950a7500b77b8-E1341.png
+Content: This link keeps saying "waiting for host to start the meeting" but never lets me in: https://mobilize.us/s/3DYRwz
+--------------------
+
+--- Message ---
+Message ID: 1267204985314086993
+Message Type: Default
+Reply to: None
+Timestamp: 2024-07-28T19:40:12.029+00:00
+Author: Frances Haydock (HFP HQ!) (franceshaydock_20619)
+Author Id: 1257469301435400238
+Avatar URL: assets\8286d5b1308e7b3d80a3523e4ec50548-C029D.png
+Content: which event was this zoom link for?
+--------------------
+
+--- Message ---
+Message ID: 1267212531584340010
+Message Type: Reply
+Reply to: 1267204985314086993
+Timestamp: 2024-07-28T20:10:11.2+00:00
+Author: Ophelia W • Lead Mod (opheliawild)
+Author Id: 957714233217409174
+Avatar URL: assets\8b706a86e5f9b8dcaaa950a7500b77b8-E1341.png
+Content: The dem phone bank call
+--------------------
+
+--- Message ---
+Message ID: 1267212594746495048
+Message Type: Default
+Reply to: None
+Timestamp: 2024-07-28T20:10:26.259+00:00
+Author: Ophelia W • Lead Mod (opheliawild)
+Author Id: 957714233217409174
+Avatar URL: assets\8b706a86e5f9b8dcaaa950a7500b77b8-E1341.png
+Content: Event link is right above the zoom link
+--------------------
+
+--- Message ---
+Message ID: 1267227033344282769
+Message Type: Default
+Reply to: None
+Timestamp: 2024-07-28T21:07:48.689+00:00
+Author: Frances Haydock (HFP HQ!) (franceshaydock_20619)
+Author Id: 1257469301435400238
+Avatar URL: assets\8286d5b1308e7b3d80a3523e4ec50548-C029D.png
+Content: i am sorry that that happened to you!
+--------------------
+
+--- Message ---
+Message ID: 1267227143352483910
+Message Type: Default
+Reply to: None
+Timestamp: 2024-07-28T21:08:14.917+00:00
+Author: Frances Haydock (HFP HQ!) (franceshaydock_20619)
+Author Id: 1257469301435400238
+Avatar URL: assets\8286d5b1308e7b3d80a3523e4ec50548-C029D.png
+Content: i don't know what happened but I will flag that the link was not working!
+--------------------

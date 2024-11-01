@@ -1,0 +1,71 @@
+Guild: Team Harris-Walz Virtual Office (ID: 1242249109298221066)
+Channel: Hello, I took text training a month ago (ID: 1298332543548002437)
+Channel Topic: None
+Exported At: 2024-10-28T22:23:27.9197208+00:00
+
+
+--- Message ---
+Message ID: 1298333588441534546
+Message Type: 21
+Reply to: 1298332543548002437
+Timestamp: 2024-10-22T17:14:09.356+00:00
+Author: Roberta Bavin CA KC Greeter/Mod (roberta_24935)
+Author Id: 1269872908759597148
+Avatar URL: assets\df6d19d97b04a49ffcafbe7be14c7839-D9CE4.png
+Content: 
+--------------------
+
+--- Message ---
+Message ID: 1298333591704698900
+Message Type: Default
+Reply to: None
+Timestamp: 2024-10-22T17:14:10.134+00:00
+Author: Roberta Bavin CA KC Greeter/Mod (roberta_24935)
+Author Id: 1269872908759597148
+Avatar URL: assets\df6d19d97b04a49ffcafbe7be14c7839-D9CE4.png
+Content: Hi <@1278118222876639326> Thanks for reaching out! It looks like you are fully onboarded. There's a new channel called <#1287795589655822397> that has lots of good information. Thank you so much for coming back!
+--------------------
+
+--- Message ---
+Message ID: 1298334054873038868
+Message Type: Default
+Reply to: None
+Timestamp: 2024-10-22T17:16:00.562+00:00
+Author: Perry DiToto (perryd._12789)
+Author Id: 1278118222876639326
+Avatar URL: assets\4-4551A.png
+Content: Thank you Roberta!
+--------------------
+
+--- Message ---
+Message ID: 1298336710240899082
+Message Type: Default
+Reply to: None
+Timestamp: 2024-10-22T17:26:33.651+00:00
+Author: Perry DiToto (perryd._12789)
+Author Id: 1278118222876639326
+Avatar URL: assets\4-4551A.png
+Content: What do the different colors stand for? Where do I find the scripted responses?
+--------------------
+
+--- Message ---
+Message ID: 1298340326381191189
+Message Type: Reply
+Reply to: 1298336710240899082
+Timestamp: 2024-10-22T17:40:55.806+00:00
+Author: Roberta Bavin CA KC Greeter/Mod (roberta_24935)
+Author Id: 1269872908759597148
+Avatar URL: assets\df6d19d97b04a49ffcafbe7be14c7839-D9CE4.png
+Content: There are three STW accounts now; you may need to sign up for pink and green since you were onboarded a while ago. Those links should still be in the <#1245442408305393675> channel. The scripted responses are in the campaigns themselves, as replies. We are not sending out the texts, only doing replies.
+--------------------
+
+--- Message ---
+Message ID: 1298341087525601411
+Message Type: Default
+Reply to: None
+Timestamp: 2024-10-22T17:43:57.277+00:00
+Author: Perry DiToto (perryd._12789)
+Author Id: 1278118222876639326
+Avatar URL: assets\4-4551A.png
+Content: Ok, thanks
+--------------------

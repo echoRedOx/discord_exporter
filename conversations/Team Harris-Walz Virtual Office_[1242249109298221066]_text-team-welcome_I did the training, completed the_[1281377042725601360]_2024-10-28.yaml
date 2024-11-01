@@ -1,0 +1,29 @@
+- author_avatar_url: assets\f7ebcd4727f2b8e05b4382b1b1eb6d74-1D9FE.png
+  author_id: '1254144571089354868'
+  author_name: kcmpolitical
+  author_nickname: Kris Morrell (CA) - KC TextAdmin
+  content: ''
+  id: '1281377597904654417'
+  ref_to: '1281377042725601360'
+  timestamp: '2024-09-05T22:17:06.185+00:00'
+  type: '21'
+- author_avatar_url: assets\f7ebcd4727f2b8e05b4382b1b1eb6d74-1D9FE.png
+  author_id: '1254144571089354868'
+  author_name: kcmpolitical
+  author_nickname: Kris Morrell (CA) - KC TextAdmin
+  content: "Hi <@1280685428038565971>, there will be an additional step during onboarding,\
+    \ but you don't need to retake the test. Please give us a couple of days though\
+    \ \U0001F499"
+  id: '1281377599221792912'
+  ref_to: null
+  timestamp: '2024-09-05T22:17:06.499+00:00'
+  type: Default
+- author_avatar_url: assets\8c14fa92a4a06b45a7702d3dc5292838-AEF59.png
+  author_id: '1280685428038565971'
+  author_name: cvan3man
+  author_nickname: Carolyn VanEman [CO]
+  content: no problem, just didn't want to miss this opportunity
+  id: '1281377797918429264'
+  ref_to: null
+  timestamp: '2024-09-05T22:17:53.872+00:00'
+  type: Default

@@ -1,0 +1,38 @@
+Guild: Team Harris-Walz Virtual Office (ID: 1242249109298221066)
+Channel: I’ve been texting via Slack for years. I (ID: 1282756650452647977)
+Channel Topic: None
+Exported At: 2024-10-28T23:31:06.0540011+00:00
+
+
+--- Message ---
+Message ID: 1282849862903140396
+Message Type: 21
+Reply to: 1282756650452647977
+Timestamp: 2024-09-09T23:47:21.514+00:00
+Author: Nicole Morris - Text Admin (nmorris237)
+Author Id: 935762347753103382
+Avatar URL: assets\27b1e286b65ae02b3378793b5f098411-A7B20.png
+Content: 
+--------------------
+
+--- Message ---
+Message ID: 1282849865990406176
+Message Type: Default
+Reply to: None
+Timestamp: 2024-09-09T23:47:22.25+00:00
+Author: Nicole Morris - Text Admin (nmorris237)
+Author Id: 935762347753103382
+Avatar URL: assets\27b1e286b65ae02b3378793b5f098411-A7B20.png
+Content: Hi <@1256040697107189773> Thank you! I will send you a follow up message on Discord right now - please let me know if you don't see it. If you're on your computer, it'll be on the top left, like this:
+--------------------
+
+--- Message ---
+Message ID: 1282849884017528895
+Message Type: Default
+Reply to: None
+Timestamp: 2024-09-09T23:47:26.548+00:00
+Author: Nicole Morris - Text Admin (nmorris237)
+Author Id: 935762347753103382
+Avatar URL: assets\27b1e286b65ae02b3378793b5f098411-A7B20.png
+Content: 
+--------------------

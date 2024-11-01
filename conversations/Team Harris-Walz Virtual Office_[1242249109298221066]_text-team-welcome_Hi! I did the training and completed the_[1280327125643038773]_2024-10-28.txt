@@ -1,0 +1,115 @@
+Guild: Team Harris-Walz Virtual Office (ID: 1242249109298221066)
+Channel: Hi! I did the training and completed the (ID: 1280327125643038773)
+Channel Topic: None
+Exported At: 2024-10-28T22:12:12.1704358+00:00
+
+
+--- Message ---
+Message ID: 1280327391582879814
+Message Type: 21
+Reply to: 1280327125643038773
+Timestamp: 2024-09-03T00:43:57.486+00:00
+Author: Jack Joannides KC text admin (jjoannid)
+Author Id: 477560366432256000
+Avatar URL: assets\791c521e62160be1f3df04992f6e5470-36A38.png
+Content: 
+--------------------
+
+--- Message ---
+Message ID: 1280327393768112128
+Message Type: Default
+Reply to: None
+Timestamp: 2024-09-03T00:43:58.007+00:00
+Author: Jack Joannides KC text admin (jjoannid)
+Author Id: 477560366432256000
+Avatar URL: assets\791c521e62160be1f3df04992f6e5470-36A38.png
+Content: You need to update your display name.
+--------------------
+
+--- Message ---
+Message ID: 1280327679383437345
+Message Type: Default
+Reply to: None
+Timestamp: 2024-09-03T00:45:06.103+00:00
+Author: Kirsten Helmer (kirsten_94088)
+Author Id: 1275871861384806472
+Avatar URL: assets\4b45ebbb0e5afa4a1ac8686b76984f9a-4CEDD.png
+Content: What do you mean?
+--------------------
+
+--- Message ---
+Message ID: 1280327805971726357
+Message Type: Default
+Reply to: None
+Timestamp: 2024-09-03T00:45:36.284+00:00
+Author: Kirsten Helmer (kirsten_94088)
+Author Id: 1275871861384806472
+Avatar URL: assets\4b45ebbb0e5afa4a1ac8686b76984f9a-4CEDD.png
+Content: Update it with what and how?
+--------------------
+
+--- Message ---
+Message ID: 1280327820186222625
+Message Type: Default
+Reply to: None
+Timestamp: 2024-09-03T00:45:39.673+00:00
+Author: Jack Joannides KC text admin (jjoannid)
+Author Id: 477560366432256000
+Avatar URL: assets\791c521e62160be1f3df04992f6e5470-36A38.png
+Content: I can see your name is Kristen.
+--------------------
+
+--- Message ---
+Message ID: 1280327850532278292
+Message Type: Default
+Reply to: None
+Timestamp: 2024-09-03T00:45:46.908+00:00
+Author: Kirsten Helmer (kirsten_94088)
+Author Id: 1275871861384806472
+Avatar URL: assets\4b45ebbb0e5afa4a1ac8686b76984f9a-4CEDD.png
+Content: Kirsten, yes
+--------------------
+
+--- Message ---
+Message ID: 1280327863060664401
+Message Type: Default
+Reply to: None
+Timestamp: 2024-09-03T00:45:49.895+00:00
+Author: Jack Joannides KC text admin (jjoannid)
+Author Id: 477560366432256000
+Avatar URL: assets\791c521e62160be1f3df04992f6e5470-36A38.png
+Content: But we need your last name.
+--------------------
+
+--- Message ---
+Message ID: 1280327892600881174
+Message Type: Default
+Reply to: None
+Timestamp: 2024-09-03T00:45:56.938+00:00
+Author: Jack Joannides KC text admin (jjoannid)
+Author Id: 477560366432256000
+Avatar URL: assets\791c521e62160be1f3df04992f6e5470-36A38.png
+Content: To be added.
+--------------------
+
+--- Message ---
+Message ID: 1280328118116024424
+Message Type: Default
+Reply to: None
+Timestamp: 2024-09-03T00:46:50.705+00:00
+Author: Kirsten Helmer (kirsten_94088)
+Author Id: 1275871861384806472
+Avatar URL: assets\4b45ebbb0e5afa4a1ac8686b76984f9a-4CEDD.png
+Content: Okay. I just did.
+--------------------
+
+--- Message ---
+Message ID: 1280328236760563813
+Message Type: Default
+Reply to: None
+Timestamp: 2024-09-03T00:47:18.992+00:00
+Author: Kirsten Helmer (kirsten_94088)
+Author Id: 1275871861384806472
+Avatar URL: assets\4b45ebbb0e5afa4a1ac8686b76984f9a-4CEDD.png
+Content: Will it still take 24-48 hours from now to add me?
+--------------------

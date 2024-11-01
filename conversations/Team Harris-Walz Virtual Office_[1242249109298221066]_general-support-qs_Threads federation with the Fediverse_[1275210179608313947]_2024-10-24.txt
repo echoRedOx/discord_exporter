@@ -1,0 +1,38 @@
+Guild: Team Harris-Walz Virtual Office (ID: 1242249109298221066)
+Channel: Threads federation with the Fediverse (ID: 1275210179608313947)
+Channel Topic: None
+Exported At: 2024-10-24T06:54:02.480503+00:00
+
+
+--- Message ---
+Message ID: 1275210179608313947
+Message Type: Default
+Reply to: None
+Timestamp: 2024-08-19T21:49:59.078+00:00
+Author: Eric Gallager (NH02) (egallager)
+Author Id: 379278050212315148
+Avatar URL: assets\3455937c80f8c69cd430cbb4f671a3ab-A02E8.png
+Content: Hi, just wondering if the KamalaHQ Threads account is going to be getting federated with the Fediverse anytime soon? I'd like to be able to repost it from my Mastodon account, and it seems that others would, too: https://fasol.org/@fasol/112955462789994850
+--------------------
+
+--- Message ---
+Message ID: 1275215472458993766
+Message Type: Default
+Reply to: None
+Timestamp: 2024-08-19T22:11:00.992+00:00
+Author: Eric Gallager (NH02) (egallager)
+Author Id: 379278050212315148
+Avatar URL: assets\3455937c80f8c69cd430cbb4f671a3ab-A02E8.png
+Content: ...ah, apparently there was already a post about this: https://discord.com/channels/1242249109298221066/1250550849998946417/1274454200050258102
+--------------------
+
+--- Message ---
+Message ID: 1277765771237261416
+Message Type: Default
+Reply to: None
+Timestamp: 2024-08-26T23:04:59.603+00:00
+Author: Brooklynmothra (brooklynmothra)
+Author Id: 824045831673872385
+Avatar URL: assets\79ec240516b2d659c39aa570a1399e30-62CF9.png
+Content: Ditto, I had the same question from my community in Mastodon. Also, I believe Bluesky folks would like something too , although Fediverse won't be possible there.
+--------------------

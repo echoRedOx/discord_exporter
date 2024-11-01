@@ -1,0 +1,38 @@
+- author_avatar_url: assets\69593cc27663eeb7a60c6f6c7c84d1f7-2E432.png
+  author_id: '733043231956402236'
+  author_name: .lilyl
+  author_nickname: LilyL
+  content: I'm a high school student and have been doing phone banking all week. I
+    was wondering if it would be possible to get service hours for calling, and if
+    so if theres somebody I should email about it. If not no worries!! Thanks so much!!
+  id: '1298472858791710741'
+  ref_to: null
+  timestamp: '2024-10-23T02:27:33.995+00:00'
+  type: Default
+- author_avatar_url: assets\5fde485e55d806d8356ca6e7e08f1f48-77A19.png
+  author_id: '1266903666879627274'
+  author_name: larrya._98544
+  author_nickname: Larry Ahlgrim (VA) [Call Mod]
+  content: I'm sure you can but I don't have an email, I'll see if I can get one.
+  id: '1298474303024791594'
+  ref_to: null
+  timestamp: '2024-10-23T02:33:18.327+00:00'
+  type: Default
+- author_avatar_url: assets\69593cc27663eeb7a60c6f6c7c84d1f7-2E432.png
+  author_id: '733043231956402236'
+  author_name: .lilyl
+  author_nickname: LilyL
+  content: Great thank you so much!
+  id: '1298474504703709266'
+  ref_to: null
+  timestamp: '2024-10-23T02:34:06.411+00:00'
+  type: Default
+- author_avatar_url: assets\5fde485e55d806d8356ca6e7e08f1f48-77A19.png
+  author_id: '1266903666879627274'
+  author_name: larrya._98544
+  author_nickname: Larry Ahlgrim (VA) [Call Mod]
+  content: You can email Frances Haydock at.. fhaydock@2024victory.com
+  id: '1298476662706667530'
+  ref_to: '1298474504703709266'
+  timestamp: '2024-10-23T02:42:40.919+00:00'
+  type: Reply

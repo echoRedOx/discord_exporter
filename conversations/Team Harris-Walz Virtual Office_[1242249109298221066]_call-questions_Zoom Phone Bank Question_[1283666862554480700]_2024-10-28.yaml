@@ -1,0 +1,42 @@
+- author_avatar_url: assets\4-4551A.png
+  author_id: '1283582514807574548'
+  author_name: james_57634
+  author_nickname: James
+  content: Can I attend part of a zoom phone bank?  Is training only in the first
+    20 minutes?
+  id: '1283666862554480700'
+  ref_to: null
+  timestamp: '2024-09-12T05:53:49.41+00:00'
+  type: Default
+- author_avatar_url: assets\a_de0e3d4a3f9b486ad3ad6df0d72323da-D0252.gif
+  author_id: '112080668296564736'
+  author_name: kyaizen
+  author_nickname: "Jared R [CO] \u2022 Lead Mod"
+  content: Hi James! Yes, feel free to hop in anytime to make calls. If you can, try
+    to join at the beginning of the session to go through training. That said, our
+    VOTE team members are there to help with questions!
+  id: '1283668811010281473'
+  ref_to: '1283666862554480700'
+  timestamp: '2024-09-12T06:01:33.958+00:00'
+  type: Reply
+- author_avatar_url: assets\4-4551A.png
+  author_id: '1283582514807574548'
+  author_name: james_57634
+  author_nickname: James
+  content: Great, thanks!  Is there an example script I could see? Just trying to
+    get an idea
+  id: '1283669058104987658'
+  ref_to: null
+  timestamp: '2024-09-12T06:02:32.87+00:00'
+  type: Default
+- author_avatar_url: assets\a_de0e3d4a3f9b486ad3ad6df0d72323da-D0252.gif
+  author_id: '112080668296564736'
+  author_name: kyaizen
+  author_nickname: "Jared R [CO] \u2022 Lead Mod"
+  content: They tend to change based on the list we're calling. On the dialer there
+    is a preview of that session's script. That said, don't worry if you need to ease
+    yourself in. You can help at your pace!
+  id: '1283669795773878302'
+  ref_to: '1283669058104987658'
+  timestamp: '2024-09-12T06:05:28.744+00:00'
+  type: Reply

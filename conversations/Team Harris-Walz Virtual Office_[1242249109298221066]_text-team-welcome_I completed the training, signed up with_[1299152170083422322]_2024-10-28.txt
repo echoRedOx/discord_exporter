@@ -1,0 +1,27 @@
+Guild: Team Harris-Walz Virtual Office (ID: 1242249109298221066)
+Channel: I completed the training, signed up with (ID: 1299152170083422322)
+Channel Topic: None
+Exported At: 2024-10-28T22:15:15.1461538+00:00
+
+
+--- Message ---
+Message ID: 1299152524292522066
+Message Type: 21
+Reply to: 1299152170083422322
+Timestamp: 2024-10-24T23:28:18.878+00:00
+Author: Roberta Bavin CA KC Greeter/Mod (roberta_24935)
+Author Id: 1269872908759597148
+Avatar URL: assets\df6d19d97b04a49ffcafbe7be14c7839-D9CE4.png
+Content: 
+--------------------
+
+--- Message ---
+Message ID: 1299152527148843059
+Message Type: Default
+Reply to: None
+Timestamp: 2024-10-24T23:28:19.559+00:00
+Author: Roberta Bavin CA KC Greeter/Mod (roberta_24935)
+Author Id: 1269872908759597148
+Avatar URL: assets\df6d19d97b04a49ffcafbe7be14c7839-D9CE4.png
+Content: Hi <@206114735119269889> Please check the DM with instructions on the channels to use for texting. Thanks for being here. Feel free to DM me with questions. <:thankyou:1252806147396735057>
+--------------------

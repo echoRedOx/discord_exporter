@@ -1,0 +1,39 @@
+- author_avatar_url: assets\27b1e286b65ae02b3378793b5f098411-A7B20.png
+  author_id: '935762347753103382'
+  author_name: nmorris237
+  author_nickname: Nicole Morris - Text Admin
+  content: ''
+  id: '1278171917374984235'
+  ref_to: '1278164215739449366'
+  timestamp: '2024-08-28T01:58:52.388+00:00'
+  type: '21'
+- author_avatar_url: assets\27b1e286b65ae02b3378793b5f098411-A7B20.png
+  author_id: '935762347753103382'
+  author_name: nmorris237
+  author_nickname: Nicole Morris - Text Admin
+  content: <@1274836011188359179> Thanks! The August trainings are currently all full
+    - but please keep an eye on https://events.democrats.org/event/654680/ as new
+    times open up (or sometimes someone cancels last minute, etc)
+  id: '1278171918746255482'
+  ref_to: null
+  timestamp: '2024-08-28T01:58:52.715+00:00'
+  type: Default
+- author_avatar_url: assets\27b1e286b65ae02b3378793b5f098411-A7B20.png
+  author_id: '935762347753103382'
+  author_name: nmorris237
+  author_nickname: Nicole Morris - Text Admin
+  content: Hi <@1274836011188359179> New link is here -- more training times have
+    opened up https://events.democrats.org/event/672393/
+  id: '1278703244146901012'
+  ref_to: null
+  timestamp: '2024-08-29T13:10:10.562+00:00'
+  type: Default
+- author_avatar_url: assets\1-B2132.png
+  author_id: '1274836011188359179'
+  author_name: danielle.moora
+  author_nickname: Danielle Moora VA
+  content: Thank you!  I signed up!
+  id: '1278731452099461130'
+  ref_to: null
+  timestamp: '2024-08-29T15:02:15.862+00:00'
+  type: Default

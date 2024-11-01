@@ -1,0 +1,100 @@
+- author_avatar_url: assets\df6d19d97b04a49ffcafbe7be14c7839-D9CE4.png
+  author_id: '1269872908759597148'
+  author_name: roberta_24935
+  author_nickname: Roberta Bavin CA KC Greeter/Mod
+  content: ''
+  id: '1282755055468155032'
+  ref_to: '1282754182595608674'
+  timestamp: '2024-09-09T17:30:37.66+00:00'
+  type: '21'
+- author_avatar_url: assets\df6d19d97b04a49ffcafbe7be14c7839-D9CE4.png
+  author_id: '1269872908759597148'
+  author_name: roberta_24935
+  author_nickname: Roberta Bavin CA KC Greeter/Mod
+  content: Hi <@1280685428038565971> Please check your DM's from me! Thanks!
+  id: '1282755056864858196'
+  ref_to: null
+  timestamp: '2024-09-09T17:30:37.993+00:00'
+  type: Default
+- author_avatar_url: assets\8c14fa92a4a06b45a7702d3dc5292838-AEF59.png
+  author_id: '1280685428038565971'
+  author_name: cvan3man
+  author_nickname: Carolyn VanEman [CO]
+  content: Nothing in DM. Only prompt to add friend and explore discoverable servers
+  id: '1282756474308788341'
+  ref_to: null
+  timestamp: '2024-09-09T17:36:15.938+00:00'
+  type: Default
+- author_avatar_url: assets\df6d19d97b04a49ffcafbe7be14c7839-D9CE4.png
+  author_id: '1269872908759597148'
+  author_name: roberta_24935
+  author_nickname: Roberta Bavin CA KC Greeter/Mod
+  content: You've replied to me there several times; are you on a computer or tablet/phone?
+    It makes a difference. Thanks!
+  id: '1282758521804558348'
+  ref_to: '1282756474308788341'
+  timestamp: '2024-09-09T17:44:24.099+00:00'
+  type: Reply
+- author_avatar_url: assets\8c14fa92a4a06b45a7702d3dc5292838-AEF59.png
+  author_id: '1280685428038565971'
+  author_name: cvan3man
+  author_nickname: Carolyn VanEman [CO]
+  content: Computer
+  id: '1282758933378891826'
+  ref_to: null
+  timestamp: '2024-09-09T17:46:02.226+00:00'
+  type: Default
+- author_avatar_url: assets\df6d19d97b04a49ffcafbe7be14c7839-D9CE4.png
+  author_id: '1269872908759597148'
+  author_name: roberta_24935
+  author_nickname: Roberta Bavin CA KC Greeter/Mod
+  content: Maybe you need to refresh or sign out of discord and then back in?
+  id: '1282759051989745664'
+  ref_to: '1282758933378891826'
+  timestamp: '2024-09-09T17:46:30.505+00:00'
+  type: Reply
+- author_avatar_url: assets\8c14fa92a4a06b45a7702d3dc5292838-AEF59.png
+  author_id: '1280685428038565971'
+  author_name: cvan3man
+  author_nickname: Carolyn VanEman [CO]
+  content: "I\u2019ll try that"
+  id: '1282759231849627678'
+  ref_to: null
+  timestamp: '2024-09-09T17:47:13.387+00:00'
+  type: Default
+- author_avatar_url: assets\8c14fa92a4a06b45a7702d3dc5292838-AEF59.png
+  author_id: '1280685428038565971'
+  author_name: cvan3man
+  author_nickname: Carolyn VanEman [CO]
+  content: Logged in and out 4 times. No change in DM messages
+  id: '1282760622378975313'
+  ref_to: null
+  timestamp: '2024-09-09T17:52:44.915+00:00'
+  type: Default
+- author_avatar_url: assets\8c14fa92a4a06b45a7702d3dc5292838-AEF59.png
+  author_id: '1280685428038565971'
+  author_name: cvan3man
+  author_nickname: Carolyn VanEman [CO]
+  content: "I\u2019m restarting now to see if that makes a difference"
+  id: '1282761030933549106'
+  ref_to: null
+  timestamp: '2024-09-09T17:54:22.322+00:00'
+  type: Default
+- author_avatar_url: assets\8c14fa92a4a06b45a7702d3dc5292838-AEF59.png
+  author_id: '1280685428038565971'
+  author_name: cvan3man
+  author_nickname: Carolyn VanEman [CO]
+  content: No difference
+  id: '1282761357841797163'
+  ref_to: null
+  timestamp: '2024-09-09T17:55:40.263+00:00'
+  type: Default
+- author_avatar_url: assets\df6d19d97b04a49ffcafbe7be14c7839-D9CE4.png
+  author_id: '1269872908759597148'
+  author_name: roberta_24935
+  author_nickname: Roberta Bavin CA KC Greeter/Mod
+  content: I'll send you another DM to see if you can find them.
+  id: '1282762496863637635'
+  ref_to: '1282761357841797163'
+  timestamp: '2024-09-09T18:00:11.827+00:00'
+  type: Reply

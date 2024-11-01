@@ -1,0 +1,38 @@
+Guild: Team Harris-Walz Virtual Office (ID: 1242249109298221066)
+Channel: Hi, I logged into Spoke and it says  - I (ID: 1295165381035692113)
+Channel Topic: None
+Exported At: 2024-10-28T22:40:52.7279735+00:00
+
+
+--- Message ---
+Message ID: 1295167548182237315
+Message Type: 21
+Reply to: 1295165381035692113
+Timestamp: 2024-10-13T23:33:26.536+00:00
+Author: Jack Joannides KC text admin (jjoannid)
+Author Id: 477560366432256000
+Avatar URL: assets\791c521e62160be1f3df04992f6e5470-36A38.png
+Content: 
+--------------------
+
+--- Message ---
+Message ID: 1295167551030169613
+Message Type: Default
+Reply to: None
+Timestamp: 2024-10-13T23:33:27.215+00:00
+Author: Jack Joannides KC text admin (jjoannid)
+Author Id: 477560366432256000
+Avatar URL: assets\791c521e62160be1f3df04992f6e5470-36A38.png
+Content: Please ask this in <#1259238714157305936>
+--------------------
+
+--- Message ---
+Message ID: 1295167610484297729
+Message Type: Default
+Reply to: None
+Timestamp: 2024-10-13T23:33:41.39+00:00
+Author: Jack Joannides KC text admin (jjoannid)
+Author Id: 477560366432256000
+Avatar URL: assets\791c521e62160be1f3df04992f6e5470-36A38.png
+Content: And that's what you should see,
+--------------------

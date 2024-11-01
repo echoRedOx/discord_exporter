@@ -1,0 +1,38 @@
+Guild: Team Harris-Walz Virtual Office (ID: 1242249109298221066)
+Channel: Same for me.  Eager to get started (ID: 1287064986828410891)
+Channel Topic: None
+Exported At: 2024-10-28T23:08:35.7471664+00:00
+
+
+--- Message ---
+Message ID: 1287102611878711369
+Message Type: 21
+Reply to: 1287064986828410891
+Timestamp: 2024-09-21T17:26:15.882+00:00
+Author: Nicole Morris - Text Admin (nmorris237)
+Author Id: 935762347753103382
+Avatar URL: assets\27b1e286b65ae02b3378793b5f098411-A7B20.png
+Content: 
+--------------------
+
+--- Message ---
+Message ID: 1287102615250927688
+Message Type: Default
+Reply to: None
+Timestamp: 2024-09-21T17:26:16.686+00:00
+Author: Nicole Morris - Text Admin (nmorris237)
+Author Id: 935762347753103382
+Avatar URL: assets\27b1e286b65ae02b3378793b5f098411-A7B20.png
+Content: Hi <@1285751173797904414> Thanks! I believe Roberta sent you a Direct Message on Discord a few days ago - let us know if you don't see it.
+--------------------
+
+--- Message ---
+Message ID: 1287401921807646730
+Message Type: Default
+Reply to: None
+Timestamp: 2024-09-22T13:15:36.93+00:00
+Author: Photeine Anagnostopoulos (photoa._50535)
+Author Id: 1285751173797904414
+Avatar URL: assets\3-FB033.png
+Content: Thank you.
+--------------------

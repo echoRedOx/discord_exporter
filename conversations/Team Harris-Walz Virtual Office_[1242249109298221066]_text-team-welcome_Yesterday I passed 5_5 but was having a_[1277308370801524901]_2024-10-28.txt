@@ -1,0 +1,38 @@
+Guild: Team Harris-Walz Virtual Office (ID: 1242249109298221066)
+Channel: Yesterday I passed 5/5 but was having a (ID: 1277308370801524901)
+Channel Topic: None
+Exported At: 2024-10-29T00:02:45.9472472+00:00
+
+
+--- Message ---
+Message ID: 1277363094926131251
+Message Type: 21
+Reply to: 1277308370801524901
+Timestamp: 2024-08-25T20:24:54.089+00:00
+Author: Nicole Morris - Text Admin (nmorris237)
+Author Id: 935762347753103382
+Avatar URL: assets\27b1e286b65ae02b3378793b5f098411-A7B20.png
+Content: 
+--------------------
+
+--- Message ---
+Message ID: 1277363096452599928
+Message Type: Default
+Reply to: None
+Timestamp: 2024-08-25T20:24:54.453+00:00
+Author: Nicole Morris - Text Admin (nmorris237)
+Author Id: 935762347753103382
+Avatar URL: assets\27b1e286b65ae02b3378793b5f098411-A7B20.png
+Content: Hi <@734999912013496321> So sorry to hear - and hope all is okay! I will follow up with you in a Direct Message now in Discord. Please check your notifications on the top left.
+--------------------
+
+--- Message ---
+Message ID: 1277363176706408550
+Message Type: Default
+Reply to: None
+Timestamp: 2024-08-25T20:25:13.587+00:00
+Author: Nicole Morris - Text Admin (nmorris237)
+Author Id: 935762347753103382
+Avatar URL: assets\27b1e286b65ae02b3378793b5f098411-A7B20.png
+Content: (Disregard - saw you have already been added by Branton! Thanks!)
+--------------------

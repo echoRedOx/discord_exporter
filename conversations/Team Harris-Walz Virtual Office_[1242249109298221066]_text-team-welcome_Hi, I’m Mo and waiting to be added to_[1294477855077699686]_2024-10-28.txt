@@ -1,0 +1,38 @@
+Guild: Team Harris-Walz Virtual Office (ID: 1242249109298221066)
+Channel: Hi, I’m Mo and waiting to be added to (ID: 1294477855077699686)
+Channel Topic: None
+Exported At: 2024-10-28T22:42:59.0947392+00:00
+
+
+--- Message ---
+Message ID: 1294505848114249763
+Message Type: 21
+Reply to: 1294477855077699686
+Timestamp: 2024-10-12T03:44:04.946+00:00
+Author: Nicole Morris - Text Admin (nmorris237)
+Author Id: 935762347753103382
+Avatar URL: assets\27b1e286b65ae02b3378793b5f098411-A7B20.png
+Content: 
+--------------------
+
+--- Message ---
+Message ID: 1294505850819317791
+Message Type: Default
+Reply to: None
+Timestamp: 2024-10-12T03:44:05.591+00:00
+Author: Nicole Morris - Text Admin (nmorris237)
+Author Id: 935762347753103382
+Avatar URL: assets\27b1e286b65ae02b3378793b5f098411-A7B20.png
+Content: Hi Mo - thanks! I believe Roberta sent you a Direct Message -- let me know if you don't see it!
+--------------------
+
+--- Message ---
+Message ID: 1294506142990471170
+Message Type: Default
+Reply to: None
+Timestamp: 2024-10-12T03:45:15.25+00:00
+Author: Nicole Morris - Text Admin (nmorris237)
+Author Id: 935762347753103382
+Avatar URL: assets\27b1e286b65ae02b3378793b5f098411-A7B20.png
+Content: <@1291520387334541312> nevermind - I see you replied my thread message. We can chat there! I'll respond to you now.
+--------------------

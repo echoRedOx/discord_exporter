@@ -1,0 +1,60 @@
+Guild: Team Harris-Walz Virtual Office (ID: 1242249109298221066)
+Channel: hey katie so a mod will dm you in 48-72 (ID: 1288600956014952489)
+Channel Topic: None
+Exported At: 2024-10-28T23:03:23.9214957+00:00
+
+
+--- Message ---
+Message ID: 1288601178292228106
+Message Type: 21
+Reply to: 1288600956014952489
+Timestamp: 2024-09-25T20:41:01.957+00:00
+Author: Jack Joannides KC text admin (jjoannid)
+Author Id: 477560366432256000
+Avatar URL: assets\791c521e62160be1f3df04992f6e5470-36A38.png
+Content: 
+--------------------
+
+--- Message ---
+Message ID: 1288601179336605697
+Message Type: Default
+Reply to: None
+Timestamp: 2024-09-25T20:41:02.206+00:00
+Author: Jack Joannides KC text admin (jjoannid)
+Author Id: 477560366432256000
+Avatar URL: assets\791c521e62160be1f3df04992f6e5470-36A38.png
+Content: Please don't answer people's questions.
+--------------------
+
+--- Message ---
+Message ID: 1288601372304080937
+Message Type: Default
+Reply to: None
+Timestamp: 2024-09-25T20:41:48.213+00:00
+Author: Adrienne Esposito [NY] (cheesehomies)
+Author Id: 422535566697955329
+Avatar URL: assets\2-ADBB4.png
+Content: umm ok...this is the welcome channel though so i figured it was fair game... no need to be rude
+--------------------
+
+--- Message ---
+Message ID: 1288601440239222938
+Message Type: Default
+Reply to: None
+Timestamp: 2024-09-25T20:42:04.41+00:00
+Author: Jack Joannides KC text admin (jjoannid)
+Author Id: 477560366432256000
+Avatar URL: assets\791c521e62160be1f3df04992f6e5470-36A38.png
+Content: Sorry about that.
+--------------------
+
+--- Message ---
+Message ID: 1288601504856412283
+Message Type: Default
+Reply to: None
+Timestamp: 2024-09-25T20:42:19.816+00:00
+Author: Jack Joannides KC text admin (jjoannid)
+Author Id: 477560366432256000
+Avatar URL: assets\791c521e62160be1f3df04992f6e5470-36A38.png
+Content: But us mods only answer questions.
+--------------------

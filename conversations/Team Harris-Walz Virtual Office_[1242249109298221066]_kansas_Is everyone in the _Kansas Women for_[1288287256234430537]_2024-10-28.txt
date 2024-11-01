@@ -1,0 +1,27 @@
+Guild: Team Harris-Walz Virtual Office (ID: 1242249109298221066)
+Channel: Is everyone in the "Kansas Women for (ID: 1288287256234430537)
+Channel Topic: None
+Exported At: 2024-10-29T00:36:25.3766468+00:00
+
+
+--- Message ---
+Message ID: 1288287524992843837
+Message Type: 21
+Reply to: 1288287256234430537
+Timestamp: 2024-09-24T23:54:41.183+00:00
+Author: Veronica Holtz (Kansas) (veronica_80846)
+Author Id: 1285703511442722847
+Avatar URL: assets\fd7d3c00c6cbdb60cf20513d7ad93881-F6D0D.png
+Content: 
+--------------------
+
+--- Message ---
+Message ID: 1288287526171443201
+Message Type: Default
+Reply to: None
+Timestamp: 2024-09-24T23:54:41.464+00:00
+Author: Veronica Holtz (Kansas) (veronica_80846)
+Author Id: 1285703511442722847
+Avatar URL: assets\fd7d3c00c6cbdb60cf20513d7ad93881-F6D0D.png
+Content: Anyone who supports Harris/Walz can join, not just women!
+--------------------

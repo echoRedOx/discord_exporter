@@ -1,0 +1,27 @@
+- author_avatar_url: assets\791c521e62160be1f3df04992f6e5470-36A38.png
+  author_id: '477560366432256000'
+  author_name: jjoannid
+  author_nickname: Jack Joannides KC text admin
+  content: ''
+  id: '1281711084507496479'
+  ref_to: '1281710632420511775'
+  timestamp: '2024-09-06T20:22:15.587+00:00'
+  type: '21'
+- author_avatar_url: assets\791c521e62160be1f3df04992f6e5470-36A38.png
+  author_id: '477560366432256000'
+  author_name: jjoannid
+  author_nickname: Jack Joannides KC text admin
+  content: Did you mean to ask this in <#1242249109298221069>
+  id: '1281711086034227372'
+  ref_to: null
+  timestamp: '2024-09-06T20:22:15.951+00:00'
+  type: Default
+- author_avatar_url: assets\135d9de83131741ed576e29aba6cf419-956AF.png
+  author_id: '1258404589799997441'
+  author_name: cindycarr0698
+  author_nickname: Cindy C-KC Text/VoPro Admin
+  content: <@1278394720778850393> Was this a text reply?
+  id: '1281711204703932417'
+  ref_to: null
+  timestamp: '2024-09-06T20:22:44.244+00:00'
+  type: Default

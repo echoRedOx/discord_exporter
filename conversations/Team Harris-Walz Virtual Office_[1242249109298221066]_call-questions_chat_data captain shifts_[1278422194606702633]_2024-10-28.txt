@@ -1,0 +1,85 @@
+Guild: Team Harris-Walz Virtual Office (ID: 1242249109298221066)
+Channel: chat/data captain shifts (ID: 1278422194606702633)
+Channel Topic: None
+Exported At: 2024-10-28T21:01:24.4829565+00:00
+
+
+--- Message ---
+Message ID: 1278422194606702633
+Message Type: Default
+Reply to: None
+Timestamp: 2024-08-28T18:33:23.13+00:00
+Author: Rachel Lynne Brantley [CC] (coffeebeans110124)
+Author Id: 933109418034335787
+Avatar URL: assets\1628fc11e7961d85181295493426b775-2DF7E.png
+Content: Hi, were we supposed to receive an invite to sign up for chat captain and data captain shifts after training? If so, I didn’t receive anything
+--------------------
+
+--- Message ---
+Message ID: 1278423075565731841
+Message Type: Default
+Reply to: None
+Timestamp: 2024-08-28T18:36:53.167+00:00
+Author: Deleted User (Deleted User)
+Author Id: 456226577798135808
+Avatar URL: assets\3-FB033.png
+Content: Hi <@933109418034335787> Below are the links to sign up for both: Data Captain Training : https://events.democrats.org/event/654890/
+
+Chat Captain training: https://events.democrats.org/event/654850/
+--------------------
+
+--- Message ---
+Message ID: 1278423245871382570
+Message Type: Default
+Reply to: None
+Timestamp: 2024-08-28T18:37:33.771+00:00
+Author: Rachel Lynne Brantley [CC] (coffeebeans110124)
+Author Id: 933109418034335787
+Avatar URL: assets\1628fc11e7961d85181295493426b775-2DF7E.png
+Content: Thanks Jocelyn! And then do you know how we can sign up to do discord moderating too?
+--------------------
+
+--- Message ---
+Message ID: 1278423413979090945
+Message Type: Default
+Reply to: None
+Timestamp: 2024-08-28T18:38:13.851+00:00
+Author: Deleted User (Deleted User)
+Author Id: 456226577798135808
+Avatar URL: assets\3-FB033.png
+Content: <@933109418034335787> Once you attend the training, you will be advised of the next steps for the VOTE team. They are the volunteers who help during our Zoom Phone Banks.
+--------------------
+
+--- Message ---
+Message ID: 1278423867223838835
+Message Type: Default
+Reply to: None
+Timestamp: 2024-08-28T18:40:01.913+00:00
+Author: Deleted User (Deleted User)
+Author Id: 456226577798135808
+Avatar URL: assets\3-FB033.png
+Content: <@933109418034335787> Moderating on Discord is a different type of process. For my clarity, are you looking to be part of Discord Moderation ( Answering questions and promoting engagement here on Discord for the calls team volunteers ) or part of the VOTE Team (Answering questions and providing technical support to our volunteers during our Zoom phone banks)
+--------------------
+
+--- Message ---
+Message ID: 1278428769291341844
+Message Type: Default
+Reply to: None
+Timestamp: 2024-08-28T18:59:30.657+00:00
+Author: Rachel Lynne Brantley [CC] (coffeebeans110124)
+Author Id: 933109418034335787
+Avatar URL: assets\1628fc11e7961d85181295493426b775-2DF7E.png
+Content: Answering questions, promoting engagement on discord for call team volunteers. 
+But both really.
+--------------------
+
+--- Message ---
+Message ID: 1278429907571179572
+Message Type: Reply
+Reply to: 1278428769291341844
+Timestamp: 2024-08-28T19:04:02.044+00:00
+Author: Deleted User (Deleted User)
+Author Id: 456226577798135808
+Avatar URL: assets\3-FB033.png
+Content: Thats great! If you like engaging in conversation, directing folks in the right direction, answering questions, and you have a comfortable grasp of Discord, the Call Mods team could use your help. Let me see about connecting you with someone on the Staff within the Calls Team. As for the VOTE Team and opportunities to be a Data / Chat Captain, you can sign up for your preferred training using the links above. We are excited to have you on the team!
+--------------------

@@ -1,0 +1,126 @@
+Guild: Team Harris-Walz Virtual Office (ID: 1242249109298221066)
+Channel: How do I take the quiz (ID: 1279582476582391850)
+Channel Topic: None
+Exported At: 2024-10-28T23:45:23.0082348+00:00
+
+
+--- Message ---
+Message ID: 1279583354219397140
+Message Type: 21
+Reply to: 1279582476582391850
+Timestamp: 2024-08-31T23:27:25.155+00:00
+Author: Jack Joannides KC text admin (jjoannid)
+Author Id: 477560366432256000
+Avatar URL: assets\791c521e62160be1f3df04992f6e5470-36A38.png
+Content: 
+--------------------
+
+--- Message ---
+Message ID: 1279583355729346615
+Message Type: Default
+Reply to: None
+Timestamp: 2024-08-31T23:27:25.515+00:00
+Author: Jack Joannides KC text admin (jjoannid)
+Author Id: 477560366432256000
+Avatar URL: assets\791c521e62160be1f3df04992f6e5470-36A38.png
+Content: Should have gotten it on the zoom.
+--------------------
+
+--- Message ---
+Message ID: 1279584317097381910
+Message Type: Default
+Reply to: None
+Timestamp: 2024-08-31T23:31:14.723+00:00
+Author: Karen Waldorf (SD) (karenwaldorf)
+Author Id: 1278716258543599700
+Avatar URL: assets\a83dc60191c1d5db6bc20d7b9bce34f9-99B4E.png
+Content: I did not..is there another way ..or do I need to syart over
+--------------------
+
+--- Message ---
+Message ID: 1279584353449672837
+Message Type: Default
+Reply to: None
+Timestamp: 2024-08-31T23:31:23.39+00:00
+Author: Karen Waldorf (SD) (karenwaldorf)
+Author Id: 1278716258543599700
+Avatar URL: assets\a83dc60191c1d5db6bc20d7b9bce34f9-99B4E.png
+Content: Start
+--------------------
+
+--- Message ---
+Message ID: 1279584896628555816
+Message Type: Default
+Reply to: None
+Timestamp: 2024-08-31T23:33:32.894+00:00
+Author: Jack Joannides KC text admin (jjoannid)
+Author Id: 477560366432256000
+Avatar URL: assets\791c521e62160be1f3df04992f6e5470-36A38.png
+Content: We'll direct message you the process.
+--------------------
+
+--- Message ---
+Message ID: 1279585376498876438
+Message Type: Default
+Reply to: None
+Timestamp: 2024-08-31T23:35:27.304+00:00
+Author: Karen Waldorf (SD) (karenwaldorf)
+Author Id: 1278716258543599700
+Avatar URL: assets\a83dc60191c1d5db6bc20d7b9bce34f9-99B4E.png
+Content: Thank you!
+--------------------
+
+--- Message ---
+Message ID: 1279589075698843658
+Message Type: Default
+Reply to: None
+Timestamp: 2024-08-31T23:50:09.262+00:00
+Author: Karen Waldorf (SD) (karenwaldorf)
+Author Id: 1278716258543599700
+Avatar URL: assets\a83dc60191c1d5db6bc20d7b9bce34f9-99B4E.png
+Content: Text?
+--------------------
+
+--- Message ---
+Message ID: 1279589480667287605
+Message Type: Default
+Reply to: None
+Timestamp: 2024-08-31T23:51:45.814+00:00
+Author: Jack Joannides KC text admin (jjoannid)
+Author Id: 477560366432256000
+Avatar URL: assets\791c521e62160be1f3df04992f6e5470-36A38.png
+Content: What you mean text?
+--------------------
+
+--- Message ---
+Message ID: 1279590930235654185
+Message Type: Default
+Reply to: None
+Timestamp: 2024-08-31T23:57:31.418+00:00
+Author: Karen Waldorf (SD) (karenwaldorf)
+Author Id: 1278716258543599700
+Avatar URL: assets\a83dc60191c1d5db6bc20d7b9bce34f9-99B4E.png
+Content: Haven't received a message from you..are you sending the process instructions in a text..thanks
+--------------------
+
+--- Message ---
+Message ID: 1279590994504847390
+Message Type: Default
+Reply to: None
+Timestamp: 2024-08-31T23:57:46.741+00:00
+Author: Jack Joannides KC text admin (jjoannid)
+Author Id: 477560366432256000
+Avatar URL: assets\791c521e62160be1f3df04992f6e5470-36A38.png
+Content: You'll get it in 24-48 hours.
+--------------------
+
+--- Message ---
+Message ID: 1279591327021142067
+Message Type: Default
+Reply to: None
+Timestamp: 2024-08-31T23:59:06.019+00:00
+Author: Karen Waldorf (SD) (karenwaldorf)
+Author Id: 1278716258543599700
+Avatar URL: assets\a83dc60191c1d5db6bc20d7b9bce34f9-99B4E.png
+Content: Thanks..didnt know if it would be thru discord..I appreciate your time.
+--------------------

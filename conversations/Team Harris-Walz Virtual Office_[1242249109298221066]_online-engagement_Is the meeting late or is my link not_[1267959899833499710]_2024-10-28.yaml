@@ -1,0 +1,37 @@
+- author_avatar_url: assets\a57efb34b9ef35ed7f644aca5ab803aa-F2CBD.png
+  author_id: '1260983976483356767'
+  author_name: martarichenburg_59797
+  author_nickname: Marta Richenburg
+  content: ''
+  id: '1267961172704104572'
+  ref_to: '1267959899833499710'
+  timestamp: '2024-07-30T21:45:01.152+00:00'
+  type: '21'
+- author_avatar_url: assets\a57efb34b9ef35ed7f644aca5ab803aa-F2CBD.png
+  author_id: '1260983976483356767'
+  author_name: martarichenburg_59797
+  author_nickname: Marta Richenburg
+  content: What event are you trying to get into?
+  id: '1267961174767698022'
+  ref_to: null
+  timestamp: '2024-07-30T21:45:01.644+00:00'
+  type: Default
+- author_avatar_url: assets\4412fd436c9a7d43a1770d5771bbdd0c-8CC79.png
+  author_id: '941196169852366859'
+  author_name: mariebroph2677695
+  author_nickname: Marie B. | PA/NJ | OE/KC
+  content: It seems wrong links or no links are an epidemic. Mobile Inbox training
+    is having these issues too.
+  id: '1267969367552032869'
+  ref_to: null
+  timestamp: '2024-07-30T22:17:34.956+00:00'
+  type: Default
+- author_avatar_url: assets\3-FB033.png
+  author_id: '456226577798135808'
+  author_name: Deleted User
+  author_nickname: Deleted User
+  content: How can I sign up for "Mobile Inbox Training"?
+  id: '1269315607082565654'
+  ref_to: '1267969367552032869'
+  timestamp: '2024-08-03T15:27:03.472+00:00'
+  type: Reply

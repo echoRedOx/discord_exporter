@@ -1,0 +1,49 @@
+Guild: Team Harris-Walz Virtual Office (ID: 1242249109298221066)
+Channel: Lynda (ID: 1276973116026785914)
+Channel Topic: None
+Exported At: 2024-10-29T00:08:03.5820809+00:00
+
+
+--- Message ---
+Message ID: 1276974932034715731
+Message Type: 21
+Reply to: 1276973116026785914
+Timestamp: 2024-08-24T18:42:28.844+00:00
+Author: Branton J. [GA] Text Mod (perry.p)
+Author Id: 946953677611077642
+Avatar URL: assets\19838db602948fa14c3fa90a94996f8c-8CE56.png
+Content: 
+--------------------
+
+--- Message ---
+Message ID: 1276974934333325362
+Message Type: Default
+Reply to: None
+Timestamp: 2024-08-24T18:42:29.392+00:00
+Author: Branton J. [GA] Text Mod (perry.p)
+Author Id: 946953677611077642
+Avatar URL: assets\19838db602948fa14c3fa90a94996f8c-8CE56.png
+Content: <@1158144060566028389> one of our texting mods sent you a DM with action items needed
+--------------------
+
+--- Message ---
+Message ID: 1276980664893178068
+Message Type: Default
+Reply to: None
+Timestamp: 2024-08-24T19:05:15.664+00:00
+Author: Nicole Morris - Text Admin (nmorris237)
+Author Id: 935762347753103382
+Avatar URL: assets\27b1e286b65ae02b3378793b5f098411-A7B20.png
+Content: Yes - it was me! Please check your DM's on Discord.
+--------------------
+
+--- Message ---
+Message ID: 1276980687202685021
+Message Type: Default
+Reply to: None
+Timestamp: 2024-08-24T19:05:20.983+00:00
+Author: Nicole Morris - Text Admin (nmorris237)
+Author Id: 935762347753103382
+Avatar URL: assets\27b1e286b65ae02b3378793b5f098411-A7B20.png
+Content: 
+--------------------

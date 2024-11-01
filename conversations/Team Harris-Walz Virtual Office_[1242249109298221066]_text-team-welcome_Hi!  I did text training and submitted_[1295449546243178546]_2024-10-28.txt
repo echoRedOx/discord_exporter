@@ -1,0 +1,38 @@
+Guild: Team Harris-Walz Virtual Office (ID: 1242249109298221066)
+Channel: Hi!  I did text training and submitted (ID: 1295449546243178546)
+Channel Topic: None
+Exported At: 2024-10-28T22:39:49.5974072+00:00
+
+
+--- Message ---
+Message ID: 1295476963716370473
+Message Type: 21
+Reply to: 1295449546243178546
+Timestamp: 2024-10-14T20:02:56.948+00:00
+Author: Jack Joannides KC text admin (jjoannid)
+Author Id: 477560366432256000
+Avatar URL: assets\791c521e62160be1f3df04992f6e5470-36A38.png
+Content: 
+--------------------
+
+--- Message ---
+Message ID: 1295476966383685643
+Message Type: Default
+Reply to: None
+Timestamp: 2024-10-14T20:02:57.584+00:00
+Author: Jack Joannides KC text admin (jjoannid)
+Author Id: 477560366432256000
+Avatar URL: assets\791c521e62160be1f3df04992f6e5470-36A38.png
+Content: Looks like you took the forms yestetrday but <@1269872908759597148> should have messaged you yesterday.
+--------------------
+
+--- Message ---
+Message ID: 1295534490495619115
+Message Type: Default
+Reply to: None
+Timestamp: 2024-10-14T23:51:32.401+00:00
+Author: Roberta Bavin CA KC Greeter/Mod (roberta_24935)
+Author Id: 1269872908759597148
+Avatar URL: assets\df6d19d97b04a49ffcafbe7be14c7839-D9CE4.png
+Content: Hi <@1286017398998040578> I sent you a message yesterday morning. Please look for DM at left upper corner of Discord at the game controller icon. <:thankyou:1252806147396735057>
+--------------------

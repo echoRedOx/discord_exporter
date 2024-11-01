@@ -1,0 +1,126 @@
+Guild: Team Harris-Walz Virtual Office (ID: 1242249109298221066)
+Channel: Election Anxiety Channel (ID: 1278425317890981989)
+Channel Topic: None
+Exported At: 2024-10-28T20:19:25.8657064+00:00
+
+
+--- Message ---
+Message ID: 1278425317890981989
+Message Type: Default
+Reply to: None
+Timestamp: 2024-08-28T18:45:47.779+00:00
+Author: Anthony D. [PA] (twanathan)
+Author Id: 919266668574810122
+Avatar URL: assets\a83e87e798ebaa7348a3e1045f867690-F0776.png
+Content: Would it be a good idea to create a specific channel or designate a channel for everyone to collectively let out some of the angst they feel about this season whenever it bubbles up. Election anxiety is real and it could help talk about the real stakes people have with the election
+--------------------
+
+--- Message ---
+Message ID: 1278426557769318492
+Message Type: Reply
+Reply to: 1278425317890981989
+Timestamp: 2024-08-28T18:50:43.389+00:00
+Author: rootsmusic (rootsmusic)
+Author Id: 791857656897732648
+Avatar URL: assets\a30e650576a6d42a3c9ee24648f67c90-2AE37.png
+Content: Therapy is listening to <#1275846770961944628> and watching <#1271922058250555444>.  The real stakes is [What's at Stake With Project 2025](https://events.democrats.org/event/613760/).
+--------------------
+
+--- Message ---
+Message ID: 1278426672760229920
+Message Type: Default
+Reply to: None
+Timestamp: 2024-08-28T18:51:10.805+00:00
+Author: Steven Bock [WA-10] (dabockster)
+Author Id: 213531210792697858
+Avatar URL: assets\11bedbd080c7441b8a7563f4917dc3bd-89395.png
+Content: I understand the idea. But I urge **extreme caution**. I've seen channels in other servers centered around anxiety, and they each ended up reinforcing, strengthening, and spreading the anxiety everywhere. Basically formed a doom spiral.
+--------------------
+
+--- Message ---
+Message ID: 1278427185740513372
+Message Type: Default
+Reply to: None
+Timestamp: 2024-08-28T18:53:13.109+00:00
+Author: Steven Bock [WA-10] (dabockster)
+Author Id: 213531210792697858
+Avatar URL: assets\11bedbd080c7441b8a7563f4917dc3bd-89395.png
+Content: The linear "wall of text" that Discord creates can be anxiety inducing by itself. Specifically sectioning out mental health (creating a channel or even just searching for posts like it) can be extremely triggering if you don't have any mental conditioning against it (eg cognitive behavioral therapy).
+--------------------
+
+--- Message ---
+Message ID: 1278427430184554558
+Message Type: Default
+Reply to: None
+Timestamp: 2024-08-28T18:54:11.389+00:00
+Author: Anthony D. [PA] (twanathan)
+Author Id: 919266668574810122
+Avatar URL: assets\a83e87e798ebaa7348a3e1045f867690-F0776.png
+Content: Yeah I dont know the exact answer, but I dont know what the policy is on having a space for it is
+--------------------
+
+--- Message ---
+Message ID: 1278428030078816359
+Message Type: Default
+Reply to: None
+Timestamp: 2024-08-28T18:56:34.415+00:00
+Author: Steven Bock [WA-10] (dabockster)
+Author Id: 213531210792697858
+Avatar URL: assets\11bedbd080c7441b8a7563f4917dc3bd-89395.png
+Content: Well as someone who recovered from a significant mental health crisis in my life, I strongly oppose such a channel. It would only be mob group therapy, with so many people in it that the conversation wouldn't be able to be guided enough.
+--------------------
+
+--- Message ---
+Message ID: 1278428160307757128
+Message Type: Default
+Reply to: None
+Timestamp: 2024-08-28T18:57:05.464+00:00
+Author: Steven Bock [WA-10] (dabockster)
+Author Id: 213531210792697858
+Avatar URL: assets\11bedbd080c7441b8a7563f4917dc3bd-89395.png
+Content: And everyone would just end up reenforcing and strengthening everyone's bad mental health.
+--------------------
+
+--- Message ---
+Message ID: 1278428568409473065
+Message Type: Reply
+Reply to: 1278425317890981989
+Timestamp: 2024-08-28T18:58:42.763+00:00
+Author: Emily W [NJ] • Lead Mod (emilyrox666)
+Author Id: 664506217606938637
+Avatar URL: assets\aeff33fc2ebd0e0a2988e68a29ff58e5-7D4AA.png
+Content: Hi Anthony! I also understand the idea, but as this is the official campaign server, it is strictly for organizing, uplifting and supporting volunteers. We also have to consider the possibility that a channel like that could trigger or cause strong reactions in others. It would also be difficult to moderate, as we aren't professionals that could guide a channel like that to be a safe place for everyone.
+--------------------
+
+--- Message ---
+Message ID: 1278429285216026745
+Message Type: Reply
+Reply to: 1278428568409473065
+Timestamp: 2024-08-28T19:01:33.663+00:00
+Author: Anthony D. [PA] (twanathan)
+Author Id: 919266668574810122
+Avatar URL: assets\a83e87e798ebaa7348a3e1045f867690-F0776.png
+Content: Totally understand all of these points of view, it was just an Idea because I felt like someone's anxiety wasnt really addressed
+--------------------
+
+--- Message ---
+Message ID: 1278432439022256138
+Message Type: Default
+Reply to: None
+Timestamp: 2024-08-28T19:14:05.589+00:00
+Author: Anthony D. [PA] (twanathan)
+Author Id: 919266668574810122
+Avatar URL: assets\a83e87e798ebaa7348a3e1045f867690-F0776.png
+Content: Just thought it wouldn’t hurt to ask
+--------------------
+
+--- Message ---
+Message ID: 1278436973953941535
+Message Type: Reply
+Reply to: 1278432439022256138
+Timestamp: 2024-08-28T19:32:06.801+00:00
+Author: Emily W [NJ] • Lead Mod (emilyrox666)
+Author Id: 664506217606938637
+Avatar URL: assets\aeff33fc2ebd0e0a2988e68a29ff58e5-7D4AA.png
+Content: We appreciate the feedback! It is a very thoughtful and caring idea. Mental health issues are important and we want all of our volunteers to be safe. In these situations its best if individuals utilize local or therapeutic online resources. We have to err on the side of caution as we aren't qualified to give out any type of specific advice.
+--------------------

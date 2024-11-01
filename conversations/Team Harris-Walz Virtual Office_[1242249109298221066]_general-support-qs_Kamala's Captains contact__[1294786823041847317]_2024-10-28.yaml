@@ -1,0 +1,62 @@
+- author_avatar_url: assets\05f1ef7ae06d653e004a713b16503e8e-DBD9A.png
+  author_id: '104184675416686592'
+  author_name: gamma_liz
+  author_nickname: "\u011Eamma_Li\u0240"
+  content: 'Hi. I need to get in touch with someone at the campaign level who is running
+    the Kamala''s Captains. Any suggestions?
+
+
+    Background: I''ve been working with campain staff for the last month on canvass
+    launches. Today was the first day of Kamala''s Captains dry runs, and, despite
+    my month of experience, I was asked to report information that I had no clue how
+    to collect.
+
+
+    I would like to share my experience with someone at the campaign level since the
+    local campaign office says these requests are coming from the campaign and they
+    cannot change it.
+
+
+    Thanks.'
+  id: '1294786823041847317'
+  ref_to: null
+  timestamp: '2024-10-12T22:20:34.589+00:00'
+  type: Default
+- author_avatar_url: assets\28a90c77b5793d80eb62484a43c66748-D8837.png
+  author_id: '568257600228032512'
+  author_name: carb.on
+  author_nickname: "Carolyn B [CA] \u2022 Lead Mod"
+  content: <@1263159708466811000> ^
+  id: '1294817295306194994'
+  ref_to: null
+  timestamp: '2024-10-13T00:21:39.743+00:00'
+  type: Default
+- author_avatar_url: assets\05f1ef7ae06d653e004a713b16503e8e-DBD9A.png
+  author_id: '104184675416686592'
+  author_name: gamma_liz
+  author_nickname: "\u011Eamma_Li\u0240"
+  content: This doesn't seem to pertain to what I posted. I've been volunteering every
+    weekend day for the past month and a half. Believe me, I want Harris to win. I'm
+    trying to communicate some issues to the folks in charge so they can be addressed.
+  id: '1294876058297831436'
+  ref_to: null
+  timestamp: '2024-10-13T04:15:09.932+00:00'
+  type: Default
+- author_avatar_url: assets\28a90c77b5793d80eb62484a43c66748-D8837.png
+  author_id: '568257600228032512'
+  author_name: carb.on
+  author_nickname: "Carolyn B [CA] \u2022 Lead Mod"
+  content: I pinged <@1263159708466811000> , a staff member who can help you.
+  id: '1294876506480185476'
+  ref_to: '1294876058297831436'
+  timestamp: '2024-10-13T04:16:56.787+00:00'
+  type: Reply
+- author_avatar_url: assets\05f1ef7ae06d653e004a713b16503e8e-DBD9A.png
+  author_id: '104184675416686592'
+  author_name: gamma_liz
+  author_nickname: "\u011Eamma_Li\u0240"
+  content: Thank you!
+  id: '1294876604513652798'
+  ref_to: null
+  timestamp: '2024-10-13T04:17:20.16+00:00'
+  type: Default

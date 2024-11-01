@@ -1,0 +1,49 @@
+Guild: Team Harris-Walz Virtual Office (ID: 1242249109298221066)
+Channel: @Zion Gates-Norris you asked us to (ID: 1266119305570025617)
+Channel Topic: None
+Exported At: 2024-10-28T21:57:35.8272101+00:00
+
+
+--- Message ---
+Message ID: 1266169090033192970
+Message Type: 21
+Reply to: 1266119305570025617
+Timestamp: 2024-07-25T23:03:55.348+00:00
+Author: Jessica Puchala (MD) [OE Lead] (jessica033389)
+Author Id: 869778676986814514
+Avatar URL: assets\37de34190564f7c9acae5895cc884c8a-6F9C7.png
+Content: 
+--------------------
+
+--- Message ---
+Message ID: 1266169091908046890
+Message Type: Default
+Reply to: None
+Timestamp: 2024-07-25T23:03:55.795+00:00
+Author: Jessica Puchala (MD) [OE Lead] (jessica033389)
+Author Id: 869778676986814514
+Avatar URL: assets\37de34190564f7c9acae5895cc884c8a-6F9C7.png
+Content: Hi <@727597685292400662>. Thanks for sharing and volunteering. When we get back to using Reach even more frequently, there are ways to share feedback there on the actual images within the app. Look for the little "thumbs up" or thumbs down image to help report how that content did with your audience. Another place you can share feedback in Reach is in "My Sharing History" within the Library. You can press the little "give feedback" megaphone next to each image or video that you shared on each particular social network to let us know how it did. This is all voluntary and the feedback is not mandatory. If you're open to doing it I suggest doing so when the reaction is extreme - positive or negative. Thanks again for being here with us. I hope this helps.
+--------------------
+
+--- Message ---
+Message ID: 1266170437738692629
+Message Type: Default
+Reply to: None
+Timestamp: 2024-07-25T23:09:16.666+00:00
+Author: the ladyist (theladyist)
+Author Id: 727597685292400662
+Avatar URL: assets\5-E9BDB.png
+Content: Helpful! Thanks and I’ll keep an eye on reach
+--------------------
+
+--- Message ---
+Message ID: 1266170625848774776
+Message Type: Default
+Reply to: None
+Timestamp: 2024-07-25T23:10:01.515+00:00
+Author: rootsmusic (rootsmusic)
+Author Id: 791857656897732648
+Avatar URL: assets\a30e650576a6d42a3c9ee24648f67c90-2AE37.png
+Content: <@1247909990560301182> Vanessa answered about sharing Reach content at https://discord.com/channels/1242249109298221066/1250550849998946417/1265470673631969280
+--------------------

@@ -1,0 +1,27 @@
+Guild: Team Harris-Walz Virtual Office (ID: 1242249109298221066)
+Channel: Bryan (ID: 1278035157688778898)
+Channel Topic: None
+Exported At: 2024-10-28T23:58:48.4641273+00:00
+
+
+--- Message ---
+Message ID: 1278039880521482242
+Message Type: 21
+Reply to: 1278035157688778898
+Timestamp: 2024-08-27T17:14:12.349+00:00
+Author: Nicole Morris - Text Admin (nmorris237)
+Author Id: 935762347753103382
+Avatar URL: assets\27b1e286b65ae02b3378793b5f098411-A7B20.png
+Content: 
+--------------------
+
+--- Message ---
+Message ID: 1278039887836217417
+Message Type: Default
+Reply to: None
+Timestamp: 2024-08-27T17:14:14.093+00:00
+Author: Nicole Morris - Text Admin (nmorris237)
+Author Id: 935762347753103382
+Avatar URL: assets\27b1e286b65ae02b3378793b5f098411-A7B20.png
+Content: Correct!
+--------------------

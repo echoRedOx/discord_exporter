@@ -1,0 +1,32 @@
+- author_avatar_url: assets\58411cd7669a60dd4b83e8d3f9f8dc81-0209C.png
+  author_id: '1277033150828118079'
+  author_name: kmarie_98605
+  author_nickname: Karen Brandon
+  content: One of the folks I just texted with said she is signed up to be a data
+    captain. I have 35 years of data management and analysis. so it sounds like something
+    I could contribute to.  How do I find out how to get involved?
+  id: '1278395214716731452'
+  ref_to: null
+  timestamp: '2024-08-28T16:46:10.623+00:00'
+  type: Default
+- author_avatar_url: assets\d1341d3c05d207da49a6fa548b4c1086-4BE71.png
+  author_id: '1267643778043482122'
+  author_name: hollymateluber
+  author_nickname: Holly Mate-Luber [Call Mod]
+  content: "Hi Karen, in my opinion our \u201Cdata captain\u201D role is a bit more\
+    \ of a tech support role on Zoom than data-related, but we definitely still need\
+    \ help! I recommend you sign up for the training below and see if it\u2019s a\
+    \ good fit for you!\n\nhttps://events.democrats.org/event/654890/"
+  id: '1278397950879334441'
+  ref_to: '1278395214716731452'
+  timestamp: '2024-08-28T16:57:02.975+00:00'
+  type: Reply
+- author_avatar_url: assets\58411cd7669a60dd4b83e8d3f9f8dc81-0209C.png
+  author_id: '1277033150828118079'
+  author_name: kmarie_98605
+  author_nickname: Karen Brandon
+  content: Thanks!  I'll check it out.
+  id: '1278398942484365464'
+  ref_to: '1278397950879334441'
+  timestamp: '2024-08-28T17:00:59.392+00:00'
+  type: Reply

@@ -1,0 +1,38 @@
+Guild: Team Harris-Walz Virtual Office (ID: 1242249109298221066)
+Channel: How can I get signed up for texting?  I (ID: 1281797674969862215)
+Channel Topic: None
+Exported At: 2024-10-28T23:35:10.6018355+00:00
+
+
+--- Message ---
+Message ID: 1281802253522567330
+Message Type: 21
+Reply to: 1281797674969862215
+Timestamp: 2024-09-07T02:24:31.974+00:00
+Author: Jack Joannides KC text admin (jjoannid)
+Author Id: 477560366432256000
+Avatar URL: assets\791c521e62160be1f3df04992f6e5470-36A38.png
+Content: 
+--------------------
+
+--- Message ---
+Message ID: 1281802254931988551
+Message Type: Default
+Reply to: None
+Timestamp: 2024-09-07T02:24:32.31+00:00
+Author: Jack Joannides KC text admin (jjoannid)
+Author Id: 477560366432256000
+Avatar URL: assets\791c521e62160be1f3df04992f6e5470-36A38.png
+Content: https://events.democrats.org/event/672393/
+--------------------
+
+--- Message ---
+Message ID: 1281991217344938047
+Message Type: Default
+Reply to: None
+Timestamp: 2024-09-07T14:55:24.46+00:00
+Author: Pat Lewis (IL) (pat03047)
+Author Id: 1276944282510692476
+Avatar URL: assets\8569adcbd36c70a7578c017bf5604ea5-61CE7.png
+Content: Thank you.  I signed up!👍🇺🇸
+--------------------

@@ -1,0 +1,27 @@
+Guild: Team Harris-Walz Virtual Office (ID: 1242249109298221066)
+Channel: On discord trying to verify phone # for (ID: 1284898595950034965)
+Channel Topic: None
+Exported At: 2024-10-28T23:22:56.07032+00:00
+
+
+--- Message ---
+Message ID: 1284900454324764672
+Message Type: 21
+Reply to: 1284898595950034965
+Timestamp: 2024-09-15T15:35:40.607+00:00
+Author: Rachel Ruben [NY] KC Text Admin (matzahbrei)
+Author Id: 368807878926008341
+Avatar URL: assets\809f117d179a70576b3870d1aaf1eedb-18781.png
+Content: 
+--------------------
+
+--- Message ---
+Message ID: 1284900457180827820
+Message Type: Default
+Reply to: None
+Timestamp: 2024-09-15T15:35:41.288+00:00
+Author: Rachel Ruben [NY] KC Text Admin (matzahbrei)
+Author Id: 368807878926008341
+Avatar URL: assets\809f117d179a70576b3870d1aaf1eedb-18781.png
+Content: Owen, someone can help you with this in <#1267941954243526756>
+--------------------

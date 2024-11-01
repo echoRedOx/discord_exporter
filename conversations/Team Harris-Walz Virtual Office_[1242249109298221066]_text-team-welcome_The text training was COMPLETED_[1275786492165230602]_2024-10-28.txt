@@ -1,0 +1,27 @@
+Guild: Team Harris-Walz Virtual Office (ID: 1242249109298221066)
+Channel: The text training was COMPLETED. (ID: 1275786492165230602)
+Channel Topic: None
+Exported At: 2024-10-29T00:11:06.5961436+00:00
+
+
+--- Message ---
+Message ID: 1275829067471650856
+Message Type: 21
+Reply to: 1275786492165230602
+Timestamp: 2024-08-21T14:49:13.443+00:00
+Author: Nicole Morris - Text Admin (nmorris237)
+Author Id: 935762347753103382
+Avatar URL: assets\27b1e286b65ae02b3378793b5f098411-A7B20.png
+Content: 
+--------------------
+
+--- Message ---
+Message ID: 1275829069312688138
+Message Type: Default
+Reply to: None
+Timestamp: 2024-08-21T14:49:13.882+00:00
+Author: Nicole Morris - Text Admin (nmorris237)
+Author Id: 935762347753103382
+Avatar URL: assets\27b1e286b65ae02b3378793b5f098411-A7B20.png
+Content: Hi Sandra - thanks for your note! Someone should be following up with you today - please keep an eye on your Direct Messages in Discord (top left game controller icon)
+--------------------

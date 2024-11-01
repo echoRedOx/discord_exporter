@@ -1,0 +1,71 @@
+Guild: Team Harris-Walz Virtual Office (ID: 1242249109298221066)
+Channel: co-facilitate link (ID: 1277707319798661312)
+Channel Topic: None
+Exported At: 2024-10-24T12:55:32.1513726+00:00
+
+
+--- Message ---
+Message ID: 1277707319798661312
+Message Type: Default
+Reply to: None
+Timestamp: 2024-08-26T19:12:43.694+00:00
+Author: Susan C [CT] • Lead Mod (susanclancyct_81390)
+Author Id: 1261701914454659092
+Avatar URL: assets\071fc6cce2ec3001e5f374ff696b2996-98A50.png
+Content: Hey there, I misplaced my link to sign up to co-facilitate a phone bank. Would you have that available? Thank you
+--------------------
+
+--- Message ---
+Message ID: 1277709428166103151
+Message Type: Default
+Reply to: None
+Timestamp: 2024-08-26T19:21:06.368+00:00
+Author: AndreaV, KY Call Mod (andrearogersvalen)
+Author Id: 965992907981074443
+Avatar URL: assets\72d82e393a66b89996d99840a07990ec-C9EFF.png
+Content: All the steps and links are in here: https://discord.com/channels/1242249109298221066/1272700895708053534
+--------------------
+
+--- Message ---
+Message ID: 1277728314500583444
+Message Type: Default
+Reply to: None
+Timestamp: 2024-08-26T20:36:09.221+00:00
+Author: Susan C [CT] • Lead Mod (susanclancyct_81390)
+Author Id: 1261701914454659092
+Avatar URL: assets\071fc6cce2ec3001e5f374ff696b2996-98A50.png
+Content: I’m actually co facilitate link which I don’t see in the master doc that I have thank you
+--------------------
+
+--- Message ---
+Message ID: 1277730506057977868
+Message Type: Default
+Reply to: None
+Timestamp: 2024-08-26T20:44:51.729+00:00
+Author: AndreaV, KY Call Mod (andrearogersvalen)
+Author Id: 965992907981074443
+Avatar URL: assets\72d82e393a66b89996d99840a07990ec-C9EFF.png
+Content: I think #3 on the first page is what you were requesting -- "sign up for your co-facilitation." Or maybe I misunderstood? If so, I apologize. Can you tell me what it is that you need?
+--------------------
+
+--- Message ---
+Message ID: 1277730703156449402
+Message Type: Default
+Reply to: None
+Timestamp: 2024-08-26T20:45:38.721+00:00
+Author: Susan C [CT] • Lead Mod (susanclancyct_81390)
+Author Id: 1261701914454659092
+Avatar URL: assets\071fc6cce2ec3001e5f374ff696b2996-98A50.png
+Content: Sorry my computere kept opening the old version. Got it now. Thank you!!
+--------------------
+
+--- Message ---
+Message ID: 1277731179105095710
+Message Type: Reply
+Reply to: 1277730703156449402
+Timestamp: 2024-08-26T20:47:32.196+00:00
+Author: AndreaV, KY Call Mod (andrearogersvalen)
+Author Id: 965992907981074443
+Avatar URL: assets\72d82e393a66b89996d99840a07990ec-C9EFF.png
+Content: No problem. Good luck with your session! Hope to be with you on a VOTE team soon!! <:blueheart:1252803082849488956>
+--------------------

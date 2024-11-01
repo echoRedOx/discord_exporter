@@ -1,0 +1,38 @@
+Guild: Team Harris-Walz Virtual Office (ID: 1242249109298221066)
+Channel: Could you also put this in the #non- (ID: 1269724863082397777)
+Channel Topic: None
+Exported At: 2024-10-28T19:47:39.2643828+00:00
+
+
+--- Message ---
+Message ID: 1269725997436108912
+Message Type: 21
+Reply to: 1269724863082397777
+Timestamp: 2024-08-04T18:37:48.157+00:00
+Author: Michael Pelaez | FL (trumansleeps)
+Author Id: 389839010576465936
+Avatar URL: assets\3a91c3446fca9803ffb1d856364145a2-A8603.png
+Content: 
+--------------------
+
+--- Message ---
+Message ID: 1269725999323676825
+Message Type: Default
+Reply to: None
+Timestamp: 2024-08-04T18:37:48.607+00:00
+Author: Michael Pelaez | FL (trumansleeps)
+Author Id: 389839010576465936
+Avatar URL: assets\3a91c3446fca9803ffb1d856364145a2-A8603.png
+Content: Great idea! Thank you 🙂 Done!
+--------------------
+
+--- Message ---
+Message ID: 1269726346670772297
+Message Type: Reply
+Reply to: 1269725999323676825
+Timestamp: 2024-08-04T18:39:11.421+00:00
+Author: Jeannine M • Lead Mod (jean9_28218_79932)
+Author Id: 1266879741785538682
+Avatar URL: assets\54ff5e8dfab835d878a961f9f7b7d161-6C0EE.png
+Content: Thank you much!
+--------------------

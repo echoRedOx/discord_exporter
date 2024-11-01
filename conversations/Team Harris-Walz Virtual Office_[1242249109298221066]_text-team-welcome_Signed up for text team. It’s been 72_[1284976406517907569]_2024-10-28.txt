@@ -1,0 +1,60 @@
+Guild: Team Harris-Walz Virtual Office (ID: 1242249109298221066)
+Channel: Signed up for text team. It’s been 72 (ID: 1284976406517907569)
+Channel Topic: None
+Exported At: 2024-10-28T23:21:55.192495+00:00
+
+
+--- Message ---
+Message ID: 1284978583273472042
+Message Type: 21
+Reply to: 1284976406517907569
+Timestamp: 2024-09-15T20:46:08+00:00
+Author: Roberta Bavin CA KC Greeter/Mod (roberta_24935)
+Author Id: 1269872908759597148
+Avatar URL: assets\df6d19d97b04a49ffcafbe7be14c7839-D9CE4.png
+Content: 
+--------------------
+
+--- Message ---
+Message ID: 1284978585039540354
+Message Type: Default
+Reply to: None
+Timestamp: 2024-09-15T20:46:08.421+00:00
+Author: Roberta Bavin CA KC Greeter/Mod (roberta_24935)
+Author Id: 1269872908759597148
+Avatar URL: assets\df6d19d97b04a49ffcafbe7be14c7839-D9CE4.png
+Content: Hi Susan- I'll send you a DM in a few minutes, please let me know if you don't find it. Thanks!
+--------------------
+
+--- Message ---
+Message ID: 1284983817718988810
+Message Type: Default
+Reply to: None
+Timestamp: 2024-09-15T21:06:55.989+00:00
+Author: Susan Peters [CA] (susanp0164)
+Author Id: 1283909871863074877
+Avatar URL: assets\18ceb8c2df9daa91e469277a3c5a7124-132B4.png
+Content: Haven’t found it. ?
+--------------------
+
+--- Message ---
+Message ID: 1284984692914917498
+Message Type: Reply
+Reply to: 1284983817718988810
+Timestamp: 2024-09-15T21:10:24.652+00:00
+Author: Roberta Bavin CA KC Greeter/Mod (roberta_24935)
+Author Id: 1269872908759597148
+Avatar URL: assets\df6d19d97b04a49ffcafbe7be14c7839-D9CE4.png
+Content: Just sent you another message; please look left upper corner at 'game control' icon. Thanks!
+--------------------
+
+--- Message ---
+Message ID: 1284991872871436300
+Message Type: Default
+Reply to: None
+Timestamp: 2024-09-15T21:38:56.487+00:00
+Author: Susan Peters [CA] (susanp0164)
+Author Id: 1283909871863074877
+Avatar URL: assets\18ceb8c2df9daa91e469277a3c5a7124-132B4.png
+Content: Got it! Thanks!
+--------------------

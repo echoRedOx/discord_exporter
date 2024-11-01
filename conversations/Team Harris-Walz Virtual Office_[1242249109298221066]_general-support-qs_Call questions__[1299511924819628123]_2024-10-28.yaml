@@ -1,0 +1,23 @@
+- author_avatar_url: assets\5-E9BDB.png
+  author_id: '1299496775186382891'
+  author_name: jeff_11583
+  author_nickname: Jeff
+  content: 'If the person declines to tell me how they are voting, do I enter nothing?
+
+    If they tell me they''ve registered in another state, can I capture that?
+
+    If they tell me they''re the right person and THEN hang up, how do I code that?'
+  id: '1299511924819628123'
+  ref_to: null
+  timestamp: '2024-10-25T23:16:26.641+00:00'
+  type: Default
+- author_avatar_url: assets\28a90c77b5793d80eb62484a43c66748-D8837.png
+  author_id: '568257600228032512'
+  author_name: carb.on
+  author_nickname: "Carolyn B [CA] \u2022 Lead Mod"
+  content: Hi <@1299496775186382891> click [HERE](https://discord.com/channels/1242249109298221066/1263529508300914809)
+    and share these questions to get expert answers
+  id: '1299512504011198524'
+  ref_to: null
+  timestamp: '2024-10-25T23:18:44.731+00:00'
+  type: Default

@@ -1,0 +1,49 @@
+Guild: Team Harris-Walz Virtual Office (ID: 1242249109298221066)
+Channel: It has been more than 72 hrs since my (ID: 1287896559928873023)
+Channel Topic: None
+Exported At: 2024-10-28T23:05:29.1641375+00:00
+
+
+--- Message ---
+Message ID: 1287906287132348447
+Message Type: 21
+Reply to: 1287896559928873023
+Timestamp: 2024-09-23T22:39:46.994+00:00
+Author: Roberta Bavin CA KC Greeter/Mod (roberta_24935)
+Author Id: 1269872908759597148
+Avatar URL: assets\df6d19d97b04a49ffcafbe7be14c7839-D9CE4.png
+Content: 
+--------------------
+
+--- Message ---
+Message ID: 1287906289325834261
+Message Type: Default
+Reply to: None
+Timestamp: 2024-09-23T22:39:47.517+00:00
+Author: Roberta Bavin CA KC Greeter/Mod (roberta_24935)
+Author Id: 1269872908759597148
+Avatar URL: assets\df6d19d97b04a49ffcafbe7be14c7839-D9CE4.png
+Content: Hi Brooke! It looks like you were sent a DM 9/18. I'll send you another one in a minute. Thanks for checking in!
+--------------------
+
+--- Message ---
+Message ID: 1287922182051069952
+Message Type: Default
+Reply to: None
+Timestamp: 2024-09-23T23:42:56.638+00:00
+Author: Loren Coleman - FL (loren_2024)
+Author Id: 1277812485725884447
+Avatar URL: assets\6c5996770c985bcd6e5b68131ff2ba04-E90DE.png
+Content: Ditto, I have not seen anything yet either.
+--------------------
+
+--- Message ---
+Message ID: 1287924732351610951
+Message Type: Reply
+Reply to: 1287922182051069952
+Timestamp: 2024-09-23T23:53:04.677+00:00
+Author: Roberta Bavin CA KC Greeter/Mod (roberta_24935)
+Author Id: 1269872908759597148
+Avatar URL: assets\df6d19d97b04a49ffcafbe7be14c7839-D9CE4.png
+Content: Please look for DM sent 9/21. Thanks!
+--------------------

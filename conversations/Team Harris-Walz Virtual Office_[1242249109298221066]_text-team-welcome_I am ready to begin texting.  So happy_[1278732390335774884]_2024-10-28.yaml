@@ -1,0 +1,91 @@
+- author_avatar_url: assets\27b1e286b65ae02b3378793b5f098411-A7B20.png
+  author_id: '935762347753103382'
+  author_name: nmorris237
+  author_nickname: Nicole Morris - Text Admin
+  content: ''
+  id: '1278905676688789504'
+  ref_to: '1278732390335774884'
+  timestamp: '2024-08-30T02:34:34.241+00:00'
+  type: '21'
+- author_avatar_url: assets\27b1e286b65ae02b3378793b5f098411-A7B20.png
+  author_id: '935762347753103382'
+  author_name: nmorris237
+  author_nickname: Nicole Morris - Text Admin
+  content: Hi - thanks so much! Have you taken a training with us yet?
+  id: '1278905678005800990'
+  ref_to: null
+  timestamp: '2024-08-30T02:34:34.555+00:00'
+  type: Default
+- author_avatar_url: assets\18c094134906ce752c1eb5e346c2898f-8AADA.png
+  author_id: '1277645699105816750'
+  author_name: dabbie_82428
+  author_nickname: Dabbie Bowron
+  content: Yes, I have.  I keep checking to begin.  So, am I missing something?
+  id: '1279068064691916872'
+  ref_to: null
+  timestamp: '2024-08-30T13:19:50.558+00:00'
+  type: Default
+- author_avatar_url: assets\27b1e286b65ae02b3378793b5f098411-A7B20.png
+  author_id: '935762347753103382'
+  author_name: nmorris237
+  author_nickname: Nicole Morris - Text Admin
+  content: Thanks! Nope - you're okay (I see you form/quiz in our sheet). We are still
+    working through everyone who did the Wednesday night training. So you should receive
+    a Direct Message from one of our moderators by later today. To check Direct Messages,
+    it's the top left of Discord
+  id: '1279069873103966228'
+  ref_to: null
+  timestamp: '2024-08-30T13:27:01.717+00:00'
+  type: Default
+- author_avatar_url: assets\27b1e286b65ae02b3378793b5f098411-A7B20.png
+  author_id: '935762347753103382'
+  author_name: nmorris237
+  author_nickname: Nicole Morris - Text Admin
+  content: ''
+  id: '1279069943031136287'
+  ref_to: null
+  timestamp: '2024-08-30T13:27:18.389+00:00'
+  type: Default
+- author_avatar_url: assets\27b1e286b65ae02b3378793b5f098411-A7B20.png
+  author_id: '935762347753103382'
+  author_name: nmorris237
+  author_nickname: Nicole Morris - Text Admin
+  content: In the meantime -- please update your Discord Display Name to a first and
+    last name. To do this, click on "User Settings" (gear icon on the bottom) left
+    and Edit Profile
+  id: '1279070016960069674'
+  ref_to: null
+  timestamp: '2024-08-30T13:27:36.015+00:00'
+  type: Default
+- author_avatar_url: assets\18c094134906ce752c1eb5e346c2898f-8AADA.png
+  author_id: '1277645699105816750'
+  author_name: dabbie_82428
+  author_nickname: Dabbie Bowron
+  content: thank you for your response.  I am worried about my name being shown on
+    any texts I do, it's unusual and easy to track.  That's why I shortened it to
+    "Dab".  Will my name appear on texts?  That doesn't work for me.
+  id: '1279144908980228108'
+  ref_to: '1279070016960069674'
+  timestamp: '2024-08-30T18:25:11.664+00:00'
+  type: Reply
+- author_avatar_url: assets\18c094134906ce752c1eb5e346c2898f-8AADA.png
+  author_id: '1277645699105816750'
+  author_name: dabbie_82428
+  author_nickname: Dabbie Bowron
+  content: When I texted in 2022, I used a different name -- please help me with this
+    issue.
+  id: '1279145173749731368'
+  ref_to: null
+  timestamp: '2024-08-30T18:26:14.79+00:00'
+  type: Default
+- author_avatar_url: assets\27b1e286b65ae02b3378793b5f098411-A7B20.png
+  author_id: '935762347753103382'
+  author_name: nmorris237
+  author_nickname: Nicole Morris - Text Admin
+  content: Understood! That's fine -- if you prefer to use Dab as your first name
+    in texting, just keep is as Dab here (but you do need to update your profile to
+    have a full last name -- last names won't show on texts)
+  id: '1279195193081462935'
+  ref_to: null
+  timestamp: '2024-08-30T21:45:00.328+00:00'
+  type: Default

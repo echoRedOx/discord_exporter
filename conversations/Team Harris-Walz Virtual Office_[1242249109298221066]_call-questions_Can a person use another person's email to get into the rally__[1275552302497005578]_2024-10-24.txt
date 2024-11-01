@@ -1,0 +1,27 @@
+Guild: Team Harris-Walz Virtual Office (ID: 1242249109298221066)
+Channel: Can a person use another person's email to get into the rally? (ID: 1275552302497005578)
+Channel Topic: None
+Exported At: 2024-10-24T12:57:34.9513434+00:00
+
+
+--- Message ---
+Message ID: 1275552302497005578
+Message Type: Default
+Reply to: None
+Timestamp: 2024-08-20T20:29:27.531+00:00
+Author: Gilly (gilly02437)
+Author Id: 838904841458941973
+Avatar URL: assets\7a2b32d4a763194486bac310f5a788c7-989E5.png
+Content: People want to know if they can use a friend's email to get into the rally.  I said no because it sounds like a security issue but wanted to double check.
+--------------------
+
+--- Message ---
+Message ID: 1275553440466079754
+Message Type: Default
+Reply to: None
+Timestamp: 2024-08-20T20:33:58.844+00:00
+Author: Larry Ahlgrim (VA) [Call Mod] (larrya._98544)
+Author Id: 1266903666879627274
+Avatar URL: assets\5fde485e55d806d8356ca6e7e08f1f48-77A19.png
+Content: <@838904841458941973> You are correct. Everyone needs their own confirmation email. Thanks for asking!
+--------------------

@@ -1,0 +1,143 @@
+- author_avatar_url: assets\27b1e286b65ae02b3378793b5f098411-A7B20.png
+  author_id: '935762347753103382'
+  author_name: nmorris237
+  author_nickname: Nicole Morris - Text Admin
+  content: ''
+  id: '1293441349928091688'
+  ref_to: '1293417674356822166'
+  timestamp: '2024-10-09T05:14:08.801+00:00'
+  type: '21'
+- author_avatar_url: assets\27b1e286b65ae02b3378793b5f098411-A7B20.png
+  author_id: '935762347753103382'
+  author_name: nmorris237
+  author_nickname: Nicole Morris - Text Admin
+  content: Hi Sara - thanks! All texters are required to go through the text training
+    for 2024. Here is the link to sign up for a session! https://events.democrats.org/event/672393/
+    May have a few more dates added soon too
+  id: '1293441353396654131'
+  ref_to: null
+  timestamp: '2024-10-09T05:14:09.628+00:00'
+  type: Default
+- author_avatar_url: assets\8b50fdfc1f5dbe9a98016c5f307bca08-BB53F.png
+  author_id: '360157156462297090'
+  author_name: unbreakablesara
+  author_nickname: Sara Dion [MA]
+  content: "I\u2019m trying to join the current session but the link won\u2019t load"
+  id: '1295507879230574652'
+  ref_to: '1293441353396654131'
+  timestamp: '2024-10-14T22:05:47.781+00:00'
+  type: Reply
+- author_avatar_url: assets\8b50fdfc1f5dbe9a98016c5f307bca08-BB53F.png
+  author_id: '360157156462297090'
+  author_name: unbreakablesara
+  author_nickname: Sara Dion [MA]
+  content: Are others having this problem?
+  id: '1295508006708056226'
+  ref_to: '1295507879230574652'
+  timestamp: '2024-10-14T22:06:18.174+00:00'
+  type: Reply
+- author_avatar_url: assets\8b50fdfc1f5dbe9a98016c5f307bca08-BB53F.png
+  author_id: '360157156462297090'
+  author_name: unbreakablesara
+  author_nickname: Sara Dion [MA]
+  content: "I\u2019m not sure if the issue is on my end with my internet, or if others\
+    \ can\u2019t access the link either."
+  id: '1295509003987845142'
+  ref_to: null
+  timestamp: '2024-10-14T22:10:15.944+00:00'
+  type: Default
+- author_avatar_url: assets\27b1e286b65ae02b3378793b5f098411-A7B20.png
+  author_id: '935762347753103382'
+  author_name: nmorris237
+  author_nickname: Nicole Morris - Text Admin
+  content: "Hi! The mobilize link itself is having some lag issues - but there\u2019\
+    s no current training going on."
+  id: '1295512058795790396'
+  ref_to: null
+  timestamp: '2024-10-14T22:22:24.267+00:00'
+  type: Default
+- author_avatar_url: assets\8b50fdfc1f5dbe9a98016c5f307bca08-BB53F.png
+  author_id: '360157156462297090'
+  author_name: unbreakablesara
+  author_nickname: Sara Dion [MA]
+  content: "Oh hmmm that\u2019s weird, I had signed up for a session at this time"
+  id: '1295512947300241489'
+  ref_to: null
+  timestamp: '2024-10-14T22:25:56.103+00:00'
+  type: Default
+- author_avatar_url: assets\8b50fdfc1f5dbe9a98016c5f307bca08-BB53F.png
+  author_id: '360157156462297090'
+  author_name: unbreakablesara
+  author_nickname: Sara Dion [MA]
+  content: "But yeah now I can\u2019t even access the link to sign up for the training"
+  id: '1295513150946414592'
+  ref_to: null
+  timestamp: '2024-10-14T22:26:44.656+00:00'
+  type: Default
+- author_avatar_url: assets\27b1e286b65ae02b3378793b5f098411-A7B20.png
+  author_id: '935762347753103382'
+  author_name: nmorris237
+  author_nickname: Nicole Morris - Text Admin
+  content: Got it - hm! Do you have the email confirmation you can send me? There
+    wasn't a text training thorugh us (DNC) tonight - maybe another group?
+  id: '1295544023502819461'
+  ref_to: null
+  timestamp: '2024-10-15T00:29:25.247+00:00'
+  type: Default
+- author_avatar_url: assets\8b50fdfc1f5dbe9a98016c5f307bca08-BB53F.png
+  author_id: '360157156462297090'
+  author_name: unbreakablesara
+  author_nickname: Sara Dion [MA]
+  content: "It won\u2019t let me attach a pic, that\u2019s ok"
+  id: '1295554988835082260'
+  ref_to: null
+  timestamp: '2024-10-15T01:12:59.586+00:00'
+  type: Default
+- author_avatar_url: assets\8b50fdfc1f5dbe9a98016c5f307bca08-BB53F.png
+  author_id: '360157156462297090'
+  author_name: unbreakablesara
+  author_nickname: Sara Dion [MA]
+  content: Okay I was able to use the link and sign up, thx!
+  id: '1295555291005583411'
+  ref_to: null
+  timestamp: '2024-10-15T01:14:11.629+00:00'
+  type: Default
+- author_avatar_url: assets\27b1e286b65ae02b3378793b5f098411-A7B20.png
+  author_id: '935762347753103382'
+  author_name: nmorris237
+  author_nickname: Nicole Morris - Text Admin
+  content: Got it - ok thanks!
+  id: '1295564228505108511'
+  ref_to: null
+  timestamp: '2024-10-15T01:49:42.495+00:00'
+  type: Default
+- author_avatar_url: assets\27b1e286b65ae02b3378793b5f098411-A7B20.png
+  author_id: '935762347753103382'
+  author_name: nmorris237
+  author_nickname: Nicole Morris - Text Admin
+  content: Sara - apologies, I just found out there *was* a training last night (Swifties
+    for Kamala).
+  id: '1295767667923353623'
+  ref_to: null
+  timestamp: '2024-10-15T15:18:06.232+00:00'
+  type: Default
+- author_avatar_url: assets\27b1e286b65ae02b3378793b5f098411-A7B20.png
+  author_id: '935762347753103382'
+  author_name: nmorris237
+  author_nickname: Nicole Morris - Text Admin
+  content: For the next session you signed up for - please make sure you're signed
+    into your Zoom account *before* joining the meeting link
+  id: '1295767766745481302'
+  ref_to: null
+  timestamp: '2024-10-15T15:18:29.793+00:00'
+  type: Default
+- author_avatar_url: assets\8b50fdfc1f5dbe9a98016c5f307bca08-BB53F.png
+  author_id: '360157156462297090'
+  author_name: unbreakablesara
+  author_nickname: Sara Dion [MA]
+  content: Yes that's right, it was the Swifties one! That's okay, I'm in the training
+    session that's going on now!
+  id: '1295889232824369164'
+  ref_to: null
+  timestamp: '2024-10-15T23:21:09.563+00:00'
+  type: Default

@@ -1,0 +1,39 @@
+- author_avatar_url: assets\5-E9BDB.png
+  author_id: '371398908695281669'
+  author_name: maw_2k5374
+  author_nickname: Mark Williams
+  content: Hi, I spoke with a MI voter this afternoon who already voted. I politely
+    asked who they were voting for, but they did not disclose and hung up. What canvass
+    result should I use?
+  id: '1290441581932843179'
+  ref_to: null
+  timestamp: '2024-09-30T22:34:08.378+00:00'
+  type: Default
+- author_avatar_url: assets\8ef62717b6ae0c24ebb16d1b0ea4b07e-DDC39.png
+  author_id: '1156958211065270323'
+  author_name: lovelightphoto_86652
+  author_nickname: Alan Z (CA) [Call Mod]
+  content: "If it was the correct person, I would suggest... \n\nFirst click the \"\
+    correct person\" button.  On the next screen click \"undecided/other/not voting\""
+  id: '1290443632314417224'
+  ref_to: null
+  timestamp: '2024-09-30T22:42:17.227+00:00'
+  type: Default
+- author_avatar_url: assets\8ef62717b6ae0c24ebb16d1b0ea4b07e-DDC39.png
+  author_id: '1156958211065270323'
+  author_name: lovelightphoto_86652
+  author_nickname: Alan Z (CA) [Call Mod]
+  content: let me know if that works for you
+  id: '1290443747217248287'
+  ref_to: '1290441581932843179'
+  timestamp: '2024-09-30T22:42:44.622+00:00'
+  type: Reply
+- author_avatar_url: assets\5-E9BDB.png
+  author_id: '371398908695281669'
+  author_name: maw_2k5374
+  author_nickname: Mark Williams
+  content: Thanks! That is what I selected.
+  id: '1290444331378933782'
+  ref_to: null
+  timestamp: '2024-09-30T22:45:03.897+00:00'
+  type: Default

@@ -1,0 +1,53 @@
+- author_avatar_url: assets\77ba27b94dda26a407904e101db2c503-FE456.png
+  author_id: '1285746881334607905'
+  author_name: mr.g.p.
+  author_nickname: Gregory Purnhagen
+  content: "Good morning. I signed up for a session later today but my schedule has\
+    \ changed. I\u2019d like to switch to an earlier time. Can I just sign up for\
+    \ that shift and change my name in the Zoom meeting?"
+  id: '1290295725225414718'
+  ref_to: null
+  timestamp: '2024-09-30T12:54:33.429+00:00'
+  type: Default
+- author_avatar_url: assets\64dfeeae868ec82cfd381c6628a88833-1F19D.png
+  author_id: '1283417540244275311'
+  author_name: colettec13
+  author_nickname: Colette Crandall [CA] [Call Mod}
+  content: Yes. Please update the Google sheet and also post in the chat captain channel
+    the shift that is now available
+  id: '1290297087723962391'
+  ref_to: '1290295725225414718'
+  timestamp: '2024-09-30T12:59:58.274+00:00'
+  type: Reply
+- author_avatar_url: assets\77ba27b94dda26a407904e101db2c503-FE456.png
+  author_id: '1285746881334607905'
+  author_name: mr.g.p.
+  author_nickname: Gregory Purnhagen
+  content: "I\u2019ve never added anything to a Google sheet. Can you direct me to\
+    \ that? I\u2019m about to sign on for my shift."
+  id: '1290326078736568410'
+  ref_to: null
+  timestamp: '2024-09-30T14:55:10.27+00:00'
+  type: Default
+- author_avatar_url: assets\77ba27b94dda26a407904e101db2c503-FE456.png
+  author_id: '1285746881334607905'
+  author_name: mr.g.p.
+  author_nickname: Gregory Purnhagen
+  content: "At the training I attended last weekend, the host mentioned that there\
+    \ is a need for Data Captains. I ended up in a the Facilitator group and shadowed\
+    \ a shift this morning. I\u2019d like to get more info and or training if necessary\
+    \ to volunteer as a Data Captain. Can you help me with the first step (s)? Thanks!"
+  id: '1290418899610767494'
+  ref_to: null
+  timestamp: '2024-09-30T21:04:00.491+00:00'
+  type: Default
+- author_avatar_url: assets\8ef62717b6ae0c24ebb16d1b0ea4b07e-DDC39.png
+  author_id: '1156958211065270323'
+  author_name: lovelightphoto_86652
+  author_nickname: Alan Z (CA) [Call Mod]
+  content: It sounds to me like you are ready to sign up for a shift.  Are you looking
+    for the where/how to do that?
+  id: '1290440088119152682'
+  ref_to: '1290418899610767494'
+  timestamp: '2024-09-30T22:28:12.225+00:00'
+  type: Reply

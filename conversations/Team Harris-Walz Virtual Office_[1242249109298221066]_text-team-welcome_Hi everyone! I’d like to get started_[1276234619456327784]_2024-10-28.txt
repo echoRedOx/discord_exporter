@@ -1,0 +1,27 @@
+Guild: Team Harris-Walz Virtual Office (ID: 1242249109298221066)
+Channel: Hi everyone! I’d like to get started (ID: 1276234619456327784)
+Channel Topic: None
+Exported At: 2024-10-29T00:10:01.5590024+00:00
+
+
+--- Message ---
+Message ID: 1276313278762713140
+Message Type: 21
+Reply to: 1276234619456327784
+Timestamp: 2024-08-22T22:53:18.411+00:00
+Author: Nicole Morris - Text Admin (nmorris237)
+Author Id: 935762347753103382
+Avatar URL: assets\27b1e286b65ae02b3378793b5f098411-A7B20.png
+Content: 
+--------------------
+
+--- Message ---
+Message ID: 1276313280440303656
+Message Type: Default
+Reply to: None
+Timestamp: 2024-08-22T22:53:18.811+00:00
+Author: Nicole Morris - Text Admin (nmorris237)
+Author Id: 935762347753103382
+Avatar URL: assets\27b1e286b65ae02b3378793b5f098411-A7B20.png
+Content: Hi there - thanks! The current trainings are only at these times - but you can keep an eye on the link for any future days/times https://events.democrats.org/event/654680/
+--------------------

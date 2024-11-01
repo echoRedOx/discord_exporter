@@ -1,0 +1,35 @@
+Guild: Team Harris-Walz Virtual Office (ID: 1242249109298221066)
+Channel: Harris "it makes you wonder" gif (ID: 1295439879471108096)
+Channel Topic: None
+Exported At: 2024-10-28T21:48:19.7501184+00:00
+
+
+--- Message ---
+Message ID: 1295440547221078061
+Message Type: 21
+Reply to: 1295439879471108096
+Timestamp: 2024-10-14T17:38:14.579+00:00
+Author: Kate Z [PA → CA] (katevotes)
+Author Id: 1264709290195685416
+Avatar URL: assets\57433312dd39630d8fec96a3149006e0-CB7BF.png
+Content: 
+--------------------
+
+--- Message ---
+Message ID: 1295440550480318555
+Message Type: Default
+Reply to: None
+Timestamp: 2024-10-14T17:38:15.356+00:00
+Author: Kate Z [PA → CA] (katevotes)
+Author Id: 1264709290195685416
+Avatar URL: assets\57433312dd39630d8fec96a3149006e0-CB7BF.png
+Content: Here's the alt text I wrote when I posted this gif on Mastodon: 
+
+GIF made from screenshots of the NYTimes video.
+Frame 1: Harris is holding her chin in the classic thinking pose. Caption: "It makes you wonder"
+Frame 2: Harris is still at the podium, and an audience member to the upper left is holding *his* chin in the classic thinking pose. Caption: "It makes you wonder why does his staff want"
+Frame 3: Harris is holding the podium, a faint glint of a smirk as she asks (caption): "him to hide away?"
+Headline: "Harris Suggests Trump Is ‘Weak and Unstable’ in Pointed Challenge"
+Subheading: "Kamala Harris asked why Donald J. Trump had not released his medical records, appeared on '60 Minutes' or agreed to a second debate."
+Video caption and credits: "The vice president criticized former President Donald J. Trump, calling him 'weak and unstable.' Credit Erin Schaff/The New York Times"
+--------------------

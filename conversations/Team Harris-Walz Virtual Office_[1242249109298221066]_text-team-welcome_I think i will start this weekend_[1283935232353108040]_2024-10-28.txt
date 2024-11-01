@@ -1,0 +1,38 @@
+Guild: Team Harris-Walz Virtual Office (ID: 1242249109298221066)
+Channel: I think i will start this weekend (ID: 1283935232353108040)
+Channel Topic: None
+Exported At: 2024-10-28T23:26:56.9587311+00:00
+
+
+--- Message ---
+Message ID: 1283943554145849344
+Message Type: 21
+Reply to: 1283935232353108040
+Timestamp: 2024-09-13T00:13:17.826+00:00
+Author: Nicole Morris - Text Admin (nmorris237)
+Author Id: 935762347753103382
+Avatar URL: assets\27b1e286b65ae02b3378793b5f098411-A7B20.png
+Content: 
+--------------------
+
+--- Message ---
+Message ID: 1283943556020699139
+Message Type: Default
+Reply to: None
+Timestamp: 2024-09-13T00:13:18.273+00:00
+Author: Nicole Morris - Text Admin (nmorris237)
+Author Id: 935762347753103382
+Avatar URL: assets\27b1e286b65ae02b3378793b5f098411-A7B20.png
+Content: Thanks Will! Please refer to the Direct Message you received from Roberta with more information on how to get started.
+--------------------
+
+--- Message ---
+Message ID: 1283951454452711557
+Message Type: Default
+Reply to: None
+Timestamp: 2024-09-13T00:44:41.406+00:00
+Author: will (diekatzefliegt)
+Author Id: 958039986672910376
+Avatar URL: assets\3a5de4f3a9012287bd4cb4a6b1df6c40-3E138.png
+Content: Yes, everything has been completed 🙂 im gonna review all the docs in these channels before i get started this weekend. Im so nervous but i think it should go well
+--------------------

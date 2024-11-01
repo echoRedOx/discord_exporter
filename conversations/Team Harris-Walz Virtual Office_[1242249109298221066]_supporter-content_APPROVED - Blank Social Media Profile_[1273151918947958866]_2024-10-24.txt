@@ -1,0 +1,49 @@
+Guild: Team Harris-Walz Virtual Office (ID: 1242249109298221066)
+Channel: APPROVED - Blank Social Media Profile (ID: 1273151918947958866)
+Channel Topic: None
+Exported At: 2024-10-24T13:01:05.7779958+00:00
+
+
+--- Message ---
+Message ID: 1273419429857857546
+Message Type: 21
+Reply to: 1273151918947958866
+Timestamp: 2024-08-14T23:14:11.067+00:00
+Author: V ✌🏼 (heavenly_piglet_99682)
+Author Id: 1204488116832960615
+Avatar URL: assets\0-EB806.png
+Content: 
+--------------------
+
+--- Message ---
+Message ID: 1273419431355093033
+Message Type: Default
+Reply to: None
+Timestamp: 2024-08-14T23:14:11.424+00:00
+Author: V ✌🏼 (heavenly_piglet_99682)
+Author Id: 1204488116832960615
+Avatar URL: assets\0-EB806.png
+Content: Thank you so much for creating these! I'm going to put my dog in the middle 🐶
+--------------------
+
+--- Message ---
+Message ID: 1282866671211642963
+Message Type: Default
+Reply to: None
+Timestamp: 2024-09-10T00:54:08.927+00:00
+Author: Donna (donna_31890)
+Author Id: 1276367808778862624
+Avatar URL: assets\4-4551A.png
+Content: how do you download?
+--------------------
+
+--- Message ---
+Message ID: 1282921785456726087
+Message Type: Reply
+Reply to: 1282866671211642963
+Timestamp: 2024-09-10T04:33:09.187+00:00
+Author: Jared R [CO] • Lead Mod (kyaizen)
+Author Id: 112080668296564736
+Avatar URL: assets\a_de0e3d4a3f9b486ad3ad6df0d72323da-D0252.gif
+Content: Hi Donna, if you click or press on the image, you should be able to download or save the image depending on the device you're on. They are 3 separate pictures.
+--------------------

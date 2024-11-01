@@ -1,0 +1,16 @@
+Guild: Team Harris-Walz Virtual Office (ID: 1242249109298221066)
+Channel: Dawn 'til Dusk Debrief Form (ID: 1295068838878122108)
+Channel Topic: None
+Exported At: 2024-10-24T12:38:07.5204977+00:00
+
+
+--- Message ---
+Message ID: 1295068838878122108
+Message Type: Default
+Reply to: None
+Timestamp: 2024-10-13T17:01:12.404+00:00
+Author: Jared R [CO] • Lead Mod (kyaizen)
+Author Id: 112080668296564736
+Avatar URL: assets\a_de0e3d4a3f9b486ad3ad6df0d72323da-D0252.gif
+Content: [Please fill out this form after every time you call for Dawn 'til Dusk!](https://forms.gle/JxfH2cGRx1Zrxty66) Thank you!
+--------------------

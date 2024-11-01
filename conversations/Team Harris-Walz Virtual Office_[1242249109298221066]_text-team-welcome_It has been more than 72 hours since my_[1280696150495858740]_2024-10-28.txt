@@ -1,0 +1,49 @@
+Guild: Team Harris-Walz Virtual Office (ID: 1242249109298221066)
+Channel: It has been more than 72 hours since my (ID: 1280696150495858740)
+Channel Topic: None
+Exported At: 2024-10-28T23:40:21.4674897+00:00
+
+
+--- Message ---
+Message ID: 1280699033492656243
+Message Type: 21
+Reply to: 1280696150495858740
+Timestamp: 2024-09-04T01:20:43.822+00:00
+Author: Jack Joannides KC text admin (jjoannid)
+Author Id: 477560366432256000
+Avatar URL: assets\791c521e62160be1f3df04992f6e5470-36A38.png
+Content: 
+--------------------
+
+--- Message ---
+Message ID: 1280699183279640628
+Message Type: Default
+Reply to: None
+Timestamp: 2024-09-04T01:21:19.534+00:00
+Author: Jack Joannides KC text admin (jjoannid)
+Author Id: 477560366432256000
+Avatar URL: assets\791c521e62160be1f3df04992f6e5470-36A38.png
+Content: Let me check on this.
+--------------------
+
+--- Message ---
+Message ID: 1280699960861524059
+Message Type: Default
+Reply to: None
+Timestamp: 2024-09-04T01:24:24.924+00:00
+Author: Jack Joannides KC text admin (jjoannid)
+Author Id: 477560366432256000
+Avatar URL: assets\791c521e62160be1f3df04992f6e5470-36A38.png
+Content: You had 2 names on discord so hard to tell which one you actually used.
+--------------------
+
+--- Message ---
+Message ID: 1280707859360776234
+Message Type: Reply
+Reply to: 1280699183279640628
+Timestamp: 2024-09-04T01:55:48.073+00:00
+Author: Larry Keltto Minnesota (larrykeltto)
+Author Id: 1038470090632470670
+Avatar URL: assets\4a3da6c7a2a90cc25b478c713f3f406f-0FCE3.png
+Content: Thanks. I changed my name to the current one after being instructed to during the training.
+--------------------

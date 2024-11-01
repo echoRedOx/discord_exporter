@@ -1,0 +1,64 @@
+- author_avatar_url: assets\1-B2132.png
+  author_id: '1274836011188359179'
+  author_name: danielle.moora
+  author_nickname: Danielle Moora VA
+  content: I don't have another account that uses my phone number and I get this error
+    message.  Can I get help verifying?
+  id: '1285260049408589944'
+  ref_to: null
+  timestamp: '2024-09-16T15:24:34.756+00:00'
+  type: Default
+- author_avatar_url: assets\28a90c77b5793d80eb62484a43c66748-D8837.png
+  author_id: '568257600228032512'
+  author_name: carb.on
+  author_nickname: "Carolyn B [CA] \u2022 Lead Mod"
+  content: 'Hello <@1274836011188359179> it is likely that you have an "accidental"
+    second account. Here are the instructions for fixing this issue
+
+    https://discord.com/channels/1242249109298221066/1284912441981010043
+
+    I appreciate it is a bunch of steps and details. If you prefer to do this over
+    a zoom screenshare, I am available on Zoom after 1:30p easter time today.'
+  id: '1285260884733853756'
+  ref_to: null
+  timestamp: '2024-09-16T15:27:53.913+00:00'
+  type: Default
+- author_avatar_url: assets\1-B2132.png
+  author_id: '1274834301019619369'
+  author_name: dmoora
+  author_nickname: Danielle Moora VA
+  content: I did it and now I don't have all the tabs for texting (campaigns, questions,
+    etc.).  How do I get them back?
+  id: '1285262530108723251'
+  ref_to: null
+  timestamp: '2024-09-16T15:34:26.201+00:00'
+  type: Default
+- author_avatar_url: assets\1-B2132.png
+  author_id: '1274834301019619369'
+  author_name: dmoora
+  author_nickname: Danielle Moora VA
+  content: and my direct messages also disappeared
+  id: '1285263043315630081'
+  ref_to: null
+  timestamp: '2024-09-16T15:36:28.559+00:00'
+  type: Default
+- author_avatar_url: assets\28a90c77b5793d80eb62484a43c66748-D8837.png
+  author_id: '568257600228032512'
+  author_name: carb.on
+  author_nickname: "Carolyn B [CA] \u2022 Lead Mod"
+  content: I sounds like you are now logged in on the "accidental account" if you
+    go to your Account settings you can remove your phone number, then log into the
+    other account and add your phone number and you will have everything back.
+  id: '1285335857133256715'
+  ref_to: null
+  timestamp: '2024-09-16T20:25:48.726+00:00'
+  type: Default
+- author_avatar_url: assets\28a90c77b5793d80eb62484a43c66748-D8837.png
+  author_id: '568257600228032512'
+  author_name: carb.on
+  author_nickname: "Carolyn B [CA] \u2022 Lead Mod"
+  content: I sent you a DM, we can finish this up there.
+  id: '1285337316185083967'
+  ref_to: null
+  timestamp: '2024-09-16T20:31:36.591+00:00'
+  type: Default

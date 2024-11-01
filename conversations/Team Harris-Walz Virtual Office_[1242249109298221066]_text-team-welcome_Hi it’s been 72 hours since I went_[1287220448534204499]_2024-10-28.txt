@@ -1,0 +1,82 @@
+Guild: Team Harris-Walz Virtual Office (ID: 1242249109298221066)
+Channel: Hi it’s been 72 hours since I went (ID: 1287220448534204499)
+Channel Topic: None
+Exported At: 2024-10-28T23:08:37.4024048+00:00
+
+
+--- Message ---
+Message ID: 1287228342332030987
+Message Type: 21
+Reply to: 1287220448534204499
+Timestamp: 2024-09-22T01:45:52.358+00:00
+Author: Nicole Morris - Text Admin (nmorris237)
+Author Id: 935762347753103382
+Avatar URL: assets\27b1e286b65ae02b3378793b5f098411-A7B20.png
+Content: 
+--------------------
+
+--- Message ---
+Message ID: 1287228344965926952
+Message Type: Default
+Reply to: None
+Timestamp: 2024-09-22T01:45:52.986+00:00
+Author: Nicole Morris - Text Admin (nmorris237)
+Author Id: 935762347753103382
+Avatar URL: assets\27b1e286b65ae02b3378793b5f098411-A7B20.png
+Content: Hi <@1274405087552340064> Thanks! It looks like Roberta sent you a Direct Message (DM) on Discord. Let me know if you don't see it.
+--------------------
+
+--- Message ---
+Message ID: 1287239111849017416
+Message Type: Default
+Reply to: None
+Timestamp: 2024-09-22T02:28:40.011+00:00
+Author: Glenn Seidman NYS (glennes18)
+Author Id: 1274405087552340064
+Avatar URL: assets\3e3006e2efc389ecb02afffb5771753f-255C5.png
+Content: Hi Nicole I don’t see it where would it be?
+--------------------
+
+--- Message ---
+Message ID: 1287245295633043489
+Message Type: Default
+Reply to: None
+Timestamp: 2024-09-22T02:53:14.34+00:00
+Author: Nicole Morris - Text Admin (nmorris237)
+Author Id: 935762347753103382
+Avatar URL: assets\27b1e286b65ae02b3378793b5f098411-A7B20.png
+Content: <@1274405087552340064> No worries! Are you on your computer or a phone/tablet?
+--------------------
+
+--- Message ---
+Message ID: 1287245562290114630
+Message Type: Default
+Reply to: None
+Timestamp: 2024-09-22T02:54:17.916+00:00
+Author: Glenn Seidman NYS (glennes18)
+Author Id: 1274405087552340064
+Avatar URL: assets\3e3006e2efc389ecb02afffb5771753f-255C5.png
+Content: Phone
+--------------------
+
+--- Message ---
+Message ID: 1287247306642559147
+Message Type: Default
+Reply to: None
+Timestamp: 2024-09-22T03:01:13.802+00:00
+Author: Nicole Morris - Text Admin (nmorris237)
+Author Id: 935762347753103382
+Avatar URL: assets\27b1e286b65ae02b3378793b5f098411-A7B20.png
+Content: Ok! On the top left - they’ll be a purple speech bubble icon
+--------------------
+
+--- Message ---
+Message ID: 1287247356470755373
+Message Type: Default
+Reply to: None
+Timestamp: 2024-09-22T03:01:25.682+00:00
+Author: Nicole Morris - Text Admin (nmorris237)
+Author Id: 935762347753103382
+Avatar URL: assets\27b1e286b65ae02b3378793b5f098411-A7B20.png
+Content: Click on that - and then it may be hidden in a small “1” envelope icon
+--------------------

@@ -1,0 +1,115 @@
+Guild: Team Harris-Walz Virtual Office (ID: 1242249109298221066)
+Channel: How to get dialer link for volunteers (ID: 1294094094632615977)
+Channel Topic: None
+Exported At: 2024-10-28T20:51:22.2031904+00:00
+
+
+--- Message ---
+Message ID: 1294094094632615977
+Message Type: Default
+Reply to: None
+Timestamp: 2024-10-11T00:27:55.266+00:00
+Author: Anna K (annalyra)
+Author Id: 247834718563860482
+Avatar URL: assets\1a67e979f460349ff4f1e6987db7b546-A9CA6.png
+Content: I normally get my dialer links from the office’s head peeps for when I run my phone bank shifts, but it seems that they’re… occupied at the moment. Where do I look for dialer links?
+--------------------
+
+--- Message ---
+Message ID: 1294094533927239771
+Message Type: Default
+Reply to: None
+Timestamp: 2024-10-11T00:29:40.002+00:00
+Author: Jen Medeiros [CA] • [Lead Mod] (starkittynmom)
+Author Id: 1276944250491113656
+Avatar URL: assets\a_2aba4b7f19fcab5fe5391fcdb73d735d-D670A.gif
+Content: <@247834718563860482> - do you have the link to the DVC Hub?
+--------------------
+
+--- Message ---
+Message ID: 1294094694405640254
+Message Type: Default
+Reply to: None
+Timestamp: 2024-10-11T00:30:18.263+00:00
+Author: Anna K (annalyra)
+Author Id: 247834718563860482
+Avatar URL: assets\1a67e979f460349ff4f1e6987db7b546-A9CA6.png
+Content: I don’t think so. I did just get a link from the chief organizer here, though
+--------------------
+
+--- Message ---
+Message ID: 1294094858570436692
+Message Type: Default
+Reply to: None
+Timestamp: 2024-10-11T00:30:57.403+00:00
+Author: Anna K (annalyra)
+Author Id: 247834718563860482
+Avatar URL: assets\1a67e979f460349ff4f1e6987db7b546-A9CA6.png
+Content: also a quick secondary question: what’s an AEVL call?
+--------------------
+
+--- Message ---
+Message ID: 1294112608458117231
+Message Type: Reply
+Reply to: 1294094533927239771
+Timestamp: 2024-10-11T01:41:29.306+00:00
+Author: Anna K (annalyra)
+Author Id: 247834718563860482
+Avatar URL: assets\1a67e979f460349ff4f1e6987db7b546-A9CA6.png
+Content: The link we got has expired; any chance I can get a new one?
+--------------------
+
+--- Message ---
+Message ID: 1294113545746780200
+Message Type: Reply
+Reply to: 1294112608458117231
+Timestamp: 2024-10-11T01:45:12.773+00:00
+Author: Holly Mate-Luber [Call Mod] (hollymateluber)
+Author Id: 1267643778043482122
+Avatar URL: assets\d1341d3c05d207da49a6fa548b4c1086-4BE71.png
+Content: Looking into this for you!
+--------------------
+
+--- Message ---
+Message ID: 1294115411922780262
+Message Type: Reply
+Reply to: 1294112608458117231
+Timestamp: 2024-10-11T01:52:37.704+00:00
+Author: Jeannine M • Lead Mod (jean9_28218_79932)
+Author Id: 1266879741785538682
+Avatar URL: assets\54ff5e8dfab835d878a961f9f7b7d161-6C0EE.png
+Content: Hello! Yes! Let me grab the sheet for you. Just a minute, please 🙂
+--------------------
+
+--- Message ---
+Message ID: 1294115692726980720
+Message Type: Default
+Reply to: None
+Timestamp: 2024-10-11T01:53:44.653+00:00
+Author: Jeannine M • Lead Mod (jean9_28218_79932)
+Author Id: 1266879741785538682
+Avatar URL: assets\54ff5e8dfab835d878a961f9f7b7d161-6C0EE.png
+Content: <@247834718563860482> Here you go! Here's the (link taken out while I check on sharing in a public channel). Just click on click to call and that will be the live list
+--------------------
+
+--- Message ---
+Message ID: 1294115824843624528
+Message Type: Default
+Reply to: None
+Timestamp: 2024-10-11T01:54:16.152+00:00
+Author: Anna K (annalyra)
+Author Id: 247834718563860482
+Avatar URL: assets\1a67e979f460349ff4f1e6987db7b546-A9CA6.png
+Content: Thank you! I’ll get them on it right away
+--------------------
+
+--- Message ---
+Message ID: 1294116238934540321
+Message Type: Default
+Reply to: None
+Timestamp: 2024-10-11T01:55:54.879+00:00
+Author: Jeannine M • Lead Mod (jean9_28218_79932)
+Author Id: 1266879741785538682
+Avatar URL: assets\54ff5e8dfab835d878a961f9f7b7d161-6C0EE.png
+Content: Thank you so much, Anna!
+--------------------

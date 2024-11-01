@@ -1,0 +1,16 @@
+Guild: Team Harris-Walz Virtual Office (ID: 1242249109298221066)
+Channel: test16 (ID: 1280898192958947359)
+Channel Topic: None
+Exported At: 2024-10-24T06:43:58.7483441+00:00
+
+
+--- Message ---
+Message ID: 1280898192958947359
+Message Type: Default
+Reply to: None
+Timestamp: 2024-09-04T14:32:07.139+00:00
+Author: Mlep's Test Account (mleptestrole)
+Author Id: 936375939552661537
+Avatar URL: assets\4bf3403a3b7eed99c09363da48aad7dd-D138E.png
+Content: TEST16
+--------------------

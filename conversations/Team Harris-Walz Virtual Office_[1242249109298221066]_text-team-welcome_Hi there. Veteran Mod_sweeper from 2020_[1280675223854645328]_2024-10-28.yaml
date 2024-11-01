@@ -1,0 +1,29 @@
+- author_avatar_url: assets\e9fb3f1fdbd047ccbb506be231f69b6b-7841A.png
+  author_id: '1266879790053593179'
+  author_name: kazia.luce
+  author_nickname: Kazia Luce [CA]
+  content: ''
+  id: '1280675866627674133'
+  ref_to: '1280675223854645328'
+  timestamp: '2024-09-03T23:48:40.411+00:00'
+  type: '21'
+- author_avatar_url: assets\e9fb3f1fdbd047ccbb506be231f69b6b-7841A.png
+  author_id: '1266879790053593179'
+  author_name: kazia.luce
+  author_nickname: Kazia Luce [CA]
+  content: oh, and I should say I'm still in Slack, so I've been texting from there
+    when I can.
+  id: '1280675868313649284'
+  ref_to: null
+  timestamp: '2024-09-03T23:48:40.813+00:00'
+  type: Default
+- author_avatar_url: assets\27b1e286b65ae02b3378793b5f098411-A7B20.png
+  author_id: '935762347753103382'
+  author_name: nmorris237
+  author_nickname: Nicole Morris - Text Admin
+  content: Hi <@1266879790053593179> Great to see you! I'll send you a follow up Direct
+    Message here and on Slack too.
+  id: '1280898057067692032'
+  ref_to: null
+  timestamp: '2024-09-04T14:31:34.74+00:00'
+  type: Default

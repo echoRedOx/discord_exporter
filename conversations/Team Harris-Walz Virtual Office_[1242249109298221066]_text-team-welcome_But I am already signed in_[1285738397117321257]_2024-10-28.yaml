@@ -1,0 +1,38 @@
+- author_avatar_url: assets\27b1e286b65ae02b3378793b5f098411-A7B20.png
+  author_id: '935762347753103382'
+  author_name: nmorris237
+  author_nickname: Nicole Morris - Text Admin
+  content: ''
+  id: '1285739633124053104'
+  ref_to: '1285738397117321257'
+  timestamp: '2024-09-17T23:10:16.424+00:00'
+  type: '21'
+- author_avatar_url: assets\27b1e286b65ae02b3378793b5f098411-A7B20.png
+  author_id: '935762347753103382'
+  author_name: nmorris237
+  author_nickname: Nicole Morris - Text Admin
+  content: Hi <@615157782970105857> Any luck here?
+  id: '1285739636978745415'
+  ref_to: null
+  timestamp: '2024-09-17T23:10:17.343+00:00'
+  type: Default
+- author_avatar_url: assets\a_b674378d80ec57f53126361156ddd7e7-81C97.gif
+  author_id: '615157782970105857'
+  author_name: teniq
+  author_nickname: Braeden Marr [VA]
+  content: 'I just got in! Zoom was being tricky.
+
+    Im just not used to it! Thanks for checking in though!'
+  id: '1285739750103187510'
+  ref_to: '1285739636978745415'
+  timestamp: '2024-09-17T23:10:44.314+00:00'
+  type: Reply
+- author_avatar_url: assets\27b1e286b65ae02b3378793b5f098411-A7B20.png
+  author_id: '935762347753103382'
+  author_name: nmorris237
+  author_nickname: Nicole Morris - Text Admin
+  content: Got it - ah good, glad to hear it worked out!
+  id: '1285743053596004452'
+  ref_to: null
+  timestamp: '2024-09-17T23:23:51.928+00:00'
+  type: Default

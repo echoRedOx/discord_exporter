@@ -1,0 +1,30 @@
+- author_avatar_url: assets\27b1e286b65ae02b3378793b5f098411-A7B20.png
+  author_id: '935762347753103382'
+  author_name: nmorris237
+  author_nickname: Nicole Morris - Text Admin
+  content: ''
+  id: '1283943554145849344'
+  ref_to: '1283935232353108040'
+  timestamp: '2024-09-13T00:13:17.826+00:00'
+  type: '21'
+- author_avatar_url: assets\27b1e286b65ae02b3378793b5f098411-A7B20.png
+  author_id: '935762347753103382'
+  author_name: nmorris237
+  author_nickname: Nicole Morris - Text Admin
+  content: Thanks Will! Please refer to the Direct Message you received from Roberta
+    with more information on how to get started.
+  id: '1283943556020699139'
+  ref_to: null
+  timestamp: '2024-09-13T00:13:18.273+00:00'
+  type: Default
+- author_avatar_url: assets\3a5de4f3a9012287bd4cb4a6b1df6c40-3E138.png
+  author_id: '958039986672910376'
+  author_name: diekatzefliegt
+  author_nickname: will
+  content: "Yes, everything has been completed \U0001F642 im gonna review all the\
+    \ docs in these channels before i get started this weekend. Im so nervous but\
+    \ i think it should go well"
+  id: '1283951454452711557'
+  ref_to: null
+  timestamp: '2024-09-13T00:44:41.406+00:00'
+  type: Default

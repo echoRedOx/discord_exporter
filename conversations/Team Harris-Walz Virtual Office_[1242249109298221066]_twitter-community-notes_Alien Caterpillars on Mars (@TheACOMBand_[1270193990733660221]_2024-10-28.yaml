@@ -1,0 +1,30 @@
+- author_avatar_url: assets\3-FB033.png
+  author_id: '456226577798135808'
+  author_name: Deleted User
+  author_nickname: Deleted User
+  content: ''
+  id: '1270496403474481316'
+  ref_to: '1270193990733660221'
+  timestamp: '2024-08-06T21:39:07.27+00:00'
+  type: '21'
+- author_avatar_url: assets\3-FB033.png
+  author_id: '456226577798135808'
+  author_name: Deleted User
+  author_nickname: Deleted User
+  content: 'I would like to add this information: "Covid 19 left most people at home
+    and so with the extreme reduction in using cars a few things happened: Gas prices
+    fell and the suddenly the air got that much cleaner!", not becasue Donald did
+    anything helpful.'
+  id: '1270496405131366410'
+  ref_to: null
+  timestamp: '2024-08-06T21:39:07.665+00:00'
+  type: Default
+- author_avatar_url: assets\42d8c7997aeac568abebd5e957bd422c-E8A94.png
+  author_id: '1255805454693564478'
+  author_name: theacomband
+  author_nickname: John Green
+  content: https://tenor.com/view/obi-wan-kenobi-of-course-gif-22884278
+  id: '1270504945988276246'
+  ref_to: '1270496405131366410'
+  timestamp: '2024-08-06T22:13:03.964+00:00'
+  type: Reply

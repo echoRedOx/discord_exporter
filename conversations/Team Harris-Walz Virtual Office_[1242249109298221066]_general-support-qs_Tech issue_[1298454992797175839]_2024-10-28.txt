@@ -1,0 +1,38 @@
+Guild: Team Harris-Walz Virtual Office (ID: 1242249109298221066)
+Channel: Tech issue (ID: 1298454992797175839)
+Channel Topic: None
+Exported At: 2024-10-28T19:50:39.737303+00:00
+
+
+--- Message ---
+Message ID: 1298454992797175839
+Message Type: Default
+Reply to: None
+Timestamp: 2024-10-23T01:16:34.41+00:00
+Author: Isabelle (isabelle02118)
+Author Id: 1298447484665856012
+Avatar URL: assets\f7f2e9361e8a54ce6e72580ac7b967af-0EE13.png
+Content: I’m trying to start making calls but can’t get past the reCAPTCHA step - it just keeps spinning. Any tips? I don’t have another device I can use.
+--------------------
+
+--- Message ---
+Message ID: 1298456063783338006
+Message Type: Default
+Reply to: None
+Timestamp: 2024-10-23T01:20:49.753+00:00
+Author: Jen Medeiros [CA] • [Lead Mod] (starkittynmom)
+Author Id: 1276944250491113656
+Avatar URL: assets\a_2aba4b7f19fcab5fe5391fcdb73d735d-D670A.gif
+Content: <@1298447484665856012> try posting in <#1242256751445934262> - they were troubleshooting a little earlier, but i think they got it sorted
+--------------------
+
+--- Message ---
+Message ID: 1298481295663566908
+Message Type: Default
+Reply to: None
+Timestamp: 2024-10-23T03:01:05.502+00:00
+Author: Carolyn B [CA] • Lead Mod (carb.on)
+Author Id: 568257600228032512
+Avatar URL: assets\28a90c77b5793d80eb62484a43c66748-D8837.png
+Content: Hi <@1298447484665856012> try clearing your browser history, or try another browser if you have another browser.
+--------------------

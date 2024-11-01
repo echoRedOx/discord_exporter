@@ -1,0 +1,93 @@
+Guild: Team Harris-Walz Virtual Office (ID: 1242249109298221066)
+Channel: Hi I was told to log in to TTW(Spoke) to (ID: 1278871574107394160)
+Channel Topic: None
+Exported At: 2024-10-28T23:49:35.1259992+00:00
+
+
+--- Message ---
+Message ID: 1278876818778361866
+Message Type: 21
+Reply to: 1278871574107394160
+Timestamp: 2024-08-30T00:39:53.979+00:00
+Author: Jack Joannides KC text admin (jjoannid)
+Author Id: 477560366432256000
+Avatar URL: assets\791c521e62160be1f3df04992f6e5470-36A38.png
+Content: 
+--------------------
+
+--- Message ---
+Message ID: 1278876820271403029
+Message Type: Default
+Reply to: None
+Timestamp: 2024-08-30T00:39:54.335+00:00
+Author: Jack Joannides KC text admin (jjoannid)
+Author Id: 477560366432256000
+Avatar URL: assets\791c521e62160be1f3df04992f6e5470-36A38.png
+Content: You'll get added in 24-48 hours.
+--------------------
+
+--- Message ---
+Message ID: 1278883869772222516
+Message Type: Default
+Reply to: None
+Timestamp: 2024-08-30T01:07:55.067+00:00
+Author: Daniel Heller (New York) (djh103161)
+Author Id: 1266903375530688585
+Avatar URL: assets\de895af52e32aae97cd03bee672c278e-762C7.png
+Content: Thanks. Just to clarify, after I fill out the form and take the quiz, and then get contacted by a mod and receive the TTW link, then it's another 24-48 hours?
+--------------------
+
+--- Message ---
+Message ID: 1278884059128270932
+Message Type: Default
+Reply to: None
+Timestamp: 2024-08-30T01:08:40.213+00:00
+Author: Daniel Heller (New York) (djh103161)
+Author Id: 1266903375530688585
+Avatar URL: assets\de895af52e32aae97cd03bee672c278e-762C7.png
+Content: I guess I thought once i received the TTW link, that I'd been added.
+--------------------
+
+--- Message ---
+Message ID: 1278888362626912347
+Message Type: Default
+Reply to: None
+Timestamp: 2024-08-30T01:25:46.247+00:00
+Author: Jack Joannides KC text admin (jjoannid)
+Author Id: 477560366432256000
+Avatar URL: assets\791c521e62160be1f3df04992f6e5470-36A38.png
+Content: So we're humans. We don't have an way to add an scale to win link. You would need to tell us when you've done that.
+--------------------
+
+--- Message ---
+Message ID: 1278888454679298141
+Message Type: Default
+Reply to: None
+Timestamp: 2024-08-30T01:26:08.194+00:00
+Author: Jack Joannides KC text admin (jjoannid)
+Author Id: 477560366432256000
+Avatar URL: assets\791c521e62160be1f3df04992f6e5470-36A38.png
+Content: It should take 24-48 hours for us to send you an direct message though since we have so many.
+--------------------
+
+--- Message ---
+Message ID: 1278895337724973117
+Message Type: Default
+Reply to: None
+Timestamp: 2024-08-30T01:53:29.24+00:00
+Author: Daniel Heller (New York) (djh103161)
+Author Id: 1266903375530688585
+Avatar URL: assets\de895af52e32aae97cd03bee672c278e-762C7.png
+Content: sorry I was saying TTW, it's STW. Thanks
+--------------------
+
+--- Message ---
+Message ID: 1278895711454236683
+Message Type: Default
+Reply to: None
+Timestamp: 2024-08-30T01:54:58.344+00:00
+Author: Jack Joannides KC text admin (jjoannid)
+Author Id: 477560366432256000
+Avatar URL: assets\791c521e62160be1f3df04992f6e5470-36A38.png
+Content: It's okay.
+--------------------

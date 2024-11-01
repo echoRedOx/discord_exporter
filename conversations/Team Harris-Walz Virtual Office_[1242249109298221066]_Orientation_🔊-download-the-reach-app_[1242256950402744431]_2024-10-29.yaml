@@ -1,0 +1,48 @@
+- author_avatar_url: assets\007b625c296385e4ed52038a42c7256d-7649B.png
+  author_id: '1242806362195365968'
+  author_name: DemCord
+  author_nickname: DemCord
+  content: Download the Reach App!
+  id: '1266889188851318794'
+  ref_to: null
+  timestamp: '2024-07-27T22:45:20.285+00:00'
+  type: Default
+- author_avatar_url: assets\e05dee8ff584e18115f663efe7b728ff-EAD58.png
+  author_id: '1270901650294571192'
+  author_name: andiferguson_87476
+  author_nickname: Andrea (Andi) Ferguson (NC)
+  content: Hi there! Is there a specific Campaign Key to use, or just choose one (or
+    several)?
+  id: '1271974021134549064'
+  ref_to: null
+  timestamp: '2024-08-10T23:30:38.773+00:00'
+  type: Default
+- author_avatar_url: assets\9a1cf4df2df35afc17dbc2d78b623d4a-06B66.png
+  author_id: '690265089013842114'
+  author_name: snowbunslc
+  author_nickname: "Mimi P. [UT] \u2022 Lead Moo \U0001F404"
+  content: "Hey there! Or campaign key is \nZUMT5Q"
+  id: '1271975802564509798'
+  ref_to: '1271974021134549064'
+  timestamp: '2024-08-10T23:37:43.499+00:00'
+  type: Reply
+- author_avatar_url: assets\1-B2132.png
+  author_id: '642435951930638347'
+  author_name: rnmorah
+  author_nickname: RNmorah
+  content: 'Question: if I download the Reach app, does it get access to my contacts?
+    If I''m not going to allow access, is it still worth it to download the app?'
+  id: '1274153421511065689'
+  ref_to: null
+  timestamp: '2024-08-16T23:50:48.314+00:00'
+  type: Default
+- author_avatar_url: assets\28a90c77b5793d80eb62484a43c66748-D8837.png
+  author_id: '568257600228032512'
+  author_name: carb.on
+  author_nickname: "Carolyn B [CA] \u2022 Lead Mod"
+  content: Reach accesses you social media accounts to share content in those platforms.
+    You can use Reach without it accessing your contacts.
+  id: '1274155055125233684'
+  ref_to: '1274153421511065689'
+  timestamp: '2024-08-16T23:57:17.798+00:00'
+  type: Reply

@@ -1,0 +1,38 @@
+Guild: Team Harris-Walz Virtual Office (ID: 1242249109298221066)
+Channel: Online Engagement Map (ID: 1266252999743766569)
+Channel Topic: None
+Exported At: 2024-10-24T13:16:47.9503592+00:00
+
+
+--- Message ---
+Message ID: 1266377040081190983
+Message Type: 21
+Reply to: 1266252999743766569
+Timestamp: 2024-07-26T12:50:14.503+00:00
+Author: Christian Bosse (ch.bosse)
+Author Id: 1256039311367999658
+Avatar URL: assets\e940fcd0527f7edd98cdee8d31c08cc0-9A6CA.png
+Content: 
+--------------------
+
+--- Message ---
+Message ID: 1266377042480467988
+Message Type: Default
+Reply to: None
+Timestamp: 2024-07-26T12:50:15.075+00:00
+Author: Christian Bosse (ch.bosse)
+Author Id: 1256039311367999658
+Avatar URL: assets\e940fcd0527f7edd98cdee8d31c08cc0-9A6CA.png
+Content: Great <@230774788283432970>  This is your guide for the work that just started. In Part 2 you can learn how to have more in-depth discussions with each of the groups on your map.
+--------------------
+
+--- Message ---
+Message ID: 1266377066052325438
+Message Type: Default
+Reply to: None
+Timestamp: 2024-07-26T12:50:20.695+00:00
+Author: Christian Bosse (ch.bosse)
+Author Id: 1256039311367999658
+Avatar URL: assets\e940fcd0527f7edd98cdee8d31c08cc0-9A6CA.png
+Content: https://events.democrats.org/event/647793/
+--------------------

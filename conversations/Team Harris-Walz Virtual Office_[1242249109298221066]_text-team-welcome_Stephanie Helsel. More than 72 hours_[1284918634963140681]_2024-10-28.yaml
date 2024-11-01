@@ -1,0 +1,76 @@
+- author_avatar_url: assets\27b1e286b65ae02b3378793b5f098411-A7B20.png
+  author_id: '935762347753103382'
+  author_name: nmorris237
+  author_nickname: Nicole Morris - Text Admin
+  content: ''
+  id: '1284920040012906527'
+  ref_to: '1284918634963140681'
+  timestamp: '2024-09-15T16:53:30.199+00:00'
+  type: '21'
+- author_avatar_url: assets\27b1e286b65ae02b3378793b5f098411-A7B20.png
+  author_id: '935762347753103382'
+  author_name: nmorris237
+  author_nickname: Nicole Morris - Text Admin
+  content: Hi <@1283914546846634095> Thanks! It looks like Andrew sent you a Direct
+    Message on Discord yesterday -- let us know if you don't see it.
+  id: '1284920041573191723'
+  ref_to: null
+  timestamp: '2024-09-15T16:53:30.571+00:00'
+  type: Default
+- author_avatar_url: assets\8569adcbd36c70a7578c017bf5604ea5-05CA3.png
+  author_id: '1283914546846634095'
+  author_name: slhelsel
+  author_nickname: Stephanie Helsel (CO)
+  content: Where do I find that DM?
+  id: '1284920829418930257'
+  ref_to: null
+  timestamp: '2024-09-15T16:56:38.408+00:00'
+  type: Default
+- author_avatar_url: assets\27b1e286b65ae02b3378793b5f098411-A7B20.png
+  author_id: '935762347753103382'
+  author_name: nmorris237
+  author_nickname: Nicole Morris - Text Admin
+  content: No problem! <@1283914546846634095> Are you on a computer or tablet/phone?
+  id: '1284921794838532258'
+  ref_to: null
+  timestamp: '2024-09-15T17:00:28.582+00:00'
+  type: Default
+- author_avatar_url: assets\cadc3f72c8e83eb61e92b4af972b155f-9A47D.png
+  author_id: '1276721899216441344'
+  author_name: saucefive
+  author_nickname: Saucefive
+  content: I signed up to text, but keep getting texts about being on the phone bank.
+    I m also getting some texts addressing me as someone else.
+  id: '1284923228137197628'
+  ref_to: null
+  timestamp: '2024-09-15T17:06:10.307+00:00'
+  type: Default
+- author_avatar_url: assets\27b1e286b65ae02b3378793b5f098411-A7B20.png
+  author_id: '935762347753103382'
+  author_name: nmorris237
+  author_nickname: Nicole Morris - Text Admin
+  content: Hi <@1276721899216441344> Thanks! Did you sign up for a text training at
+    this link? https://events.democrats.org/event/672393/
+  id: '1284923453295824927'
+  ref_to: null
+  timestamp: '2024-09-15T17:07:03.989+00:00'
+  type: Default
+- author_avatar_url: assets\8569adcbd36c70a7578c017bf5604ea5-05CA3.png
+  author_id: '1283914546846634095'
+  author_name: slhelsel
+  author_nickname: Stephanie Helsel (CO)
+  content: Thank you, I found it and completed the training and signed up for Scale
+    to Win
+  id: '1284925269458817074'
+  ref_to: null
+  timestamp: '2024-09-15T17:14:16.996+00:00'
+  type: Default
+- author_avatar_url: assets\27b1e286b65ae02b3378793b5f098411-A7B20.png
+  author_id: '935762347753103382'
+  author_name: nmorris237
+  author_nickname: Nicole Morris - Text Admin
+  content: Hi - wonderful, thanks! I'll follow up with you now Stephanie.
+  id: '1284925367035105321'
+  ref_to: null
+  timestamp: '2024-09-15T17:14:40.26+00:00'
+  type: Default

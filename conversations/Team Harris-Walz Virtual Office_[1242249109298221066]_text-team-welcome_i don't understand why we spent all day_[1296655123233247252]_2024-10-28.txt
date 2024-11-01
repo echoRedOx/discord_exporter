@@ -1,0 +1,49 @@
+Guild: Team Harris-Walz Virtual Office (ID: 1242249109298221066)
+Channel: i don't understand why we spent all day (ID: 1296655123233247252)
+Channel Topic: None
+Exported At: 2024-10-28T22:33:40.6049488+00:00
+
+
+--- Message ---
+Message ID: 1296662783940890655
+Message Type: 21
+Reply to: 1296655123233247252
+Timestamp: 2024-10-18T02:34:58.521+00:00
+Author: Jack Joannides KC text admin (jjoannid)
+Author Id: 477560366432256000
+Avatar URL: assets\791c521e62160be1f3df04992f6e5470-36A38.png
+Content: 
+--------------------
+
+--- Message ---
+Message ID: 1296662785991770252
+Message Type: Default
+Reply to: None
+Timestamp: 2024-10-18T02:34:59.01+00:00
+Author: Jack Joannides KC text admin (jjoannid)
+Author Id: 477560366432256000
+Avatar URL: assets\791c521e62160be1f3df04992f6e5470-36A38.png
+Content: Can you please post this in <#1259238714157305936>
+--------------------
+
+--- Message ---
+Message ID: 1296662840693755985
+Message Type: Default
+Reply to: None
+Timestamp: 2024-10-18T02:35:12.052+00:00
+Author: Jack Joannides KC text admin (jjoannid)
+Author Id: 477560366432256000
+Avatar URL: assets\791c521e62160be1f3df04992f6e5470-36A38.png
+Content: This is the wrong channel to post this.
+--------------------
+
+--- Message ---
+Message ID: 1296663188590432350
+Message Type: Default
+Reply to: None
+Timestamp: 2024-10-18T02:36:34.997+00:00
+Author: Angela Doll (flsnowflake_43622)
+Author Id: 1294006420320030812
+Avatar URL: assets\fdb258f2e60ed0d05e403bfbe7ad3841-7BA95.png
+Content: https://tenor.com/view/oooppsss-gif-11079235799277952190
+--------------------

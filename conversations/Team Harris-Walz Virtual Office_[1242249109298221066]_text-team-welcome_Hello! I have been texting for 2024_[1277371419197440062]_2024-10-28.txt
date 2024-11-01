@@ -1,0 +1,27 @@
+Guild: Team Harris-Walz Virtual Office (ID: 1242249109298221066)
+Channel: Hello! I have been texting for 2024 (ID: 1277371419197440062)
+Channel Topic: None
+Exported At: 2024-10-29T00:01:47.7813825+00:00
+
+
+--- Message ---
+Message ID: 1277371983201566730
+Message Type: 21
+Reply to: 1277371419197440062
+Timestamp: 2024-08-25T21:00:13.219+00:00
+Author: Nicole Morris - Text Admin (nmorris237)
+Author Id: 935762347753103382
+Avatar URL: assets\27b1e286b65ae02b3378793b5f098411-A7B20.png
+Content: 
+--------------------
+
+--- Message ---
+Message ID: 1277371984619241618
+Message Type: Default
+Reply to: None
+Timestamp: 2024-08-25T21:00:13.557+00:00
+Author: Nicole Morris - Text Admin (nmorris237)
+Author Id: 935762347753103382
+Avatar URL: assets\27b1e286b65ae02b3378793b5f098411-A7B20.png
+Content: Hi <@1259973683724816556>  - and welcome! We're still working on how to add Slack texters to our Discord texting channels. We should have more information by tomorrow (for now, texting opportunities are the same in Slack and Discord, so you'll see the campaigns avaialble in Slack still while we move over)
+--------------------

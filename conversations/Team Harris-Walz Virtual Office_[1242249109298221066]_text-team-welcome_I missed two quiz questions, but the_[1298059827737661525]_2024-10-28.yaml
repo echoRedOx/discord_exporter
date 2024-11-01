@@ -1,0 +1,28 @@
+- author_avatar_url: assets\27b1e286b65ae02b3378793b5f098411-A7B20.png
+  author_id: '935762347753103382'
+  author_name: nmorris237
+  author_nickname: Nicole Morris - Text Admin
+  content: ''
+  id: '1298081981682159736'
+  ref_to: '1298059827737661525'
+  timestamp: '2024-10-22T00:34:21.63+00:00'
+  type: '21'
+- author_avatar_url: assets\27b1e286b65ae02b3378793b5f098411-A7B20.png
+  author_id: '935762347753103382'
+  author_name: nmorris237
+  author_nickname: Nicole Morris - Text Admin
+  content: No worries - yes, all good! We can clarify the correct answers with you
+    when we send the follow up DM
+  id: '1298081984513314857'
+  ref_to: null
+  timestamp: '2024-10-22T00:34:22.305+00:00'
+  type: Default
+- author_avatar_url: assets\1-B2132.png
+  author_id: '1298044268988076054'
+  author_name: jrodaro
+  author_nickname: Jennifer Cordaro (Maryland)
+  content: Phew!
+  id: '1298423932222832814'
+  ref_to: '1298081984513314857'
+  timestamp: '2024-10-22T23:13:08.992+00:00'
+  type: Reply

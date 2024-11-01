@@ -1,0 +1,38 @@
+Guild: Team Harris-Walz Virtual Office (ID: 1242249109298221066)
+Channel: Tech support (ID: 1285958024724480041)
+Channel Topic: None
+Exported At: 2024-10-28T20:01:55.8620905+00:00
+
+
+--- Message ---
+Message ID: 1285958024724480041
+Message Type: Default
+Reply to: None
+Timestamp: 2024-09-18T13:38:05.039+00:00
+Author: Laura.  She/her (laura_3636)
+Author Id: 812408365741244447
+Avatar URL: assets\0-EB806.png
+Content: Having in-person phone bank tonight. Where on Discord would I seek tech help during the event for issues like audio, etc?
+--------------------
+
+--- Message ---
+Message ID: 1285961874394972221
+Message Type: Default
+Reply to: None
+Timestamp: 2024-09-18T13:53:22.872+00:00
+Author: Carolyn B [CA] • Lead Mod (carb.on)
+Author Id: 568257600228032512
+Avatar URL: assets\28a90c77b5793d80eb62484a43c66748-D8837.png
+Content: Hi <@812408365741244447> I'm thrilled you are hosting in-person phone banking. I suggest you ask in https://discord.com/channels/1242249109298221066/1245826306780823563 for how to get tech support for your event.
+--------------------
+
+--- Message ---
+Message ID: 1285963897806786651
+Message Type: Default
+Reply to: None
+Timestamp: 2024-09-18T14:01:25.291+00:00
+Author: Laura.  She/her (laura_3636)
+Author Id: 812408365741244447
+Avatar URL: assets\0-EB806.png
+Content: thanks
+--------------------

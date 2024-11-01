@@ -1,0 +1,82 @@
+Guild: Team Harris-Walz Virtual Office (ID: 1242249109298221066)
+Channel: OK, where is this quiz everyone is (ID: 1279137343902580940)
+Channel Topic: None
+Exported At: 2024-10-28T23:48:28.3364694+00:00
+
+
+--- Message ---
+Message ID: 1279140066920366110
+Message Type: 21
+Reply to: 1279137343902580940
+Timestamp: 2024-08-30T18:05:57.227+00:00
+Author: Cindy C-KC Text/VoPro Admin (cindycarr0698)
+Author Id: 1258404589799997441
+Avatar URL: assets\135d9de83131741ed576e29aba6cf419-956AF.png
+Content: 
+--------------------
+
+--- Message ---
+Message ID: 1279140069789143213
+Message Type: Default
+Reply to: None
+Timestamp: 2024-08-30T18:05:57.911+00:00
+Author: Cindy C-KC Text/VoPro Admin (cindycarr0698)
+Author Id: 1258404589799997441
+Avatar URL: assets\135d9de83131741ed576e29aba6cf419-956AF.png
+Content: <@1274514789430988925> Have you attended a text team training?
+--------------------
+
+--- Message ---
+Message ID: 1279141745233363004
+Message Type: Reply
+Reply to: 1279140069789143213
+Timestamp: 2024-08-30T18:12:37.368+00:00
+Author: JenBen [NM] (jenben2024)
+Author Id: 1274514789430988925
+Avatar URL: assets\9901de078ae40adf6e2fdff578801bbc-9E918.png
+Content: Ah, I've done data training. I guess I don't have to do the quiz.  🙂
+--------------------
+
+--- Message ---
+Message ID: 1279142418666487828
+Message Type: Default
+Reply to: None
+Timestamp: 2024-08-30T18:15:17.927+00:00
+Author: Cindy C-KC Text/VoPro Admin (cindycarr0698)
+Author Id: 1258404589799997441
+Avatar URL: assets\135d9de83131741ed576e29aba6cf419-956AF.png
+Content: Before texting you will need to attend a training session for the text team. https://events.democrats.org/event/672393/
+--------------------
+
+--- Message ---
+Message ID: 1279143009501446185
+Message Type: Reply
+Reply to: 1279142418666487828
+Timestamp: 2024-08-30T18:17:38.793+00:00
+Author: JenBen [NM] (jenben2024)
+Author Id: 1274514789430988925
+Avatar URL: assets\9901de078ae40adf6e2fdff578801bbc-9E918.png
+Content: Thanks for the clarification.
+--------------------
+
+--- Message ---
+Message ID: 1279143124937216113
+Message Type: Default
+Reply to: None
+Timestamp: 2024-08-30T18:18:06.315+00:00
+Author: Cindy C-KC Text/VoPro Admin (cindycarr0698)
+Author Id: 1258404589799997441
+Avatar URL: assets\135d9de83131741ed576e29aba6cf419-956AF.png
+Content: You're welcome! Hope to see you on one of the training sessions!
+--------------------
+
+--- Message ---
+Message ID: 1279144123512786976
+Message Type: Reply
+Reply to: 1279143124937216113
+Timestamp: 2024-08-30T18:22:04.394+00:00
+Author: JenBen [NM] (jenben2024)
+Author Id: 1274514789430988925
+Avatar URL: assets\9901de078ae40adf6e2fdff578801bbc-9E918.png
+Content: As soon as I master being a Data Captain...in other words, don't hold your breath 😆  But I appreciate the invite!
+--------------------

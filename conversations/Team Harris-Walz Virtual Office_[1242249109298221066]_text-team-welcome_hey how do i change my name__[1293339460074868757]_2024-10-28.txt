@@ -1,0 +1,27 @@
+Guild: Team Harris-Walz Virtual Office (ID: 1242249109298221066)
+Channel: hey how do i change my name? (ID: 1293339460074868757)
+Channel Topic: None
+Exported At: 2024-10-28T22:49:03.8535774+00:00
+
+
+--- Message ---
+Message ID: 1293343600683384922
+Message Type: 21
+Reply to: 1293339460074868757
+Timestamp: 2024-10-08T22:45:43.565+00:00
+Author: Roberta Bavin CA KC Greeter/Mod (roberta_24935)
+Author Id: 1269872908759597148
+Avatar URL: assets\df6d19d97b04a49ffcafbe7be14c7839-D9CE4.png
+Content: 
+--------------------
+
+--- Message ---
+Message ID: 1293343603212423199
+Message Type: Default
+Reply to: None
+Timestamp: 2024-10-08T22:45:44.168+00:00
+Author: Roberta Bavin CA KC Greeter/Mod (roberta_24935)
+Author Id: 1269872908759597148
+Avatar URL: assets\df6d19d97b04a49ffcafbe7be14c7839-D9CE4.png
+Content: Hi Hawkette! Thanks for reaching out. Please look for a DM from me in a few minutes. <:thankyou:1252806147396735057>
+--------------------

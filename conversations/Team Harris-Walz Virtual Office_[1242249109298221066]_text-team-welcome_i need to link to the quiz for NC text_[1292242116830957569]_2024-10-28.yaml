@@ -1,0 +1,63 @@
+- author_avatar_url: assets\27b1e286b65ae02b3378793b5f098411-A7B20.png
+  author_id: '935762347753103382'
+  author_name: nmorris237
+  author_nickname: Nicole Morris - Text Admin
+  content: ''
+  id: '1292242478283624469'
+  ref_to: '1292242116830957569'
+  timestamp: '2024-10-05T21:50:15.527+00:00'
+  type: '21'
+- author_avatar_url: assets\27b1e286b65ae02b3378793b5f098411-A7B20.png
+  author_id: '935762347753103382'
+  author_name: nmorris237
+  author_nickname: Nicole Morris - Text Admin
+  content: Hi <@1271924772753641497> Thanks! This is not the workspace for the NC
+    team -- not sure if they are on Discord or Slack! But you should have received
+    that info in their training.
+  id: '1292242479919403029'
+  ref_to: null
+  timestamp: '2024-10-05T21:50:15.917+00:00'
+  type: Default
+- author_avatar_url: assets\2-ADBB4.png
+  author_id: '1271924772753641497'
+  author_name: michelejuliano_72178
+  author_nickname: Michele Juliano NC
+  content: hi nicole  thanks so much for responding. it is in discord ( they used
+    to be slack in 2020) i took the virtual onboarding training and never received
+    the link to there scale to win channel and discord channel in order to take the
+    quiz. i signed up for a zoom thing on tuesday so i will just sit through that
+    to find out why
+  id: '1292243342637138043'
+  ref_to: null
+  timestamp: '2024-10-05T21:53:41.605+00:00'
+  type: Default
+- author_avatar_url: assets\27b1e286b65ae02b3378793b5f098411-A7B20.png
+  author_id: '935762347753103382'
+  author_name: nmorris237
+  author_nickname: Nicole Morris - Text Admin
+  content: Got it - ah ok! Sorry about that! You could also try replying to your confirmation
+    email to see if they can send you the info to join their Discord.
+  id: '1292252757587394647'
+  ref_to: null
+  timestamp: '2024-10-05T22:31:06.304+00:00'
+  type: Default
+- author_avatar_url: assets\27b1e286b65ae02b3378793b5f098411-A7B20.png
+  author_id: '935762347753103382'
+  author_name: nmorris237
+  author_nickname: Nicole Morris - Text Admin
+  content: "Hi <@1271924772753641497> I saw your new message \u2014 we don\u2019t\
+    \ know the correct discord link for the NC team"
+  id: '1292484137911058505'
+  ref_to: null
+  timestamp: '2024-10-06T13:50:31.672+00:00'
+  type: Default
+- author_avatar_url: assets\27b1e286b65ae02b3378793b5f098411-A7B20.png
+  author_id: '935762347753103382'
+  author_name: nmorris237
+  author_nickname: Nicole Morris - Text Admin
+  content: I would suggest replying to the confirmation email you got to ask their
+    team
+  id: '1292484226049900665'
+  ref_to: null
+  timestamp: '2024-10-06T13:50:52.686+00:00'
+  type: Default

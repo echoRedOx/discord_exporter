@@ -1,0 +1,55 @@
+- author_avatar_url: assets\791c521e62160be1f3df04992f6e5470-36A38.png
+  author_id: '477560366432256000'
+  author_name: jjoannid
+  author_nickname: Jack Joannides KC text admin
+  content: ''
+  id: '1283859949860028528'
+  ref_to: '1283856617615659019'
+  timestamp: '2024-09-12T18:41:05.011+00:00'
+  type: '21'
+- author_avatar_url: assets\791c521e62160be1f3df04992f6e5470-36A38.png
+  author_id: '477560366432256000'
+  author_name: jjoannid
+  author_nickname: Jack Joannides KC text admin
+  content: We don't use reach app. Ask in <#1267941954243526756> or <#1242249109298221069>
+  id: '1283859953328721930'
+  ref_to: null
+  timestamp: '2024-09-12T18:41:05.838+00:00'
+  type: Default
+- author_avatar_url: assets\f59f6af4968ca7496739aa1490d6cc09-C3ADE.png
+  author_id: '1149690003656552570'
+  author_name: outrageous_gull_47205
+  author_nickname: Ashley Adams [CO]
+  content: <#1242249109298221069> directed me here
+  id: '1283862639503478867'
+  ref_to: null
+  timestamp: '2024-09-12T18:51:46.272+00:00'
+  type: Default
+- author_avatar_url: assets\f59f6af4968ca7496739aa1490d6cc09-C3ADE.png
+  author_id: '1149690003656552570'
+  author_name: outrageous_gull_47205
+  author_nickname: Ashley Adams [CO]
+  content: <@447570500030562314>
+  id: '1283862763101356083'
+  ref_to: null
+  timestamp: '2024-09-12T18:52:15.74+00:00'
+  type: Default
+- author_avatar_url: assets\4ab56c60f334133787a2e11eccf36d79-7F4A0.png
+  author_id: '447570500030562314'
+  author_name: ktmg
+  author_nickname: "KTMG  \u2022 Community Mod"
+  content: This is the texting team, you should follow their guidance
+  id: '1283864104846626917'
+  ref_to: null
+  timestamp: '2024-09-12T18:57:35.637+00:00'
+  type: Default
+- author_avatar_url: assets\791c521e62160be1f3df04992f6e5470-36A38.png
+  author_id: '477560366432256000'
+  author_name: jjoannid
+  author_nickname: Jack Joannides KC text admin
+  content: 'If you want a training please sign up here: https://events.democrats.org/event/672393/
+    I don''t have language on that since that''s not our team.'
+  id: '1283864635346386954'
+  ref_to: null
+  timestamp: '2024-09-12T18:59:42.118+00:00'
+  type: Default

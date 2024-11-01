@@ -1,0 +1,148 @@
+Guild: Team Harris-Walz Virtual Office (ID: 1242249109298221066)
+Channel: phone verification (ID: 1283541466714734664)
+Channel Topic: None
+Exported At: 2024-10-24T06:32:29.7953763+00:00
+
+
+--- Message ---
+Message ID: 1283541466714734664
+Message Type: Default
+Reply to: None
+Timestamp: 2024-09-11T21:35:32.712+00:00
+Author: RaineDownOnMe (rainedownonme)
+Author Id: 589189350848200706
+Avatar URL: assets\209490c3dc67409ee58f871daa8030d5-08041.png
+Content: It says that my phone number is already attached to a discord. I do not and have never had another discord with this number or any number. Therefore I can not follow the directions that guide me to log into my old account and remove the phone number. I submitted a ticket to Discord but don't know what else to do and do not want to be unable to continue in this server
+--------------------
+
+--- Message ---
+Message ID: 1284129410462650460
+Message Type: Default
+Reply to: None
+Timestamp: 2024-09-13T12:31:49.425+00:00
+Author: High_RPM (high_rpm)
+Author Id: 1002675560994050059
+Avatar URL: assets\1c10ae931e34d24191852f802b249215-4D0F5.png
+Content: I have the same problem and have done the log out and in it still says I need to remove my old account which I never had. This is a huge problem with this number verification process not just here but on other platforms.
+--------------------
+
+--- Message ---
+Message ID: 1284887467073474672
+Message Type: Default
+Reply to: None
+Timestamp: 2024-09-15T14:44:04.205+00:00
+Author: RaineDownOnMe (rainedownonme)
+Author Id: 589189350848200706
+Avatar URL: assets\209490c3dc67409ee58f871daa8030d5-08041.png
+Content: All of my family are discord users. I appreciate the help but I've been back and forth with Discord with days and they are not helpful as it is just a bot sending automated suggestions.
+--------------------
+
+--- Message ---
+Message ID: 1284919279245983850
+Message Type: Reply
+Reply to: 1284900570011926691
+Timestamp: 2024-09-15T16:50:28.818+00:00
+Author: High_RPM (high_rpm)
+Author Id: 1002675560994050059
+Avatar URL: assets\1c10ae931e34d24191852f802b249215-4D0F5.png
+Content: Problem is the account using my number isn’t mine and was started a year after I have this account. Pretty sure it’s the people who stole my identity during covid
+--------------------
+
+--- Message ---
+Message ID: 1284925716504510507
+Message Type: Reply
+Reply to: 1284919279245983850
+Timestamp: 2024-09-15T17:16:03.58+00:00
+Author: Carolyn B [CA] • Lead Mod (carb.on)
+Author Id: 568257600228032512
+Avatar URL: assets\28a90c77b5793d80eb62484a43c66748-D8837.png
+Content: can you log out, and then log in use your phone number in the log in box, instead of your email. Do you get an error?
+--------------------
+
+--- Message ---
+Message ID: 1284997563384332328
+Message Type: Default
+Reply to: None
+Timestamp: 2024-09-15T22:01:33.211+00:00
+Author: High_RPM (high_rpm)
+Author Id: 1002675560994050059
+Avatar URL: assets\1c10ae931e34d24191852f802b249215-4D0F5.png
+Content: Yes it wants me to use the password associated with that account that isn’t mine. Every time I do that I have to redo my password just incase they are trying to get access to this account
+--------------------
+
+--- Message ---
+Message ID: 1285010829099401217
+Message Type: Default
+Reply to: None
+Timestamp: 2024-09-15T22:54:16.004+00:00
+Author: Carolyn B [CA] • Lead Mod (carb.on)
+Author Id: 568257600228032512
+Avatar URL: assets\28a90c77b5793d80eb62484a43c66748-D8837.png
+Content: <@1002675560994050059> Redoing your password is fine. When you redo your password and use your phone number, can you log on?
+--------------------
+
+--- Message ---
+Message ID: 1285022582810083348
+Message Type: Default
+Reply to: None
+Timestamp: 2024-09-15T23:40:58.307+00:00
+Author: High_RPM (high_rpm)
+Author Id: 1002675560994050059
+Avatar URL: assets\1c10ae931e34d24191852f802b249215-4D0F5.png
+Content: No
+--------------------
+
+--- Message ---
+Message ID: 1285023084163760191
+Message Type: Default
+Reply to: None
+Timestamp: 2024-09-15T23:42:57.839+00:00
+Author: High_RPM (high_rpm)
+Author Id: 1002675560994050059
+Avatar URL: assets\1c10ae931e34d24191852f802b249215-4D0F5.png
+Content: They have a different email associated with the number that isn’t mine. At this point I need to add this info the my lawyer so he can handle this too.
+--------------------
+
+--- Message ---
+Message ID: 1285026511501529109
+Message Type: Default
+Reply to: None
+Timestamp: 2024-09-15T23:56:34.98+00:00
+Author: Carolyn B [CA] • Lead Mod (carb.on)
+Author Id: 568257600228032512
+Avatar URL: assets\28a90c77b5793d80eb62484a43c66748-D8837.png
+Content: So when you use your phone number to change your password, the text message comes to your phone, you don't use email at all for this action.
+--------------------
+
+--- Message ---
+Message ID: 1285097149121564704
+Message Type: Default
+Reply to: None
+Timestamp: 2024-09-16T04:37:16.301+00:00
+Author: Carolyn B [CA] • Lead Mod (carb.on)
+Author Id: 568257600228032512
+Avatar URL: assets\28a90c77b5793d80eb62484a43c66748-D8837.png
+Content: <@589189350848200706> it is common to have an "accidental" second account and there is a process for getting the phone number out of that accidental account. https://discord.com/channels/1242249109298221066/1284559332226240643
+--------------------
+
+--- Message ---
+Message ID: 1287177991469666367
+Message Type: Default
+Reply to: None
+Timestamp: 2024-09-21T22:25:47.777+00:00
+Author: LaurelMarie (laurelmarie_82156)
+Author Id: 1273055554608300126
+Avatar URL: assets\1-B2132.png
+Content: I was successful in retrieving an old account and closing it. I entered my mobile number instead of my email and then clicked on "forgot password". I don't remember the exact order of the steps. I do remember that I received a text with a 6 digit code to enter into my computer. And I received instructions to create a new password. That got me into this old account that I had completely forgotten about. I then went to settings, my account, account removal, and deleted the old one. It seems to take a few hours or maybe a day before the account is deleted. After that the phone number should be freed up for use in your current discord account.
+--------------------
+
+--- Message ---
+Message ID: 1287178717289910284
+Message Type: Default
+Reply to: None
+Timestamp: 2024-09-21T22:28:40.826+00:00
+Author: Carolyn B [CA] • Lead Mod (carb.on)
+Author Id: 568257600228032512
+Avatar URL: assets\28a90c77b5793d80eb62484a43c66748-D8837.png
+Content: Hi <@1273055554608300126> thank you for sharing your process for successfully verifying your phone number. It's not necessary to delete the other account, but it's fine to do that if you don't need the other account.
+--------------------

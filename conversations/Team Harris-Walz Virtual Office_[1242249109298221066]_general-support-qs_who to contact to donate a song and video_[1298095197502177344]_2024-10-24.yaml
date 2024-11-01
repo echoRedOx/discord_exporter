@@ -1,0 +1,22 @@
+- author_avatar_url: assets\0-EB806.png
+  author_id: '1290495182638284894'
+  author_name: janice_25910
+  author_nickname: Janice
+  content: Hi!  My friend wrote a fantastic song and created a video to help Kamala.
+    Obviously he posted it on Facebook for his friends and we have been sharing. Is
+    there a way to show it to someone on the Harris campaign to see if they would
+    like to use it?  It would be a donation
+  id: '1298095197502177344'
+  ref_to: null
+  timestamp: '2024-10-22T01:26:52.527+00:00'
+  type: Default
+- author_avatar_url: assets\a_de0e3d4a3f9b486ad3ad6df0d72323da-D0252.gif
+  author_id: '112080668296564736'
+  author_name: kyaizen
+  author_nickname: "Jared R [CO] \u2022 Lead Mod"
+  content: Hi, you can post it in <#1275846770961944628> but if you're looking to
+    send it directly to the campaign, [you can use the contact form here](https://kamalaharris.com/contact-us/)
+  id: '1298096460478283846'
+  ref_to: '1298095197502177344'
+  timestamp: '2024-10-22T01:31:53.644+00:00'
+  type: Reply

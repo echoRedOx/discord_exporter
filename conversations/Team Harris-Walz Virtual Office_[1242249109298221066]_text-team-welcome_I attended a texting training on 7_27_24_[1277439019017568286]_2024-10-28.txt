@@ -1,0 +1,38 @@
+Guild: Team Harris-Walz Virtual Office (ID: 1242249109298221066)
+Channel: I attended a texting training on 7/27/24 (ID: 1277439019017568286)
+Channel Topic: None
+Exported At: 2024-10-29T00:01:46.1817506+00:00
+
+
+--- Message ---
+Message ID: 1277439384601493606
+Message Type: 21
+Reply to: 1277439019017568286
+Timestamp: 2024-08-26T01:28:02.965+00:00
+Author: Jack Joannides KC text admin (jjoannid)
+Author Id: 477560366432256000
+Avatar URL: assets\791c521e62160be1f3df04992f6e5470-36A38.png
+Content: 
+--------------------
+
+--- Message ---
+Message ID: 1277439387214282875
+Message Type: Default
+Reply to: None
+Timestamp: 2024-08-26T01:28:03.588+00:00
+Author: Jack Joannides KC text admin (jjoannid)
+Author Id: 477560366432256000
+Avatar URL: assets\791c521e62160be1f3df04992f6e5470-36A38.png
+Content: You need to take an quiz and agreement form. I'll send you that info over an direct message.
+--------------------
+
+--- Message ---
+Message ID: 1277439500884377752
+Message Type: Default
+Reply to: None
+Timestamp: 2024-08-26T01:28:30.689+00:00
+Author: Justin Sulsky (jsulsky)
+Author Id: 340555991886069772
+Avatar URL: assets\2ea6cf4f64c968627e3cb733d08c4706-B1599.png
+Content: OK I believe I did that but I will do it again
+--------------------

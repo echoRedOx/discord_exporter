@@ -1,0 +1,66 @@
+Guild: Team Harris-Walz Virtual Office (ID: 1242249109298221066)
+Channel: Kamala's Captains contact? (ID: 1294786823041847317)
+Channel Topic: None
+Exported At: 2024-10-28T19:53:49.6358491+00:00
+
+
+--- Message ---
+Message ID: 1294786823041847317
+Message Type: Default
+Reply to: None
+Timestamp: 2024-10-12T22:20:34.589+00:00
+Author: Ğamma_Liɀ (gamma_liz)
+Author Id: 104184675416686592
+Avatar URL: assets\05f1ef7ae06d653e004a713b16503e8e-DBD9A.png
+Content: Hi. I need to get in touch with someone at the campaign level who is running the Kamala's Captains. Any suggestions?
+
+Background: I've been working with campain staff for the last month on canvass launches. Today was the first day of Kamala's Captains dry runs, and, despite my month of experience, I was asked to report information that I had no clue how to collect.
+
+I would like to share my experience with someone at the campaign level since the local campaign office says these requests are coming from the campaign and they cannot change it.
+
+Thanks.
+--------------------
+
+--- Message ---
+Message ID: 1294817295306194994
+Message Type: Default
+Reply to: None
+Timestamp: 2024-10-13T00:21:39.743+00:00
+Author: Carolyn B [CA] • Lead Mod (carb.on)
+Author Id: 568257600228032512
+Avatar URL: assets\28a90c77b5793d80eb62484a43c66748-D8837.png
+Content: <@1263159708466811000> ^
+--------------------
+
+--- Message ---
+Message ID: 1294876058297831436
+Message Type: Default
+Reply to: None
+Timestamp: 2024-10-13T04:15:09.932+00:00
+Author: Ğamma_Liɀ (gamma_liz)
+Author Id: 104184675416686592
+Avatar URL: assets\05f1ef7ae06d653e004a713b16503e8e-DBD9A.png
+Content: This doesn't seem to pertain to what I posted. I've been volunteering every weekend day for the past month and a half. Believe me, I want Harris to win. I'm trying to communicate some issues to the folks in charge so they can be addressed.
+--------------------
+
+--- Message ---
+Message ID: 1294876506480185476
+Message Type: Reply
+Reply to: 1294876058297831436
+Timestamp: 2024-10-13T04:16:56.787+00:00
+Author: Carolyn B [CA] • Lead Mod (carb.on)
+Author Id: 568257600228032512
+Avatar URL: assets\28a90c77b5793d80eb62484a43c66748-D8837.png
+Content: I pinged <@1263159708466811000> , a staff member who can help you.
+--------------------
+
+--- Message ---
+Message ID: 1294876604513652798
+Message Type: Default
+Reply to: None
+Timestamp: 2024-10-13T04:17:20.16+00:00
+Author: Ğamma_Liɀ (gamma_liz)
+Author Id: 104184675416686592
+Avatar URL: assets\05f1ef7ae06d653e004a713b16503e8e-DBD9A.png
+Content: Thank you!
+--------------------

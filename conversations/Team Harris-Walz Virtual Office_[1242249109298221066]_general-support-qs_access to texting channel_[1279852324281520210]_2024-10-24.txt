@@ -1,0 +1,137 @@
+Guild: Team Harris-Walz Virtual Office (ID: 1242249109298221066)
+Channel: access to texting channel (ID: 1279852324281520210)
+Channel Topic: None
+Exported At: 2024-10-24T06:48:53.3402915+00:00
+
+
+--- Message ---
+Message ID: 1279852324281520210
+Message Type: Default
+Reply to: None
+Timestamp: 2024-09-01T17:16:12.615+00:00
+Author: Marian Wallis (FL) (marian_13468)
+Author Id: 1279572287389044757
+Avatar URL: assets\1-B2132.png
+Content: Hi,  yesterday I trained for texting and not sure where to go from here. I did not get a link. Unsure how to start. thanks!
+--------------------
+
+--- Message ---
+Message ID: 1279852834455556168
+Message Type: Default
+Reply to: None
+Timestamp: 2024-09-01T17:18:14.25+00:00
+Author: Jared R [CO] • Lead Mod (kyaizen)
+Author Id: 112080668296564736
+Avatar URL: assets\a_de0e3d4a3f9b486ad3ad6df0d72323da-D0252.gif
+Content: Hi, Marian. <@477560366432256000> Could you or another text mod help?
+--------------------
+
+--- Message ---
+Message ID: 1279853841520787487
+Message Type: Default
+Reply to: None
+Timestamp: 2024-09-01T17:22:14.353+00:00
+Author: Jack Joannides KC text admin (jjoannid)
+Author Id: 477560366432256000
+Avatar URL: assets\791c521e62160be1f3df04992f6e5470-36A38.png
+Content: Yea in an second.
+--------------------
+
+--- Message ---
+Message ID: 1279853875741982741
+Message Type: Default
+Reply to: None
+Timestamp: 2024-09-01T17:22:22.512+00:00
+Author: Jack Joannides KC text admin (jjoannid)
+Author Id: 477560366432256000
+Avatar URL: assets\791c521e62160be1f3df04992f6e5470-36A38.png
+Content: Can you add your display name.
+--------------------
+
+--- Message ---
+Message ID: 1279854085318770729
+Message Type: Default
+Reply to: None
+Timestamp: 2024-09-01T17:23:12.479+00:00
+Author: Marian Wallis (FL) (marian_13468)
+Author Id: 1279572287389044757
+Avatar URL: assets\1-B2132.png
+Content: is this it?   marian_13468
+--------------------
+
+--- Message ---
+Message ID: 1279856405477851207
+Message Type: Default
+Reply to: None
+Timestamp: 2024-09-01T17:32:25.648+00:00
+Author: Jared R [CO] • Lead Mod (kyaizen)
+Author Id: 112080668296564736
+Avatar URL: assets\a_de0e3d4a3f9b486ad3ad6df0d72323da-D0252.gif
+Content: You'll want to edit your server profile to your first & last name. If you right click your name in the members section <a:arrow4:1269736547213901865> there should be "Edit Server Profile"
+--------------------
+
+--- Message ---
+Message ID: 1279857208930078733
+Message Type: Default
+Reply to: None
+Timestamp: 2024-09-01T17:35:37.206+00:00
+Author: Jared R [CO] • Lead Mod (kyaizen)
+Author Id: 112080668296564736
+Avatar URL: assets\a_de0e3d4a3f9b486ad3ad6df0d72323da-D0252.gif
+Content: "We ask that everyone has a first and last name listed as their Display Name in Discord. This is important so we can quickly assign you texts if needed, or take a look at a conversation if you have a texting question. You don't need to use your real last name if you prefer not to - it just has to be the same last name in Discord and in Scale to Win!"
+--------------------
+
+--- Message ---
+Message ID: 1279859686455377921
+Message Type: Default
+Reply to: None
+Timestamp: 2024-09-01T17:45:27.894+00:00
+Author: Marian Wallis (FL) (marian_13468)
+Author Id: 1279572287389044757
+Avatar URL: assets\1-B2132.png
+Content: I added my last name. Can you check to see if I did this correctly? Sorry, but I have to use my real last name and it has to be the same in discord. I'm  just not following what needs to be done.
+--------------------
+
+--- Message ---
+Message ID: 1279859911999750226
+Message Type: Default
+Reply to: None
+Timestamp: 2024-09-01T17:46:21.668+00:00
+Author: Jared R [CO] • Lead Mod (kyaizen)
+Author Id: 112080668296564736
+Avatar URL: assets\a_de0e3d4a3f9b486ad3ad6df0d72323da-D0252.gif
+Content: That's perfect! Jack should be able to assist when he has a moment.
+--------------------
+
+--- Message ---
+Message ID: 1279860671558848582
+Message Type: Default
+Reply to: None
+Timestamp: 2024-09-01T17:49:22.761+00:00
+Author: Jack Joannides KC text admin (jjoannid)
+Author Id: 477560366432256000
+Avatar URL: assets\791c521e62160be1f3df04992f6e5470-36A38.png
+Content: You should be added in 24-72 hours from the point that you took the training.
+--------------------
+
+--- Message ---
+Message ID: 1279861672365789316
+Message Type: Default
+Reply to: None
+Timestamp: 2024-09-01T17:53:21.372+00:00
+Author: Marian Wallis (FL) (marian_13468)
+Author Id: 1279572287389044757
+Avatar URL: assets\1-B2132.png
+Content: okay thank you.!
+--------------------
+
+--- Message ---
+Message ID: 1279861923340619806
+Message Type: Default
+Reply to: None
+Timestamp: 2024-09-01T17:54:21.209+00:00
+Author: Jack Joannides KC text admin (jjoannid)
+Author Id: 477560366432256000
+Avatar URL: assets\791c521e62160be1f3df04992f6e5470-36A38.png
+Content: No problem.
+--------------------

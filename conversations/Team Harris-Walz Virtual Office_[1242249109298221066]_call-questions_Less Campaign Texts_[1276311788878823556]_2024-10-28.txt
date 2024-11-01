@@ -1,0 +1,128 @@
+Guild: Team Harris-Walz Virtual Office (ID: 1242249109298221066)
+Channel: Less Campaign Texts (ID: 1276311788878823556)
+Channel Topic: None
+Exported At: 2024-10-28T21:03:23.1556088+00:00
+
+
+--- Message ---
+Message ID: 1276311788878823556
+Message Type: Default
+Reply to: None
+Timestamp: 2024-08-22T22:47:23.195+00:00
+Author: Dylan P. [KY] (the_real_dyl525)
+Author Id: 1272730128006254675
+Avatar URL: assets\5-E9BDB.png
+Content: Just finished my first round of calls, and several people I was able to speak with brought up that they were receiving an excessive amount of campaign texts (one even saying if it wasn’t such an important election, it would cause him to not vote out of frustration). Is there anyone I can get in touch with to share this particular caller’s info? And, is there any way to slow down the amount of texts people are receiving?
+--------------------
+
+--- Message ---
+Message ID: 1276314459765215282
+Message Type: Default
+Reply to: None
+Timestamp: 2024-08-22T22:57:59.984+00:00
+Author: AndreaV, KY Call Mod (andrearogersvalen)
+Author Id: 965992907981074443
+Avatar URL: assets\72d82e393a66b89996d99840a07990ec-C9EFF.png
+Content: <@1271505055589339207>  Any ideas of how we can help here?
+--------------------
+
+--- Message ---
+Message ID: 1276317231986507859
+Message Type: Reply
+Reply to: 1276311788878823556
+Timestamp: 2024-08-22T23:09:00.933+00:00
+Author: fonger (fonger_07217)
+Author Id: 1195511800486187140
+Avatar URL: assets\1-B2132.png
+Content: The volume seems in part due to the lack of coordination between the campaign and the PACs.
+--------------------
+
+--- Message ---
+Message ID: 1276399660625301588
+Message Type: Reply
+Reply to: 1276317231986507859
+Timestamp: 2024-08-23T04:36:33.452+00:00
+Author: Lindsey Hoeft (OR) (ljh_pnw)
+Author Id: 372194330213089281
+Avatar URL: assets\6694392c7237a99abaf3357f12b93d4e-77E58.png
+Content: Also seems like a massive lack of communication/strategy within the DNC.
+--------------------
+
+--- Message ---
+Message ID: 1276597463460872356
+Message Type: Default
+Reply to: None
+Timestamp: 2024-08-23T17:42:33.323+00:00
+Author: Jeff Castro [HQ STAFF] (jeffcastro_38501)
+Author Id: 1271505055589339207
+Avatar URL: assets\6f4f5df545ab947bda4b7bdd261619f0-1709E.png
+Content: <@1272730128006254675> Hey Dylan, that is a good question and concern. The best answer I can give you is to tell those folks to respond "STOP" to the fundraising/campaign texts. Believe me, I get inundated with all these texts and calls and there really is not much we can do other than telling them to respond with "STOP".
+--------------------
+
+--- Message ---
+Message ID: 1276598113431453778
+Message Type: Reply
+Reply to: 1276399660625301588
+Timestamp: 2024-08-23T17:45:08.288+00:00
+Author: Jeff Castro [HQ STAFF] (jeffcastro_38501)
+Author Id: 1271505055589339207
+Avatar URL: assets\6f4f5df545ab947bda4b7bdd261619f0-1709E.png
+Content: <@372194330213089281> We are working around the clock to  improve our communications infrastructure. As someone on the staff at Wilmington HQ, I do not do much collaboration with PACs in terms of outreach/facilitating phone banks. They also can access public voter files and contact these folks via text/call on their own accord as an organization. I can speak on the DNC, in that we are a growing team, and lately have been able to help each other free up capacity to improve our processes.
+--------------------
+
+--- Message ---
+Message ID: 1276626819813998616
+Message Type: Reply
+Reply to: 1276597463460872356
+Timestamp: 2024-08-23T19:39:12.423+00:00
+Author: Alan Z (CA) [Call Mod][OE Mod] (lovelightphoto_86652)
+Author Id: 1156958211065270323
+Avatar URL: assets\8ef62717b6ae0c24ebb16d1b0ea4b07e-DDC39.png
+Content: I gotta say, I wish there were a better answer to this.   Personally, I don't get bent out of shape by the texts, but I can imagine for some of our fellow citizens, the volume is causing anxiety, disgust, and frustration.
+--------------------
+
+--- Message ---
+Message ID: 1276684137734078474
+Message Type: Reply
+Reply to: 1276598113431453778
+Timestamp: 2024-08-23T23:26:58.08+00:00
+Author: Lindsey Hoeft (OR) (ljh_pnw)
+Author Id: 372194330213089281
+Avatar URL: assets\6694392c7237a99abaf3357f12b93d4e-77E58.png
+Content: I appreciate your response. No real judgement coming from over here but I can completely understand why people would be turned off by the bombardment of texts (and emails) coming in. I've wondered if it's turning off potential voters. Hopefully once this election is over there will be space to reflect and streamline communications for future elections.
+--------------------
+
+--- Message ---
+Message ID: 1276686148332421256
+Message Type: Default
+Reply to: None
+Timestamp: 2024-08-23T23:34:57.444+00:00
+Author: Thomas W E (renown8908)
+Author Id: 160094709543469056
+Avatar URL: assets\564b1b06163ea6ffd4f6b556ca413fb0-21B7F.png
+Content: I mean heck I donated twice and have been non-stop bombarded. I'm volunteering, but I expect others would be put off by it. I do wonder if we are helping though with the volume of calls?
+--------------------
+
+--- Message ---
+Message ID: 1276691448082726973
+Message Type: Default
+Reply to: None
+Timestamp: 2024-08-23T23:56:01.003+00:00
+Author: fonger (fonger_07217)
+Author Id: 1195511800486187140
+Avatar URL: assets\1-B2132.png
+Content: I do find that the calls are more personal touch than the texts. But yes, I have donated, but still get bombarded. First, it’s Nevada Democrats, then deep south turn blue, then another pac, and another pac.
+
+And none of them seem to be aware that I’ve already given a great deal
+--------------------
+
+--- Message ---
+Message ID: 1276692819691569282
+Message Type: Default
+Reply to: None
+Timestamp: 2024-08-24T00:01:28.02+00:00
+Author: Thomas W E (renown8908)
+Author Id: 160094709543469056
+Avatar URL: assets\564b1b06163ea6ffd4f6b556ca413fb0-21B7F.png
+Content: I guess this is the result of Biden leaving the race late - PACs etc all trying to help, but none of them are all coordinated on the same call lists etc
+--------------------

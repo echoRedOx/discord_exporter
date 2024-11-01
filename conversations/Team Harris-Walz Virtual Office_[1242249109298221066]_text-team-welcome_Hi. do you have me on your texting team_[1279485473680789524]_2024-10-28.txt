@@ -1,0 +1,104 @@
+Guild: Team Harris-Walz Virtual Office (ID: 1242249109298221066)
+Channel: Hi. do you have me on your texting team (ID: 1279485473680789524)
+Channel Topic: None
+Exported At: 2024-10-28T23:46:26.6726167+00:00
+
+
+--- Message ---
+Message ID: 1279493871306412145
+Message Type: 21
+Reply to: 1279485473680789524
+Timestamp: 2024-08-31T17:31:50.766+00:00
+Author: Nicole Morris - Text Admin (nmorris237)
+Author Id: 935762347753103382
+Avatar URL: assets\27b1e286b65ae02b3378793b5f098411-A7B20.png
+Content: 
+--------------------
+
+--- Message ---
+Message ID: 1279493874393288749
+Message Type: Default
+Reply to: None
+Timestamp: 2024-08-31T17:31:51.502+00:00
+Author: Nicole Morris - Text Admin (nmorris237)
+Author Id: 935762347753103382
+Avatar URL: assets\27b1e286b65ae02b3378793b5f098411-A7B20.png
+Content: Hi <@889200341269237820> Thanks! I can send you a follow up Direct Message -- if you're on your computer, it should be on the top left corner (game controller icon) -- if you're on a phone/tablet, there should be a speech bubble icon on the top left too.
+--------------------
+
+--- Message ---
+Message ID: 1279493893653663746
+Message Type: Default
+Reply to: None
+Timestamp: 2024-08-31T17:31:56.094+00:00
+Author: Nicole Morris - Text Admin (nmorris237)
+Author Id: 935762347753103382
+Avatar URL: assets\27b1e286b65ae02b3378793b5f098411-A7B20.png
+Content: Let me know if you don't see anything.
+--------------------
+
+--- Message ---
+Message ID: 1279494961536172124
+Message Type: Default
+Reply to: None
+Timestamp: 2024-08-31T17:36:10.697+00:00
+Author: Cynthia De La Cruz (CA) (cindyd6995)
+Author Id: 889200341269237820
+Avatar URL: assets\e1da44fa7e8c8a0a6f4b5c8d78957e7f-AA11D.png
+Content: Hi. I see your response directly below my question
+--------------------
+
+--- Message ---
+Message ID: 1279495938490105900
+Message Type: Default
+Reply to: None
+Timestamp: 2024-08-31T17:40:03.621+00:00
+Author: Nicole Morris - Text Admin (nmorris237)
+Author Id: 935762347753103382
+Avatar URL: assets\27b1e286b65ae02b3378793b5f098411-A7B20.png
+Content: Great! I just sent you a follow up Direct Message -- do you see it?
+--------------------
+
+--- Message ---
+Message ID: 1279496005993107506
+Message Type: Default
+Reply to: None
+Timestamp: 2024-08-31T17:40:19.715+00:00
+Author: Nicole Morris - Text Admin (nmorris237)
+Author Id: 935762347753103382
+Avatar URL: assets\27b1e286b65ae02b3378793b5f098411-A7B20.png
+Content: Here are the steps to find it (on a computer)
+--------------------
+
+--- Message ---
+Message ID: 1279503429911314575
+Message Type: Default
+Reply to: None
+Timestamp: 2024-08-31T18:09:49.715+00:00
+Author: Cynthia De La Cruz (CA) (cindyd6995)
+Author Id: 889200341269237820
+Avatar URL: assets\e1da44fa7e8c8a0a6f4b5c8d78957e7f-AA11D.png
+Content: I am on phone
+--------------------
+
+--- Message ---
+Message ID: 1279507857468817522
+Message Type: Default
+Reply to: None
+Timestamp: 2024-08-31T18:27:25.327+00:00
+Author: Nicole Morris - Text Admin (nmorris237)
+Author Id: 935762347753103382
+Avatar URL: assets\27b1e286b65ae02b3378793b5f098411-A7B20.png
+Content: Ok thanks - then it should be here to find my message:
+--------------------
+
+--- Message ---
+Message ID: 1279508010103869521
+Message Type: Default
+Reply to: None
+Timestamp: 2024-08-31T18:28:01.718+00:00
+Author: Nicole Morris - Text Admin (nmorris237)
+Author Id: 935762347753103382
+Avatar URL: assets\27b1e286b65ae02b3378793b5f098411-A7B20.png
+Content: 
+--------------------

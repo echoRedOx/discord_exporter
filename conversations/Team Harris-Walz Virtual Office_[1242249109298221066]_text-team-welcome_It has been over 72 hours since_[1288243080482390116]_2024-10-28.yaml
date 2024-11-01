@@ -1,0 +1,18 @@
+- author_avatar_url: assets\791c521e62160be1f3df04992f6e5470-36A38.png
+  author_id: '477560366432256000'
+  author_name: jjoannid
+  author_nickname: Jack Joannides KC text admin
+  content: ''
+  id: '1288247072746635345'
+  ref_to: '1288243080482390116'
+  timestamp: '2024-09-24T21:13:56.616+00:00'
+  type: '21'
+- author_avatar_url: assets\791c521e62160be1f3df04992f6e5470-36A38.png
+  author_id: '477560366432256000'
+  author_name: jjoannid
+  author_nickname: Jack Joannides KC text admin
+  content: Direct messaged you.
+  id: '1288247073870839919'
+  ref_to: null
+  timestamp: '2024-09-24T21:13:56.884+00:00'
+  type: Default

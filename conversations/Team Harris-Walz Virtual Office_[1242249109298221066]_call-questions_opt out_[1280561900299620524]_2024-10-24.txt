@@ -1,0 +1,27 @@
+Guild: Team Harris-Walz Virtual Office (ID: 1242249109298221066)
+Channel: opt out (ID: 1280561900299620524)
+Channel Topic: None
+Exported At: 2024-10-24T12:54:28.2310888+00:00
+
+
+--- Message ---
+Message ID: 1280561900299620524
+Message Type: Default
+Reply to: None
+Timestamp: 2024-09-03T16:15:48.721+00:00
+Author: Monamarie McCreary (OR) (monamarie3091)
+Author Id: 1080618187411955862
+Avatar URL: assets\1e3f07b33c35ee33fbe32fd3936ffb06-B5EF0.png
+Content: I don't see an opt out option on our Scale to Win calls. So how do I do that?
+--------------------
+
+--- Message ---
+Message ID: 1280573943148843173
+Message Type: Reply
+Reply to: 1280561900299620524
+Timestamp: 2024-09-03T17:03:39.96+00:00
+Author: Erica Ramos [CA] [Call Mod] (sdgc_76906)
+Author Id: 1206655433905930251
+Avatar URL: assets\d89cc8ea1b8dc7f778a48cfb80348315-7B1A6.png
+Content: There is a Do Not Call option.
+--------------------

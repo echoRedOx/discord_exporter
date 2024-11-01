@@ -1,0 +1,28 @@
+- author_avatar_url: assets\791c521e62160be1f3df04992f6e5470-36A38.png
+  author_id: '477560366432256000'
+  author_name: jjoannid
+  author_nickname: Jack Joannides KC text admin
+  content: ''
+  id: '1278903259775369247'
+  ref_to: '1278881491731873854'
+  timestamp: '2024-08-30T02:24:58.004+00:00'
+  type: '21'
+- author_avatar_url: assets\791c521e62160be1f3df04992f6e5470-36A38.png
+  author_id: '477560366432256000'
+  author_name: jjoannid
+  author_nickname: Jack Joannides KC text admin
+  content: Are you in our slack currently? As an 2022 to 2024 texter.
+  id: '1278903262011064352'
+  ref_to: null
+  timestamp: '2024-08-30T02:24:58.537+00:00'
+  type: Default
+- author_avatar_url: assets\4c9b9cc8b7f2dca5fe4571604ddebc51-E71A6.png
+  author_id: '683483471049392159'
+  author_name: ottomas_stan
+  author_nickname: Meera Gabriel (MA)
+  content: I don't think so... I joined the 2024 Victory slack but that seems to be
+    only for the callers, not texters, since I don't see any channel for that.
+  id: '1278928554561769483'
+  ref_to: '1278903262011064352'
+  timestamp: '2024-08-30T04:05:28.751+00:00'
+  type: Reply

@@ -1,0 +1,51 @@
+Guild: Team Harris-Walz Virtual Office (ID: 1242249109298221066)
+Channel: Canvass Result for someone who already voted (ID: 1290441581932843179)
+Channel Topic: None
+Exported At: 2024-10-28T20:54:11.6783321+00:00
+
+
+--- Message ---
+Message ID: 1290441581932843179
+Message Type: Default
+Reply to: None
+Timestamp: 2024-09-30T22:34:08.378+00:00
+Author: Mark Williams (maw_2k5374)
+Author Id: 371398908695281669
+Avatar URL: assets\5-E9BDB.png
+Content: Hi, I spoke with a MI voter this afternoon who already voted. I politely asked who they were voting for, but they did not disclose and hung up. What canvass result should I use?
+--------------------
+
+--- Message ---
+Message ID: 1290443632314417224
+Message Type: Default
+Reply to: None
+Timestamp: 2024-09-30T22:42:17.227+00:00
+Author: Alan Z (CA) [Call Mod][OE Mod] (lovelightphoto_86652)
+Author Id: 1156958211065270323
+Avatar URL: assets\8ef62717b6ae0c24ebb16d1b0ea4b07e-DDC39.png
+Content: If it was the correct person, I would suggest... 
+
+First click the "correct person" button.  On the next screen click "undecided/other/not voting"
+--------------------
+
+--- Message ---
+Message ID: 1290443747217248287
+Message Type: Reply
+Reply to: 1290441581932843179
+Timestamp: 2024-09-30T22:42:44.622+00:00
+Author: Alan Z (CA) [Call Mod][OE Mod] (lovelightphoto_86652)
+Author Id: 1156958211065270323
+Avatar URL: assets\8ef62717b6ae0c24ebb16d1b0ea4b07e-DDC39.png
+Content: let me know if that works for you
+--------------------
+
+--- Message ---
+Message ID: 1290444331378933782
+Message Type: Default
+Reply to: None
+Timestamp: 2024-09-30T22:45:03.897+00:00
+Author: Mark Williams (maw_2k5374)
+Author Id: 371398908695281669
+Avatar URL: assets\5-E9BDB.png
+Content: Thanks! That is what I selected.
+--------------------

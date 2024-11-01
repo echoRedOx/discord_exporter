@@ -1,0 +1,46 @@
+- author_avatar_url: assets\cd4008c1ef8172dbf926e36914d284a0-AF75D.png
+  author_id: '392108353997766659'
+  author_name: krnlkule
+  author_nickname: Shawn Nelson
+  content: "Online Engagement is there a resource here that we can use to filter/Block\
+    \ MAGA bots and disrupters?   I\u2019m specifically looking for Keyword, Hashtags\
+    \ and phrases that can be used for this purpose."
+  id: '1286332145392029779'
+  ref_to: null
+  timestamp: '2024-09-19T14:24:42.357+00:00'
+  type: Default
+- author_avatar_url: assets\28a90c77b5793d80eb62484a43c66748-D8837.png
+  author_id: '568257600228032512'
+  author_name: carb.on
+  author_nickname: "Carolyn B [CA] \u2022 Lead Mod"
+  content: Hello <@392108353997766659> the auto-mod bot blocks messages with specific
+    words, and the moderators here will see an alert when this happens. We can add
+    to the list of word if you are seeing specific words in suspicious posts. You
+    can also call us in to look at individuals posts by either shairng a link to the
+    post here, or posting a message with "@ moderator" (without a space) somewhere
+    near the a message in any channel. We also have "handling trolls" messaging pinned
+    in the main channels. https://discord.com/channels/1242249109298221066/1242249109298221069/1281686666599465040
+  id: '1286345460214272071'
+  ref_to: null
+  timestamp: '2024-09-19T15:17:36.858+00:00'
+  type: Default
+- author_avatar_url: assets\cd4008c1ef8172dbf926e36914d284a0-AF75D.png
+  author_id: '392108353997766659'
+  author_name: krnlkule
+  author_nickname: Shawn Nelson
+  content: I am looking for them for the use in other Social Media platforms.
+  id: '1286345943414996992'
+  ref_to: null
+  timestamp: '2024-09-19T15:19:32.062+00:00'
+  type: Default
+- author_avatar_url: assets\28a90c77b5793d80eb62484a43c66748-D8837.png
+  author_id: '568257600228032512'
+  author_name: carb.on
+  author_nickname: "Carolyn B [CA] \u2022 Lead Mod"
+  content: Our server-wide bad words list is not that specific. You can ask the folks
+    in https://discord.com/channels/1242249109298221066/1250550849998946417  individuals
+    there may have their own lists.
+  id: '1286347021023842402'
+  ref_to: null
+  timestamp: '2024-09-19T15:23:48.984+00:00'
+  type: Default

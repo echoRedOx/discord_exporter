@@ -1,0 +1,38 @@
+Guild: Team Harris-Walz Virtual Office (ID: 1242249109298221066)
+Channel: It has been 72 hours since my text (ID: 1287540198921469963)
+Channel Topic: None
+Exported At: 2024-10-28T23:07:30.5485029+00:00
+
+
+--- Message ---
+Message ID: 1287545856236589218
+Message Type: 21
+Reply to: 1287540198921469963
+Timestamp: 2024-09-22T22:47:33.572+00:00
+Author: Roberta Bavin CA KC Greeter/Mod (roberta_24935)
+Author Id: 1269872908759597148
+Avatar URL: assets\df6d19d97b04a49ffcafbe7be14c7839-D9CE4.png
+Content: 
+--------------------
+
+--- Message ---
+Message ID: 1287545870488961056
+Message Type: Default
+Reply to: None
+Timestamp: 2024-09-22T22:47:36.97+00:00
+Author: Roberta Bavin CA KC Greeter/Mod (roberta_24935)
+Author Id: 1269872908759597148
+Avatar URL: assets\df6d19d97b04a49ffcafbe7be14c7839-D9CE4.png
+Content: Hi Mary Anne! Thanks for reaching out. It looks like you were onboarded by Andrew on 9/21. Please check your DM. Let me know if you can't find it. Thanks for joining!
+--------------------
+
+--- Message ---
+Message ID: 1287546343207993404
+Message Type: Default
+Reply to: None
+Timestamp: 2024-09-22T22:49:29.675+00:00
+Author: Mary Anne Bainbridge[IA] (maryanneb_)
+Author Id: 1286357570298314796
+Avatar URL: assets\9cf43599711db4c9e78c54cd30d7efed-19F09.png
+Content: I did> I wasn't sure if that was all I would receive! Thanks so much!
+--------------------

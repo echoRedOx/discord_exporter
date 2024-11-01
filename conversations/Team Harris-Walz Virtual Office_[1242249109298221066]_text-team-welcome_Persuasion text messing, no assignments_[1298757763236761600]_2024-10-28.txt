@@ -1,0 +1,27 @@
+Guild: Team Harris-Walz Virtual Office (ID: 1242249109298221066)
+Channel: Persuasion text messing, no assignments (ID: 1298757763236761600)
+Channel Topic: None
+Exported At: 2024-10-28T22:19:26.4357969+00:00
+
+
+--- Message ---
+Message ID: 1298763647786680390
+Message Type: 21
+Reply to: 1298757763236761600
+Timestamp: 2024-10-23T21:43:03.494+00:00
+Author: Jack Joannides KC text admin (jjoannid)
+Author Id: 477560366432256000
+Avatar URL: assets\791c521e62160be1f3df04992f6e5470-36A38.png
+Content: 
+--------------------
+
+--- Message ---
+Message ID: 1298763651540324442
+Message Type: Default
+Reply to: None
+Timestamp: 2024-10-23T21:43:04.389+00:00
+Author: Jack Joannides KC text admin (jjoannid)
+Author Id: 477560366432256000
+Avatar URL: assets\791c521e62160be1f3df04992f6e5470-36A38.png
+Content: That's not our team sorry.
+--------------------

@@ -1,0 +1,51 @@
+Guild: Team Harris-Walz Virtual Office (ID: 1242249109298221066)
+Channel: Call Issue? (ID: 1273794249581793361)
+Channel Topic: None
+Exported At: 2024-10-28T21:52:27.1853704+00:00
+
+
+--- Message ---
+Message ID: 1273798006298378291
+Message Type: 21
+Reply to: 1273794249581793361
+Timestamp: 2024-08-16T00:18:30.724+00:00
+Author: Jessica Puchala (MD) [OE Lead] (jessica033389)
+Author Id: 869778676986814514
+Avatar URL: assets\37de34190564f7c9acae5895cc884c8a-6F9C7.png
+Content: 
+--------------------
+
+--- Message ---
+Message ID: 1273798007632166953
+Message Type: Default
+Reply to: None
+Timestamp: 2024-08-16T00:18:31.042+00:00
+Author: Jessica Puchala (MD) [OE Lead] (jessica033389)
+Author Id: 869778676986814514
+Avatar URL: assets\37de34190564f7c9acae5895cc884c8a-6F9C7.png
+Content: Hi <@1123079657856716901>. If you mean this event: DNC Watch Party Host Information Session, my calendar shows it starting at 9pm Eastern. I hope that helps!
+--------------------
+
+--- Message ---
+Message ID: 1274000002422931487
+Message Type: Default
+Reply to: None
+Timestamp: 2024-08-16T13:41:10.353+00:00
+Author: ShelbiLyn (NY) (shelbilyn_953)
+Author Id: 1123079657856716901
+Avatar URL: assets\231a8bca8366f93c1d8d92a7400301fa-6102F.png
+Content: I just saw your response. Thank you for reaching out to me. 😊 I was in the Women for Harris-Waltz Pre-Convention Call. It was scheduled for 8pm but I was still waiting for it to load. Both the YouTube live stream link and the Zoom call were delayed and once they loaded it was five-ten minutes until I had sound.
+
+Is there another Party Host Information Session coming up? I missed the one last night but I'd like to host a watch party.
+--------------------
+
+--- Message ---
+Message ID: 1275935040634884218
+Message Type: Reply
+Reply to: 1274000002422931487
+Timestamp: 2024-08-21T21:50:19.414+00:00
+Author: Jessica Puchala (MD) [OE Lead] (jessica033389)
+Author Id: 869778676986814514
+Avatar URL: assets\37de34190564f7c9acae5895cc884c8a-6F9C7.png
+Content: Hi. Just seeing your reply now. I hope you were able to make one of the calls. If not,  you may be able to get party related support in <#1268992013840416879>. Thanks for being a volunteer!
+--------------------

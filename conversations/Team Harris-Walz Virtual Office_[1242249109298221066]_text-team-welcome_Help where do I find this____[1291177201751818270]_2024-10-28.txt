@@ -1,0 +1,72 @@
+Guild: Team Harris-Walz Virtual Office (ID: 1242249109298221066)
+Channel: Help where do I find this??? (ID: 1291177201751818270)
+Channel Topic: None
+Exported At: 2024-10-28T22:54:18.7284262+00:00
+
+
+--- Message ---
+Message ID: 1291418934117007445
+Message Type: 21
+Reply to: 1291177201751818270
+Timestamp: 2024-10-03T15:17:47.297+00:00
+Author: Roberta Bavin CA KC Greeter/Mod (roberta_24935)
+Author Id: 1269872908759597148
+Avatar URL: assets\df6d19d97b04a49ffcafbe7be14c7839-D9CE4.png
+Content: 
+--------------------
+
+--- Message ---
+Message ID: 1291418936469884960
+Message Type: Default
+Reply to: None
+Timestamp: 2024-10-03T15:17:47.858+00:00
+Author: Roberta Bavin CA KC Greeter/Mod (roberta_24935)
+Author Id: 1269872908759597148
+Avatar URL: assets\df6d19d97b04a49ffcafbe7be14c7839-D9CE4.png
+Content: Hi <@1280680519440531480> What are you looking for?
+--------------------
+
+--- Message ---
+Message ID: 1291500007953793125
+Message Type: Default
+Reply to: None
+Timestamp: 2024-10-03T20:39:56.806+00:00
+Author: JennKB-PA (revjkb)
+Author Id: 1280680519440531480
+Avatar URL: assets\6c5996770c985bcd6e5b68131ff2ba04-1EE06.png
+Content: It was a training last night at 7.  For easy phone calls
+--------------------
+
+--- Message ---
+Message ID: 1291500234588950579
+Message Type: Default
+Reply to: None
+Timestamp: 2024-10-03T20:40:50.84+00:00
+Author: JennKB-PA (revjkb)
+Author Id: 1280680519440531480
+Avatar URL: assets\6c5996770c985bcd6e5b68131ff2ba04-1EE06.png
+Content: Easy Calls for Harris-Walz!
+https://www.mobilize.ushttps
+--------------------
+
+--- Message ---
+Message ID: 1291500416953090058
+Message Type: Default
+Reply to: None
+Timestamp: 2024-10-03T20:41:34.319+00:00
+Author: JennKB-PA (revjkb)
+Author Id: 1280680519440531480
+Avatar URL: assets\6c5996770c985bcd6e5b68131ff2ba04-1EE06.png
+Content: I also would like to do the texting training.
+--------------------
+
+--- Message ---
+Message ID: 1291501564586102866
+Message Type: Default
+Reply to: None
+Timestamp: 2024-10-03T20:46:07.936+00:00
+Author: Roberta Bavin CA KC Greeter/Mod (roberta_24935)
+Author Id: 1269872908759597148
+Avatar URL: assets\df6d19d97b04a49ffcafbe7be14c7839-D9CE4.png
+Content: Hi Jennifer! Thanks for reaching out. Here's the link to sign up for text training! https://events.democrats.org/event/672393/
+--------------------

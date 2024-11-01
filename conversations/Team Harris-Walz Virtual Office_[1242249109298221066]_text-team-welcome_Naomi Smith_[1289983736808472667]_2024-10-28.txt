@@ -1,0 +1,27 @@
+Guild: Team Harris-Walz Virtual Office (ID: 1242249109298221066)
+Channel: Naomi Smith (ID: 1289983736808472667)
+Channel Topic: None
+Exported At: 2024-10-28T22:59:18.3077254+00:00
+
+
+--- Message ---
+Message ID: 1289989193476345856
+Message Type: 21
+Reply to: 1289983736808472667
+Timestamp: 2024-09-29T16:36:30.565+00:00
+Author: Branton J. [GA] Text Mod (perry.p)
+Author Id: 946953677611077642
+Avatar URL: assets\19838db602948fa14c3fa90a94996f8c-8CE56.png
+Content: 
+--------------------
+
+--- Message ---
+Message ID: 1289989195422634104
+Message Type: Default
+Reply to: None
+Timestamp: 2024-09-29T16:36:31.029+00:00
+Author: Branton J. [GA] Text Mod (perry.p)
+Author Id: 946953677611077642
+Avatar URL: assets\19838db602948fa14c3fa90a94996f8c-8CE56.png
+Content: Hi <@1269268300123209808> .  May you please post your question in <#1259238714157305936> ?  Thank you!
+--------------------

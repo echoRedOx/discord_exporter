@@ -1,0 +1,38 @@
+Guild: Team Harris-Walz Virtual Office (ID: 1242249109298221066)
+Channel: Calling on Sundays (ID: 1299849725457203240)
+Channel Topic: None
+Exported At: 2024-10-28T20:42:01.8657706+00:00
+
+
+--- Message ---
+Message ID: 1299849725457203240
+Message Type: Default
+Reply to: None
+Timestamp: 2024-10-26T21:38:44.589+00:00
+Author: Terri (CO) (terri_40182)
+Author Id: 1299112983829549117
+Avatar URL: assets\3-FB033.png
+Content: I may be revealing my age a little bit with this comment, but I'm hesitant to call people on Sunday. What has the experience been for others? Thanks ahead of time.
+--------------------
+
+--- Message ---
+Message ID: 1299851025674403930
+Message Type: Default
+Reply to: None
+Timestamp: 2024-10-26T21:43:54.585+00:00
+Author: Laura M (CO) • Call Mod (hungry.hiker)
+Author Id: 756314488113987654
+Avatar URL: assets\4aa5ed3c3ad66beef8f10bd0d3979dae-08843.png
+Content: Hi Terri, thank you for being here! Everyone may have different opinions about receiving calls on Sunday. If they don't wish to receive calls, they have the option to not answer. In my experience, there will be people annoyed that we are calling no matter what day it is. We have such limited time left until the election that every day is important for us to reach voters.
+--------------------
+
+--- Message ---
+Message ID: 1299851227496054795
+Message Type: Default
+Reply to: None
+Timestamp: 2024-10-26T21:44:42.703+00:00
+Author: Terri (CO) (terri_40182)
+Author Id: 1299112983829549117
+Avatar URL: assets\3-FB033.png
+Content: That is all very true. Thanks!
+--------------------

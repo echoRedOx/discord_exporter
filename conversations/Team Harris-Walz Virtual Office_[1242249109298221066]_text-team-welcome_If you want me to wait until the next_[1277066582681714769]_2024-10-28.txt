@@ -1,0 +1,38 @@
+Guild: Team Harris-Walz Virtual Office (ID: 1242249109298221066)
+Channel: If you want me to wait until the next (ID: 1277066582681714769)
+Channel Topic: None
+Exported At: 2024-10-28T23:55:36.6943617+00:00
+
+
+--- Message ---
+Message ID: 1277083917429510185
+Message Type: 21
+Reply to: 1277066582681714769
+Timestamp: 2024-08-25T01:55:32.987+00:00
+Author: Nicole Morris - Text Admin (nmorris237)
+Author Id: 935762347753103382
+Avatar URL: assets\27b1e286b65ae02b3378793b5f098411-A7B20.png
+Content: 
+--------------------
+
+--- Message ---
+Message ID: 1277083919266742282
+Message Type: Default
+Reply to: None
+Timestamp: 2024-08-25T01:55:33.425+00:00
+Author: Nicole Morris - Text Admin (nmorris237)
+Author Id: 935762347753103382
+Avatar URL: assets\27b1e286b65ae02b3378793b5f098411-A7B20.png
+Content: Hi <@1277043034307039335> Thanks! I'll send you a follow up DM now to. clarify
+--------------------
+
+--- Message ---
+Message ID: 1278414262619865088
+Message Type: Reply
+Reply to: 1277083919266742282
+Timestamp: 2024-08-28T18:01:51.997+00:00
+Author: Janice Williams (janicewilliams_44112)
+Author Id: 1277043034307039335
+Avatar URL: assets\3-FB033.png
+Content: Hi Nicole, I completed my quiz on Sunday.  Let me know when I am needed.
+--------------------

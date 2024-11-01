@@ -1,0 +1,38 @@
+Guild: Team Harris-Walz Virtual Office (ID: 1242249109298221066)
+Channel: I signed up for an NC text bank event (ID: 1298978012116811836)
+Channel Topic: None
+Exported At: 2024-10-28T22:16:25.5114428+00:00
+
+
+--- Message ---
+Message ID: 1299016354598223882
+Message Type: 21
+Reply to: 1298978012116811836
+Timestamp: 2024-10-24T14:27:13.493+00:00
+Author: Roberta Bavin CA KC Greeter/Mod (roberta_24935)
+Author Id: 1269872908759597148
+Avatar URL: assets\df6d19d97b04a49ffcafbe7be14c7839-D9CE4.png
+Content: 
+--------------------
+
+--- Message ---
+Message ID: 1299016358343741591
+Message Type: Default
+Reply to: None
+Timestamp: 2024-10-24T14:27:14.386+00:00
+Author: Roberta Bavin CA KC Greeter/Mod (roberta_24935)
+Author Id: 1269872908759597148
+Avatar URL: assets\df6d19d97b04a49ffcafbe7be14c7839-D9CE4.png
+Content: Hi <@1298044268988076054> Please check for a DM from me in a few minutes at left upper corner of Discord, game controller icon. Thanks for following up! <:thankyou:1252806147396735057>
+--------------------
+
+--- Message ---
+Message ID: 1299016490904719390
+Message Type: Default
+Reply to: None
+Timestamp: 2024-10-24T14:27:45.991+00:00
+Author: Jennifer Cordaro (Maryland) (jrodaro)
+Author Id: 1298044268988076054
+Avatar URL: assets\1-B2132.png
+Content: Awesome thanks!
+--------------------

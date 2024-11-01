@@ -1,0 +1,148 @@
+Guild: Team Harris-Walz Virtual Office (ID: 1242249109298221066)
+Channel: Hi!  I did the text training last Wed ( (ID: 1295448063753846834)
+Channel Topic: None
+Exported At: 2024-10-28T22:38:49.3647197+00:00
+
+
+--- Message ---
+Message ID: 1295476501155811389
+Message Type: 21
+Reply to: 1295448063753846834
+Timestamp: 2024-10-14T20:01:06.665+00:00
+Author: Jack Joannides KC text admin (jjoannid)
+Author Id: 477560366432256000
+Avatar URL: assets\791c521e62160be1f3df04992f6e5470-36A38.png
+Content: 
+--------------------
+
+--- Message ---
+Message ID: 1295476503345369178
+Message Type: Default
+Reply to: None
+Timestamp: 2024-10-14T20:01:07.187+00:00
+Author: Jack Joannides KC text admin (jjoannid)
+Author Id: 477560366432256000
+Avatar URL: assets\791c521e62160be1f3df04992f6e5470-36A38.png
+Content: Did you direct message the mod that you updated your display name?
+--------------------
+
+--- Message ---
+Message ID: 1295772621912408064
+Message Type: Default
+Reply to: None
+Timestamp: 2024-10-15T15:37:47.355+00:00
+Author: Beth Sturgeon [VT] (stlouie_b)
+Author Id: 637032720031023144
+Avatar URL: assets\83d874d5f2191d0799c4229651a1ae27-B9DDE.png
+Content: Hi <@477560366432256000> - thanks for getting back to me!  Ah, I did not DM the mod that I updated my display name...I'm a bit new to discord but I found the list of members and it looks like there are a handful of text mods.  Does it matter which text moderator I DM?  Thanks so much for the guidance!
+--------------------
+
+--- Message ---
+Message ID: 1295773003136761870
+Message Type: Default
+Reply to: None
+Timestamp: 2024-10-15T15:39:18.246+00:00
+Author: Beth Sturgeon [VT] (stlouie_b)
+Author Id: 637032720031023144
+Avatar URL: assets\83d874d5f2191d0799c4229651a1ae27-B9DDE.png
+Content: You know- I'll just reach out to a moderator and see what they say.  Thanks so much!
+--------------------
+
+--- Message ---
+Message ID: 1295776277944471572
+Message Type: Reply
+Reply to: 1295476503345369178
+Timestamp: 2024-10-15T15:52:19.021+00:00
+Author: Angela K. (CO) KC Text Mod (.anathea)
+Author Id: 949409511951724595
+Avatar URL: assets\153fa1aae579a15bd6e9b9505153de92-9DAEB.png
+Content: Hey <@477560366432256000> - Beth just reached out to me but since I'm not a greeter I don't know how to help here. Can you check and see who she needs to connect with? Thanks!
+--------------------
+
+--- Message ---
+Message ID: 1295776329295204393
+Message Type: Default
+Reply to: None
+Timestamp: 2024-10-15T15:52:31.264+00:00
+Author: Jack Joannides KC text admin (jjoannid)
+Author Id: 477560366432256000
+Avatar URL: assets\791c521e62160be1f3df04992f6e5470-36A38.png
+Content: Reach out to Roberta she likely direct message them.
+--------------------
+
+--- Message ---
+Message ID: 1295776362409234432
+Message Type: Default
+Reply to: None
+Timestamp: 2024-10-15T15:52:39.159+00:00
+Author: Jack Joannides KC text admin (jjoannid)
+Author Id: 477560366432256000
+Avatar URL: assets\791c521e62160be1f3df04992f6e5470-36A38.png
+Content: Thanks.
+--------------------
+
+--- Message ---
+Message ID: 1295776576100765706
+Message Type: Default
+Reply to: None
+Timestamp: 2024-10-15T15:53:30.107+00:00
+Author: Angela K. (CO) KC Text Mod (.anathea)
+Author Id: 949409511951724595
+Avatar URL: assets\153fa1aae579a15bd6e9b9505153de92-9DAEB.png
+Content: Okay. I'm going to tag her in here since things have gotten a bit confusing. <@1269872908759597148> - I know you're busy but can you check on Beth's onboarding for us? Thanks!
+--------------------
+
+--- Message ---
+Message ID: 1295776771450601533
+Message Type: Default
+Reply to: None
+Timestamp: 2024-10-15T15:54:16.682+00:00
+Author: Beth Sturgeon [VT] (stlouie_b)
+Author Id: 637032720031023144
+Avatar URL: assets\83d874d5f2191d0799c4229651a1ae27-B9DDE.png
+Content: Thanks so much <@949409511951724595> !
+--------------------
+
+--- Message ---
+Message ID: 1295777063302725703
+Message Type: Default
+Reply to: None
+Timestamp: 2024-10-15T15:55:26.265+00:00
+Author: Jack Joannides KC text admin (jjoannid)
+Author Id: 477560366432256000
+Avatar URL: assets\791c521e62160be1f3df04992f6e5470-36A38.png
+Content: Oh wait sorry. Am on my phone. Was <@935762347753103382> actually.
+--------------------
+
+--- Message ---
+Message ID: 1295777395659378820
+Message Type: Reply
+Reply to: 1295776576100765706
+Timestamp: 2024-10-15T15:56:45.505+00:00
+Author: Roberta Bavin CA KC Greeter/Mod (roberta_24935)
+Author Id: 1269872908759597148
+Avatar URL: assets\df6d19d97b04a49ffcafbe7be14c7839-D9CE4.png
+Content: Just sent Beth a DM. Nicole sent message 10/9.
+--------------------
+
+--- Message ---
+Message ID: 1295780244103368775
+Message Type: Reply
+Reply to: 1295776277944471572
+Timestamp: 2024-10-15T16:08:04.627+00:00
+Author: Roberta Bavin CA KC Greeter/Mod (roberta_24935)
+Author Id: 1269872908759597148
+Avatar URL: assets\df6d19d97b04a49ffcafbe7be14c7839-D9CE4.png
+Content: Had two discord accounts! Just finished onboarding <@477560366432256000> and <@935762347753103382>  so no worries about Beth! Thanks, team!
+--------------------
+
+--- Message ---
+Message ID: 1295780620600999976
+Message Type: Default
+Reply to: None
+Timestamp: 2024-10-15T16:09:34.391+00:00
+Author: Angela K. (CO) KC Text Mod (.anathea)
+Author Id: 949409511951724595
+Avatar URL: assets\153fa1aae579a15bd6e9b9505153de92-9DAEB.png
+Content: yay! thanks for your help Roberta! Happy to have you join us Beth!
+--------------------

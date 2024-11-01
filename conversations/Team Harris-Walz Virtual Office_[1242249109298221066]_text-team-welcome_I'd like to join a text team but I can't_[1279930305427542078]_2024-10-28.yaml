@@ -1,0 +1,39 @@
+- author_avatar_url: assets\791c521e62160be1f3df04992f6e5470-36A38.png
+  author_id: '477560366432256000'
+  author_name: jjoannid
+  author_nickname: Jack Joannides KC text admin
+  content: ''
+  id: '1279930711595417631'
+  ref_to: '1279930305427542078'
+  timestamp: '2024-09-01T22:27:41.607+00:00'
+  type: '21'
+- author_avatar_url: assets\791c521e62160be1f3df04992f6e5470-36A38.png
+  author_id: '477560366432256000'
+  author_name: jjoannid
+  author_nickname: Jack Joannides KC text admin
+  content: We used to have Wednesday and Saturday times but I believe those might
+    be at capacity.
+  id: '1279930713478791230'
+  ref_to: null
+  timestamp: '2024-09-01T22:27:42.056+00:00'
+  type: Default
+- author_avatar_url: assets\5adf260c46141a886b28055e94ba25d0-70177.png
+  author_id: '176393539184230410'
+  author_name: drmanatee
+  author_nickname: Benjamin T (CA)
+  content: Ah I suppose I'll have to wait for a weekend times to come back up. All
+    the weekday slots start at 4 pm my time which is before my work ends
+  id: '1279931176559317124'
+  ref_to: null
+  timestamp: '2024-09-01T22:29:32.463+00:00'
+  type: Default
+- author_avatar_url: assets\791c521e62160be1f3df04992f6e5470-36A38.png
+  author_id: '477560366432256000'
+  author_name: jjoannid
+  author_nickname: Jack Joannides KC text admin
+  content: Oh wait this one has Wednesday and Saturdays https://events.democrats.org/event/654680/
+    <@176393539184230410>
+  id: '1279935098522701874'
+  ref_to: null
+  timestamp: '2024-09-01T22:45:07.532+00:00'
+  type: Default

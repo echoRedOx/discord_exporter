@@ -1,0 +1,27 @@
+- author_avatar_url: assets\791c521e62160be1f3df04992f6e5470-36A38.png
+  author_id: '477560366432256000'
+  author_name: jjoannid
+  author_nickname: Jack Joannides KC text admin
+  content: ''
+  id: '1278137359166341222'
+  ref_to: '1278136710261379092'
+  timestamp: '2024-08-27T23:41:33.069+00:00'
+  type: '21'
+- author_avatar_url: assets\791c521e62160be1f3df04992f6e5470-36A38.png
+  author_id: '477560366432256000'
+  author_name: jjoannid
+  author_nickname: Jack Joannides KC text admin
+  content: Going to direct message you.
+  id: '1278137360420180030'
+  ref_to: null
+  timestamp: '2024-08-27T23:41:33.368+00:00'
+  type: Default
+- author_avatar_url: assets\791c521e62160be1f3df04992f6e5470-36A38.png
+  author_id: '477560366432256000'
+  author_name: jjoannid
+  author_nickname: Jack Joannides KC text admin
+  content: Oh nvm I see now. You were on the training.
+  id: '1278140977424633999'
+  ref_to: null
+  timestamp: '2024-08-27T23:55:55.729+00:00'
+  type: Default

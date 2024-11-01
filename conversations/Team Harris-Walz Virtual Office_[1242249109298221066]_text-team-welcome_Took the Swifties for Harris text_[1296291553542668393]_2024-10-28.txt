@@ -1,0 +1,60 @@
+Guild: Team Harris-Walz Virtual Office (ID: 1242249109298221066)
+Channel: Took the Swifties for Harris text (ID: 1296291553542668393)
+Channel Topic: None
+Exported At: 2024-10-28T22:35:47.5532767+00:00
+
+
+--- Message ---
+Message ID: 1296292335809728543
+Message Type: 21
+Reply to: 1296291553542668393
+Timestamp: 2024-10-17T02:02:56.804+00:00
+Author: Jack Joannides KC text admin (jjoannid)
+Author Id: 477560366432256000
+Avatar URL: assets\791c521e62160be1f3df04992f6e5470-36A38.png
+Content: 
+--------------------
+
+--- Message ---
+Message ID: 1296292446799527946
+Message Type: Default
+Reply to: None
+Timestamp: 2024-10-17T02:03:23.266+00:00
+Author: Jack Joannides KC text admin (jjoannid)
+Author Id: 477560366432256000
+Avatar URL: assets\791c521e62160be1f3df04992f6e5470-36A38.png
+Content: Did you direct message <@1269872908759597148> that you updated your discord name?
+--------------------
+
+--- Message ---
+Message ID: 1296292603238682737
+Message Type: Default
+Reply to: None
+Timestamp: 2024-10-17T02:04:00.564+00:00
+Author: Ian Fitzgerald (fitzydoodle6713)
+Author Id: 689115981146226759
+Avatar URL: assets\3-FB033.png
+Content: Just did!
+--------------------
+
+--- Message ---
+Message ID: 1296293696521765008
+Message Type: Default
+Reply to: None
+Timestamp: 2024-10-17T02:08:21.223+00:00
+Author: Jack Joannides KC text admin (jjoannid)
+Author Id: 477560366432256000
+Avatar URL: assets\791c521e62160be1f3df04992f6e5470-36A38.png
+Content: Great.
+--------------------
+
+--- Message ---
+Message ID: 1296310892123783290
+Message Type: Reply
+Reply to: 1296292603238682737
+Timestamp: 2024-10-17T03:16:40.974+00:00
+Author: Roberta Bavin CA KC Greeter/Mod (roberta_24935)
+Author Id: 1269872908759597148
+Avatar URL: assets\df6d19d97b04a49ffcafbe7be14c7839-D9CE4.png
+Content: Hi Ian- Just sent you a DM. Please let me know if you can't find it. Thanks!
+--------------------

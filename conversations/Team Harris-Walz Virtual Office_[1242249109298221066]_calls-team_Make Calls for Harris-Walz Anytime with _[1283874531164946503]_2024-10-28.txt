@@ -1,0 +1,38 @@
+Guild: Team Harris-Walz Virtual Office (ID: 1242249109298221066)
+Channel: Make Calls for Harris-Walz Anytime with ... (ID: 1283874531164946503)
+Channel Topic: None
+Exported At: 2024-10-28T20:38:34.3387224+00:00
+
+
+--- Message ---
+Message ID: 1283875680874139812
+Message Type: 21
+Reply to: 1283874531164946503
+Timestamp: 2024-09-12T19:43:35.577+00:00
+Author: eric (ericschimel)
+Author Id: 399235224510398474
+Avatar URL: assets\17ef6ac075bba99b780dfcef819e2929-68FA5.png
+Content: 
+--------------------
+
+--- Message ---
+Message ID: 1283875683004710974
+Message Type: Default
+Reply to: None
+Timestamp: 2024-09-12T19:43:36.085+00:00
+Author: eric (ericschimel)
+Author Id: 399235224510398474
+Avatar URL: assets\17ef6ac075bba99b780dfcef819e2929-68FA5.png
+Content: You rock, thank you!
+--------------------
+
+--- Message ---
+Message ID: 1283876305791881267
+Message Type: Reply
+Reply to: 1283875683004710974
+Timestamp: 2024-09-12T19:46:04.569+00:00
+Author: Mike L [Call Mod] [NY] (mikemmp)
+Author Id: 1126346745106944050
+Avatar URL: assets\757a5f3db1a47ba562988f32d1e64fea-98313.png
+Content: I should be thanking you, &  I appreciate your efforts!  <:thankyou:1252806147396735057> <:thankyou:1252806147396735057>
+--------------------

@@ -1,0 +1,21 @@
+- author_avatar_url: assets\1-B2132.png
+  author_id: '1298083341798735874'
+  author_name: stevenweinberg_49898
+  author_nickname: Steven Weinberg
+  content: how do I code a person who has already voted
+  id: '1298737281674379374'
+  ref_to: null
+  timestamp: '2024-10-23T19:58:17.323+00:00'
+  type: Default
+- author_avatar_url: assets\43ec2b9e8ddf26e3072b9feb4516a5fd-3D55A.png
+  author_id: '1277408157664284795'
+  author_name: denise.ward
+  author_nickname: Denise Ward [CO] [Call MOD]
+  content: Some scripts have an already voted option, if not select who they intend
+    to vote for and how - if you are able to get that detail.  You can select end
+    survey after entering the relevant info.  When they vote they'll be removed from
+    our list.
+  id: '1298737934450819145'
+  ref_to: null
+  timestamp: '2024-10-23T20:00:52.957+00:00'
+  type: Default

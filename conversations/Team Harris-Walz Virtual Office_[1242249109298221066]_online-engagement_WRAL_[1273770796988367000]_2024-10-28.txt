@@ -1,0 +1,38 @@
+Guild: Team Harris-Walz Virtual Office (ID: 1242249109298221066)
+Channel: WRAL (ID: 1273770796988367000)
+Channel Topic: None
+Exported At: 2024-10-28T21:53:26.7503696+00:00
+
+
+--- Message ---
+Message ID: 1273772981889404980
+Message Type: 21
+Reply to: 1273770796988367000
+Timestamp: 2024-08-15T22:39:04.44+00:00
+Author: rootsmusic (rootsmusic)
+Author Id: 791857656897732648
+Avatar URL: assets\a30e650576a6d42a3c9ee24648f67c90-2AE37.png
+Content: 
+--------------------
+
+--- Message ---
+Message ID: 1273772983973974197
+Message Type: Default
+Reply to: None
+Timestamp: 2024-08-15T22:39:04.937+00:00
+Author: rootsmusic (rootsmusic)
+Author Id: 791857656897732648
+Avatar URL: assets\a30e650576a6d42a3c9ee24648f67c90-2AE37.png
+Content: Yes, this server doesn't have any channel about your complaint.  Your state's coordinated campaign staff should be aware.  (No law requires balance in political coverage, and any such law wouldn't even apply to ads.)
+--------------------
+
+--- Message ---
+Message ID: 1273773304632578120
+Message Type: Default
+Reply to: None
+Timestamp: 2024-08-15T22:40:21.388+00:00
+Author: Katzinjam (katherine_62422)
+Author Id: 1268699561677946953
+Avatar URL: assets\e139d19f5c07f73e5e72e956fc0d5afb-AA502.png
+Content: <@791857656897732648> gotcha ok thank you
+--------------------

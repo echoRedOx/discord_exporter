@@ -1,0 +1,27 @@
+Guild: Team Harris-Walz Virtual Office (ID: 1242249109298221066)
+Channel: I have not received the onboarding dm (ID: 1281252580806234233)
+Channel Topic: None
+Exported At: 2024-10-28T23:39:16.9890108+00:00
+
+
+--- Message ---
+Message ID: 1281261855964270673
+Message Type: 21
+Reply to: 1281252580806234233
+Timestamp: 2024-09-05T14:37:11.156+00:00
+Author: Nicole Morris - Text Admin (nmorris237)
+Author Id: 935762347753103382
+Avatar URL: assets\27b1e286b65ae02b3378793b5f098411-A7B20.png
+Content: 
+--------------------
+
+--- Message ---
+Message ID: 1281261890772795392
+Message Type: Default
+Reply to: None
+Timestamp: 2024-09-05T14:37:19.455+00:00
+Author: Nicole Morris - Text Admin (nmorris237)
+Author Id: 935762347753103382
+Avatar URL: assets\27b1e286b65ae02b3378793b5f098411-A7B20.png
+Content: Hi <@1090813028171268116> I will send you a follow up DM now!
+--------------------

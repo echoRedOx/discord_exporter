@@ -1,0 +1,27 @@
+Guild: Team Harris-Walz Virtual Office (ID: 1242249109298221066)
+Channel: I would like to do some texting is there (ID: 1299489841473654876)
+Channel Topic: None
+Exported At: 2024-10-28T22:10:12.925829+00:00
+
+
+--- Message ---
+Message ID: 1299512221554053160
+Message Type: 21
+Reply to: 1299489841473654876
+Timestamp: 2024-10-25T23:17:37.388+00:00
+Author: Roberta Bavin CA KC Greeter/Mod (roberta_24935)
+Author Id: 1269872908759597148
+Avatar URL: assets\df6d19d97b04a49ffcafbe7be14c7839-D9CE4.png
+Content: 
+--------------------
+
+--- Message ---
+Message ID: 1299512223898669088
+Message Type: Default
+Reply to: None
+Timestamp: 2024-10-25T23:17:37.947+00:00
+Author: Roberta Bavin CA KC Greeter/Mod (roberta_24935)
+Author Id: 1269872908759597148
+Avatar URL: assets\df6d19d97b04a49ffcafbe7be14c7839-D9CE4.png
+Content: Our text trainings have ended, but you can check out ⁠⁠the <#1268426751164551199> or <#1298623273566732300> channels. We would also love help with making phone calls during this final stretch -- you can sign up for that at https://events.democrats.org/event/725393/ . Thank you!
+--------------------

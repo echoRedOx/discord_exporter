@@ -1,0 +1,93 @@
+Guild: Team Harris-Walz Virtual Office (ID: 1242249109298221066)
+Channel: Stephanie Helsel. More than 72 hours (ID: 1284918634963140681)
+Channel Topic: None
+Exported At: 2024-10-28T23:22:53.7774275+00:00
+
+
+--- Message ---
+Message ID: 1284920040012906527
+Message Type: 21
+Reply to: 1284918634963140681
+Timestamp: 2024-09-15T16:53:30.199+00:00
+Author: Nicole Morris - Text Admin (nmorris237)
+Author Id: 935762347753103382
+Avatar URL: assets\27b1e286b65ae02b3378793b5f098411-A7B20.png
+Content: 
+--------------------
+
+--- Message ---
+Message ID: 1284920041573191723
+Message Type: Default
+Reply to: None
+Timestamp: 2024-09-15T16:53:30.571+00:00
+Author: Nicole Morris - Text Admin (nmorris237)
+Author Id: 935762347753103382
+Avatar URL: assets\27b1e286b65ae02b3378793b5f098411-A7B20.png
+Content: Hi <@1283914546846634095> Thanks! It looks like Andrew sent you a Direct Message on Discord yesterday -- let us know if you don't see it.
+--------------------
+
+--- Message ---
+Message ID: 1284920829418930257
+Message Type: Default
+Reply to: None
+Timestamp: 2024-09-15T16:56:38.408+00:00
+Author: Stephanie Helsel (CO) (slhelsel)
+Author Id: 1283914546846634095
+Avatar URL: assets\8569adcbd36c70a7578c017bf5604ea5-05CA3.png
+Content: Where do I find that DM?
+--------------------
+
+--- Message ---
+Message ID: 1284921794838532258
+Message Type: Default
+Reply to: None
+Timestamp: 2024-09-15T17:00:28.582+00:00
+Author: Nicole Morris - Text Admin (nmorris237)
+Author Id: 935762347753103382
+Avatar URL: assets\27b1e286b65ae02b3378793b5f098411-A7B20.png
+Content: No problem! <@1283914546846634095> Are you on a computer or tablet/phone?
+--------------------
+
+--- Message ---
+Message ID: 1284923228137197628
+Message Type: Default
+Reply to: None
+Timestamp: 2024-09-15T17:06:10.307+00:00
+Author: Saucefive (saucefive)
+Author Id: 1276721899216441344
+Avatar URL: assets\cadc3f72c8e83eb61e92b4af972b155f-9A47D.png
+Content: I signed up to text, but keep getting texts about being on the phone bank. I m also getting some texts addressing me as someone else.
+--------------------
+
+--- Message ---
+Message ID: 1284923453295824927
+Message Type: Default
+Reply to: None
+Timestamp: 2024-09-15T17:07:03.989+00:00
+Author: Nicole Morris - Text Admin (nmorris237)
+Author Id: 935762347753103382
+Avatar URL: assets\27b1e286b65ae02b3378793b5f098411-A7B20.png
+Content: Hi <@1276721899216441344> Thanks! Did you sign up for a text training at this link? https://events.democrats.org/event/672393/
+--------------------
+
+--- Message ---
+Message ID: 1284925269458817074
+Message Type: Default
+Reply to: None
+Timestamp: 2024-09-15T17:14:16.996+00:00
+Author: Stephanie Helsel (CO) (slhelsel)
+Author Id: 1283914546846634095
+Avatar URL: assets\8569adcbd36c70a7578c017bf5604ea5-05CA3.png
+Content: Thank you, I found it and completed the training and signed up for Scale to Win
+--------------------
+
+--- Message ---
+Message ID: 1284925367035105321
+Message Type: Default
+Reply to: None
+Timestamp: 2024-09-15T17:14:40.26+00:00
+Author: Nicole Morris - Text Admin (nmorris237)
+Author Id: 935762347753103382
+Avatar URL: assets\27b1e286b65ae02b3378793b5f098411-A7B20.png
+Content: Hi - wonderful, thanks! I'll follow up with you now Stephanie.
+--------------------

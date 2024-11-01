@@ -1,0 +1,27 @@
+Guild: Team Harris-Walz Virtual Office (ID: 1242249109298221066)
+Channel: Where can I find video clips of Trump or Harris explaining their positions on relevant issues? (ID: 1277657532017676318)
+Channel Topic: None
+Exported At: 2024-10-28T20:22:24.8649322+00:00
+
+
+--- Message ---
+Message ID: 1277657532017676318
+Message Type: Default
+Reply to: None
+Timestamp: 2024-08-26T15:54:53.362+00:00
+Author: TandemTeachers (tandemteachers)
+Author Id: 725536096641089550
+Avatar URL: assets\5dbb0a551d6f7151b4eada744876ceaa-3D14D.png
+Content: I was wondering if there was a video archive or playlist of Trump and Kamala videos that show their stance on important issues. For example, if I am speaking with a Trump supporter that is not aware of what Trump has said about the constitution, I could share a video of that. Is there something like that? I think it would be a really helpful resource to help get clarity and facts around important issues.
+--------------------
+
+--- Message ---
+Message ID: 1277660951214162001
+Message Type: Default
+Reply to: None
+Timestamp: 2024-08-26T16:08:28.562+00:00
+Author: Frances Haydock (HFP HQ!) (franceshaydock_20619)
+Author Id: 1257469301435400238
+Avatar URL: assets\8286d5b1308e7b3d80a3523e4ec50548-C029D.png
+Content: Please ask this question in <#1250550849998946417> — they have great resources and knowledge there!
+--------------------

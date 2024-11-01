@@ -1,0 +1,27 @@
+- author_avatar_url: assets\df6d19d97b04a49ffcafbe7be14c7839-D9CE4.png
+  author_id: '1269872908759597148'
+  author_name: roberta_24935
+  author_nickname: Roberta Bavin CA KC Greeter/Mod
+  content: ''
+  id: '1284528134586372137'
+  ref_to: '1284515638739472405'
+  timestamp: '2024-09-14T14:56:12.664+00:00'
+  type: '21'
+- author_avatar_url: assets\df6d19d97b04a49ffcafbe7be14c7839-D9CE4.png
+  author_id: '1269872908759597148'
+  author_name: roberta_24935
+  author_nickname: Roberta Bavin CA KC Greeter/Mod
+  content: Hi Jen-Please see DM sent yesterday afternoon. Thanks!
+  id: '1284528157453455381'
+  ref_to: null
+  timestamp: '2024-09-14T14:56:18.116+00:00'
+  type: Default
+- author_avatar_url: assets\b2926d652c87047139bab29cf7fee522-8957B.png
+  author_id: '309474467946561538'
+  author_name: roxchic
+  author_nickname: Jen Purkey New York
+  content: Sorry about that, and done.
+  id: '1284532818675761182'
+  ref_to: '1284528157453455381'
+  timestamp: '2024-09-14T15:14:49.438+00:00'
+  type: Reply

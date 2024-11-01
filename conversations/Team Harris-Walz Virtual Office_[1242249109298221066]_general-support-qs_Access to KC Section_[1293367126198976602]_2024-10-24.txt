@@ -1,0 +1,71 @@
+Guild: Team Harris-Walz Virtual Office (ID: 1242249109298221066)
+Channel: Access to KC Section (ID: 1293367126198976602)
+Channel Topic: None
+Exported At: 2024-10-24T06:27:29.3971717+00:00
+
+
+--- Message ---
+Message ID: 1293367126198976602
+Message Type: Default
+Reply to: None
+Timestamp: 2024-10-09T00:19:12.485+00:00
+Author: Michael Rudnick (michael.rudnick)
+Author Id: 1286483782639161394
+Avatar URL: assets\0b3e9ac7891c1dec9167753a95756b9b-7F232.png
+Content: I went thru the Captains training for Data Captain and completed a shadow session. Jay Eilers was working with me to get access to the KC section in Discord. However, I’m still don’t have access to the LC section and can’t sign up for sessions. Eva suggested I post here for help. Thanks.
+--------------------
+
+--- Message ---
+Message ID: 1293373397312602175
+Message Type: Default
+Reply to: None
+Timestamp: 2024-10-09T00:44:07.635+00:00
+Author: Frances Haydock (HFP HQ!) (franceshaydock_20619)
+Author Id: 1257469301435400238
+Avatar URL: assets\8286d5b1308e7b3d80a3523e4ec50548-C029D.png
+Content: Just gave you the role!
+--------------------
+
+--- Message ---
+Message ID: 1293398453681913887
+Message Type: Default
+Reply to: None
+Timestamp: 2024-10-09T02:23:41.539+00:00
+Author: Michael Rudnick (michael.rudnick)
+Author Id: 1286483782639161394
+Avatar URL: assets\0b3e9ac7891c1dec9167753a95756b9b-7F232.png
+Content: Thanks!
+--------------------
+
+--- Message ---
+Message ID: 1293580439142797363
+Message Type: Default
+Reply to: None
+Timestamp: 2024-10-09T14:26:50.254+00:00
+Author: Lodgegirl Bridget (Chat Captain) (lodgegirlbridget_38887)
+Author Id: 1275527385474666556
+Avatar URL: assets\ccdb791e829694f50775d16ea8387ae1-50689.png
+Content: Hi there <@1257469301435400238> ! I have done a few chat captain sessions and signed up for more over the next 27 days... would like to download the chat captain background - could you please give me access to the KC section in discord? Thank you so much for all you're doing!
+--------------------
+
+--- Message ---
+Message ID: 1293634923462393856
+Message Type: Default
+Reply to: None
+Timestamp: 2024-10-09T18:03:20.328+00:00
+Author: Frances Haydock (HFP HQ!) (franceshaydock_20619)
+Author Id: 1257469301435400238
+Avatar URL: assets\8286d5b1308e7b3d80a3523e4ec50548-C029D.png
+Content: Done!
+--------------------
+
+--- Message ---
+Message ID: 1293684279733387278
+Message Type: Reply
+Reply to: 1293580439142797363
+Timestamp: 2024-10-09T21:19:27.78+00:00
+Author: Jared R [CO] • Lead Mod (kyaizen)
+Author Id: 112080668296564736
+Avatar URL: assets\a_de0e3d4a3f9b486ad3ad6df0d72323da-D0252.gif
+Content: Linking the backgrounds in case you haven't found them yet: https://discord.com/channels/1242249109298221066/1281408325270900867
+--------------------

@@ -1,0 +1,40 @@
+Guild: Team Harris-Walz Virtual Office (ID: 1242249109298221066)
+Channel: Suggestion to improve announcements (ID: 1274778584950505623)
+Channel Topic: None
+Exported At: 2024-10-24T07:01:12.6388032+00:00
+
+
+--- Message ---
+Message ID: 1274778584950505623
+Message Type: Default
+Reply to: None
+Timestamp: 2024-08-18T17:14:58.893+00:00
+Author: Paul F MN CD4 Sec. (cookiemom)
+Author Id: 93923368448823296
+Avatar URL: assets\47ff3c27dfb4cf45c27e682c70e7c98b-7278D.png
+Content: Hi there! 
+
+I was looking at the announcements and saw that it was manually inputting the time. If you use <t:1724025600:f> you will get a time that shows the relative time for people in their local time zones. You can find many sites that will help you format it by searching for "Discord time stamp"
+--------------------
+
+--- Message ---
+Message ID: 1274782821386289163
+Message Type: Default
+Reply to: None
+Timestamp: 2024-08-18T17:31:48.938+00:00
+Author: Carolyn B [CA] • Lead Mod (carb.on)
+Author Id: 568257600228032512
+Avatar URL: assets\28a90c77b5793d80eb62484a43c66748-D8837.png
+Content: Thank you Paul, I appreciate you reminding me of this.
+--------------------
+
+--- Message ---
+Message ID: 1274791655270121513
+Message Type: Default
+Reply to: None
+Timestamp: 2024-08-18T18:06:55.1+00:00
+Author: Paul F MN CD4 Sec. (cookiemom)
+Author Id: 93923368448823296
+Avatar URL: assets\47ff3c27dfb4cf45c27e682c70e7c98b-7278D.png
+Content: Glad to be of assistance!
+--------------------

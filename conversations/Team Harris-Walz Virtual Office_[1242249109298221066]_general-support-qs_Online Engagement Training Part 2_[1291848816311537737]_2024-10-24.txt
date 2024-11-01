@@ -1,0 +1,27 @@
+Guild: Team Harris-Walz Virtual Office (ID: 1242249109298221066)
+Channel: Online Engagement Training Part 2 (ID: 1291848816311537737)
+Channel Topic: None
+Exported At: 2024-10-24T06:28:58.8495276+00:00
+
+
+--- Message ---
+Message ID: 1291848816311537737
+Message Type: Default
+Reply to: None
+Timestamp: 2024-10-04T19:45:59.199+00:00
+Author: Cindy M (cindym0153)
+Author Id: 1291078090440708147
+Avatar URL: assets\0-EB806.png
+Content: I thought i was registering for the above training, but it turned out to be the wrong class. Can you tell me where i can find the sign up?
+--------------------
+
+--- Message ---
+Message ID: 1291850465763659959
+Message Type: Default
+Reply to: None
+Timestamp: 2024-10-04T19:52:32.459+00:00
+Author: Carolyn B [CA] • Lead Mod (carb.on)
+Author Id: 568257600228032512
+Avatar URL: assets\28a90c77b5793d80eb62484a43c66748-D8837.png
+Content: Hi <@1291078090440708147> here is the link https://events.democrats.org/event/647793/?force_banner=true&share_context=event_details&share_medium=copy_link
+--------------------

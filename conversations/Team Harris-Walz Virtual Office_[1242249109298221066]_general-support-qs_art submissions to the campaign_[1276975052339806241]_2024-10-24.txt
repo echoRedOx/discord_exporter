@@ -1,0 +1,38 @@
+Guild: Team Harris-Walz Virtual Office (ID: 1242249109298221066)
+Channel: art submissions to the campaign (ID: 1276975052339806241)
+Channel Topic: None
+Exported At: 2024-10-24T06:56:08.7204811+00:00
+
+
+--- Message ---
+Message ID: 1276975052339806241
+Message Type: Default
+Reply to: None
+Timestamp: 2024-08-24T18:42:57.527+00:00
+Author: Elianne R (NY) TranslationSupprt (elianne_ramos)
+Author Id: 1266824293480661072
+Avatar URL: assets\272bb134168514c554d95ed217aed7af-6F01E.png
+Content: <@&1245831457818279986> <@&1266883962727432304> , I have a question: A professional artist friend created a poster of Kamala and would like to give the campaign full rights to use it. She asked me to find out the right process to do this. Can someone advise? I can connect the appropriate person to her directly. Thanks!
+--------------------
+
+--- Message ---
+Message ID: 1276977698698428511
+Message Type: Default
+Reply to: None
+Timestamp: 2024-08-24T18:53:28.468+00:00
+Author: Carolyn B [CA] • Lead Mod (carb.on)
+Author Id: 568257600228032512
+Avatar URL: assets\28a90c77b5793d80eb62484a43c66748-D8837.png
+Content: Hi <@1266824293480661072> this is so great. We don't handle this kind of request or rights management. I suggest your friend reach out on this contact form https://democrats.org/contact-us/
+--------------------
+
+--- Message ---
+Message ID: 1277304862958288939
+Message Type: Default
+Reply to: None
+Timestamp: 2024-08-25T16:33:30.506+00:00
+Author: Elianne R (NY) TranslationSupprt (elianne_ramos)
+Author Id: 1266824293480661072
+Avatar URL: assets\272bb134168514c554d95ed217aed7af-6F01E.png
+Content: Thanks so much, Carolyn, I will let her know!
+--------------------

@@ -1,0 +1,18 @@
+Guild: Team Harris-Walz Virtual Office (ID: 1242249109298221066)
+Channel: Discord Community Guidelines (ID: 1268002701900382208)
+Channel Topic: None
+Exported At: 2024-10-28T20:31:38.718291+00:00
+
+
+--- Message ---
+Message ID: 1268002701900382208
+Message Type: Default
+Reply to: None
+Timestamp: 2024-07-31T00:30:02.484+00:00
+Author: rootsmusic (rootsmusic)
+Author Id: 791857656897732648
+Avatar URL: assets\a30e650576a6d42a3c9ee24648f67c90-2AE37.png
+Content: > 3.  Do not post links to petitions or other calls to action that haven’t been approved by Staff.
+
+In <#1242249109298221069>, can I share links to events from other groups that support Kamala Harris?  For example, from Women For Harris' [National Organizing Call](https://www.facebook.com/womenforbidenharris/posts/pfbid0J4qu2TDPUX3AV6yf8pK8ubfTsxemKippvZvSZSxeMWsTPa8K29p4JQJ91Z3g4992l )?  Or [events co-sponsored](https://www.facebook.com/photo?fbid=901106005381830&set=a.305993331559770) by them (along with DemCast USA, The Democratic Coalition, Field Team Six, Network NOVA, Volunteer Blue, the Women of Color Coalition)?
+--------------------

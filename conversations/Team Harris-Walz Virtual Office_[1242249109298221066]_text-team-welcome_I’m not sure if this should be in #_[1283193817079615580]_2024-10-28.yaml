@@ -1,0 +1,27 @@
+- author_avatar_url: assets\791c521e62160be1f3df04992f6e5470-36A38.png
+  author_id: '477560366432256000'
+  author_name: jjoannid
+  author_nickname: Jack Joannides KC text admin
+  content: ''
+  id: '1283197264910749756'
+  ref_to: '1283193817079615580'
+  timestamp: '2024-09-10T22:47:48.607+00:00'
+  type: '21'
+- author_avatar_url: assets\791c521e62160be1f3df04992f6e5470-36A38.png
+  author_id: '477560366432256000'
+  author_name: jjoannid
+  author_nickname: Jack Joannides KC text admin
+  content: Please ask it in <#1259238714157305936> next time.
+  id: '1283197266727010356'
+  ref_to: null
+  timestamp: '2024-09-10T22:47:49.04+00:00'
+  type: Default
+- author_avatar_url: assets\85e4e4ea8a7bf64e8e9d505b81210872-9F30A.png
+  author_id: '745889496624529419'
+  author_name: changes_what_changes
+  author_nickname: Jake Smolowe [California]
+  content: <@477560366432256000> thank you, I will!
+  id: '1283197967167131709'
+  ref_to: null
+  timestamp: '2024-09-10T22:50:36.038+00:00'
+  type: Default

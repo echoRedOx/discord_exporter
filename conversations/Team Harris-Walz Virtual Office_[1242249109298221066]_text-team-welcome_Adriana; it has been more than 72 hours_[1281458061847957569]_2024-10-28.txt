@@ -1,0 +1,38 @@
+Guild: Team Harris-Walz Virtual Office (ID: 1242249109298221066)
+Channel: Adriana; it has been more than 72 hours (ID: 1281458061847957569)
+Channel Topic: None
+Exported At: 2024-10-28T23:37:18.5659915+00:00
+
+
+--- Message ---
+Message ID: 1281460535111450664
+Message Type: 21
+Reply to: 1281458061847957569
+Timestamp: 2024-09-06T03:46:39.956+00:00
+Author: Jack Joannides KC text admin (jjoannid)
+Author Id: 477560366432256000
+Avatar URL: assets\791c521e62160be1f3df04992f6e5470-36A38.png
+Content: 
+--------------------
+
+--- Message ---
+Message ID: 1281460536965464064
+Message Type: Default
+Reply to: None
+Timestamp: 2024-09-06T03:46:40.398+00:00
+Author: Jack Joannides KC text admin (jjoannid)
+Author Id: 477560366432256000
+Avatar URL: assets\791c521e62160be1f3df04992f6e5470-36A38.png
+Content: You should of gotten a direct message from Roberta. Please check direct messages.
+--------------------
+
+--- Message ---
+Message ID: 1281465207524429869
+Message Type: Reply
+Reply to: 1281460536965464064
+Timestamp: 2024-09-06T04:05:13.946+00:00
+Author: Roberta Bavin CA KC Greeter/Mod (roberta_24935)
+Author Id: 1269872908759597148
+Avatar URL: assets\df6d19d97b04a49ffcafbe7be14c7839-D9CE4.png
+Content: Messages sent 9/2. Thanks!
+--------------------

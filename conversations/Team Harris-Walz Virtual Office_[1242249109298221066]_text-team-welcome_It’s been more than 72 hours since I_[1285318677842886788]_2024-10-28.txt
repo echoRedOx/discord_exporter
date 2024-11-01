@@ -1,0 +1,38 @@
+Guild: Team Harris-Walz Virtual Office (ID: 1242249109298221066)
+Channel: It’s been more than 72 hours since I (ID: 1285318677842886788)
+Channel Topic: None
+Exported At: 2024-10-28T23:19:47.3832197+00:00
+
+
+--- Message ---
+Message ID: 1285318926292484186
+Message Type: 21
+Reply to: 1285318677842886788
+Timestamp: 2024-09-16T19:18:32.099+00:00
+Author: Roberta Bavin CA KC Greeter/Mod (roberta_24935)
+Author Id: 1269872908759597148
+Avatar URL: assets\df6d19d97b04a49ffcafbe7be14c7839-D9CE4.png
+Content: 
+--------------------
+
+--- Message ---
+Message ID: 1285318929132163233
+Message Type: Default
+Reply to: None
+Timestamp: 2024-09-16T19:18:32.776+00:00
+Author: Roberta Bavin CA KC Greeter/Mod (roberta_24935)
+Author Id: 1269872908759597148
+Avatar URL: assets\df6d19d97b04a49ffcafbe7be14c7839-D9CE4.png
+Content: Hi Horace-Please look for DM I sent you on 9/12. Thanks for checking in. <:thankyou:1252806147396735057>
+--------------------
+
+--- Message ---
+Message ID: 1285381039165931581
+Message Type: Default
+Reply to: None
+Timestamp: 2024-09-16T23:25:20.962+00:00
+Author: Horace Balmer - Houston (ny2houston)
+Author Id: 847510362349764629
+Avatar URL: assets\5-E9BDB.png
+Content: Thank you. I found the DM that was sent on 9/12. I had no idea where to go in the app for DMs. My bad. I’m 54. My 13 year old son had to show me. 😁
+--------------------

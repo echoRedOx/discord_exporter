@@ -1,0 +1,37 @@
+- author_avatar_url: assets\791c521e62160be1f3df04992f6e5470-36A38.png
+  author_id: '477560366432256000'
+  author_name: jjoannid
+  author_nickname: Jack Joannides KC text admin
+  content: ''
+  id: '1293620665152442440'
+  ref_to: '1293614595793096757'
+  timestamp: '2024-10-09T17:06:40.882+00:00'
+  type: '21'
+- author_avatar_url: assets\791c521e62160be1f3df04992f6e5470-36A38.png
+  author_id: '477560366432256000'
+  author_name: jjoannid
+  author_nickname: Jack Joannides KC text admin
+  content: 'You can take a training here: https://events.democrats.org/event/672393/'
+  id: '1293620667349995541'
+  ref_to: null
+  timestamp: '2024-10-09T17:06:41.406+00:00'
+  type: Default
+- author_avatar_url: assets\6c5996770c985bcd6e5b68131ff2ba04-1EE06.png
+  author_id: '1280680519440531480'
+  author_name: revjkb
+  author_nickname: JennKB-PA
+  content: <@477560366432256000> what is the application you need to download to do
+    texting
+  id: '1293713304270667849'
+  ref_to: null
+  timestamp: '2024-10-09T23:14:47.769+00:00'
+  type: Default
+- author_avatar_url: assets\791c521e62160be1f3df04992f6e5470-36A38.png
+  author_id: '477560366432256000'
+  author_name: jjoannid
+  author_nickname: Jack Joannides KC text admin
+  content: You don't have to download a platform.
+  id: '1293715678368628767'
+  ref_to: null
+  timestamp: '2024-10-09T23:24:13.798+00:00'
+  type: Default

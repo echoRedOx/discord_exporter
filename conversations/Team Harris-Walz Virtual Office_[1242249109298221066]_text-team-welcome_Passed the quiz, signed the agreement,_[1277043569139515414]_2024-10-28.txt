@@ -1,0 +1,27 @@
+Guild: Team Harris-Walz Virtual Office (ID: 1242249109298221066)
+Channel: Passed the quiz, signed the agreement, (ID: 1277043569139515414)
+Channel Topic: None
+Exported At: 2024-10-29T00:07:53.2372743+00:00
+
+
+--- Message ---
+Message ID: 1277055901148385331
+Message Type: 21
+Reply to: 1277043569139515414
+Timestamp: 2024-08-25T00:04:13.385+00:00
+Author: Nicole Morris - Text Admin (nmorris237)
+Author Id: 935762347753103382
+Avatar URL: assets\27b1e286b65ae02b3378793b5f098411-A7B20.png
+Content: 
+--------------------
+
+--- Message ---
+Message ID: 1277055902343495731
+Message Type: Default
+Reply to: None
+Timestamp: 2024-08-25T00:04:13.67+00:00
+Author: Nicole Morris - Text Admin (nmorris237)
+Author Id: 935762347753103382
+Avatar URL: assets\27b1e286b65ae02b3378793b5f098411-A7B20.png
+Content: Thanks <@1277034134643937305> Please keep an eye on your Direct Messages in Discord within the next 24-48 hours for final steps on getting added to the text channels! It'll be a notification on the top left in Discord
+--------------------

@@ -1,0 +1,72 @@
+Guild: Team Harris-Walz Virtual Office (ID: 1242249109298221066)
+Channel: ready to give up (ID: 1273470068336099358)
+Channel Topic: None
+Exported At: 2024-10-24T07:02:15.1083092+00:00
+
+
+--- Message ---
+Message ID: 1273470068336099358
+Message Type: Default
+Reply to: None
+Timestamp: 2024-08-15T02:35:24.221+00:00
+Author: JeffSteele (jeffsteele999)
+Author Id: 1273454096673800274
+Avatar URL: assets\893e790d53608c310bd98125ccddbef1-F80C5.png
+Content: I cannot send messages. Each time I try I am told I am not connected to the server. Carolyn B responded and told me I am connected. She asked where I’m trying to post. But guess what? I COULDN’T RESPOND TO HER BECAUSE MY MESSAGES ARE REJECTED. I’m getting ready to give up.
+--------------------
+
+--- Message ---
+Message ID: 1273470711813509213
+Message Type: Default
+Reply to: None
+Timestamp: 2024-08-15T02:37:57.638+00:00
+Author: Carolyn B [CA] • Lead Mod (carb.on)
+Author Id: 568257600228032512
+Avatar URL: assets\28a90c77b5793d80eb62484a43c66748-D8837.png
+Content: Hi Jeff, i see you are using your phone. Are you on a stable network? 
+Also I sent you a friend request for direct message, it will be at the top of your Discord server list.
+--------------------
+
+--- Message ---
+Message ID: 1273478455551332382
+Message Type: Default
+Reply to: None
+Timestamp: 2024-08-15T03:08:43.889+00:00
+Author: Marie B. | PA/NJ | OE/KC (mariebroph2677695)
+Author Id: 941196169852366859
+Avatar URL: assets\4412fd436c9a7d43a1770d5771bbdd0c-8CC79.png
+Content: Jeff I also sent you a DM with a suggestion where you clear the storage for the app on your phone. The steps I gave are for Android but I'm sure that iOS has something similar.
+--------------------
+
+--- Message ---
+Message ID: 1273478799979315274
+Message Type: Reply
+Reply to: 1273478455551332382
+Timestamp: 2024-08-15T03:10:06.007+00:00
+Author: Carolyn B [CA] • Lead Mod (carb.on)
+Author Id: 568257600228032512
+Avatar URL: assets\28a90c77b5793d80eb62484a43c66748-D8837.png
+Content: Thanks! I had him swipe-up the app then restart the phone, works fine now.
+--------------------
+
+--- Message ---
+Message ID: 1273479128057909270
+Message Type: Default
+Reply to: None
+Timestamp: 2024-08-15T03:11:24.227+00:00
+Author: Marie B. | PA/NJ | OE/KC (mariebroph2677695)
+Author Id: 941196169852366859
+Avatar URL: assets\4412fd436c9a7d43a1770d5771bbdd0c-8CC79.png
+Content: I had this happen with another app so I knew that aside from restarting, this trick works. The only thing is I only know how to do it on Android since I never used an iPhone.
+--------------------
+
+--- Message ---
+Message ID: 1273480112473374731
+Message Type: Reply
+Reply to: 1273479128057909270
+Timestamp: 2024-08-15T03:15:18.93+00:00
+Author: Carolyn B [CA] • Lead Mod (carb.on)
+Author Id: 568257600228032512
+Avatar URL: assets\28a90c77b5793d80eb62484a43c66748-D8837.png
+Content: It's called clear app cache on iPhone.
+--------------------

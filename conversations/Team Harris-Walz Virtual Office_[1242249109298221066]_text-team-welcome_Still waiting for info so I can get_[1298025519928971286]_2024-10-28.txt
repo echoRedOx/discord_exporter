@@ -1,0 +1,60 @@
+Guild: Team Harris-Walz Virtual Office (ID: 1242249109298221066)
+Channel: Still waiting for info so I can get (ID: 1298025519928971286)
+Channel Topic: None
+Exported At: 2024-10-28T22:23:26.4558398+00:00
+
+
+--- Message ---
+Message ID: 1298028146519576628
+Message Type: 21
+Reply to: 1298025519928971286
+Timestamp: 2024-10-21T21:00:26.327+00:00
+Author: Jack Joannides KC text admin (jjoannid)
+Author Id: 477560366432256000
+Avatar URL: assets\791c521e62160be1f3df04992f6e5470-36A38.png
+Content: 
+--------------------
+
+--- Message ---
+Message ID: 1298028150458155009
+Message Type: Default
+Reply to: None
+Timestamp: 2024-10-21T21:00:27.266+00:00
+Author: Jack Joannides KC text admin (jjoannid)
+Author Id: 477560366432256000
+Avatar URL: assets\791c521e62160be1f3df04992f6e5470-36A38.png
+Content: Please take a training here: https://events.democrats.org/event/715820/
+--------------------
+
+--- Message ---
+Message ID: 1298064224769015860
+Message Type: Default
+Reply to: None
+Timestamp: 2024-10-21T23:23:48.052+00:00
+Author: Wayne Josleyn (wayne_58719)
+Author Id: 1296591532018892894
+Avatar URL: assets\ae4aeb9445491348a2db9e398358e110-16710.png
+Content: Iv already took the training
+--------------------
+
+--- Message ---
+Message ID: 1298064902409420861
+Message Type: Default
+Reply to: None
+Timestamp: 2024-10-21T23:26:29.614+00:00
+Author: Jack Joannides KC text admin (jjoannid)
+Author Id: 477560366432256000
+Avatar URL: assets\791c521e62160be1f3df04992f6e5470-36A38.png
+Content: Great. Can you update your display name.
+--------------------
+
+--- Message ---
+Message ID: 1298343784412872775
+Message Type: Default
+Reply to: None
+Timestamp: 2024-10-22T17:54:40.265+00:00
+Author: Wayne Josleyn (wayne_58719)
+Author Id: 1296591532018892894
+Avatar URL: assets\ae4aeb9445491348a2db9e398358e110-16710.png
+Content: Wqyne Josleyn
+--------------------

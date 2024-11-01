@@ -1,0 +1,49 @@
+Guild: Team Harris-Walz Virtual Office (ID: 1242249109298221066)
+Channel: What do we mark if they've already voted? (ID: 1291845144621875241)
+Channel Topic: None
+Exported At: 2024-10-24T12:46:25.7947205+00:00
+
+
+--- Message ---
+Message ID: 1291845144621875241
+Message Type: Default
+Reply to: None
+Timestamp: 2024-10-04T19:31:23.8+00:00
+Author: Doug Glancy (dougg_70123)
+Author Id: 1277033505246937140
+Avatar URL: assets\4-4551A.png
+Content: Unfortunately I accidentally closed the tab when I tried to check which campaign, so it's theoretical I guess. It was in Michigan and the woman had already voted for Kamala.
+--------------------
+
+--- Message ---
+Message ID: 1291845875366105208
+Message Type: Default
+Reply to: None
+Timestamp: 2024-10-04T19:34:18.023+00:00
+Author: Alan Z (CA) [Call Mod] (lovelightphoto_86652)
+Author Id: 1156958211065270323
+Avatar URL: assets\8ef62717b6ae0c24ebb16d1b0ea4b07e-DDC39.png
+Content: If I understand correctly... it would be "Talking to Correct Person" => "Strong Harris."    We don't yet have a button for already voted.
+--------------------
+
+--- Message ---
+Message ID: 1291849886677078113
+Message Type: Default
+Reply to: None
+Timestamp: 2024-10-04T19:50:14.394+00:00
+Author: Helen Fairbrother[NJ] [Call Mod] (helen_fair)
+Author Id: 1277403351667048508
+Avatar URL: assets\ffcbaca1edffb25ac530087181864d5a-E82C5.png
+Content: Also, on the Zoom call yesterday, the facilitator and staff person said we don't act on self-reported voting.  Depending on when states count votes, we may get back-end data that allows us to remove voters from lists, or we may continue to call them for volunteer opportunities.
+--------------------
+
+--- Message ---
+Message ID: 1292180756055064687
+Message Type: Default
+Reply to: None
+Timestamp: 2024-10-05T17:44:59.801+00:00
+Author: Jen Medeiros [CA] • [Lead Mod] (starkittynmom)
+Author Id: 1276944250491113656
+Avatar URL: assets\a_2aba4b7f19fcab5fe5391fcdb73d735d-D670A.gif
+Content: I was told yesterday that the campaign is pulling voter data daily and updating the calls lists accordingly. So people should be taken off the lists within a few days of voting (depending on the processing time for mail in ballots)
+--------------------

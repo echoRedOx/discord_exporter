@@ -1,0 +1,59 @@
+Guild: Team Harris-Walz Virtual Office (ID: 1242249109298221066)
+Channel: Caption tips? (ID: 1286823505421271163)
+Channel Topic: None
+Exported At: 2024-10-24T06:31:43.5213901+00:00
+
+
+--- Message ---
+Message ID: 1286823505421271163
+Message Type: Default
+Reply to: None
+Timestamp: 2024-09-20T22:57:11.717+00:00
+Author: sweet3stperfecti0n (izzy) (blackswarmer590323)
+Author Id: 737399297099825254
+Avatar URL: assets\47f17ed5dec6c2b4af7913ca332dab22-68FD5.png
+Content: Hi everyone!
+
+ I want to send out a pretty consistent stream of content supporting Harris/Walz across my platforms, but I am a little lost on the captions part. I usually would write my own captions, but I want to ensure I’m sending out appropriate information that benefits the campaign and aligns with key messaging. So, I was wondering if there’s a resource of pre-written captions available, and if not, if anyone has some general tips on what exactly I should be writing?
+
+I want to make sure I’m conveying the right things and would appreciate any guidance, thank you so much!!
+--------------------
+
+--- Message ---
+Message ID: 1287104626503585957
+Message Type: Default
+Reply to: None
+Timestamp: 2024-09-21T17:34:16.206+00:00
+Author: Carolyn B [CA] • Lead Mod (carb.on)
+Author Id: 568257600228032512
+Avatar URL: assets\28a90c77b5793d80eb62484a43c66748-D8837.png
+Content: Hi <@737399297099825254> if you are using Reach to automatically send content to your platforms, there is usually "suggested post" text above the image. If you aren't using Reach to automatically send, you can still use it to copy/paste the comment text wherever you need.
+--------------------
+
+--- Message ---
+Message ID: 1287609492141506610
+Message Type: Default
+Reply to: None
+Timestamp: 2024-09-23T03:00:25.554+00:00
+Author: Kay Adams [Mod] (science4979)
+Author Id: 652991652448698388
+Avatar URL: assets\3d8690866ff0e62607a449287de8ca1d-57B17.png
+Content: <@&1252689433208291358> any advice here?
+--------------------
+
+--- Message ---
+Message ID: 1287628328865497098
+Message Type: Default
+Reply to: None
+Timestamp: 2024-09-23T04:15:16.579+00:00
+Author: RJ Gilman [CA][OE Lead] (rj_weatherwax)
+Author Id: 1056295974194122842
+Avatar URL: assets\25735137099d8bdfe5eeda6e2ac928bd-BF1B5.png
+Content: Seconding Carolyn B's suggestion in re: Reach and using the "Suggested Post" text associated with the image/video you want to use. You can find this by going the Info (i) button on both your phone and laptop.
+
+Labels associated with the image/video can also be used as hashtags and/or used to generate a few lines of copy (or a teaser) should there not be any suggested copy there.
+
+Keep it simple. Keep it joyful. If you can, find a way to connect the message in the image/video to your audience.
+
+You got this!
+--------------------

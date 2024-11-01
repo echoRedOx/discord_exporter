@@ -1,0 +1,39 @@
+- author_avatar_url: assets\df6d19d97b04a49ffcafbe7be14c7839-D9CE4.png
+  author_id: '1269872908759597148'
+  author_name: roberta_24935
+  author_nickname: Roberta Bavin CA KC Greeter/Mod
+  content: ''
+  id: '1293989156120166402'
+  ref_to: '1293975670652670054'
+  timestamp: '2024-10-10T17:30:55.975+00:00'
+  type: '21'
+- author_avatar_url: assets\df6d19d97b04a49ffcafbe7be14c7839-D9CE4.png
+  author_id: '1269872908759597148'
+  author_name: roberta_24935
+  author_nickname: Roberta Bavin CA KC Greeter/Mod
+  content: Hi <@369561391692120084> Thanks for reaching out. It looks like Andrew
+    sent you a DM on 10/8. Please look for it at upper left hand side of Discord at
+    the game controller icon. Thanks for being here!
+  id: '1293989159823868016'
+  ref_to: null
+  timestamp: '2024-10-10T17:30:56.858+00:00'
+  type: Default
+- author_avatar_url: assets\2-ADBB4.png
+  author_id: '369561391692120084'
+  author_name: eileen161152
+  author_nickname: EileenSerra [MI]
+  content: Sorry, not seeing that DM. I had to reconnect my phone number to this account
+    today so I could send messages. Could Andrew or someone send it again?
+  id: '1294057661381214351'
+  ref_to: null
+  timestamp: '2024-10-10T22:03:08.902+00:00'
+  type: Default
+- author_avatar_url: assets\df6d19d97b04a49ffcafbe7be14c7839-D9CE4.png
+  author_id: '1269872908759597148'
+  author_name: roberta_24935
+  author_nickname: Roberta Bavin CA KC Greeter/Mod
+  content: Just sent you a DM! Did you find it?
+  id: '1294096711018614805'
+  ref_to: '1294057661381214351'
+  timestamp: '2024-10-11T00:38:19.061+00:00'
+  type: Reply

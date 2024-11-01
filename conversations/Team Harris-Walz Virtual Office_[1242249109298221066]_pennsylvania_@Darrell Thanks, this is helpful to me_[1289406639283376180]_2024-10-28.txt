@@ -1,0 +1,29 @@
+Guild: Team Harris-Walz Virtual Office (ID: 1242249109298221066)
+Channel: @Darrell Thanks, this is helpful to me (ID: 1289406639283376180)
+Channel Topic: None
+Exported At: 2024-10-29T00:37:38.64432+00:00
+
+
+--- Message ---
+Message ID: 1289574868509266002
+Message Type: 21
+Reply to: 1289406639283376180
+Timestamp: 2024-09-28T13:10:07.795+00:00
+Author: Daryl (darrell_pa)
+Author Id: 1288296844346261621
+Avatar URL: assets\4-4551A.png
+Content: 
+--------------------
+
+--- Message ---
+Message ID: 1289574870337847382
+Message Type: Default
+Reply to: None
+Timestamp: 2024-09-28T13:10:08.231+00:00
+Author: Daryl (darrell_pa)
+Author Id: 1288296844346261621
+Avatar URL: assets\4-4551A.png
+Content: I do not know for certain.  If I was trying to make that outcome (in-person door-knocking/canvasing outside of planned events) I'd show up to 1-2 of the scheduled ones and talk to organizers.  They likely will have extra lists and timing flexibility for a proven volunteer.  I've seen that realized a bunch of times.    For example:  Think about the most simple case of: other volunteers at the big event not finishing their zones and there's some additional coverage to be done to complete them.   Also realize that not every person organizing volunteers are highly connected in the area, many are chipping in like all of us, but with activity you end up more likely to connect with folks.
+
+I'd go do some organized events, be successful/figure-out-if-you-like-it, and then ask around about more.
+--------------------

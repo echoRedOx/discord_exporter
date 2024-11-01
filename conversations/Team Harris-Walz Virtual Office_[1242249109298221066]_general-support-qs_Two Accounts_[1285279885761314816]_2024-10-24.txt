@@ -1,0 +1,38 @@
+Guild: Team Harris-Walz Virtual Office (ID: 1242249109298221066)
+Channel: Two Accounts (ID: 1285279885761314816)
+Channel Topic: None
+Exported At: 2024-10-24T06:35:35.1207028+00:00
+
+
+--- Message ---
+Message ID: 1285279885761314816
+Message Type: Default
+Reply to: None
+Timestamp: 2024-09-16T16:43:24.111+00:00
+Author: Sara Schwedelson (She/Her) [NJ] (saradawn86)
+Author Id: 684509183562743826
+Avatar URL: assets\3-FB033.png
+Content: Hi, I'm trying to be onboarded for texting. But it seems I made two Discord accounts. I thought I deleted one but it's still showing up. Is there any way to know that I deleted it correctly, and how to be properly onboarded on this accout which is the right one? The one that was created a few years ago is the correct one, and the one that was created today was by mistake.
+--------------------
+
+--- Message ---
+Message ID: 1285296565476655226
+Message Type: Default
+Reply to: None
+Timestamp: 2024-09-16T17:49:40.865+00:00
+Author: Carolyn B [CA] • Lead Mod (carb.on)
+Author Id: 568257600228032512
+Avatar URL: assets\28a90c77b5793d80eb62484a43c66748-D8837.png
+Content: Hi <@684509183562743826> Disocrd says it takes 14 days to delete an account. I have some time later today to dig into this on zoom and get your number re-assigned to the correct account. If you don't have time today, and you can't wait 14 days for Discord to delete, there is one other work-around of using a family member's phone to verify today and then replacing it with your phone when the other account is deleted.
+--------------------
+
+--- Message ---
+Message ID: 1285303435016798352
+Message Type: Default
+Reply to: None
+Timestamp: 2024-09-16T18:16:58.691+00:00
+Author: Sara Schwedelson (She/Her) [NJ] (saradawn86)
+Author Id: 684509183562743826
+Avatar URL: assets\3-FB033.png
+Content: Thank you!! I don't mind to wait I think my number is connected to the correct account. Thank you for the response!!
+--------------------

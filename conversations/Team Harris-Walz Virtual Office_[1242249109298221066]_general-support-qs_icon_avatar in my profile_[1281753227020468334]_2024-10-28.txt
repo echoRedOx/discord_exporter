@@ -1,0 +1,82 @@
+Guild: Team Harris-Walz Virtual Office (ID: 1242249109298221066)
+Channel: icon/avatar in my profile (ID: 1281753227020468334)
+Channel Topic: None
+Exported At: 2024-10-28T20:09:12.3333925+00:00
+
+
+--- Message ---
+Message ID: 1281753227020468334
+Message Type: Default
+Reply to: None
+Timestamp: 2024-09-06T23:09:43.145+00:00
+Author: David W [OR] (dayandnight25)
+Author Id: 1272416530390585447
+Avatar URL: assets\1-B2132.png
+Content: How do I add an icon or avatar to my Discord profile so it’s not just the “Discord guy” or whatever that thing is? When I try, the system only lets me add an avatar if I sign up for paid Nitro which I don’t want to do. I want a free avatar. Thanks.
+--------------------
+
+--- Message ---
+Message ID: 1281758494483152958
+Message Type: Default
+Reply to: None
+Timestamp: 2024-09-06T23:30:39.006+00:00
+Author: Carolyn B [CA] • Lead Mod (carb.on)
+Author Id: 568257600228032512
+Avatar URL: assets\28a90c77b5793d80eb62484a43c66748-D8837.png
+Content: Hi <@1272416530390585447> I can help you with this. Click on your profile then click on the discord guy then click edit profile then click on the discord guy and you will see a pencil. This is on desktop. it is similar on mobile.
+--------------------
+
+--- Message ---
+Message ID: 1281763770544291891
+Message Type: Default
+Reply to: None
+Timestamp: 2024-09-06T23:51:36.917+00:00
+Author: David W [OR] (dayandnight25)
+Author Id: 1272416530390585447
+Avatar URL: assets\1-B2132.png
+Content: When I do this, I see three options: 1) upload image (from my photos) 2) get animated avatars, unlock with Nitro (which I don’t want to subscribe to) 3) change decorations. Which option gets me free avatars? I’m using an iPad.
+--------------------
+
+--- Message ---
+Message ID: 1281765795034304633
+Message Type: Default
+Reply to: None
+Timestamp: 2024-09-06T23:59:39.593+00:00
+Author: Frances Haydock [HQ Staff Alt] (msloki01)
+Author Id: 430470599064682507
+Avatar URL: assets\a9493779f6f0e06c0c98b2ddf25a0db5-17406.png
+Content: Your best best is to upload an image to replace the default discord image it gives you. I’m not sure what you mean by free avatars, though.
+--------------------
+
+--- Message ---
+Message ID: 1281766184844263455
+Message Type: Reply
+Reply to: 1281763770544291891
+Timestamp: 2024-09-07T00:01:12.531+00:00
+Author: Carolyn B [CA] • Lead Mod (carb.on)
+Author Id: 568257600228032512
+Avatar URL: assets\28a90c77b5793d80eb62484a43c66748-D8837.png
+Content: Hi <@1272416530390585447> the free option is "upload from your photos"
+--------------------
+
+--- Message ---
+Message ID: 1281766489195806834
+Message Type: Default
+Reply to: None
+Timestamp: 2024-09-07T00:02:25.094+00:00
+Author: Carolyn B [CA] • Lead Mod (carb.on)
+Author Id: 568257600228032512
+Avatar URL: assets\28a90c77b5793d80eb62484a43c66748-D8837.png
+Content: you can get/make free avatars by photographing or screenshotting something on your device
+--------------------
+
+--- Message ---
+Message ID: 1281766703667089419
+Message Type: Default
+Reply to: None
+Timestamp: 2024-09-07T00:03:16.228+00:00
+Author: David W [OR] (dayandnight25)
+Author Id: 1272416530390585447
+Avatar URL: assets\1-B2132.png
+Content: Something like what you and Carolyn B have next to your name which doesn’t require paid Nitro. Carolyn just clarified put something in my photo library and upload it (option 1). Thanks.
+--------------------

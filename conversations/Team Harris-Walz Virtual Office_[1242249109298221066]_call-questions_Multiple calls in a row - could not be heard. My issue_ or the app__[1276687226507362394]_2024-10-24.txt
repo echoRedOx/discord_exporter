@@ -1,0 +1,106 @@
+Guild: Team Harris-Walz Virtual Office (ID: 1242249109298221066)
+Channel: Multiple calls in a row - could not be heard. My issue? or the app? (ID: 1276687226507362394)
+Channel Topic: None
+Exported At: 2024-10-24T12:56:36.5388618+00:00
+
+
+--- Message ---
+Message ID: 1276687226507362394
+Message Type: Default
+Reply to: None
+Timestamp: 2024-08-23T23:39:14.501+00:00
+Author: Thomas W E (renown8908)
+Author Id: 160094709543469056
+Avatar URL: assets\564b1b06163ea6ffd4f6b556ca413fb0-21B7F.png
+Content: Essentially the headline.
+
+Called several people today, had some good talks some hang ups... but recently a lot of my calls have gone 'unheard'. Even had someone say "I'm on a national do not call list" but I couldn't even be heard!
+--------------------
+
+--- Message ---
+Message ID: 1276710038529900649
+Message Type: Default
+Reply to: None
+Timestamp: 2024-08-24T01:09:53.311+00:00
+Author: Erica Ramos [CA] [Call Mod] (sdgc_76906)
+Author Id: 1206655433905930251
+Avatar URL: assets\d89cc8ea1b8dc7f778a48cfb80348315-7B1A6.png
+Content: Hi Thomas! Are you using one or two devices? Sometimes using two can be a little more consistent with audio
+--------------------
+
+--- Message ---
+Message ID: 1276716492293017651
+Message Type: Default
+Reply to: None
+Timestamp: 2024-08-24T01:35:32.008+00:00
+Author: Thomas W E (renown8908)
+Author Id: 160094709543469056
+Avatar URL: assets\564b1b06163ea6ffd4f6b556ca413fb0-21B7F.png
+Content: Was using one device. How would you recommend using two? I was using my phone to call and stay connected.
+--------------------
+
+--- Message ---
+Message ID: 1276716668780937298
+Message Type: Default
+Reply to: None
+Timestamp: 2024-08-24T01:36:14.086+00:00
+Author: Erica Ramos [CA] [Call Mod] (sdgc_76906)
+Author Id: 1206655433905930251
+Avatar URL: assets\d89cc8ea1b8dc7f778a48cfb80348315-7B1A6.png
+Content: Do you have a laptop or tablet in addition to your phone? You can connect to the dialer on the larger device and then use your phone for audio.
+--------------------
+
+--- Message ---
+Message ID: 1276717047287644190
+Message Type: Default
+Reply to: None
+Timestamp: 2024-08-24T01:37:44.329+00:00
+Author: Erica Ramos [CA] [Call Mod] (sdgc_76906)
+Author Id: 1206655433905930251
+Avatar URL: assets\d89cc8ea1b8dc7f778a48cfb80348315-7B1A6.png
+Content: When you first join the dialer, it will ask if you want to "Call with this device" or "Call with this device + phone for audio". If you pick the second, it will walk you through connecting your phone to the dialer 🙂
+--------------------
+
+--- Message ---
+Message ID: 1276737331961008190
+Message Type: Default
+Reply to: None
+Timestamp: 2024-08-24T02:58:20.572+00:00
+Author: Thomas W E (renown8908)
+Author Id: 160094709543469056
+Avatar URL: assets\564b1b06163ea6ffd4f6b556ca413fb0-21B7F.png
+Content: Unfortunately, not all on the same network. I have a desktop that is wired, and my phone is on the network.
+--------------------
+
+--- Message ---
+Message ID: 1276737496805412914
+Message Type: Default
+Reply to: None
+Timestamp: 2024-08-24T02:58:59.874+00:00
+Author: Thomas W E (renown8908)
+Author Id: 160094709543469056
+Avatar URL: assets\564b1b06163ea6ffd4f6b556ca413fb0-21B7F.png
+Content: my gf has a laptop... we were planning on phone banking together tomorrow.
+--------------------
+
+--- Message ---
+Message ID: 1276741104657764393
+Message Type: Default
+Reply to: None
+Timestamp: 2024-08-24T03:13:20.053+00:00
+Author: Erica Ramos [CA] [Call Mod] (sdgc_76906)
+Author Id: 1206655433905930251
+Avatar URL: assets\d89cc8ea1b8dc7f778a48cfb80348315-7B1A6.png
+Content: I don't think it has to be on the same network - I think it calls your phone and uses that for audio but not your phone number. But check in tomorrow - there are lots of Mods with more expertiese than me on this one 🙂
+--------------------
+
+--- Message ---
+Message ID: 1276933664936169673
+Message Type: Default
+Reply to: None
+Timestamp: 2024-08-24T15:58:30.001+00:00
+Author: Lisa Valdez CA (pisa.lisa)
+Author Id: 1245459437200740413
+Avatar URL: assets\562ebff150e8449fd2b4a2cb13576652-2286D.png
+Content: Thomas, I always use two devices and I can assure you don't need to share the network. You could call from a land line, it wouldn't matter so long as your using scale to win on the computer. Sometimes I also have issues where they can't hear me. Sometimes they are faking it and the reason I know that is because I learned some tricks. If it happens more than 3x in a row, just disconnect your phone (hang up) and restart the session.
+--------------------

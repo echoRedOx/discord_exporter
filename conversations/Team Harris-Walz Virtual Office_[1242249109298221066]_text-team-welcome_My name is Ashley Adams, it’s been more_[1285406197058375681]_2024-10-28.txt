@@ -1,0 +1,27 @@
+Guild: Team Harris-Walz Virtual Office (ID: 1242249109298221066)
+Channel: My name is Ashley Adams, it’s been more (ID: 1285406197058375681)
+Channel Topic: None
+Exported At: 2024-10-28T23:18:48.370102+00:00
+
+
+--- Message ---
+Message ID: 1285406517582888982
+Message Type: 21
+Reply to: 1285406197058375681
+Timestamp: 2024-09-17T01:06:35.49+00:00
+Author: Roberta Bavin CA KC Greeter/Mod (roberta_24935)
+Author Id: 1269872908759597148
+Avatar URL: assets\df6d19d97b04a49ffcafbe7be14c7839-D9CE4.png
+Content: 
+--------------------
+
+--- Message ---
+Message ID: 1285406519696953375
+Message Type: Default
+Reply to: None
+Timestamp: 2024-09-17T01:06:35.994+00:00
+Author: Roberta Bavin CA KC Greeter/Mod (roberta_24935)
+Author Id: 1269872908759597148
+Avatar URL: assets\df6d19d97b04a49ffcafbe7be14c7839-D9CE4.png
+Content: Hi Ashley! Thanks for reaching out! Please see a Direct Message (DM) sent 9/14 by Andrew! <:thankyou:1252806147396735057>
+--------------------

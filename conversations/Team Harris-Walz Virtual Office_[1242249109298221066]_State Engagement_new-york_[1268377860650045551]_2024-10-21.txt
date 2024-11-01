@@ -1,0 +1,4907 @@
+Guild: Team Harris-Walz Virtual Office (ID: 1242249109298221066)
+Channel: new-york (ID: 1268377860650045551)
+Channel Topic: To discuss organizing endeavors specific to New York!
+Exported At: 2024-10-21T17:11:00.4164912+00:00
+
+
+--- Message ---
+Message ID: 1268751558703579219
+Message Type: Default
+Reply to: None
+Timestamp: 2024-08-02T02:05:43.859+00:00
+Author: Dorthea King-Simpson (dortheakingsimpson)
+Author Id: 1268700656743612417
+Avatar URL: assets\65475662df73c5875bc4a1d6f590e5fe-10DB5.png
+Content: Hey there fellow NewYorkers
+--------------------
+
+--- Message ---
+Message ID: 1268759284934643854
+Message Type: Default
+Reply to: None
+Timestamp: 2024-08-02T02:36:25.936+00:00
+Author: Shauna Ford [NY] KC Text Mod (shauna4d)
+Author Id: 793246922642292757
+Avatar URL: assets\9e43b5d4cac2d533cff85d707f2622e3-148D2.png
+Content: Hello everyone!
+--------------------
+
+--- Message ---
+Message ID: 1268775767374954597
+Message Type: Default
+Reply to: None
+Timestamp: 2024-08-02T03:41:55.656+00:00
+Author: Nick from NY (itsnickk5525)
+Author Id: 260982275506700288
+Avatar URL: assets\33bc28b94ceba3872bed7864e06e3045-6FEAB.png
+Content: Hello from Rochester!
+--------------------
+
+--- Message ---
+Message ID: 1268894616690757735
+Message Type: Default
+Reply to: None
+Timestamp: 2024-08-02T11:34:11.541+00:00
+Author: Sneaky (akshith.)
+Author Id: 188843088213573632
+Avatar URL: assets\0cbf38f188fa62aca76609a07ddd41b4-1D27A.png
+Content: Hello from Brooklyn!!
+--------------------
+
+--- Message ---
+Message ID: 1268930010396229743
+Message Type: Default
+Reply to: None
+Timestamp: 2024-08-02T13:54:50.058+00:00
+Author: Elianne R (NY) TranslationSupprt (elianne_ramos)
+Author Id: 1266824293480661072
+Avatar URL: assets\272bb134168514c554d95ed217aed7af-6F01E.png
+Content: Hi from Brooklyn!
+--------------------
+
+--- Message ---
+Message ID: 1268937383437406281
+Message Type: Default
+Reply to: None
+Timestamp: 2024-08-02T14:24:07.928+00:00
+Author: Cindy Martinez NY She/Her (cindymartinez0953)
+Author Id: 1254211318479589500
+Avatar URL: assets\42954754289fac156c2d5b7732e326aa-07A55.png
+Content: Hi from Queens!
+--------------------
+
+--- Message ---
+Message ID: 1268946791336771659
+Message Type: Default
+Reply to: None
+Timestamp: 2024-08-02T15:01:30.946+00:00
+Author: Dorthea King-Simpson (dortheakingsimpson)
+Author Id: 1268700656743612417
+Avatar URL: assets\65475662df73c5875bc4a1d6f590e5fe-10DB5.png
+Content: I'm looking to do an event in Rochester NY...anyone else working on something in my area?
+--------------------
+
+--- Message ---
+Message ID: 1268958048446058496
+Message Type: Default
+Reply to: None
+Timestamp: 2024-08-02T15:46:14.85+00:00
+Author: Susan Cooke (susancooke.)
+Author Id: 1266874993615044659
+Avatar URL: assets\32f3b80278ddf0a7d5b0aa6893e96f20-0BC3E.png
+Content: Hello from the Hudson Valley!
+--------------------
+
+--- Message ---
+Message ID: 1268987122300489801
+Message Type: Default
+Reply to: None
+Timestamp: 2024-08-02T17:41:46.597+00:00
+Author: Paul Adler (NY) (paul.nyc.)
+Author Id: 1266164199416139868
+Avatar URL: assets\77bb089ec382370d81a0c2e938488719-A6E4F.png
+Content: Greetings from Hell’s Kitchen/Midtown West, Manhattan!
+--------------------
+
+--- Message ---
+Message ID: 1268991161398329447
+Message Type: Default
+Reply to: None
+Timestamp: 2024-08-02T17:57:49.593+00:00
+Author: Lydia (geneparmesan0649)
+Author Id: 774034807570956319
+Avatar URL: assets\99cb4c36a520fc234581aade0ee93cbe-50334.png
+Content: Hello from Manhattan!
+--------------------
+
+--- Message ---
+Message ID: 1269006866730450974
+Message Type: Default
+Reply to: None
+Timestamp: 2024-08-02T19:00:14.036+00:00
+Author: Bawkle (bawkle)
+Author Id: 191418037797126144
+Avatar URL: assets\df0a3f33f144201719d7a13e36de3d3c-10DFA.png
+Content: Hello from the forgotten borough. We're not all bad! 😛
+--------------------
+
+--- Message ---
+Message ID: 1269328106360143944
+Message Type: Default
+Reply to: None
+Timestamp: 2024-08-03T16:16:43.532+00:00
+Author: Christine Bronico (NY) (christinebronico)
+Author Id: 1265074525855289346
+Avatar URL: assets\9ae7ee0575dc08bb3a427d25175e4f16-D517E.png
+Content: Hiya from the UES of NYC
+--------------------
+
+--- Message ---
+Message ID: 1269335700138885260
+Message Type: Default
+Reply to: None
+Timestamp: 2024-08-03T16:46:54.03+00:00
+Author: Nancy Harris Bonk (nanica621)
+Author Id: 1269333310430249010
+Avatar URL: assets\8569adcbd36c70a7578c017bf5604ea5-5E8F6.png
+Content: Hi from Albany!
+--------------------
+
+--- Message ---
+Message ID: 1269418116236972112
+Message Type: Default
+Reply to: None
+Timestamp: 2024-08-03T22:14:23.559+00:00
+Author: ValerieAnne (valerieanne_45441)
+Author Id: 769255081655795713
+Avatar URL: assets\1-B2132.png
+Content: Greetings from the Mohawk Valley!
+--------------------
+
+--- Message ---
+Message ID: 1269713881605996629
+Message Type: Default
+Reply to: None
+Timestamp: 2024-08-04T17:49:39.518+00:00
+Author: Jeremy Cooper [NY] (jeremycooper7)
+Author Id: 690942768943464561
+Avatar URL: assets\26dd6f566ab58ddf2522782555f14fd4-8E1EB.png
+Content: Aw! No New York emojis on Discord 😦 😦
+--------------------
+
+--- Message ---
+Message ID: 1269740532662538401
+Message Type: Default
+Reply to: None
+Timestamp: 2024-08-04T19:35:33.625+00:00
+Author: Suki van Dijk (sukivandijk_36388)
+Author Id: 1266164782080327710
+Avatar URL: assets\d2a50d4825e64a63a0e1e6f975a9db34-96E9A.png
+Content: Suki from Rye! (Westchester County)
+--------------------
+
+--- Message ---
+Message ID: 1269775386288324658
+Message Type: Default
+Reply to: None
+Timestamp: 2024-08-04T21:54:03.377+00:00
+Author: Tracey Mapou NY (villaparadiso)
+Author Id: 1131680183003398164
+Avatar URL: assets\be054fba944231cb6b4c07f35727d51f-474AC.png
+Content: NYC here
+--------------------
+
+--- Message ---
+Message ID: 1269776681510633565
+Message Type: Default
+Reply to: None
+Timestamp: 2024-08-04T21:59:12.182+00:00
+Author: Shauna Ford [NY] KC Text Mod (shauna4d)
+Author Id: 793246922642292757
+Avatar URL: assets\9e43b5d4cac2d533cff85d707f2622e3-148D2.png
+Content: Rockland County here ❤️  Hi everyone
+--------------------
+
+--- Message ---
+Message ID: 1270154283349708941
+Message Type: Default
+Reply to: None
+Timestamp: 2024-08-05T22:59:39.476+00:00
+Author: Mari-Yan-Call MOD (mari4democracy)
+Author Id: 1267752019188514826
+Avatar URL: assets\21c8d66834b0276b383d08a4dc731346-5FF36.png
+Content: Signing in from Queens 🙌🏾
+--------------------
+
+--- Message ---
+Message ID: 1270373362526584852
+Message Type: Default
+Reply to: None
+Timestamp: 2024-08-06T13:30:12.022+00:00
+Author: Emmanuelle Molina (emmanuellemolina)
+Author Id: 1266164375597879378
+Avatar URL: assets\b3d2206449ac73fc46bbd89cebd1d2df-3734E.png
+Content: Hello from Long Island/NYC/NJ!!! I’m an Independent. This is my first time volunteering for a political campaign.
+--------------------
+
+--- Message ---
+Message ID: 1270378191143440524
+Message Type: Default
+Reply to: None
+Timestamp: 2024-08-06T13:49:23.254+00:00
+Author: Cory (NYC) (aloha456)
+Author Id: 484137878717202494
+Avatar URL: assets\09990d1f70dd0cc85d575dd06370369f-22E39.png
+Content: Me too! Never done this before, but wanting to get involved!
+--------------------
+
+--- Message ---
+Message ID: 1270381638500618311
+Message Type: Default
+Reply to: None
+Timestamp: 2024-08-06T14:03:05.168+00:00
+Author: Dorthea King-Simpson (dortheakingsimpson)
+Author Id: 1268700656743612417
+Avatar URL: assets\65475662df73c5875bc4a1d6f590e5fe-10DB5.png
+Content: My new slogan Hairusss (Harris) as we waltz (Waltz) into the White House!
+#47
+--------------------
+
+--- Message ---
+Message ID: 1270381996774002749
+Message Type: Default
+Reply to: None
+Timestamp: 2024-08-06T14:04:30.587+00:00
+Author: Dorthea King-Simpson (dortheakingsimpson)
+Author Id: 1268700656743612417
+Avatar URL: assets\65475662df73c5875bc4a1d6f590e5fe-10DB5.png
+Content: 😆
+--------------------
+
+--- Message ---
+Message ID: 1270433669294854154
+Message Type: Default
+Reply to: None
+Timestamp: 2024-08-06T17:29:50.276+00:00
+Author: Dean O. (dean_89705)
+Author Id: 1266164141891129374
+Avatar URL: assets\7cd97d27b81c352168d53e8257758143-6F0A8.png
+Content: Is there a channel for people from New York who want to volunteer on the ground in Pennsylvania?
+--------------------
+
+--- Message ---
+Message ID: 1270471673342328882
+Message Type: Reply
+Reply to: 1270433669294854154
+Timestamp: 2024-08-06T20:00:51.147+00:00
+Author: Mari-Yan-Call MOD (mari4democracy)
+Author Id: 1267752019188514826
+Avatar URL: assets\21c8d66834b0276b383d08a4dc731346-5FF36.png
+Content: <@1257469301435400238> may be able to guide you on next steps
+--------------------
+
+--- Message ---
+Message ID: 1270471819299655731
+Message Type: Reply
+Reply to: 1270471673342328882
+Timestamp: 2024-08-06T20:01:25.946+00:00
+Author: Dean O. (dean_89705)
+Author Id: 1266164141891129374
+Avatar URL: assets\7cd97d27b81c352168d53e8257758143-6F0A8.png
+Content: Thanks!
+--------------------
+
+--- Message ---
+Message ID: 1270500115454365857
+Message Type: Reply
+Reply to: 1270471819299655731
+Timestamp: 2024-08-06T21:53:52.275+00:00
+Author: Nick from NY (itsnickk5525)
+Author Id: 260982275506700288
+Avatar URL: assets\33bc28b94ceba3872bed7864e06e3045-6FEAB.png
+Content: I am in the same boat, they can add you to the Pennsylvania channel.
+
+There isn’t much organizing for in person events currently in that channel, though.
+
+Let me know what you find, I am planning to go down to PA a few weekends and canvass or do whatever needs to be done!
+--------------------
+
+--- Message ---
+Message ID: 1270500255666016337
+Message Type: Reply
+Reply to: 1270471819299655731
+Timestamp: 2024-08-06T21:54:25.704+00:00
+Author: Nick from NY (itsnickk5525)
+Author Id: 260982275506700288
+Avatar URL: assets\33bc28b94ceba3872bed7864e06e3045-6FEAB.png
+Content: When I asked I got this resource:
+
+“This will give you all the events from phonebanks to canvassing related to PA. I know Eastern PA around Allentown & the Philadelphia/Montgomery County/Bucks County area are always looking for people. I used to work as a field volunteer with PA Dems. https://www.mobilize.us/padems/ “
+--------------------
+
+--- Message ---
+Message ID: 1270500363971330058
+Message Type: Reply
+Reply to: 1270500255666016337
+Timestamp: 2024-08-06T21:54:51.526+00:00
+Author: Dean O. (dean_89705)
+Author Id: 1266164141891129374
+Avatar URL: assets\7cd97d27b81c352168d53e8257758143-6F0A8.png
+Content: Great. Thanks much.
+--------------------
+
+--- Message ---
+Message ID: 1271521851000098857
+Message Type: Default
+Reply to: None
+Timestamp: 2024-08-09T17:33:53.012+00:00
+Author: Elianne R (NY) TranslationSupprt (elianne_ramos)
+Author Id: 1266824293480661072
+Avatar URL: assets\272bb134168514c554d95ed217aed7af-6F01E.png
+Content: Hello New Yorkers! I am organizing a virtual watch party for the convention (working on the details). Would folks be interested in joining? If so, I can share the link here once it's up on the Dems website. LMK, thanks!
+--------------------
+
+--- Message ---
+Message ID: 1271525321245458493
+Message Type: Default
+Reply to: None
+Timestamp: 2024-08-09T17:47:40.383+00:00
+Author: Dorthea King-Simpson (dortheakingsimpson)
+Author Id: 1268700656743612417
+Avatar URL: assets\65475662df73c5875bc4a1d6f590e5fe-10DB5.png
+Content: <@1266824293480661072> I'm happy to attend 😊
+--------------------
+
+--- Message ---
+Message ID: 1271530437109481494
+Message Type: Reply
+Reply to: 1271525321245458493
+Timestamp: 2024-08-09T18:08:00.1+00:00
+Author: Elianne R (NY) TranslationSupprt (elianne_ramos)
+Author Id: 1266824293480661072
+Avatar URL: assets\272bb134168514c554d95ed217aed7af-6F01E.png
+Content: Cool, I will tag you when I share the link so you can invite everyone you think may want to watch together!
+--------------------
+
+--- Message ---
+Message ID: 1271530592046940331
+Message Type: Default
+Reply to: None
+Timestamp: 2024-08-09T18:08:37.04+00:00
+Author: Dorthea King-Simpson (dortheakingsimpson)
+Author Id: 1268700656743612417
+Avatar URL: assets\65475662df73c5875bc4a1d6f590e5fe-10DB5.png
+Content: <@1266824293480661072> Awesomeness
+--------------------
+
+--- Message ---
+Message ID: 1271866210107260939
+Message Type: Default
+Reply to: None
+Timestamp: 2024-08-10T16:22:14.621+00:00
+Author: JoanRE (joanre_91347)
+Author Id: 1270181023241736193
+Avatar URL: assets\1-B2132.png
+Content: I am also happy to attend 😊
+--------------------
+
+--- Message ---
+Message ID: 1271884058766606477
+Message Type: Reply
+Reply to: 1271866210107260939
+Timestamp: 2024-08-10T17:33:10.073+00:00
+Author: Elianne R (NY) TranslationSupprt (elianne_ramos)
+Author Id: 1266824293480661072
+Avatar URL: assets\272bb134168514c554d95ed217aed7af-6F01E.png
+Content: Great, thanks. I will post the link here!
+--------------------
+
+--- Message ---
+Message ID: 1271887642019106919
+Message Type: Default
+Reply to: None
+Timestamp: 2024-08-10T17:47:24.387+00:00
+Author: Suzy Baka (suzy_baka)
+Author Id: 489491236508663819
+Avatar URL: assets\2c831cdcf4c4902604fa525ed2b2ff82-B8A36.png
+Content: I might be able to show up for parts :3
+--------------------
+
+--- Message ---
+Message ID: 1271893319735050250
+Message Type: Default
+Reply to: None
+Timestamp: 2024-08-10T18:09:58.06+00:00
+Author: KTMG  • Community Mod (ktmg)
+Author Id: 447570500030562314
+Avatar URL: assets\4ab56c60f334133787a2e11eccf36d79-7F4A0.png
+Content: This is just a reminder that you can sign up to phone bank, canvass, get trainings  or take other actions at https://events.democrats.org/ in your state or in one of our battleground states (NC, PA, GA, NH, WI, PA, MI, AZ, NV). Volunteers like you make all the difference! We look forward to seeing you at an event soon.
+--------------------
+
+--- Message ---
+Message ID: 1272198642064687165
+Message Type: Default
+Reply to: None
+Timestamp: 2024-08-11T14:23:12.576+00:00
+Author: Jeanne Brunson [NY] (jeanneb_ny)
+Author Id: 945061096086188122
+Avatar URL: assets\5-E9BDB.png
+Content: Long Island here!
+--------------------
+
+--- Message ---
+Message ID: 1272309963057922109
+Message Type: Default
+Reply to: None
+Timestamp: 2024-08-11T21:45:33.569+00:00
+Author: Elianne R (NY) TranslationSupprt (elianne_ramos)
+Author Id: 1266824293480661072
+Avatar URL: assets\272bb134168514c554d95ed217aed7af-6F01E.png
+Content: I will be hosting a virtual watch party for the convention on the 22nd and an in-person event on debate night, September 10th, and wanted to see who was interested in joining the host committee? Feel free to DM me and we can set up a time to chat. Would love all of us to be in on this together!
+--------------------
+
+--- Message ---
+Message ID: 1272327320312479863
+Message Type: Default
+Reply to: None
+Timestamp: 2024-08-11T22:54:31.861+00:00
+Author: Dorthea King-Simpson (dortheakingsimpson)
+Author Id: 1268700656743612417
+Avatar URL: assets\65475662df73c5875bc4a1d6f590e5fe-10DB5.png
+Content: <@1266824293480661072> I would love to collaborate on the 22 vitual...
+--------------------
+
+--- Message ---
+Message ID: 1272903871257247928
+Message Type: Default
+Reply to: None
+Timestamp: 2024-08-13T13:05:32.318+00:00
+Author: Liz (NY) (tallakahath)
+Author Id: 711431501593575524
+Avatar URL: assets\fa960fed080a269e1a992131a58f6211-726D0.png
+Content: Hello from Westchester and beautiful, sunny, *flippable* NY17!
+--------------------
+
+--- Message ---
+Message ID: 1272908802538082314
+Message Type: Reply
+Reply to: 1272903871257247928
+Timestamp: 2024-08-13T13:25:08.027+00:00
+Author: Jack Joannides KC text admin (jjoannid)
+Author Id: 477560366432256000
+Avatar URL: assets\791c521e62160be1f3df04992f6e5470-36A38.png
+Content: Welcome I'm also in NY 17.
+--------------------
+
+--- Message ---
+Message ID: 1272930176182910988
+Message Type: Default
+Reply to: None
+Timestamp: 2024-08-13T14:50:03.901+00:00
+Author: Dorthea King-Simpson (dortheakingsimpson)
+Author Id: 1268700656743612417
+Avatar URL: assets\65475662df73c5875bc4a1d6f590e5fe-10DB5.png
+Content: <@1266824293480661072> Good morning joyful warrior from NY! It was so nice chatting with you...I look forward to the 22nd!!!💜
+--------------------
+
+--- Message ---
+Message ID: 1273734834317033572
+Message Type: Default
+Reply to: None
+Timestamp: 2024-08-15T20:07:29.35+00:00
+Author: Was poppin? (waspoppin)
+Author Id: 725823856048341032
+Avatar URL: assets\c258a15a0fd8ee5435f8ad47315f2943-658A3.png
+Content: Hey
+--------------------
+
+--- Message ---
+Message ID: 1274060796309278831
+Message Type: Default
+Reply to: None
+Timestamp: 2024-08-16T17:42:44.745+00:00
+Author: softgrey (softgrey_22550_58880)
+Author Id: 1266904135786041364
+Avatar URL: assets\534409f193a1b3e454564a6082e1401e-0E6D5.png
+Content: Hi there- Wondering what we're gonna do about NY19- Marc Molinaro has got to go
+--------------------
+
+--- Message ---
+Message ID: 1274725557044510891
+Message Type: Default
+Reply to: None
+Timestamp: 2024-08-18T13:44:16.055+00:00
+Author: Paul in Newburgh (paulinnewburgh)
+Author Id: 1274405252514189383
+Avatar URL: assets\ed6d95cf5e1dbf7a027ee8b92282a4a9-53BC8.png
+Content: Hosting a fundraiser on September 8 in Newburgh.
+--------------------
+
+--- Message ---
+Message ID: 1274781572301590693
+Message Type: Default
+Reply to: None
+Timestamp: 2024-08-18T17:26:51.133+00:00
+Author: Elianne R (NY) TranslationSupprt (elianne_ramos)
+Author Id: 1266824293480661072
+Avatar URL: assets\272bb134168514c554d95ed217aed7af-6F01E.png
+Content: Friends and comrades, <@1268700656743612417> and I are hosting a virtual watch party this Thursday to witness  Kamala's historic acceptance speech., and you're all invited! Please find the link below, grab a favorite drink, and join us! https://mobilize.us/s/6mfym1
+--------------------
+
+--- Message ---
+Message ID: 1275393711794028549
+Message Type: ThreadCreated
+Reply to: None
+Timestamp: 2024-08-20T09:59:16.561+00:00
+Author: gibberish_grinch (gibberish_grinch)
+Author Id: 1273910058132181030
+Avatar URL: assets\3-FB033.png
+Content: Started a thread.
+--------------------
+
+--- Message ---
+Message ID: 1275519141247320207
+Message Type: Default
+Reply to: None
+Timestamp: 2024-08-20T18:17:41.273+00:00
+Author: Dorthea King-Simpson (dortheakingsimpson)
+Author Id: 1268700656743612417
+Avatar URL: assets\65475662df73c5875bc4a1d6f590e5fe-10DB5.png
+Content: <@1266824293480661072>  Let's make HERstory!
+--------------------
+
+--- Message ---
+Message ID: 1276159008230740079
+Message Type: Default
+Reply to: None
+Timestamp: 2024-08-22T12:40:17.45+00:00
+Author: gibberish_grinch (gibberish_grinch)
+Author Id: 1273910058132181030
+Avatar URL: assets\3-FB033.png
+Content: Does it seem to anyone else that it's more difficult to get any staff to pick up the phone at any of Schumer's or Gillebrand's offices since the pandemic? The republican house rep still has staff answering the phones usually). I remember it being easier in the past
+--------------------
+
+--- Message ---
+Message ID: 1276162259365789777
+Message Type: Default
+Reply to: None
+Timestamp: 2024-08-22T12:53:12.581+00:00
+Author: Liz (NY) (tallakahath)
+Author Id: 711431501593575524
+Avatar URL: assets\fa960fed080a269e1a992131a58f6211-726D0.png
+Content: I know I had trouble getting to any human, or even a voice mail box (vs just some message about the line being busy) when trying to call the governor's office after she killed Congestion Pricing. Haven't tried the Senate folks tho.
+--------------------
+
+--- Message ---
+Message ID: 1276163181718536274
+Message Type: Reply
+Reply to: 1276162259365789777
+Timestamp: 2024-08-22T12:56:52.487+00:00
+Author: gibberish_grinch (gibberish_grinch)
+Author Id: 1273910058132181030
+Avatar URL: assets\3-FB033.png
+Content: Thanks for the info. I guess they were swamped at the governors office after that. Or do they just turn off the lines? I don't know.  I rarely do get through to the senators, but it's not like it was.
+--------------------
+
+--- Message ---
+Message ID: 1276171846609539155
+Message Type: Default
+Reply to: None
+Timestamp: 2024-08-22T13:31:18.358+00:00
+Author: Liz (NY) (tallakahath)
+Author Id: 711431501593575524
+Avatar URL: assets\fa960fed080a269e1a992131a58f6211-726D0.png
+Content: I do recall having an easy time getting to my then-house-rep to complain about the utter fail of messaging w.r.t. the no-excuse abstentee ballot bill failing, which was why trying and failing to even *leave a message* for Hochul's office frustrated me so much.
+--------------------
+
+--- Message ---
+Message ID: 1276171895481434276
+Message Type: Default
+Reply to: None
+Timestamp: 2024-08-22T13:31:30.01+00:00
+Author: Liz (NY) (tallakahath)
+Author Id: 711431501593575524
+Avatar URL: assets\fa960fed080a269e1a992131a58f6211-726D0.png
+Content: I should go AngryCall again, since congestion pricing is still dead'd, and I'm still mad
+--------------------
+
+--- Message ---
+Message ID: 1276244603896463452
+Message Type: Reply
+Reply to: 1276171895481434276
+Timestamp: 2024-08-22T18:20:25.047+00:00
+Author: Kristen Rapp [NY] (kbrsuperstar)
+Author Id: 852586668212748388
+Avatar URL: assets\eabc988756bf7539f0f16df20d1ed16e-6863C.png
+Content: IDK if you've seen it but someone at the convention has been dragging Hochul on congestion pricing
+--------------------
+
+--- Message ---
+Message ID: 1276244617033154632
+Message Type: Default
+Reply to: None
+Timestamp: 2024-08-22T18:20:28.179+00:00
+Author: Kristen Rapp [NY] (kbrsuperstar)
+Author Id: 852586668212748388
+Avatar URL: assets\eabc988756bf7539f0f16df20d1ed16e-6863C.png
+Content: https://x.com/hqazi_/status/1825556143558783220
+--------------------
+
+--- Message ---
+Message ID: 1276244668526362747
+Message Type: Default
+Reply to: None
+Timestamp: 2024-08-22T18:20:40.456+00:00
+Author: Kristen Rapp [NY] (kbrsuperstar)
+Author Id: 852586668212748388
+Avatar URL: assets\eabc988756bf7539f0f16df20d1ed16e-6863C.png
+Content: https://x.com/strombergsteve/status/1826085093284123078
+--------------------
+
+--- Message ---
+Message ID: 1276264223151751335
+Message Type: Default
+Reply to: None
+Timestamp: 2024-08-22T19:38:22.642+00:00
+Author: Carolyn B [CA] • Lead Mod (carb.on)
+Author Id: 568257600228032512
+Avatar URL: assets\28a90c77b5793d80eb62484a43c66748-D8837.png
+Content: ## [New York Voter Information](https://www.vote.org/state/new-york/)
+--------------------
+
+--- Message ---
+Message ID: 1276264245650264225
+Message Type: ChannelPinnedMessage
+Reply to: 1276264223151751335
+Timestamp: 2024-08-22T19:38:28.006+00:00
+Author: Carolyn B [CA] • Lead Mod (carb.on)
+Author Id: 568257600228032512
+Avatar URL: assets\28a90c77b5793d80eb62484a43c66748-D8837.png
+Content: Pinned a message.
+--------------------
+
+--- Message ---
+Message ID: 1276320026663714846
+Message Type: Default
+Reply to: None
+Timestamp: 2024-08-22T23:20:07.236+00:00
+Author: alexandra (marais9160)
+Author Id: 1074776784207368402
+Avatar URL: assets\374448971e4297dfc0697d204edf1d9e-D0925.png
+Content: Hi all! I'm Alexandra! I just joined. I live in Brooklyn and I'm excited to meet you all!! We are not going back!!
+--------------------
+
+--- Message ---
+Message ID: 1276555895555493942
+Message Type: Default
+Reply to: None
+Timestamp: 2024-08-23T14:57:22.762+00:00
+Author: Dorthea King-Simpson (dortheakingsimpson)
+Author Id: 1268700656743612417
+Avatar URL: assets\65475662df73c5875bc4a1d6f590e5fe-10DB5.png
+Content: Hello,
+Is there a clip of the Central Park Five from last night?
+
+Thanks
+--------------------
+
+--- Message ---
+Message ID: 1276618536516718682
+Message Type: Default
+Reply to: None
+Timestamp: 2024-08-23T19:06:17.531+00:00
+Author: Cindy Martinez NY She/Her (cindymartinez0953)
+Author Id: 1254211318479589500
+Avatar URL: assets\42954754289fac156c2d5b7732e326aa-07A55.png
+Content: Hi <@1268700656743612417> I found this one on Twitter https://x.com/pettylupone/status/1826774742965322144?s=46&t=bc7Ukt5h2xGm0F8HIQFmng
+--------------------
+
+--- Message ---
+Message ID: 1276618614132183072
+Message Type: Default
+Reply to: None
+Timestamp: 2024-08-23T19:06:36.036+00:00
+Author: Stuart Reed (stuartreed)
+Author Id: 1275993510276759552
+Avatar URL: assets\be60b6b49656fae379781d4cc3c96356-251EC.png
+Content: Never forget! Trump learned how to be a lying, cheating and bullying developer from his dad in our beloved Brooklyn - their legacy is death, destruction and racism. This is a great, short documentary https://youtu.be/r6XCs652VDY?si=ONroF0qH6DtPJmFp
+--------------------
+
+--- Message ---
+Message ID: 1276619237162745970
+Message Type: Default
+Reply to: None
+Timestamp: 2024-08-23T19:09:04.578+00:00
+Author: Dorthea King-Simpson (dortheakingsimpson)
+Author Id: 1268700656743612417
+Avatar URL: assets\65475662df73c5875bc4a1d6f590e5fe-10DB5.png
+Content: <@1254211318479589500> 💜
+--------------------
+
+--- Message ---
+Message ID: 1276623219331305582
+Message Type: Default
+Reply to: None
+Timestamp: 2024-08-23T19:24:54.001+00:00
+Author: Cindy Martinez NY She/Her (cindymartinez0953)
+Author Id: 1254211318479589500
+Avatar URL: assets\42954754289fac156c2d5b7732e326aa-07A55.png
+Content: Hi again <@1268700656743612417> I found a longer clip. https://x.com/atrupar/status/1826774411984142661?s=46&t=bc7Ukt5h2xGm0F8HIQFmng
+--------------------
+
+--- Message ---
+Message ID: 1276624572162248797
+Message Type: Default
+Reply to: None
+Timestamp: 2024-08-23T19:30:16.541+00:00
+Author: Dorthea King-Simpson (dortheakingsimpson)
+Author Id: 1268700656743612417
+Avatar URL: assets\65475662df73c5875bc4a1d6f590e5fe-10DB5.png
+Content: <@1254211318479589500> <@1254211318479589500> 💜
+--------------------
+
+--- Message ---
+Message ID: 1276636123229061187
+Message Type: Default
+Reply to: None
+Timestamp: 2024-08-23T20:16:10.53+00:00
+Author: Zoe (NYC/GA) (zoetr0pe)
+Author Id: 297140434977947650
+Avatar URL: assets\d8511e4ba88d6e552e15751a9b9b7a9e-F71EB.png
+Content: Hi NY! I’m Zoe, I live in Brooklyn but I’m originally from Georgia and it’s my first presidential election not voting there. Excited to do voter outreach back home and in swing states!
+--------------------
+
+--- Message ---
+Message ID: 1276666624560201759
+Message Type: Default
+Reply to: None
+Timestamp: 2024-08-23T22:17:22.614+00:00
+Author: supralphameel (supralphameel)
+Author Id: 553038369530052618
+Avatar URL: assets\90851527778b6a8dbbd9cc27e03be3cb-84792.png
+Content: With the Harris Walz campaign being on the news all the time, I am kinda ignorant about the NY state elections. How do I inform myself about such?
+--------------------
+
+--- Message ---
+Message ID: 1276666665630830593
+Message Type: Default
+Reply to: None
+Timestamp: 2024-08-23T22:17:32.406+00:00
+Author: supralphameel (supralphameel)
+Author Id: 553038369530052618
+Avatar URL: assets\90851527778b6a8dbbd9cc27e03be3cb-84792.png
+Content: Who should I look up?
+--------------------
+
+--- Message ---
+Message ID: 1276684630296236052
+Message Type: Reply
+Reply to: 1276666624560201759
+Timestamp: 2024-08-23T23:28:55.516+00:00
+Author: Carolyn B [CA] • Lead Mod (carb.on)
+Author Id: 568257600228032512
+Avatar URL: assets\28a90c77b5793d80eb62484a43c66748-D8837.png
+Content: [See What's on Your Ballot](https://www.vote.org/ballot-information/ )
+--------------------
+
+--- Message ---
+Message ID: 1276701072119037973
+Message Type: Default
+Reply to: None
+Timestamp: 2024-08-24T00:34:15.552+00:00
+Author: Alex M (Mod) (alexmullins1)
+Author Id: 1276292565112721534
+Avatar URL: assets\1a9a64baef02f20f62b0a2b3bea1ccfc-4D644.png
+Content: Hey all! Greetings from Brooklyn!
+--------------------
+
+--- Message ---
+Message ID: 1276907197523296277
+Message Type: Default
+Reply to: None
+Timestamp: 2024-08-24T14:13:19.678+00:00
+Author: alexandra (marais9160)
+Author Id: 1074776784207368402
+Avatar URL: assets\374448971e4297dfc0697d204edf1d9e-D0925.png
+Content: Glad to see so much Brooklyn representation here!! Would any of you want to meet up before/after phone banking? I'm new here lol so not sure how this works
+--------------------
+
+--- Message ---
+Message ID: 1276940778652041350
+Message Type: Reply
+Reply to: 1276907197523296277
+Timestamp: 2024-08-24T16:26:46.043+00:00
+Author: Elianne R (NY) TranslationSupprt (elianne_ramos)
+Author Id: 1266824293480661072
+Avatar URL: assets\272bb134168514c554d95ed217aed7af-6F01E.png
+Content: I'm in Brooklyn too, we should team up!
+--------------------
+
+--- Message ---
+Message ID: 1276940972705714320
+Message Type: Reply
+Reply to: 1276701072119037973
+Timestamp: 2024-08-24T16:27:32.309+00:00
+Author: Elianne R (NY) TranslationSupprt (elianne_ramos)
+Author Id: 1266824293480661072
+Avatar URL: assets\272bb134168514c554d95ed217aed7af-6F01E.png
+Content: Brooklyn in the house!!
+--------------------
+
+--- Message ---
+Message ID: 1277032858287996958
+Message Type: Reply
+Reply to: 1276907197523296277
+Timestamp: 2024-08-24T22:32:39.539+00:00
+Author: Zoe (NYC/GA) (zoetr0pe)
+Author Id: 297140434977947650
+Avatar URL: assets\d8511e4ba88d6e552e15751a9b9b7a9e-F71EB.png
+Content: Would love to! What neighborhood are you in? I’m in crown heights
+--------------------
+
+--- Message ---
+Message ID: 1277062656557318184
+Message Type: Reply
+Reply to: 1276907197523296277
+Timestamp: 2024-08-25T00:31:04+00:00
+Author: WhysestUno (whysestuno)
+Author Id: 1037590073534853201
+Avatar URL: assets\4ea1a0fa0b3f3fa773aaa245b8e6cbb9-C88DB.png
+Content: @jesusnamewhy : Yeah, lemme know www.
+--------------------
+
+--- Message ---
+Message ID: 1277072767086493767
+Message Type: Default
+Reply to: None
+Timestamp: 2024-08-25T01:11:14.538+00:00
+Author: alexandra (marais9160)
+Author Id: 1074776784207368402
+Avatar URL: assets\374448971e4297dfc0697d204edf1d9e-D0925.png
+Content: Can I start a groupchat?  How does this app work? #grandmainthehouse
+--------------------
+
+--- Message ---
+Message ID: 1277088094838849576
+Message Type: Reply
+Reply to: 1277072767086493767
+Timestamp: 2024-08-25T02:12:08.959+00:00
+Author: Carolyn B [CA] • Lead Mod (carb.on)
+Author Id: 568257600228032512
+Avatar URL: assets\28a90c77b5793d80eb62484a43c66748-D8837.png
+Content: Hello Alexandra this is a group chat. You can chat with other volunteers from New York
+--------------------
+
+--- Message ---
+Message ID: 1277090048600440884
+Message Type: Reply
+Reply to: 1277088094838849576
+Timestamp: 2024-08-25T02:19:54.772+00:00
+Author: alexandra (marais9160)
+Author Id: 1074776784207368402
+Avatar URL: assets\374448971e4297dfc0697d204edf1d9e-D0925.png
+Content: Can I make one specific for Brooklyn folks?
+--------------------
+
+--- Message ---
+Message ID: 1277304931723903111
+Message Type: Reply
+Reply to: 1277090048600440884
+Timestamp: 2024-08-25T16:33:46.901+00:00
+Author: WhysestUno (whysestuno)
+Author Id: 1037590073534853201
+Avatar URL: assets\4ea1a0fa0b3f3fa773aaa245b8e6cbb9-C88DB.png
+Content: Please word
+--------------------
+
+--- Message ---
+Message ID: 1277354205434216448
+Message Type: Default
+Reply to: None
+Timestamp: 2024-08-25T19:49:34.669+00:00
+Author: MuseOfFire-She’Ra Hagans (thebutterflyroom)
+Author Id: 629118162419449866
+Avatar URL: assets\c47a29749cb5eae883fdc70d01833bb0-D2706.png
+Content: Hello, I’m in Manhattan
+--------------------
+
+--- Message ---
+Message ID: 1277423034294210612
+Message Type: Default
+Reply to: None
+Timestamp: 2024-08-26T00:23:04.748+00:00
+Author: Dr. Megan Benay (mbenay)
+Author Id: 1277405493538586669
+Avatar URL: assets\dc74fd5503055bc74e80a6ebb2867343-F2422.png
+Content: Hello New York! I was wondering if there are any initiatives happening specifically with registering former NY residents who are now attending colleges in swing states to vote in those states… seems like a demographic worth targeting right?? I’d love to volunteer my time to do that!
+--------------------
+
+--- Message ---
+Message ID: 1277423476042502155
+Message Type: Default
+Reply to: None
+Timestamp: 2024-08-26T00:24:50.069+00:00
+Author: Angela💙💙 (angela198345)
+Author Id: 1277403763669336115
+Avatar URL: assets\f7f2e9361e8a54ce6e72580ac7b967af-34121.png
+Content: Bronx in the house.
+--------------------
+
+--- Message ---
+Message ID: 1277450269700919317
+Message Type: Reply
+Reply to: 1277423034294210612
+Timestamp: 2024-08-26T02:11:18.175+00:00
+Author: Peter (peter_19983)
+Author Id: 1277446135899754588
+Avatar URL: assets\4-4551A.png
+Content: Dr. Benay, I directly messaged you but wanted to say to the larger NY community - I am running a voter registration effort in Westchester that is putting up tables in under-served communities as well as organzing carpools of people to help register college students in Pennsylvania. Reach out to me at registervoters @ protonmail.com and I will tell you more.
+--------------------
+
+--- Message ---
+Message ID: 1277451064907661426
+Message Type: Reply
+Reply to: 1277450269700919317
+Timestamp: 2024-08-26T02:14:27.767+00:00
+Author: Jack Joannides KC text admin (jjoannid)
+Author Id: 477560366432256000
+Avatar URL: assets\791c521e62160be1f3df04992f6e5470-36A38.png
+Content: Really cool. I actually live in Somers which is close by.
+--------------------
+
+--- Message ---
+Message ID: 1277790055947046924
+Message Type: Default
+Reply to: None
+Timestamp: 2024-08-27T00:41:29.529+00:00
+Author: Georgia M (NY) (georgiamiles_09441)
+Author Id: 1277781747009847430
+Avatar URL: assets\94f6a32f35f76d182fe73b5be94ea523-02DA4.png
+Content: Hello everyone! I’m in Brooklyn— any other locals interested in hosting a debate watch party??
+--------------------
+
+--- Message ---
+Message ID: 1277804520256045140
+Message Type: Reply
+Reply to: 1272309963057922109
+Timestamp: 2024-08-27T01:38:58.089+00:00
+Author: Lakekal (lakekal)
+Author Id: 689229722605060114
+Avatar URL: assets\0-EB806.png
+Content: New here but is there anything I can do to help with logistics/setup for the Sep 10th event?
+--------------------
+
+--- Message ---
+Message ID: 1277819319480352768
+Message Type: Reply
+Reply to: 1272309963057922109
+Timestamp: 2024-08-27T02:37:46.499+00:00
+Author: Georgia M (NY) (georgiamiles_09441)
+Author Id: 1277781747009847430
+Avatar URL: assets\94f6a32f35f76d182fe73b5be94ea523-02DA4.png
+Content: Just joined and would love to team up for the debate event!
+--------------------
+
+--- Message ---
+Message ID: 1278035890425298945
+Message Type: Reply
+Reply to: 1277804520256045140
+Timestamp: 2024-08-27T16:58:21.036+00:00
+Author: Elianne R (NY) TranslationSupprt (elianne_ramos)
+Author Id: 1266824293480661072
+Avatar URL: assets\272bb134168514c554d95ed217aed7af-6F01E.png
+Content: <@1277781747009847430> <@689229722605060114>  I'm working with <@1074776784207368402>  to gather contacts for a Whatsapp group so we can organize. Please DM me your contact # 🙂
+--------------------
+
+--- Message ---
+Message ID: 1278038532090495049
+Message Type: Default
+Reply to: None
+Timestamp: 2024-08-27T17:08:50.858+00:00
+Author: Elianne R (NY) TranslationSupprt (elianne_ramos)
+Author Id: 1266824293480661072
+Avatar URL: assets\272bb134168514c554d95ed217aed7af-6F01E.png
+Content: Is anyone else from Brooklyn?  I'm working with @alexandra and others  to co-organize a debate-watching event in the area. Interested? Please DM me your contacts and I'll add you to the Whatsapp group as well
+--------------------
+
+--- Message ---
+Message ID: 1278150633043791892
+Message Type: Default
+Reply to: None
+Timestamp: 2024-08-28T00:34:17.808+00:00
+Author: Cody Ingraham (codyingraham)
+Author Id: 701954333998317598
+Avatar URL: assets\4ddcc750271b95c981f0e85952a1b14e-2B14D.png
+Content: Albany native here!
+--------------------
+
+--- Message ---
+Message ID: 1278156767112466559
+Message Type: Default
+Reply to: None
+Timestamp: 2024-08-28T00:58:40.284+00:00
+Author: Grace (NYC/CT) (glcap03)
+Author Id: 1277409909624799284
+Avatar URL: assets\687adbf7f172a15dffcc103240e59b59-2840E.png
+Content: Manhattan here! Anyone looking to set up a debate watch party? I’ve never done it before, but would be willing to help out. If not in Manhattan, <@1266824293480661072> , I’ll message you about BK!
+--------------------
+
+--- Message ---
+Message ID: 1278178256541188217
+Message Type: Reply
+Reply to: 1278156767112466559
+Timestamp: 2024-08-28T02:24:03.763+00:00
+Author: Rachel Ruben [NY] KC Text Admin (matzahbrei)
+Author Id: 368807878926008341
+Avatar URL: assets\809f117d179a70576b3870d1aaf1eedb-18781.png
+Content: I'm on the UWS and would love to help figure out a manhattan debate watch party
+--------------------
+
+--- Message ---
+Message ID: 1278187305655337064
+Message Type: Default
+Reply to: None
+Timestamp: 2024-08-28T03:00:01.24+00:00
+Author: Lakekal (lakekal)
+Author Id: 689229722605060114
+Avatar URL: assets\0-EB806.png
+Content: Also in the Manhattan (UWS)!
+--------------------
+
+--- Message ---
+Message ID: 1278362025147367560
+Message Type: Default
+Reply to: None
+Timestamp: 2024-08-28T14:34:17.613+00:00
+Author: Cheryl L 💙 (cheryll2151)
+Author Id: 1275807316796506257
+Avatar URL: assets\9519202e8bf1002077a83b124df48af6-7B85C.png
+Content: Hi from Rockland County.  Excited to help Democrats win nationally and in NY17. Tonight I will be writing postcards for a local candidate.
+--------------------
+
+--- Message ---
+Message ID: 1278363018417274930
+Message Type: Reply
+Reply to: 1272903871257247928
+Timestamp: 2024-08-28T14:38:14.427+00:00
+Author: Cheryl L 💙 (cheryll2151)
+Author Id: 1275807316796506257
+Avatar URL: assets\9519202e8bf1002077a83b124df48af6-7B85C.png
+Content: I’m also from NY17 (Rockland County side).  Let’s go Mondaire!
+--------------------
+
+--- Message ---
+Message ID: 1278369157267853414
+Message Type: Default
+Reply to: None
+Timestamp: 2024-08-28T15:02:38.043+00:00
+Author: Amie (amie44rocny)
+Author Id: 1277765654933405785
+Avatar URL: assets\b093f60621c577aac8864f53e0118466-6754F.png
+Content: Rochester NY here.
+--------------------
+
+--- Message ---
+Message ID: 1278371371033952396
+Message Type: Default
+Reply to: None
+Timestamp: 2024-08-28T15:11:25.846+00:00
+Author: Personality Devices (fun_sun_56521)
+Author Id: 1164105645516144640
+Avatar URL: assets\e99ceb78c1380330ca9cff6d6771b20c-55B5A.png
+Content: Canandaigua NY here.
+--------------------
+
+--- Message ---
+Message ID: 1278396864919633993
+Message Type: Default
+Reply to: None
+Timestamp: 2024-08-28T16:52:44.062+00:00
+Author: Dorthea King-Simpson (dortheakingsimpson)
+Author Id: 1268700656743612417
+Avatar URL: assets\65475662df73c5875bc4a1d6f590e5fe-10DB5.png
+Content: <@1277765654933405785> Hi from Rochester! I have been looking for a place to host a watch party for the debate....
+--------------------
+
+--- Message ---
+Message ID: 1278397459894108231
+Message Type: Reply
+Reply to: 1278396864919633993
+Timestamp: 2024-08-28T16:55:05.915+00:00
+Author: Amie (amie44rocny)
+Author Id: 1277765654933405785
+Avatar URL: assets\b093f60621c577aac8864f53e0118466-6754F.png
+Content: Nice! I’d love to join.
+--------------------
+
+--- Message ---
+Message ID: 1278397621714550898
+Message Type: Default
+Reply to: None
+Timestamp: 2024-08-28T16:55:44.496+00:00
+Author: Dorthea King-Simpson (dortheakingsimpson)
+Author Id: 1268700656743612417
+Avatar URL: assets\65475662df73c5875bc4a1d6f590e5fe-10DB5.png
+Content: <@1277765654933405785> Yes let's work together!
+--------------------
+
+--- Message ---
+Message ID: 1278399149372342394
+Message Type: Reply
+Reply to: 1278397621714550898
+Timestamp: 2024-08-28T17:01:48.718+00:00
+Author: Amie (amie44rocny)
+Author Id: 1277765654933405785
+Avatar URL: assets\b093f60621c577aac8864f53e0118466-6754F.png
+Content: I’m picking g up postcards Sunday to write and send in October for pa.
+--------------------
+
+--- Message ---
+Message ID: 1278399257895768205
+Message Type: Default
+Reply to: None
+Timestamp: 2024-08-28T17:02:14.592+00:00
+Author: Dorthea King-Simpson (dortheakingsimpson)
+Author Id: 1268700656743612417
+Avatar URL: assets\65475662df73c5875bc4a1d6f590e5fe-10DB5.png
+Content: <@1277765654933405785> 💜
+--------------------
+
+--- Message ---
+Message ID: 1278402995549110326
+Message Type: Reply
+Reply to: 1278363018417274930
+Timestamp: 2024-08-28T17:17:05.718+00:00
+Author: Jack Joannides KC text admin (jjoannid)
+Author Id: 477560366432256000
+Avatar URL: assets\791c521e62160be1f3df04992f6e5470-36A38.png
+Content: I'm also in NY 17
+--------------------
+
+--- Message ---
+Message ID: 1278476537691115550
+Message Type: Default
+Reply to: None
+Timestamp: 2024-08-28T22:09:19.531+00:00
+Author: Loni Venti 🩷 (loniventi)
+Author Id: 1274405229445779509
+Avatar URL: assets\a50f82de2ebe8b1353e87862bcae45d7-92A3F.png
+Content: Hi! Anyone else waiting to get into the phone bank that was scheduled for 6pm EDT? (Or is anyone already on the call?) thank you!
+--------------------
+
+--- Message ---
+Message ID: 1278491112872611861
+Message Type: Reply
+Reply to: 1278476537691115550
+Timestamp: 2024-08-28T23:07:14.525+00:00
+Author: Jack Joannides KC text admin (jjoannid)
+Author Id: 477560366432256000
+Avatar URL: assets\791c521e62160be1f3df04992f6e5470-36A38.png
+Content: You can ask this in <#1242256751445934262>
+--------------------
+
+--- Message ---
+Message ID: 1278500519559827538
+Message Type: Reply
+Reply to: 1278363018417274930
+Timestamp: 2024-08-28T23:44:37.254+00:00
+Author: Shauna Ford [NY] KC Text Mod (shauna4d)
+Author Id: 793246922642292757
+Avatar URL: assets\9e43b5d4cac2d533cff85d707f2622e3-148D2.png
+Content: Hey! Also from NY-17/Rockland, hello neighbor!
+--------------------
+
+--- Message ---
+Message ID: 1278509585229152319
+Message Type: Reply
+Reply to: 1278500519559827538
+Timestamp: 2024-08-29T00:20:38.678+00:00
+Author: Cheryl L 💙 (cheryll2151)
+Author Id: 1275807316796506257
+Avatar URL: assets\9519202e8bf1002077a83b124df48af6-7B85C.png
+Content: Hi neighbor!
+--------------------
+
+--- Message ---
+Message ID: 1278524632038903940
+Message Type: Default
+Reply to: None
+Timestamp: 2024-08-29T01:20:26.117+00:00
+Author: Daniel Marro (he/him) NY (danrmarro)
+Author Id: 1278514638774075444
+Avatar URL: assets\b8621b7bfa61ceea0cf528862e4a038f-5637B.png
+Content: I was born and raised in NY-17 for 25 years! Love the Hudson Valley, I live in NY-3 now (Long Island) where the drivers are crazy haha
+--------------------
+
+--- Message ---
+Message ID: 1278776718059896923
+Message Type: Reply
+Reply to: 1278524632038903940
+Timestamp: 2024-08-29T18:02:08.108+00:00
+Author: Cheryl L 💙 (cheryll2151)
+Author Id: 1275807316796506257
+Avatar URL: assets\9519202e8bf1002077a83b124df48af6-7B85C.png
+Content: I know about the crazy LI drivers and the crazy traffic.  I lived in Queens for a while and my husband grew up on Long Island so we used to visit there often.
+--------------------
+
+--- Message ---
+Message ID: 1278836642131611679
+Message Type: Default
+Reply to: None
+Timestamp: 2024-08-29T22:00:15.12+00:00
+Author: Rebekah D (.rebekahd)
+Author Id: 826988463764668418
+Avatar URL: assets\94df45e69aa511366e63389b02925feb-2B2C2.png
+Content: hi Friends I live in Astoria!
+--------------------
+
+--- Message ---
+Message ID: 1279447774970122392
+Message Type: Reply
+Reply to: 1278363018417274930
+Timestamp: 2024-08-31T14:28:40.543+00:00
+Author: Carole (carole_46879)
+Author Id: 1278359425413025802
+Avatar URL: assets\2-ADBB4.png
+Content: Rockland County, NY17, in the house.  Up and down the ballot!
+--------------------
+
+--- Message ---
+Message ID: 1279460013462655077
+Message Type: Reply
+Reply to: 1278156767112466559
+Timestamp: 2024-08-31T15:17:18.427+00:00
+Author: Vera Lane (lunatcarter)
+Author Id: 1128174646727036999
+Avatar URL: assets\8ba6718366642cb445c83d3e701db891-90A7C.png
+Content: Hi, Downtown Manhattan here! Would be interested in helping set up a watch party for the debate.
+--------------------
+
+--- Message ---
+Message ID: 1279463953591959630
+Message Type: ThreadCreated
+Reply to: None
+Timestamp: 2024-08-31T15:32:57.827+00:00
+Author: Grace (NYC/CT) (glcap03)
+Author Id: 1277409909624799284
+Avatar URL: assets\687adbf7f172a15dffcc103240e59b59-2840E.png
+Content: Started a thread.
+--------------------
+
+--- Message ---
+Message ID: 1279484482834927737
+Message Type: Default
+Reply to: None
+Timestamp: 2024-08-31T16:54:32.38+00:00
+Author: Dorthea King-Simpson (dortheakingsimpson)
+Author Id: 1268700656743612417
+Avatar URL: assets\65475662df73c5875bc4a1d6f590e5fe-10DB5.png
+Content: Good Day Joyful warriors...
+
+If you are in the Rochester Area and you are looking for a place to watch the debate...you can join me!
+
+Send me a message and I will send you the link.
+--------------------
+
+--- Message ---
+Message ID: 1279593344615317597
+Message Type: Default
+Reply to: None
+Timestamp: 2024-09-01T00:07:07.051+00:00
+Author: Ernie (ernie_40880)
+Author Id: 1279586068076957706
+Avatar URL: assets\3-FB033.png
+Content: Is there a Debate Watch Party set up in Harlem?
+--------------------
+
+--- Message ---
+Message ID: 1279882709782757377
+Message Type: Default
+Reply to: None
+Timestamp: 2024-09-01T19:16:57.083+00:00
+Author: Sue F (Ithaca NY) (catladysue)
+Author Id: 1015301222275764415
+Avatar URL: assets\f58ceabde49ae198335073d0e5fb4d52-A2673.png
+Content: Hi everyone, just joined this channel. I'm in Ithaca .. anyone else in this area?
+--------------------
+
+--- Message ---
+Message ID: 1279927573014380645
+Message Type: Default
+Reply to: None
+Timestamp: 2024-09-01T22:15:13.311+00:00
+Author: Rebekah D (.rebekahd)
+Author Id: 826988463764668418
+Avatar URL: assets\94df45e69aa511366e63389b02925feb-2B2C2.png
+Content: hi friends i made some friendship bracelets
+--------------------
+
+--- Message ---
+Message ID: 1279961429746647080
+Message Type: Default
+Reply to: None
+Timestamp: 2024-09-02T00:29:45.385+00:00
+Author: Jamie Joeyen-Waldorf (New York) (.pizzamonster555)
+Author Id: 463218697499181056
+Avatar URL: assets\8ba3564717ef3771da8c004ea12ceffb-0FC5F.png
+Content: Hi all!  I'm hosting a postcarding party this Saturday in Midtown (I'm not sure if this is allowed in this channel...I posted in Non-Campaign Events channel too.) Providing pizza!! All you need to bring is stamps, or we have some for purchase there as well. Come through.
+
+https://www.mobilize.us/indivisible/event/682309/
+--------------------
+
+--- Message ---
+Message ID: 1280014869416116244
+Message Type: Default
+Reply to: None
+Timestamp: 2024-09-02T04:02:06.395+00:00
+Author: Mari-Yan-Call MOD (mari4democracy)
+Author Id: 1267752019188514826
+Avatar URL: assets\21c8d66834b0276b383d08a4dc731346-5FF36.png
+Content: Hello Everyone!  Just wanted to share some opportunities to connect with folks doing things in NY with NY for Harris: https://newyorkforharris.com/take-action
+--------------------
+
+--- Message ---
+Message ID: 1280015654757601331
+Message Type: Default
+Reply to: None
+Timestamp: 2024-09-02T04:05:13.635+00:00
+Author: Mari-Yan-Call MOD (mari4democracy)
+Author Id: 1267752019188514826
+Avatar URL: assets\21c8d66834b0276b383d08a4dc731346-5FF36.png
+Content: For those of you interested in doing Canvassing in Southern Nassau County, there’s now a campaign office executing that function only on Sundays, Tuesdays, Wednesdays, Thursdays and Saturdays.  Here’s the link: https://www.mobilize.us/nysdems/event/680017/?referring_vol=6686322&rname=Mari-Yan&share_context=event_details&share_medium=copy_link
+--------------------
+
+--- Message ---
+Message ID: 1280016204207095870
+Message Type: Default
+Reply to: None
+Timestamp: 2024-09-02T04:07:24.634+00:00
+Author: Mari-Yan-Call MOD (mari4democracy)
+Author Id: 1267752019188514826
+Avatar URL: assets\21c8d66834b0276b383d08a4dc731346-5FF36.png
+Content: There’s also canvassing on the same days in Valley Stream (the previous link is for the Elmont Office):
+
+https://www.mobilize.us/nysdems/event/659510/?referring_vol=6686322&rname=Mari-Yan&share_context=event_details&share_medium=copy_link
+--------------------
+
+--- Message ---
+Message ID: 1280016378253938739
+Message Type: Default
+Reply to: None
+Timestamp: 2024-09-02T04:08:06.13+00:00
+Author: Mari-Yan-Call MOD (mari4democracy)
+Author Id: 1267752019188514826
+Avatar URL: assets\21c8d66834b0276b383d08a4dc731346-5FF36.png
+Content: Rockville Centre Canvassing:
+
+https://www.mobilize.us/nysdems/event/642759/?referring_vol=6686322&rname=Mari-Yan&share_context=event_details&share_medium=copy_link
+--------------------
+
+--- Message ---
+Message ID: 1280017111724462111
+Message Type: Default
+Reply to: None
+Timestamp: 2024-09-02T04:11:01.003+00:00
+Author: Mari-Yan-Call MOD (mari4democracy)
+Author Id: 1267752019188514826
+Avatar URL: assets\21c8d66834b0276b383d08a4dc731346-5FF36.png
+Content: Queens Canvassing for Rep. Tom Suozzi (previous links were for, of course, VP Harris AND Democrats down the ballot): 
+https://www.mobilize.us/nysdems/event/643412/?referring_vol=6686322&rname=Mari-Yan&share_context=event_details&share_medium=copy_link
+--------------------
+
+--- Message ---
+Message ID: 1280017255119323288
+Message Type: Default
+Reply to: None
+Timestamp: 2024-09-02T04:11:35.191+00:00
+Author: Mari-Yan-Call MOD (mari4democracy)
+Author Id: 1267752019188514826
+Avatar URL: assets\21c8d66834b0276b383d08a4dc731346-5FF36.png
+Content: New Hyde Park Canvassing:
+
+https://www.mobilize.us/nysdems/event/680149/?referring_vol=6686322&rname=Mari-Yan&share_context=event_details&share_medium=copy_link
+--------------------
+
+--- Message ---
+Message ID: 1280017695550476370
+Message Type: Default
+Reply to: None
+Timestamp: 2024-09-02T04:13:20.198+00:00
+Author: Mari-Yan-Call MOD (mari4democracy)
+Author Id: 1267752019188514826
+Avatar URL: assets\21c8d66834b0276b383d08a4dc731346-5FF36.png
+Content: Long Island Swing District Phone Bank:
+
+https://www.mobilize.us/nysdems/event/676583/?referring_vol=6686322&rname=Mari-Yan&share_context=event_details&share_medium=copy_link
+--------------------
+
+--- Message ---
+Message ID: 1280018520758943835
+Message Type: Reply
+Reply to: 1279593344615317597
+Timestamp: 2024-09-02T04:16:36.943+00:00
+Author: Mari-Yan-Call MOD (mari4democracy)
+Author Id: 1267752019188514826
+Avatar URL: assets\21c8d66834b0276b383d08a4dc731346-5FF36.png
+Content: There is! Here’s the link: https://events.democrats.org/event/679179/?referring_vol=6686322&rname=Mari-Yan&share_context=event_details&share_medium=copy_link
+--------------------
+
+--- Message ---
+Message ID: 1280018689013321729
+Message Type: Reply
+Reply to: 1279961429746647080
+Timestamp: 2024-09-02T04:17:17.058+00:00
+Author: Mari-Yan-Call MOD (mari4democracy)
+Author Id: 1267752019188514826
+Avatar URL: assets\21c8d66834b0276b383d08a4dc731346-5FF36.png
+Content: I will share this with some people I know, as well!
+--------------------
+
+--- Message ---
+Message ID: 1280362500784787559
+Message Type: Reply
+Reply to: 1279882709782757377
+Timestamp: 2024-09-03T03:03:28.172+00:00
+Author: Ruby Bradley [NY] (ruberrypie)
+Author Id: 797336974506590208
+Avatar URL: assets\3-FB033.png
+Content: Hi Sue! I’m in Ithaca— I will be doing the text training this month 🙂
+--------------------
+
+--- Message ---
+Message ID: 1280372875802443878
+Message Type: Default
+Reply to: None
+Timestamp: 2024-09-03T03:44:41.769+00:00
+Author: Jeannine M • Lead Mod (jean9_28218_79932)
+Author Id: 1266879741785538682
+Avatar URL: assets\54ff5e8dfab835d878a961f9f7b7d161-6C0EE.png
+Content: <a:star_wave:1269735420359606369> Hey, Team! We know you want to help make a difference! Did you know though that hosting a debate watch party is an amazing way to get involved and bring people together? <a:rainbow_heart_scribble:1269029739432120465> It’s all about good vibes, great conversations, and getting folks fired up for the election. Your watch party could be the spark that motivates someone to vote! <a:PinkFlames:1252802562659193004>  [Register your watch party](https://events.democrats.org/c/host-a-debate-watch-party/event/create/) to get access to all sorts of resources for throwing a successful debate watch party, including a [Host Information Session](https://events.democrats.org/event/677337/). <a:ThanksRainbow:1278765693579431967>
+--------------------
+
+--- Message ---
+Message ID: 1280668829294399550
+Message Type: Default
+Reply to: None
+Timestamp: 2024-09-03T23:20:42.58+00:00
+Author: Susan C [CT] • Lead Mod (susanclancyct_81390)
+Author Id: 1261701914454659092
+Avatar URL: assets\071fc6cce2ec3001e5f374ff696b2996-98A50.png
+Content: Let's do this. Who's having a debate watch party?
+--------------------
+
+--- Message ---
+Message ID: 1280813840438792265
+Message Type: Default
+Reply to: None
+Timestamp: 2024-09-04T08:56:55.931+00:00
+Author: Michael Pelaez | FL (trumansleeps)
+Author Id: 389839010576465936
+Avatar URL: assets\3a91c3446fca9803ffb1d856364145a2-A8603.png
+Content: https://www.mobilize.us/voteriders/event/564817/?referring_vol=6684605&rname=Michael&share_context=event_details&share_medium=copy_link
+--------------------
+
+--- Message ---
+Message ID: 1280890742675607562
+Message Type: Default
+Reply to: None
+Timestamp: 2024-09-04T14:02:30.853+00:00
+Author: Joey (joeyv120)
+Author Id: 693617747606634548
+Avatar URL: assets\2440f6e894bf278df9d7f7595ea34582-24E50.png
+Content: Anyone have a lead on yard signs? I already bought one from the official store, but I keep getting notices that delivery is behind schedule. Anyone have another source? (One that doesn’t also sell pro-trump signs)
+--------------------
+
+--- Message ---
+Message ID: 1280938753887703172
+Message Type: Default
+Reply to: None
+Timestamp: 2024-09-04T17:13:17.618+00:00
+Author: Susan C [CT] • Lead Mod (susanclancyct_81390)
+Author Id: 1261701914454659092
+Avatar URL: assets\071fc6cce2ec3001e5f374ff696b2996-98A50.png
+Content: Have you tried The Blue Deal website for yard signs?
+--------------------
+
+--- Message ---
+Message ID: 1280968198036131916
+Message Type: Default
+Reply to: None
+Timestamp: 2024-09-04T19:10:17.65+00:00
+Author: Elianne R (NY) TranslationSupprt (elianne_ramos)
+Author Id: 1266824293480661072
+Avatar URL: assets\272bb134168514c554d95ed217aed7af-6F01E.png
+Content: If you're in Brooklyn [or nearby!], <@1277781747009847430>, <@1074776784207368402> and myself are cohosting a debate watch party on Monday. Please join us! Here’s the link to register, just remember: Space is limited!
+https://events.democrats.org/event/675360/
+--------------------
+
+--- Message ---
+Message ID: 1281049144856805408
+Message Type: Reply
+Reply to: 1279593344615317597
+Timestamp: 2024-09-05T00:31:56.876+00:00
+Author: Shelley NYC area (shelley_88641)
+Author Id: 1262931527797571614
+Avatar URL: assets\9b89cb21eff281731d507aba180ba681-D6308.png
+Content: Yes--there is one on 125th. Here's the link: https://events.democrats.org/event/682054/
+--------------------
+
+--- Message ---
+Message ID: 1281050001069441170
+Message Type: Reply
+Reply to: 1280668829294399550
+Timestamp: 2024-09-05T00:35:21.013+00:00
+Author: Shelley NYC area (shelley_88641)
+Author Id: 1262931527797571614
+Avatar URL: assets\9b89cb21eff281731d507aba180ba681-D6308.png
+Content: I live in southern Westchester (New Rochelle). Are there any debate-watching parties in the area?
+--------------------
+
+--- Message ---
+Message ID: 1281050712360353813
+Message Type: Reply
+Reply to: 1279961429746647080
+Timestamp: 2024-09-05T00:38:10.598+00:00
+Author: Shelley NYC area (shelley_88641)
+Author Id: 1262931527797571614
+Avatar URL: assets\9b89cb21eff281731d507aba180ba681-D6308.png
+Content: Sorry I missed it. I'll keep a lookout for more events.
+--------------------
+
+--- Message ---
+Message ID: 1281050886864371814
+Message Type: Reply
+Reply to: 1281050712360353813
+Timestamp: 2024-09-05T00:38:52.203+00:00
+Author: Jamie Joeyen-Waldorf (New York) (.pizzamonster555)
+Author Id: 463218697499181056
+Avatar URL: assets\8ba3564717ef3771da8c004ea12ceffb-0FC5F.png
+Content: It’s this Saturday! 😄
+--------------------
+
+--- Message ---
+Message ID: 1281093932545216539
+Message Type: Default
+Reply to: None
+Timestamp: 2024-09-05T03:29:55.093+00:00
+Author: Matt Sally (matt_1989_)
+Author Id: 1275554237870247947
+Avatar URL: assets\2-ADBB4.png
+Content: Anyone hosting in person phone banks in NYC?
+--------------------
+
+--- Message ---
+Message ID: 1281122846239756308
+Message Type: Reply
+Reply to: 1280890742675607562
+Timestamp: 2024-09-05T05:24:48.655+00:00
+Author: Carolyn B [CA] • Lead Mod (carb.on)
+Author Id: 568257600228032512
+Avatar URL: assets\28a90c77b5793d80eb62484a43c66748-D8837.png
+Content: Your local Dems HQ, if is convenient, probably has signs.
+--------------------
+
+--- Message ---
+Message ID: 1281279553494450231
+Message Type: Reply
+Reply to: 1279961429746647080
+Timestamp: 2024-09-05T15:47:30.576+00:00
+Author: May (may091259)
+Author Id: 1279563183903998047
+Avatar URL: assets\1628fc11e7961d85181295493426b775-79B3B.png
+Content: Will the address information be sent to us via email? TY
+--------------------
+
+--- Message ---
+Message ID: 1281279948686098554
+Message Type: Reply
+Reply to: 1281279553494450231
+Timestamp: 2024-09-05T15:49:04.797+00:00
+Author: Jamie Joeyen-Waldorf (New York) (.pizzamonster555)
+Author Id: 463218697499181056
+Avatar URL: assets\8ba3564717ef3771da8c004ea12ceffb-0FC5F.png
+Content: It should’ve come in your confirmation email but I’ll send out a reminder email today!
+--------------------
+
+--- Message ---
+Message ID: 1281346095330627666
+Message Type: Reply
+Reply to: 1281093932545216539
+Timestamp: 2024-09-05T20:11:55.386+00:00
+Author: Suki van Dijk (sukivandijk_36388)
+Author Id: 1266164782080327710
+Avatar URL: assets\d2a50d4825e64a63a0e1e6f975a9db34-96E9A.png
+Content: NY for Harris is. You can look them up on mobilize.
+--------------------
+
+--- Message ---
+Message ID: 1281613069306433588
+Message Type: Reply
+Reply to: 1279961429746647080
+Timestamp: 2024-09-06T13:52:46.942+00:00
+Author: Jamie Joeyen-Waldorf (New York) (.pizzamonster555)
+Author Id: 463218697499181056
+Avatar URL: assets\8ba3564717ef3771da8c004ea12ceffb-0FC5F.png
+Content: Reminder this is happening tomorrow! If you are not able to make it but would like a pack of postcards to write, let me know and if we have extras after the party I can mail some to you!
+--------------------
+
+--- Message ---
+Message ID: 1281731511011381290
+Message Type: Default
+Reply to: None
+Timestamp: 2024-09-06T21:43:25.645+00:00
+Author: Giselle (gisellec0731)
+Author Id: 1281726411547218003
+Avatar URL: assets\4-4551A.png
+Content: Anyone from the Bronx here?
+--------------------
+
+--- Message ---
+Message ID: 1281750411098980362
+Message Type: Reply
+Reply to: 1281731511011381290
+Timestamp: 2024-09-06T22:58:31.777+00:00
+Author: Kristen Rapp [NY] (kbrsuperstar)
+Author Id: 852586668212748388
+Avatar URL: assets\eabc988756bf7539f0f16df20d1ed16e-6863C.png
+Content: does Inwood count? 😂
+--------------------
+
+--- Message ---
+Message ID: 1281796111341719572
+Message Type: Default
+Reply to: None
+Timestamp: 2024-09-07T02:00:07.564+00:00
+Author: Caroline (maximinalist_carol)
+Author Id: 255035497296953345
+Avatar URL: assets\235500e021e6276cc0fb9a5eb132f186-58C43.png
+Content: Hi, I'm Caroline Cao. I'm a freelance entertainment journalist based in Manhattan (and I'm looking for employment and gigs due to the industry lay-offs but that's another story). While I'm registered to vote in Galveston County, Texas, I do fight for Harris and downballots in my New York State area. I also was involved in the 2019 fight for ranked choice voting for NYC. If only Republicans weren't so determined and pouring money in misinformation, New York State would have voted for redistricting and same-day-voter-registration in 2021! 
+
+In my spare time, I also design Canva about the New York State Equal Rights Amendment on the ballot since the NYS fights to codify abortion rights while expanding protections to age, disability, ethnicity, LGBTQ+, and national origins. #VoteYesOnProp1 #FlipYourBallot.
+
+ I also know that NYC voters have 5 ballot proposals to vote on as well.
+
+I am also a writer and member of the Vietnamese community. Do we have any Vietnamese Harris supporters here? Unfortunately, large populations of  Vietnamese Americans are ardent Republican-Trump supporters and are exposed to disinformation campaigns about Kamala Harris. So Vietnamese (and fellow  Asians) should connect with me.**
+
+** I am looking for those to volunteer their translation support for Canva ads. And I want to talk WhatsApp engagement because so many Asian communities engage in politics (and misinformation) in WhatsApp.**
+
+And I do think it's important for non-Asians to be aware of the disinformation amuck in our communities and ask how to fight it.
+--------------------
+
+--- Message ---
+Message ID: 1282050747004882945
+Message Type: Default
+Reply to: None
+Timestamp: 2024-09-07T18:51:57.437+00:00
+Author: hallierobbins (hallierobbins)
+Author Id: 951996672752381982
+Avatar URL: assets\45f2d4d0416ebe5d10969ef0ae459c57-FE6B1.png
+Content: <@1275554237870247947> There are hybrid (in-person or virtual) phone banks on Mondays 6-8 pm. Sign up at Go.KamalaHarris.com — see you there! Hallie
+--------------------
+
+--- Message ---
+Message ID: 1282051207912751105
+Message Type: Default
+Reply to: None
+Timestamp: 2024-09-07T18:53:47.326+00:00
+Author: hallierobbins (hallierobbins)
+Author Id: 951996672752381982
+Avatar URL: assets\45f2d4d0416ebe5d10969ef0ae459c57-FE6B1.png
+Content: <@463218697499181056> Hi Jamie. I’m new to Discord… Are you still at the event? After — please let me know how I can get some postcards.
+--------------------
+
+--- Message ---
+Message ID: 1282054638773997589
+Message Type: Default
+Reply to: None
+Timestamp: 2024-09-07T19:07:25.307+00:00
+Author: Jamie Joeyen-Waldorf (New York) (.pizzamonster555)
+Author Id: 463218697499181056
+Avatar URL: assets\8ba3564717ef3771da8c004ea12ceffb-0FC5F.png
+Content: <@951996672752381982> I can send you a pack! We are just finishing up here in person. 😄
+--------------------
+
+--- Message ---
+Message ID: 1282054798249689209
+Message Type: Default
+Reply to: None
+Timestamp: 2024-09-07T19:08:03.329+00:00
+Author: hallierobbins (hallierobbins)
+Author Id: 951996672752381982
+Avatar URL: assets\45f2d4d0416ebe5d10969ef0ae459c57-FE6B1.png
+Content: Awesome! Thanks, Jamie. I’m in 10128. How can I send you my address?
+--------------------
+
+--- Message ---
+Message ID: 1282088142626881537
+Message Type: Default
+Reply to: None
+Timestamp: 2024-09-07T21:20:33.248+00:00
+Author: Giselle (gisellec0731)
+Author Id: 1281726411547218003
+Avatar URL: assets\4-4551A.png
+Content: <@852586668212748388> Iol! Close enough.
+--------------------
+
+--- Message ---
+Message ID: 1282089302871904296
+Message Type: Default
+Reply to: None
+Timestamp: 2024-09-07T21:25:09.872+00:00
+Author: Giselle (gisellec0731)
+Author Id: 1281726411547218003
+Avatar URL: assets\4-4551A.png
+Content: Are there any plans for events or engagement activities for the campaign in NYC?
+--------------------
+
+--- Message ---
+Message ID: 1282341337689227264
+Message Type: Default
+Reply to: None
+Timestamp: 2024-09-08T14:06:39.655+00:00
+Author: Mary Byrne M (putitthatway6493)
+Author Id: 960358175113117737
+Avatar URL: assets\fb467bee2539fc5d07540b3b46cae6b6-050F5.png
+Content: Any day trips to Pa from NY,  a bus organized, etc to help out over there?
+--------------------
+
+--- Message ---
+Message ID: 1282352398223802400
+Message Type: Reply
+Reply to: 1282341337689227264
+Timestamp: 2024-09-08T14:50:36.692+00:00
+Author: Caroline (maximinalist_carol)
+Author Id: 255035497296953345
+Avatar URL: assets\235500e021e6276cc0fb9a5eb132f186-58C43.png
+Content: I'm aware there's a NY to PA canvas trip this September.
+
+We also would need help to spread awareness of the New York State Prop 1: Equal Rights Amendment / Amendment to Protect Against Unequal Treatment, because there's so much terrible well-funded transphobic and anti-choice rhetoric against it.
+--------------------
+
+--- Message ---
+Message ID: 1282369592865325088
+Message Type: Default
+Reply to: None
+Timestamp: 2024-09-08T15:58:56.214+00:00
+Author: Alex Simmons (ohalexsimmons)
+Author Id: 285223508966113282
+Avatar URL: assets\86563eac3d335b0332ef7f090a4a9fbf-FB762.png
+Content: Hello I’m interested in any canvassing for NYS i’m nyc-based. down for day trips whenever the message needs to be sent.
+--------------------
+
+--- Message ---
+Message ID: 1282390838378238085
+Message Type: Default
+Reply to: None
+Timestamp: 2024-09-08T17:23:21.539+00:00
+Author: Jamie Joeyen-Waldorf (New York) (.pizzamonster555)
+Author Id: 463218697499181056
+Avatar URL: assets\8ba3564717ef3771da8c004ea12ceffb-0FC5F.png
+Content: I know Knock for Democracy does canvas trips to PA!
+--------------------
+
+--- Message ---
+Message ID: 1282398379682431028
+Message Type: Default
+Reply to: None
+Timestamp: 2024-09-08T17:53:19.526+00:00
+Author: sdaff (sdaff4943)
+Author Id: 761256038481133578
+Avatar URL: assets\1-B2132.png
+Content: One question where can I get some Harris-displays?
+--------------------
+
+--- Message ---
+Message ID: 1282433992787890317
+Message Type: Default
+Reply to: None
+Timestamp: 2024-09-08T20:14:50.352+00:00
+Author: Carolyn B [CA] • Lead Mod (carb.on)
+Author Id: 568257600228032512
+Avatar URL: assets\28a90c77b5793d80eb62484a43c66748-D8837.png
+Content: Hi <@1267752019188514826> we have to remove your message about Vote Blue because the linked page includes a donate button. I encourage you to share VoteBlue info with the NY community, just leave off the link.
+--------------------
+
+--- Message ---
+Message ID: 1282434013780250644
+Message Type: Reply
+Reply to: 1282420284212772974
+Timestamp: 2024-09-08T20:14:55.357+00:00
+Author: DemCord (DemCord)
+Author Id: 1242806362195365968
+Avatar URL: assets\007b625c296385e4ed52038a42c7256d-7649B.png
+Content: **Strict Fundraising Rules (it’s the law):**
+We can only fundraise on behalf of: Democratic National Committee, Harris Victory Fund or Harris for President directly. 
+We can recruit for "non-official events" that are hosted by partner organizations or volunteers in ⁠non-official-events-only. We can recruit into anything that is listed on events.democrats.org or a state democratic party's mobilize.
+Rule 3 Note > Relevance: Do not post links to petitions or other calls to action that haven’t been approved by Staff. This forum is not intended for debates. Additionally, do not attempt to raise funds or share fundraising links for any entity besides the Democratic National Committee. Using this server to raise funds for yourself, another candidate, or another organization violates campaign finance law and is strictly prohibited. Anyone who violates the rules is subject to removal or time out.
+When in doubt, ask @Community Moderator.
+--------------------
+
+--- Message ---
+Message ID: 1282491319452958720
+Message Type: Reply
+Reply to: 1282398379682431028
+Timestamp: 2024-09-09T00:02:38.094+00:00
+Author: sdaff (sdaff4943)
+Author Id: 761256038481133578
+Avatar URL: assets\1-B2132.png
+Content: ?
+--------------------
+
+--- Message ---
+Message ID: 1282491691974262897
+Message Type: Reply
+Reply to: 1282491319452958720
+Timestamp: 2024-09-09T00:04:06.91+00:00
+Author: Carolyn B [CA] • Lead Mod (carb.on)
+Author Id: 568257600228032512
+Avatar URL: assets\28a90c77b5793d80eb62484a43c66748-D8837.png
+Content: do you want yard signs or something else https://store.kamalaharris.com/harris-walz-yard-sign/
+--------------------
+
+--- Message ---
+Message ID: 1282498241556119582
+Message Type: Reply
+Reply to: 1282433992787890317
+Timestamp: 2024-09-09T00:30:08.452+00:00
+Author: Mari-Yan-Call MOD (mari4democracy)
+Author Id: 1267752019188514826
+Avatar URL: assets\21c8d66834b0276b383d08a4dc731346-5FF36.png
+Content: Not a problem, I totally understand. My apologies. I didn’t realize a donate button was included-was focused on sharing the bus information!🤣 🙏🏾
+--------------------
+
+--- Message ---
+Message ID: 1282500691083919481
+Message Type: Reply
+Reply to: 1282491691974262897
+Timestamp: 2024-09-09T00:39:52.465+00:00
+Author: sdaff (sdaff4943)
+Author Id: 761256038481133578
+Avatar URL: assets\1-B2132.png
+Content: Thank you
+--------------------
+
+--- Message ---
+Message ID: 1282612143941877801
+Message Type: Default
+Reply to: None
+Timestamp: 2024-09-09T08:02:44.897+00:00
+Author: apfel4harris (NY/abroad) (lapfel2024_81383)
+Author Id: 1274293080794595339
+Avatar URL: assets\1303b6be213537796f03663d46f2634d-369E3.png
+Content: Hi all: there's now an issues page on the KHarris website: https://kamalaharris.com/issues/. This'll help in calls and chats with folks.
+--------------------
+
+--- Message ---
+Message ID: 1282700964884779130
+Message Type: Default
+Reply to: None
+Timestamp: 2024-09-09T13:55:41.46+00:00
+Author: Dorthea King-Simpson (dortheakingsimpson)
+Author Id: 1268700656743612417
+Avatar URL: assets\65475662df73c5875bc4a1d6f590e5fe-10DB5.png
+Content: <@1274293080794595339> thank you!
+--------------------
+
+--- Message ---
+Message ID: 1283016472339419201
+Message Type: Default
+Reply to: None
+Timestamp: 2024-09-10T10:49:24.299+00:00
+Author: Vera Lane (lunatcarter)
+Author Id: 1128174646727036999
+Avatar URL: assets\8ba6718366642cb445c83d3e701db891-90A7C.png
+Content: Hi, is anyone going to a debate watch party in Manhattan tonight?
+--------------------
+
+--- Message ---
+Message ID: 1283031218887065743
+Message Type: Default
+Reply to: None
+Timestamp: 2024-09-10T11:48:00.15+00:00
+Author: Dorthea King-Simpson (dortheakingsimpson)
+Author Id: 1268700656743612417
+Avatar URL: assets\65475662df73c5875bc4a1d6f590e5fe-10DB5.png
+Content: Good Morning Joyful Warriors!!!
+
+It's Debate Day!
+NYkers let's do what we do!
+
+We will be on fire here in Rochester NY!
+--------------------
+
+--- Message ---
+Message ID: 1283077267974783057
+Message Type: Default
+Reply to: None
+Timestamp: 2024-09-10T14:50:59.108+00:00
+Author: lil’ GZY (eikocherry)
+Author Id: 715290461299933245
+Avatar URL: assets\beed427a56d05670fbfdbb498f0b7e6e-862E2.png
+Content: <#1268377860650045551> Dems in Queens County, there needs to be both messaging and action on migrant issues. Roosevelt Ave, and the surrounding areas with prostitution and illegal vendors , affects a number of districts — Jackson Heights, Woodside, Elmhurst — and while he was a joke, as a Dem in Bayside, Santos’ win was no fluke, because the candidate who replaced him is a moderate Dem. 
+
+TLDR: Staten Island is a known red borough, but the tailwinds right now don’t look good in Queens— especially with the investigations surrounding the Adams administration
+--------------------
+
+--- Message ---
+Message ID: 1283118839474819083
+Message Type: Default
+Reply to: None
+Timestamp: 2024-09-10T17:36:10.526+00:00
+Author: Marisa K. -(NY) [Mod]/KC TextMod (marisak._74585)
+Author Id: 1268363112956952637
+Avatar URL: assets\19f0a12ecb0c947e057e402ffc5ebae4-846B0.png
+Content: <@715290461299933245>  I'm  Staten Islander and we've got a small but strong cadre of democratic voters here who are doing all kinds of work! Don't lose heart!
+--------------------
+
+--- Message ---
+Message ID: 1283135623502495785
+Message Type: Default
+Reply to: None
+Timestamp: 2024-09-10T18:42:52.15+00:00
+Author: Shelley NYC area (shelley_88641)
+Author Id: 1262931527797571614
+Avatar URL: assets\9b89cb21eff281731d507aba180ba681-D6308.png
+Content: Hi NYC area folks! Anyone else here going to the debate watch party tonight in Harlem? Would be fun to say "hi"!
+--------------------
+
+--- Message ---
+Message ID: 1283142522541183059
+Message Type: Default
+Reply to: None
+Timestamp: 2024-09-10T19:10:17.009+00:00
+Author: The RhythmQueen🪘 (musicmaven7190)
+Author Id: 676564875274616851
+Avatar URL: assets\e1a7c40be110594eccff38c5d74f98f1-F1B3B.png
+Content: I hope it's okay to share here. There will be a Buffalo March for Harris on Oct 19 as part of "Show Up". It's a FB group of women that are for Harris and are organizing the event Oct 19. It's unofficial, but if you are in WNY you can join the FB page. We hope to have voter registration, a march in downtown buffalo, and other outreach opportunities. There might be one in Rochester and NYC too. We are organizing across several states.
+--------------------
+
+--- Message ---
+Message ID: 1283258054565167238
+Message Type: Default
+Reply to: None
+Timestamp: 2024-09-11T02:49:21.99+00:00
+Author: Chsrlie (chsrlie0591)
+Author Id: 1275000512663519262
+Avatar URL: assets\3-FB033.png
+Content: Hi I am new to this group. I am upstate near Albany. Are there any events / volunteer work going on there ?
+--------------------
+
+--- Message ---
+Message ID: 1283263692313460830
+Message Type: Reply
+Reply to: 1283258054565167238
+Timestamp: 2024-09-11T03:11:46.134+00:00
+Author: LiamStaley (ollieoxenfree7504)
+Author Id: 914067555033939969
+Avatar URL: assets\30c7549cc5bfc8b385751d8cf5d73917-69F71.png
+Content: Hey! I'm from upstate as well (Guilderland). Let's connect!
+--------------------
+
+--- Message ---
+Message ID: 1283264843746508820
+Message Type: Reply
+Reply to: 1283142522541183059
+Timestamp: 2024-09-11T03:16:20.657+00:00
+Author: tayk46 (tayk46)
+Author Id: 507655414775676930
+Avatar URL: assets\a7ee4fff81457f7a784dae85c811d9fa-E577F.png
+Content: If you’re on Long Island, there is one that’s a work in progress!  I live in Rochester, but my mom is leading one in Suffolk County
+--------------------
+
+--- Message ---
+Message ID: 1283265949281161306
+Message Type: Default
+Reply to: None
+Timestamp: 2024-09-11T03:20:44.237+00:00
+Author: Daniel K. D-NY (yoitzdan)
+Author Id: 535131333010391050
+Avatar URL: assets\2b1631395cbef90180fe19a401c8e5f5-634C3.png
+Content: I’m in Suffolk
+--------------------
+
+--- Message ---
+Message ID: 1283265994021802035
+Message Type: Default
+Reply to: None
+Timestamp: 2024-09-11T03:20:54.904+00:00
+Author: Daniel K. D-NY (yoitzdan)
+Author Id: 535131333010391050
+Avatar URL: assets\2b1631395cbef90180fe19a401c8e5f5-634C3.png
+Content: Suffolk was one of not the  closest counties in 2020
+--------------------
+
+--- Message ---
+Message ID: 1283266025101594721
+Message Type: Default
+Reply to: None
+Timestamp: 2024-09-11T03:21:02.314+00:00
+Author: Daniel K. D-NY (yoitzdan)
+Author Id: 535131333010391050
+Avatar URL: assets\2b1631395cbef90180fe19a401c8e5f5-634C3.png
+Content: 49.5%
+49.5%
+--------------------
+
+--- Message ---
+Message ID: 1283266059956387945
+Message Type: Default
+Reply to: None
+Timestamp: 2024-09-11T03:21:10.624+00:00
+Author: Daniel K. D-NY (yoitzdan)
+Author Id: 535131333010391050
+Avatar URL: assets\2b1631395cbef90180fe19a401c8e5f5-634C3.png
+Content: 200 vote difference
+--------------------
+
+--- Message ---
+Message ID: 1283267946231107645
+Message Type: Reply
+Reply to: 1283263692313460830
+Timestamp: 2024-09-11T03:28:40.347+00:00
+Author: Chsrlie (chsrlie0591)
+Author Id: 1275000512663519262
+Avatar URL: assets\3-FB033.png
+Content: I am right by you in Schenectady!!!
+--------------------
+
+--- Message ---
+Message ID: 1283268618787885057
+Message Type: Default
+Reply to: None
+Timestamp: 2024-09-11T03:31:20.697+00:00
+Author: tayk46 (tayk46)
+Author Id: 507655414775676930
+Avatar URL: assets\a7ee4fff81457f7a784dae85c811d9fa-E577F.png
+Content: Daniel, this was in response to comment about a March in Buffalo and a possible one in NYC
+--------------------
+
+--- Message ---
+Message ID: 1283268668712685578
+Message Type: Default
+Reply to: None
+Timestamp: 2024-09-11T03:31:32.6+00:00
+Author: tayk46 (tayk46)
+Author Id: 507655414775676930
+Avatar URL: assets\a7ee4fff81457f7a784dae85c811d9fa-E577F.png
+Content: I was sharing that Suffolk is also having a march
+--------------------
+
+--- Message ---
+Message ID: 1283284063553191958
+Message Type: Reply
+Reply to: 1283267946231107645
+Timestamp: 2024-09-11T04:32:43.016+00:00
+Author: LiamStaley (ollieoxenfree7504)
+Author Id: 914067555033939969
+Avatar URL: assets\30c7549cc5bfc8b385751d8cf5d73917-69F71.png
+Content: Nice! I'll pm you
+--------------------
+
+--- Message ---
+Message ID: 1283289215454543972
+Message Type: Reply
+Reply to: 1283284063553191958
+Timestamp: 2024-09-11T04:53:11.325+00:00
+Author: Chsrlie (chsrlie0591)
+Author Id: 1275000512663519262
+Avatar URL: assets\3-FB033.png
+Content: Okay sounds good !!!
+--------------------
+
+--- Message ---
+Message ID: 1283432791383474308
+Message Type: Default
+Reply to: None
+Timestamp: 2024-09-11T14:23:42.494+00:00
+Author: Georgia M (NY) (georgiamiles_09441)
+Author Id: 1277781747009847430
+Avatar URL: assets\94f6a32f35f76d182fe73b5be94ea523-02DA4.png
+Content: Good morning NY!! Is anyone aware of voter registration events in NYC? I’d love to help get folks registered
+--------------------
+
+--- Message ---
+Message ID: 1283440872599326853
+Message Type: Default
+Reply to: None
+Timestamp: 2024-09-11T14:55:49.206+00:00
+Author: Marisa K. -(NY) [Mod]/KC TextMod (marisak._74585)
+Author Id: 1268363112956952637
+Avatar URL: assets\19f0a12ecb0c947e057e402ffc5ebae4-846B0.png
+Content: <@1277781747009847430>  great question! If you <#1242256950402744431>  you can check for local events there and the [ events.democrats.org](https://events.democrats.org/) also has local opportunities!
+--------------------
+
+--- Message ---
+Message ID: 1283495900563378369
+Message Type: Default
+Reply to: None
+Timestamp: 2024-09-11T18:34:28.895+00:00
+Author: Carolyn B [CA] • Lead Mod (carb.on)
+Author Id: 568257600228032512
+Avatar URL: assets\28a90c77b5793d80eb62484a43c66748-D8837.png
+Content: Hi <@1277781747009847430> if you aren't finding it on events.democrats.org, try googling the NY dems party pages, where you will find more local events.
+--------------------
+
+--- Message ---
+Message ID: 1283615305062416415
+Message Type: Default
+Reply to: None
+Timestamp: 2024-09-12T02:28:57.146+00:00
+Author: LoVid (also LoVid) (l_o_v_i_d)
+Author Id: 812076719724298300
+Avatar URL: assets\9154c5655717df0722bedf7603ab4600-8C263.png
+Content: Hey NY
+--------------------
+
+--- Message ---
+Message ID: 1283615351682105358
+Message Type: Default
+Reply to: None
+Timestamp: 2024-09-12T02:29:08.261+00:00
+Author: LoVid (also LoVid) (l_o_v_i_d)
+Author Id: 812076719724298300
+Avatar URL: assets\9154c5655717df0722bedf7603ab4600-8C263.png
+Content: Looking for postcard writing opportunities
+--------------------
+
+--- Message ---
+Message ID: 1283846913095106634
+Message Type: Default
+Reply to: None
+Timestamp: 2024-09-12T17:49:16.804+00:00
+Author: Michael Pelaez | FL (trumansleeps)
+Author Id: 389839010576465936
+Avatar URL: assets\3a91c3446fca9803ffb1d856364145a2-A8603.png
+Content: Let's get a volunteer wave going! Repond on a thread with how many events you signed up to! Let's make the goal 5+   https://events.democrats.org/?address=New%20York%2C%20NY%2C%20USA&lat=40.7127753&lon=-74.0059728
+--------------------
+
+--- Message ---
+Message ID: 1283872671855018055
+Message Type: Reply
+Reply to: 1283846913095106634
+Timestamp: 2024-09-12T19:31:38.171+00:00
+Author: Jay Adamo (NY) (jaybear0720)
+Author Id: 1192273771118203011
+Avatar URL: assets\983646cdf2e053f13893c70b973087d0-CC3CB.png
+Content: 3
+--------------------
+
+--- Message ---
+Message ID: 1283872911899230259
+Message Type: Default
+Reply to: None
+Timestamp: 2024-09-12T19:32:35.402+00:00
+Author: Jay Adamo (NY) (jaybear0720)
+Author Id: 1192273771118203011
+Avatar URL: assets\983646cdf2e053f13893c70b973087d0-CC3CB.png
+Content: Hello I am Jay I'm in upstate NY. Would love to join a caravan heading to PA to help win that state!
+--------------------
+
+--- Message ---
+Message ID: 1283873591318024335
+Message Type: Default
+Reply to: None
+Timestamp: 2024-09-12T19:35:17.388+00:00
+Author: Carolyn B [CA] • Lead Mod (carb.on)
+Author Id: 568257600228032512
+Avatar URL: assets\28a90c77b5793d80eb62484a43c66748-D8837.png
+Content: Hi <@1192273771118203011> you can find canvassing activities on the mobilize page or events.democrats.org if you filter with the PA location.
+--------------------
+
+--- Message ---
+Message ID: 1283874384326430790
+Message Type: Reply
+Reply to: 1283873591318024335
+Timestamp: 2024-09-12T19:38:26.456+00:00
+Author: Jay Adamo (NY) (jaybear0720)
+Author Id: 1192273771118203011
+Avatar URL: assets\983646cdf2e053f13893c70b973087d0-CC3CB.png
+Content: Thanks I'm new to discord it's a little overwhelming lol. Will try the mobilize page/channel thingamaroo
+--------------------
+
+--- Message ---
+Message ID: 1283877511041777755
+Message Type: Reply
+Reply to: 1283874384326430790
+Timestamp: 2024-09-12T19:50:51.923+00:00
+Author: Carolyn B [CA] • Lead Mod (carb.on)
+Author Id: 568257600228032512
+Avatar URL: assets\28a90c77b5793d80eb62484a43c66748-D8837.png
+Content: Hi Jay, I have a video to help you manage the overwhelm https://youtu.be/MmPpDMbRG0c
+and if you haven't already seen the intro to Discord
+https://youtu.be/cA32MMsN61g
+--------------------
+
+--- Message ---
+Message ID: 1283981723662553162
+Message Type: Reply
+Reply to: 1283872671855018055
+Timestamp: 2024-09-13T02:44:58.148+00:00
+Author: LiamStaley (ollieoxenfree7504)
+Author Id: 914067555033939969
+Avatar URL: assets\30c7549cc5bfc8b385751d8cf5d73917-69F71.png
+Content: Hello fellow upstater! Where upstate are you located?
+--------------------
+
+--- Message ---
+Message ID: 1283983114905063506
+Message Type: Default
+Reply to: None
+Timestamp: 2024-09-13T02:50:29.846+00:00
+Author: LiamStaley (ollieoxenfree7504)
+Author Id: 914067555033939969
+Avatar URL: assets\30c7549cc5bfc8b385751d8cf5d73917-69F71.png
+Content: I want to thank everyone for their hard work and diligence in getting Madame VP elected!  Her GREAT performance in the debate was just the beginning. There’s still work to be done. We’ve learned our lessons from 2016, so let’s keep moving forward with the same energy and determination. You all are the best!
+--------------------
+
+--- Message ---
+Message ID: 1284539680909557830
+Message Type: Default
+Reply to: None
+Timestamp: 2024-09-14T15:42:05.522+00:00
+Author: Brooke (brooke09391)
+Author Id: 805240723703332896
+Avatar URL: assets\eb0fa00ba162b07a07527b9510a89e5a-67068.png
+Content: Hi I’m from Long Island! Anyone know if buses going to Pennsylvania?
+--------------------
+
+--- Message ---
+Message ID: 1284543748755296317
+Message Type: Default
+Reply to: None
+Timestamp: 2024-09-14T15:58:15.372+00:00
+Author: Jamie Joeyen-Waldorf (New York) (.pizzamonster555)
+Author Id: 463218697499181056
+Avatar URL: assets\8ba3564717ef3771da8c004ea12ceffb-0FC5F.png
+Content: <@805240723703332896> Yes, I know Knock for Democracy is coordinating that
+--------------------
+
+--- Message ---
+Message ID: 1284551318505001040
+Message Type: Default
+Reply to: None
+Timestamp: 2024-09-14T16:28:20.141+00:00
+Author: Steve S. (steves._69116)
+Author Id: 1181038124214792214
+Avatar URL: assets\2-ADBB4.png
+Content: Upstaters should the NYS Democratic Committee for more details about field campaign activities for Harris, congressional candidates and State Senate and State Assembly races.
+--------------------
+
+--- Message ---
+Message ID: 1284551559853899859
+Message Type: Reply
+Reply to: 1284539680909557830
+Timestamp: 2024-09-14T16:29:17.683+00:00
+Author: Steve S. (steves._69116)
+Author Id: 1181038124214792214
+Avatar URL: assets\2-ADBB4.png
+Content: Reach out to the NYS Democratic Committee for information and also your Nassau or Suffolk County Democrats.  Several very important House races on Long Island, too.
+--------------------
+
+--- Message ---
+Message ID: 1284564528079573013
+Message Type: Reply
+Reply to: 1282352398223802400
+Timestamp: 2024-09-14T17:20:49.549+00:00
+Author: Mary Byrne M (putitthatway6493)
+Author Id: 960358175113117737
+Avatar URL: assets\fb467bee2539fc5d07540b3b46cae6b6-050F5.png
+Content: sorry didn't get a notification that you replied,  who's doign the trip, has it happened already? thank you
+--------------------
+
+--- Message ---
+Message ID: 1284689339288260608
+Message Type: Reply
+Reply to: 1284539680909557830
+Timestamp: 2024-09-15T01:36:46.86+00:00
+Author: Shauna Ford [NY] KC Text Mod (shauna4d)
+Author Id: 793246922642292757
+Avatar URL: assets\9e43b5d4cac2d533cff85d707f2622e3-148D2.png
+Content: I know of some from NYC. Vote Blue NYC - its not free but just a $10 donation per bus ride. I can get you more details if needed!
+--------------------
+
+--- Message ---
+Message ID: 1284699432377516064
+Message Type: Reply
+Reply to: 1283135623502495785
+Timestamp: 2024-09-15T02:16:53.24+00:00
+Author: Jacklyn from Queens 🥙 (eris_ires)
+Author Id: 553431810730754079
+Avatar URL: assets\ab0a12ad0dd458fc47e872d6b3743b5e-E8A50.png
+Content: I wish I knew this was a thing  ;w;
+--------------------
+
+--- Message ---
+Message ID: 1284909868154753166
+Message Type: Reply
+Reply to: 1284543748755296317
+Timestamp: 2024-09-15T16:13:05.039+00:00
+Author: Brooke (brooke09391)
+Author Id: 805240723703332896
+Avatar URL: assets\eb0fa00ba162b07a07527b9510a89e5a-67068.png
+Content: I found two Brooklyn Democrats buses I signed up for - I canvassed in PA with SEIU for Obama - it was great - I’m very excited !! I will look into Knock for Democracy too 
+
+https://mobilize.us/s/vitkSY/o
+--------------------
+
+--- Message ---
+Message ID: 1284910132211351715
+Message Type: Reply
+Reply to: 1284689339288260608
+Timestamp: 2024-09-15T16:14:07.995+00:00
+Author: Brooke (brooke09391)
+Author Id: 805240723703332896
+Avatar URL: assets\eb0fa00ba162b07a07527b9510a89e5a-67068.png
+Content: PLEASE I mentioned above I did sign up for two buses with the Brooklyn Democrats !!
+--------------------
+
+--- Message ---
+Message ID: 1284950946031472770
+Message Type: Reply
+Reply to: 1284909868154753166
+Timestamp: 2024-09-15T18:56:18.768+00:00
+Author: Shauna Ford [NY] KC Text Mod (shauna4d)
+Author Id: 793246922642292757
+Avatar URL: assets\9e43b5d4cac2d533cff85d707f2622e3-148D2.png
+Content: Also this is my county, thank you so much we need it! We need to flip this seat BLUE! I’m also a volunteer for Mondaire 😊
+--------------------
+
+--- Message ---
+Message ID: 1284951570592694433
+Message Type: Default
+Reply to: None
+Timestamp: 2024-09-15T18:58:47.675+00:00
+Author: Carolyn B [CA] • Lead Mod (carb.on)
+Author Id: 568257600228032512
+Avatar URL: assets\28a90c77b5793d80eb62484a43c66748-D8837.png
+Content: Hi Shauna I support you to share about votebluenyc, however you have to share without the link because the link goes to a page with "donate"
+--------------------
+
+--- Message ---
+Message ID: 1284951597520257077
+Message Type: Reply
+Reply to: 1284950777827430490
+Timestamp: 2024-09-15T18:58:54.095+00:00
+Author: DemCord (DemCord)
+Author Id: 1242806362195365968
+Avatar URL: assets\007b625c296385e4ed52038a42c7256d-7649B.png
+Content: **Strict Fundraising Rules (it’s the law):**
+We can only fundraise on behalf of: Democratic National Committee, Harris Victory Fund or Harris for President directly. 
+We can recruit for "non-official events" that are hosted by partner organizations or volunteers in ⁠non-official-events-only. We can recruit into anything that is listed on events.democrats.org or a state democratic party's mobilize.
+Rule 3 Note > Relevance: Do not post links to petitions or other calls to action that haven’t been approved by Staff. This forum is not intended for debates. Additionally, do not attempt to raise funds or share fundraising links for any entity besides the Democratic National Committee. Using this server to raise funds for yourself, another candidate, or another organization violates campaign finance law and is strictly prohibited. Anyone who violates the rules is subject to removal or time out.
+When in doubt, ask @Community Moderator.
+--------------------
+
+--- Message ---
+Message ID: 1284951983345631346
+Message Type: Reply
+Reply to: 1284951570592694433
+Timestamp: 2024-09-15T19:00:26.083+00:00
+Author: Shauna Ford [NY] KC Text Mod (shauna4d)
+Author Id: 793246922642292757
+Avatar URL: assets\9e43b5d4cac2d533cff85d707f2622e3-148D2.png
+Content: Oh I’m sorry! I can post again with the link?
+--------------------
+
+--- Message ---
+Message ID: 1284952180855541772
+Message Type: Reply
+Reply to: 1284951983345631346
+Timestamp: 2024-09-15T19:01:13.173+00:00
+Author: Carolyn B [CA] • Lead Mod (carb.on)
+Author Id: 568257600228032512
+Avatar URL: assets\28a90c77b5793d80eb62484a43c66748-D8837.png
+Content: post again without the link 💙
+--------------------
+
+--- Message ---
+Message ID: 1284952289748062308
+Message Type: Default
+Reply to: None
+Timestamp: 2024-09-15T19:01:39.135+00:00
+Author: Carolyn B [CA] • Lead Mod (carb.on)
+Author Id: 568257600228032512
+Avatar URL: assets\28a90c77b5793d80eb62484a43c66748-D8837.png
+Content: sorry I'm not typing well today
+--------------------
+
+--- Message ---
+Message ID: 1284952499937087508
+Message Type: Reply
+Reply to: 1284952180855541772
+Timestamp: 2024-09-15T19:02:29.248+00:00
+Author: Shauna Ford [NY] KC Text Mod (shauna4d)
+Author Id: 793246922642292757
+Avatar URL: assets\9e43b5d4cac2d533cff85d707f2622e3-148D2.png
+Content: No worries, I thought maybe you meant that,  that’s why I wanted to double check! Sorry again and thanks for catching it
+--------------------
+
+--- Message ---
+Message ID: 1284953029535076464
+Message Type: Reply
+Reply to: 1284910132211351715
+Timestamp: 2024-09-15T19:04:35.514+00:00
+Author: Shauna Ford [NY] KC Text Mod (shauna4d)
+Author Id: 793246922642292757
+Avatar URL: assets\9e43b5d4cac2d533cff85d707f2622e3-148D2.png
+Content: It’s a group called Vote Blue NYC, and registration is available on their page. They have their schedule up now through mid October but will be running busses through Election Day. I can get you in touch with one of their volunteers if you need any more info.
+--------------------
+
+--- Message ---
+Message ID: 1285517959955087360
+Message Type: Default
+Reply to: None
+Timestamp: 2024-09-17T08:29:25.422+00:00
+Author: apfel4harris (NY/abroad) (lapfel2024_81383)
+Author Id: 1274293080794595339
+Avatar URL: assets\1303b6be213537796f03663d46f2634d-369E3.png
+Content: Received some info from Dems Abroad ("state chapter" of Dems overseas) today: "Ballots will be sent out starting this Saturday, Sept. 21!" So if you know NY folks voting abroad, maybe let them know they should get a ballot soon. Dems Abroad is also hosting a "NY voting info and action meeting" this Thursday, Sept. 19, at 11AM EST/5PM CEST.  "Find out what you need to know to ensure your vote is counted.  This year is different. Don't miss this chance to get answers to your questions." I'm not linking to the site due to campaign finance laws, but you can find the link via their "Events" tab.
+--------------------
+
+--- Message ---
+Message ID: 1285809340418363444
+Message Type: Default
+Reply to: None
+Timestamp: 2024-09-18T03:47:15.938+00:00
+Author: Jen Medeiros [CA] • [Lead Mod] (starkittynmom)
+Author Id: 1276944250491113656
+Avatar URL: assets\a_2aba4b7f19fcab5fe5391fcdb73d735d-D670A.gif
+Content: <:bluewave3:1270555729836900453> <:bluewave3:1270555729836900453> <:bluewave3:1270555729836900453> <:bluewave3:1270555729836900453> <:bluewave3:1270555729836900453> <:bluewave3:1270555729836900453> <:bluewave3:1270555729836900453> <:bluewave3:1270555729836900453> <:bluewave3:1270555729836900453> <:bluewave3:1270555729836900453> <:bluewave3:1270555729836900453> <:bluewave3:1270555729836900453> 
+**COOL STUFF ALERT**
+
+Hey everyone : 
+The moderators of www.reddit.com/r/VoteDem and r/Bluemidterm2018 (the FORMER moderators of r/Voteblue) made this amazing spreadsheet:
+
+https://docs.google.com/spreadsheets/d/1jxO8g7q9VO3ZMAABcrvR7PMyX4Yl6dgIYhD3eRTKk1M/edit?usp=sharing
+This Google Sheet has links to the sign up pages for HUNDREDS of opportunities to engage from home for campaigns across the country. Check it out and sign up! Let's keep going to build this BLUE WAVE!
+<:bluewave3:1270555729836900453> <:bluewave3:1270555729836900453> <:bluewave3:1270555729836900453> <:bluewave3:1270555729836900453> <:bluewave3:1270555729836900453> <:bluewave3:1270555729836900453> <:bluewave3:1270555729836900453> <:bluewave3:1270555729836900453> <:bluewave3:1270555729836900453> <:bluewave3:1270555729836900453> <:bluewave3:1270555729836900453> <:bluewave3:1270555729836900453>
+--------------------
+
+--- Message ---
+Message ID: 1285904082476732437
+Message Type: Default
+Reply to: None
+Timestamp: 2024-09-18T10:03:44.205+00:00
+Author: apfel4harris (NY/abroad) (lapfel2024_81383)
+Author Id: 1274293080794595339
+Avatar URL: assets\1303b6be213537796f03663d46f2634d-369E3.png
+Content: Hey all: I saw a post on LinkedIn about a Sept. 23 "Climate for Kamala" fundraiser in NYC featuring Tim Walz and Jay Inslee (Gov of WA), organized by the Harris Victory Fund. I think it's OK for me to post a link here, but will wait till a mod gives the OK (campaign finance laws).
+--------------------
+
+--- Message ---
+Message ID: 1285905349420781578
+Message Type: Default
+Reply to: None
+Timestamp: 2024-09-18T10:08:46.268+00:00
+Author: Katie Yates [CT/NY] (katieyny_48276)
+Author Id: 1268363052508516433
+Avatar URL: assets\81069b4422a9c17b3c19a28bb00cdc17-2C366.png
+Content: One of the TV’s at the gym this  morning said Dorito Mussolini thinks he’s going to win NY… may we all have such confidence today 😂😂
+--------------------
+
+--- Message ---
+Message ID: 1285977169960632380
+Message Type: Reply
+Reply to: 1285904082476732437
+Timestamp: 2024-09-18T14:54:09.619+00:00
+Author: Jamie Joeyen-Waldorf (New York) (.pizzamonster555)
+Author Id: 463218697499181056
+Avatar URL: assets\8ba3564717ef3771da8c004ea12ceffb-0FC5F.png
+Content: Can you DM me info?
+--------------------
+
+--- Message ---
+Message ID: 1285986269934911559
+Message Type: Reply
+Reply to: 1285905349420781578
+Timestamp: 2024-09-18T15:30:19.222+00:00
+Author: Shauna Ford [NY] KC Text Mod (shauna4d)
+Author Id: 793246922642292757
+Avatar URL: assets\9e43b5d4cac2d533cff85d707f2622e3-148D2.png
+Content: OK, I don't usually literally laugh out loud when I type LOL, but this time I did
+--------------------
+
+--- Message ---
+Message ID: 1286047403593699430
+Message Type: Default
+Reply to: None
+Timestamp: 2024-09-18T19:33:14.622+00:00
+Author: kaelahrenee (kaelahrenee)
+Author Id: 283798215717814272
+Avatar URL: assets\48266a766cd12dd83e164da1d831861c-DC7A6.png
+Content: Hey New Yorkers! Is anyone upstate that knows of any events in the finger lakes areas?
+--------------------
+
+--- Message ---
+Message ID: 1286079734001700884
+Message Type: Default
+Reply to: None
+Timestamp: 2024-09-18T21:41:42.792+00:00
+Author: Dianne (dpelletier467)
+Author Id: 1278394720778850393
+Avatar URL: assets\c5ceacf248494c5d311325bfbe30709b-73540.png
+Content: What do you think about a husband who takes down our Kamala signs to please his Maga brother?
+--------------------
+
+--- Message ---
+Message ID: 1286087878161600628
+Message Type: Reply
+Reply to: 1284909868154753166
+Timestamp: 2024-09-18T22:14:04.511+00:00
+Author: Mary Byrne M (putitthatway6493)
+Author Id: 960358175113117737
+Avatar URL: assets\fb467bee2539fc5d07540b3b46cae6b6-050F5.png
+Content: you found this at the mobilize link? I've been hoping to find a carpool or bus to get to Pa for a day. would so love to do more
+--------------------
+
+--- Message ---
+Message ID: 1286088035364114442
+Message Type: Reply
+Reply to: 1286079734001700884
+Timestamp: 2024-09-18T22:14:41.991+00:00
+Author: Mary Byrne M (putitthatway6493)
+Author Id: 960358175113117737
+Avatar URL: assets\fb467bee2539fc5d07540b3b46cae6b6-050F5.png
+Content: I'm sorry to hear that.
+--------------------
+
+--- Message ---
+Message ID: 1286088336271868017
+Message Type: Reply
+Reply to: 1285904082476732437
+Timestamp: 2024-09-18T22:15:53.733+00:00
+Author: Mary Byrne M (putitthatway6493)
+Author Id: 960358175113117737
+Avatar URL: assets\fb467bee2539fc5d07540b3b46cae6b6-050F5.png
+Content: would love a dm with info if you can
+--------------------
+
+--- Message ---
+Message ID: 1286088489049522327
+Message Type: Default
+Reply to: None
+Timestamp: 2024-09-18T22:16:30.158+00:00
+Author: Dianne (dpelletier467)
+Author Id: 1278394720778850393
+Avatar URL: assets\c5ceacf248494c5d311325bfbe30709b-73540.png
+Content: I went down and put it back up.
+--------------------
+
+--- Message ---
+Message ID: 1286089520265166899
+Message Type: Reply
+Reply to: 1284953029535076464
+Timestamp: 2024-09-18T22:20:36.019+00:00
+Author: Mary Byrne M (putitthatway6493)
+Author Id: 960358175113117737
+Avatar URL: assets\fb467bee2539fc5d07540b3b46cae6b6-050F5.png
+Content: hopefully you'll see this, can I get info? ty
+--------------------
+
+--- Message ---
+Message ID: 1286090023057227861
+Message Type: Reply
+Reply to: 1284909868154753166
+Timestamp: 2024-09-18T22:22:35.894+00:00
+Author: Mary Byrne M (putitthatway6493)
+Author Id: 960358175113117737
+Avatar URL: assets\fb467bee2539fc5d07540b3b46cae6b6-050F5.png
+Content: this is departing from Rockalnd County?
+--------------------
+
+--- Message ---
+Message ID: 1286116272160903270
+Message Type: Reply
+Reply to: 1286089520265166899
+Timestamp: 2024-09-19T00:06:54.168+00:00
+Author: Shauna Ford [NY] KC Text Mod (shauna4d)
+Author Id: 793246922642292757
+Avatar URL: assets\9e43b5d4cac2d533cff85d707f2622e3-148D2.png
+Content: Hi! Check out Vote Blue NYC - all details are on their page
+--------------------
+
+--- Message ---
+Message ID: 1286201781550055509
+Message Type: Reply
+Reply to: 1286089520265166899
+Timestamp: 2024-09-19T05:46:41.195+00:00
+Author: Mari-Yan-Call MOD (mari4democracy)
+Author Id: 1267752019188514826
+Avatar URL: assets\21c8d66834b0276b383d08a4dc731346-5FF36.png
+Content: Hey Mary, we’re not allowed to post Vote Blue NYC’s link because they solicit donations on their website (that’s against federal campaign law re: fundraising).
+--------------------
+
+--- Message ---
+Message ID: 1286334728760197202
+Message Type: Default
+Reply to: None
+Timestamp: 2024-09-19T14:34:58.28+00:00
+Author: weesinator35 (weesinator35)
+Author Id: 1019341297984749742
+Avatar URL: assets\5-E9BDB.png
+Content: Anyone know how to get a fundraiser ticket for the Manhattan fundraiser next week or how to refer someone interested in one? Thank you.
+--------------------
+
+--- Message ---
+Message ID: 1286344260932603915
+Message Type: Reply
+Reply to: 1286334728760197202
+Timestamp: 2024-09-19T15:12:50.927+00:00
+Author: Jamie Joeyen-Waldorf (New York) (.pizzamonster555)
+Author Id: 463218697499181056
+Avatar URL: assets\8ba3564717ef3771da8c004ea12ceffb-0FC5F.png
+Content: Yes, I can DM the link to you, but note the cheapest ticket is $1000 lol. 😅
+--------------------
+
+--- Message ---
+Message ID: 1286352636764749979
+Message Type: Reply
+Reply to: 1286344260932603915
+Timestamp: 2024-09-19T15:46:07.881+00:00
+Author: Mary Byrne M (putitthatway6493)
+Author Id: 960358175113117737
+Avatar URL: assets\fb467bee2539fc5d07540b3b46cae6b6-050F5.png
+Content: No problem. I'll just take it out of my lunch money 😆
+--------------------
+
+--- Message ---
+Message ID: 1286474570341023757
+Message Type: Default
+Reply to: None
+Timestamp: 2024-09-19T23:50:39.111+00:00
+Author: weesinator35 (weesinator35)
+Author Id: 1019341297984749742
+Avatar URL: assets\5-E9BDB.png
+Content: Oof - thank you for letting me know! Could you DM? Not totally sure I’ll go with the price though
+--------------------
+
+--- Message ---
+Message ID: 1286499469650563095
+Message Type: Default
+Reply to: None
+Timestamp: 2024-09-20T01:29:35.569+00:00
+Author: Caroline (maximinalist_carol)
+Author Id: 255035497296953345
+Avatar URL: assets\235500e021e6276cc0fb9a5eb132f186-58C43.png
+Content: My NYC roommates are liberal voters. I did also have this earnest conversation about being aware of downballots this November, because voting for the right downballots builds the right infrastructure for a Harris presidency (even if the campaign itself hasn't endorsed to local races).
+
+For example, I talked to them about the pro-abortion, pro-LGBTQ+, pro-disability Equal Rights Amendment / Amendment Against Unequal Treatment on the STATEWIDE Prop 1 ballot. One of them, a particular Harris voter, was surprised to learn that the right to reproductive health isn't really codified (unless voting in the State ERA might change that.)
+
+And for New York CITY voters, there's even more talk about the "Charter Revision Commission Adopts Ballot Proposals" on the NYC ballot.
+--------------------
+
+--- Message ---
+Message ID: 1286517261699518550
+Message Type: Reply
+Reply to: 1286474570341023757
+Timestamp: 2024-09-20T02:40:17.524+00:00
+Author: Jamie Joeyen-Waldorf (New York) (.pizzamonster555)
+Author Id: 463218697499181056
+Avatar URL: assets\8ba3564717ef3771da8c004ea12ceffb-0FC5F.png
+Content: I DM’ed you! Check your message requests
+--------------------
+
+--- Message ---
+Message ID: 1286689812014698600
+Message Type: Default
+Reply to: None
+Timestamp: 2024-09-20T14:05:56.725+00:00
+Author: weesinator35 (weesinator35)
+Author Id: 1019341297984749742
+Avatar URL: assets\5-E9BDB.png
+Content: Thank you!
+--------------------
+
+--- Message ---
+Message ID: 1286831242372710451
+Message Type: Default
+Reply to: None
+Timestamp: 2024-09-20T23:27:56.35+00:00
+Author: Mari-Yan-Call MOD (mari4democracy)
+Author Id: 1267752019188514826
+Avatar URL: assets\21c8d66834b0276b383d08a4dc731346-5FF36.png
+Content: Hey Everybody! I just found out about the coordinated efforts of NY for HARRIS that will be doing bus trips to PA every Saturday starting Sept 28th thru Election Day.  Their buses will depart from across the state.   You can sign up here: 
+https://docs.google.com/forms/d/e/1FAIpQLSdES6ben3JOPnBn6YTQGWMFgYlNemQLfIs4pjHb3ZPUFKngAw/viewform
+--------------------
+
+--- Message ---
+Message ID: 1287020989691068437
+Message Type: Default
+Reply to: None
+Timestamp: 2024-09-21T12:01:55.636+00:00
+Author: apfel4harris (NY/abroad) (lapfel2024_81383)
+Author Id: 1274293080794595339
+Avatar URL: assets\1303b6be213537796f03663d46f2634d-369E3.png
+Content: I was told by moderator Jay that we can now post links to nonprofit *press* in here. So with that, here's a new Ms. magazine article about Prop 1: https://msmagazine.com/2024/09/18/new-york-prop-1-pregnancy-abortion-era/
+--------------------
+
+--- Message ---
+Message ID: 1287170887186907229
+Message Type: Default
+Reply to: None
+Timestamp: 2024-09-21T21:57:33.984+00:00
+Author: Caroline (maximinalist_carol)
+Author Id: 255035497296953345
+Avatar URL: assets\235500e021e6276cc0fb9a5eb132f186-58C43.png
+Content: I was in Harlem today canvassing for the pro-choice Prop 1: Equal Rights Amendment in New York State. My 3-person group wasn't so lucky finding people at home, or some potential voters moved out. There was some confusion over some addresses being stores instead of apartments too. Another group was a little more fortunate to find people.
+
+We definitely talked about how we feel NY Democrats didn't put enough money and investment, as if they just assumed New Yorkers would just vote for it.
+--------------------
+
+--- Message ---
+Message ID: 1288697129652719656
+Message Type: Reply
+Reply to: 1287170887186907229
+Timestamp: 2024-09-26T03:02:18.544+00:00
+Author: Aaron Sittig [NY] (orangieboy476)
+Author Id: 904168397888167986
+Avatar URL: assets\c3897e2e1b231c7f7bcae9b788c7bf87-374A1.png
+Content: i feel like that’s such an issue in NY overall. i’m from upstate so people feel like their votes are even less important, and it makes it hard to tell them how there are still important elections in the state.
+--------------------
+
+--- Message ---
+Message ID: 1288706115751776306
+Message Type: Default
+Reply to: None
+Timestamp: 2024-09-26T03:38:00.997+00:00
+Author: Jen Medeiros [CA] • [Lead Mod] (starkittynmom)
+Author Id: 1276944250491113656
+Avatar URL: assets\a_2aba4b7f19fcab5fe5391fcdb73d735d-D670A.gif
+Content: https://docs.google.com/forms/d/e/1FAIpQLSdMIN5_bR4dQzLKXxph8KEgXwVjLdQvV0dG_6f0bgLOEhd-2Q/viewform
+Passing along another in-person opportunity for those of you neighboring PA
+--------------------
+
+--- Message ---
+Message ID: 1288901702841401376
+Message Type: Default
+Reply to: None
+Timestamp: 2024-09-26T16:35:12.593+00:00
+Author: Rich (richgnyc)
+Author Id: 1277403527706185778
+Avatar URL: assets\1-B2132.png
+Content: https://www.mobilize.us/east/event/699539/
+--------------------
+
+--- Message ---
+Message ID: 1288901842046156810
+Message Type: Default
+Reply to: None
+Timestamp: 2024-09-26T16:35:45.782+00:00
+Author: Rich (richgnyc)
+Author Id: 1277403527706185778
+Avatar URL: assets\1-B2132.png
+Content: sign up to canvas in PA .. trips from NYC
+--------------------
+
+--- Message ---
+Message ID: 1289205664765186091
+Message Type: Reply
+Reply to: 1288901842046156810
+Timestamp: 2024-09-27T12:43:02.763+00:00
+Author: Megan Morris NY (megk8199)
+Author Id: 1266394779676184707
+Avatar URL: assets\ef0881069adff0161f4bd602f9c62624-E5156.png
+Content: I wish their were some trips from upstate as well. I'm 20 minutes from the PA border.
+--------------------
+
+--- Message ---
+Message ID: 1289295328729632808
+Message Type: Default
+Reply to: None
+Timestamp: 2024-09-27T18:39:20.318+00:00
+Author: Kel (newyorkerforharris2024)
+Author Id: 1278144299678171250
+Avatar URL: assets\4-4551A.png
+Content: Does anyone know if you can join a canvassing in PA if you don't take the organized bus and instead drive yourself there? I'm seeing options to canvass in PA but they all seem to involve taking a bus there with a group, but I'm able to drive and let someone else have the bus seat. Can I still join the canvassing with the bus group?
+--------------------
+
+--- Message ---
+Message ID: 1289310548625850408
+Message Type: Default
+Reply to: None
+Timestamp: 2024-09-27T19:39:49.024+00:00
+Author: apfel4harris (NY/abroad) (lapfel2024_81383)
+Author Id: 1274293080794595339
+Avatar URL: assets\1303b6be213537796f03663d46f2634d-369E3.png
+Content: Good: Supreme Court nixes RFK Jr.’s appeal to get on the ballot in New York https://www.msnbc.com/deadline-white-house/deadline-legal-blog/rfk-jr-supreme-court-ballot-appeal-rcna172745
+--------------------
+
+--- Message ---
+Message ID: 1289436094747639808
+Message Type: Reply
+Reply to: 1289205664765186091
+Timestamp: 2024-09-28T03:58:41.552+00:00
+Author: Parker M [NY] (echothecaster)
+Author Id: 722257413637668944
+Avatar URL: assets\8c921bb64a1f8ea3d4714c38f1442c87-75C66.png
+Content: Yeah im in the Buffalo area
+--------------------
+
+--- Message ---
+Message ID: 1289436128838942791
+Message Type: Default
+Reply to: None
+Timestamp: 2024-09-28T03:58:49.68+00:00
+Author: Parker M [NY] (echothecaster)
+Author Id: 722257413637668944
+Avatar URL: assets\8c921bb64a1f8ea3d4714c38f1442c87-75C66.png
+Content: I’d love to go but idk if I can get picked up
+--------------------
+
+--- Message ---
+Message ID: 1289439604025458702
+Message Type: Reply
+Reply to: 1289295328729632808
+Timestamp: 2024-09-28T04:12:38.229+00:00
+Author: Jamie Joeyen-Waldorf (New York) (.pizzamonster555)
+Author Id: 463218697499181056
+Avatar URL: assets\8ba3564717ef3771da8c004ea12ceffb-0FC5F.png
+Content: https://events.democrats.org/c/dc-to-pa---carpools-for-kamala/event/create/?event_creation_source=discovery_page_no_commit
+--------------------
+
+--- Message ---
+Message ID: 1289917613505253398
+Message Type: Default
+Reply to: None
+Timestamp: 2024-09-29T11:52:04.57+00:00
+Author: Tiffany Renaud {NY} (tiff022719)
+Author Id: 1288097002856513569
+Avatar URL: assets\be8de4d01a5123ba25e64dc25c504f2b-65742.png
+Content: Anyone have info on how to help the Paula Collins campaign in northern NY? She’s running against Elise Stefanik 🤬
+--------------------
+
+--- Message ---
+Message ID: 1289940781783584852
+Message Type: Reply
+Reply to: 1289917613505253398
+Timestamp: 2024-09-29T13:24:08.318+00:00
+Author: Megan Morris NY (megk8199)
+Author Id: 1266394779676184707
+Avatar URL: assets\ef0881069adff0161f4bd602f9c62624-E5156.png
+Content: Oh goodness wouldn’t that be nice. Have you called your local dem HQ?
+--------------------
+
+--- Message ---
+Message ID: 1289990301628239975
+Message Type: Default
+Reply to: None
+Timestamp: 2024-09-29T16:40:54.769+00:00
+Author: Jack Ferreira (KC) (jackferreira.246012)
+Author Id: 1276396030375624789
+Avatar URL: assets\cd48a61b3416a1c6fe47335cfcfc484e-EE993.png
+Content: New York, I love yah.  You guys know how to handel a problem.  And this year we all gotta work together.  Its highly likely that you guys will decide who controls the house or representatives.  You also have an abortion measure!  Please use the link below to brush up on your information, check your registration, and make a plan to vote early! https://www.vote411.org/
+--------------------
+
+--- Message ---
+Message ID: 1290062800500297832
+Message Type: Default
+Reply to: None
+Timestamp: 2024-09-29T21:28:59.847+00:00
+Author: Jamie Joeyen-Waldorf (New York) (.pizzamonster555)
+Author Id: 463218697499181056
+Avatar URL: assets\8ba3564717ef3771da8c004ea12ceffb-0FC5F.png
+Content: Got this in my email. Wish I was in town. Check your all’s emails as it looks like it’s some sort of volunteer opp connected with the debate? 👀
+--------------------
+
+--- Message ---
+Message ID: 1290342722552467498
+Message Type: Default
+Reply to: None
+Timestamp: 2024-09-30T16:01:18.465+00:00
+Author: Dana Vogel (NY) (dana_l_v_87227)
+Author Id: 1153402474695229511
+Avatar URL: assets\91d6b6d8a6ce6e76e112c94125d3190f-53DBC.png
+Content: I got a similar text and signed up for a "Running Mate Debate Visibility Volunteer Opportunity" right before the debate. Still waiting for them to confirm the location and exactly what it means but I'm excited!
+--------------------
+
+--- Message ---
+Message ID: 1290346378144518236
+Message Type: Default
+Reply to: None
+Timestamp: 2024-09-30T16:15:50.026+00:00
+Author: Alex Nagler [NYC] (.spoonsy)
+Author Id: 425047178319364096
+Avatar URL: assets\00f9e82e886835adc86256368c200888-EBD0B.png
+Content: I got the email prior to the texts - did anyone get a confirmation yet?
+--------------------
+
+--- Message ---
+Message ID: 1290346575993901137
+Message Type: Default
+Reply to: None
+Timestamp: 2024-09-30T16:16:37.197+00:00
+Author: Dana Vogel (NY) (dana_l_v_87227)
+Author Id: 1153402474695229511
+Avatar URL: assets\91d6b6d8a6ce6e76e112c94125d3190f-53DBC.png
+Content: I did get a text today asking me to confirm my attendance but no additional info
+--------------------
+
+--- Message ---
+Message ID: 1290346771519897600
+Message Type: Default
+Reply to: None
+Timestamp: 2024-09-30T16:17:23.814+00:00
+Author: Alex Nagler [NYC] (.spoonsy)
+Author Id: 425047178319364096
+Avatar URL: assets\00f9e82e886835adc86256368c200888-EBD0B.png
+Content: Got it. None such here, hoping it shows up eventually
+--------------------
+
+--- Message ---
+Message ID: 1290346881267929184
+Message Type: Default
+Reply to: None
+Timestamp: 2024-09-30T16:17:49.98+00:00
+Author: Alex Nagler [NYC] (.spoonsy)
+Author Id: 425047178319364096
+Avatar URL: assets\00f9e82e886835adc86256368c200888-EBD0B.png
+Content: And the 26117 campaign is full up so I can't check what the link there is
+--------------------
+
+--- Message ---
+Message ID: 1290392790538125386
+Message Type: Reply
+Reply to: 1289295328729632808
+Timestamp: 2024-09-30T19:20:15.603+00:00
+Author: Rebekah D (.rebekahd)
+Author Id: 826988463764668418
+Avatar URL: assets\94df45e69aa511366e63389b02925feb-2B2C2.png
+Content: i’d ask the organizers
+--------------------
+
+--- Message ---
+Message ID: 1290396683225796712
+Message Type: Default
+Reply to: None
+Timestamp: 2024-09-30T19:35:43.692+00:00
+Author: Ellen M (ellenmm)
+Author Id: 804948269473333259
+Avatar URL: assets\0-EB806.png
+Content: no confirmation yet (and hello all just joined)... anyone else?
+--------------------
+
+--- Message ---
+Message ID: 1290417181162606612
+Message Type: Default
+Reply to: None
+Timestamp: 2024-09-30T20:57:10.781+00:00
+Author: Dana Levin [NY] (dl123123123)
+Author Id: 536047318655303683
+Avatar URL: assets\1-B2132.png
+Content: The info for the NYC event went to my spam folder, so I’d recommend checking there. (I confirmed yes via text earlier today.)
+--------------------
+
+--- Message ---
+Message ID: 1290417286951207014
+Message Type: Default
+Reply to: None
+Timestamp: 2024-09-30T20:57:36.003+00:00
+Author: Dana Levin [NY] (dl123123123)
+Author Id: 536047318655303683
+Avatar URL: assets\1-B2132.png
+Content: Still no details about what it involves though.
+--------------------
+
+--- Message ---
+Message ID: 1290417628157837322
+Message Type: Default
+Reply to: None
+Timestamp: 2024-09-30T20:58:57.353+00:00
+Author: Alex Nagler [NYC] (.spoonsy)
+Author Id: 425047178319364096
+Avatar URL: assets\00f9e82e886835adc86256368c200888-EBD0B.png
+Content: thanks for the heads up, mine was there
+--------------------
+
+--- Message ---
+Message ID: 1290418028307021824
+Message Type: Default
+Reply to: None
+Timestamp: 2024-09-30T21:00:32.756+00:00
+Author: Dana Levin [NY] (dl123123123)
+Author Id: 536047318655303683
+Avatar URL: assets\1-B2132.png
+Content: You’re welcome!
+--------------------
+
+--- Message ---
+Message ID: 1290419432731967529
+Message Type: Reply
+Reply to: 1290412887915102239
+Timestamp: 2024-09-30T21:06:07.597+00:00
+Author: DemCord (DemCord)
+Author Id: 1242806362195365968
+Avatar URL: assets\007b625c296385e4ed52038a42c7256d-7649B.png
+Content: **Strict Fundraising Rules (it’s the law):**
+We can only fundraise on behalf of: Democratic National Committee, Harris Victory Fund or Harris for President directly. 
+We can recruit for "non-official events" that are hosted by partner organizations or volunteers in ⁠non-official-events-only. We can recruit into anything that is listed on events.democrats.org or a state democratic party's mobilize.
+Rule 3 Note > Relevance: Do not post links to petitions or other calls to action that haven’t been approved by Staff. This forum is not intended for debates. Additionally, do not attempt to raise funds or share fundraising links for any entity besides the Democratic National Committee. Using this server to raise funds for yourself, another candidate, or another organization violates campaign finance law and is strictly prohibited. Anyone who violates the rules is subject to removal or time out.
+When in doubt, ask @Community Moderator.
+--------------------
+
+--- Message ---
+Message ID: 1290419631701364748
+Message Type: Default
+Reply to: None
+Timestamp: 2024-09-30T21:06:55.035+00:00
+Author: Jared R [CO] • Lead Mod (kyaizen)
+Author Id: 112080668296564736
+Avatar URL: assets\a_de0e3d4a3f9b486ad3ad6df0d72323da-D0252.gif
+Content: Hi <@1285745635156430909> unfortunately we can't allow links that have any fundraising links outside of the Harris/Walz campaign.
+--------------------
+
+--- Message ---
+Message ID: 1290421838022836355
+Message Type: Reply
+Reply to: 1290417181162606612
+Timestamp: 2024-09-30T21:15:41.063+00:00
+Author: Dana Vogel (NY) (dana_l_v_87227)
+Author Id: 1153402474695229511
+Avatar URL: assets\91d6b6d8a6ce6e76e112c94125d3190f-53DBC.png
+Content: Have you heard anything since you confirmed? I confirmed earlier but there's nothing in my spam or email since.
+--------------------
+
+--- Message ---
+Message ID: 1290422528682102939
+Message Type: Reply
+Reply to: 1290421838022836355
+Timestamp: 2024-09-30T21:18:25.729+00:00
+Author: Dana Levin [NY] (dl123123123)
+Author Id: 536047318655303683
+Avatar URL: assets\1-B2132.png
+Content: I confirmed this morning, then got that email with a PDF of instructions around 3:30pm, but that’s it. Based on the wording I think that may be the final communication.
+--------------------
+
+--- Message ---
+Message ID: 1290422636316463255
+Message Type: Reply
+Reply to: 1290422528682102939
+Timestamp: 2024-09-30T21:18:51.391+00:00
+Author: Dana Vogel (NY) (dana_l_v_87227)
+Author Id: 1153402474695229511
+Avatar URL: assets\91d6b6d8a6ce6e76e112c94125d3190f-53DBC.png
+Content: Ok thank you!
+--------------------
+
+--- Message ---
+Message ID: 1290448665433079829
+Message Type: Default
+Reply to: None
+Timestamp: 2024-09-30T23:02:17.216+00:00
+Author: Jamie Joeyen-Waldorf (New York) (.pizzamonster555)
+Author Id: 463218697499181056
+Avatar URL: assets\8ba3564717ef3771da8c004ea12ceffb-0FC5F.png
+Content: People need to dish on what it was after! I’m so intrigued and have FOMO. 👀
+--------------------
+
+--- Message ---
+Message ID: 1290450191375405157
+Message Type: Reply
+Reply to: 1290422528682102939
+Timestamp: 2024-09-30T23:08:21.029+00:00
+Author: Ellen M (ellenmm)
+Author Id: 804948269473333259
+Avatar URL: assets\0-EB806.png
+Content: hmm no email pdf checked my spam and archives. hmmm maybe i was too late...
+--------------------
+
+--- Message ---
+Message ID: 1290450770063265802
+Message Type: Reply
+Reply to: 1290450191375405157
+Timestamp: 2024-09-30T23:10:38.999+00:00
+Author: Dana Levin [NY] (dl123123123)
+Author Id: 536047318655303683
+Avatar URL: assets\1-B2132.png
+Content: Sorry to hear that. Maybe they invited people in the order they rsvped? I actually just got a call to confirm my attendance, so maybe they’ll open more spots if anyone turns it down?
+--------------------
+
+--- Message ---
+Message ID: 1290451314085462066
+Message Type: Default
+Reply to: None
+Timestamp: 2024-09-30T23:12:48.704+00:00
+Author: Dana Vogel (NY) (dana_l_v_87227)
+Author Id: 1153402474695229511
+Avatar URL: assets\91d6b6d8a6ce6e76e112c94125d3190f-53DBC.png
+Content: <@804948269473333259> yeah, I'm worried about the same thing! Did you RSVP through the email or text? I kind of can't imagine they'd have sent the confirmation text if there weren't spots open so maybe they're just doing the emails in batches?
+--------------------
+
+--- Message ---
+Message ID: 1290469748399673439
+Message Type: Reply
+Reply to: 1290451314085462066
+Timestamp: 2024-10-01T00:26:03.787+00:00
+Author: Ellen M (ellenmm)
+Author Id: 804948269473333259
+Avatar URL: assets\0-EB806.png
+Content: i rsvp'ed through the first email , got the confirmation text. Only later i saw the second text rsvp, so i replied yes.  But nothing further.
+--------------------
+
+--- Message ---
+Message ID: 1290469961877295276
+Message Type: Default
+Reply to: None
+Timestamp: 2024-10-01T00:26:54.684+00:00
+Author: Ellen M (ellenmm)
+Author Id: 804948269473333259
+Avatar URL: assets\0-EB806.png
+Content: thing is folks are booking my time for late afternoon, so i want to preserve it but only if i will go.
+--------------------
+
+--- Message ---
+Message ID: 1290470269462384640
+Message Type: Reply
+Reply to: 1290469748399673439
+Timestamp: 2024-10-01T00:28:08.018+00:00
+Author: Dana Vogel (NY) (dana_l_v_87227)
+Author Id: 1153402474695229511
+Avatar URL: assets\91d6b6d8a6ce6e76e112c94125d3190f-53DBC.png
+Content: Yeah, I never got the invite email but RSVPed to a text immediately yesterday at 4 pm and got an email confirmation. Then I got the text this morning and replied "YES" right away! So weird.
+--------------------
+
+--- Message ---
+Message ID: 1290639331060613132
+Message Type: Default
+Reply to: None
+Timestamp: 2024-10-01T11:39:55.444+00:00
+Author: Alex Nagler [NYC] (.spoonsy)
+Author Id: 425047178319364096
+Avatar URL: assets\00f9e82e886835adc86256368c200888-EBD0B.png
+Content: I got a second confirmation email around midnight that did not hit my spam folder and went to inbox instead
+--------------------
+
+--- Message ---
+Message ID: 1290647853483425803
+Message Type: Default
+Reply to: None
+Timestamp: 2024-10-01T12:13:47.348+00:00
+Author: Dana Vogel (NY) (dana_l_v_87227)
+Author Id: 1153402474695229511
+Avatar URL: assets\91d6b6d8a6ce6e76e112c94125d3190f-53DBC.png
+Content: I just got an email with the subject line, "Instructions for Running Mate Debate Visibility Volunteer Opportunity" but there are no instructions attached lol.
+--------------------
+
+--- Message ---
+Message ID: 1290654974136553568
+Message Type: Default
+Reply to: None
+Timestamp: 2024-10-01T12:42:05.044+00:00
+Author: Alex Nagler [NYC] (.spoonsy)
+Author Id: 425047178319364096
+Avatar URL: assets\00f9e82e886835adc86256368c200888-EBD0B.png
+Content: No attached pdf?
+--------------------
+
+--- Message ---
+Message ID: 1290655102318940181
+Message Type: Default
+Reply to: None
+Timestamp: 2024-10-01T12:42:35.605+00:00
+Author: Dana Vogel (NY) (dana_l_v_87227)
+Author Id: 1153402474695229511
+Avatar URL: assets\91d6b6d8a6ce6e76e112c94125d3190f-53DBC.png
+Content: nope haha!
+--------------------
+
+--- Message ---
+Message ID: 1290655201321025566
+Message Type: Default
+Reply to: None
+Timestamp: 2024-10-01T12:42:59.209+00:00
+Author: Dana Vogel (NY) (dana_l_v_87227)
+Author Id: 1153402474695229511
+Avatar URL: assets\91d6b6d8a6ce6e76e112c94125d3190f-53DBC.png
+Content: i even checked on my desktop and phone in case the PDF just wasn't showing up.
+--------------------
+
+--- Message ---
+Message ID: 1290656108754501756
+Message Type: Default
+Reply to: None
+Timestamp: 2024-10-01T12:46:35.558+00:00
+Author: Alex Nagler [NYC] (.spoonsy)
+Author Id: 425047178319364096
+Avatar URL: assets\00f9e82e886835adc86256368c200888-EBD0B.png
+Content: If you got any of the other emails it’s the same pdf
+--------------------
+
+--- Message ---
+Message ID: 1290656309556940853
+Message Type: Default
+Reply to: None
+Timestamp: 2024-10-01T12:47:23.433+00:00
+Author: Alex Nagler [NYC] (.spoonsy)
+Author Id: 425047178319364096
+Avatar URL: assets\00f9e82e886835adc86256368c200888-EBD0B.png
+Content: I don’t think I can share it here with whatever restrictions this server has but if you’d rsvpd prior and DM me, I can forward it to you
+--------------------
+
+--- Message ---
+Message ID: 1290657232626782279
+Message Type: Default
+Reply to: None
+Timestamp: 2024-10-01T12:51:03.51+00:00
+Author: Dana Vogel (NY) (dana_l_v_87227)
+Author Id: 1153402474695229511
+Avatar URL: assets\91d6b6d8a6ce6e76e112c94125d3190f-53DBC.png
+Content: I've gotten a few confirmations but none of them have PDFs
+--------------------
+
+--- Message ---
+Message ID: 1290749916666269716
+Message Type: Default
+Reply to: None
+Timestamp: 2024-10-01T18:59:21.107+00:00
+Author: Dana Vogel (NY) (dana_l_v_87227)
+Author Id: 1153402474695229511
+Avatar URL: assets\91d6b6d8a6ce6e76e112c94125d3190f-53DBC.png
+Content: Just got a call to remind and I asked for the instructions and received them. Thanks all for your help. See you later!
+--------------------
+
+--- Message ---
+Message ID: 1290759835905687692
+Message Type: Default
+Reply to: None
+Timestamp: 2024-10-01T19:38:46.038+00:00
+Author: Alex Nagler [NYC] (.spoonsy)
+Author Id: 425047178319364096
+Avatar URL: assets\00f9e82e886835adc86256368c200888-EBD0B.png
+Content: Anyone do/at the daytime shift by any chance?
+--------------------
+
+--- Message ---
+Message ID: 1290763214451376210
+Message Type: Default
+Reply to: None
+Timestamp: 2024-10-01T19:52:11.546+00:00
+Author: Ellen M (ellenmm)
+Author Id: 804948269473333259
+Avatar URL: assets\0-EB806.png
+Content: i was <@425047178319364096>
+--------------------
+
+--- Message ---
+Message ID: 1290763289265180675
+Message Type: Default
+Reply to: None
+Timestamp: 2024-10-01T19:52:29.383+00:00
+Author: Alex Nagler [NYC] (.spoonsy)
+Author Id: 425047178319364096
+Avatar URL: assets\00f9e82e886835adc86256368c200888-EBD0B.png
+Content: How was it <@804948269473333259> ?
+--------------------
+
+--- Message ---
+Message ID: 1290794687975784520
+Message Type: Default
+Reply to: None
+Timestamp: 2024-10-01T21:57:15.419+00:00
+Author: Alex Nagler [NYC] (.spoonsy)
+Author Id: 425047178319364096
+Avatar URL: assets\00f9e82e886835adc86256368c200888-EBD0B.png
+Content: Anybody here yet?
+--------------------
+
+--- Message ---
+Message ID: 1290827319358787687
+Message Type: Default
+Reply to: None
+Timestamp: 2024-10-02T00:06:55.347+00:00
+Author: Rebecca W. [NYC] (rswinnyc)
+Author Id: 1273690683177177128
+Avatar URL: assets\0-EB806.png
+Content: Anyone have any suggestions for upcoming fundraisers in the NYC area? I have a few people who would love to attend an in person fundraiser along with making a donation and have been asking about it.
+--------------------
+
+--- Message ---
+Message ID: 1290832647131758713
+Message Type: Default
+Reply to: None
+Timestamp: 2024-10-02T00:28:05.587+00:00
+Author: Alex Nagler [NYC] (.spoonsy)
+Author Id: 425047178319364096
+Avatar URL: assets\00f9e82e886835adc86256368c200888-EBD0B.png
+Content: That was so much fun
+--------------------
+
+--- Message ---
+Message ID: 1290835216021065749
+Message Type: Default
+Reply to: None
+Timestamp: 2024-10-02T00:38:18.058+00:00
+Author: jessica garcia (jescg4420)
+Author Id: 951223711854391306
+Avatar URL: assets\fa5cf4436e252c0e3faf21525b17f50a-85933.png
+Content: <@1273690683177177128> I’ll DM you
+--------------------
+
+--- Message ---
+Message ID: 1291185443165175850
+Message Type: Default
+Reply to: None
+Timestamp: 2024-10-02T23:49:58.716+00:00
+Author: mk(w/o ashley) (dribbletribble7691)
+Author Id: 739668692425769031
+Avatar URL: assets\0-EB806.png
+Content: does anyone know if there are early voting buses? like pick up points at a church or school?
+--------------------
+
+--- Message ---
+Message ID: 1291186792216662037
+Message Type: Default
+Reply to: None
+Timestamp: 2024-10-02T23:55:20.355+00:00
+Author: Jack Ferreira (KC) (jackferreira.246012)
+Author Id: 1276396030375624789
+Avatar URL: assets\cd48a61b3416a1c6fe47335cfcfc484e-EE993.png
+Content: Early voting starts on Friday!
+--------------------
+
+--- Message ---
+Message ID: 1291232320057249832
+Message Type: Default
+Reply to: None
+Timestamp: 2024-10-03T02:56:15.038+00:00
+Author: Jack Joannides KC text admin (jjoannid)
+Author Id: 477560366432256000
+Avatar URL: assets\791c521e62160be1f3df04992f6e5470-36A38.png
+Content: New Yorks starts the 26th.
+--------------------
+
+--- Message ---
+Message ID: 1291238558073491506
+Message Type: Default
+Reply to: None
+Timestamp: 2024-10-03T03:21:02.297+00:00
+Author: Mari-Yan-Call MOD (mari4democracy)
+Author Id: 1267752019188514826
+Avatar URL: assets\21c8d66834b0276b383d08a4dc731346-5FF36.png
+Content: FYI:
+
+It's time to get on the bus, and get out the vote!
+
+Join New York for Harris as we partner with the official Harris/Walz campaign to launch free bus trips to get out the vote in Pennsylvania.
+
+Buses will depart at 9am this Saturday, October 5 from:
+Harlem
+The Bronx
+Brooklyn
+Queens
+Rochester
+Buffalo
+Binghamton
+Westchester
+AND at 9am on Sunday, October 6 from the Upper West Side of Manhattan through Election Day.
+
+Visit https://newyorkforharris.com/ to register and for information on how to organize a group trip for 20 or more.
+--------------------
+
+--- Message ---
+Message ID: 1291492589643497492
+Message Type: Default
+Reply to: None
+Timestamp: 2024-10-03T20:10:28.143+00:00
+Author: Autumn S [AR]🤘• Lead Mod/OE Mod (meanderingstone6495)
+Author Id: 936622618293968958
+Avatar URL: assets\af45a372ba919e7bac10686b43e799f1-BDEE3.png
+Content: Want to join me for this event? https://mobilize.us/s/ncZVaj
+--------------------
+
+--- Message ---
+Message ID: 1291799804841824317
+Message Type: Default
+Reply to: None
+Timestamp: 2024-10-04T16:31:13.954+00:00
+Author: Jack Ferreira (KC) (jackferreira.246012)
+Author Id: 1276396030375624789
+Avatar URL: assets\cd48a61b3416a1c6fe47335cfcfc484e-EE993.png
+Content: Get ready New York, your mail in ballots are in the mail!!
+--------------------
+
+--- Message ---
+Message ID: 1291806858754916392
+Message Type: Reply
+Reply to: 1291799804841824317
+Timestamp: 2024-10-04T16:59:15.738+00:00
+Author: Tamar Auber(NY, WV) (tamar_coder)
+Author Id: 1045680456659652682
+Avatar URL: assets\7f52cedf402178912ae51b06a22e2057-65110.png
+Content: I already got mine. And, for reasons that can only be explained as "I am a perpetual kindergartener" I was super-excited that I STILL got a sticker!
+--------------------
+
+--- Message ---
+Message ID: 1291846909098463274
+Message Type: Default
+Reply to: None
+Timestamp: 2024-10-04T19:38:24.484+00:00
+Author: Autumn S [AR]🤘• Lead Mod/OE Mod (meanderingstone6495)
+Author Id: 936622618293968958
+Avatar URL: assets\af45a372ba919e7bac10686b43e799f1-BDEE3.png
+Content: Want to join me for this event? https://mobilize.us/s/NPgfUm
+--------------------
+
+--- Message ---
+Message ID: 1291925370068664372
+Message Type: Default
+Reply to: None
+Timestamp: 2024-10-05T00:50:11.037+00:00
+Author: mrfreezerfresh (mrfreezerfresh)
+Author Id: 483769369390874627
+Avatar URL: assets\3-FB033.png
+Content: We will maintain democratic leadership in NY.  Would like to see Adam's step down.  He's too close to center for my liking.  We need a more liberal democrat to grab the reigns and get this city on the right track.  However, let's get Harris elected and get an awesome blue wall set up across America and then we can get a fresh blue look here in nyc on local levels.
+--------------------
+
+--- Message ---
+Message ID: 1291937477392597117
+Message Type: Default
+Reply to: None
+Timestamp: 2024-10-05T01:38:17.648+00:00
+Author: Jack Ferreira (KC) (jackferreira.246012)
+Author Id: 1276396030375624789
+Avatar URL: assets\cd48a61b3416a1c6fe47335cfcfc484e-EE993.png
+Content: On this day 4 years ago, a record 3.3 million Americans cast their ballot early.  And as expected, only 1.7 million early votes have been cast (a 45% decrease).  Please use the link below or call the Democratic Voter Assistance Hotline 9am-9pm (EST) (1-833-336-8683) to request an absentee ballot, or make a plan to vote early or on election day.  https://iwillvote.com/\
+--------------------
+
+--- Message ---
+Message ID: 1292095502439022675
+Message Type: Default
+Reply to: None
+Timestamp: 2024-10-05T12:06:13.755+00:00
+Author: apfel4harris (NY/abroad) (lapfel2024_81383)
+Author Id: 1274293080794595339
+Avatar URL: assets\1303b6be213537796f03663d46f2634d-369E3.png
+Content: <:mega2:1269006580976976076> A reminder that we have a dedicated ⁠<#1288163431911788586> channel where we coordinate our efforts to post campaign content, leave comments, and upvote <:kamala1:1269028302203523114> <:WalzSmile:1270424129853456445> -related posts. Right now even supportive subreddits like r/politics are bombarded with Trump info, and we're trying to change that. Let's help people find information about our candidates and the brighter future they offer! Head on over to our channel and we'll plug you in with opportunities to contribute. Even if you have just one minute to help, you can make a difference.
+--------------------
+
+--- Message ---
+Message ID: 1292113331049598986
+Message Type: Default
+Reply to: None
+Timestamp: 2024-10-05T13:17:04.427+00:00
+Author: RhythmQueen2 (dalatindiva)
+Author Id: 973997716482957332
+Avatar URL: assets\2-ADBB4.png
+Content: There will be an unofficial March for Democracy in support of Harris/Walz downtown Buffalo on Saturday October 19.  Starting at 1:30 p.m., we will be marching from Niagara Square through downtown. EVERYONE in WNY should come on out. We will also be doing voter registration. It's been a mess trying to get this organized, but it's a nationwide effort to get excitement for the Harris campaign. We are hoping to have at least 100 women show up from the region. If you are local, we are doing a poster night this Monday to get materials ready for the march.
+--------------------
+
+--- Message ---
+Message ID: 1292113670439960617
+Message Type: Default
+Reply to: None
+Timestamp: 2024-10-05T13:18:25.344+00:00
+Author: RhythmQueen2 (dalatindiva)
+Author Id: 973997716482957332
+Avatar URL: assets\2-ADBB4.png
+Content: I dont know the rules about posting content thats not official. So I am posting the flyer separately from the original post so it can be taken down if needed without affecting the original post. 🙏
+--------------------
+
+--- Message ---
+Message ID: 1292133280652595200
+Message Type: Default
+Reply to: None
+Timestamp: 2024-10-05T14:36:20.783+00:00
+Author: Michael Pelaez | FL (trumansleeps)
+Author Id: 389839010576465936
+Avatar URL: assets\3a91c3446fca9803ffb1d856364145a2-A8603.png
+Content: 
+--------------------
+
+--- Message ---
+Message ID: 1292165224803078218
+Message Type: Reply
+Reply to: 1292113670439960617
+Timestamp: 2024-10-05T16:43:16.862+00:00
+Author: Mari-Yan-Call MOD (mari4democracy)
+Author Id: 1267752019188514826
+Avatar URL: assets\21c8d66834b0276b383d08a4dc731346-5FF36.png
+Content: I will pass this on, if they are interested in Monday or Saturday’s activities, who should they contact?
+--------------------
+
+--- Message ---
+Message ID: 1292472117794701322
+Message Type: Default
+Reply to: None
+Timestamp: 2024-10-06T13:02:45.853+00:00
+Author: Autumn S [AR]🤘• Lead Mod/OE Mod (meanderingstone6495)
+Author Id: 936622618293968958
+Avatar URL: assets\af45a372ba919e7bac10686b43e799f1-BDEE3.png
+Content: Want to join me for this event? https://mobilize.us/s/PNzBX2
+--------------------
+
+--- Message ---
+Message ID: 1292585499914928189
+Message Type: Default
+Reply to: None
+Timestamp: 2024-10-06T20:33:18.257+00:00
+Author: Carolyn B [CA] • Lead Mod (carb.on)
+Author Id: 568257600228032512
+Avatar URL: assets\28a90c77b5793d80eb62484a43c66748-D8837.png
+Content: <:mega2:1269006580976976076> A reminder that we have a dedicated ⁠https://discord.com/channels/1242249109298221066/1288163431911788586 Reddit channel where we coordinate our efforts to post campaign content, leave comments, and upvote <:kamala1:1269028302203523114> <:WalzSmile:1270424129853456445> -related posts. Right now even supportive subreddits like r/politics are bombarded with Trump info, and we're trying to change that. Let's help people find information about our candidates and the brighter future they offer! Head on over to our channel and we'll plug you in with opportunities to contribute. Even if you have just one minute to help, you can make a difference.
+Get the role to see the Reddit channel, go to https://discord.com/channels/1242249109298221066/1260651617867399188 and pick the 👾
+--------------------
+
+--- Message ---
+Message ID: 1292626896789438475
+Message Type: Default
+Reply to: None
+Timestamp: 2024-10-06T23:17:48.041+00:00
+Author: May (may091259)
+Author Id: 1279563183903998047
+Avatar URL: assets\1628fc11e7961d85181295493426b775-79B3B.png
+Content: Hey everyone!  I had a great time today canvassing in PA. I’d like to go back next weekend. I will be driving to / from the Bucks county office. Since we will going via a private vehicle, they are hoping that from there we can go a little deeper into the county. The drawback to going deeper into the county is that we will encounter more undecided & trump supporters. Is anyone interested in joining me either Saturday or Sunday?
+
+Edited to add please DM me if you are interested. TY
+--------------------
+
+--- Message ---
+Message ID: 1292640030036328581
+Message Type: Default
+Reply to: None
+Timestamp: 2024-10-07T00:09:59.251+00:00
+Author: Daniel K. D-NY (yoitzdan)
+Author Id: 535131333010391050
+Avatar URL: assets\2b1631395cbef90180fe19a401c8e5f5-634C3.png
+Content: I’m ready to flip Suffolk county blue
+--------------------
+
+--- Message ---
+Message ID: 1292640109111410699
+Message Type: Default
+Reply to: None
+Timestamp: 2024-10-07T00:10:18.104+00:00
+Author: Daniel K. D-NY (yoitzdan)
+Author Id: 535131333010391050
+Avatar URL: assets\2b1631395cbef90180fe19a401c8e5f5-634C3.png
+Content: Based on the 2020 turnout it was within 200 votes 49.5 - 49.5 tie
+--------------------
+
+--- Message ---
+Message ID: 1292640204619780207
+Message Type: Default
+Reply to: None
+Timestamp: 2024-10-07T00:10:40.875+00:00
+Author: Daniel K. D-NY (yoitzdan)
+Author Id: 535131333010391050
+Avatar URL: assets\2b1631395cbef90180fe19a401c8e5f5-634C3.png
+Content: I’ve spoken with many republicans who voted for Trump in 2020
+--------------------
+
+--- Message ---
+Message ID: 1292640249155158140
+Message Type: Default
+Reply to: None
+Timestamp: 2024-10-07T00:10:51.493+00:00
+Author: Daniel K. D-NY (yoitzdan)
+Author Id: 535131333010391050
+Avatar URL: assets\2b1631395cbef90180fe19a401c8e5f5-634C3.png
+Content: 
+--------------------
+
+--- Message ---
+Message ID: 1292668984830853202
+Message Type: Default
+Reply to: None
+Timestamp: 2024-10-07T02:05:02.612+00:00
+Author: RhythmQueen2 (dalatindiva)
+Author Id: 973997716482957332
+Avatar URL: assets\2-ADBB4.png
+Content: If anyone is in Western New York, tomorrow night we are doing the posters for the Oct 19th march for Harris/Walz in Downtown Buffalo. We will meet at Pilgrim St Luke UCC Church in Buffalo (335 Richmond Ave, Buffalo, NY 14222) from 6-8  Monday Oct 5. We will have some supplies, but you can also bring posterboard and markers if you want. (PS Dollar Tree has really good prices on permanent markers and posterboard). Anyone is welcome. All hands on deck! And we are doing voter registration, too for the March on Oct 19.
+--------------------
+
+--- Message ---
+Message ID: 1292686887558840381
+Message Type: Reply
+Reply to: 1292668984830853202
+Timestamp: 2024-10-07T03:16:10.955+00:00
+Author: Mari-Yan-Call MOD (mari4democracy)
+Author Id: 1267752019188514826
+Avatar URL: assets\21c8d66834b0276b383d08a4dc731346-5FF36.png
+Content: Double checking: did you mean tomorrow, Monday, October 7th or next wk, Monday, October 14th?
+--------------------
+
+--- Message ---
+Message ID: 1293288855168090206
+Message Type: Default
+Reply to: None
+Timestamp: 2024-10-08T19:08:11.217+00:00
+Author: Autumn S [AR]🤘• Lead Mod/OE Mod (meanderingstone6495)
+Author Id: 936622618293968958
+Avatar URL: assets\af45a372ba919e7bac10686b43e799f1-BDEE3.png
+Content: Want to join me for this event? https://mobilize.us/s/6Cs1xV
+--------------------
+
+--- Message ---
+Message ID: 1293321820547715225
+Message Type: Default
+Reply to: None
+Timestamp: 2024-10-08T21:19:10.776+00:00
+Author: Bawkle (bawkle)
+Author Id: 191418037797126144
+Avatar URL: assets\df0a3f33f144201719d7a13e36de3d3c-10DFA.png
+Content: Just got my voter guide in the mail. Anyone have thoughts regarding the nyc ballot proposals?
+--------------------
+
+--- Message ---
+Message ID: 1293341039255486464
+Message Type: Default
+Reply to: None
+Timestamp: 2024-10-08T22:35:32.873+00:00
+Author: Beth Kutcher (beth804)
+Author Id: 1278067897230557205
+Avatar URL: assets\1-B2132.png
+Content: Hey, does anyone know of any text banking for Mondaire Jones? It would have to be virtual since I don't live near the district.
+--------------------
+
+--- Message ---
+Message ID: 1293375988398293124
+Message Type: Reply
+Reply to: 1293341039255486464
+Timestamp: 2024-10-09T00:54:25.398+00:00
+Author: Shauna Ford [NY] KC Text Mod (shauna4d)
+Author Id: 793246922642292757
+Avatar URL: assets\9e43b5d4cac2d533cff85d707f2622e3-148D2.png
+Content: Directly? No. I am in his district and volunteer with his campaign directly and was told there are no opportunities, at least yet. Not sure if that just means they are fully staffed in that arena but I have been bugging them since August, LOL
+--------------------
+
+--- Message ---
+Message ID: 1293376699727216721
+Message Type: Reply
+Reply to: 1293375988398293124
+Timestamp: 2024-10-09T00:57:14.992+00:00
+Author: Beth Kutcher (beth804)
+Author Id: 1278067897230557205
+Avatar URL: assets\1-B2132.png
+Content: Thanks for the info!
+--------------------
+
+--- Message ---
+Message ID: 1293378062133756056
+Message Type: Reply
+Reply to: 1293376699727216721
+Timestamp: 2024-10-09T01:02:39.815+00:00
+Author: Shauna Ford [NY] KC Text Mod (shauna4d)
+Author Id: 793246922642292757
+Avatar URL: assets\9e43b5d4cac2d533cff85d707f2622e3-148D2.png
+Content: No problem! They do post their events on mobilize too, so I imagine if they do anything you'd see it there as well, if that helps!
+--------------------
+
+--- Message ---
+Message ID: 1293378345588752475
+Message Type: Reply
+Reply to: 1293378062133756056
+Timestamp: 2024-10-09T01:03:47.396+00:00
+Author: Beth Kutcher (beth804)
+Author Id: 1278067897230557205
+Avatar URL: assets\1-B2132.png
+Content: Yeah I've been checking their mobilize. I did phone bank for him a little but it's not my favorite. Thanks!
+--------------------
+
+--- Message ---
+Message ID: 1293378484143652906
+Message Type: Reply
+Reply to: 1293378345588752475
+Timestamp: 2024-10-09T01:04:20.43+00:00
+Author: Shauna Ford [NY] KC Text Mod (shauna4d)
+Author Id: 793246922642292757
+Avatar URL: assets\9e43b5d4cac2d533cff85d707f2622e3-148D2.png
+Content: If I see one first, I'll let you know!
+--------------------
+
+--- Message ---
+Message ID: 1293473141875544105
+Message Type: Default
+Reply to: None
+Timestamp: 2024-10-09T07:20:28.592+00:00
+Author: Princess_Gamer25 (jlopez255)
+Author Id: 754152928247545957
+Avatar URL: assets\014d027b8e391f5bdd50449ae77c6ac9-028FE.png
+Content: We need this great president please
+--------------------
+
+--- Message ---
+Message ID: 1293560130587201666
+Message Type: Default
+Reply to: None
+Timestamp: 2024-10-09T13:06:08.317+00:00
+Author: Mari-Yan-Call MOD (mari4democracy)
+Author Id: 1267752019188514826
+Avatar URL: assets\21c8d66834b0276b383d08a4dc731346-5FF36.png
+Content: Hello Everyone! Just posting a reminder/FYI:
+
+It's time to get on the bus, and get out the vote!
+
+Join New York for Harris as we partner with the official Harris/Walz campaign to launch free bus trips to get out the vote in Pennsylvania.
+
+Buses will depart on Saturdays from:
+Harlem
+The Bronx
+Brooklyn
+Queens
+Rochester
+Buffalo
+Binghamton
+Westchester
+AND some Sundays (see website) through Election Day.
+
+Visit https://newyorkforharris.com/ to register and for information on how to organize a group trip for 20 or more.
+
+IF YOU ARE IN QUEENS/LONG ISLAND: please direct message me with your email address.  I know someone that is coordinating a bus from that area on Saturday, October 19th @ 8am and can connect them to you.
+
+Onward to a New Way Forward! 🙌🏾😊
+--------------------
+
+--- Message ---
+Message ID: 1293619011640102976
+Message Type: Reply
+Reply to: 1293341039255486464
+Timestamp: 2024-10-09T17:00:06.654+00:00
+Author: Suki van Dijk (sukivandijk_36388)
+Author Id: 1266164782080327710
+Avatar URL: assets\d2a50d4825e64a63a0e1e6f975a9db34-96E9A.png
+Content: I can connect you with his team but I don’t know if they are doing any texting
+--------------------
+
+--- Message ---
+Message ID: 1293715399745212508
+Message Type: Default
+Reply to: None
+Timestamp: 2024-10-09T23:23:07.369+00:00
+Author: Daniel K. D-NY (yoitzdan)
+Author Id: 535131333010391050
+Avatar URL: assets\2b1631395cbef90180fe19a401c8e5f5-634C3.png
+Content: Trump is trying to flip the state lol 😂
+--------------------
+
+--- Message ---
+Message ID: 1293715524265447536
+Message Type: Default
+Reply to: None
+Timestamp: 2024-10-09T23:23:37.057+00:00
+Author: Daniel K. D-NY (yoitzdan)
+Author Id: 535131333010391050
+Avatar URL: assets\2b1631395cbef90180fe19a401c8e5f5-634C3.png
+Content: He will be in Madison Square garden for the 2nd time having his 4th rally  in the state.
+--------------------
+
+--- Message ---
+Message ID: 1293750761473310803
+Message Type: Default
+Reply to: None
+Timestamp: 2024-10-10T01:43:38.262+00:00
+Author: Shauna Ford [NY] KC Text Mod (shauna4d)
+Author Id: 793246922642292757
+Avatar URL: assets\9e43b5d4cac2d533cff85d707f2622e3-148D2.png
+Content: 🙄
+--------------------
+
+--- Message ---
+Message ID: 1293750899121848372
+Message Type: Default
+Reply to: None
+Timestamp: 2024-10-10T01:44:11.08+00:00
+Author: Shauna Ford [NY] KC Text Mod (shauna4d)
+Author Id: 793246922642292757
+Avatar URL: assets\9e43b5d4cac2d533cff85d707f2622e3-148D2.png
+Content: Let him waste time here lol
+--------------------
+
+--- Message ---
+Message ID: 1293754446479888425
+Message Type: Default
+Reply to: None
+Timestamp: 2024-10-10T01:58:16.836+00:00
+Author: Ellen Adams 💛🐝 [NY] (ellens_16824)
+Author Id: 1286444095954354197
+Avatar URL: assets\3ed3a2529bf9d39b4cb570b96e8774fb-F0C93.png
+Content: I guess Dolan, the owner of MSG, isn't charging him.  He donated to TFG in 2020 and is certainly aware that he doesn't pay.
+--------------------
+
+--- Message ---
+Message ID: 1293957584176549919
+Message Type: Reply
+Reply to: 1293750899121848372
+Timestamp: 2024-10-10T15:25:28.637+00:00
+Author: Daniel K. D-NY (yoitzdan)
+Author Id: 535131333010391050
+Avatar URL: assets\2b1631395cbef90180fe19a401c8e5f5-634C3.png
+Content: He’s going to California too
+--------------------
+
+--- Message ---
+Message ID: 1293957737029570642
+Message Type: Default
+Reply to: None
+Timestamp: 2024-10-10T15:26:05.08+00:00
+Author: Daniel K. D-NY (yoitzdan)
+Author Id: 535131333010391050
+Avatar URL: assets\2b1631395cbef90180fe19a401c8e5f5-634C3.png
+Content: 2020
+
+Biden 11M
+Trump 5M
+--------------------
+
+--- Message ---
+Message ID: 1293957989971132517
+Message Type: Reply
+Reply to: 1293957737029570642
+Timestamp: 2024-10-10T15:27:05.386+00:00
+Author: Shauna Ford [NY] KC Text Mod (shauna4d)
+Author Id: 793246922642292757
+Avatar URL: assets\9e43b5d4cac2d533cff85d707f2622e3-148D2.png
+Content: WOW! At least we are certain Kamala is more strategic with her rallies/visits.
+--------------------
+
+--- Message ---
+Message ID: 1293967214512177243
+Message Type: Default
+Reply to: None
+Timestamp: 2024-10-10T16:03:44.688+00:00
+Author: Daniel K. D-NY (yoitzdan)
+Author Id: 535131333010391050
+Avatar URL: assets\2b1631395cbef90180fe19a401c8e5f5-634C3.png
+Content: I saw a visit in Washington DC also
+--------------------
+
+--- Message ---
+Message ID: 1293967240496156673
+Message Type: Default
+Reply to: None
+Timestamp: 2024-10-10T16:03:50.883+00:00
+Author: Daniel K. D-NY (yoitzdan)
+Author Id: 535131333010391050
+Avatar URL: assets\2b1631395cbef90180fe19a401c8e5f5-634C3.png
+Content: Tho I don’t think it was a rally
+--------------------
+
+--- Message ---
+Message ID: 1293967469827985562
+Message Type: Default
+Reply to: None
+Timestamp: 2024-10-10T16:04:45.56+00:00
+Author: Daniel K. D-NY (yoitzdan)
+Author Id: 535131333010391050
+Avatar URL: assets\2b1631395cbef90180fe19a401c8e5f5-634C3.png
+Content: It’s just funny that Trump thinks he can win New York
+--------------------
+
+--- Message ---
+Message ID: 1293967820119605318
+Message Type: Default
+Reply to: None
+Timestamp: 2024-10-10T16:06:09.076+00:00
+Author: Daniel K. D-NY (yoitzdan)
+Author Id: 535131333010391050
+Avatar URL: assets\2b1631395cbef90180fe19a401c8e5f5-634C3.png
+Content: 2018 Gillibrand won with 67%
+2012 Gillibrand won with 72%
+
+2020 and 2016  both Biden and Clinton won by 60%
+--------------------
+
+--- Message ---
+Message ID: 1294074312088621117
+Message Type: Default
+Reply to: None
+Timestamp: 2024-10-10T23:09:18.74+00:00
+Author: Jamie Joeyen-Waldorf (New York) (.pizzamonster555)
+Author Id: 463218697499181056
+Avatar URL: assets\8ba3564717ef3771da8c004ea12ceffb-0FC5F.png
+Content: It is likely not about winning NY for him but mobilizing for other initiatives. We have Prop 1 on the ballot here, as well as a few competitive House races.
+--------------------
+
+--- Message ---
+Message ID: 1294087776534532197
+Message Type: Reply
+Reply to: 1294074312088621117
+Timestamp: 2024-10-11T00:02:48.914+00:00
+Author: Jack Ferreira (KC) (jackferreira.246012)
+Author Id: 1276396030375624789
+Avatar URL: assets\cd48a61b3416a1c6fe47335cfcfc484e-EE993.png
+Content: Yes, New York could hypoteticly decide control of the house
+--------------------
+
+--- Message ---
+Message ID: 1294106827390189669
+Message Type: Default
+Reply to: None
+Timestamp: 2024-10-11T01:18:30.992+00:00
+Author: Daniel K. D-NY (yoitzdan)
+Author Id: 535131333010391050
+Avatar URL: assets\2b1631395cbef90180fe19a401c8e5f5-634C3.png
+Content: I guess your right
+--------------------
+
+--- Message ---
+Message ID: 1294106882914652220
+Message Type: Default
+Reply to: None
+Timestamp: 2024-10-11T01:18:44.23+00:00
+Author: Daniel K. D-NY (yoitzdan)
+Author Id: 535131333010391050
+Avatar URL: assets\2b1631395cbef90180fe19a401c8e5f5-634C3.png
+Content: Tho if I was focused on the house I’ll do more Long Island visits
+--------------------
+
+--- Message ---
+Message ID: 1294106969711579188
+Message Type: Default
+Reply to: None
+Timestamp: 2024-10-11T01:19:04.924+00:00
+Author: Daniel K. D-NY (yoitzdan)
+Author Id: 535131333010391050
+Avatar URL: assets\2b1631395cbef90180fe19a401c8e5f5-634C3.png
+Content: 3/4 Long Island seats are Biden 2020 seats that went Republican in 2022
+--------------------
+
+--- Message ---
+Message ID: 1294107238759403611
+Message Type: Reply
+Reply to: 1294087776534532197
+Timestamp: 2024-10-11T01:20:09.07+00:00
+Author: Daniel K. D-NY (yoitzdan)
+Author Id: 535131333010391050
+Avatar URL: assets\2b1631395cbef90180fe19a401c8e5f5-634C3.png
+Content: NY-1 
+NY-3 (flipped) 
+NY-4 
+NY-17
+NY-19
+--------------------
+
+--- Message ---
+Message ID: 1294107796966740050
+Message Type: Default
+Reply to: None
+Timestamp: 2024-10-11T01:22:22.157+00:00
+Author: Daniel K. D-NY (yoitzdan)
+Author Id: 535131333010391050
+Avatar URL: assets\2b1631395cbef90180fe19a401c8e5f5-634C3.png
+Content: I believe this alone flips the house
+--------------------
+
+--- Message ---
+Message ID: 1294135941082124289
+Message Type: Default
+Reply to: None
+Timestamp: 2024-10-11T03:14:12.237+00:00
+Author: Shauna Ford [NY] KC Text Mod (shauna4d)
+Author Id: 793246922642292757
+Avatar URL: assets\9e43b5d4cac2d533cff85d707f2622e3-148D2.png
+Content: 
+--------------------
+
+--- Message ---
+Message ID: 1294135993871630392
+Message Type: Default
+Reply to: None
+Timestamp: 2024-10-11T03:14:24.823+00:00
+Author: Shauna Ford [NY] KC Text Mod (shauna4d)
+Author Id: 793246922642292757
+Avatar URL: assets\9e43b5d4cac2d533cff85d707f2622e3-148D2.png
+Content: Yes! The first one is earlier this evening and the second one is about 45 mins ago
+--------------------
+
+--- Message ---
+Message ID: 1294442173898559632
+Message Type: Default
+Reply to: None
+Timestamp: 2024-10-11T23:31:03.83+00:00
+Author: Tina Rose NY (tinaroseny)
+Author Id: 1290811207384567808
+Avatar URL: assets\79ee349b6511e2000af8a32fb8a6974e-3EE04.png
+Content: If we could text for NY17 it's a close race plus we have a spoiler /ghost candidate on the WFP line a former Republican meant to steal votes from the Dem candidate Mondaire Jones .
+--------------------
+
+--- Message ---
+Message ID: 1294472128539656304
+Message Type: Reply
+Reply to: 1294442173898559632
+Timestamp: 2024-10-12T01:30:05.573+00:00
+Author: Shauna Ford [NY] KC Text Mod (shauna4d)
+Author Id: 793246922642292757
+Avatar URL: assets\9e43b5d4cac2d533cff85d707f2622e3-148D2.png
+Content: I'm in 17 too
+--------------------
+
+--- Message ---
+Message ID: 1294481537278017557
+Message Type: Default
+Reply to: None
+Timestamp: 2024-10-12T02:07:28.791+00:00
+Author: TonyzTone (tonyztone0436)
+Author Id: 827651103440633866
+Avatar URL: assets\2-ADBB4.png
+Content: Since folks are talking about NY House races, wanted to point focus to some actions aimed at flipping those districts (especially for any Queens folks here)
+--------------------
+
+--- Message ---
+Message ID: 1294481790945202206
+Message Type: Default
+Reply to: None
+Timestamp: 2024-10-12T02:08:29.27+00:00
+Author: TonyzTone (tonyztone0436)
+Author Id: 827651103440633866
+Avatar URL: assets\2-ADBB4.png
+Content: Bus to NY-01 for John Avalon
+
+https://www.mobilize.us/queensbluecrew/event/720194/
+--------------------
+
+--- Message ---
+Message ID: 1294481896255782943
+Message Type: Default
+Reply to: None
+Timestamp: 2024-10-12T02:08:54.378+00:00
+Author: TonyzTone (tonyztone0436)
+Author Id: 827651103440633866
+Avatar URL: assets\2-ADBB4.png
+Content: Bus to NY-17 for Monday’s Jones
+
+https://www.mobilize.us/queensbluecrew/event/720198/
+--------------------
+
+--- Message ---
+Message ID: 1294481993102397470
+Message Type: Default
+Reply to: None
+Timestamp: 2024-10-12T02:09:17.468+00:00
+Author: TonyzTone (tonyztone0436)
+Author Id: 827651103440633866
+Avatar URL: assets\2-ADBB4.png
+Content: Bus to NY-19 for Josh Riley
+
+https://www.mobilize.us/queensbluecrew/event/720201/
+--------------------
+
+--- Message ---
+Message ID: 1294515624667643904
+Message Type: Default
+Reply to: None
+Timestamp: 2024-10-12T04:22:55.858+00:00
+Author: Daniel K. D-NY (yoitzdan)
+Author Id: 535131333010391050
+Avatar URL: assets\2b1631395cbef90180fe19a401c8e5f5-634C3.png
+Content: Right now the easiest flip would be NY-4 especially after the controversy with the incumbent
+--------------------
+
+--- Message ---
+Message ID: 1294515784105594921
+Message Type: Default
+Reply to: None
+Timestamp: 2024-10-12T04:23:33.871+00:00
+Author: Daniel K. D-NY (yoitzdan)
+Author Id: 535131333010391050
+Avatar URL: assets\2b1631395cbef90180fe19a401c8e5f5-634C3.png
+Content: NY-17 and NY-19 following that
+--------------------
+
+--- Message ---
+Message ID: 1294515799490297907
+Message Type: Default
+Reply to: None
+Timestamp: 2024-10-12T04:23:37.539+00:00
+Author: Daniel K. D-NY (yoitzdan)
+Author Id: 535131333010391050
+Avatar URL: assets\2b1631395cbef90180fe19a401c8e5f5-634C3.png
+Content: We can do this
+--------------------
+
+--- Message ---
+Message ID: 1294516016197406741
+Message Type: Default
+Reply to: None
+Timestamp: 2024-10-12T04:24:29.206+00:00
+Author: Daniel K. D-NY (yoitzdan)
+Author Id: 535131333010391050
+Avatar URL: assets\2b1631395cbef90180fe19a401c8e5f5-634C3.png
+Content: NY-1 I don’t  have hope but even if we do damage on Lalota in future cycles it could shift.
+--------------------
+
+--- Message ---
+Message ID: 1294695239847514173
+Message Type: Default
+Reply to: None
+Timestamp: 2024-10-12T16:16:39.454+00:00
+Author: Luvtherams (luvtherams)
+Author Id: 1222670299972243511
+Avatar URL: assets\e05874d1fa662995dabe9bc89e7295da-1713F.png
+Content: Im looking for a ride to and from Erie for the rally Monday.
+--------------------
+
+--- Message ---
+Message ID: 1294770201681989776
+Message Type: Default
+Reply to: None
+Timestamp: 2024-10-12T21:14:31.748+00:00
+Author: Beth Kutcher (beth804)
+Author Id: 1278067897230557205
+Avatar URL: assets\1-B2132.png
+Content: The most recent Emerson poll had Lawler only ahead of Jones by 1 and it looks like Jones has the momentum in the polls. Even with the third party spoiler, Jones can definitely still win but it's going to take a lot of work!
+--------------------
+
+--- Message ---
+Message ID: 1294870915288662026
+Message Type: Default
+Reply to: None
+Timestamp: 2024-10-13T03:54:43.743+00:00
+Author: Autumn S [AR]🤘• Lead Mod/OE Mod (meanderingstone6495)
+Author Id: 936622618293968958
+Avatar URL: assets\af45a372ba919e7bac10686b43e799f1-BDEE3.png
+Content: Want to join me for this High Hopes for Harris event? https://mobilize.us/s/1nez72
+--------------------
+
+--- Message ---
+Message ID: 1295084892929003680
+Message Type: Default
+Reply to: None
+Timestamp: 2024-10-13T18:04:59.988+00:00
+Author: Ruby Bradley [NY] (ruberrypie)
+Author Id: 797336974506590208
+Avatar URL: assets\3-FB033.png
+Content: Hey Riley’s mobilize page is blocking me when I hit the volunteer button, anyone know what I should do about that?
+--------------------
+
+--- Message ---
+Message ID: 1295084961749139517
+Message Type: Default
+Reply to: None
+Timestamp: 2024-10-13T18:05:16.396+00:00
+Author: Ruby Bradley [NY] (ruberrypie)
+Author Id: 797336974506590208
+Avatar URL: assets\3-FB033.png
+Content: I’m in NY-19 and would love to help out in the last push
+--------------------
+
+--- Message ---
+Message ID: 1295091303285264444
+Message Type: Default
+Reply to: None
+Timestamp: 2024-10-13T18:30:28.336+00:00
+Author: Jack Joannides KC text admin (jjoannid)
+Author Id: 477560366432256000
+Avatar URL: assets\791c521e62160be1f3df04992f6e5470-36A38.png
+Content: That’s a national issue. Not just his campaign.
+--------------------
+
+--- Message ---
+Message ID: 1295381913598689392
+Message Type: Reply
+Reply to: 1295084892929003680
+Timestamp: 2024-10-14T13:45:15.234+00:00
+Author: Midsummer NYC • Lead Mod (midsummernyc)
+Author Id: 288902250955538432
+Avatar URL: assets\4ab0a2262b0338fe668a1314cfc0512b-8638D.png
+Content: Hi <@797336974506590208>! I'm not sure if you've tried to access that mobilize page since but if you haven't, I wanted to let you know that it was a brief outage that has been resolved.  You should be good to sign up to volunteer for Josh Riley and any other volunteer activity on mobilize now. Thank you so much for being here!
+--------------------
+
+--- Message ---
+Message ID: 1295470793454522408
+Message Type: Default
+Reply to: None
+Timestamp: 2024-10-14T19:38:25.843+00:00
+Author: Daniel K. D-NY (yoitzdan)
+Author Id: 535131333010391050
+Avatar URL: assets\2b1631395cbef90180fe19a401c8e5f5-634C3.png
+Content: 
+--------------------
+
+--- Message ---
+Message ID: 1295470827839557673
+Message Type: Default
+Reply to: None
+Timestamp: 2024-10-14T19:38:34.041+00:00
+Author: Daniel K. D-NY (yoitzdan)
+Author Id: 535131333010391050
+Avatar URL: assets\2b1631395cbef90180fe19a401c8e5f5-634C3.png
+Content: D+76 2016 Clinton
+D+80 2018 Gillibrand
+D+75 2020 Biden 
+D+71 2022 Schumer  
+
+D+70 2022 Hochul
+--------------------
+
+--- Message ---
+Message ID: 1295470898018779207
+Message Type: Default
+Reply to: None
+Timestamp: 2024-10-14T19:38:50.773+00:00
+Author: Daniel K. D-NY (yoitzdan)
+Author Id: 535131333010391050
+Avatar URL: assets\2b1631395cbef90180fe19a401c8e5f5-634C3.png
+Content: Gillibrand is up for Reelection
+--------------------
+
+--- Message ---
+Message ID: 1295476865204486164
+Message Type: Default
+Reply to: None
+Timestamp: 2024-10-14T20:02:33.461+00:00
+Author: Ellen Adams 💛🐝 [NY] (ellens_16824)
+Author Id: 1286444095954354197
+Avatar URL: assets\3ed3a2529bf9d39b4cb570b96e8774fb-F0C93.png
+Content: Staying home whatever day that is, though it won't affect Brooklyn much.
+--------------------
+
+--- Message ---
+Message ID: 1295551329770409985
+Message Type: Default
+Reply to: None
+Timestamp: 2024-10-15T00:58:27.197+00:00
+Author: Sabinesmom (sabinesmom)
+Author Id: 1255354948040921172
+Avatar URL: assets\1b7cacf4869e8e2c50615e0d9afa2572-E6D63.png
+Content: Why would MSG let this happen
+--------------------
+
+--- Message ---
+Message ID: 1295551716149694484
+Message Type: Default
+Reply to: None
+Timestamp: 2024-10-15T00:59:59.317+00:00
+Author: Daniel K. D-NY (yoitzdan)
+Author Id: 535131333010391050
+Avatar URL: assets\2b1631395cbef90180fe19a401c8e5f5-634C3.png
+Content: This is his 2nd time in MSG this cycle I believe
+--------------------
+
+--- Message ---
+Message ID: 1295551746063728640
+Message Type: Default
+Reply to: None
+Timestamp: 2024-10-15T01:00:06.449+00:00
+Author: Daniel K. D-NY (yoitzdan)
+Author Id: 535131333010391050
+Avatar URL: assets\2b1631395cbef90180fe19a401c8e5f5-634C3.png
+Content: 4th time in NY
+--------------------
+
+--- Message ---
+Message ID: 1295551781954256926
+Message Type: Default
+Reply to: None
+Timestamp: 2024-10-15T01:00:15.006+00:00
+Author: Daniel K. D-NY (yoitzdan)
+Author Id: 535131333010391050
+Avatar URL: assets\2b1631395cbef90180fe19a401c8e5f5-634C3.png
+Content: he was in the Bronx once
+--------------------
+
+--- Message ---
+Message ID: 1295551808382566461
+Message Type: Default
+Reply to: None
+Timestamp: 2024-10-15T01:00:21.307+00:00
+Author: Daniel K. D-NY (yoitzdan)
+Author Id: 535131333010391050
+Avatar URL: assets\2b1631395cbef90180fe19a401c8e5f5-634C3.png
+Content: And Nassau County
+--------------------
+
+--- Message ---
+Message ID: 1295557082770309203
+Message Type: Default
+Reply to: None
+Timestamp: 2024-10-15T01:21:18.819+00:00
+Author: alai6281 (Alisha) (al6281)
+Author Id: 670430249091203092
+Avatar URL: assets\3-FB033.png
+Content: I always thought my small town about 30 miles outside NYC was more democratic but the amount of trump and mike lawler signs I’ve seen alone makes me so worried his rallies are somehow working
+--------------------
+
+--- Message ---
+Message ID: 1295559464237273141
+Message Type: Default
+Reply to: None
+Timestamp: 2024-10-15T01:30:46.605+00:00
+Author: Sabinesmom (sabinesmom)
+Author Id: 1255354948040921172
+Avatar URL: assets\1b7cacf4869e8e2c50615e0d9afa2572-E6D63.png
+Content: Trumpers went from the “silent majority” to extremely loud
+--------------------
+
+--- Message ---
+Message ID: 1295559515928006706
+Message Type: Default
+Reply to: None
+Timestamp: 2024-10-15T01:30:58.929+00:00
+Author: Sabinesmom (sabinesmom)
+Author Id: 1255354948040921172
+Avatar URL: assets\1b7cacf4869e8e2c50615e0d9afa2572-E6D63.png
+Content: I think they have been emboldened
+--------------------
+
+--- Message ---
+Message ID: 1295559770207682560
+Message Type: Default
+Reply to: None
+Timestamp: 2024-10-15T01:31:59.554+00:00
+Author: Sabinesmom (sabinesmom)
+Author Id: 1255354948040921172
+Avatar URL: assets\1b7cacf4869e8e2c50615e0d9afa2572-E6D63.png
+Content: They’re all bark!
+--------------------
+
+--- Message ---
+Message ID: 1295576129025081405
+Message Type: Reply
+Reply to: 1295551329770409985
+Timestamp: 2024-10-15T02:36:59.8+00:00
+Author: Ellen Adams 💛🐝 [NY] (ellens_16824)
+Author Id: 1286444095954354197
+Avatar URL: assets\3ed3a2529bf9d39b4cb570b96e8774fb-F0C93.png
+Content: The owner of MSG and MSG network is a supporter, or was in 2020.
+--------------------
+
+--- Message ---
+Message ID: 1295583905528676382
+Message Type: Reply
+Reply to: 1295576129025081405
+Timestamp: 2024-10-15T03:07:53.863+00:00
+Author: Jack Ferreira (KC) (jackferreira.246012)
+Author Id: 1276396030375624789
+Avatar URL: assets\cd48a61b3416a1c6fe47335cfcfc484e-EE993.png
+Content: Actually, MSG is owned by a publicly traded holding company.  Its CEO is a Trump Donor
+--------------------
+
+--- Message ---
+Message ID: 1295584294059900948
+Message Type: Reply
+Reply to: 1295583905528676382
+Timestamp: 2024-10-15T03:09:26.496+00:00
+Author: Ellen Adams 💛🐝 [NY] (ellens_16824)
+Author Id: 1286444095954354197
+Avatar URL: assets\3ed3a2529bf9d39b4cb570b96e8774fb-F0C93.png
+Content: Didn't realize that. I just remember James Dolan.
+--------------------
+
+--- Message ---
+Message ID: 1295617580144529449
+Message Type: Default
+Reply to: None
+Timestamp: 2024-10-15T05:21:42.517+00:00
+Author: Daniel K. D-NY (yoitzdan)
+Author Id: 535131333010391050
+Avatar URL: assets\2b1631395cbef90180fe19a401c8e5f5-634C3.png
+Content: https://x.com/mrsantosny/status/1845932259884650809?s=46&t=IsOYb1QH-cGt2T0fGLD8LA
+--------------------
+
+--- Message ---
+Message ID: 1295617741914636320
+Message Type: Default
+Reply to: None
+Timestamp: 2024-10-15T05:22:21.086+00:00
+Author: Daniel K. D-NY (yoitzdan)
+Author Id: 535131333010391050
+Avatar URL: assets\2b1631395cbef90180fe19a401c8e5f5-634C3.png
+Content: George Santos endorses Tom Suozzi for NY-3 by not voting
+--------------------
+
+--- Message ---
+Message ID: 1296172056827658241
+Message Type: Reply
+Reply to: 1295084892929003680
+Timestamp: 2024-10-16T18:05:00.06+00:00
+Author: Suki van Dijk (sukivandijk_36388)
+Author Id: 1266164782080327710
+Avatar URL: assets\d2a50d4825e64a63a0e1e6f975a9db34-96E9A.png
+Content: Did you try going directly to the candidate website?
+--------------------
+
+--- Message ---
+Message ID: 1296172163442937889
+Message Type: Reply
+Reply to: 1296172056827658241
+Timestamp: 2024-10-16T18:05:25.479+00:00
+Author: Ruby Bradley [NY] (ruberrypie)
+Author Id: 797336974506590208
+Avatar URL: assets\3-FB033.png
+Content: It’s been fixed now
+--------------------
+
+--- Message ---
+Message ID: 1296177296683700314
+Message Type: Default
+Reply to: None
+Timestamp: 2024-10-16T18:25:49.339+00:00
+Author: RVP (rvp1127)
+Author Id: 1291085737541894260
+Avatar URL: assets\c82b3fa769ed6e6ffdea579381ed5f5c-AFCA2.png
+Content: Who cares about him!!! No sane person wants him here in NY
+--------------------
+
+--- Message ---
+Message ID: 1296198462181867580
+Message Type: Default
+Reply to: None
+Timestamp: 2024-10-16T19:49:55.587+00:00
+Author: Autumn S [AR]🤘• Lead Mod/OE Mod (meanderingstone6495)
+Author Id: 936622618293968958
+Avatar URL: assets\af45a372ba919e7bac10686b43e799f1-BDEE3.png
+Content: Want to join me for this event? https://mobilize.us/s/yCrvow
+--------------------
+
+--- Message ---
+Message ID: 1296593449130135677
+Message Type: Default
+Reply to: None
+Timestamp: 2024-10-17T21:59:27.814+00:00
+Author: Jack Ferreira (KC) (jackferreira.246012)
+Author Id: 1276396030375624789
+Avatar URL: assets\cd48a61b3416a1c6fe47335cfcfc484e-EE993.png
+Content: <@1286444095954354197> little fun fact about MSG, they are in deep trouble
+--------------------
+
+--- Message ---
+Message ID: 1296593809769103442
+Message Type: Default
+Reply to: None
+Timestamp: 2024-10-17T22:00:53.797+00:00
+Author: Ellen Adams 💛🐝 [NY] (ellens_16824)
+Author Id: 1286444095954354197
+Avatar URL: assets\3ed3a2529bf9d39b4cb570b96e8774fb-F0C93.png
+Content: Pretty sure they won't make any of it up with this rally!
+--------------------
+
+--- Message ---
+Message ID: 1296594085712498738
+Message Type: Default
+Reply to: None
+Timestamp: 2024-10-17T22:01:59.587+00:00
+Author: Jack Ferreira (KC) (jackferreira.246012)
+Author Id: 1276396030375624789
+Avatar URL: assets\cd48a61b3416a1c6fe47335cfcfc484e-EE993.png
+Content: Technically they're bankrupt.  Debts exceed assets
+--------------------
+
+--- Message ---
+Message ID: 1296599146970611793
+Message Type: Default
+Reply to: None
+Timestamp: 2024-10-17T22:22:06.285+00:00
+Author: Jamie Joeyen-Waldorf (New York) (.pizzamonster555)
+Author Id: 463218697499181056
+Avatar URL: assets\8ba3564717ef3771da8c004ea12ceffb-0FC5F.png
+Content: Kamala you here 👀
+--------------------
+
+--- Message ---
+Message ID: 1296823377020850229
+Message Type: Default
+Reply to: None
+Timestamp: 2024-10-18T13:13:06.895+00:00
+Author: Matt Sally (matt_1989_)
+Author Id: 1275554237870247947
+Avatar URL: assets\2-ADBB4.png
+Content: Came across this for anyone interested in going to NC to campaign from NYC - https://events.democrats.org/event/730361/
+--------------------
+
+--- Message ---
+Message ID: 1296823580218364016
+Message Type: Default
+Reply to: None
+Timestamp: 2024-10-18T13:13:55.341+00:00
+Author: Matt Sally (matt_1989_)
+Author Id: 1275554237870247947
+Avatar URL: assets\2-ADBB4.png
+Content: Not sure if you can share links like this or not
+--------------------
+
+--- Message ---
+Message ID: 1296824622641057905
+Message Type: Reply
+Reply to: 1296823377020850229
+Timestamp: 2024-10-18T13:18:03.874+00:00
+Author: Jamie Joeyen-Waldorf (New York) (.pizzamonster555)
+Author Id: 463218697499181056
+Avatar URL: assets\8ba3564717ef3771da8c004ea12ceffb-0FC5F.png
+Content: This looks so fun! Would totally go if I didn't have some unmoveable commitments then.
+--------------------
+
+--- Message ---
+Message ID: 1296915378613522462
+Message Type: Default
+Reply to: None
+Timestamp: 2024-10-18T19:18:41.784+00:00
+Author: Autumn S [AR]🤘• Lead Mod/OE Mod (meanderingstone6495)
+Author Id: 936622618293968958
+Avatar URL: assets\af45a372ba919e7bac10686b43e799f1-BDEE3.png
+Content: <:eyes:1252803301137842251>  Looking for more ways to get involved and get out the vote? **Join us Monday through Saturday for our GOTV Power Hours**, where you'll learn everything you need to know to reach out to your friends, family, and online communities and make sure they get out the vote! 🗳️ Sign up HERE: https://txt.democrats.org/GOTVHour 
+
+<:retweet:1278893511780864010> Check out our priority content from Reach to share HERE: https://share.kamalaharris.com/toolkit/Discord-2f08
+--------------------
+
+--- Message ---
+Message ID: 1296934545114796074
+Message Type: Reply
+Reply to: 1294516016197406741
+Timestamp: 2024-10-18T20:34:51.434+00:00
+Author: TonyzTone (tonyztone0436)
+Author Id: 827651103440633866
+Avatar URL: assets\2-ADBB4.png
+Content: Saw this just now, but response over the weekend in NY1 was pretty good for Avlon. Hard district but Avlon is doing very well connecting with the voters. Fingers crossed
+--------------------
+
+--- Message ---
+Message ID: 1296988516894507019
+Message Type: Default
+Reply to: None
+Timestamp: 2024-10-19T00:09:19.309+00:00
+Author: Daniel K. D-NY (yoitzdan)
+Author Id: 535131333010391050
+Avatar URL: assets\2b1631395cbef90180fe19a401c8e5f5-634C3.png
+Content: There’s a shot
+--------------------
+
+--- Message ---
+Message ID: 1296988560637038615
+Message Type: Default
+Reply to: None
+Timestamp: 2024-10-19T00:09:29.738+00:00
+Author: Daniel K. D-NY (yoitzdan)
+Author Id: 535131333010391050
+Avatar URL: assets\2b1631395cbef90180fe19a401c8e5f5-634C3.png
+Content: 2022 was Lalotas first year and the turnout was horrible
+--------------------
+
+--- Message ---
+Message ID: 1296988630568402966
+Message Type: Default
+Reply to: None
+Timestamp: 2024-10-19T00:09:46.411+00:00
+Author: Daniel K. D-NY (yoitzdan)
+Author Id: 535131333010391050
+Avatar URL: assets\2b1631395cbef90180fe19a401c8e5f5-634C3.png
+Content: Schumer and Hochul were I think within 10%
+--------------------
+
+--- Message ---
+Message ID: 1297197424414298165
+Message Type: Reply
+Reply to: 1296988516894507019
+Timestamp: 2024-10-19T13:59:26.743+00:00
+Author: Viri Pettersen [OE Mod] (mspetter)
+Author Id: 1071135294419636345
+Avatar URL: assets\12564b0ac9ef39ec825aa396686abd3c-C672B.png
+Content: Immediately after his primary, John wanted six debates from the outset. "Not-a-lotta" typically did not respond.  Here's the latest from yesterday - I don't get Newsday any longer, but the full debate will be available on Monday, per John... https://www.instagram.com/p/DBSIiOgvfwJ/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA==
+--------------------
+
+--- Message ---
+Message ID: 1297241098443292713
+Message Type: Default
+Reply to: None
+Timestamp: 2024-10-19T16:52:59.443+00:00
+Author: Matt Sally (matt_1989_)
+Author Id: 1275554237870247947
+Avatar URL: assets\2-ADBB4.png
+Content: Hey all there’s some activities listed in here https://go.kamalaharris.com/
+--------------------
+
+--- Message ---
+Message ID: 1297241259144122378
+Message Type: Default
+Reply to: None
+Timestamp: 2024-10-19T16:53:37.757+00:00
+Author: Matt Sally (matt_1989_)
+Author Id: 1275554237870247947
+Avatar URL: assets\2-ADBB4.png
+Content: These should show all buses etc leaving from NY to PA
+--------------------
+
+--- Message ---
+Message ID: 1297241422654865418
+Message Type: Default
+Reply to: None
+Timestamp: 2024-10-19T16:54:16.741+00:00
+Author: Matt Sally (matt_1989_)
+Author Id: 1275554237870247947
+Avatar URL: assets\2-ADBB4.png
+Content: You might have to put in your zip code to tailor it specifically
+--------------------
+
+--- Message ---
+Message ID: 1297242013917384755
+Message Type: Default
+Reply to: None
+Timestamp: 2024-10-19T16:56:37.709+00:00
+Author: Matt Sally (matt_1989_)
+Author Id: 1275554237870247947
+Avatar URL: assets\2-ADBB4.png
+Content: Ye I mean they have a few outside of the city but not as much you’re right - I guess the most you’d need to do is get metro north from Westchester but I understand it’s annoying
+--------------------
+
+--- Message ---
+Message ID: 1297243509253738537
+Message Type: Default
+Reply to: None
+Timestamp: 2024-10-19T17:02:34.225+00:00
+Author: Dana Levin [NY] (dl123123123)
+Author Id: 536047318655303683
+Avatar URL: assets\1-B2132.png
+Content: Maybe the Westchester County Democratic Committee would have ideas? https://westchesterdems.org
+--------------------
+
+--- Message ---
+Message ID: 1297307344325316629
+Message Type: Default
+Reply to: None
+Timestamp: 2024-10-19T21:16:13.692+00:00
+Author: Matt Sally (matt_1989_)
+Author Id: 1275554237870247947
+Avatar URL: assets\2-ADBB4.png
+Content: For anyone interested
+--------------------
+
+--- Message ---
+Message ID: 1297307359625875599
+Message Type: Default
+Reply to: None
+Timestamp: 2024-10-19T21:16:17.34+00:00
+Author: Matt Sally (matt_1989_)
+Author Id: 1275554237870247947
+Avatar URL: assets\2-ADBB4.png
+Content: https://events.democrats.org/event/711959/?utm_source=hfp_w_an_findeventmodule&source=hfp_w_go_20241019&utm_campaign=hfp_w_go_mb_do_vol_vrec_20241019&utm_medium=go_kh_20241019&ref=go_kh_20241019&utm_term=go_kh_20241019_priority
+--------------------
+
+--- Message ---
+Message ID: 1297307396183687330
+Message Type: Default
+Reply to: None
+Timestamp: 2024-10-19T21:16:26.056+00:00
+Author: Matt Sally (matt_1989_)
+Author Id: 1275554237870247947
+Avatar URL: assets\2-ADBB4.png
+Content: For tomorrow
+--------------------
+
+--- Message ---
+Message ID: 1297307583039799349
+Message Type: Default
+Reply to: None
+Timestamp: 2024-10-19T21:17:10.606+00:00
+Author: Matt Sally (matt_1989_)
+Author Id: 1275554237870247947
+Avatar URL: assets\2-ADBB4.png
+Content: And another one leaving Brooklyn https://events.democrats.org/event/702683/?utm_source=hfp_w_an_findeventmodule&source=hfp_w_go_20241019&utm_campaign=hfp_w_go_mb_do_vol_vrec_20241019&utm_medium=go_kh_20241019&ref=go_kh_20241019&utm_term=go_kh_20241019_pinned
+--------------------
+
+--- Message ---
+Message ID: 1297321466240565248
+Message Type: Reply
+Reply to: 1297243747825750119
+Timestamp: 2024-10-19T22:12:20.619+00:00
+Author: Rachel Ruben [NY] KC Text Admin (matzahbrei)
+Author Id: 368807878926008341
+Avatar URL: assets\809f117d179a70576b3870d1aaf1eedb-18781.png
+Content: there's a UWS departure on Sundays to PA!
+--------------------
+
+--- Message ---
+Message ID: 1297344799246127105
+Message Type: Reply
+Reply to: 1297321466240565248
+Timestamp: 2024-10-19T23:45:03.641+00:00
+Author: Matt Sally (matt_1989_)
+Author Id: 1275554237870247947
+Avatar URL: assets\2-ADBB4.png
+Content: Exactly.. there’s multiple pick up buses across the city including even Staten Island and the Bronx. I feel like there’s ample routes to get to PA.. plus getting from Westchester county to midtown isn’t the worst with Metro North
+--------------------
+
+--- Message ---
+Message ID: 1297368238585544724
+Message Type: Default
+Reply to: None
+Timestamp: 2024-10-20T01:18:12.015+00:00
+Author: Marisa K. -(NY) [Mod]/KC TextMod (marisak._74585)
+Author Id: 1268363112956952637
+Avatar URL: assets\19f0a12ecb0c947e057e402ffc5ebae4-846B0.png
+Content: I know that so many of us are volunteering in so many ways, and that canvassing is amazing! But could we nudge you to the phones this weekend?!  We are trying to reach 5 million people this weekend!  Can you join us for just a bit?!  [Phonebank with Team Harris-Walz](https://events.democrats.org/event/725393/?utm_source=Discord&utm_medium=Posts&utm_campaign=Daily%20Engagement)
+--------------------
+
+--- Message ---
+Message ID: 1297549864703623269
+Message Type: Default
+Reply to: None
+Timestamp: 2024-10-20T13:19:55.056+00:00
+Author: Marisa K. -(NY) [Mod]/KC TextMod (marisak._74585)
+Author Id: 1268363112956952637
+Avatar URL: assets\19f0a12ecb0c947e057e402ffc5ebae4-846B0.png
+Content: In celebration of Kamala's birthday lets trade candles for calls and gifts for gumption! We're trying to reach over 3 million voters today! Can you help?  Knock out some calls while you are drinking your morning coffee and still be out in time to hit up a pumpkin patch! Join the [5M Dial-a-thon](https://events.democrats.org/event/730026/) and help make history!
+--------------------
+
+--- Message ---
+Message ID: 1297571119838269500
+Message Type: Default
+Reply to: None
+Timestamp: 2024-10-20T14:44:22.675+00:00
+Author: Brooke (brooke09391)
+Author Id: 805240723703332896
+Avatar URL: assets\eb0fa00ba162b07a07527b9510a89e5a-67068.png
+Content: Are there any buses from Suffolk County - there are a ton of us who want to go?  If we organize a caravan to PA - where would we go?
+--------------------
+
+--- Message ---
+Message ID: 1297647040997625920
+Message Type: Reply
+Reply to: 1297571119838269500
+Timestamp: 2024-10-20T19:46:03.69+00:00
+Author: Shauna Ford [NY] KC Text Mod (shauna4d)
+Author Id: 793246922642292757
+Avatar URL: assets\9e43b5d4cac2d533cff85d707f2622e3-148D2.png
+Content: If you sign up for one of the canvassing events on mobilize, there is a way to contact the organizers
+--------------------
+
+--- Message ---
+Message ID: 1297647250536792176
+Message Type: Default
+Reply to: None
+Timestamp: 2024-10-20T19:46:53.648+00:00
+Author: Shauna Ford [NY] KC Text Mod (shauna4d)
+Author Id: 793246922642292757
+Avatar URL: assets\9e43b5d4cac2d533cff85d707f2622e3-148D2.png
+Content: I volunteer in the email channel too, we get that question from supporters a lot (if you can meet up with the bus at arrival)  and we direct them to ask the organizer. I'm not 100% sure of the outcome, but we are still directed do that so I believe it works out!
+--------------------
+
+--- Message ---
+Message ID: 1297683204186050590
+Message Type: Default
+Reply to: None
+Timestamp: 2024-10-20T22:09:45.666+00:00
+Author: Rachel Ruben [NY] KC Text Admin (matzahbrei)
+Author Id: 368807878926008341
+Avatar URL: assets\809f117d179a70576b3870d1aaf1eedb-18781.png
+Content: I am on my way home from canvassing from the UWS in PA and we knocked about 17.500 doors! Super efficient and well-run process
+--------------------
+
+--- Message ---
+Message ID: 1297686182963970098
+Message Type: Reply
+Reply to: 1297683204186050590
+Timestamp: 2024-10-20T22:21:35.862+00:00
+Author: Jamie Joeyen-Waldorf (New York) (.pizzamonster555)
+Author Id: 463218697499181056
+Avatar URL: assets\8ba3564717ef3771da8c004ea12ceffb-0FC5F.png
+Content: My friend went and canvassed today! Glad it was fun.
+--------------------
+
+--- Message ---
+Message ID: 1297698955911761952
+Message Type: Default
+Reply to: None
+Timestamp: 2024-10-20T23:12:21.17+00:00
+Author: Maggie M [MD] • Community Mod (dramacrone)
+Author Id: 291311960417370112
+Avatar URL: assets\46b968d19f7a6528fb1e9ae77bf19fd5-B22D6.png
+Content: **Courage is mastery of fear, not absence of fear.** Which [**Phone Bank with Team Harris-Walz**](https://events.democrats.org/event/725393/?utm_source=Discord&utm_medium=Posts&utm_campaign=Daily%20Engagement) are you signing up for right now?
+--------------------
+
+--- Message ---
+Message ID: 1297709668658843750
+Message Type: Default
+Reply to: None
+Timestamp: 2024-10-20T23:54:55.288+00:00
+Author: Daniel K. D-NY (yoitzdan)
+Author Id: 535131333010391050
+Avatar URL: assets\2b1631395cbef90180fe19a401c8e5f5-634C3.png
+Content: 2 more games fellow New Yorkers
+--------------------
+
+--- Message ---
+Message ID: 1297710134117535755
+Message Type: Default
+Reply to: None
+Timestamp: 2024-10-20T23:56:46.262+00:00
+Author: Daniel K. D-NY (yoitzdan)
+Author Id: 535131333010391050
+Avatar URL: assets\2b1631395cbef90180fe19a401c8e5f5-634C3.png
+Content: Either way there’s a 100% chance a New York born team wins since all 3 originated from our state
+--------------------
+
+--- Message ---
+Message ID: 1297735985882464308
+Message Type: Default
+Reply to: None
+Timestamp: 2024-10-21T01:39:29.803+00:00
+Author: Jared R [CO] • Lead Mod (kyaizen)
+Author Id: 112080668296564736
+Avatar URL: assets\a_de0e3d4a3f9b486ad3ad6df0d72323da-D0252.gif
+Content: <@&1245910731455594516> FOLKS, WE LOVE YA, AND YOUR DEDICATION TO THIS CAMPAIGN! WHAT IS OF IMMEDIATE HELP RIGHT NOW IS TO  HOP ON THE DIALER RIGHT NOW AND HELP US GET TO 5 MILLION CALLS!!! 
+
+WE ARE LESS THAN 600K AWAY FROM IT, AND WE CAN DO THIS, BUT WE NEED ALL OF YOU TO HELP US GET THERE!
+
+HOP ON THE DIALER RIGHT NOW AND CALL SOME AWESOME WISCONSIN VOTERS: https://democrats.call.scaletowin.com/?t=f80c83d9-aa81-404c-9137-bbd269d6b1c7&ref=discord
+--------------------
+
+--- Message ---
+Message ID: 1297736036679684146
+Message Type: Reply
+Reply to: 1297735985882464308
+Timestamp: 2024-10-21T01:39:41.914+00:00
+Author: Megan Morris NY (megk8199)
+Author Id: 1266394779676184707
+Avatar URL: assets\ef0881069adff0161f4bd602f9c62624-E5156.png
+Content: Don’t lie to me Jared…
+--------------------
+
+--- Message ---
+Message ID: 1297736367845150730
+Message Type: Reply
+Reply to: 1297735985882464308
+Timestamp: 2024-10-21T01:41:00.87+00:00
+Author: Luke Lippitt - NY (lukelippitt1)
+Author Id: 1281443846810763376
+Avatar URL: assets\72d915514f25939d76d9894d133de8d4-9B169.png
+Content: Will join after meeting at 10!
+--------------------
+
+--- Message ---
+Message ID: 1297741285934891010
+Message Type: Default
+Reply to: None
+Timestamp: 2024-10-21T02:00:33.434+00:00
+Author: Jared R [CO] • Lead Mod (kyaizen)
+Author Id: 112080668296564736
+Avatar URL: assets\a_de0e3d4a3f9b486ad3ad6df0d72323da-D0252.gif
+Content: NOW CALLING NV!! JOIN US! https://democrats.call.scaletowin.com/?t=09bd534e-841d-495f-b590-68e74150764e&ef=discord
+--------------------
+
+--- Message ---
+Message ID: 1297759895403364424
+Message Type: Default
+Reply to: None
+Timestamp: 2024-10-21T03:14:30.277+00:00
+Author: Madison S. [NM] • [Mod] (madison7026)
+Author Id: 285222833640964099
+Avatar URL: assets\ed92212696edc19bf04c2c04193377dd-D4DA9.png
+Content: ## We're back! We're getting SO close to our goal of 5 million goals and have one more hour to call west coast voters - [please come join us](https://democrats.call.scaletowin.com/?t=09bd534e-841d-495f-b590-68e74150764e&ef=discord) to call NV voters! Even a few calls helps us reach our goal. 🤩
+--------------------
+
+--- Message ---
+Message ID: 1297931959938449429
+Message Type: Default
+Reply to: None
+Timestamp: 2024-10-21T14:38:13.659+00:00
+Author: Brooke (brooke09391)
+Author Id: 805240723703332896
+Avatar URL: assets\eb0fa00ba162b07a07527b9510a89e5a-67068.png
+Content: <@793246922642292757> I tried - no response - we could easily get 20 people out here - if you have another co ntact that would be great 
+I really want to go both weekends 
+I did sign up for earlier Brooklyn and I’ve had a few calamities - the Barclays center is rough from out east becuase there is not public transportation from the island
+--------------------
+
+--- Message ---
+Message ID: 1297936661610762301
+Message Type: Default
+Reply to: None
+Timestamp: 2024-10-21T14:56:54.625+00:00
+Author: Marisa K. -(NY) [Mod]/KC TextMod (marisak._74585)
+Author Id: 1268363112956952637
+Avatar URL: assets\19f0a12ecb0c947e057e402ffc5ebae4-846B0.png
+Content: Happy Monday!
+
+ We made almost 5 million calls this weekend to celebrate Kamala's birthday! 
+
+How did get involved?: 
+
+<:phone:1252803032346001479> Phone Bank Powerhouse
+<:text_heart1:1270612783796584541> Text Bank Warrior
+🚪 Steps-in Canvasser
+<:9364_blobpumpkin:1285344377065046047> Something different
+<:100:1252803350026653726> Didn't get on this weekend but will today! 
+
+
+We still need you all on the phones!!! We are on them too!! Join us!  [Phonebank with Team Harris-Walz ](https://events.democrats.org/event/725393/?utm_source=Discord&utm_medium=Posts&utm_campaign=Daily%20Engagement)today!! Will you join us?!  <:100:1252803350026653726>
+--------------------
+
+--- Message ---
+Message ID: 1297949863387987999
+Message Type: Default
+Reply to: None
+Timestamp: 2024-10-21T15:49:22.174+00:00
+Author: Princess_Gamer25 (jlopez255)
+Author Id: 754152928247545957
+Avatar URL: assets\014d027b8e391f5bdd50449ae77c6ac9-028FE.png
+Content: How can I help tomorrow Tuesday the 22nd?
+--------------------

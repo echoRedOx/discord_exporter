@@ -1,0 +1,38 @@
+Guild: Team Harris-Walz Virtual Office (ID: 1242249109298221066)
+Channel: I suggest that you attend the training. (ID: 1275898061427703829)
+Channel Topic: None
+Exported At: 2024-10-24T13:11:19.8253518+00:00
+
+
+--- Message ---
+Message ID: 1275903800737267896
+Message Type: 21
+Reply to: 1275898061427703829
+Timestamp: 2024-08-21T19:46:11.242+00:00
+Author: Alan deLespinasse (MA) (adelespinasse)
+Author Id: 690550534549012520
+Avatar URL: assets\1-B2132.png
+Content: 
+--------------------
+
+--- Message ---
+Message ID: 1275903805573169194
+Message Type: Default
+Reply to: None
+Timestamp: 2024-08-21T19:46:12.395+00:00
+Author: Alan deLespinasse (MA) (adelespinasse)
+Author Id: 690550534549012520
+Avatar URL: assets\1-B2132.png
+Content: Sure, I plan to, but I would choose a more efficient way if there was one. Even if there was just a recording of the Zoom presentation, I would probably watch it at 2x speed.
+--------------------
+
+--- Message ---
+Message ID: 1275940501299662858
+Message Type: Default
+Reply to: None
+Timestamp: 2024-08-21T22:12:01.338+00:00
+Author: Blind Art Studios (blindartstudios)
+Author Id: 1157136685683974144
+Avatar URL: assets\956a030f8fd3be27176c0b45ddb73f81-D8A63.png
+Content: There is an aspect of team and community building. You want to be part of that. You can ask questions. And so on. They also welcome suggestions and feedback on the tools or content needed to help you be successful. You will not be alone in this.  Welcome
+--------------------

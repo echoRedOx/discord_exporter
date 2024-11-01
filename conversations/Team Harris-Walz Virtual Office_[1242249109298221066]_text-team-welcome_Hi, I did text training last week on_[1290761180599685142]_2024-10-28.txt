@@ -1,0 +1,60 @@
+Guild: Team Harris-Walz Virtual Office (ID: 1242249109298221066)
+Channel: Hi, I did text training last week on (ID: 1290761180599685142)
+Channel Topic: None
+Exported At: 2024-10-28T22:56:14.9318576+00:00
+
+
+--- Message ---
+Message ID: 1290761536951943309
+Message Type: 21
+Reply to: 1290761180599685142
+Timestamp: 2024-10-01T19:45:31.599+00:00
+Author: Jack Joannides KC text admin (jjoannid)
+Author Id: 477560366432256000
+Avatar URL: assets\791c521e62160be1f3df04992f6e5470-36A38.png
+Content: 
+--------------------
+
+--- Message ---
+Message ID: 1290761538407501825
+Message Type: Default
+Reply to: None
+Timestamp: 2024-10-01T19:45:31.946+00:00
+Author: Jack Joannides KC text admin (jjoannid)
+Author Id: 477560366432256000
+Avatar URL: assets\791c521e62160be1f3df04992f6e5470-36A38.png
+Content: You should have gotten a direct message from Roberta.
+--------------------
+
+--- Message ---
+Message ID: 1290762506339487764
+Message Type: Default
+Reply to: None
+Timestamp: 2024-10-01T19:49:22.719+00:00
+Author: Elizabeth Golini (ME) (elizabeth_63051)
+Author Id: 1278147858662690895
+Avatar URL: assets\0-EB806.png
+Content: Hi, I did not get a message from her - any chance she can resend?
+--------------------
+
+--- Message ---
+Message ID: 1290762709918285866
+Message Type: Default
+Reply to: None
+Timestamp: 2024-10-01T19:50:11.256+00:00
+Author: Jack Joannides KC text admin (jjoannid)
+Author Id: 477560366432256000
+Avatar URL: assets\791c521e62160be1f3df04992f6e5470-36A38.png
+Content: I can resend it.
+--------------------
+
+--- Message ---
+Message ID: 1290763437542084639
+Message Type: Default
+Reply to: None
+Timestamp: 2024-10-01T19:53:04.735+00:00
+Author: Elizabeth Golini (ME) (elizabeth_63051)
+Author Id: 1278147858662690895
+Avatar URL: assets\0-EB806.png
+Content: Thank you!
+--------------------

@@ -1,0 +1,71 @@
+Guild: Team Harris-Walz Virtual Office (ID: 1242249109298221066)
+Channel: When person called wants to volunteer (ID: 1284579572653756436)
+Channel Topic: None
+Exported At: 2024-10-24T12:51:43.8555846+00:00
+
+
+--- Message ---
+Message ID: 1284579572653756436
+Message Type: Default
+Reply to: None
+Timestamp: 2024-09-14T18:20:36.455+00:00
+Author: Joyce from Bandon (joycefrombandon_13608)
+Author Id: 1282082246932693138
+Avatar URL: assets\3-FB033.png
+Content: What happens after I push button that person wants to volunteer?  Do they get a call or text or what?  What if they ask me directly how to volunteer?
+--------------------
+
+--- Message ---
+Message ID: 1284580013215322237
+Message Type: Reply
+Reply to: 1284579572653756436
+Timestamp: 2024-09-14T18:22:21.493+00:00
+Author: Larry Ahlgrim (VA) [Call Mod] (larrya._98544)
+Author Id: 1266903666879627274
+Avatar URL: assets\5fde485e55d806d8356ca6e7e08f1f48-77A19.png
+Content: The script should take you to the next page to choose type of volunteer or send text, depending on the script
+--------------------
+
+--- Message ---
+Message ID: 1284580470771683431
+Message Type: Default
+Reply to: None
+Timestamp: 2024-09-14T18:24:10.583+00:00
+Author: Joyce from Bandon (joycefrombandon_13608)
+Author Id: 1282082246932693138
+Avatar URL: assets\3-FB033.png
+Content: That hasn't happened.  Will they be contacted somehow or do I add it to the debrief form and hope they get info.
+--------------------
+
+--- Message ---
+Message ID: 1284581175746105354
+Message Type: Default
+Reply to: None
+Timestamp: 2024-09-14T18:26:58.662+00:00
+Author: Larry Ahlgrim (VA) [Call Mod] (larrya._98544)
+Author Id: 1266903666879627274
+Avatar URL: assets\5fde485e55d806d8356ca6e7e08f1f48-77A19.png
+Content: If you clicked on yes for volunteering, and there was no further script then there will be a follow up contact in the next few days
+--------------------
+
+--- Message ---
+Message ID: 1284581482177761360
+Message Type: Default
+Reply to: None
+Timestamp: 2024-09-14T18:28:11.721+00:00
+Author: Joyce from Bandon (joycefrombandon_13608)
+Author Id: 1282082246932693138
+Avatar URL: assets\3-FB033.png
+Content: Thank you, Larry.
+--------------------
+
+--- Message ---
+Message ID: 1284581608170455041
+Message Type: Default
+Reply to: None
+Timestamp: 2024-09-14T18:28:41.76+00:00
+Author: Larry Ahlgrim (VA) [Call Mod] (larrya._98544)
+Author Id: 1266903666879627274
+Avatar URL: assets\5fde485e55d806d8356ca6e7e08f1f48-77A19.png
+Content: You're Welcome! 🙂
+--------------------

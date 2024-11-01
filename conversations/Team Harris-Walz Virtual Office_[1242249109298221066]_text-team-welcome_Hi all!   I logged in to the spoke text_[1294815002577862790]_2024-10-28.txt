@@ -1,0 +1,38 @@
+Guild: Team Harris-Walz Virtual Office (ID: 1242249109298221066)
+Channel: Hi all!   I logged in to the spoke text (ID: 1294815002577862790)
+Channel Topic: None
+Exported At: 2024-10-28T22:41:54.6857983+00:00
+
+
+--- Message ---
+Message ID: 1294819093140213852
+Message Type: 21
+Reply to: 1294815002577862790
+Timestamp: 2024-10-13T00:28:48.38+00:00
+Author: Roberta Bavin CA KC Greeter/Mod (roberta_24935)
+Author Id: 1269872908759597148
+Avatar URL: assets\df6d19d97b04a49ffcafbe7be14c7839-D9CE4.png
+Content: 
+--------------------
+
+--- Message ---
+Message ID: 1294819096659234851
+Message Type: Default
+Reply to: None
+Timestamp: 2024-10-13T00:28:49.219+00:00
+Author: Roberta Bavin CA KC Greeter/Mod (roberta_24935)
+Author Id: 1269872908759597148
+Avatar URL: assets\df6d19d97b04a49ffcafbe7be14c7839-D9CE4.png
+Content: Hi <@368170889549840394> Thanks for checking in! Please look for DM from Nicole sent on 10/8 about your onboarding process. Thanks for being here! <:thankyou:1252806147396735057>
+--------------------
+
+--- Message ---
+Message ID: 1294819259486179402
+Message Type: Default
+Reply to: None
+Timestamp: 2024-10-13T00:29:28.04+00:00
+Author: Bill Krebs, [NC] (agilebill4d)
+Author Id: 368170889549840394
+Avatar URL: assets\9491e855a0173a19a5910b89aa485b88-D8AE4.png
+Content: Thank you!!!
+--------------------

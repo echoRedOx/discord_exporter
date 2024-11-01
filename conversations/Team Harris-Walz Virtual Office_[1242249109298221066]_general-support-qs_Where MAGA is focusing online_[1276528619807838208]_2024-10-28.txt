@@ -1,0 +1,53 @@
+Guild: Team Harris-Walz Virtual Office (ID: 1242249109298221066)
+Channel: Where MAGA is focusing online (ID: 1276528619807838208)
+Channel Topic: None
+Exported At: 2024-10-28T20:21:26.5171355+00:00
+
+
+--- Message ---
+Message ID: 1276528619807838208
+Message Type: Default
+Reply to: None
+Timestamp: 2024-08-23T13:08:59.717+00:00
+Author: Nick [OR] (nickg5449)
+Author Id: 398213142188130305
+Avatar URL: assets\41468338afa91449e946e9f7da7cf0eb-4322E.png
+Content: Is there an appropriate place to discuss the contours of botting and/or rapid response from MAGA?
+
+Ex: I'm pretty sure they are specifically flooding the "news" section on the home page of YouTube with frankly weird lies (comments/upvotes) and brigade-downvoting pro-Kamala people who come into that space.
+
+Idea: We could deploy some kind of resource to combat this with similar tactics or advise people on how to avoid engaging, etc.
+--------------------
+
+--- Message ---
+Message ID: 1276617737963176007
+Message Type: Reply
+Reply to: 1276528619807838208
+Timestamp: 2024-08-23T19:03:07.141+00:00
+Author: rootsmusic (rootsmusic)
+Author Id: 791857656897732648
+Avatar URL: assets\a30e650576a6d42a3c9ee24648f67c90-2AE37.png
+Content: In <#1250550849998946417>
+--------------------
+
+--- Message ---
+Message ID: 1277752731700035647
+Message Type: Default
+Reply to: None
+Timestamp: 2024-08-26T22:13:10.735+00:00
+Author: marcopolo (marcopolo09512)
+Author Id: 753344961088454897
+Avatar URL: assets\9db1bb4dd73729819ba3fa5fdd43ca31-4C346.png
+Content: <@398213142188130305> did you ever find any more info on this?
+--------------------
+
+--- Message ---
+Message ID: 1277755449571283046
+Message Type: Default
+Reply to: None
+Timestamp: 2024-08-26T22:23:58.726+00:00
+Author: Nick [OR] (nickg5449)
+Author Id: 398213142188130305
+Avatar URL: assets\41468338afa91449e946e9f7da7cf0eb-4322E.png
+Content: Not really. Would require some serious expertise and resources. Maybe beyond scope of campaign. Definitely beyond random volunteer to figure out. XD
+--------------------

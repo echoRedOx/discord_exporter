@@ -1,0 +1,93 @@
+Guild: Team Harris-Walz Virtual Office (ID: 1242249109298221066)
+Channel: Where do I find the assignments? (ID: 1281342425302040610)
+Channel Topic: None
+Exported At: 2024-10-28T23:34:06.3023265+00:00
+
+
+--- Message ---
+Message ID: 1281397592080515223
+Message Type: 21
+Reply to: 1281342425302040610
+Timestamp: 2024-09-05T23:36:33.168+00:00
+Author: Nicole Morris - Text Admin (nmorris237)
+Author Id: 935762347753103382
+Avatar URL: assets\27b1e286b65ae02b3378793b5f098411-A7B20.png
+Content: 
+--------------------
+
+--- Message ---
+Message ID: 1281397594429460492
+Message Type: Default
+Reply to: None
+Timestamp: 2024-09-05T23:36:33.728+00:00
+Author: Nicole Morris - Text Admin (nmorris237)
+Author Id: 935762347753103382
+Avatar URL: assets\27b1e286b65ae02b3378793b5f098411-A7B20.png
+Content: Hi <@1269442654157144165> You are now in the texting channels and should have received a welcome Direct Message from one of our greeters with more info! Please let me know if you don't see it.
+--------------------
+
+--- Message ---
+Message ID: 1281404622119899170
+Message Type: Default
+Reply to: None
+Timestamp: 2024-09-06T00:04:29.26+00:00
+Author: Debra Surkin CA (debrasurkinca)
+Author Id: 1269442654157144165
+Avatar URL: assets\8569adcbd36c70a7578c017bf5604ea5-E86D8.png
+Content: Can't locate it if I did get one.
+--------------------
+
+--- Message ---
+Message ID: 1281405530774179872
+Message Type: Default
+Reply to: None
+Timestamp: 2024-09-06T00:08:05.9+00:00
+Author: Nicole Morris - Text Admin (nmorris237)
+Author Id: 935762347753103382
+Avatar URL: assets\27b1e286b65ae02b3378793b5f098411-A7B20.png
+Content: Got it - ok! Let me re-send it to you. You can find your Direct Messages through these steps (if you're on a computer). If you're on a tablet/phone, it may be a different view
+--------------------
+
+--- Message ---
+Message ID: 1281405562071941233
+Message Type: Default
+Reply to: None
+Timestamp: 2024-09-06T00:08:13.362+00:00
+Author: Nicole Morris - Text Admin (nmorris237)
+Author Id: 935762347753103382
+Avatar URL: assets\27b1e286b65ae02b3378793b5f098411-A7B20.png
+Content: 
+--------------------
+
+--- Message ---
+Message ID: 1282044496359591977
+Message Type: Default
+Reply to: None
+Timestamp: 2024-09-07T18:27:07.167+00:00
+Author: Debra Surkin CA (debrasurkinca)
+Author Id: 1269442654157144165
+Avatar URL: assets\8569adcbd36c70a7578c017bf5604ea5-E86D8.png
+Content: Just downloaded discord to my laptop. Harris campaign does not appear
+--------------------
+
+--- Message ---
+Message ID: 1282066409383268483
+Message Type: Default
+Reply to: None
+Timestamp: 2024-09-07T19:54:11.639+00:00
+Author: Nicole Morris - Text Admin (nmorris237)
+Author Id: 935762347753103382
+Avatar URL: assets\27b1e286b65ae02b3378793b5f098411-A7B20.png
+Content: Hi Debra - where are you typing these messages from? Your laptop or another device?
+--------------------
+
+--- Message ---
+Message ID: 1282066569215873075
+Message Type: Default
+Reply to: None
+Timestamp: 2024-09-07T19:54:49.746+00:00
+Author: Nicole Morris - Text Admin (nmorris237)
+Author Id: 935762347753103382
+Avatar URL: assets\27b1e286b65ae02b3378793b5f098411-A7B20.png
+Content: You are in our texting channels. If you don't see them in your Discord on the left sidebar, you can find them under "Channels and Roles" (at the top on the left sidebar in Discord) and check them off.
+--------------------

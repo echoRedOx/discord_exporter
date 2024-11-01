@@ -1,0 +1,38 @@
+Guild: Team Harris-Walz Virtual Office (ID: 1242249109298221066)
+Channel: Same (ID: 1293360448661622865)
+Channel Topic: None
+Exported At: 2024-10-28T22:48:08.5364831+00:00
+
+
+--- Message ---
+Message ID: 1293363729760784405
+Message Type: 21
+Reply to: 1293360448661622865
+Timestamp: 2024-10-09T00:05:42.711+00:00
+Author: Roberta Bavin CA KC Greeter/Mod (roberta_24935)
+Author Id: 1269872908759597148
+Avatar URL: assets\df6d19d97b04a49ffcafbe7be14c7839-D9CE4.png
+Content: 
+--------------------
+
+--- Message ---
+Message ID: 1293363738182680577
+Message Type: Default
+Reply to: None
+Timestamp: 2024-10-09T00:05:44.719+00:00
+Author: Roberta Bavin CA KC Greeter/Mod (roberta_24935)
+Author Id: 1269872908759597148
+Avatar URL: assets\df6d19d97b04a49ffcafbe7be14c7839-D9CE4.png
+Content: Hi <@1293342717589585984> Thanks for checking in! Please give us 48-72 hours after the training to send you a DM for onboarding. We're glad you are here!
+--------------------
+
+--- Message ---
+Message ID: 1293363771825459220
+Message Type: Default
+Reply to: None
+Timestamp: 2024-10-09T00:05:52.74+00:00
+Author: ClayThompson (clayt_86063)
+Author Id: 1293342717589585984
+Avatar URL: assets\a_7b7618620428c9cf060c224cd07f5bff-ADED7.gif
+Content: Sounds good
+--------------------

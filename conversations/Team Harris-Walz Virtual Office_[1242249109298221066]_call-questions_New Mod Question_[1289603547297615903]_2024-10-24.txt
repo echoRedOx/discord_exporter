@@ -1,0 +1,115 @@
+Guild: Team Harris-Walz Virtual Office (ID: 1242249109298221066)
+Channel: New Mod Question (ID: 1289603547297615903)
+Channel Topic: None
+Exported At: 2024-10-24T12:48:30.9387708+00:00
+
+
+--- Message ---
+Message ID: 1289603547297615903
+Message Type: Default
+Reply to: None
+Timestamp: 2024-09-28T15:04:05.351+00:00
+Author: Stephanie Salerno (IL)-Call Mod (stephanie004760)
+Author Id: 1277405088708690007
+Avatar URL: assets\4d7fa70ea3a3a2b13ba4c7e856e84ad0-BDF0D.png
+Content: I am scheduled to moderate the <#1242256751445934262> channel tomorrow afternoon (first shift being a Mod). Just wondering where to confirm/check-in for that.
+--------------------
+
+--- Message ---
+Message ID: 1289606198466842696
+Message Type: Reply
+Reply to: 1289603547297615903
+Timestamp: 2024-09-28T15:14:37.439+00:00
+Author: Larry Ahlgrim (VA) [Call Mod] (larrya._98544)
+Author Id: 1266903666879627274
+Avatar URL: assets\5fde485e55d806d8356ca6e7e08f1f48-77A19.png
+Content: Hi Stephanie, go to the <#1286092468294516746> and look for the shift check posting. click on the yes button to confirm your shift
+--------------------
+
+--- Message ---
+Message ID: 1289606472178597971
+Message Type: Reply
+Reply to: 1289606198466842696
+Timestamp: 2024-09-28T15:15:42.697+00:00
+Author: Stephanie Salerno (IL)-Call Mod (stephanie004760)
+Author Id: 1277405088708690007
+Avatar URL: assets\4d7fa70ea3a3a2b13ba4c7e856e84ad0-BDF0D.png
+Content: Hi, Larry. Seems I don't have access to the channel you note yet. I see #No Access and a lock.
+--------------------
+
+--- Message ---
+Message ID: 1289607403217879101
+Message Type: Reply
+Reply to: 1289606472178597971
+Timestamp: 2024-09-28T15:19:24.674+00:00
+Author: Larry Ahlgrim (VA) [Call Mod] (larrya._98544)
+Author Id: 1266903666879627274
+Avatar URL: assets\5fde485e55d806d8356ca6e7e08f1f48-77A19.png
+Content: I'm not able to grant access. <@1206655433905930251> , Erica are you able to help here?
+--------------------
+
+--- Message ---
+Message ID: 1289607619165818981
+Message Type: Default
+Reply to: None
+Timestamp: 2024-09-28T15:20:16.16+00:00
+Author: Erica Ramos [CA] [Call Mod] (sdgc_76906)
+Author Id: 1206655433905930251
+Avatar URL: assets\d89cc8ea1b8dc7f778a48cfb80348315-7B1A6.png
+Content: I can! I think 😉
+--------------------
+
+--- Message ---
+Message ID: 1289607792386379868
+Message Type: Default
+Reply to: None
+Timestamp: 2024-09-28T15:20:57.459+00:00
+Author: Erica Ramos [CA] [Call Mod] (sdgc_76906)
+Author Id: 1206655433905930251
+Avatar URL: assets\d89cc8ea1b8dc7f778a48cfb80348315-7B1A6.png
+Content: No - I can add people but only if they are already on some list. I think <@1257469301435400238> will have to add.
+--------------------
+
+--- Message ---
+Message ID: 1289607868567523391
+Message Type: Reply
+Reply to: 1289607619165818981
+Timestamp: 2024-09-28T15:21:15.622+00:00
+Author: Larry Ahlgrim (VA) [Call Mod] (larrya._98544)
+Author Id: 1266903666879627274
+Avatar URL: assets\5fde485e55d806d8356ca6e7e08f1f48-77A19.png
+Content: ok, thanks
+--------------------
+
+--- Message ---
+Message ID: 1289608235829035049
+Message Type: Reply
+Reply to: 1289606472178597971
+Timestamp: 2024-09-28T15:22:43.184+00:00
+Author: Larry Ahlgrim (VA) [Call Mod] (larrya._98544)
+Author Id: 1266903666879627274
+Avatar URL: assets\5fde485e55d806d8356ca6e7e08f1f48-77A19.png
+Content: Frances is not on at the moment, if we don't get you access before tomorrow it's ok, just show up and post a note letting people know you're on.
+--------------------
+
+--- Message ---
+Message ID: 1289608344444866643
+Message Type: Default
+Reply to: None
+Timestamp: 2024-09-28T15:23:09.08+00:00
+Author: Stephanie Salerno (IL)-Call Mod (stephanie004760)
+Author Id: 1277405088708690007
+Avatar URL: assets\4d7fa70ea3a3a2b13ba4c7e856e84ad0-BDF0D.png
+Content: Cool, thanks to you both. I had DMed Frances Thursday but know things are super busy and I don't want to leave it too late!  Will do!!
+--------------------
+
+--- Message ---
+Message ID: 1289608876899176469
+Message Type: Default
+Reply to: None
+Timestamp: 2024-09-28T15:25:16.027+00:00
+Author: Frances Haydock (HFP HQ!) (franceshaydock_20619)
+Author Id: 1257469301435400238
+Avatar URL: assets\8286d5b1308e7b3d80a3523e4ec50548-C029D.png
+Content: Just gave you the role!
+--------------------

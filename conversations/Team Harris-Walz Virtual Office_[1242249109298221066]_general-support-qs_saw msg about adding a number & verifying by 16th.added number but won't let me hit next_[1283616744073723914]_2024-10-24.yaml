@@ -1,0 +1,132 @@
+- author_avatar_url: assets\2-ADBB4.png
+  author_id: '1279970871162835079'
+  author_name: tfordemocracy_18114
+  author_nickname: Taylor Lynn [MD]
+  content: so I cannot complete that process.
+  id: '1283616744073723914'
+  ref_to: null
+  timestamp: '2024-09-12T02:34:40.233+00:00'
+  type: Default
+- author_avatar_url: assets\8286d5b1308e7b3d80a3523e4ec50548-C029D.png
+  author_id: '1257469301435400238'
+  author_name: franceshaydock_20619
+  author_nickname: Frances Haydock (HFP HQ!)
+  content: <@568257600228032512> when you are back on can you help
+  id: '1283617205228933193'
+  ref_to: null
+  timestamp: '2024-09-12T02:36:30.181+00:00'
+  type: Default
+- author_avatar_url: assets\28a90c77b5793d80eb62484a43c66748-D8837.png
+  author_id: '568257600228032512'
+  author_name: carb.on
+  author_nickname: "Carolyn B [CA] \u2022 Lead Mod"
+  content: Hi <@1279970871162835079> can you tell me what happens when you try to
+    add your phone number?
+  id: '1283617752006787104'
+  ref_to: null
+  timestamp: '2024-09-12T02:38:40.543+00:00'
+  type: Default
+- author_avatar_url: assets\2-ADBB4.png
+  author_id: '1279970871162835079'
+  author_name: tfordemocracy_18114
+  author_nickname: Taylor Lynn [MD]
+  content: yes it won't let me nit the next button
+  id: '1283620379415412849'
+  ref_to: null
+  timestamp: '2024-09-12T02:49:06.966+00:00'
+  type: Default
+- author_avatar_url: assets\2-ADBB4.png
+  author_id: '1279970871162835079'
+  author_name: tfordemocracy_18114
+  author_nickname: Taylor Lynn [MD]
+  content: '*hit'
+  id: '1283620478401122306'
+  ref_to: null
+  timestamp: '2024-09-12T02:49:30.566+00:00'
+  type: Default
+- author_avatar_url: assets\2-ADBB4.png
+  author_id: '1279970871162835079'
+  author_name: tfordemocracy_18114
+  author_nickname: Taylor Lynn [MD]
+  content: I even added dashes in between the numbers
+  id: '1283620655438499861'
+  ref_to: null
+  timestamp: '2024-09-12T02:50:12.775+00:00'
+  type: Default
+- author_avatar_url: assets\28a90c77b5793d80eb62484a43c66748-D8837.png
+  author_id: '568257600228032512'
+  author_name: carb.on
+  author_nickname: "Carolyn B [CA] \u2022 Lead Mod"
+  content: is this a 10 digit mobile number? is it landline? or VOIP (Google Voice)?
+  id: '1283623700179980299'
+  ref_to: null
+  timestamp: '2024-09-12T03:02:18.698+00:00'
+  type: Default
+- author_avatar_url: assets\2-ADBB4.png
+  author_id: '1279970871162835079'
+  author_name: tfordemocracy_18114
+  author_nickname: Taylor Lynn [MD]
+  content: yep. 10 digits. yeah my Google voice. I use it for most things
+  id: '1283632344187535403'
+  ref_to: null
+  timestamp: '2024-09-12T03:36:39.59+00:00'
+  type: Default
+- author_avatar_url: assets\a_de0e3d4a3f9b486ad3ad6df0d72323da-D0252.gif
+  author_id: '112080668296564736'
+  author_name: kyaizen
+  author_nickname: "Jared R [CO] \u2022 Lead Mod"
+  content: I don't think discord will allow Google voice or any voip number.
+  id: '1283636677067149386'
+  ref_to: null
+  timestamp: '2024-09-12T03:53:52.629+00:00'
+  type: Default
+- author_avatar_url: assets\28a90c77b5793d80eb62484a43c66748-D8837.png
+  author_id: '568257600228032512'
+  author_name: carb.on
+  author_nickname: "Carolyn B [CA] \u2022 Lead Mod"
+  content: Hi <@1279970871162835079> VOIP is not accepted for verification.
+  id: '1283644820471943248'
+  ref_to: null
+  timestamp: '2024-09-12T04:26:14.168+00:00'
+  type: Default
+- author_avatar_url: assets\28a90c77b5793d80eb62484a43c66748-D8837.png
+  author_id: '568257600228032512'
+  author_name: carb.on
+  author_nickname: "Carolyn B [CA] \u2022 Lead Mod"
+  content: Discord wants a mobile phone number as verification. Consider that anyone
+    can make 1000s of Google Voice numbers, so not really improving security.
+  id: '1283645439941541988'
+  ref_to: null
+  timestamp: '2024-09-12T04:28:41.861+00:00'
+  type: Default
+- author_avatar_url: assets\cd4008c1ef8172dbf926e36914d284a0-AF75D.png
+  author_id: '392108353997766659'
+  author_name: krnlkule
+  author_nickname: Shawn Nelson
+  content: "Hi I saw this requirement as well.  My question is if our phone number\
+    \ is already part of our discord account profile.  Will that be sufficient, or\
+    \ is this a separate process? I\u2019m not seeing where to go based on the written\
+    \ instructions.  Also I\u2019m on mobile."
+  id: '1283746206064840806'
+  ref_to: null
+  timestamp: '2024-09-12T11:09:06.377+00:00'
+  type: Default
+- author_avatar_url: assets\28a90c77b5793d80eb62484a43c66748-D8837.png
+  author_id: '568257600228032512'
+  author_name: carb.on
+  author_nickname: "Carolyn B [CA] \u2022 Lead Mod"
+  content: "Hi <@392108353997766659> you don\u2019t need to do anything if you already\
+    \ have a phone number on your discord profile."
+  id: '1283800893585887385'
+  ref_to: null
+  timestamp: '2024-09-12T14:46:24.898+00:00'
+  type: Default
+- author_avatar_url: assets\cd4008c1ef8172dbf926e36914d284a0-AF75D.png
+  author_id: '392108353997766659'
+  author_name: krnlkule
+  author_nickname: Shawn Nelson
+  content: Thank you for that update.
+  id: '1283801007196995614'
+  ref_to: '1283800893585887385'
+  timestamp: '2024-09-12T14:46:51.985+00:00'
+  type: Reply

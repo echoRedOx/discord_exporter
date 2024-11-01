@@ -1,0 +1,27 @@
+Guild: Team Harris-Walz Virtual Office (ID: 1242249109298221066)
+Channel: Hi, I was text trained more than 72 (ID: 1285991652942544946)
+Channel Topic: None
+Exported At: 2024-10-28T23:15:47.6332759+00:00
+
+
+--- Message ---
+Message ID: 1286006425205739610
+Message Type: 21
+Reply to: 1285991652942544946
+Timestamp: 2024-09-18T16:50:24.613+00:00
+Author: Roberta Bavin CA KC Greeter/Mod (roberta_24935)
+Author Id: 1269872908759597148
+Avatar URL: assets\df6d19d97b04a49ffcafbe7be14c7839-D9CE4.png
+Content: 
+--------------------
+
+--- Message ---
+Message ID: 1286006426484871209
+Message Type: Default
+Reply to: None
+Timestamp: 2024-09-18T16:50:24.918+00:00
+Author: Roberta Bavin CA KC Greeter/Mod (roberta_24935)
+Author Id: 1269872908759597148
+Avatar URL: assets\df6d19d97b04a49ffcafbe7be14c7839-D9CE4.png
+Content: Hi Elizabeth! Thanks for checking in! Please see DM sent to you on 9/15. <:thankyou:1252806147396735057>
+--------------------

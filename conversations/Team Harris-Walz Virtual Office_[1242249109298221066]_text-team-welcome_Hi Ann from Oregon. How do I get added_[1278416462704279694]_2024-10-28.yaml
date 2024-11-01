@@ -1,0 +1,45 @@
+- author_avatar_url: assets\791c521e62160be1f3df04992f6e5470-36A38.png
+  author_id: '477560366432256000'
+  author_name: jjoannid
+  author_nickname: Jack Joannides KC text admin
+  content: ''
+  id: '1278422286919274558'
+  ref_to: '1278416462704279694'
+  timestamp: '2024-08-28T18:33:45.139+00:00'
+  type: '21'
+- author_avatar_url: assets\791c521e62160be1f3df04992f6e5470-36A38.png
+  author_id: '477560366432256000'
+  author_name: jjoannid
+  author_nickname: Jack Joannides KC text admin
+  content: Have you taken an training yet?
+  id: '1278422288051736657'
+  ref_to: null
+  timestamp: '2024-08-28T18:33:45.409+00:00'
+  type: Default
+- author_avatar_url: assets\1-B2132.png
+  author_id: '1277040602424545342'
+  author_name: annmayer_12134
+  author_nickname: Ann Mayer (OR)
+  content: yes! filled out all the forms and quiz
+  id: '1278422637743443988'
+  ref_to: null
+  timestamp: '2024-08-28T18:35:08.782+00:00'
+  type: Default
+- author_avatar_url: assets\791c521e62160be1f3df04992f6e5470-36A38.png
+  author_id: '477560366432256000'
+  author_name: jjoannid
+  author_nickname: Jack Joannides KC text admin
+  content: Great. You'll be added in 24-48 hours. Please stay patient with us.
+  id: '1278422758094798890'
+  ref_to: null
+  timestamp: '2024-08-28T18:35:37.476+00:00'
+  type: Default
+- author_avatar_url: assets\1-B2132.png
+  author_id: '1277040602424545342'
+  author_name: annmayer_12134
+  author_nickname: Ann Mayer (OR)
+  content: no worries! thanks for your work
+  id: '1278422875094913095'
+  ref_to: null
+  timestamp: '2024-08-28T18:36:05.371+00:00'
+  type: Default

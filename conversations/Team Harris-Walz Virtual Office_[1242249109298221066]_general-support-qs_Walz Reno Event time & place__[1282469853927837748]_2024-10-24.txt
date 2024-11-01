@@ -1,0 +1,71 @@
+Guild: Team Harris-Walz Virtual Office (ID: 1242249109298221066)
+Channel: Walz Reno Event time & place? (ID: 1282469853927837748)
+Channel Topic: None
+Exported At: 2024-10-24T06:39:49.3405015+00:00
+
+
+--- Message ---
+Message ID: 1282469853927837748
+Message Type: Default
+Reply to: None
+Timestamp: 2024-09-08T22:37:20.314+00:00
+Author: MarNina (marnina0333)
+Author Id: 758092597519450172
+Avatar URL: assets\102cbd4ab7e0a7b5aede92fddfa232c7-D82D9.png
+Content: I’d like to go to Walz’ Reno rally tomorrow.  Where do I register? Where is it? What time?
+--------------------
+
+--- Message ---
+Message ID: 1282471291802222674
+Message Type: Default
+Reply to: None
+Timestamp: 2024-09-08T22:43:03.13+00:00
+Author: Holly Mate-Luber [Call Mod] (hollymateluber)
+Author Id: 1267643778043482122
+Avatar URL: assets\d1341d3c05d207da49a6fa548b4c1086-4BE71.png
+Content: It will likely be invite only, and those who RSVPed and are confirmed will not receive final location or timing details until the night before or morning of. For security reasons.
+--------------------
+
+--- Message ---
+Message ID: 1282471523025682492
+Message Type: Default
+Reply to: None
+Timestamp: 2024-09-08T22:43:58.258+00:00
+Author: Holly Mate-Luber [Call Mod] (hollymateluber)
+Author Id: 1267643778043482122
+Avatar URL: assets\d1341d3c05d207da49a6fa548b4c1086-4BE71.png
+Content: If there is a public link to RSVP for this one, maybe someone can point you in the right direction on here but you can always check events.democrats.org
+--------------------
+
+--- Message ---
+Message ID: 1282523598459768882
+Message Type: Reply
+Reply to: 1282469853927837748
+Timestamp: 2024-09-09T02:10:54.009+00:00
+Author: Kay Adams [Mod] (science4979)
+Author Id: 652991652448698388
+Avatar URL: assets\3d8690866ff0e62607a449287de8ca1d-57B17.png
+Content: I know the text team was sending invites. Perhaps ask in there and see if the invite link still has availability. <#1266829704204386334>
+--------------------
+
+--- Message ---
+Message ID: 1282547806875291722
+Message Type: Default
+Reply to: None
+Timestamp: 2024-09-09T03:47:05.745+00:00
+Author: MarNina (marnina0333)
+Author Id: 758092597519450172
+Avatar URL: assets\102cbd4ab7e0a7b5aede92fddfa232c7-D82D9.png
+Content: Thank you, Kay Adams & Holly Mate- Luber!
+--------------------
+
+--- Message ---
+Message ID: 1282694188403789855
+Message Type: Default
+Reply to: None
+Timestamp: 2024-09-09T13:28:45.821+00:00
+Author: Holly Mate-Luber [Call Mod] (hollymateluber)
+Author Id: 1267643778043482122
+Avatar URL: assets\d1341d3c05d207da49a6fa548b4c1086-4BE71.png
+Content: FYI, I think I saw somewhere this morning that the rally has been postponed due to the fire nearby
+--------------------

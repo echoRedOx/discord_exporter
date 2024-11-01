@@ -1,0 +1,27 @@
+Guild: Team Harris-Walz Virtual Office (ID: 1242249109298221066)
+Channel: checking in on onboarding as well, (ID: 1298788439646535783)
+Channel Topic: None
+Exported At: 2024-10-28T22:19:24.6409893+00:00
+
+
+--- Message ---
+Message ID: 1298792946736431114
+Message Type: 21
+Reply to: 1298788439646535783
+Timestamp: 2024-10-23T23:39:28.908+00:00
+Author: Roberta Bavin CA KC Greeter/Mod (roberta_24935)
+Author Id: 1269872908759597148
+Avatar URL: assets\df6d19d97b04a49ffcafbe7be14c7839-D9CE4.png
+Content: 
+--------------------
+
+--- Message ---
+Message ID: 1298792949416464415
+Message Type: Default
+Reply to: None
+Timestamp: 2024-10-23T23:39:29.547+00:00
+Author: Roberta Bavin CA KC Greeter/Mod (roberta_24935)
+Author Id: 1269872908759597148
+Avatar URL: assets\df6d19d97b04a49ffcafbe7be14c7839-D9CE4.png
+Content: Hi <@719529964164087909> We just got the Zoom report and will be working through everyone in Monday's training this evening. Thanks for your patience!
+--------------------

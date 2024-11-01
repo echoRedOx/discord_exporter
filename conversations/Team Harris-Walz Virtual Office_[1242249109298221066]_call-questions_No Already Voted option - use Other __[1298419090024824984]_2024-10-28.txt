@@ -1,0 +1,38 @@
+Guild: Team Harris-Walz Virtual Office (ID: 1242249109298221066)
+Channel: No Already Voted option - use Other ? (ID: 1298419090024824984)
+Channel Topic: None
+Exported At: 2024-10-28T20:45:53.9141058+00:00
+
+
+--- Message ---
+Message ID: 1298419090024824984
+Message Type: Default
+Reply to: None
+Timestamp: 2024-10-22T22:53:54.522+00:00
+Author: David Sloane (MA) (salmontorch)
+Author Id: 808840421904089141
+Avatar URL: assets\cf8b61eb826c98b9c7dd7f1da04254a4-03D52.png
+Content: Calling all tiers_102224_MI_ET_type: dvc list in ScaleToWin, we don't have  an Already Voted option. Would love to have that. Until it arrives, should we use Other?
+--------------------
+
+--- Message ---
+Message ID: 1298419508259848204
+Message Type: Default
+Reply to: None
+Timestamp: 2024-10-22T22:55:34.237+00:00
+Author: Jen Medeiros [CA] • [Lead Mod] (starkittynmom)
+Author Id: 1276944250491113656
+Avatar URL: assets\a_2aba4b7f19fcab5fe5391fcdb73d735d-D670A.gif
+Content: Hi David. If Already Voted isn't on there, use other. The campaign pulls voter info each night and adjusts the lists accordingly, so if they did vote, they should drop off the list within a couple of days.
+--------------------
+
+--- Message ---
+Message ID: 1298421066498052208
+Message Type: Default
+Reply to: None
+Timestamp: 2024-10-22T23:01:45.75+00:00
+Author: David Sloane (MA) (salmontorch)
+Author Id: 808840421904089141
+Avatar URL: assets\cf8b61eb826c98b9c7dd7f1da04254a4-03D52.png
+Content: Perfect - thanks Jen!
+--------------------

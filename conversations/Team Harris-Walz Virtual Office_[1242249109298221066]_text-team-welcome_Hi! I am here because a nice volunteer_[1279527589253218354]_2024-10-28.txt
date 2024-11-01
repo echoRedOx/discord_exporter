@@ -1,0 +1,49 @@
+Guild: Team Harris-Walz Virtual Office (ID: 1242249109298221066)
+Channel: Hi! I am here because a nice volunteer (ID: 1279527589253218354)
+Channel Topic: None
+Exported At: 2024-10-28T23:46:24.4276667+00:00
+
+
+--- Message ---
+Message ID: 1279545951048040569
+Message Type: 21
+Reply to: 1279527589253218354
+Timestamp: 2024-08-31T20:58:47.544+00:00
+Author: Jack Joannides KC text admin (jjoannid)
+Author Id: 477560366432256000
+Avatar URL: assets\791c521e62160be1f3df04992f6e5470-36A38.png
+Content: 
+--------------------
+
+--- Message ---
+Message ID: 1279545952516182077
+Message Type: Default
+Reply to: None
+Timestamp: 2024-08-31T20:58:47.894+00:00
+Author: Jack Joannides KC text admin (jjoannid)
+Author Id: 477560366432256000
+Avatar URL: assets\791c521e62160be1f3df04992f6e5470-36A38.png
+Content: Great you've already been added to channels.
+--------------------
+
+--- Message ---
+Message ID: 1279546051069607986
+Message Type: Default
+Reply to: None
+Timestamp: 2024-08-31T20:59:11.391+00:00
+Author: Ellen Friedenberg [NY] (ef_in_nyc)
+Author Id: 1248435870911172620
+Avatar URL: assets\c9c018ef9195e74af8000ca1e2140e30-D957B.png
+Content: Yes, I can see everything now - am excited to start!
+--------------------
+
+--- Message ---
+Message ID: 1279546079624429638
+Message Type: Default
+Reply to: None
+Timestamp: 2024-08-31T20:59:18.199+00:00
+Author: Jack Joannides KC text admin (jjoannid)
+Author Id: 477560366432256000
+Avatar URL: assets\791c521e62160be1f3df04992f6e5470-36A38.png
+Content: Great.
+--------------------

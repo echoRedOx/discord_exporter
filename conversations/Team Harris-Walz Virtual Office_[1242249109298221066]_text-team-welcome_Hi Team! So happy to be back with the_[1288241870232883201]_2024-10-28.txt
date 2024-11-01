@@ -1,0 +1,27 @@
+Guild: Team Harris-Walz Virtual Office (ID: 1242249109298221066)
+Channel: Hi Team! So happy to be back with the (ID: 1288241870232883201)
+Channel Topic: None
+Exported At: 2024-10-28T23:04:25.4636779+00:00
+
+
+--- Message ---
+Message ID: 1288243351266656287
+Message Type: 21
+Reply to: 1288241870232883201
+Timestamp: 2024-09-24T20:59:09.346+00:00
+Author: Roberta Bavin CA KC Greeter/Mod (roberta_24935)
+Author Id: 1269872908759597148
+Avatar URL: assets\df6d19d97b04a49ffcafbe7be14c7839-D9CE4.png
+Content: 
+--------------------
+
+--- Message ---
+Message ID: 1288243352713564292
+Message Type: Default
+Reply to: None
+Timestamp: 2024-09-24T20:59:09.691+00:00
+Author: Roberta Bavin CA KC Greeter/Mod (roberta_24935)
+Author Id: 1269872908759597148
+Avatar URL: assets\df6d19d97b04a49ffcafbe7be14c7839-D9CE4.png
+Content: Hi Christine- Please look for a DM from me in a couple of minutes.
+--------------------

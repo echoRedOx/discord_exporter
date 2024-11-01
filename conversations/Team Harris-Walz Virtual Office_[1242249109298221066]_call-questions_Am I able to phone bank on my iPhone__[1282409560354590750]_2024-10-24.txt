@@ -1,0 +1,38 @@
+Guild: Team Harris-Walz Virtual Office (ID: 1242249109298221066)
+Channel: Am I able to phone bank on my iPhone? (ID: 1282409560354590750)
+Channel Topic: None
+Exported At: 2024-10-24T12:52:33.9834202+00:00
+
+
+--- Message ---
+Message ID: 1282409560354590750
+Message Type: Default
+Reply to: None
+Timestamp: 2024-09-08T18:37:45.206+00:00
+Author: Veronica 😎🐶 (valbano757)
+Author Id: 1230911468065521725
+Avatar URL: assets\b6507a1273164918d08c9ed9fae30d51-F19DB.png
+Content: Am I able to phone bank on my iPhone?
+--------------------
+
+--- Message ---
+Message ID: 1282417657806848020
+Message Type: Default
+Reply to: None
+Timestamp: 2024-09-08T19:09:55.789+00:00
+Author: Marie B. | PA/NJ | OE/KC (mariebroph2677695)
+Author Id: 941196169852366859
+Avatar URL: assets\4412fd436c9a7d43a1770d5771bbdd0c-8CC79.png
+Content: This is doable but it can be slightly difficult. Some do have it easier using a computer or tablet to view the script and a phone for the audio but yes, you can do the whole thing on your smartphone.
+--------------------
+
+--- Message ---
+Message ID: 1282433337058918400
+Message Type: Reply
+Reply to: 1282409560354590750
+Timestamp: 2024-09-08T20:12:14.014+00:00
+Author: Larry Ahlgrim (VA) [Call Mod] (larrya._98544)
+Author Id: 1266903666879627274
+Avatar URL: assets\5fde485e55d806d8356ca6e7e08f1f48-77A19.png
+Content: If you run into audio problems you may need to leave zoom for the dialer audio to work.
+--------------------

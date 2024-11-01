@@ -1,0 +1,38 @@
+Guild: Team Harris-Walz Virtual Office (ID: 1242249109298221066)
+Channel: It has been more than 72 hours since (ID: 1282387819167354921)
+Channel Topic: None
+Exported At: 2024-10-28T23:32:10.4600352+00:00
+
+
+--- Message ---
+Message ID: 1282388583369539635
+Message Type: 21
+Reply to: 1282387819167354921
+Timestamp: 2024-09-08T17:14:23.903+00:00
+Author: Jack Joannides KC text admin (jjoannid)
+Author Id: 477560366432256000
+Avatar URL: assets\791c521e62160be1f3df04992f6e5470-36A38.png
+Content: 
+--------------------
+
+--- Message ---
+Message ID: 1282388584539881594
+Message Type: Default
+Reply to: None
+Timestamp: 2024-09-08T17:14:24.182+00:00
+Author: Jack Joannides KC text admin (jjoannid)
+Author Id: 477560366432256000
+Avatar URL: assets\791c521e62160be1f3df04992f6e5470-36A38.png
+Content: You should have gotten a direct message from <@1269872908759597148> Do you not see it?
+--------------------
+
+--- Message ---
+Message ID: 1282422999458517067
+Message Type: Default
+Reply to: None
+Timestamp: 2024-09-08T19:31:09.338+00:00
+Author: Rey Rodriguez [Florida] (elkatook6949)
+Author Id: 603599557422612480
+Avatar URL: assets\1-B2132.png
+Content: Got it! Thank you!!
+--------------------

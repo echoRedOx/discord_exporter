@@ -1,0 +1,38 @@
+Guild: Team Harris-Walz Virtual Office (ID: 1242249109298221066)
+Channel: @Roberta Bavin CA  It has been more than (ID: 1285969690669355019)
+Channel Topic: None
+Exported At: 2024-10-28T23:15:50.5637264+00:00
+
+
+--- Message ---
+Message ID: 1285975115598794763
+Message Type: 21
+Reply to: 1285969690669355019
+Timestamp: 2024-09-18T14:45:59.821+00:00
+Author: Roberta Bavin CA KC Greeter/Mod (roberta_24935)
+Author Id: 1269872908759597148
+Avatar URL: assets\df6d19d97b04a49ffcafbe7be14c7839-D9CE4.png
+Content: 
+--------------------
+
+--- Message ---
+Message ID: 1285975117008207955
+Message Type: Default
+Reply to: None
+Timestamp: 2024-09-18T14:46:00.157+00:00
+Author: Roberta Bavin CA KC Greeter/Mod (roberta_24935)
+Author Id: 1269872908759597148
+Avatar URL: assets\df6d19d97b04a49ffcafbe7be14c7839-D9CE4.png
+Content: Hi Carl! Thanks for checking in. Please look for a DM from Staff sometime today. <:thankyou:1252806147396735057>
+--------------------
+
+--- Message ---
+Message ID: 1285975261174562938
+Message Type: Default
+Reply to: None
+Timestamp: 2024-09-18T14:46:34.529+00:00
+Author: Carl Sabath (MD) (discuscarl7_32308)
+Author Id: 1262811070804922393
+Avatar URL: assets\1-B2132.png
+Content: Thank you!
+--------------------

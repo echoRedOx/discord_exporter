@@ -1,0 +1,29 @@
+- author_avatar_url: assets\df6d19d97b04a49ffcafbe7be14c7839-D9CE4.png
+  author_id: '1269872908759597148'
+  author_name: roberta_24935
+  author_nickname: Roberta Bavin CA KC Greeter/Mod
+  content: ''
+  id: '1296178762454663281'
+  ref_to: '1296144528310403163'
+  timestamp: '2024-10-16T18:31:38.806+00:00'
+  type: '21'
+- author_avatar_url: assets\df6d19d97b04a49ffcafbe7be14c7839-D9CE4.png
+  author_id: '1269872908759597148'
+  author_name: roberta_24935
+  author_nickname: Roberta Bavin CA KC Greeter/Mod
+  content: Hi <@1296091239908900864> Please look for a DM from me in a few minutes.
+    Happy to help you get onboarded. Thanks for being here!
+  id: '1296178765851791412'
+  ref_to: null
+  timestamp: '2024-10-16T18:31:39.616+00:00'
+  type: Default
+- author_avatar_url: assets\d6203cb5064a538586a46d63bc4cd6dd-56235.png
+  author_id: '1296091239908900864'
+  author_name: robertaaxeloons
+  author_nickname: Roberta Axeloons [MA]
+  content: Hi Roberta!! Fun to have another Roberta. Excited to see the DM and get
+    onboard
+  id: '1296178863373549569'
+  ref_to: '1296178765851791412'
+  timestamp: '2024-10-16T18:32:02.867+00:00'
+  type: Reply

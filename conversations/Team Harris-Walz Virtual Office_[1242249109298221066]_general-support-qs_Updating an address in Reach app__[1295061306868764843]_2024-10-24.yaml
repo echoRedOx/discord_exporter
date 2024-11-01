@@ -1,0 +1,149 @@
+- author_avatar_url: assets\a187dcd150192cbe1a6b1b9cb0ffe55c-6C116.png
+  author_id: '465305140786888705'
+  author_name: genericusername8797
+  author_nickname: S [MT/NM]
+  content: "I have a voter in Reach who recently moved and is in a totally different\
+    \ area now. They thought they updated their voter registration, but aren\u2019\
+    t sure. Reach app still has old address & voting info. Can I update it somehow\
+    \ to get their current voting precincts etc? They\u2019re a strong Harris supporter,\
+    \ but an infrequent voter. Trying to encourage them to get out and vote. Thanks!"
+  id: '1295061306868764843'
+  ref_to: null
+  timestamp: '2024-10-13T16:31:16.633+00:00'
+  type: Default
+- author_avatar_url: assets\41ef520387924aa4413513eda28784df-34D82.png
+  author_id: '782870341445353522'
+  author_name: jayrio76
+  author_nickname: Jay E  (TX)  OE Mod
+  content: 'Hi <@465305140786888705>: I am researching that now for you. I found out
+    you can edit nicknames or preferred names now too, if that comes up.'
+  id: '1295067656910798888'
+  ref_to: null
+  timestamp: '2024-10-13T16:56:30.601+00:00'
+  type: Default
+- author_avatar_url: assets\a187dcd150192cbe1a6b1b9cb0ffe55c-6C116.png
+  author_id: '465305140786888705'
+  author_name: genericusername8797
+  author_nickname: S [MT/NM]
+  content: "Yes I\u2019ve corrected a few misspellings. \n\nThanks for looking into\
+    \ this for me!"
+  id: '1295068374552019015'
+  ref_to: '1295067656910798888'
+  timestamp: '2024-10-13T16:59:21.7+00:00'
+  type: Reply
+- author_avatar_url: assets\41ef520387924aa4413513eda28784df-34D82.png
+  author_id: '782870341445353522'
+  author_name: jayrio76
+  author_nickname: Jay E  (TX)  OE Mod
+  content: FYI - I am looking here, which you may have done already. https://democrats.org/reach/vr/
+    but the actual steps are in the Reach Online Knowledge Base. https://www.reach.vote/knowledge-base/contact-actions/.  Yes,
+    it says you can edit.
+  id: '1295072873731330178'
+  ref_to: null
+  timestamp: '2024-10-13T17:17:14.388+00:00'
+  type: Default
+- author_avatar_url: assets\41ef520387924aa4413513eda28784df-34D82.png
+  author_id: '782870341445353522'
+  author_name: jayrio76
+  author_nickname: Jay E  (TX)  OE Mod
+  content: Thanks for your patience <@465305140786888705> and for all you do for the
+    campaign!
+  id: '1295075149929906198'
+  ref_to: null
+  timestamp: '2024-10-13T17:26:17.076+00:00'
+  type: Default
+- author_avatar_url: assets\a187dcd150192cbe1a6b1b9cb0ffe55c-6C116.png
+  author_id: '465305140786888705'
+  author_name: genericusername8797
+  author_nickname: S [MT/NM]
+  content: Thank you for helping me figure out how to update their address! I've been
+    gently poking them to go vote this year. They're a good friend, so I can use compassionate
+    peer pressure on them lol. Thanks for all you're doing to help the campaign as
+    well!
+  id: '1295077008161767474'
+  ref_to: '1295075149929906198'
+  timestamp: '2024-10-13T17:33:40.113+00:00'
+  type: Reply
+- author_avatar_url: assets\a187dcd150192cbe1a6b1b9cb0ffe55c-6C116.png
+  author_id: '465305140786888705'
+  author_name: genericusername8797
+  author_nickname: S [MT/NM]
+  content: "I looked at that website article, but still can\u2019t find the \u201C\
+    Edit Address\u201D action they\u2019re talking about. Any idea where it is? Thanks!"
+  id: '1295122009587712055'
+  ref_to: '1295072873731330178'
+  timestamp: '2024-10-13T20:32:29.289+00:00'
+  type: Reply
+- author_avatar_url: assets\41ef520387924aa4413513eda28784df-34D82.png
+  author_id: '782870341445353522'
+  author_name: jayrio76
+  author_nickname: Jay E  (TX)  OE Mod
+  content: 'For reference: here''s the screenshot from the KB article. One moment
+    for me to check the actual DNC Reach.'
+  id: '1295123005512482896'
+  ref_to: null
+  timestamp: '2024-10-13T20:36:26.736+00:00'
+  type: Default
+- author_avatar_url: assets\41ef520387924aa4413513eda28784df-34D82.png
+  author_id: '782870341445353522'
+  author_name: jayrio76
+  author_nickname: Jay E  (TX)  OE Mod
+  content: I am trying to edit an example under voter location, my network - but I
+    cannot.
+  id: '1295124559556513824'
+  ref_to: null
+  timestamp: '2024-10-13T20:42:37.249+00:00'
+  type: Default
+- author_avatar_url: assets\41ef520387924aa4413513eda28784df-34D82.png
+  author_id: '782870341445353522'
+  author_name: jayrio76
+  author_nickname: Jay E  (TX)  OE Mod
+  content: Thanks for your patience, again.
+  id: '1295124627793903617'
+  ref_to: null
+  timestamp: '2024-10-13T20:42:53.518+00:00'
+  type: Default
+- author_avatar_url: assets\a187dcd150192cbe1a6b1b9cb0ffe55c-6C116.png
+  author_id: '465305140786888705'
+  author_name: genericusername8797
+  author_nickname: S [MT/NM]
+  content: No worries! I found that blurb on the website too. Thanks for continuing
+    to look into it for me.
+  id: '1295124781842042921'
+  ref_to: null
+  timestamp: '2024-10-13T20:43:30.246+00:00'
+  type: Default
+- author_avatar_url: assets\41ef520387924aa4413513eda28784df-34D82.png
+  author_id: '782870341445353522'
+  author_name: jayrio76
+  author_nickname: Jay E  (TX)  OE Mod
+  content: I do not use the relational aspect as much.  I share online content in
+    Reach, but still trying.
+  id: '1295124894819942451'
+  ref_to: null
+  timestamp: '2024-10-13T20:43:57.182+00:00'
+  type: Default
+- author_avatar_url: assets\41ef520387924aa4413513eda28784df-34D82.png
+  author_id: '782870341445353522'
+  author_name: jayrio76
+  author_nickname: Jay E  (TX)  OE Mod
+  content: "Well, sorry for the bad news, but it looks like you cannot edit the address\
+    \ on DNC Reach (desktop or mobile version). The voter would have to update the\
+    \ address via their voter registration card.  Reach needs to update their knowledge\
+    \ base website.  Sorry. \U0001F642"
+  id: '1295244482731577345'
+  ref_to: null
+  timestamp: '2024-10-14T04:39:09.162+00:00'
+  type: Default
+- author_avatar_url: assets\a187dcd150192cbe1a6b1b9cb0ffe55c-6C116.png
+  author_id: '465305140786888705'
+  author_name: genericusername8797
+  author_nickname: S [MT/NM]
+  content: Thanks for looking into this for me. Bummer. I'll have to hunt down their
+    voting precinct information by hand then. I'm pretty sure that if I tell them
+    where to go and when it's open, they'll go out and vote when they otherwise wouldn't.
+    Thank you so much for taking time to hunt down info for me!
+  id: '1295245333634482176'
+  ref_to: '1295244482731577345'
+  timestamp: '2024-10-14T04:42:32.033+00:00'
+  type: Reply

@@ -1,0 +1,49 @@
+Guild: Team Harris-Walz Virtual Office (ID: 1242249109298221066)
+Channel: How do I sign up for scale to win? (ID: 1293716295488901142)
+Channel Topic: None
+Exported At: 2024-10-28T22:46:03.968799+00:00
+
+
+--- Message ---
+Message ID: 1293717498507694150
+Message Type: 21
+Reply to: 1293716295488901142
+Timestamp: 2024-10-09T23:31:27.753+00:00
+Author: Roberta Bavin CA KC Greeter/Mod (roberta_24935)
+Author Id: 1269872908759597148
+Avatar URL: assets\df6d19d97b04a49ffcafbe7be14c7839-D9CE4.png
+Content: 
+--------------------
+
+--- Message ---
+Message ID: 1293717501603090442
+Message Type: Default
+Reply to: None
+Timestamp: 2024-10-09T23:31:28.491+00:00
+Author: Roberta Bavin CA KC Greeter/Mod (roberta_24935)
+Author Id: 1269872908759597148
+Avatar URL: assets\df6d19d97b04a49ffcafbe7be14c7839-D9CE4.png
+Content: Hi <@1280680519440531480> Thanks for checking in. Please look for DM that I sent you earlier this morning. Thanks so much!
+--------------------
+
+--- Message ---
+Message ID: 1293730832229470280
+Message Type: Default
+Reply to: None
+Timestamp: 2024-10-10T00:24:26.76+00:00
+Author: JennKB-PA (revjkb)
+Author Id: 1280680519440531480
+Avatar URL: assets\6c5996770c985bcd6e5b68131ff2ba04-1EE06.png
+Content: Where do I look for that?
+--------------------
+
+--- Message ---
+Message ID: 1293732097277821029
+Message Type: Reply
+Reply to: 1293730832229470280
+Timestamp: 2024-10-10T00:29:28.371+00:00
+Author: Roberta Bavin CA KC Greeter/Mod (roberta_24935)
+Author Id: 1269872908759597148
+Avatar URL: assets\df6d19d97b04a49ffcafbe7be14c7839-D9CE4.png
+Content: Upper left hand corner of Discord, game controller icon. <:thankyou:1252806147396735057>
+--------------------

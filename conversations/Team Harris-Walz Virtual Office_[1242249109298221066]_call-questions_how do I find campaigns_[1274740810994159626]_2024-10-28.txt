@@ -1,0 +1,38 @@
+Guild: Team Harris-Walz Virtual Office (ID: 1242249109298221066)
+Channel: how do I find campaigns (ID: 1274740810994159626)
+Channel Topic: None
+Exported At: 2024-10-28T21:04:26.2043671+00:00
+
+
+--- Message ---
+Message ID: 1274740810994159626
+Message Type: Default
+Reply to: None
+Timestamp: 2024-08-18T14:44:52.88+00:00
+Author: Uriel Berman (FL) (urielberman1.3)
+Author Id: 1267218248491991095
+Avatar URL: assets\1-B2132.png
+Content: How can I find calling campaigns?
+--------------------
+
+--- Message ---
+Message ID: 1274748274334765137
+Message Type: Default
+Reply to: None
+Timestamp: 2024-08-18T15:14:32.279+00:00
+Author: Frances Haydock [HQ Staff Alt] (msloki01)
+Author Id: 430470599064682507
+Avatar URL: assets\a9493779f6f0e06c0c98b2ddf25a0db5-17406.png
+Content: you can sign up to make calls with us here: https://events.democrats.org/event/664004/
+--------------------
+
+--- Message ---
+Message ID: 1274748313408765972
+Message Type: Default
+Reply to: None
+Timestamp: 2024-08-18T15:14:41.595+00:00
+Author: Frances Haydock [HQ Staff Alt] (msloki01)
+Author Id: 430470599064682507
+Avatar URL: assets\a9493779f6f0e06c0c98b2ddf25a0db5-17406.png
+Content: excited to have you on the team!
+--------------------

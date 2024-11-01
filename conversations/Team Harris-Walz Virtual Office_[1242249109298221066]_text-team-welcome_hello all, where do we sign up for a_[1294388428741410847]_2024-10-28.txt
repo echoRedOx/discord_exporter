@@ -1,0 +1,27 @@
+Guild: Team Harris-Walz Virtual Office (ID: 1242249109298221066)
+Channel: hello all, where do we sign up for a (ID: 1294388428741410847)
+Channel Topic: None
+Exported At: 2024-10-28T22:43:54.8370139+00:00
+
+
+--- Message ---
+Message ID: 1294388929998360626
+Message Type: 21
+Reply to: 1294388428741410847
+Timestamp: 2024-10-11T19:59:29.495+00:00
+Author: Roberta Bavin CA KC Greeter/Mod (roberta_24935)
+Author Id: 1269872908759597148
+Avatar URL: assets\df6d19d97b04a49ffcafbe7be14c7839-D9CE4.png
+Content: 
+--------------------
+
+--- Message ---
+Message ID: 1294388932858871858
+Message Type: Default
+Reply to: None
+Timestamp: 2024-10-11T19:59:30.177+00:00
+Author: Roberta Bavin CA KC Greeter/Mod (roberta_24935)
+Author Id: 1269872908759597148
+Avatar URL: assets\df6d19d97b04a49ffcafbe7be14c7839-D9CE4.png
+Content: Hi <@693259842130804768> Thanks for checking in! Please watch the <#1266506864795844661> channel for texting times and the <#1265788349747171438> for the links. No need to sign up for shifts. Thanks for being here! <:thankyou:1252806147396735057>
+--------------------

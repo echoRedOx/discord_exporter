@@ -1,0 +1,60 @@
+Guild: Team Harris-Walz Virtual Office (ID: 1242249109298221066)
+Channel: Ed Rusky; more than 72 hours (ID: 1287468352008360067)
+Channel Topic: None
+Exported At: 2024-10-28T23:03:27.5184051+00:00
+
+
+--- Message ---
+Message ID: 1287475732691292182
+Message Type: 21
+Reply to: 1287468352008360067
+Timestamp: 2024-09-22T18:08:54.816+00:00
+Author: Roberta Bavin CA KC Greeter/Mod (roberta_24935)
+Author Id: 1269872908759597148
+Avatar URL: assets\df6d19d97b04a49ffcafbe7be14c7839-D9CE4.png
+Content: 
+--------------------
+
+--- Message ---
+Message ID: 1287475735321382973
+Message Type: Default
+Reply to: None
+Timestamp: 2024-09-22T18:08:55.443+00:00
+Author: Roberta Bavin CA KC Greeter/Mod (roberta_24935)
+Author Id: 1269872908759597148
+Avatar URL: assets\df6d19d97b04a49ffcafbe7be14c7839-D9CE4.png
+Content: Hi Ed- Thanks for reaching out! Please see a DM from me in a couple of minutes!
+--------------------
+
+--- Message ---
+Message ID: 1288551823329722428
+Message Type: Reply
+Reply to: 1287475735321382973
+Timestamp: 2024-09-25T17:24:54.817+00:00
+Author: Ed Rusky CA (eddie_33433)
+Author Id: 1252374975399067699
+Avatar URL: assets\29a4eeae207e7211a38860b85df4aeb0-3DDC4.png
+Content: Hi Roberta, I haven't received a DM since you messaged me Sunday morning.
+--------------------
+
+--- Message ---
+Message ID: 1288552401414131744
+Message Type: Reply
+Reply to: 1288551823329722428
+Timestamp: 2024-09-25T17:27:12.643+00:00
+Author: Roberta Bavin CA KC Greeter/Mod (roberta_24935)
+Author Id: 1269872908759597148
+Avatar URL: assets\df6d19d97b04a49ffcafbe7be14c7839-D9CE4.png
+Content: Hi Ed-Please reply to the DM that was sent a few days ago. Thanks for checking in!
+--------------------
+
+--- Message ---
+Message ID: 1288552885944324207
+Message Type: Default
+Reply to: None
+Timestamp: 2024-09-25T17:29:08.164+00:00
+Author: Ed Rusky CA (eddie_33433)
+Author Id: 1252374975399067699
+Avatar URL: assets\29a4eeae207e7211a38860b85df4aeb0-3DDC4.png
+Content: 😀  The message I just sent was a reply to your message of 9/22 @ 11:08 am. You said you'd send me another DM but haven't received one.
+--------------------

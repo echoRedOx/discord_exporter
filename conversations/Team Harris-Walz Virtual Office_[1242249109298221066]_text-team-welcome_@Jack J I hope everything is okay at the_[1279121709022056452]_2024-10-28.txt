@@ -1,0 +1,27 @@
+Guild: Team Harris-Walz Virtual Office (ID: 1242249109298221066)
+Channel: @Jack J I hope everything is okay at the (ID: 1279121709022056452)
+Channel Topic: None
+Exported At: 2024-10-28T23:48:31.7958543+00:00
+
+
+--- Message ---
+Message ID: 1279121858381484206
+Message Type: 21
+Reply to: 1279121709022056452
+Timestamp: 2024-08-30T16:53:35.973+00:00
+Author: Jack Joannides KC text admin (jjoannid)
+Author Id: 477560366432256000
+Avatar URL: assets\791c521e62160be1f3df04992f6e5470-36A38.png
+Content: 
+--------------------
+
+--- Message ---
+Message ID: 1279121859543171085
+Message Type: Default
+Reply to: None
+Timestamp: 2024-08-30T16:53:36.25+00:00
+Author: Jack Joannides KC text admin (jjoannid)
+Author Id: 477560366432256000
+Avatar URL: assets\791c521e62160be1f3df04992f6e5470-36A38.png
+Content: Let me say in 24-48 hours. We have a lot. And I mean a lot going on right now.
+--------------------

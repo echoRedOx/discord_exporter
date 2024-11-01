@@ -1,0 +1,40 @@
+- author_avatar_url: assets\90595ea07dd349adc8ba22cb8d2f8a14-00AFD.png
+  author_id: '779382569534881824'
+  author_name: ginaturone
+  author_nickname: Gina Turone
+  content: "Hi can one of the staff connect me with the link to sign up for text bank?\
+    \ I had asked in the general chat yesterday and was given the link but I can\u2019\
+    t find it now. TIA \u263A\uFE0F"
+  id: '1298721392006660126'
+  ref_to: null
+  timestamp: '2024-10-23T18:55:08.931+00:00'
+  type: Default
+- author_avatar_url: assets\90595ea07dd349adc8ba22cb8d2f8a14-00AFD.png
+  author_id: '779382569534881824'
+  author_name: ginaturone
+  author_nickname: Gina Turone
+  content: Also is there a specific shift time that these texts are sent out?
+  id: '1298721747142443040'
+  ref_to: null
+  timestamp: '2024-10-23T18:56:33.602+00:00'
+  type: Default
+- author_avatar_url: assets\28a90c77b5793d80eb62484a43c66748-D8837.png
+  author_id: '568257600228032512'
+  author_name: carb.on
+  author_nickname: "Carolyn B [CA] \u2022 Lead Mod"
+  content: Hi <@779382569534881824> here is the link https://discord.com/channels/1242249109298221066/1266829704204386334
+    once you are onboarded you will see text campaigns sent out during the day. You
+    participate in campaigns whenever you can.
+  id: '1298722129549987910'
+  ref_to: null
+  timestamp: '2024-10-23T18:58:04.775+00:00'
+  type: Default
+- author_avatar_url: assets\90595ea07dd349adc8ba22cb8d2f8a14-00AFD.png
+  author_id: '779382569534881824'
+  author_name: ginaturone
+  author_nickname: Gina Turone
+  content: Great thanks Carolyn
+  id: '1298722724994089051'
+  ref_to: '1298722129549987910'
+  timestamp: '2024-10-23T19:00:26.74+00:00'
+  type: Reply

@@ -1,0 +1,82 @@
+Guild: Team Harris-Walz Virtual Office (ID: 1242249109298221066)
+Channel: I added my iPad to text and need the (ID: 1278438478782136421)
+Channel Topic: None
+Exported At: 2024-10-28T23:53:33.8298251+00:00
+
+
+--- Message ---
+Message ID: 1278439837468463226
+Message Type: 21
+Reply to: 1278438478782136421
+Timestamp: 2024-08-28T19:43:29.516+00:00
+Author: Jack Joannides KC text admin (jjoannid)
+Author Id: 477560366432256000
+Avatar URL: assets\791c521e62160be1f3df04992f6e5470-36A38.png
+Content: 
+--------------------
+
+--- Message ---
+Message ID: 1278439839141986354
+Message Type: Default
+Reply to: None
+Timestamp: 2024-08-28T19:43:29.915+00:00
+Author: Jack Joannides KC text admin (jjoannid)
+Author Id: 477560366432256000
+Avatar URL: assets\791c521e62160be1f3df04992f6e5470-36A38.png
+Content: I see you on the spreadsheet. We'll add you in 24-48 hours. We have a lot of people to add.
+--------------------
+
+--- Message ---
+Message ID: 1278467233038991532
+Message Type: Default
+Reply to: None
+Timestamp: 2024-08-28T21:32:21.129+00:00
+Author: David High (davidhigh0735)
+Author Id: 1278430942410575942
+Avatar URL: assets\3-FB033.png
+Content: I already have access through my Mac. Can the iPad be added to my Mac account?
+--------------------
+
+--- Message ---
+Message ID: 1278469456095346740
+Message Type: Default
+Reply to: None
+Timestamp: 2024-08-28T21:41:11.147+00:00
+Author: Jack Joannides KC text admin (jjoannid)
+Author Id: 477560366432256000
+Avatar URL: assets\791c521e62160be1f3df04992f6e5470-36A38.png
+Content: Not sure if that's possible or really what you mean?
+--------------------
+
+--- Message ---
+Message ID: 1278469516401316000
+Message Type: Default
+Reply to: None
+Timestamp: 2024-08-28T21:41:25.525+00:00
+Author: Jack Joannides KC text admin (jjoannid)
+Author Id: 477560366432256000
+Avatar URL: assets\791c521e62160be1f3df04992f6e5470-36A38.png
+Content: You should be able to.
+--------------------
+
+--- Message ---
+Message ID: 1278544243874463777
+Message Type: Default
+Reply to: None
+Timestamp: 2024-08-29T02:38:21.943+00:00
+Author: David High (davidhigh0735)
+Author Id: 1278430942410575942
+Avatar URL: assets\3-FB033.png
+Content: I’m not sure either. I’ll roll with two different accounts.
+--------------------
+
+--- Message ---
+Message ID: 1278544367044526191
+Message Type: Default
+Reply to: None
+Timestamp: 2024-08-29T02:38:51.309+00:00
+Author: Jack Joannides KC text admin (jjoannid)
+Author Id: 477560366432256000
+Avatar URL: assets\791c521e62160be1f3df04992f6e5470-36A38.png
+Content: You can use discord with mutiple devices simutanueloy. So you should be find.
+--------------------

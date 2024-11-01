@@ -1,0 +1,27 @@
+Guild: Team Harris-Walz Virtual Office (ID: 1242249109298221066)
+Channel: Hi All! I missed my text training but (ID: 1283909468257521697)
+Channel Topic: None
+Exported At: 2024-10-28T23:26:58.9466191+00:00
+
+
+--- Message ---
+Message ID: 1283943267968221235
+Message Type: 21
+Reply to: 1283909468257521697
+Timestamp: 2024-09-13T00:12:09.596+00:00
+Author: Nicole Morris - Text Admin (nmorris237)
+Author Id: 935762347753103382
+Avatar URL: assets\27b1e286b65ae02b3378793b5f098411-A7B20.png
+Content: 
+--------------------
+
+--- Message ---
+Message ID: 1283943270329745492
+Message Type: Default
+Reply to: None
+Timestamp: 2024-09-13T00:12:10.159+00:00
+Author: Nicole Morris - Text Admin (nmorris237)
+Author Id: 935762347753103382
+Avatar URL: assets\27b1e286b65ae02b3378793b5f098411-A7B20.png
+Content: Hi Laurie - thanks for your message and for wanting to get involved! You can sign up for another training day/time at the same link: https://events.democrats.org/event/672393/
+--------------------

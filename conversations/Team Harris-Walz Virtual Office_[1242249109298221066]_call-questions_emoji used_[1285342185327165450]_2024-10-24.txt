@@ -1,0 +1,49 @@
+Guild: Team Harris-Walz Virtual Office (ID: 1242249109298221066)
+Channel: emoji used (ID: 1285342185327165450)
+Channel Topic: None
+Exported At: 2024-10-24T12:51:25.4640995+00:00
+
+
+--- Message ---
+Message ID: 1285342771653115906
+Message Type: Reply
+Reply to: 1285342185327165450
+Timestamp: 2024-09-16T20:53:17.276+00:00
+Author: Jared R [CO] • Lead Mod (kyaizen)
+Author Id: 112080668296564736
+Avatar URL: assets\a_de0e3d4a3f9b486ad3ad6df0d72323da-D0252.gif
+Content: Hi Vickie, please post this in <#1259238714157305936>
+--------------------
+
+--- Message ---
+Message ID: 1285343014214172692
+Message Type: Default
+Reply to: None
+Timestamp: 2024-09-16T20:54:15.107+00:00
+Author: Jared R [CO] • Lead Mod (kyaizen)
+Author Id: 112080668296564736
+Avatar URL: assets\a_de0e3d4a3f9b486ad3ad6df0d72323da-D0252.gif
+Content: I'm going to delete your post as it has personal info in it. <@1281369802551595151> <#1259238714157305936> will be able to help out!
+--------------------
+
+--- Message ---
+Message ID: 1285346044166668336
+Message Type: Default
+Reply to: None
+Timestamp: 2024-09-16T21:06:17.504+00:00
+Author: Vickie Read (OR) (busygma)
+Author Id: 1281369802551595151
+Avatar URL: assets\5445ffd7ffb201a98393cbdf684ea4b1-ACD0A.png
+Content: I thought that was where I am? I’m sorry, I see this is  Calling questions…oops
+--------------------
+
+--- Message ---
+Message ID: 1285346237335212043
+Message Type: Reply
+Reply to: 1285346044166668336
+Timestamp: 2024-09-16T21:07:03.559+00:00
+Author: Jared R [CO] • Lead Mod (kyaizen)
+Author Id: 112080668296564736
+Avatar URL: assets\a_de0e3d4a3f9b486ad3ad6df0d72323da-D0252.gif
+Content: No worries!! I'll probably make the same mistake myself 😂
+--------------------

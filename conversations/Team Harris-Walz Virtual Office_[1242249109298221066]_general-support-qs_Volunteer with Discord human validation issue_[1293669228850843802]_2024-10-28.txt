@@ -1,0 +1,38 @@
+Guild: Team Harris-Walz Virtual Office (ID: 1242249109298221066)
+Channel: Volunteer with Discord human validation issue (ID: 1293669228850843802)
+Channel Topic: None
+Exported At: 2024-10-28T19:54:51.109391+00:00
+
+
+--- Message ---
+Message ID: 1293669228850843802
+Message Type: Default
+Reply to: None
+Timestamp: 2024-10-09T20:19:39.37+00:00
+Author: Edie Schaffer [CA] (edieinsf)
+Author Id: 1260638482905436180
+Avatar URL: assets\6c33943f3494bdf0aea29813813d79b7-5926B.png
+Content: The Text Team has a contact who is volunteering for the campaign that is experiencing issues trying to set up an account in Discord: "I keep getting an error when they ask me to verify that I am human." Suggestions?
+--------------------
+
+--- Message ---
+Message ID: 1293670957273190461
+Message Type: Default
+Reply to: None
+Timestamp: 2024-10-09T20:26:31.458+00:00
+Author: Carolyn B [CA] • Lead Mod (carb.on)
+Author Id: 568257600228032512
+Avatar URL: assets\28a90c77b5793d80eb62484a43c66748-D8837.png
+Content: Hi <@1260638482905436180>  I haven't see this before, but I can meet the volunteer on zoom to look at what's going on. You can tell them to email carbrn@gmail.com and make sure email clearly identifies them as a volunteer for the campaign.
+--------------------
+
+--- Message ---
+Message ID: 1293671836470607882
+Message Type: Default
+Reply to: None
+Timestamp: 2024-10-09T20:30:01.075+00:00
+Author: Edie Schaffer [CA] (edieinsf)
+Author Id: 1260638482905436180
+Avatar URL: assets\6c33943f3494bdf0aea29813813d79b7-5926B.png
+Content: Will do! Thank you so much <@568257600228032512> !!
+--------------------

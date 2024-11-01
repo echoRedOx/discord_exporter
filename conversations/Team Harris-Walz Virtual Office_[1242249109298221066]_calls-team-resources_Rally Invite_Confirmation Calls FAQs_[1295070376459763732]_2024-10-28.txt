@@ -1,0 +1,32 @@
+Guild: Team Harris-Walz Virtual Office (ID: 1242249109298221066)
+Channel: Rally Invite/Confirmation Calls FAQs (ID: 1295070376459763732)
+Channel Topic: None
+Exported At: 2024-10-28T20:39:51.8175036+00:00
+
+
+--- Message ---
+Message ID: 1295070376459763732
+Message Type: Default
+Reply to: None
+Timestamp: 2024-10-13T17:07:18.992+00:00
+Author: Jared R [CO] • Lead Mod (kyaizen)
+Author Id: 112080668296564736
+Avatar URL: assets\a_de0e3d4a3f9b486ad3ad6df0d72323da-D0252.gif
+Content: **What do I tell someone who asks me the address of the event/time of the event?**
+They will receive more information in the confirmation email. Due to security reasons, we don’t have more specific information. 
+
+**What if they want to bring a friend/family member/their kids?**
+The more the merrier! The person they are bringing has to also RSVP separately and get a confirmation email as well. The invitation/ sign up link can be shared, but the RSVP/confirmation email is unique to the person it’s addressed to and non-transferable. Kids under 18 do not need an RSVP form or an ID. 
+
+**What if they haven’t gotten their confirmation email yet?**
+Tell them to check their spam folder. It will arrive 24-36 hours before the event.
+
+**Will they still get the email confirmation if they don’t get a call?**
+Yes! They will get the email confirmation regardless of whether they get a phone call.
+
+**Is it ADA accessible?**
+All of our events should be ADA accessible. There should be a contact email on their confirmation email that they can reach out to to ask about accessibility information. 
+
+**Can they bring bags/medical items/food/etc?**
+Security information relating to all of these items and protocol should be included in the confirmation email.
+--------------------

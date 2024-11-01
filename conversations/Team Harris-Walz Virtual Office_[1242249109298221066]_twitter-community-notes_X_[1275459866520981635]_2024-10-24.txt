@@ -1,0 +1,40 @@
+Guild: Team Harris-Walz Virtual Office (ID: 1242249109298221066)
+Channel: X (ID: 1275459866520981635)
+Channel Topic: None
+Exported At: 2024-10-24T13:18:38.0891507+00:00
+
+
+--- Message ---
+Message ID: 1275460025120194612
+Message Type: 21
+Reply to: 1275459866520981635
+Timestamp: 2024-08-20T14:22:46.89+00:00
+Author: Deleted User (Deleted User)
+Author Id: 456226577798135808
+Avatar URL: assets\3-FB033.png
+Content: 
+--------------------
+
+--- Message ---
+Message ID: 1275460026378489866
+Message Type: Default
+Reply to: None
+Timestamp: 2024-08-20T14:22:47.19+00:00
+Author: Deleted User (Deleted User)
+Author Id: 456226577798135808
+Avatar URL: assets\3-FB033.png
+Content: translation to EN: "FLOP! COWBOY CARTER has officially left Spotify's global weekly albums chart in less than 5 months.
+
+The album spent just 19 weeks on the charts, despite a huge marketing campaign, massive promotion and being labeled "the album that revived country music"."
+--------------------
+
+--- Message ---
+Message ID: 1275460204976406528
+Message Type: Default
+Reply to: None
+Timestamp: 2024-08-20T14:23:29.771+00:00
+Author: Deleted User (Deleted User)
+Author Id: 456226577798135808
+Avatar URL: assets\3-FB033.png
+Content: translation of proposed note to EN: "The album was and is a cultural and representative success, impacting US country music dominated by white singers. With it, Beyoncé becomes the first woman with the first 8 solo and unreleased albums at number one on Billboard upon release."
+--------------------

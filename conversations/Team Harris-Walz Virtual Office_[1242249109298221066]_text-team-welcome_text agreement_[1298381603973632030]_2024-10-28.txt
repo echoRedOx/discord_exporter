@@ -1,0 +1,49 @@
+Guild: Team Harris-Walz Virtual Office (ID: 1242249109298221066)
+Channel: text agreement (ID: 1298381603973632030)
+Channel Topic: None
+Exported At: 2024-10-28T22:17:18.0823679+00:00
+
+
+--- Message ---
+Message ID: 1298397016510173366
+Message Type: 21
+Reply to: 1298381603973632030
+Timestamp: 2024-10-22T21:26:11.786+00:00
+Author: Roberta Bavin CA KC Greeter/Mod (roberta_24935)
+Author Id: 1269872908759597148
+Avatar URL: assets\df6d19d97b04a49ffcafbe7be14c7839-D9CE4.png
+Content: 
+--------------------
+
+--- Message ---
+Message ID: 1298397020331053139
+Message Type: Default
+Reply to: None
+Timestamp: 2024-10-22T21:26:12.697+00:00
+Author: Roberta Bavin CA KC Greeter/Mod (roberta_24935)
+Author Id: 1269872908759597148
+Avatar URL: assets\df6d19d97b04a49ffcafbe7be14c7839-D9CE4.png
+Content: Hi <@1292805371840172075> Please explain your question. Thanks!
+--------------------
+
+--- Message ---
+Message ID: 1298910266939015168
+Message Type: Default
+Reply to: None
+Timestamp: 2024-10-24T07:25:40.224+00:00
+Author: Kate (2024winit)
+Author Id: 1292805371840172075
+Avatar URL: assets\8569adcbd36c70a7578c017bf5604ea5-B1442.png
+Content: <@1269872908759597148> How do I access the text agreement and quiz?
+--------------------
+
+--- Message ---
+Message ID: 1299015374292910100
+Message Type: Default
+Reply to: None
+Timestamp: 2024-10-24T14:23:19.77+00:00
+Author: Roberta Bavin CA KC Greeter/Mod (roberta_24935)
+Author Id: 1269872908759597148
+Avatar URL: assets\df6d19d97b04a49ffcafbe7be14c7839-D9CE4.png
+Content: Hi Kate! Let me send you a DM! Left upper corner of Discord at game controller icon. Thanks!
+--------------------

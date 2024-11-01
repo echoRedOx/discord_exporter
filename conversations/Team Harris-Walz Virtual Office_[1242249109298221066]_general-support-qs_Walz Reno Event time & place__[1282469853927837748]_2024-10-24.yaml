@@ -1,0 +1,60 @@
+- author_avatar_url: assets\102cbd4ab7e0a7b5aede92fddfa232c7-D82D9.png
+  author_id: '758092597519450172'
+  author_name: marnina0333
+  author_nickname: MarNina
+  content: "I\u2019d like to go to Walz\u2019 Reno rally tomorrow.  Where do I register?\
+    \ Where is it? What time?"
+  id: '1282469853927837748'
+  ref_to: null
+  timestamp: '2024-09-08T22:37:20.314+00:00'
+  type: Default
+- author_avatar_url: assets\d1341d3c05d207da49a6fa548b4c1086-4BE71.png
+  author_id: '1267643778043482122'
+  author_name: hollymateluber
+  author_nickname: Holly Mate-Luber [Call Mod]
+  content: It will likely be invite only, and those who RSVPed and are confirmed will
+    not receive final location or timing details until the night before or morning
+    of. For security reasons.
+  id: '1282471291802222674'
+  ref_to: null
+  timestamp: '2024-09-08T22:43:03.13+00:00'
+  type: Default
+- author_avatar_url: assets\d1341d3c05d207da49a6fa548b4c1086-4BE71.png
+  author_id: '1267643778043482122'
+  author_name: hollymateluber
+  author_nickname: Holly Mate-Luber [Call Mod]
+  content: If there is a public link to RSVP for this one, maybe someone can point
+    you in the right direction on here but you can always check events.democrats.org
+  id: '1282471523025682492'
+  ref_to: null
+  timestamp: '2024-09-08T22:43:58.258+00:00'
+  type: Default
+- author_avatar_url: assets\3d8690866ff0e62607a449287de8ca1d-57B17.png
+  author_id: '652991652448698388'
+  author_name: science4979
+  author_nickname: Kay Adams [Mod]
+  content: I know the text team was sending invites. Perhaps ask in there and see
+    if the invite link still has availability. <#1266829704204386334>
+  id: '1282523598459768882'
+  ref_to: '1282469853927837748'
+  timestamp: '2024-09-09T02:10:54.009+00:00'
+  type: Reply
+- author_avatar_url: assets\102cbd4ab7e0a7b5aede92fddfa232c7-D82D9.png
+  author_id: '758092597519450172'
+  author_name: marnina0333
+  author_nickname: MarNina
+  content: Thank you, Kay Adams & Holly Mate- Luber!
+  id: '1282547806875291722'
+  ref_to: null
+  timestamp: '2024-09-09T03:47:05.745+00:00'
+  type: Default
+- author_avatar_url: assets\d1341d3c05d207da49a6fa548b4c1086-4BE71.png
+  author_id: '1267643778043482122'
+  author_name: hollymateluber
+  author_nickname: Holly Mate-Luber [Call Mod]
+  content: FYI, I think I saw somewhere this morning that the rally has been postponed
+    due to the fire nearby
+  id: '1282694188403789855'
+  ref_to: null
+  timestamp: '2024-09-09T13:28:45.821+00:00'
+  type: Default

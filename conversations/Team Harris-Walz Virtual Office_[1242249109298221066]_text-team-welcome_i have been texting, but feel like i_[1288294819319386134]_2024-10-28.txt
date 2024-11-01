@@ -1,0 +1,82 @@
+Guild: Team Harris-Walz Virtual Office (ID: 1242249109298221066)
+Channel: i have been texting, but feel like i (ID: 1288294819319386134)
+Channel Topic: None
+Exported At: 2024-10-28T23:03:30.4650321+00:00
+
+
+--- Message ---
+Message ID: 1288295289706250242
+Message Type: 21
+Reply to: 1288294819319386134
+Timestamp: 2024-09-25T00:25:32.435+00:00
+Author: Roberta Bavin CA KC Greeter/Mod (roberta_24935)
+Author Id: 1269872908759597148
+Avatar URL: assets\df6d19d97b04a49ffcafbe7be14c7839-D9CE4.png
+Content: 
+--------------------
+
+--- Message ---
+Message ID: 1288295291585302559
+Message Type: Default
+Reply to: None
+Timestamp: 2024-09-25T00:25:32.883+00:00
+Author: Roberta Bavin CA KC Greeter/Mod (roberta_24935)
+Author Id: 1269872908759597148
+Avatar URL: assets\df6d19d97b04a49ffcafbe7be14c7839-D9CE4.png
+Content: Hi Helen! Thanks for checking in! Have you taken the new training yet?
+--------------------
+
+--- Message ---
+Message ID: 1288295474628923483
+Message Type: Default
+Reply to: None
+Timestamp: 2024-09-25T00:26:16.524+00:00
+Author: HelenLandonCA (helenzl_69991)
+Author Id: 1287194622333943818
+Avatar URL: assets\0-EB806.png
+Content: i'm in it right now.
+--------------------
+
+--- Message ---
+Message ID: 1288295704439165031
+Message Type: Default
+Reply to: None
+Timestamp: 2024-09-25T00:27:11.315+00:00
+Author: Roberta Bavin CA KC Greeter/Mod (roberta_24935)
+Author Id: 1269872908759597148
+Avatar URL: assets\df6d19d97b04a49ffcafbe7be14c7839-D9CE4.png
+Content: Perfect! Once you finish the Agreement Form and Quiz, the Greeter team will review everything and help you complete the onboarding process. Thanks for being here!
+--------------------
+
+--- Message ---
+Message ID: 1288295748634677260
+Message Type: Default
+Reply to: None
+Timestamp: 2024-09-25T00:27:21.852+00:00
+Author: HelenLandonCA (helenzl_69991)
+Author Id: 1287194622333943818
+Avatar URL: assets\0-EB806.png
+Content: i hopped on in case i needed to, even though i was just texting with you last month...
+--------------------
+
+--- Message ---
+Message ID: 1288295841081331804
+Message Type: Default
+Reply to: None
+Timestamp: 2024-09-25T00:27:43.893+00:00
+Author: HelenLandonCA (helenzl_69991)
+Author Id: 1287194622333943818
+Avatar URL: assets\0-EB806.png
+Content: did not realize i needed to do quiz etc again. ok. will do.
+--------------------
+
+--- Message ---
+Message ID: 1288296076905807936
+Message Type: Reply
+Reply to: 1288295841081331804
+Timestamp: 2024-09-25T00:28:40.118+00:00
+Author: Roberta Bavin CA KC Greeter/Mod (roberta_24935)
+Author Id: 1269872908759597148
+Avatar URL: assets\df6d19d97b04a49ffcafbe7be14c7839-D9CE4.png
+Content: Let me send you a DM. Check there in a couple of minutes!
+--------------------

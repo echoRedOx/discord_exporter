@@ -1,0 +1,82 @@
+Guild: Team Harris-Walz Virtual Office (ID: 1242249109298221066)
+Channel: Hi all!! I also attended the text (ID: 1279958728669528208)
+Channel Topic: None
+Exported At: 2024-10-28T23:42:23.8522028+00:00
+
+
+--- Message ---
+Message ID: 1279958960333389847
+Message Type: 21
+Reply to: 1279958728669528208
+Timestamp: 2024-09-02T00:19:56.631+00:00
+Author: Jack Joannides KC text admin (jjoannid)
+Author Id: 477560366432256000
+Avatar URL: assets\791c521e62160be1f3df04992f6e5470-36A38.png
+Content: 
+--------------------
+
+--- Message ---
+Message ID: 1279958963336777812
+Message Type: Default
+Reply to: None
+Timestamp: 2024-09-02T00:19:57.347+00:00
+Author: Jack Joannides KC text admin (jjoannid)
+Author Id: 477560366432256000
+Avatar URL: assets\791c521e62160be1f3df04992f6e5470-36A38.png
+Content: We don't use reach to text.
+--------------------
+
+--- Message ---
+Message ID: 1279959095259959339
+Message Type: Default
+Reply to: None
+Timestamp: 2024-09-02T00:20:28.8+00:00
+Author: Kelsey Fuller [AK] (.k_leigh.)
+Author Id: 1002685617936806048
+Avatar URL: assets\cfc0aa72da2b53dd95f1882aa6f8995c-355C2.png
+Content: Oh well yikes don’t know where I got that
+--------------------
+
+--- Message ---
+Message ID: 1279959129926012959
+Message Type: Default
+Reply to: None
+Timestamp: 2024-09-02T00:20:37.065+00:00
+Author: Jack Joannides KC text admin (jjoannid)
+Author Id: 477560366432256000
+Avatar URL: assets\791c521e62160be1f3df04992f6e5470-36A38.png
+Content: Nvm I see you.
+--------------------
+
+--- Message ---
+Message ID: 1279959266660450406
+Message Type: Default
+Reply to: None
+Timestamp: 2024-09-02T00:21:09.665+00:00
+Author: Jack Joannides KC text admin (jjoannid)
+Author Id: 477560366432256000
+Avatar URL: assets\791c521e62160be1f3df04992f6e5470-36A38.png
+Content: You have to change your display name to firstname lastname
+--------------------
+
+--- Message ---
+Message ID: 1279959705208492113
+Message Type: Default
+Reply to: None
+Timestamp: 2024-09-02T00:22:54.223+00:00
+Author: Kelsey Fuller [AK] (.k_leigh.)
+Author Id: 1002685617936806048
+Avatar URL: assets\cfc0aa72da2b53dd95f1882aa6f8995c-355C2.png
+Content: Sorry about that thought last initial was okay 🤦‍♀️ really not doing great so far appreciate your help
+--------------------
+
+--- Message ---
+Message ID: 1279960608694997013
+Message Type: Default
+Reply to: None
+Timestamp: 2024-09-02T00:26:29.631+00:00
+Author: Jack Joannides KC text admin (jjoannid)
+Author Id: 477560366432256000
+Avatar URL: assets\791c521e62160be1f3df04992f6e5470-36A38.png
+Content: NP
+--------------------

@@ -1,0 +1,28 @@
+- author_avatar_url: assets\df6d19d97b04a49ffcafbe7be14c7839-D9CE4.png
+  author_id: '1269872908759597148'
+  author_name: roberta_24935
+  author_nickname: Roberta Bavin CA KC Greeter/Mod
+  content: ''
+  id: '1299153684684345344'
+  ref_to: '1299138212668768359'
+  timestamp: '2024-10-24T23:32:55.537+00:00'
+  type: '21'
+- author_avatar_url: assets\df6d19d97b04a49ffcafbe7be14c7839-D9CE4.png
+  author_id: '1269872908759597148'
+  author_name: roberta_24935
+  author_nickname: Roberta Bavin CA KC Greeter/Mod
+  content: Hi <@1278517092538257519> Sometimes you can go to <#1269677234357010522>
+    channel and they can direct you. Thanks for being here!
+  id: '1299153688132325483'
+  ref_to: null
+  timestamp: '2024-10-24T23:32:56.359+00:00'
+  type: Default
+- author_avatar_url: assets\fbb563b5c2977375cf0e406e623d456f-E1C85.png
+  author_id: '1278517092538257519'
+  author_name: activistkeri
+  author_nickname: Keri from California
+  content: Thanks for replying. I will try.
+  id: '1299154141670670346'
+  ref_to: null
+  timestamp: '2024-10-24T23:34:44.491+00:00'
+  type: Default

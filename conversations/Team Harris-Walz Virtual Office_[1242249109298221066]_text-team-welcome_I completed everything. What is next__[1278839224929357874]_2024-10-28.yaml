@@ -1,0 +1,29 @@
+- author_avatar_url: assets\27b1e286b65ae02b3378793b5f098411-A7B20.png
+  author_id: '935762347753103382'
+  author_name: nmorris237
+  author_nickname: Nicole Morris - Text Admin
+  content: ''
+  id: '1278906216558624778'
+  ref_to: '1278839224929357874'
+  timestamp: '2024-08-30T02:36:42.956+00:00'
+  type: '21'
+- author_avatar_url: assets\27b1e286b65ae02b3378793b5f098411-A7B20.png
+  author_id: '935762347753103382'
+  author_name: nmorris237
+  author_nickname: Nicole Morris - Text Admin
+  content: Hi <@1273045693342285846> Thanks! Please give us 24-48 hours to complete
+    your onboarding. Keep an eye on our your Direct Messages on Discord (top left
+    corner) for a message from a moderator.
+  id: '1278906218467037239'
+  ref_to: null
+  timestamp: '2024-08-30T02:36:43.411+00:00'
+  type: Default
+- author_avatar_url: assets\d4d4fcdcb8b40cf81d5da52149fd6d40-AC78B.png
+  author_id: '1273045693342285846'
+  author_name: izzyballard
+  author_nickname: Izzy Farris AK
+  content: Thanks
+  id: '1279503341432602740'
+  ref_to: null
+  timestamp: '2024-08-31T18:09:28.62+00:00'
+  type: Default

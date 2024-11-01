@@ -1,0 +1,42 @@
+- author_avatar_url: assets\fea0bde2a8fcc6f76c3da6e4f95ba409-8DC67.png
+  author_id: '784274313074966548'
+  author_name: alzakex
+  author_nickname: Karsten Bondy[MT/CA] (Call Mod)
+  content: 'Question from an event organizer:
+
+
+    urgent- can anyone tell me where I can sign in to email the people in my event?
+    I''m logged into mobilize - but cannot find where to email the people who I''m
+    doing training with the link for the zoom - I haven''t seen it sent automatically
+    so I''m trying to make sure all have the link...'
+  id: '1288952205352894495'
+  ref_to: null
+  timestamp: '2024-09-26T19:55:53.33+00:00'
+  type: Default
+- author_avatar_url: assets\fea0bde2a8fcc6f76c3da6e4f95ba409-8DC67.png
+  author_id: '784274313074966548'
+  author_name: alzakex
+  author_nickname: Karsten Bondy[MT/CA] (Call Mod)
+  content: <@430470599064682507> urgent call question
+  id: '1288953505918353522'
+  ref_to: null
+  timestamp: '2024-09-26T20:01:03.409+00:00'
+  type: Default
+- author_avatar_url: assets\fea0bde2a8fcc6f76c3da6e4f95ba409-8DC67.png
+  author_id: '784274313074966548'
+  author_name: alzakex
+  author_nickname: Karsten Bondy[MT/CA] (Call Mod)
+  content: <@1257469301435400238>  no longer urgent - they found the link.
+  id: '1288953894382338108'
+  ref_to: null
+  timestamp: '2024-09-26T20:02:36.026+00:00'
+  type: Default
+- author_avatar_url: assets\fea0bde2a8fcc6f76c3da6e4f95ba409-8DC67.png
+  author_id: '784274313074966548'
+  author_name: alzakex
+  author_nickname: Karsten Bondy[MT/CA] (Call Mod)
+  content: This question has been resolved.
+  id: '1288954073076465757'
+  ref_to: null
+  timestamp: '2024-09-26T20:03:18.63+00:00'
+  type: Default

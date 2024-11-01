@@ -1,0 +1,251 @@
+Guild: Team Harris-Walz Virtual Office (ID: 1242249109298221066)
+Channel: how to get into texting (ID: 1288292639761891329)
+Channel Topic: None
+Exported At: 2024-10-28T19:58:49.9942116+00:00
+
+
+--- Message ---
+Message ID: 1288292639761891329
+Message Type: Default
+Reply to: None
+Timestamp: 2024-09-25T00:15:00.639+00:00
+Author: Carolyn B [CA] • Lead Mod (carb.on)
+Author Id: 568257600228032512
+Avatar URL: assets\28a90c77b5793d80eb62484a43c66748-D8837.png
+Content: <@1282018679558635602>
+--------------------
+
+--- Message ---
+Message ID: 1288292719365718049
+Message Type: Default
+Reply to: None
+Timestamp: 2024-09-25T00:15:19.618+00:00
+Author: Carolyn B [CA] • Lead Mod (carb.on)
+Author Id: 568257600228032512
+Avatar URL: assets\28a90c77b5793d80eb62484a43c66748-D8837.png
+Content: Hi <@1282018679558635602> I can help you here
+
+You did the Discord/Reach training last week so you could share content on your FB page, and you are lost both here and on Reach. Not sure where to begin.
+--------------------
+
+--- Message ---
+Message ID: 1288293439309348926
+Message Type: Default
+Reply to: None
+Timestamp: 2024-09-25T00:18:11.266+00:00
+Author: Carolyn B [CA] • Lead Mod (carb.on)
+Author Id: 568257600228032512
+Avatar URL: assets\28a90c77b5793d80eb62484a43c66748-D8837.png
+Content: For Reach you will open the app and tap Library (middle in the top section) then choose the content piece you want to share. Then tap the Share button in the center-bottom. and choose FB
+--------------------
+
+--- Message ---
+Message ID: 1288294759877840898
+Message Type: Default
+Reply to: None
+Timestamp: 2024-09-25T00:23:26.114+00:00
+Author: Yana Lambert [MA] (yana_16564)
+Author Id: 1282018679558635602
+Avatar URL: assets\1d7d1ce3856161b0e0d25ce1706f18ef-4F63D.png
+Content: Thank you, Carolyn. Okay, I'll try again. The Reach/Library screen looks different than I saw last week and is difficult to navigate even on my larger screen. But I'll try again. Any word on whether or not I was accepted for the texting team? Seems I haven't heard anything--should have been a DM here in Discord, yes?
+--------------------
+
+--- Message ---
+Message ID: 1288295922731712576
+Message Type: Default
+Reply to: None
+Timestamp: 2024-09-25T00:28:03.36+00:00
+Author: Carolyn B [CA] • Lead Mod (carb.on)
+Author Id: 568257600228032512
+Avatar URL: assets\28a90c77b5793d80eb62484a43c66748-D8837.png
+Content: are you using a computer?
+
+You will get a DM from text team, it takes a few days. Do you know how to find the DM on Discord
+--------------------
+
+--- Message ---
+Message ID: 1288296342657044564
+Message Type: Default
+Reply to: None
+Timestamp: 2024-09-25T00:29:43.478+00:00
+Author: Yana Lambert [MA] (yana_16564)
+Author Id: 1282018679558635602
+Avatar URL: assets\1d7d1ce3856161b0e0d25ce1706f18ef-4F63D.png
+Content: Yes, on my laptop. And yes, under the top left Pacman-looking icon, yes? Seems it's been a few days, but maybe the training was Thurs PM so less than 3 business days...
+--------------------
+
+--- Message ---
+Message ID: 1288297021572124783
+Message Type: Default
+Reply to: None
+Timestamp: 2024-09-25T00:32:25.344+00:00
+Author: Carolyn B [CA] • Lead Mod (carb.on)
+Author Id: 568257600228032512
+Avatar URL: assets\28a90c77b5793d80eb62484a43c66748-D8837.png
+Content: here is the Reach screen
+--------------------
+
+--- Message ---
+Message ID: 1288297059270525042
+Message Type: Default
+Reply to: None
+Timestamp: 2024-09-25T00:32:34.332+00:00
+Author: Carolyn B [CA] • Lead Mod (carb.on)
+Author Id: 568257600228032512
+Avatar URL: assets\28a90c77b5793d80eb62484a43c66748-D8837.png
+Content: tap on library
+--------------------
+
+--- Message ---
+Message ID: 1288297250178732124
+Message Type: Default
+Reply to: None
+Timestamp: 2024-09-25T00:33:19.848+00:00
+Author: Carolyn B [CA] • Lead Mod (carb.on)
+Author Id: 568257600228032512
+Avatar URL: assets\28a90c77b5793d80eb62484a43c66748-D8837.png
+Content: then select a picture
+--------------------
+
+--- Message ---
+Message ID: 1288297286614515814
+Message Type: Default
+Reply to: None
+Timestamp: 2024-09-25T00:33:28.535+00:00
+Author: Carolyn B [CA] • Lead Mod (carb.on)
+Author Id: 568257600228032512
+Avatar URL: assets\28a90c77b5793d80eb62484a43c66748-D8837.png
+Content: 
+--------------------
+
+--- Message ---
+Message ID: 1288297304993824879
+Message Type: Default
+Reply to: None
+Timestamp: 2024-09-25T00:33:32.917+00:00
+Author: Carolyn B [CA] • Lead Mod (carb.on)
+Author Id: 568257600228032512
+Avatar URL: assets\28a90c77b5793d80eb62484a43c66748-D8837.png
+Content: then tap Share
+--------------------
+
+--- Message ---
+Message ID: 1288297716715356241
+Message Type: Default
+Reply to: None
+Timestamp: 2024-09-25T00:35:11.079+00:00
+Author: Carolyn B [CA] • Lead Mod (carb.on)
+Author Id: 568257600228032512
+Avatar URL: assets\28a90c77b5793d80eb62484a43c66748-D8837.png
+Content: and pick FB
+--------------------
+
+--- Message ---
+Message ID: 1288297795920461885
+Message Type: Default
+Reply to: None
+Timestamp: 2024-09-25T00:35:29.963+00:00
+Author: Yana Lambert [MA] (yana_16564)
+Author Id: 1282018679558635602
+Avatar URL: assets\1d7d1ce3856161b0e0d25ce1706f18ef-4F63D.png
+Content: Right. Maybe I should view on my smaller laptop screen. On my large screen, I get many images and many videos, and oops, maybe my sound was muted when I tried to preview the video sound. I'm more computer savvy than I'm sounding... I'll get there, though.
+--------------------
+
+--- Message ---
+Message ID: 1288299477676855296
+Message Type: Default
+Reply to: None
+Timestamp: 2024-09-25T00:42:10.925+00:00
+Author: Yana Lambert [MA] (yana_16564)
+Author Id: 1282018679558635602
+Avatar URL: assets\1d7d1ce3856161b0e0d25ce1706f18ef-4F63D.png
+Content: Okay, I'm good. Thanks, Carolyn. I'll keep checking DM channel re texting. Thought I was supposed to get an email though.
+--------------------
+
+--- Message ---
+Message ID: 1288300196488282172
+Message Type: Default
+Reply to: None
+Timestamp: 2024-09-25T00:45:02.303+00:00
+Author: Carolyn B [CA] • Lead Mod (carb.on)
+Author Id: 568257600228032512
+Avatar URL: assets\28a90c77b5793d80eb62484a43c66748-D8837.png
+Content: Text sends DMs after you complete training, it can take up to a week. I'm sure you will get it soon.
+--------------------
+
+--- Message ---
+Message ID: 1288300602387992719
+Message Type: Default
+Reply to: None
+Timestamp: 2024-09-25T00:46:39.077+00:00
+Author: Yana Lambert [MA] (yana_16564)
+Author Id: 1282018679558635602
+Avatar URL: assets\1d7d1ce3856161b0e0d25ce1706f18ef-4F63D.png
+Content: Got it. Thank you again, Carolyn. So if I have any more questions going forward, go to the general-support channel then how to get into texting or just message there with <@&1266883962727432304>?
+--------------------
+
+--- Message ---
+Message ID: 1288300724438171701
+Message Type: Default
+Reply to: None
+Timestamp: 2024-09-25T00:47:08.176+00:00
+Author: Carolyn B [CA] • Lead Mod (carb.on)
+Author Id: 568257600228032512
+Avatar URL: assets\28a90c77b5793d80eb62484a43c66748-D8837.png
+Content: if you have more questions, you can come right back here and ask.
+--------------------
+
+--- Message ---
+Message ID: 1288300946127847525
+Message Type: Default
+Reply to: None
+Timestamp: 2024-09-25T00:48:01.031+00:00
+Author: Yana Lambert [MA] (yana_16564)
+Author Id: 1282018679558635602
+Avatar URL: assets\1d7d1ce3856161b0e0d25ce1706f18ef-4F63D.png
+Content: Okeydoke.  Going off Discord for now, looking for content on Reach that I want to share. Thanks again.
+--------------------
+
+--- Message ---
+Message ID: 1288301291772313652
+Message Type: Default
+Reply to: None
+Timestamp: 2024-09-25T00:49:23.439+00:00
+Author: Carolyn B [CA] • Lead Mod (carb.on)
+Author Id: 568257600228032512
+Avatar URL: assets\28a90c77b5793d80eb62484a43c66748-D8837.png
+Content: Thank you for all your work, you are making a difference.
+--------------------
+
+--- Message ---
+Message ID: 1288304029557854210
+Message Type: Default
+Reply to: None
+Timestamp: 2024-09-25T01:00:16.178+00:00
+Author: Yana Lambert [MA] (yana_16564)
+Author Id: 1282018679558635602
+Avatar URL: assets\1d7d1ce3856161b0e0d25ce1706f18ef-4F63D.png
+Content: 🙏 Hope so.
+--------------------
+
+--- Message ---
+Message ID: 1288640095171121212
+Message Type: Default
+Reply to: None
+Timestamp: 2024-09-25T23:15:40.464+00:00
+Author: mombat (mombat5744)
+Author Id: 944225113375637554
+Avatar URL: assets\3-FB033.png
+Content: How can you sign up for texting?
+--------------------
+
+--- Message ---
+Message ID: 1288640678003474575
+Message Type: Reply
+Reply to: 1288640095171121212
+Timestamp: 2024-09-25T23:17:59.422+00:00
+Author: Linda in Burbank (lindainburbank)
+Author Id: 1137876010591846470
+Avatar URL: assets\83bfa3398a8ae3688a52fd908d701050-2D7C6.png
+Content: Here is the link to sign up for text training - the slot fill quickly so be sure to sign up! https://events.democrats.org/event/672393/?force_banner=true&share_context=event_details&share_medium=copy_link
+--------------------

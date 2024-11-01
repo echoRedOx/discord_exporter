@@ -1,0 +1,65 @@
+- author_avatar_url: assets\df6d19d97b04a49ffcafbe7be14c7839-D9CE4.png
+  author_id: '1269872908759597148'
+  author_name: roberta_24935
+  author_nickname: Roberta Bavin CA KC Greeter/Mod
+  content: ''
+  id: '1300235136805113899'
+  ref_to: '1300231540739145738'
+  timestamp: '2024-10-27T23:10:13.815+00:00'
+  type: '21'
+- author_avatar_url: assets\df6d19d97b04a49ffcafbe7be14c7839-D9CE4.png
+  author_id: '1269872908759597148'
+  author_name: roberta_24935
+  author_nickname: Roberta Bavin CA KC Greeter/Mod
+  content: Hi <@1298055995481784362> It looks like Andrew sent you a DM on 10/23 with
+    onboarding instructions. The DM is in left upper corner of Discord at the game
+    controller icon. Thanks for reaching out!
+  id: '1300235189032849428'
+  ref_to: null
+  timestamp: '2024-10-27T23:10:26.267+00:00'
+  type: Default
+- author_avatar_url: assets\1-B2132.png
+  author_id: '1298055995481784362'
+  author_name: stacey_62189
+  author_nickname: Stacey Chacker
+  content: Hi <@1269872908759597148> - i looked in DM's and don't see anything.
+  id: '1300238765910003743'
+  ref_to: null
+  timestamp: '2024-10-27T23:24:39.061+00:00'
+  type: Default
+- author_avatar_url: assets\1-B2132.png
+  author_id: '1298055995481784362'
+  author_name: stacey_62189
+  author_nickname: Stacey Chacker
+  content: i may just join a phone bank another evening.
+  id: '1300238841550077985'
+  ref_to: null
+  timestamp: '2024-10-27T23:24:57.095+00:00'
+  type: Default
+- author_avatar_url: assets\df6d19d97b04a49ffcafbe7be14c7839-D9CE4.png
+  author_id: '1269872908759597148'
+  author_name: roberta_24935
+  author_nickname: Roberta Bavin CA KC Greeter/Mod
+  content: Let me send you a DM and get you started.
+  id: '1300238882780090489'
+  ref_to: '1300238765910003743'
+  timestamp: '2024-10-27T23:25:06.925+00:00'
+  type: Reply
+- author_avatar_url: assets\1-B2132.png
+  author_id: '1298055995481784362'
+  author_name: stacey_62189
+  author_nickname: Stacey Chacker
+  content: thank you!!!
+  id: '1300238908042252289'
+  ref_to: null
+  timestamp: '2024-10-27T23:25:12.948+00:00'
+  type: Default
+- author_avatar_url: assets\1-B2132.png
+  author_id: '1298055995481784362'
+  author_name: stacey_62189
+  author_nickname: Stacey Chacker
+  content: here - or in the DMs?
+  id: '1300239003756400750'
+  ref_to: null
+  timestamp: '2024-10-27T23:25:35.768+00:00'
+  type: Default

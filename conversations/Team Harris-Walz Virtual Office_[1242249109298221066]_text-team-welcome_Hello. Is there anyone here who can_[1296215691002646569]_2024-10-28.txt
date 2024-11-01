@@ -1,0 +1,71 @@
+Guild: Team Harris-Walz Virtual Office (ID: 1242249109298221066)
+Channel: Hello. Is there anyone here who can (ID: 1296215691002646569)
+Channel Topic: None
+Exported At: 2024-10-28T22:36:45.3711212+00:00
+
+
+--- Message ---
+Message ID: 1296216374590574644
+Message Type: 21
+Reply to: 1296215691002646569
+Timestamp: 2024-10-16T21:01:06.238+00:00
+Author: Jack Joannides KC text admin (jjoannid)
+Author Id: 477560366432256000
+Avatar URL: assets\791c521e62160be1f3df04992f6e5470-36A38.png
+Content: 
+--------------------
+
+--- Message ---
+Message ID: 1296216377278857217
+Message Type: Default
+Reply to: None
+Timestamp: 2024-10-16T21:01:06.879+00:00
+Author: Jack Joannides KC text admin (jjoannid)
+Author Id: 477560366432256000
+Avatar URL: assets\791c521e62160be1f3df04992f6e5470-36A38.png
+Content: With?
+--------------------
+
+--- Message ---
+Message ID: 1296216746713419896
+Message Type: Default
+Reply to: None
+Timestamp: 2024-10-16T21:02:34.959+00:00
+Author: Becks (beckysue8)
+Author Id: 1295833347410624658
+Avatar URL: assets\0-EB806.png
+Content: I have been messaging here since yesterday. I just received a private message, not sure why private, that apparently the system is not working for people who want to volunteer from abroad. Is that correct? There is no solution?
+--------------------
+
+--- Message ---
+Message ID: 1296217021209514034
+Message Type: Default
+Reply to: None
+Timestamp: 2024-10-16T21:03:40.404+00:00
+Author: Becks (beckysue8)
+Author Id: 1295833347410624658
+Avatar URL: assets\0-EB806.png
+Content: It is very strange because I did this from here (France) in the last Biden election.
+--------------------
+
+--- Message ---
+Message ID: 1296219402911613009
+Message Type: Default
+Reply to: None
+Timestamp: 2024-10-16T21:13:08.246+00:00
+Author: Jack Joannides KC text admin (jjoannid)
+Author Id: 477560366432256000
+Avatar URL: assets\791c521e62160be1f3df04992f6e5470-36A38.png
+Content: We use 2 different platforms that we didn't use in 2020 actually but it should work.
+--------------------
+
+--- Message ---
+Message ID: 1296219711482232954
+Message Type: Default
+Reply to: None
+Timestamp: 2024-10-16T21:14:21.815+00:00
+Author: Jack Joannides KC text admin (jjoannid)
+Author Id: 477560366432256000
+Avatar URL: assets\791c521e62160be1f3df04992f6e5470-36A38.png
+Content: What error message does it say.
+--------------------

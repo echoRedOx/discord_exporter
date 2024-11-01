@@ -1,0 +1,75 @@
+- author_avatar_url: assets\f267b57189b117d2633ea7e1a11f1bb8-94FD8.png
+  author_id: '1004977197775323156'
+  author_name: johng06512
+  author_nickname: John Gavin OR
+  content: https://democrats.text.scaletowin.com/admin/34/incoming/?campaign=24297&contact=233715951&includeArchived=true&includeOptOut=true
+  id: '1280580798885531731'
+  ref_to: null
+  timestamp: '2024-09-03T17:30:54.495+00:00'
+  type: Default
+- author_avatar_url: assets\5fde485e55d806d8356ca6e7e08f1f48-77A19.png
+  author_id: '1266903666879627274'
+  author_name: larrya._98544
+  author_nickname: Larry Ahlgrim (VA) [Call Mod]
+  content: I am not familiar with this dialer link, but what is your question?
+  id: '1280581564694269972'
+  ref_to: '1280580798885531731'
+  timestamp: '2024-09-03T17:33:57.078+00:00'
+  type: Reply
+- author_avatar_url: assets\f267b57189b117d2633ea7e1a11f1bb8-94FD8.png
+  author_id: '1004977197775323156'
+  author_name: johng06512
+  author_nickname: John Gavin OR
+  content: 'Huh... I thought Mods could read those links.  So this person said to
+    initial text asking for phone banks help: "Not interested, as I told Justin last
+    week who was using this same number! Please stop bothering me while I''m working!
+    Thank you!"   Is that an opt out or no?'
+  id: '1280583180168204309'
+  ref_to: null
+  timestamp: '2024-09-03T17:40:22.237+00:00'
+  type: Default
+- author_avatar_url: assets\5fde485e55d806d8356ca6e7e08f1f48-77A19.png
+  author_id: '1266903666879627274'
+  author_name: larrya._98544
+  author_nickname: Larry Ahlgrim (VA) [Call Mod]
+  content: yes, that is an opt out.
+  id: '1280583445906722980'
+  ref_to: null
+  timestamp: '2024-09-03T17:41:25.594+00:00'
+  type: Default
+- author_avatar_url: assets\f267b57189b117d2633ea7e1a11f1bb8-94FD8.png
+  author_id: '1004977197775323156'
+  author_name: johng06512
+  author_nickname: John Gavin OR
+  content: <:thumbup:1252804076849074276> <:thankyou:1252806147396735057>
+  id: '1280584545900695612'
+  ref_to: null
+  timestamp: '2024-09-03T17:45:47.853+00:00'
+  type: Default
+- author_avatar_url: assets\791c521e62160be1f3df04992f6e5470-36A38.png
+  author_id: '477560366432256000'
+  author_name: jjoannid
+  author_nickname: Jack Joannides KC text admin
+  content: You can post that in <#1259238714157305936>
+  id: '1280599469523468310'
+  ref_to: null
+  timestamp: '2024-09-03T18:45:05.922+00:00'
+  type: Default
+- author_avatar_url: assets\f267b57189b117d2633ea7e1a11f1bb8-94FD8.png
+  author_id: '1004977197775323156'
+  author_name: johng06512
+  author_nickname: John Gavin OR
+  content: yeah, made a mistake on that.
+  id: '1280667534508560386'
+  ref_to: '1280599469523468310'
+  timestamp: '2024-09-03T23:15:33.879+00:00'
+  type: Reply
+- author_avatar_url: assets\791c521e62160be1f3df04992f6e5470-36A38.png
+  author_id: '477560366432256000'
+  author_name: jjoannid
+  author_nickname: Jack Joannides KC text admin
+  content: It's okay. Just make sure to post in <#1259238714157305936>
+  id: '1280667715417149502'
+  ref_to: null
+  timestamp: '2024-09-03T23:16:17.011+00:00'
+  type: Default

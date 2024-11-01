@@ -1,0 +1,71 @@
+Guild: Team Harris-Walz Virtual Office (ID: 1242249109298221066)
+Channel: I have someone who thinks their mail in ballot was thrown away (Wisconsin). Can we help? (ID: 1299539446231732315)
+Channel Topic: None
+Exported At: 2024-10-28T20:42:59.1558194+00:00
+
+
+--- Message ---
+Message ID: 1299539446231732315
+Message Type: Default
+Reply to: None
+Timestamp: 2024-10-26T01:05:48.257+00:00
+Author: Jamie Scribner [CT] (js067853)
+Author Id: 1288669079942463619
+Avatar URL: assets\2-ADBB4.png
+Content: He can't get to the polls easily.
+--------------------
+
+--- Message ---
+Message ID: 1299539645993844766
+Message Type: Default
+Reply to: None
+Timestamp: 2024-10-26T01:06:35.884+00:00
+Author: Erica Ramos [CA] [Call Mod] (sdgc_76906)
+Author Id: 1206655433905930251
+Avatar URL: assets\d89cc8ea1b8dc7f778a48cfb80348315-7B1A6.png
+Content: Are you still on the call with him?
+--------------------
+
+--- Message ---
+Message ID: 1299539929855950858
+Message Type: Default
+Reply to: None
+Timestamp: 2024-10-26T01:07:43.562+00:00
+Author: Jamie Scribner [CT] (js067853)
+Author Id: 1288669079942463619
+Avatar URL: assets\2-ADBB4.png
+Content: no but i have his info still up. he was older and wasn't able to write down mail in ballot info
+--------------------
+
+--- Message ---
+Message ID: 1299540070864519218
+Message Type: Default
+Reply to: None
+Timestamp: 2024-10-26T01:08:17.181+00:00
+Author: Erica Ramos [CA] [Call Mod] (sdgc_76906)
+Author Id: 1206655433905930251
+Avatar URL: assets\d89cc8ea1b8dc7f778a48cfb80348315-7B1A6.png
+Content: We can't reach out to anyone directly. The best thing to do is to give them the WI voter hotline number at 608-336-3232
+--------------------
+
+--- Message ---
+Message ID: 1299540233041219625
+Message Type: Default
+Reply to: None
+Timestamp: 2024-10-26T01:08:55.847+00:00
+Author: Jamie Scribner [CT] (js067853)
+Author Id: 1288669079942463619
+Avatar URL: assets\2-ADBB4.png
+Content: Ah ok.  He wasn't able to take down the number. Hope he's able to vote. I told him to make sure his daughter knew to get him a new ballot if needed.
+--------------------
+
+--- Message ---
+Message ID: 1299540458703294476
+Message Type: Default
+Reply to: None
+Timestamp: 2024-10-26T01:09:49.649+00:00
+Author: Erica Ramos [CA] [Call Mod] (sdgc_76906)
+Author Id: 1206655433905930251
+Avatar URL: assets\d89cc8ea1b8dc7f778a48cfb80348315-7B1A6.png
+Content: That's great! They're publicizing the number and hopefully she can find the WI tracker info too. Great suggestion.
+--------------------

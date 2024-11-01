@@ -1,0 +1,27 @@
+Guild: Team Harris-Walz Virtual Office (ID: 1242249109298221066)
+Channel: To pick up on my exchange with Branton (ID: 1276298526678057014)
+Channel Topic: None
+Exported At: 2024-10-29T00:09:56.5704507+00:00
+
+
+--- Message ---
+Message ID: 1276313969258139772
+Message Type: 21
+Reply to: 1276298526678057014
+Timestamp: 2024-08-22T22:56:03.038+00:00
+Author: Nicole Morris - Text Admin (nmorris237)
+Author Id: 935762347753103382
+Avatar URL: assets\27b1e286b65ae02b3378793b5f098411-A7B20.png
+Content: 
+--------------------
+
+--- Message ---
+Message ID: 1276313971028394065
+Message Type: Default
+Reply to: None
+Timestamp: 2024-08-22T22:56:03.46+00:00
+Author: Nicole Morris - Text Admin (nmorris237)
+Author Id: 935762347753103382
+Avatar URL: assets\27b1e286b65ae02b3378793b5f098411-A7B20.png
+Content: Hi <@1272416530390585447> Apologies, I don't have that exact information. But if you already did the training yesterday, no need to do the training again -- you can start texting with us once we get you added to the channels in the next ~24 hours.
+--------------------

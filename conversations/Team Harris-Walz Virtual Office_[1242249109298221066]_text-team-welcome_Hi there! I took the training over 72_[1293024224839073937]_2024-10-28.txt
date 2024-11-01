@@ -1,0 +1,27 @@
+Guild: Team Harris-Walz Virtual Office (ID: 1242249109298221066)
+Channel: Hi there! I took the training over 72 (ID: 1293024224839073937)
+Channel Topic: None
+Exported At: 2024-10-28T22:50:04.0426029+00:00
+
+
+--- Message ---
+Message ID: 1293024613789597787
+Message Type: 21
+Reply to: 1293024224839073937
+Timestamp: 2024-10-08T01:38:11.163+00:00
+Author: Roberta Bavin CA KC Greeter/Mod (roberta_24935)
+Author Id: 1269872908759597148
+Avatar URL: assets\df6d19d97b04a49ffcafbe7be14c7839-D9CE4.png
+Content: 
+--------------------
+
+--- Message ---
+Message ID: 1293024616469631020
+Message Type: Default
+Reply to: None
+Timestamp: 2024-10-08T01:38:11.802+00:00
+Author: Roberta Bavin CA KC Greeter/Mod (roberta_24935)
+Author Id: 1269872908759597148
+Avatar URL: assets\df6d19d97b04a49ffcafbe7be14c7839-D9CE4.png
+Content: Hi <@1275554237870247947> Thanks for reaching out. Please look for a DM from me in a few minutes. Thanks!
+--------------------

@@ -1,0 +1,38 @@
+Guild: Team Harris-Walz Virtual Office (ID: 1242249109298221066)
+Channel: Discord voice messages? (ID: 1273652155508723762)
+Channel Topic: None
+Exported At: 2024-10-24T07:01:38.0574459+00:00
+
+
+--- Message ---
+Message ID: 1273652155508723762
+Message Type: Default
+Reply to: None
+Timestamp: 2024-08-15T14:38:57.186+00:00
+Author: Roxanne Hawn [CO] (roxannehawn_co)
+Author Id: 1269422782182195340
+Avatar URL: assets\e3ca4980e3926ec765205a72069091cf-DD92A.png
+Content: I keep seeing this alert that I have a voicemail-like message, but when I click on it ... nothing happens? When I go to my DMs, I also don't see anything there.
+--------------------
+
+--- Message ---
+Message ID: 1273673146700140554
+Message Type: Default
+Reply to: None
+Timestamp: 2024-08-15T16:02:21.876+00:00
+Author: Mlep [TX] • Lead Mod (growth)
+Author Id: 276010165549924353
+Avatar URL: assets\8db27bf35eb7f0b046b8bf1514edce01-02FA5.png
+Content: Seconding this: I can see James sitting in a voice channel without the channel/category listing.  This looks like it might be a bug, but might be fixable depending on how the server's hidden voice channels permissions are set up.
+--------------------
+
+--- Message ---
+Message ID: 1273677119674912850
+Message Type: Default
+Reply to: None
+Timestamp: 2024-08-15T16:18:09.107+00:00
+Author: Carolyn B [CA] • Lead Mod (carb.on)
+Author Id: 568257600228032512
+Avatar URL: assets\28a90c77b5793d80eb62484a43c66748-D8837.png
+Content: Please Ignore it. It's a staff member doing something, not a bug.
+--------------------

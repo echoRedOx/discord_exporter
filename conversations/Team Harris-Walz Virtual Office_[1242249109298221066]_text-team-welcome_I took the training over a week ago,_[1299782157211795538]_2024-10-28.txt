@@ -1,0 +1,82 @@
+Guild: Team Harris-Walz Virtual Office (ID: 1242249109298221066)
+Channel: I took the training over a week ago, (ID: 1299782157211795538)
+Channel Topic: None
+Exported At: 2024-10-28T22:09:18.3871244+00:00
+
+
+--- Message ---
+Message ID: 1299786628637659187
+Message Type: 21
+Reply to: 1299782157211795538
+Timestamp: 2024-10-26T17:28:01.135+00:00
+Author: Roberta Bavin CA KC Greeter/Mod (roberta_24935)
+Author Id: 1269872908759597148
+Avatar URL: assets\df6d19d97b04a49ffcafbe7be14c7839-D9CE4.png
+Content: 
+--------------------
+
+--- Message ---
+Message ID: 1299786634002432103
+Message Type: Default
+Reply to: None
+Timestamp: 2024-10-26T17:28:02.414+00:00
+Author: Roberta Bavin CA KC Greeter/Mod (roberta_24935)
+Author Id: 1269872908759597148
+Avatar URL: assets\df6d19d97b04a49ffcafbe7be14c7839-D9CE4.png
+Content: Hi <@1296272037714858044> Thanks for reaching out. Please look for a DM from me in a few minutes. Thanks!
+--------------------
+
+--- Message ---
+Message ID: 1299803699627167837
+Message Type: Default
+Reply to: None
+Timestamp: 2024-10-26T18:35:51.176+00:00
+Author: Donna Malfara Ohio (donna06414)
+Author Id: 1296272037714858044
+Avatar URL: assets\1628fc11e7961d85181295493426b775-95E04.png
+Content: I hate to be dense, but I’m not familiar with Discord. I click on the message icon (top left, above picture of Kamala), but maybe that’s not how to check DMs
+--------------------
+
+--- Message ---
+Message ID: 1299804076028067861
+Message Type: Default
+Reply to: None
+Timestamp: 2024-10-26T18:37:20.917+00:00
+Author: Lori Ingals (lori073779)
+Author Id: 1298053931712385108
+Avatar URL: assets\6c5996770c985bcd6e5b68131ff2ba04-ABAD1.png
+Content: inbox is next to the green ?
+--------------------
+
+--- Message ---
+Message ID: 1299805672019464264
+Message Type: Default
+Reply to: None
+Timestamp: 2024-10-26T18:43:41.431+00:00
+Author: Donna Malfara Ohio (donna06414)
+Author Id: 1296272037714858044
+Avatar URL: assets\1628fc11e7961d85181295493426b775-95E04.png
+Content: I’m on an iPhone. Maybe it looks different. Only green I see is a plus sign and a symbol for something like an org chart
+--------------------
+
+--- Message ---
+Message ID: 1299961453381681193
+Message Type: Reply
+Reply to: 1299805672019464264
+Timestamp: 2024-10-27T05:02:42.602+00:00
+Author: Roberta Bavin CA KC Greeter/Mod (roberta_24935)
+Author Id: 1269872908759597148
+Avatar URL: assets\df6d19d97b04a49ffcafbe7be14c7839-D9CE4.png
+Content: Can you check it on a computer, please? You won't be able to text on the phone, so it's best to have everything set up on a computer. Thanks for being here!
+--------------------
+
+--- Message ---
+Message ID: 1300466317241090096
+Message Type: Default
+Reply to: None
+Timestamp: 2024-10-28T14:28:51.526+00:00
+Author: Donna Malfara Ohio (donna06414)
+Author Id: 1296272037714858044
+Avatar URL: assets\1628fc11e7961d85181295493426b775-95E04.png
+Content: I don’t have access to a desktop. I guess I’ll look for volunteer opportunities elsewhere.
+--------------------

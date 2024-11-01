@@ -1,0 +1,27 @@
+- author_avatar_url: assets\19838db602948fa14c3fa90a94996f8c-8CE56.png
+  author_id: '946953677611077642'
+  author_name: perry.p
+  author_nickname: Branton J. [GA] Text Mod
+  content: ''
+  id: '1277683010250080319'
+  ref_to: '1277680197683904513'
+  timestamp: '2024-08-26T17:36:07.846+00:00'
+  type: '21'
+- author_avatar_url: assets\19838db602948fa14c3fa90a94996f8c-8CE56.png
+  author_id: '946953677611077642'
+  author_name: perry.p
+  author_nickname: Branton J. [GA] Text Mod
+  content: I will send you a DM!
+  id: '1277683011822948523'
+  ref_to: null
+  timestamp: '2024-08-26T17:36:08.221+00:00'
+  type: Default
+- author_avatar_url: assets\19838db602948fa14c3fa90a94996f8c-8CE56.png
+  author_id: '946953677611077642'
+  author_name: perry.p
+  author_nickname: Branton J. [GA] Text Mod
+  content: <@1261376040945582183> please check your DM
+  id: '1277683426484424705'
+  ref_to: null
+  timestamp: '2024-08-26T17:37:47.084+00:00'
+  type: Default

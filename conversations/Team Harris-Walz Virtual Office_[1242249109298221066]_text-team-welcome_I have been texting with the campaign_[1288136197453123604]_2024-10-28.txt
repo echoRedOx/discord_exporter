@@ -1,0 +1,71 @@
+Guild: Team Harris-Walz Virtual Office (ID: 1242249109298221066)
+Channel: I have been texting with the campaign (ID: 1288136197453123604)
+Channel Topic: None
+Exported At: 2024-10-28T23:02:28.9850593+00:00
+
+
+--- Message ---
+Message ID: 1288152462703722598
+Message Type: 21
+Reply to: 1288136197453123604
+Timestamp: 2024-09-24T14:57:59.824+00:00
+Author: Nicole Morris - Text Admin (nmorris237)
+Author Id: 935762347753103382
+Avatar URL: assets\27b1e286b65ae02b3378793b5f098411-A7B20.png
+Content: 
+--------------------
+
+--- Message ---
+Message ID: 1288152476511371265
+Message Type: Default
+Reply to: None
+Timestamp: 2024-09-24T14:58:03.116+00:00
+Author: Nicole Morris - Text Admin (nmorris237)
+Author Id: 935762347753103382
+Avatar URL: assets\27b1e286b65ae02b3378793b5f098411-A7B20.png
+Content: Hi <@1268363091620663397> Thanks! I can send you a Direct Message on this
+--------------------
+
+--- Message ---
+Message ID: 1288194075744407645
+Message Type: Default
+Reply to: None
+Timestamp: 2024-09-24T17:43:21.146+00:00
+Author: Helen Fairbrother[NJ] [Call Mod] (helen_fair)
+Author Id: 1277403351667048508
+Avatar URL: assets\ffcbaca1edffb25ac530087181864d5a-E82C5.png
+Content: <@935762347753103382> Hi Nicole.  <@1277032782434144369> asked a similar question in the call-teams channel.  How do I connect you?
+--------------------
+
+--- Message ---
+Message ID: 1288338591856201739
+Message Type: Default
+Reply to: None
+Timestamp: 2024-09-25T03:17:36.472+00:00
+Author: Nicole Morris - Text Admin (nmorris237)
+Author Id: 935762347753103382
+Avatar URL: assets\27b1e286b65ae02b3378793b5f098411-A7B20.png
+Content: Hi <@1277403351667048508> Thanks! <@1277032782434144369> I can send you a Direct Message now. Let me know if you don't see it
+--------------------
+
+--- Message ---
+Message ID: 1288554735854555180
+Message Type: Reply
+Reply to: 1288338591856201739
+Timestamp: 2024-09-25T17:36:29.217+00:00
+Author: Helen Fairbrother[NJ] [Call Mod] (helen_fair)
+Author Id: 1277403351667048508
+Avatar URL: assets\ffcbaca1edffb25ac530087181864d5a-E82C5.png
+Content: Hi Nicole-- via the all-mods channel, I was able to get Jack Joannides, who was on for text Tech to help Larry, .  I don't have access to most of the text channels since I just do call mod, but I could get into text-team-welcome and found what looked like a similar issue.  Thanks!
+--------------------
+
+--- Message ---
+Message ID: 1288631023789146113
+Message Type: Default
+Reply to: None
+Timestamp: 2024-09-25T22:39:37.678+00:00
+Author: Nicole Morris - Text Admin (nmorris237)
+Author Id: 935762347753103382
+Avatar URL: assets\27b1e286b65ae02b3378793b5f098411-A7B20.png
+Content: No worries - I chatted Larry, all set!
+--------------------

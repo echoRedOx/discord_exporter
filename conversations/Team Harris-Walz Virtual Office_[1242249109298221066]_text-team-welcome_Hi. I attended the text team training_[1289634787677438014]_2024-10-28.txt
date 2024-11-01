@@ -1,0 +1,82 @@
+Guild: Team Harris-Walz Virtual Office (ID: 1242249109298221066)
+Channel: Hi. I attended the text team training (ID: 1289634787677438014)
+Channel Topic: None
+Exported At: 2024-10-28T23:00:18.0445314+00:00
+
+
+--- Message ---
+Message ID: 1289635147863556149
+Message Type: 21
+Reply to: 1289634787677438014
+Timestamp: 2024-09-28T17:09:39.513+00:00
+Author: Jack Joannides KC text admin (jjoannid)
+Author Id: 477560366432256000
+Avatar URL: assets\791c521e62160be1f3df04992f6e5470-36A38.png
+Content: 
+--------------------
+
+--- Message ---
+Message ID: 1289635149285167218
+Message Type: Default
+Reply to: None
+Timestamp: 2024-09-28T17:09:39.852+00:00
+Author: Jack Joannides KC text admin (jjoannid)
+Author Id: 477560366432256000
+Avatar URL: assets\791c521e62160be1f3df04992f6e5470-36A38.png
+Content: What's your name. You have to add it to your display name?
+--------------------
+
+--- Message ---
+Message ID: 1289635238754123888
+Message Type: Default
+Reply to: None
+Timestamp: 2024-09-28T17:10:01.183+00:00
+Author: glofried (glofried)
+Author Id: 1285753848488529984
+Avatar URL: assets\1-B2132.png
+Content: Gloria Friedman
+--------------------
+
+--- Message ---
+Message ID: 1289635375307952139
+Message Type: Default
+Reply to: None
+Timestamp: 2024-09-28T17:10:33.74+00:00
+Author: glofried (glofried)
+Author Id: 1285753848488529984
+Avatar URL: assets\1-B2132.png
+Content: it's asking me for the organization and the URL address for the organization
+--------------------
+
+--- Message ---
+Message ID: 1289636398667665510
+Message Type: Default
+Reply to: None
+Timestamp: 2024-09-28T17:14:37.728+00:00
+Author: glofried (glofried)
+Author Id: 1285753848488529984
+Avatar URL: assets\1-B2132.png
+Content: Will you be getting back to me soon or should I contact you later?
+--------------------
+
+--- Message ---
+Message ID: 1289636514426257408
+Message Type: Default
+Reply to: None
+Timestamp: 2024-09-28T17:15:05.327+00:00
+Author: Jack Joannides KC text admin (jjoannid)
+Author Id: 477560366432256000
+Avatar URL: assets\791c521e62160be1f3df04992f6e5470-36A38.png
+Content: Will try soon.
+--------------------
+
+--- Message ---
+Message ID: 1289636689265819672
+Message Type: Default
+Reply to: None
+Timestamp: 2024-09-28T17:15:47.012+00:00
+Author: glofried (glofried)
+Author Id: 1285753848488529984
+Avatar URL: assets\1-B2132.png
+Content: ok i'll contact you again later.
+--------------------

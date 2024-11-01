@@ -1,0 +1,49 @@
+Guild: Team Harris-Walz Virtual Office (ID: 1242249109298221066)
+Channel: I saw an announcement that said there (ID: 1288262309965205606)
+Channel Topic: None
+Exported At: 2024-10-28T23:04:24.2528172+00:00
+
+
+--- Message ---
+Message ID: 1288262754653966346
+Message Type: 21
+Reply to: 1288262309965205606
+Timestamp: 2024-09-24T22:16:15.474+00:00
+Author: Roberta Bavin CA KC Greeter/Mod (roberta_24935)
+Author Id: 1269872908759597148
+Avatar URL: assets\df6d19d97b04a49ffcafbe7be14c7839-D9CE4.png
+Content: 
+--------------------
+
+--- Message ---
+Message ID: 1288262756365242398
+Message Type: Default
+Reply to: None
+Timestamp: 2024-09-24T22:16:15.882+00:00
+Author: Roberta Bavin CA KC Greeter/Mod (roberta_24935)
+Author Id: 1269872908759597148
+Avatar URL: assets\df6d19d97b04a49ffcafbe7be14c7839-D9CE4.png
+Content: Hi Sue! Thanks for reaching out! You can look in the announcements channel to see when texting will happen, then look at texting campaigns to click on the links for the actual texting. Thanks for being here!
+--------------------
+
+--- Message ---
+Message ID: 1288263070363418654
+Message Type: Default
+Reply to: None
+Timestamp: 2024-09-24T22:17:30.745+00:00
+Author: Sue Cunningham (AZ) (suecunningham_85653)
+Author Id: 1283907649876000849
+Avatar URL: assets\a2233d6fe7fac3e8fec3c396eddf6254-A3DDB.png
+Content: I have done both, and 11:30 am ET has come and gone.  There have been no further links in texting campaigns.
+--------------------
+
+--- Message ---
+Message ID: 1288264987583975465
+Message Type: Reply
+Reply to: 1288263070363418654
+Timestamp: 2024-09-24T22:25:07.846+00:00
+Author: Roberta Bavin CA KC Greeter/Mod (roberta_24935)
+Author Id: 1269872908759597148
+Avatar URL: assets\df6d19d97b04a49ffcafbe7be14c7839-D9CE4.png
+Content: Sometimes they post campaigns randomly, so please keep an eye on the channel. Thanks so much for being here!
+--------------------

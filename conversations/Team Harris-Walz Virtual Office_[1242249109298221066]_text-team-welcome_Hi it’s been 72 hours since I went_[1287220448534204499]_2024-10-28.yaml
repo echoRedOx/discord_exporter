@@ -1,0 +1,65 @@
+- author_avatar_url: assets\27b1e286b65ae02b3378793b5f098411-A7B20.png
+  author_id: '935762347753103382'
+  author_name: nmorris237
+  author_nickname: Nicole Morris - Text Admin
+  content: ''
+  id: '1287228342332030987'
+  ref_to: '1287220448534204499'
+  timestamp: '2024-09-22T01:45:52.358+00:00'
+  type: '21'
+- author_avatar_url: assets\27b1e286b65ae02b3378793b5f098411-A7B20.png
+  author_id: '935762347753103382'
+  author_name: nmorris237
+  author_nickname: Nicole Morris - Text Admin
+  content: Hi <@1274405087552340064> Thanks! It looks like Roberta sent you a Direct
+    Message (DM) on Discord. Let me know if you don't see it.
+  id: '1287228344965926952'
+  ref_to: null
+  timestamp: '2024-09-22T01:45:52.986+00:00'
+  type: Default
+- author_avatar_url: assets\3e3006e2efc389ecb02afffb5771753f-255C5.png
+  author_id: '1274405087552340064'
+  author_name: glennes18
+  author_nickname: Glenn Seidman NYS
+  content: "Hi Nicole I don\u2019t see it where would it be?"
+  id: '1287239111849017416'
+  ref_to: null
+  timestamp: '2024-09-22T02:28:40.011+00:00'
+  type: Default
+- author_avatar_url: assets\27b1e286b65ae02b3378793b5f098411-A7B20.png
+  author_id: '935762347753103382'
+  author_name: nmorris237
+  author_nickname: Nicole Morris - Text Admin
+  content: <@1274405087552340064> No worries! Are you on your computer or a phone/tablet?
+  id: '1287245295633043489'
+  ref_to: null
+  timestamp: '2024-09-22T02:53:14.34+00:00'
+  type: Default
+- author_avatar_url: assets\3e3006e2efc389ecb02afffb5771753f-255C5.png
+  author_id: '1274405087552340064'
+  author_name: glennes18
+  author_nickname: Glenn Seidman NYS
+  content: Phone
+  id: '1287245562290114630'
+  ref_to: null
+  timestamp: '2024-09-22T02:54:17.916+00:00'
+  type: Default
+- author_avatar_url: assets\27b1e286b65ae02b3378793b5f098411-A7B20.png
+  author_id: '935762347753103382'
+  author_name: nmorris237
+  author_nickname: Nicole Morris - Text Admin
+  content: "Ok! On the top left - they\u2019ll be a purple speech bubble icon"
+  id: '1287247306642559147'
+  ref_to: null
+  timestamp: '2024-09-22T03:01:13.802+00:00'
+  type: Default
+- author_avatar_url: assets\27b1e286b65ae02b3378793b5f098411-A7B20.png
+  author_id: '935762347753103382'
+  author_name: nmorris237
+  author_nickname: Nicole Morris - Text Admin
+  content: "Click on that - and then it may be hidden in a small \u201C1\u201D envelope\
+    \ icon"
+  id: '1287247356470755373'
+  ref_to: null
+  timestamp: '2024-09-22T03:01:25.682+00:00'
+  type: Default

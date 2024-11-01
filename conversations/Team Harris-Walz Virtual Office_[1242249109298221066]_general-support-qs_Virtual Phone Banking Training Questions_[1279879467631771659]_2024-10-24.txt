@@ -1,0 +1,49 @@
+Guild: Team Harris-Walz Virtual Office (ID: 1242249109298221066)
+Channel: Virtual Phone Banking Training Questions (ID: 1279879467631771659)
+Channel Topic: None
+Exported At: 2024-10-24T06:48:05.5909548+00:00
+
+
+--- Message ---
+Message ID: 1279879467631771659
+Message Type: Default
+Reply to: None
+Timestamp: 2024-09-01T19:04:04.094+00:00
+Author: Jude P. (jude_97786)
+Author Id: 814158971803926568
+Avatar URL: assets\0-EB806.png
+Content: Hi everyone! My name is Jude and I'm thrilled to be here. I have my first virtual phone banking session this evening (yay!), which is supposed to provide brief training and a script during the meeting. Will this training/script include advice re: how to talk to potential voters about policies, if I'm asked? If a potential voter asks me a question I don't know how to answer, how do I respond? I trust the provided resources will be helpful, but I would like to be prepared so I can best support  this campaign! Thank you!
+--------------------
+
+--- Message ---
+Message ID: 1279880453729550452
+Message Type: Default
+Reply to: None
+Timestamp: 2024-09-01T19:07:59.198+00:00
+Author: Rehema McPherson [MOD] (MO) (rehemam)
+Author Id: 1235312132526964757
+Avatar URL: assets\510330ad94fd86249e31dba85285a294-E5F08.png
+Content: Hi <@814158971803926568> , there will be people to help you during the phonebank from the data captain to the chat captain, so if you need help with anything during the phone bank don't be afraid to ask them questions.
+--------------------
+
+--- Message ---
+Message ID: 1279880559207649443
+Message Type: Default
+Reply to: None
+Timestamp: 2024-09-01T19:08:24.346+00:00
+Author: Jude P. (jude_97786)
+Author Id: 814158971803926568
+Avatar URL: assets\0-EB806.png
+Content: Great, thank you!
+--------------------
+
+--- Message ---
+Message ID: 1279880605768614011
+Message Type: Default
+Reply to: None
+Timestamp: 2024-09-01T19:08:35.447+00:00
+Author: Rehema McPherson [MOD] (MO) (rehemam)
+Author Id: 1235312132526964757
+Avatar URL: assets\510330ad94fd86249e31dba85285a294-E5F08.png
+Content: No problem!
+--------------------

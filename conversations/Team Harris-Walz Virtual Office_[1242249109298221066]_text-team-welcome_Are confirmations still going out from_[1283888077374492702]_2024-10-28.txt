@@ -1,0 +1,27 @@
+Guild: Team Harris-Walz Virtual Office (ID: 1242249109298221066)
+Channel: Are confirmations still going out from (ID: 1283888077374492702)
+Channel Topic: None
+Exported At: 2024-10-28T23:27:03.487005+00:00
+
+
+--- Message ---
+Message ID: 1283893834069311529
+Message Type: 21
+Reply to: 1283888077374492702
+Timestamp: 2024-09-12T20:55:43.636+00:00
+Author: Jack Joannides KC text admin (jjoannid)
+Author Id: 477560366432256000
+Avatar URL: assets\791c521e62160be1f3df04992f6e5470-36A38.png
+Content: 
+--------------------
+
+--- Message ---
+Message ID: 1283893835306373183
+Message Type: Default
+Reply to: None
+Timestamp: 2024-09-12T20:55:43.931+00:00
+Author: Jack Joannides KC text admin (jjoannid)
+Author Id: 477560366432256000
+Avatar URL: assets\791c521e62160be1f3df04992f6e5470-36A38.png
+Content: We'll dm you in 24-72 hours.
+--------------------

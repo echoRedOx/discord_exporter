@@ -1,0 +1,76 @@
+- author_avatar_url: assets\f7ebcd4727f2b8e05b4382b1b1eb6d74-1D9FE.png
+  author_id: '1254144571089354868'
+  author_name: kcmpolitical
+  author_nickname: Kris Morrell (CA) - KC TextAdmin
+  content: ''
+  id: '1270778926515486841'
+  ref_to: '1270768979002261504'
+  timestamp: '2024-08-07T16:21:46.012+00:00'
+  type: '21'
+- author_avatar_url: assets\f7ebcd4727f2b8e05b4382b1b1eb6d74-1D9FE.png
+  author_id: '1254144571089354868'
+  author_name: kcmpolitical
+  author_nickname: Kris Morrell (CA) - KC TextAdmin
+  content: Just noting here that I sent a DM. Thanks all!
+  id: '1270778929111765084'
+  ref_to: null
+  timestamp: '2024-08-07T16:21:46.631+00:00'
+  type: Default
+- author_avatar_url: assets\f7ebcd4727f2b8e05b4382b1b1eb6d74-1D9FE.png
+  author_id: '1254144571089354868'
+  author_name: kcmpolitical
+  author_nickname: Kris Morrell (CA) - KC TextAdmin
+  content: Hi <@957714233217409174> - Can you DM with <@492419525099126806> to sort
+    out which group she is in? She took the data captain training last weekend, which
+    is different from the text team.
+  id: '1270780065034145913'
+  ref_to: null
+  timestamp: '2024-08-07T16:26:17.456+00:00'
+  type: Default
+- author_avatar_url: assets\8b706a86e5f9b8dcaaa950a7500b77b8-E1341.png
+  author_id: '957714233217409174'
+  author_name: opheliawild
+  author_nickname: "Ophelia W \u2022 Lead Mod"
+  content: On it, thank you!
+  id: '1270780441141448777'
+  ref_to: '1270780065034145913'
+  timestamp: '2024-08-07T16:27:47.127+00:00'
+  type: Reply
+- author_avatar_url: assets\5209d21a76ee6251bb52b9f3c85d7b2d-A8C42.png
+  author_id: '492419525099126806'
+  author_name: tlmic
+  author_nickname: Megan Marie Sullivan, Chicago IL
+  content: put me in, coach!
+  id: '1270780614081122487'
+  ref_to: null
+  timestamp: '2024-08-07T16:28:28.359+00:00'
+  type: Default
+- author_avatar_url: assets\8b706a86e5f9b8dcaaa950a7500b77b8-E1341.png
+  author_id: '957714233217409174'
+  author_name: opheliawild
+  author_nickname: "Ophelia W \u2022 Lead Mod"
+  content: Hi Megan, so you did data captain training? I'm going to find where you
+    need to go.
+  id: '1270781322297741373'
+  ref_to: null
+  timestamp: '2024-08-07T16:31:17.211+00:00'
+  type: Default
+- author_avatar_url: assets\5209d21a76ee6251bb52b9f3c85d7b2d-A8C42.png
+  author_id: '492419525099126806'
+  author_name: tlmic
+  author_nickname: Megan Marie Sullivan, Chicago IL
+  content: correct!
+  id: '1270782486787391520'
+  ref_to: null
+  timestamp: '2024-08-07T16:35:54.847+00:00'
+  type: Default
+- author_avatar_url: assets\8b706a86e5f9b8dcaaa950a7500b77b8-E1341.png
+  author_id: '957714233217409174'
+  author_name: opheliawild
+  author_nickname: "Ophelia W \u2022 Lead Mod"
+  content: See DMs. Closing thread. Let a mod know if further questions and thank
+    you for your hard work!
+  id: '1270788508365361165'
+  ref_to: null
+  timestamp: '2024-08-07T16:59:50.503+00:00'
+  type: Default

@@ -1,0 +1,84 @@
+- author_avatar_url: assets\df6d19d97b04a49ffcafbe7be14c7839-D9CE4.png
+  author_id: '1269872908759597148'
+  author_name: roberta_24935
+  author_nickname: Roberta Bavin CA KC Greeter/Mod
+  content: ''
+  id: '1288704222640214056'
+  ref_to: '1288702897097412663'
+  timestamp: '2024-09-26T03:30:29.644+00:00'
+  type: '21'
+- author_avatar_url: assets\df6d19d97b04a49ffcafbe7be14c7839-D9CE4.png
+  author_id: '1269872908759597148'
+  author_name: roberta_24935
+  author_nickname: Roberta Bavin CA KC Greeter/Mod
+  content: Hi there! Welcome! Please sign up for a training. https://events.democrats.org/event/672393/  <:thankyou:1252806147396735057>
+  id: '1288704224355553302'
+  ref_to: null
+  timestamp: '2024-09-26T03:30:30.053+00:00'
+  type: Default
+- author_avatar_url: assets\c77904d529d439bb07f5f80ab2d95609-B585A.png
+  author_id: '1072639754765615237'
+  author_name: purplehumaniod
+  author_nickname: Purple (Maryland)
+  content: Thank you
+  id: '1288704317540532234'
+  ref_to: null
+  timestamp: '2024-09-26T03:30:52.27+00:00'
+  type: Default
+- author_avatar_url: assets\c77904d529d439bb07f5f80ab2d95609-B585A.png
+  author_id: '1072639754765615237'
+  author_name: purplehumaniod
+  author_nickname: Purple (Maryland)
+  content: Sorry for coming off harsh, Maryland is getting bombarded with GOP super
+    PAC ads. I can't even go a few videos without getting one anymore
+  id: '1288704470250819604'
+  ref_to: null
+  timestamp: '2024-09-26T03:31:28.679+00:00'
+  type: Default
+- author_avatar_url: assets\c77904d529d439bb07f5f80ab2d95609-B585A.png
+  author_id: '1072639754765615237'
+  author_name: purplehumaniod
+  author_nickname: Purple (Maryland)
+  content: And I have to do something against that
+  id: '1288704503348068382'
+  ref_to: null
+  timestamp: '2024-09-26T03:31:36.57+00:00'
+  type: Default
+- author_avatar_url: assets\df6d19d97b04a49ffcafbe7be14c7839-D9CE4.png
+  author_id: '1269872908759597148'
+  author_name: roberta_24935
+  author_nickname: Roberta Bavin CA KC Greeter/Mod
+  content: We have a lot of work to do and we're glad to have you join us! Thanks
+    for being here!
+  id: '1288704648655536231'
+  ref_to: '1288704503348068382'
+  timestamp: '2024-09-26T03:32:11.214+00:00'
+  type: Reply
+- author_avatar_url: assets\c77904d529d439bb07f5f80ab2d95609-B585A.png
+  author_id: '1072639754765615237'
+  author_name: purplehumaniod
+  author_nickname: Purple (Maryland)
+  content: Is there a line that's only for the senate race in my state?
+  id: '1288704897419837511'
+  ref_to: null
+  timestamp: '2024-09-26T03:33:10.524+00:00'
+  type: Default
+- author_avatar_url: assets\df6d19d97b04a49ffcafbe7be14c7839-D9CE4.png
+  author_id: '1269872908759597148'
+  author_name: roberta_24935
+  author_nickname: Roberta Bavin CA KC Greeter/Mod
+  content: "You could check with the Dem office for your state. The work we do here\
+    \ is recruiting volunteers and inviting people to events. \U0001F30A"
+  id: '1288705166442237972'
+  ref_to: '1288704897419837511'
+  timestamp: '2024-09-26T03:34:14.664+00:00'
+  type: Reply
+- author_avatar_url: assets\c77904d529d439bb07f5f80ab2d95609-B585A.png
+  author_id: '1072639754765615237'
+  author_name: purplehumaniod
+  author_nickname: Purple (Maryland)
+  content: I will check that. Thak you
+  id: '1288705362903564288'
+  ref_to: null
+  timestamp: '2024-09-26T03:35:01.504+00:00'
+  type: Default

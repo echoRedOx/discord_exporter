@@ -1,0 +1,104 @@
+Guild: Team Harris-Walz Virtual Office (ID: 1242249109298221066)
+Channel: am  I allowed to start a thread? maybe (ID: 1277029766339493980)
+Channel Topic: None
+Exported At: 2024-10-29T00:07:55.256502+00:00
+
+
+--- Message ---
+Message ID: 1277029809645424731
+Message Type: 21
+Reply to: 1277029766339493980
+Timestamp: 2024-08-24T22:20:32.686+00:00
+Author: Kristen Rapp [NY] (kbrsuperstar)
+Author Id: 852586668212748388
+Avatar URL: assets\eabc988756bf7539f0f16df20d1ed16e-6863C.png
+Content: 
+--------------------
+
+--- Message ---
+Message ID: 1277029810555584543
+Message Type: Default
+Reply to: None
+Timestamp: 2024-08-24T22:20:32.903+00:00
+Author: Kristen Rapp [NY] (kbrsuperstar)
+Author Id: 852586668212748388
+Avatar URL: assets\eabc988756bf7539f0f16df20d1ed16e-6863C.png
+Content: haha yess
+--------------------
+
+--- Message ---
+Message ID: 1277029897683865695
+Message Type: Default
+Reply to: None
+Timestamp: 2024-08-24T22:20:53.676+00:00
+Author: Kristen Rapp [NY] (kbrsuperstar)
+Author Id: 852586668212748388
+Avatar URL: assets\eabc988756bf7539f0f16df20d1ed16e-6863C.png
+Content: <@274227833013010433> <@685372993202946048> HELLO HOW HAVE YOU BEEN
+--------------------
+
+--- Message ---
+Message ID: 1277030031167586376
+Message Type: Default
+Reply to: None
+Timestamp: 2024-08-24T22:21:25.501+00:00
+Author: Kristen Rapp [NY] (kbrsuperstar)
+Author Id: 852586668212748388
+Avatar URL: assets\eabc988756bf7539f0f16df20d1ed16e-6863C.png
+Content: I left the alumni  slack but I stil use the FB group we made
+--------------------
+
+--- Message ---
+Message ID: 1277030346910859359
+Message Type: Default
+Reply to: None
+Timestamp: 2024-08-24T22:22:40.78+00:00
+Author: Colleen Regan [MA] (colleen_regan)
+Author Id: 1266219928483135509
+Avatar URL: assets\a764b4581a4e958d914d8644791e18e5-E5B7A.png
+Content: Hi! I was a Warren texter and got to be a text leader for the last week or so of the campaign. It was so much fun and got me hooked on texting LFG!
+--------------------
+
+--- Message ---
+Message ID: 1277030968636604578
+Message Type: Default
+Reply to: None
+Timestamp: 2024-08-24T22:25:09.011+00:00
+Author: Kristen Rapp [NY] (kbrsuperstar)
+Author Id: 852586668212748388
+Avatar URL: assets\eabc988756bf7539f0f16df20d1ed16e-6863C.png
+Content: hi!!
+--------------------
+
+--- Message ---
+Message ID: 1277031133187412052
+Message Type: Default
+Reply to: None
+Timestamp: 2024-08-24T22:25:48.243+00:00
+Author: Colleen Regan [MA] (colleen_regan)
+Author Id: 1266219928483135509
+Avatar URL: assets\a764b4581a4e958d914d8644791e18e5-E5B7A.png
+Content: Hi Kristen!
+--------------------
+
+--- Message ---
+Message ID: 1277031498054373449
+Message Type: Default
+Reply to: None
+Timestamp: 2024-08-24T22:27:15.234+00:00
+Author: Kristen Rapp [NY] (kbrsuperstar)
+Author Id: 852586668212748388
+Avatar URL: assets\eabc988756bf7539f0f16df20d1ed16e-6863C.png
+Content: Hi colleen, I am pretty sure I remember you/ your name!
+--------------------
+
+--- Message ---
+Message ID: 1277032342849978429
+Message Type: Default
+Reply to: None
+Timestamp: 2024-08-24T22:30:36.649+00:00
+Author: Colleen Regan [MA] (colleen_regan)
+Author Id: 1266219928483135509
+Avatar URL: assets\a764b4581a4e958d914d8644791e18e5-E5B7A.png
+Content: I remember you too! Such a good group of folks!
+--------------------

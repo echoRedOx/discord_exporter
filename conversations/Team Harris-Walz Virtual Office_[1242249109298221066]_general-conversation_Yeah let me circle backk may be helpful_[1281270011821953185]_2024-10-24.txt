@@ -1,0 +1,192 @@
+Guild: Team Harris-Walz Virtual Office (ID: 1242249109298221066)
+Channel: Yeah let me circle backk may be helpful (ID: 1281270011821953185)
+Channel Topic: None
+Exported At: 2024-10-24T06:19:09.6348965+00:00
+
+
+--- Message ---
+Message ID: 1281270448432091146
+Message Type: 21
+Reply to: 1281270011821953185
+Timestamp: 2024-09-05T15:11:19.76+00:00
+Author: Michele Van Buren CA (mlvanburen)
+Author Id: 1267547424814272626
+Avatar URL: assets\2c19bb0700746090ef08c5944a22c96d-D2162.png
+Content: 
+--------------------
+
+--- Message ---
+Message ID: 1281270450294624276
+Message Type: Default
+Reply to: None
+Timestamp: 2024-09-05T15:11:20.204+00:00
+Author: Michele Van Buren CA (mlvanburen)
+Author Id: 1267547424814272626
+Avatar URL: assets\2c19bb0700746090ef08c5944a22c96d-D2162.png
+Content: It has all of the markings of an official campaign email. References ActBlue to donations, correct logo, etc.
+--------------------
+
+--- Message ---
+Message ID: 1281270554787184712
+Message Type: Default
+Reply to: None
+Timestamp: 2024-09-05T15:11:45.117+00:00
+Author: Tai (PA) [Mod/Kamala's Captain] (shesepuede)
+Author Id: 957309531308822639
+Avatar URL: assets\455d163d4abd434dfbbea9e687c97e27-74EF4.png
+Content: Right.
+--------------------
+
+--- Message ---
+Message ID: 1281270588274512044
+Message Type: Default
+Reply to: None
+Timestamp: 2024-09-05T15:11:53.101+00:00
+Author: Tai (PA) [Mod/Kamala's Captain] (shesepuede)
+Author Id: 957309531308822639
+Avatar URL: assets\455d163d4abd434dfbbea9e687c97e27-74EF4.png
+Content: But the message was the suspicious part.
+--------------------
+
+--- Message ---
+Message ID: 1281270620247818384
+Message Type: Default
+Reply to: None
+Timestamp: 2024-09-05T15:12:00.724+00:00
+Author: Tai (PA) [Mod/Kamala's Captain] (shesepuede)
+Author Id: 957309531308822639
+Avatar URL: assets\455d163d4abd434dfbbea9e687c97e27-74EF4.png
+Content: Totally agreed. Glad you flagged!
+--------------------
+
+--- Message ---
+Message ID: 1281270644469796865
+Message Type: Default
+Reply to: None
+Timestamp: 2024-09-05T15:12:06.499+00:00
+Author: Tai (PA) [Mod/Kamala's Captain] (shesepuede)
+Author Id: 957309531308822639
+Avatar URL: assets\455d163d4abd434dfbbea9e687c97e27-74EF4.png
+Content: I was like... what?!
+--------------------
+
+--- Message ---
+Message ID: 1281270672047214656
+Message Type: Default
+Reply to: None
+Timestamp: 2024-09-05T15:12:13.074+00:00
+Author: Tai (PA) [Mod/Kamala's Captain] (shesepuede)
+Author Id: 957309531308822639
+Avatar URL: assets\455d163d4abd434dfbbea9e687c97e27-74EF4.png
+Content: On it!
+--------------------
+
+--- Message ---
+Message ID: 1281270710660108369
+Message Type: Default
+Reply to: None
+Timestamp: 2024-09-05T15:12:22.28+00:00
+Author: Tai (PA) [Mod/Kamala's Captain] (shesepuede)
+Author Id: 957309531308822639
+Avatar URL: assets\455d163d4abd434dfbbea9e687c97e27-74EF4.png
+Content: Since I was wanting an answer too!
+--------------------
+
+--- Message ---
+Message ID: 1281273932607131748
+Message Type: Default
+Reply to: None
+Timestamp: 2024-09-05T15:25:10.452+00:00
+Author: Tai (PA) [Mod/Kamala's Captain] (shesepuede)
+Author Id: 957309531308822639
+Avatar URL: assets\455d163d4abd434dfbbea9e687c97e27-74EF4.png
+Content: Staff is on it <@1267547424814272626>!
+--------------------
+
+--- Message ---
+Message ID: 1281273972574654566
+Message Type: Default
+Reply to: None
+Timestamp: 2024-09-05T15:25:19.981+00:00
+Author: Tai (PA) [Mod/Kamala's Captain] (shesepuede)
+Author Id: 957309531308822639
+Avatar URL: assets\455d163d4abd434dfbbea9e687c97e27-74EF4.png
+Content: Thanks again for flagging! I would like answers too.
+--------------------
+
+--- Message ---
+Message ID: 1281274076496789715
+Message Type: Reply
+Reply to: 1281273972574654566
+Timestamp: 2024-09-05T15:25:44.758+00:00
+Author: Michele Van Buren CA (mlvanburen)
+Author Id: 1267547424814272626
+Avatar URL: assets\2c19bb0700746090ef08c5944a22c96d-D2162.png
+Content: Should I forward the email to someone on Staff?
+--------------------
+
+--- Message ---
+Message ID: 1281274385969184768
+Message Type: Default
+Reply to: None
+Timestamp: 2024-09-05T15:26:58.542+00:00
+Author: Tai (PA) [Mod/Kamala's Captain] (shesepuede)
+Author Id: 957309531308822639
+Avatar URL: assets\455d163d4abd434dfbbea9e687c97e27-74EF4.png
+Content: Nope! But thanks for the offer! If they want it I can circle back!
+--------------------
+
+--- Message ---
+Message ID: 1281281273545101312
+Message Type: Default
+Reply to: None
+Timestamp: 2024-09-05T15:54:20.668+00:00
+Author: Jamie Joeyen-Waldorf (New York) (.pizzamonster555)
+Author Id: 463218697499181056
+Avatar URL: assets\8ba3564717ef3771da8c004ea12ceffb-0FC5F.png
+Content: Following for updates as I absolutely did everything the email said without questioning it 😂
+--------------------
+
+--- Message ---
+Message ID: 1281281521742778408
+Message Type: Default
+Reply to: None
+Timestamp: 2024-09-05T15:55:19.843+00:00
+Author: Tai (PA) [Mod/Kamala's Captain] (shesepuede)
+Author Id: 957309531308822639
+Avatar URL: assets\455d163d4abd434dfbbea9e687c97e27-74EF4.png
+Content: Still looking into it at hq
+--------------------
+
+--- Message ---
+Message ID: 1281281587631231018
+Message Type: Default
+Reply to: None
+Timestamp: 2024-09-05T15:55:35.552+00:00
+Author: Tai (PA) [Mod/Kamala's Captain] (shesepuede)
+Author Id: 957309531308822639
+Avatar URL: assets\455d163d4abd434dfbbea9e687c97e27-74EF4.png
+Content: will let you know if we have any
+--------------------
+
+--- Message ---
+Message ID: 1281283649114869873
+Message Type: Reply
+Reply to: 1281274385969184768
+Timestamp: 2024-09-05T16:03:47.048+00:00
+Author: Tai (PA) [Mod/Kamala's Captain] (shesepuede)
+Author Id: 957309531308822639
+Avatar URL: assets\455d163d4abd434dfbbea9e687c97e27-74EF4.png
+Content: Pretty sure HQ has the emails 🙂
+--------------------
+
+--- Message ---
+Message ID: 1281284466366484533
+Message Type: Reply
+Reply to: 1281281273545101312
+Timestamp: 2024-09-05T16:07:01.896+00:00
+Author: Tai (PA) [Mod/Kamala's Captain] (shesepuede)
+Author Id: 957309531308822639
+Avatar URL: assets\455d163d4abd434dfbbea9e687c97e27-74EF4.png
+Content: Yeah seemed legit but some of the wording made it suspicious
+--------------------

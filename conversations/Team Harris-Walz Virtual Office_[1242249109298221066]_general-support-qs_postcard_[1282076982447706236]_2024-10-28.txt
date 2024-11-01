@@ -1,0 +1,38 @@
+Guild: Team Harris-Walz Virtual Office (ID: 1242249109298221066)
+Channel: postcard (ID: 1282076982447706236)
+Channel Topic: None
+Exported At: 2024-10-28T20:08:07.8731782+00:00
+
+
+--- Message ---
+Message ID: 1282076982447706236
+Message Type: Default
+Reply to: None
+Timestamp: 2024-09-07T20:36:12.454+00:00
+Author: Tricia (mslaughalot)
+Author Id: 258679445802582017
+Avatar URL: assets\75f9a2f974ef96740cb3dc49195a2fb0-6FB65.png
+Content: I want to do postcard I am wheel chair bound and it would easiest for me to do.thanks a lot.
+--------------------
+
+--- Message ---
+Message ID: 1282077240179425331
+Message Type: Default
+Reply to: None
+Timestamp: 2024-09-07T20:37:13.902+00:00
+Author: Tricia (mslaughalot)
+Author Id: 258679445802582017
+Avatar URL: assets\75f9a2f974ef96740cb3dc49195a2fb0-6FB65.png
+Content: Also I don't know how to get in contact with local office.
+--------------------
+
+--- Message ---
+Message ID: 1282078575008153692
+Message Type: Default
+Reply to: None
+Timestamp: 2024-09-07T20:42:32.15+00:00
+Author: Carolyn B [CA] • Lead Mod (carb.on)
+Author Id: 568257600228032512
+Avatar URL: assets\28a90c77b5793d80eb62484a43c66748-D8837.png
+Content: Hi <@258679445802582017>this would be a great question to ask in https://discord.com/channels/1242249109298221066/1268379256610881629 or you might find it on wvdemocrats dot com
+--------------------

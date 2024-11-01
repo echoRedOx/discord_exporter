@@ -1,0 +1,27 @@
+Guild: Team Harris-Walz Virtual Office (ID: 1242249109298221066)
+Channel: Recurring donation feedback (ID: 1281043982956363788)
+Channel Topic: None
+Exported At: 2024-10-24T12:53:32.18417+00:00
+
+
+--- Message ---
+Message ID: 1281043982956363788
+Message Type: Default
+Reply to: None
+Timestamp: 2024-09-05T00:11:26.183+00:00
+Author: Stephanie Salerno (IL)-Call Mod (stephanie004760)
+Author Id: 1277405088708690007
+Avatar URL: assets\4d7fa70ea3a3a2b13ba4c7e856e84ad0-BDF0D.png
+Content: I just finished a shift welcoming folks to Team Harris and encouraging volunteering. Spoke with guy who already volunteers for Democrats but shared feedback that he feels that some donation messaging is "tricky" because of the recurring donation language. He mentioned a few times about how that feels dishonest. Not sure if anyone has been getting this feedback, but wanted to share in case there's a place for it higher up.
+--------------------
+
+--- Message ---
+Message ID: 1281276699408859157
+Message Type: Default
+Reply to: None
+Timestamp: 2024-09-05T15:36:10.109+00:00
+Author: AndreaV, KY Call Mod (andrearogersvalen)
+Author Id: 965992907981074443
+Avatar URL: assets\72d82e393a66b89996d99840a07990ec-C9EFF.png
+Content: <@1277405088708690007> Definitely add this in your debrief form (link to form: https://forms.gle/6XihvVxwqpvrDaJg6 ). Thanks for making calls with us! <:blueheart:1252803082849488956>
+--------------------

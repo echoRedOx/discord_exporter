@@ -1,0 +1,93 @@
+Guild: Team Harris-Walz Virtual Office (ID: 1242249109298221066)
+Channel: I joined a month ago and can’t find the (ID: 1284962274519416892)
+Channel Topic: None
+Exported At: 2024-10-28T22:55:19.1404611+00:00
+
+
+--- Message ---
+Message ID: 1284963113422032967
+Message Type: 21
+Reply to: 1284962274519416892
+Timestamp: 2024-09-15T19:44:39.7+00:00
+Author: Nicole Morris - Text Admin (nmorris237)
+Author Id: 935762347753103382
+Avatar URL: assets\27b1e286b65ae02b3378793b5f098411-A7B20.png
+Content: 
+--------------------
+
+--- Message ---
+Message ID: 1284963114701426718
+Message Type: Default
+Reply to: None
+Timestamp: 2024-09-15T19:44:40.005+00:00
+Author: Nicole Morris - Text Admin (nmorris237)
+Author Id: 935762347753103382
+Avatar URL: assets\27b1e286b65ae02b3378793b5f098411-A7B20.png
+Content: Hi <@1268361732909174906> I will send you a Direct Message now! Let me know if you don't see it.
+--------------------
+
+--- Message ---
+Message ID: 1287934382987804695
+Message Type: Default
+Reply to: None
+Timestamp: 2024-09-24T00:31:25.568+00:00
+Author: Lauren F. (lotsie525)
+Author Id: 1268361732909174906
+Avatar URL: assets\4a060cbf19877220f1979f5073d10e28-884C7.png
+Content: Sorry.  Missed your message.  How can I help with texting?
+--------------------
+
+--- Message ---
+Message ID: 1289579236797186078
+Message Type: Default
+Reply to: None
+Timestamp: 2024-09-28T13:27:29.276+00:00
+Author: Nicole Morris - Text Admin (nmorris237)
+Author Id: 935762347753103382
+Avatar URL: assets\27b1e286b65ae02b3378793b5f098411-A7B20.png
+Content: Hi <@1268361732909174906> let me know if you can see the Direct Message I sent!
+--------------------
+
+--- Message ---
+Message ID: 1290710466179367004
+Message Type: Default
+Reply to: None
+Timestamp: 2024-10-01T16:22:35.378+00:00
+Author: Noreen Bagley (noni_72668)
+Author Id: 1278038719722557510
+Avatar URL: assets\1-B2132.png
+Content: I passed the test a few weeks ago but I cant get texts
+--------------------
+
+--- Message ---
+Message ID: 1290814273756463134
+Message Type: Default
+Reply to: None
+Timestamp: 2024-10-01T23:15:05.033+00:00
+Author: Nicole Morris - Text Admin (nmorris237)
+Author Id: 935762347753103382
+Avatar URL: assets\27b1e286b65ae02b3378793b5f098411-A7B20.png
+Content: Ah! We couldn't find you in Discord - thanks for your post. I'll reach out now Noni!
+--------------------
+
+--- Message ---
+Message ID: 1290824821889826896
+Message Type: Default
+Reply to: None
+Timestamp: 2024-10-01T23:56:59.904+00:00
+Author: Noreen Bagley (noni_72668)
+Author Id: 1278038719722557510
+Avatar URL: assets\1-B2132.png
+Content: I just redid the training, agreement and quiz if that helps.
+--------------------
+
+--- Message ---
+Message ID: 1290826321739513907
+Message Type: Default
+Reply to: None
+Timestamp: 2024-10-02T00:02:57.496+00:00
+Author: Nicole Morris - Text Admin (nmorris237)
+Author Id: 935762347753103382
+Avatar URL: assets\27b1e286b65ae02b3378793b5f098411-A7B20.png
+Content: All good! I sent you a Direct Message now on Discord. Let me know if you don’t see it
+--------------------

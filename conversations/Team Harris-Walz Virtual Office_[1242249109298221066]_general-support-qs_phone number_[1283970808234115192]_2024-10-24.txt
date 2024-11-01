@@ -1,0 +1,911 @@
+Guild: Team Harris-Walz Virtual Office (ID: 1242249109298221066)
+Channel: phone number (ID: 1283970808234115192)
+Channel Topic: None
+Exported At: 2024-10-24T06:37:02.8030415+00:00
+
+
+--- Message ---
+Message ID: 1283970808234115192
+Message Type: Default
+Reply to: None
+Timestamp: 2024-09-13T02:01:35.707+00:00
+Author: Mary Stevens NJ (marystevens_90810)
+Author Id: 1269431206697766915
+Avatar URL: assets\63ca403083a0c87fecfd7f161b6e87d8-CC3F4.png
+Content: i tried to do this 3 times and it failed 3 times; itried it on my laptop and my iphone.  i followed instructions carefully.  each time it told me my verification number was invalid.  please advise
+--------------------
+
+--- Message ---
+Message ID: 1283974048770162741
+Message Type: Default
+Reply to: None
+Timestamp: 2024-09-13T02:14:28.311+00:00
+Author: Carolyn B [CA] • Lead Mod (carb.on)
+Author Id: 568257600228032512
+Avatar URL: assets\28a90c77b5793d80eb62484a43c66748-D8837.png
+Content: Hello Mary, are you using a 10-digit mobile phone number? Landline and Google Voice VOIP won't work.
+--------------------
+
+--- Message ---
+Message ID: 1283974269235236897
+Message Type: Default
+Reply to: None
+Timestamp: 2024-09-13T02:15:20.874+00:00
+Author: Mary Stevens NJ (marystevens_90810)
+Author Id: 1269431206697766915
+Avatar URL: assets\63ca403083a0c87fecfd7f161b6e87d8-CC3F4.png
+Content: yes, i have credo mobile on my iphone
+--------------------
+
+--- Message ---
+Message ID: 1283975095726903390
+Message Type: Default
+Reply to: None
+Timestamp: 2024-09-13T02:18:37.925+00:00
+Author: Carolyn B [CA] • Lead Mod (carb.on)
+Author Id: 568257600228032512
+Avatar URL: assets\28a90c77b5793d80eb62484a43c66748-D8837.png
+Content: Credo mobile should be fine. Can you send me a screenshot of the error message?
+--------------------
+
+--- Message ---
+Message ID: 1283975635127242839
+Message Type: Default
+Reply to: None
+Timestamp: 2024-09-13T02:20:46.528+00:00
+Author: Mary Stevens NJ (marystevens_90810)
+Author Id: 1269431206697766915
+Avatar URL: assets\63ca403083a0c87fecfd7f161b6e87d8-CC3F4.png
+Content: i know how totake a screen shot on my iphone but how would i get it to, you?  whats your email?
+--------------------
+
+--- Message ---
+Message ID: 1283976534855647242
+Message Type: Default
+Reply to: None
+Timestamp: 2024-09-13T02:24:21.04+00:00
+Author: Carolyn B [CA] • Lead Mod (carb.on)
+Author Id: 568257600228032512
+Avatar URL: assets\28a90c77b5793d80eb62484a43c66748-D8837.png
+Content: you can put it right here, just click on the + on the left side of where you are typing your message. After you click the + your device will ask you what picture you want.
+--------------------
+
+--- Message ---
+Message ID: 1283977242170490934
+Message Type: Default
+Reply to: None
+Timestamp: 2024-09-13T02:27:09.677+00:00
+Author: Mary Stevens NJ (marystevens_90810)
+Author Id: 1269431206697766915
+Avatar URL: assets\63ca403083a0c87fecfd7f161b6e87d8-CC3F4.png
+Content: 
+--------------------
+
+--- Message ---
+Message ID: 1283977522337284108
+Message Type: Default
+Reply to: None
+Timestamp: 2024-09-13T02:28:16.474+00:00
+Author: Carolyn B [CA] • Lead Mod (carb.on)
+Author Id: 568257600228032512
+Avatar URL: assets\28a90c77b5793d80eb62484a43c66748-D8837.png
+Content: okay I thought your phone number wasn't accepted, but it's the verification that was sent in the text message.
+--------------------
+
+--- Message ---
+Message ID: 1283977817431871509
+Message Type: Default
+Reply to: None
+Timestamp: 2024-09-13T02:29:26.83+00:00
+Author: Mary Stevens NJ (marystevens_90810)
+Author Id: 1269431206697766915
+Avatar URL: assets\63ca403083a0c87fecfd7f161b6e87d8-CC3F4.png
+Content: so what should i do?
+--------------------
+
+--- Message ---
+Message ID: 1283978089898053694
+Message Type: Default
+Reply to: None
+Timestamp: 2024-09-13T02:30:31.791+00:00
+Author: Carolyn B [CA] • Lead Mod (carb.on)
+Author Id: 568257600228032512
+Avatar URL: assets\28a90c77b5793d80eb62484a43c66748-D8837.png
+Content: did you get the verification code immediately after you put your phone number and did you use the verification code right after you received it?
+--------------------
+
+--- Message ---
+Message ID: 1283978132558184480
+Message Type: Default
+Reply to: None
+Timestamp: 2024-09-13T02:30:41.962+00:00
+Author: Mary Stevens NJ (marystevens_90810)
+Author Id: 1269431206697766915
+Avatar URL: assets\63ca403083a0c87fecfd7f161b6e87d8-CC3F4.png
+Content: yes
+--------------------
+
+--- Message ---
+Message ID: 1283978303098847232
+Message Type: Default
+Reply to: None
+Timestamp: 2024-09-13T02:31:22.622+00:00
+Author: Carolyn B [CA] • Lead Mod (carb.on)
+Author Id: 568257600228032512
+Avatar URL: assets\28a90c77b5793d80eb62484a43c66748-D8837.png
+Content: do you have an email listed on your Discord account?
+--------------------
+
+--- Message ---
+Message ID: 1283978482371788884
+Message Type: Default
+Reply to: None
+Timestamp: 2024-09-13T02:32:05.364+00:00
+Author: Mary Stevens NJ (marystevens_90810)
+Author Id: 1269431206697766915
+Avatar URL: assets\63ca403083a0c87fecfd7f161b6e87d8-CC3F4.png
+Content: Yes
+--------------------
+
+--- Message ---
+Message ID: 1283978923142545409
+Message Type: Default
+Reply to: None
+Timestamp: 2024-09-13T02:33:50.452+00:00
+Author: Carolyn B [CA] • Lead Mod (carb.on)
+Author Id: 568257600228032512
+Avatar URL: assets\28a90c77b5793d80eb62484a43c66748-D8837.png
+Content: sometimes the system that sends the codes gets behind and inadvertently sends codes that are expired. I suggest waiting an hour and trying again.
+--------------------
+
+--- Message ---
+Message ID: 1283979055892529216
+Message Type: Default
+Reply to: None
+Timestamp: 2024-09-13T02:34:22.102+00:00
+Author: Mary Stevens NJ (marystevens_90810)
+Author Id: 1269431206697766915
+Avatar URL: assets\63ca403083a0c87fecfd7f161b6e87d8-CC3F4.png
+Content: Ok
+--------------------
+
+--- Message ---
+Message ID: 1283979138507473032
+Message Type: Default
+Reply to: None
+Timestamp: 2024-09-13T02:34:41.799+00:00
+Author: Carolyn B [CA] • Lead Mod (carb.on)
+Author Id: 568257600228032512
+Avatar URL: assets\28a90c77b5793d80eb62484a43c66748-D8837.png
+Content: if it doesn't work then we can look into it further. I'll be here all night.
+--------------------
+
+--- Message ---
+Message ID: 1283979208229654558
+Message Type: Default
+Reply to: None
+Timestamp: 2024-09-13T02:34:58.422+00:00
+Author: Carolyn B [CA] • Lead Mod (carb.on)
+Author Id: 568257600228032512
+Avatar URL: assets\28a90c77b5793d80eb62484a43c66748-D8837.png
+Content: and I'll be here tomorrow mid-day and on.
+--------------------
+
+--- Message ---
+Message ID: 1284000674631389276
+Message Type: Default
+Reply to: None
+Timestamp: 2024-09-13T04:00:16.411+00:00
+Author: Jungstir (jungstir)
+Author Id: 1276611691970560204
+Avatar URL: assets\6c5996770c985bcd6e5b68131ff2ba04-A99DD.png
+Content: I have the same issue cannot verify
+--------------------
+
+--- Message ---
+Message ID: 1284000898091188317
+Message Type: Default
+Reply to: None
+Timestamp: 2024-09-13T04:01:09.688+00:00
+Author: Jungstir (jungstir)
+Author Id: 1276611691970560204
+Avatar URL: assets\6c5996770c985bcd6e5b68131ff2ba04-A99DD.png
+Content: Always says used
+--------------------
+
+--- Message ---
+Message ID: 1284000975316844596
+Message Type: Default
+Reply to: None
+Timestamp: 2024-09-13T04:01:28.1+00:00
+Author: Carolyn B [CA] • Lead Mod (carb.on)
+Author Id: 568257600228032512
+Avatar URL: assets\28a90c77b5793d80eb62484a43c66748-D8837.png
+Content: Hello <@1276611691970560204> do you have another Discord account?
+--------------------
+
+--- Message ---
+Message ID: 1284001083445739612
+Message Type: Default
+Reply to: None
+Timestamp: 2024-09-13T04:01:53.88+00:00
+Author: Jungstir (jungstir)
+Author Id: 1276611691970560204
+Avatar URL: assets\6c5996770c985bcd6e5b68131ff2ba04-A99DD.png
+Content: No
+--------------------
+
+--- Message ---
+Message ID: 1284001173057179690
+Message Type: Default
+Reply to: None
+Timestamp: 2024-09-13T04:02:15.245+00:00
+Author: Jungstir (jungstir)
+Author Id: 1276611691970560204
+Avatar URL: assets\6c5996770c985bcd6e5b68131ff2ba04-A99DD.png
+Content: The PC is off as well just mobile
+--------------------
+
+--- Message ---
+Message ID: 1284001388149473320
+Message Type: Default
+Reply to: None
+Timestamp: 2024-09-13T04:03:06.527+00:00
+Author: Jungstir (jungstir)
+Author Id: 1276611691970560204
+Avatar URL: assets\6c5996770c985bcd6e5b68131ff2ba04-A99DD.png
+Content: I tried the PC cleared the browser history yesterday still no luck
+--------------------
+
+--- Message ---
+Message ID: 1284001550775222285
+Message Type: Default
+Reply to: None
+Timestamp: 2024-09-13T04:03:45.3+00:00
+Author: Carolyn B [CA] • Lead Mod (carb.on)
+Author Id: 568257600228032512
+Avatar URL: assets\28a90c77b5793d80eb62484a43c66748-D8837.png
+Content: is the mobile iOS or Android?
+--------------------
+
+--- Message ---
+Message ID: 1284001610183217255
+Message Type: Default
+Reply to: None
+Timestamp: 2024-09-13T04:03:59.464+00:00
+Author: Jungstir (jungstir)
+Author Id: 1276611691970560204
+Avatar URL: assets\6c5996770c985bcd6e5b68131ff2ba04-A99DD.png
+Content: Android
+--------------------
+
+--- Message ---
+Message ID: 1284002023888519220
+Message Type: Default
+Reply to: None
+Timestamp: 2024-09-13T04:05:38.099+00:00
+Author: Jungstir (jungstir)
+Author Id: 1276611691970560204
+Avatar URL: assets\6c5996770c985bcd6e5b68131ff2ba04-A99DD.png
+Content: I have access just did not add phone to the account initially
+--------------------
+
+--- Message ---
+Message ID: 1284002099297910887
+Message Type: Default
+Reply to: None
+Timestamp: 2024-09-13T04:05:56.078+00:00
+Author: Carolyn B [CA] • Lead Mod (carb.on)
+Author Id: 568257600228032512
+Avatar URL: assets\28a90c77b5793d80eb62484a43c66748-D8837.png
+Content: Tap on "you" at the bottom and then tap the gear at the top and then scroll down to "logout"
+then when you log back in use your phone number instead of email
+--------------------
+
+--- Message ---
+Message ID: 1284002198946316320
+Message Type: Default
+Reply to: None
+Timestamp: 2024-09-13T04:06:19.836+00:00
+Author: Jungstir (jungstir)
+Author Id: 1276611691970560204
+Avatar URL: assets\6c5996770c985bcd6e5b68131ff2ba04-A99DD.png
+Content: K will try that
+--------------------
+
+--- Message ---
+Message ID: 1284007829321027687
+Message Type: Default
+Reply to: None
+Timestamp: 2024-09-13T04:28:42.222+00:00
+Author: Carolyn B [CA] • Lead Mod (carb.on)
+Author Id: 568257600228032512
+Avatar URL: assets\28a90c77b5793d80eb62484a43c66748-D8837.png
+Content: Hi <@1276611691970560204> can you come back to this thread?
+--------------------
+
+--- Message ---
+Message ID: 1284007996455653428
+Message Type: Default
+Reply to: None
+Timestamp: 2024-09-13T04:29:22.07+00:00
+Author: Carolyn B [CA] • Lead Mod (carb.on)
+Author Id: 568257600228032512
+Avatar URL: assets\28a90c77b5793d80eb62484a43c66748-D8837.png
+Content: did you try to log in using your phone number ?
+--------------------
+
+--- Message ---
+Message ID: 1284014865089822772
+Message Type: Default
+Reply to: None
+Timestamp: 2024-09-13T04:56:39.68+00:00
+Author: Jungstir (jungstir)
+Author Id: 1276611691970560204
+Avatar URL: assets\6c5996770c985bcd6e5b68131ff2ba04-A99DD.png
+Content: Phone number no access for login
+--------------------
+
+--- Message ---
+Message ID: 1284015025450782780
+Message Type: Default
+Reply to: None
+Timestamp: 2024-09-13T04:57:17.913+00:00
+Author: Jungstir (jungstir)
+Author Id: 1276611691970560204
+Avatar URL: assets\6c5996770c985bcd6e5b68131ff2ba04-A99DD.png
+Content: Still email login with verify codes denied
+--------------------
+
+--- Message ---
+Message ID: 1284015284297928715
+Message Type: Default
+Reply to: None
+Timestamp: 2024-09-13T04:58:19.627+00:00
+Author: Jungstir (jungstir)
+Author Id: 1276611691970560204
+Avatar URL: assets\6c5996770c985bcd6e5b68131ff2ba04-A99DD.png
+Content: And new password
+--------------------
+
+--- Message ---
+Message ID: 1284015490586640475
+Message Type: Default
+Reply to: None
+Timestamp: 2024-09-13T04:59:08.81+00:00
+Author: Jeannine M • Lead Mod (jean9_28218_79932)
+Author Id: 1266879741785538682
+Avatar URL: assets\54ff5e8dfab835d878a961f9f7b7d161-6C0EE.png
+Content: <@568257600228032512> you have <@1208172685926993952> joining with the same issue
+--------------------
+
+--- Message ---
+Message ID: 1284015534110937119
+Message Type: Default
+Reply to: None
+Timestamp: 2024-09-13T04:59:19.187+00:00
+Author: Jungstir (jungstir)
+Author Id: 1276611691970560204
+Avatar URL: assets\6c5996770c985bcd6e5b68131ff2ba04-A99DD.png
+Content: And now I think I have two discord accounts
+--------------------
+
+--- Message ---
+Message ID: 1284015583632953426
+Message Type: Default
+Reply to: None
+Timestamp: 2024-09-13T04:59:30.994+00:00
+Author: Carolyn B [CA] • Lead Mod (carb.on)
+Author Id: 568257600228032512
+Avatar URL: assets\28a90c77b5793d80eb62484a43c66748-D8837.png
+Content: okay, sorry this takes so long. We will go back to the original account (not incognito) 
+There are two options, 1) you can send Discord a help ticket, or 
+2) if you have a family person who doesn't use discord, you can use their phone number to get the verification code. As long as you stay logged into Discord you will be fine.
+--------------------
+
+--- Message ---
+Message ID: 1284015771407749191
+Message Type: Default
+Reply to: None
+Timestamp: 2024-09-13T05:00:15.763+00:00
+Author: Jungstir (jungstir)
+Author Id: 1276611691970560204
+Avatar URL: assets\6c5996770c985bcd6e5b68131ff2ba04-A99DD.png
+Content: Well the phone works for now
+--------------------
+
+--- Message ---
+Message ID: 1284015926420701265
+Message Type: Default
+Reply to: None
+Timestamp: 2024-09-13T05:00:52.721+00:00
+Author: Carolyn B [CA] • Lead Mod (carb.on)
+Author Id: 568257600228032512
+Avatar URL: assets\28a90c77b5793d80eb62484a43c66748-D8837.png
+Content: The phone needs to be verified so you can use Discord after Monday.
+--------------------
+
+--- Message ---
+Message ID: 1284015932276080681
+Message Type: Default
+Reply to: None
+Timestamp: 2024-09-13T05:00:54.117+00:00
+Author: Jungstir (jungstir)
+Author Id: 1276611691970560204
+Avatar URL: assets\6c5996770c985bcd6e5b68131ff2ba04-A99DD.png
+Content: Just cant add to verify phone numbe
+--------------------
+
+--- Message ---
+Message ID: 1284016044582764545
+Message Type: Default
+Reply to: None
+Timestamp: 2024-09-13T05:01:20.893+00:00
+Author: Carolyn B [CA] • Lead Mod (carb.on)
+Author Id: 568257600228032512
+Avatar URL: assets\28a90c77b5793d80eb62484a43c66748-D8837.png
+Content: do you have anyone if your family who doesn't use Discord?
+--------------------
+
+--- Message ---
+Message ID: 1284016076904206356
+Message Type: Default
+Reply to: None
+Timestamp: 2024-09-13T05:01:28.599+00:00
+Author: Jungstir (jungstir)
+Author Id: 1276611691970560204
+Avatar URL: assets\6c5996770c985bcd6e5b68131ff2ba04-A99DD.png
+Content: Yes
+--------------------
+
+--- Message ---
+Message ID: 1284016123377094656
+Message Type: Default
+Reply to: None
+Timestamp: 2024-09-13T05:01:39.679+00:00
+Author: Carolyn B [CA] • Lead Mod (carb.on)
+Author Id: 568257600228032512
+Avatar URL: assets\28a90c77b5793d80eb62484a43c66748-D8837.png
+Content: Great. Are they with you now?
+--------------------
+
+--- Message ---
+Message ID: 1284016195552415794
+Message Type: Default
+Reply to: None
+Timestamp: 2024-09-13T05:01:56.887+00:00
+Author: Jungstir (jungstir)
+Author Id: 1276611691970560204
+Avatar URL: assets\6c5996770c985bcd6e5b68131ff2ba04-A99DD.png
+Content: No sleeping Florida
+--------------------
+
+--- Message ---
+Message ID: 1284016369427546142
+Message Type: Default
+Reply to: None
+Timestamp: 2024-09-13T05:02:38.342+00:00
+Author: Jungstir (jungstir)
+Author Id: 1276611691970560204
+Avatar URL: assets\6c5996770c985bcd6e5b68131ff2ba04-A99DD.png
+Content: I will touch base with discord tomorrow
+--------------------
+
+--- Message ---
+Message ID: 1284016416390909995
+Message Type: Default
+Reply to: None
+Timestamp: 2024-09-13T05:02:49.539+00:00
+Author: Carolyn B [CA] • Lead Mod (carb.on)
+Author Id: 568257600228032512
+Avatar URL: assets\28a90c77b5793d80eb62484a43c66748-D8837.png
+Content: okay. Tomorrow morning, you will use Discord on your phone and put their phone number in your Account settings. They will get the code and tell you what it is
+--------------------
+
+--- Message ---
+Message ID: 1284016493427818548
+Message Type: Default
+Reply to: None
+Timestamp: 2024-09-13T05:03:07.906+00:00
+Author: Carolyn B [CA] • Lead Mod (carb.on)
+Author Id: 568257600228032512
+Avatar URL: assets\28a90c77b5793d80eb62484a43c66748-D8837.png
+Content: you put the code in and you will be fine.
+--------------------
+
+--- Message ---
+Message ID: 1284016578794618880
+Message Type: Default
+Reply to: None
+Timestamp: 2024-09-13T05:03:28.259+00:00
+Author: Mary Robinson [MD] (drmer_)
+Author Id: 1208172685926993952
+Avatar URL: assets\420e506a1a87c8d76507fc2fe5591874-44B86.png
+Content: Yes a similar issue  the number I have is my number, but it’s can’t be verified as the number is in use. What should I do?
+--------------------
+
+--- Message ---
+Message ID: 1284016628002066484
+Message Type: Default
+Reply to: None
+Timestamp: 2024-09-13T05:03:39.991+00:00
+Author: Jungstir (jungstir)
+Author Id: 1276611691970560204
+Avatar URL: assets\6c5996770c985bcd6e5b68131ff2ba04-A99DD.png
+Content: Got it I work with computers believe it or not as an informaticist
+--------------------
+
+--- Message ---
+Message ID: 1284016691172343809
+Message Type: Default
+Reply to: None
+Timestamp: 2024-09-13T05:03:55.052+00:00
+Author: Jungstir (jungstir)
+Author Id: 1276611691970560204
+Avatar URL: assets\6c5996770c985bcd6e5b68131ff2ba04-A99DD.png
+Content: I think I can navigate to fix things
+--------------------
+
+--- Message ---
+Message ID: 1284016765172711494
+Message Type: Reply
+Reply to: 1284016578794618880
+Timestamp: 2024-09-13T05:04:12.695+00:00
+Author: Carolyn B [CA] • Lead Mod (carb.on)
+Author Id: 568257600228032512
+Avatar URL: assets\28a90c77b5793d80eb62484a43c66748-D8837.png
+Content: what is the message you get when you try to verify your phone number?
+--------------------
+
+--- Message ---
+Message ID: 1284016845086523445
+Message Type: Default
+Reply to: None
+Timestamp: 2024-09-13T05:04:31.748+00:00
+Author: Mary Robinson [MD] (drmer_)
+Author Id: 1208172685926993952
+Avatar URL: assets\420e506a1a87c8d76507fc2fe5591874-44B86.png
+Content: Number already in use
+--------------------
+
+--- Message ---
+Message ID: 1284016855924867132
+Message Type: Default
+Reply to: None
+Timestamp: 2024-09-13T05:04:34.332+00:00
+Author: Jungstir (jungstir)
+Author Id: 1276611691970560204
+Avatar URL: assets\6c5996770c985bcd6e5b68131ff2ba04-A99DD.png
+Content: I thought about a MODrole maybe after I figure it out 💥
+--------------------
+
+--- Message ---
+Message ID: 1284016933028495431
+Message Type: Default
+Reply to: None
+Timestamp: 2024-09-13T05:04:52.715+00:00
+Author: Jungstir (jungstir)
+Author Id: 1276611691970560204
+Avatar URL: assets\6c5996770c985bcd6e5b68131ff2ba04-A99DD.png
+Content: Have a good day
+--------------------
+
+--- Message ---
+Message ID: 1284016957963767829
+Message Type: Reply
+Reply to: 1284016845086523445
+Timestamp: 2024-09-13T05:04:58.66+00:00
+Author: Carolyn B [CA] • Lead Mod (carb.on)
+Author Id: 568257600228032512
+Avatar URL: assets\28a90c77b5793d80eb62484a43c66748-D8837.png
+Content: and you are sure you only have one Discord account?
+--------------------
+
+--- Message ---
+Message ID: 1284017040637820972
+Message Type: Default
+Reply to: None
+Timestamp: 2024-09-13T05:05:18.371+00:00
+Author: Mary Robinson [MD] (drmer_)
+Author Id: 1208172685926993952
+Avatar URL: assets\420e506a1a87c8d76507fc2fe5591874-44B86.png
+Content: I had an old account a long time ago.
+--------------------
+
+--- Message ---
+Message ID: 1284017063702298715
+Message Type: Default
+Reply to: None
+Timestamp: 2024-09-13T05:05:23.87+00:00
+Author: Jungstir (jungstir)
+Author Id: 1276611691970560204
+Avatar URL: assets\6c5996770c985bcd6e5b68131ff2ba04-A99DD.png
+Content: Not totally sure I may have 3 now if true
+--------------------
+
+--- Message ---
+Message ID: 1284017155976986635
+Message Type: Reply
+Reply to: 1284017063702298715
+Timestamp: 2024-09-13T05:05:45.87+00:00
+Author: Carolyn B [CA] • Lead Mod (carb.on)
+Author Id: 568257600228032512
+Avatar URL: assets\28a90c77b5793d80eb62484a43c66748-D8837.png
+Content: that's okay, only one of the needs to be verified
+--------------------
+
+--- Message ---
+Message ID: 1284017214386737172
+Message Type: Reply
+Reply to: 1284017040637820972
+Timestamp: 2024-09-13T05:05:59.796+00:00
+Author: Carolyn B [CA] • Lead Mod (carb.on)
+Author Id: 568257600228032512
+Avatar URL: assets\28a90c77b5793d80eb62484a43c66748-D8837.png
+Content: okay we will see if we can find that old account.
+--------------------
+
+--- Message ---
+Message ID: 1284017289682882680
+Message Type: Default
+Reply to: None
+Timestamp: 2024-09-13T05:06:17.748+00:00
+Author: Carolyn B [CA] • Lead Mod (carb.on)
+Author Id: 568257600228032512
+Avatar URL: assets\28a90c77b5793d80eb62484a43c66748-D8837.png
+Content: log out of Discord and then when you log back in you will use your phone number instead of email.
+--------------------
+
+--- Message ---
+Message ID: 1284017377050230876
+Message Type: Default
+Reply to: None
+Timestamp: 2024-09-13T05:06:38.578+00:00
+Author: Carolyn B [CA] • Lead Mod (carb.on)
+Author Id: 568257600228032512
+Avatar URL: assets\28a90c77b5793d80eb62484a43c66748-D8837.png
+Content: if you don't remember your password you can use the "forgot password" to reset.
+--------------------
+
+--- Message ---
+Message ID: 1284018525324840971
+Message Type: Default
+Reply to: None
+Timestamp: 2024-09-13T05:11:12.348+00:00
+Author: Mary Robinson [MD] (drmer_)
+Author Id: 1208172685926993952
+Avatar URL: assets\420e506a1a87c8d76507fc2fe5591874-44B86.png
+Content: Okay thanks
+--------------------
+
+--- Message ---
+Message ID: 1284018796100587572
+Message Type: Default
+Reply to: None
+Timestamp: 2024-09-13T05:12:16.906+00:00
+Author: Carolyn B [CA] • Lead Mod (carb.on)
+Author Id: 568257600228032512
+Avatar URL: assets\28a90c77b5793d80eb62484a43c66748-D8837.png
+Content: If you want to screenshare on zoom I can send you a zoom link but writing it here is fine too.
+--------------------
+
+--- Message ---
+Message ID: 1284019335521632317
+Message Type: Default
+Reply to: None
+Timestamp: 2024-09-13T05:14:25.514+00:00
+Author: Karen Ross (karenross0111)
+Author Id: 1283594192656011427
+Avatar URL: assets\8569adcbd36c70a7578c017bf5604ea5-7431F.png
+Content: I’m here
+--------------------
+
+--- Message ---
+Message ID: 1284019436613013554
+Message Type: Reply
+Reply to: 1284019335521632317
+Timestamp: 2024-09-13T05:14:49.616+00:00
+Author: Carolyn B [CA] • Lead Mod (carb.on)
+Author Id: 568257600228032512
+Avatar URL: assets\28a90c77b5793d80eb62484a43c66748-D8837.png
+Content: Hi Karen, do you have more than one Discord account?
+--------------------
+
+--- Message ---
+Message ID: 1284019489830207573
+Message Type: Default
+Reply to: None
+Timestamp: 2024-09-13T05:15:02.304+00:00
+Author: Karen Ross (karenross0111)
+Author Id: 1283594192656011427
+Avatar URL: assets\8569adcbd36c70a7578c017bf5604ea5-7431F.png
+Content: No
+--------------------
+
+--- Message ---
+Message ID: 1284019598601228361
+Message Type: Default
+Reply to: None
+Timestamp: 2024-09-13T05:15:28.237+00:00
+Author: Carolyn B [CA] • Lead Mod (carb.on)
+Author Id: 568257600228032512
+Avatar URL: assets\28a90c77b5793d80eb62484a43c66748-D8837.png
+Content: <@1283594192656011427> Okay, do you have a family member who does not use Discord?
+--------------------
+
+--- Message ---
+Message ID: 1284019998100033607
+Message Type: Default
+Reply to: None
+Timestamp: 2024-09-13T05:17:03.485+00:00
+Author: Karen Ross (karenross0111)
+Author Id: 1283594192656011427
+Avatar URL: assets\8569adcbd36c70a7578c017bf5604ea5-7431F.png
+Content: Probably my brother
+--------------------
+
+--- Message ---
+Message ID: 1284020476175188018
+Message Type: Default
+Reply to: None
+Timestamp: 2024-09-13T05:18:57.467+00:00
+Author: Mary Robinson [MD] (drmer_)
+Author Id: 1208172685926993952
+Avatar URL: assets\420e506a1a87c8d76507fc2fe5591874-44B86.png
+Content: Okay  I logged out and logged back in with my telephone number. Do I still need to do verify? Thanks
+--------------------
+
+--- Message ---
+Message ID: 1284020481468534818
+Message Type: Default
+Reply to: None
+Timestamp: 2024-09-13T05:18:58.729+00:00
+Author: Carolyn B [CA] • Lead Mod (carb.on)
+Author Id: 568257600228032512
+Avatar URL: assets\28a90c77b5793d80eb62484a43c66748-D8837.png
+Content: <@1283594192656011427> it's probably late night for him right now. So tomorrow when you know he will be around, you will put his number in your Discord Account Settings and he will receive the comfirmation code and tell you want it is. You enter the code in  Discord, and you'll be fine as long as you stay logged in.
+--------------------
+
+--- Message ---
+Message ID: 1284020758149861427
+Message Type: Reply
+Reply to: 1284020476175188018
+Timestamp: 2024-09-13T05:20:04.695+00:00
+Author: Carolyn B [CA] • Lead Mod (carb.on)
+Author Id: 568257600228032512
+Avatar URL: assets\28a90c77b5793d80eb62484a43c66748-D8837.png
+Content: when you logged in with your phone does your window look the same as it did before? are the same things on the far left side?
+--------------------
+
+--- Message ---
+Message ID: 1284020997258870857
+Message Type: Default
+Reply to: None
+Timestamp: 2024-09-13T05:21:01.703+00:00
+Author: Mary Robinson [MD] (drmer_)
+Author Id: 1208172685926993952
+Avatar URL: assets\420e506a1a87c8d76507fc2fe5591874-44B86.png
+Content: Yes everything looks the same
+--------------------
+
+--- Message ---
+Message ID: 1284021311202398231
+Message Type: Reply
+Reply to: 1284020997258870857
+Timestamp: 2024-09-13T05:22:16.553+00:00
+Author: Carolyn B [CA] • Lead Mod (carb.on)
+Author Id: 568257600228032512
+Avatar URL: assets\28a90c77b5793d80eb62484a43c66748-D8837.png
+Content: click on the gear in the lower-left near your profile picture, then click account settings. Is your phone number and email on that page?
+--------------------
+
+--- Message ---
+Message ID: 1284021755781972043
+Message Type: Default
+Reply to: None
+Timestamp: 2024-09-13T05:24:02.549+00:00
+Author: Mary Robinson [MD] (drmer_)
+Author Id: 1208172685926993952
+Avatar URL: assets\420e506a1a87c8d76507fc2fe5591874-44B86.png
+Content: The phone number is there but not an email address
+--------------------
+
+--- Message ---
+Message ID: 1284021979187511358
+Message Type: Reply
+Reply to: 1284021755781972043
+Timestamp: 2024-09-13T05:24:55.813+00:00
+Author: Carolyn B [CA] • Lead Mod (carb.on)
+Author Id: 568257600228032512
+Avatar URL: assets\28a90c77b5793d80eb62484a43c66748-D8837.png
+Content: what happens when you put the email?
+--------------------
+
+--- Message ---
+Message ID: 1284022177598799923
+Message Type: Default
+Reply to: None
+Timestamp: 2024-09-13T05:25:43.118+00:00
+Author: Mary Robinson [MD] (drmer_)
+Author Id: 1208172685926993952
+Avatar URL: assets\420e506a1a87c8d76507fc2fe5591874-44B86.png
+Content: I never had one added. Should I add one, I thought it was optional
+--------------------
+
+--- Message ---
+Message ID: 1284022301427367948
+Message Type: Default
+Reply to: None
+Timestamp: 2024-09-13T05:26:12.641+00:00
+Author: Carolyn B [CA] • Lead Mod (carb.on)
+Author Id: 568257600228032512
+Avatar URL: assets\28a90c77b5793d80eb62484a43c66748-D8837.png
+Content: let me check something. be right back.
+--------------------
+
+--- Message ---
+Message ID: 1284022842148651042
+Message Type: Default
+Reply to: None
+Timestamp: 2024-09-13T05:28:21.559+00:00
+Author: Carolyn B [CA] • Lead Mod (carb.on)
+Author Id: 568257600228032512
+Avatar URL: assets\28a90c77b5793d80eb62484a43c66748-D8837.png
+Content: <@1208172685926993952> You will need to add an email. if you don't want to use your regular email, you can go to gmail and make a new one just for this.
+--------------------
+
+--- Message ---
+Message ID: 1284023101914484817
+Message Type: Default
+Reply to: None
+Timestamp: 2024-09-13T05:29:23.492+00:00
+Author: Mary Robinson [MD] (drmer_)
+Author Id: 1208172685926993952
+Avatar URL: assets\420e506a1a87c8d76507fc2fe5591874-44B86.png
+Content: Okay I will add one. Once I do are there are any other steps needed for verifying?
+--------------------
+
+--- Message ---
+Message ID: 1284023310237306880
+Message Type: Default
+Reply to: None
+Timestamp: 2024-09-13T05:30:13.16+00:00
+Author: Carolyn B [CA] • Lead Mod (carb.on)
+Author Id: 568257600228032512
+Avatar URL: assets\28a90c77b5793d80eb62484a43c66748-D8837.png
+Content: <@1208172685926993952> when you add the email, disord will send you a code. You will need to put that code into the discord box and then you will be set.
+you can take your time, it doesn't have to happen right now
+--------------------
+
+--- Message ---
+Message ID: 1284023466391109705
+Message Type: Default
+Reply to: None
+Timestamp: 2024-09-13T05:30:50.39+00:00
+Author: Mary Robinson [MD] (drmer_)
+Author Id: 1208172685926993952
+Avatar URL: assets\420e506a1a87c8d76507fc2fe5591874-44B86.png
+Content: Okay thanks. <:thankyou:1252806147396735057>
+--------------------
+
+--- Message ---
+Message ID: 1284176303532015667
+Message Type: Default
+Reply to: None
+Timestamp: 2024-09-13T15:38:09.604+00:00
+Author: Jack Joannides KC text admin (jjoannid)
+Author Id: 477560366432256000
+Avatar URL: assets\791c521e62160be1f3df04992f6e5470-36A38.png
+Content: <@568257600228032512>  <@1283229481363832916> needs help with the 2 factor authentication. Dmed saying they have like 2 accounts or something.
+--------------------
+
+--- Message ---
+Message ID: 1284176800217563299
+Message Type: Default
+Reply to: None
+Timestamp: 2024-09-13T15:40:08.023+00:00
+Author: Carolyn B [CA] • Lead Mod (carb.on)
+Author Id: 568257600228032512
+Avatar URL: assets\28a90c77b5793d80eb62484a43c66748-D8837.png
+Content: Good morning <@1283229481363832916> I sent you a friend/DM request. We can move this discussion over there. I will be available in around 10:30 east time.
+--------------------

@@ -1,0 +1,106 @@
+Guild: Team Harris-Walz Virtual Office (ID: 1242249109298221066)
+Channel: Maxinefrankel-Il (ID: 1282567215836823583)
+Channel Topic: None
+Exported At: 2024-10-28T23:20:52.3117859+00:00
+
+
+--- Message ---
+Message ID: 1282567720151552010
+Message Type: 21
+Reply to: 1282567215836823583
+Timestamp: 2024-09-09T05:06:13.44+00:00
+Author: Nicole Morris - Text Admin (nmorris237)
+Author Id: 935762347753103382
+Avatar URL: assets\27b1e286b65ae02b3378793b5f098411-A7B20.png
+Content: 
+--------------------
+
+--- Message ---
+Message ID: 1282567722135191572
+Message Type: Default
+Reply to: None
+Timestamp: 2024-09-09T05:06:13.913+00:00
+Author: Nicole Morris - Text Admin (nmorris237)
+Author Id: 935762347753103382
+Avatar URL: assets\27b1e286b65ae02b3378793b5f098411-A7B20.png
+Content: Hi <@1281053815189016617> Thanks! I will send you a follow up DM now
+--------------------
+
+--- Message ---
+Message ID: 1282567832571346974
+Message Type: Default
+Reply to: None
+Timestamp: 2024-09-09T05:06:40.243+00:00
+Author: Maxine frankel [IL] (maxinefrankel)
+Author Id: 1281053815189016617
+Avatar URL: assets\1cd63b7f638a52b95eef5dc72c9359da-4C89C.png
+Content: Thank u! Go to sleep!
+--------------------
+
+--- Message ---
+Message ID: 1282569963550543924
+Message Type: Default
+Reply to: None
+Timestamp: 2024-09-09T05:15:08.308+00:00
+Author: Maxine frankel [IL] (maxinefrankel)
+Author Id: 1281053815189016617
+Avatar URL: assets\1cd63b7f638a52b95eef5dc72c9359da-4C89C.png
+Content: One more change 
+Maxine frankel [IL]
+--------------------
+
+--- Message ---
+Message ID: 1282573218724577310
+Message Type: Default
+Reply to: None
+Timestamp: 2024-09-09T05:28:04.402+00:00
+Author: Nicole Morris - Text Admin (nmorris237)
+Author Id: 935762347753103382
+Avatar URL: assets\27b1e286b65ae02b3378793b5f098411-A7B20.png
+Content: Thanks! I sent you a Direct Message in Discord with next steps - let me know if you don’t see it
+--------------------
+
+--- Message ---
+Message ID: 1283579314259890217
+Message Type: Default
+Reply to: None
+Timestamp: 2024-09-12T00:05:56.27+00:00
+Author: Nicole Morris - Text Admin (nmorris237)
+Author Id: 935762347753103382
+Avatar URL: assets\27b1e286b65ae02b3378793b5f098411-A7B20.png
+Content: Hi <@1281053815189016617> I wanted to see if you saw the Direct Message I sent
+--------------------
+
+--- Message ---
+Message ID: 1285103219755974719
+Message Type: Default
+Reply to: None
+Timestamp: 2024-09-16T05:01:23.653+00:00
+Author: Maxine frankel [IL] (maxinefrankel)
+Author Id: 1281053815189016617
+Avatar URL: assets\1cd63b7f638a52b95eef5dc72c9359da-4C89C.png
+Content: Sorry I do t see it -
+Can u resend I'm so sad I want to do this!!!
+--------------------
+
+--- Message ---
+Message ID: 1285104252066463784
+Message Type: Default
+Reply to: None
+Timestamp: 2024-09-16T05:05:29.775+00:00
+Author: Maxine frankel [IL] (maxinefrankel)
+Author Id: 1281053815189016617
+Avatar URL: assets\1cd63b7f638a52b95eef5dc72c9359da-4C89C.png
+Content: When u send a direct message in discord shouldn't it be right here?
+--------------------
+
+--- Message ---
+Message ID: 1285244759295656008
+Message Type: Default
+Reply to: None
+Timestamp: 2024-09-16T14:23:49.309+00:00
+Author: Nicole Morris - Text Admin (nmorris237)
+Author Id: 935762347753103382
+Avatar URL: assets\27b1e286b65ae02b3378793b5f098411-A7B20.png
+Content: Hi Maxine - thanks! Just replied to your Direct Message 🙂
+--------------------

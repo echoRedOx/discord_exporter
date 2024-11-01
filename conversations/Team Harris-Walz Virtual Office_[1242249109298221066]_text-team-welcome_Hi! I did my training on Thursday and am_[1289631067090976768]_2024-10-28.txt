@@ -1,0 +1,60 @@
+Guild: Team Harris-Walz Virtual Office (ID: 1242249109298221066)
+Channel: Hi! I did my training on Thursday and am (ID: 1289631067090976768)
+Channel Topic: None
+Exported At: 2024-10-28T23:00:22.0580759+00:00
+
+
+--- Message ---
+Message ID: 1289631443592675390
+Message Type: 21
+Reply to: 1289631067090976768
+Timestamp: 2024-09-28T16:54:56.346+00:00
+Author: Jack Joannides KC text admin (jjoannid)
+Author Id: 477560366432256000
+Avatar URL: assets\791c521e62160be1f3df04992f6e5470-36A38.png
+Content: 
+--------------------
+
+--- Message ---
+Message ID: 1289631446075576384
+Message Type: Default
+Reply to: None
+Timestamp: 2024-09-28T16:54:56.938+00:00
+Author: Jack Joannides KC text admin (jjoannid)
+Author Id: 477560366432256000
+Avatar URL: assets\791c521e62160be1f3df04992f6e5470-36A38.png
+Content: Can you please update your name. Your display name is only ttt
+--------------------
+
+--- Message ---
+Message ID: 1289631630885126224
+Message Type: Default
+Reply to: None
+Timestamp: 2024-09-28T16:55:41+00:00
+Author: Tess Troha-Thompson DC (tenacious_dragon_33067)
+Author Id: 1288980461992939592
+Avatar URL: assets\2-ADBB4.png
+Content: sure what does it need to be? just my full name?
+--------------------
+
+--- Message ---
+Message ID: 1289631712430784532
+Message Type: Default
+Reply to: None
+Timestamp: 2024-09-28T16:56:00.442+00:00
+Author: Jack Joannides KC text admin (jjoannid)
+Author Id: 477560366432256000
+Avatar URL: assets\791c521e62160be1f3df04992f6e5470-36A38.png
+Content: Yes.
+--------------------
+
+--- Message ---
+Message ID: 1289631737055547455
+Message Type: Default
+Reply to: None
+Timestamp: 2024-09-28T16:56:06.313+00:00
+Author: Tess Troha-Thompson DC (tenacious_dragon_33067)
+Author Id: 1288980461992939592
+Avatar URL: assets\2-ADBB4.png
+Content: Done!
+--------------------

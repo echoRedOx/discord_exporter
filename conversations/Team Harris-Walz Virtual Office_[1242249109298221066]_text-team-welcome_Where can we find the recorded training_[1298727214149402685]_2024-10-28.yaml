@@ -1,0 +1,45 @@
+- author_avatar_url: assets\791c521e62160be1f3df04992f6e5470-36A38.png
+  author_id: '477560366432256000'
+  author_name: jjoannid
+  author_nickname: Jack Joannides KC text admin
+  content: ''
+  id: '1298727563006312498'
+  ref_to: '1298727214149402685'
+  timestamp: '2024-10-23T19:19:40.212+00:00'
+  type: '21'
+- author_avatar_url: assets\791c521e62160be1f3df04992f6e5470-36A38.png
+  author_id: '477560366432256000'
+  author_name: jjoannid
+  author_nickname: Jack Joannides KC text admin
+  content: We don't have a recorded training.
+  id: '1298727566064226445'
+  ref_to: null
+  timestamp: '2024-10-23T19:19:40.941+00:00'
+  type: Default
+- author_avatar_url: assets\90595ea07dd349adc8ba22cb8d2f8a14-00AFD.png
+  author_id: '779382569534881824'
+  author_name: ginaturone
+  author_nickname: Gina Turone
+  content: Lol I started watching it yesterday
+  id: '1298727772700540949'
+  ref_to: null
+  timestamp: '2024-10-23T19:20:30.207+00:00'
+  type: Default
+- author_avatar_url: assets\791c521e62160be1f3df04992f6e5470-36A38.png
+  author_id: '477560366432256000'
+  author_name: jjoannid
+  author_nickname: Jack Joannides KC text admin
+  content: That's in another channel.
+  id: '1298727901319004251'
+  ref_to: null
+  timestamp: '2024-10-23T19:21:00.872+00:00'
+  type: Default
+- author_avatar_url: assets\90595ea07dd349adc8ba22cb8d2f8a14-00AFD.png
+  author_id: '779382569534881824'
+  author_name: ginaturone
+  author_nickname: Gina Turone
+  content: Nvm I found it in persuasion channel it was a yt video
+  id: '1298727963377930334'
+  ref_to: null
+  timestamp: '2024-10-23T19:21:15.668+00:00'
+  type: Default

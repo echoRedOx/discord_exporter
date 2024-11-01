@@ -1,0 +1,61 @@
+Guild: Team Harris-Walz Virtual Office (ID: 1242249109298221066)
+Channel: 🔊-download-the-reach-app (ID: 1242256950402744431)
+Channel Topic: Information on how to download Reach
+Exported At: 2024-10-23T03:37:01.947142+00:00
+
+
+--- Message ---
+Message ID: 1266889188851318794
+Message Type: Default
+Reply to: None
+Timestamp: 2024-07-27T22:45:20.285+00:00
+Author: DemCord (DemCord)
+Author Id: 1242806362195365968
+Avatar URL: assets\007b625c296385e4ed52038a42c7256d-7649B.png
+Content: Download the Reach App!
+--------------------
+
+--- Message ---
+Message ID: 1271974021134549064
+Message Type: Default
+Reply to: None
+Timestamp: 2024-08-10T23:30:38.773+00:00
+Author: Andrea (Andi) Ferguson (NC) (andiferguson_87476)
+Author Id: 1270901650294571192
+Avatar URL: assets\e05dee8ff584e18115f663efe7b728ff-EAD58.png
+Content: Hi there! Is there a specific Campaign Key to use, or just choose one (or several)?
+--------------------
+
+--- Message ---
+Message ID: 1271975802564509798
+Message Type: Reply
+Reply to: 1271974021134549064
+Timestamp: 2024-08-10T23:37:43.499+00:00
+Author: Mimi P. [UT] • Lead Moo 🐄 (snowbunslc)
+Author Id: 690265089013842114
+Avatar URL: assets\a_af687ec26437850595306bad054786e9-735FE.gif
+Content: Hey there! Or campaign key is 
+ZUMT5Q
+--------------------
+
+--- Message ---
+Message ID: 1274153421511065689
+Message Type: Default
+Reply to: None
+Timestamp: 2024-08-16T23:50:48.314+00:00
+Author: RNmorah (rnmorah)
+Author Id: 642435951930638347
+Avatar URL: assets\1-B2132.png
+Content: Question: if I download the Reach app, does it get access to my contacts? If I'm not going to allow access, is it still worth it to download the app?
+--------------------
+
+--- Message ---
+Message ID: 1274155055125233684
+Message Type: Reply
+Reply to: 1274153421511065689
+Timestamp: 2024-08-16T23:57:17.798+00:00
+Author: Carolyn B [CA] • Lead Mod (carb.on)
+Author Id: 568257600228032512
+Avatar URL: assets\28a90c77b5793d80eb62484a43c66748-D8837.png
+Content: Reach accesses you social media accounts to share content in those platforms. You can use Reach without it accessing your contacts.
+--------------------

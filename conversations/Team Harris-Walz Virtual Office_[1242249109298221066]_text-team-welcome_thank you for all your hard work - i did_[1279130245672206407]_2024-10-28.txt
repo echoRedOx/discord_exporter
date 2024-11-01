@@ -1,0 +1,60 @@
+Guild: Team Harris-Walz Virtual Office (ID: 1242249109298221066)
+Channel: thank you for all your hard work - i did (ID: 1279130245672206407)
+Channel Topic: None
+Exported At: 2024-10-28T23:48:29.0354457+00:00
+
+
+--- Message ---
+Message ID: 1279130609226219540
+Message Type: 21
+Reply to: 1279130245672206407
+Timestamp: 2024-08-30T17:28:22.337+00:00
+Author: Jack Joannides KC text admin (jjoannid)
+Author Id: 477560366432256000
+Avatar URL: assets\791c521e62160be1f3df04992f6e5470-36A38.png
+Content: 
+--------------------
+
+--- Message ---
+Message ID: 1279130610354356266
+Message Type: Default
+Reply to: None
+Timestamp: 2024-08-30T17:28:22.606+00:00
+Author: Jack Joannides KC text admin (jjoannid)
+Author Id: 477560366432256000
+Avatar URL: assets\791c521e62160be1f3df04992f6e5470-36A38.png
+Content: Thanks for saying that. I know you want to be added. But we'll try to add you in maybe 48 hours or an bit less of that time frame.
+--------------------
+
+--- Message ---
+Message ID: 1279130801501503499
+Message Type: Reply
+Reply to: 1279130610354356266
+Timestamp: 2024-08-30T17:29:08.179+00:00
+Author: Angela K. (CO) KC Text Mod (.anathea)
+Author Id: 949409511951724595
+Avatar URL: assets\153fa1aae579a15bd6e9b9505153de92-9DAEB.png
+Content: it's all good! i'll keep working on some postcards in the meantime - there are lots of ways to help out!
+--------------------
+
+--- Message ---
+Message ID: 1279132476345946235
+Message Type: Default
+Reply to: None
+Timestamp: 2024-08-30T17:35:47.493+00:00
+Author: Branton J. [GA] Text Mod (perry.p)
+Author Id: 946953677611077642
+Avatar URL: assets\19838db602948fa14c3fa90a94996f8c-8CE56.png
+Content: <@949409511951724595> don’t forget to update your display name to for your First and Last name. That will speed up the onboarding.
+--------------------
+
+--- Message ---
+Message ID: 1279132875349823579
+Message Type: Reply
+Reply to: 1279132476345946235
+Timestamp: 2024-08-30T17:37:22.623+00:00
+Author: Angela K. (CO) KC Text Mod (.anathea)
+Author Id: 949409511951724595
+Avatar URL: assets\153fa1aae579a15bd6e9b9505153de92-9DAEB.png
+Content: whoops. done.
+--------------------

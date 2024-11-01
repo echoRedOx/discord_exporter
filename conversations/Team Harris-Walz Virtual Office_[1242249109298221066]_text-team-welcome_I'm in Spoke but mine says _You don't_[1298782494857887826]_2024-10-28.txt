@@ -1,0 +1,27 @@
+Guild: Team Harris-Walz Virtual Office (ID: 1242249109298221066)
+Channel: I'm in Spoke but mine says "You don't (ID: 1298782494857887826)
+Channel Topic: None
+Exported At: 2024-10-28T22:19:21.418719+00:00
+
+
+--- Message ---
+Message ID: 1298797412432744529
+Message Type: 21
+Reply to: 1298782494857887826
+Timestamp: 2024-10-23T23:57:13.613+00:00
+Author: Roberta Bavin CA KC Greeter/Mod (roberta_24935)
+Author Id: 1269872908759597148
+Avatar URL: assets\df6d19d97b04a49ffcafbe7be14c7839-D9CE4.png
+Content: 
+--------------------
+
+--- Message ---
+Message ID: 1298797416077856810
+Message Type: Default
+Reply to: None
+Timestamp: 2024-10-23T23:57:14.482+00:00
+Author: Roberta Bavin CA KC Greeter/Mod (roberta_24935)
+Author Id: 1269872908759597148
+Avatar URL: assets\df6d19d97b04a49ffcafbe7be14c7839-D9CE4.png
+Content: Hi <@1297327377319464982> Thanks for reaching out. If the replies are grayed out, there are none left. Please continue to watch for more to be posted. Thanks for being here!
+--------------------

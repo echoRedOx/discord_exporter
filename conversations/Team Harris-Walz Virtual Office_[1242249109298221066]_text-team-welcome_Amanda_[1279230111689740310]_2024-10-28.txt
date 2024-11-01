@@ -1,0 +1,27 @@
+Guild: Team Harris-Walz Virtual Office (ID: 1242249109298221066)
+Channel: Amanda (ID: 1279230111689740310)
+Channel Topic: None
+Exported At: 2024-10-28T23:47:28.1239526+00:00
+
+
+--- Message ---
+Message ID: 1279305515884609589
+Message Type: 21
+Reply to: 1279230111689740310
+Timestamp: 2024-08-31T05:03:23.334+00:00
+Author: Nicole Morris - Text Admin (nmorris237)
+Author Id: 935762347753103382
+Avatar URL: assets\27b1e286b65ae02b3378793b5f098411-A7B20.png
+Content: 
+--------------------
+
+--- Message ---
+Message ID: 1279305518493732894
+Message Type: Default
+Reply to: None
+Timestamp: 2024-08-31T05:03:23.956+00:00
+Author: Nicole Morris - Text Admin (nmorris237)
+Author Id: 935762347753103382
+Avatar URL: assets\27b1e286b65ae02b3378793b5f098411-A7B20.png
+Content: Hi <@1276720993016217703> thanks! To clarify, are you asking about the DNC/Harris text team training? Or the AZ Dems one?
+--------------------

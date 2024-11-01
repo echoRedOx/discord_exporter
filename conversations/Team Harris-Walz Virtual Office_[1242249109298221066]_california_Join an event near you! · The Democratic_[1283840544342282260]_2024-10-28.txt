@@ -1,0 +1,27 @@
+Guild: Team Harris-Walz Virtual Office (ID: 1242249109298221066)
+Channel: Join an event near you! · The Democratic... (ID: 1283840544342282260)
+Channel Topic: None
+Exported At: 2024-10-29T00:35:15.4099768+00:00
+
+
+--- Message ---
+Message ID: 1283888976192868504
+Message Type: 21
+Reply to: 1283840544342282260
+Timestamp: 2024-09-12T20:36:25.428+00:00
+Author: Carma [CA] Data Capt (herzenity)
+Author Id: 1266903384934584434
+Avatar URL: assets\5ba2851595b4062d1a92d699d6a8e44b-F93C7.png
+Content: 
+--------------------
+
+--- Message ---
+Message ID: 1283888978491211837
+Message Type: Default
+Reply to: None
+Timestamp: 2024-09-12T20:36:25.976+00:00
+Author: Carma [CA] Data Capt (herzenity)
+Author Id: 1266903384934584434
+Avatar URL: assets\5ba2851595b4062d1a92d699d6a8e44b-F93C7.png
+Content: I'm signed up for 2 events every Saturday between now and November!
+--------------------

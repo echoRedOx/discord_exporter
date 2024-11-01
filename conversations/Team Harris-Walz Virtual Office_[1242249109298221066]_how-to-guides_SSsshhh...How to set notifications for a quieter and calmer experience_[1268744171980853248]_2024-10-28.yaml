@@ -1,0 +1,57 @@
+- author_avatar_url: assets\8b706a86e5f9b8dcaaa950a7500b77b8-E1341.png
+  author_id: '957714233217409174'
+  author_name: opheliawild
+  author_nickname: "Ophelia W \u2022 Lead Mod"
+  content: "You can change your personal push notification settings for each category\
+    \ (the top-level sections in the sidebar with carrots that look like this: > Community\
+    \ >Level Up >Calls Team > Text Team, etc. \n\nTo change notifications, right click\
+    \ (laptop) or tap and hold (mobile/tablet) the Category name. Click or tap \"\
+    Mute Category\" and select your preferred option. For maximum quiet, select \"\
+    Until I turn it back on\" or select your preferred option.\n\nNext, click or tap\
+    \ \"Notification Settings\". You can turn all notifications OFF by clicking or\
+    \ tapping \"Nothing\".  If you select @ mentions you will still receive push notifications\
+    \ when you or your roles are mentioned/tagged. \n\nYou now have your preferred\
+    \ notifications set for all channels in the category and you've muted the category.\
+    \ \n\nThese settings can help manage overwhelm. \n\nYou can also right click or\
+    \ press and hold a category, then select \"Mark as Read\" to dismiss bold channels\
+    \ that show up when new messages are present. If you're still seeing channels\
+    \ in bold, you can quiet them by muting the category or the specific channel.\
+    \ \n\nLet us know if you have questions on these features!"
+  id: '1268744171980853248'
+  ref_to: null
+  timestamp: '2024-08-02T01:36:22.727+00:00'
+  type: Default
+- author_avatar_url: assets\28a90c77b5793d80eb62484a43c66748-D8837.png
+  author_id: '568257600228032512'
+  author_name: carb.on
+  author_nickname: "Carolyn B [CA] \u2022 Lead Mod"
+  content: Notification settings can also help you sleep (or work) if you want to
+    do those things during times when the community is very active.
+  id: '1268747910346969159'
+  ref_to: null
+  timestamp: '2024-08-02T01:51:14.023+00:00'
+  type: Default
+- author_avatar_url: assets\3-FB033.png
+  author_id: '1246966565623173134'
+  author_name: firtreegeekdom18_81799
+  author_nickname: Linda Seltzer (WA)
+  content: '"each category (the top-level sections in the sidebar " what does this
+    mean? Is it for each channel? Is there an icon to look for?'
+  id: '1274037949692116994'
+  ref_to: null
+  timestamp: '2024-08-16T16:11:57.687+00:00'
+  type: Default
+- author_avatar_url: assets\8b706a86e5f9b8dcaaa950a7500b77b8-E1341.png
+  author_id: '957714233217409174'
+  author_name: opheliawild
+  author_nickname: "Ophelia W \u2022 Lead Mod"
+  content: "There are little angle brackets by them, they are kind of like folders\
+    \ that contain channels for that category. \U0001F609 You can click on the angle\
+    \ bracket to view or hide the channels under that category. \n\nWe've now turned\
+    \ off messaging here to keep this page \"view only\" but if anyone has further\
+    \ questions, please ask your friendly, neighborhood mods in <#1242249109298221069>\
+    \ or you can post your question to <#1267941954243526756>."
+  id: '1274038611389714594'
+  ref_to: '1274037949692116994'
+  timestamp: '2024-08-16T16:14:35.448+00:00'
+  type: Reply

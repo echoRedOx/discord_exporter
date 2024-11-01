@@ -1,0 +1,51 @@
+- author_avatar_url: assets\ce3882a42b0011362b6f403aa78dcbc2-C5246.png
+  author_id: '1266900496770400339'
+  author_name: alisonrempel
+  author_nickname: Alison Rempel
+  content: I noted in my calendar a Calls Team zoom right now, but don't have any
+    link
+  id: '1277342430609281045'
+  ref_to: null
+  timestamp: '2024-08-25T19:02:47.332+00:00'
+  type: Default
+- author_avatar_url: assets\8db27bf35eb7f0b046b8bf1514edce01-02FA5.png
+  author_id: '276010165549924353'
+  author_name: growth
+  author_nickname: "Mlep [TX] \u2022 Lead Mod"
+  content: Hi Alison!  Would you mind posting your question in <#1263529508300914809>
+    also?  They may be able to answer it faster, if we can get some eyes on it from
+    people who know calls!
+  id: '1277342805555151029'
+  ref_to: null
+  timestamp: '2024-08-25T19:04:16.726+00:00'
+  type: Default
+- author_avatar_url: assets\ce3882a42b0011362b6f403aa78dcbc2-C5246.png
+  author_id: '1266900496770400339'
+  author_name: alisonrempel
+  author_nickname: Alison Rempel
+  content: Thanks.  I don't have access to that channel.  I have a 1on1 schedule with
+    Jeff later today, so maybe he's waiting til then to add me to the Calls Team.
+  id: '1277343726032781363'
+  ref_to: null
+  timestamp: '2024-08-25T19:07:56.185+00:00'
+  type: Default
+- author_avatar_url: assets\8db27bf35eb7f0b046b8bf1514edce01-02FA5.png
+  author_id: '276010165549924353'
+  author_name: growth
+  author_nickname: "Mlep [TX] \u2022 Lead Mod"
+  content: You can try going into <id:customize> and click "talk to voters in key
+    states" and it should add the call role to you to see that channel I think --
+    let me know if that doesn't work
+  id: '1277343962855641099'
+  ref_to: '1277343726032781363'
+  timestamp: '2024-08-25T19:08:52.648+00:00'
+  type: Reply
+- author_avatar_url: assets\ce3882a42b0011362b6f403aa78dcbc2-C5246.png
+  author_id: '1266900496770400339'
+  author_name: alisonrempel
+  author_nickname: Alison Rempel
+  content: Thanks that worked!
+  id: '1277344626830999657'
+  ref_to: null
+  timestamp: '2024-08-25T19:11:30.952+00:00'
+  type: Default

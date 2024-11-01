@@ -1,0 +1,49 @@
+Guild: Team Harris-Walz Virtual Office (ID: 1242249109298221066)
+Channel: How can I get on a text team? (ID: 1293614595793096757)
+Channel Topic: None
+Exported At: 2024-10-28T22:47:00.2990105+00:00
+
+
+--- Message ---
+Message ID: 1293620665152442440
+Message Type: 21
+Reply to: 1293614595793096757
+Timestamp: 2024-10-09T17:06:40.882+00:00
+Author: Jack Joannides KC text admin (jjoannid)
+Author Id: 477560366432256000
+Avatar URL: assets\791c521e62160be1f3df04992f6e5470-36A38.png
+Content: 
+--------------------
+
+--- Message ---
+Message ID: 1293620667349995541
+Message Type: Default
+Reply to: None
+Timestamp: 2024-10-09T17:06:41.406+00:00
+Author: Jack Joannides KC text admin (jjoannid)
+Author Id: 477560366432256000
+Avatar URL: assets\791c521e62160be1f3df04992f6e5470-36A38.png
+Content: You can take a training here: https://events.democrats.org/event/672393/
+--------------------
+
+--- Message ---
+Message ID: 1293713304270667849
+Message Type: Default
+Reply to: None
+Timestamp: 2024-10-09T23:14:47.769+00:00
+Author: JennKB-PA (revjkb)
+Author Id: 1280680519440531480
+Avatar URL: assets\6c5996770c985bcd6e5b68131ff2ba04-1EE06.png
+Content: <@477560366432256000> what is the application you need to download to do texting
+--------------------
+
+--- Message ---
+Message ID: 1293715678368628767
+Message Type: Default
+Reply to: None
+Timestamp: 2024-10-09T23:24:13.798+00:00
+Author: Jack Joannides KC text admin (jjoannid)
+Author Id: 477560366432256000
+Avatar URL: assets\791c521e62160be1f3df04992f6e5470-36A38.png
+Content: You don't have to download a platform.
+--------------------

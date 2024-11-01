@@ -1,0 +1,27 @@
+Guild: Team Harris-Walz Virtual Office (ID: 1242249109298221066)
+Channel: After verifying my number, I lost my dms (ID: 1285263967274537043)
+Channel Topic: None
+Exported At: 2024-10-28T23:19:53.9532176+00:00
+
+
+--- Message ---
+Message ID: 1285310005385367562
+Message Type: 21
+Reply to: 1285263967274537043
+Timestamp: 2024-09-16T18:43:05.189+00:00
+Author: Roberta Bavin CA KC Greeter/Mod (roberta_24935)
+Author Id: 1269872908759597148
+Avatar URL: assets\df6d19d97b04a49ffcafbe7be14c7839-D9CE4.png
+Content: 
+--------------------
+
+--- Message ---
+Message ID: 1285310007365206016
+Message Type: Default
+Reply to: None
+Timestamp: 2024-09-16T18:43:05.661+00:00
+Author: Roberta Bavin CA KC Greeter/Mod (roberta_24935)
+Author Id: 1269872908759597148
+Avatar URL: assets\df6d19d97b04a49ffcafbe7be14c7839-D9CE4.png
+Content: Hi Danielle! Thanks for checking in. Have you tried signing out and back in, restarting your computer, etc?
+--------------------

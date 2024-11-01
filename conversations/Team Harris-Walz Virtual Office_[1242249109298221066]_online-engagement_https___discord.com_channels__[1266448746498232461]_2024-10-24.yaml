@@ -1,0 +1,66 @@
+- author_avatar_url: assets\e940fcd0527f7edd98cdee8d31c08cc0-9A6CA.png
+  author_id: '1256039311367999658'
+  author_name: ch.bosse
+  author_nickname: Christian Bosse
+  content: ''
+  id: '1266449874656694313'
+  ref_to: '1266448746498232461'
+  timestamp: '2024-07-26T17:39:39.619+00:00'
+  type: '21'
+- author_avatar_url: assets\e940fcd0527f7edd98cdee8d31c08cc0-9A6CA.png
+  author_id: '1256039311367999658'
+  author_name: ch.bosse
+  author_nickname: Christian Bosse
+  content: Hi <@244255410964398081>. I can highlight this to the staff. Is there a
+    ticket reference that you can share?
+  id: '1266449876040941598'
+  ref_to: null
+  timestamp: '2024-07-26T17:39:39.949+00:00'
+  type: Default
+- author_avatar_url: assets\7c9e6ce418028d8d80ab6a21bc6f94e3-7A9E5.png
+  author_id: '244255410964398081'
+  author_name: sheodox
+  author_nickname: Jake H. (MN)
+  content: all i know is the channel for it is called "9-sheodox", but at any rate,
+    the ticket says basically the same thing as my message here anyway
+  id: '1266450200705368106'
+  ref_to: null
+  timestamp: '2024-07-26T17:40:57.355+00:00'
+  type: Default
+- author_avatar_url: assets\e940fcd0527f7edd98cdee8d31c08cc0-9A6CA.png
+  author_id: '1256039311367999658'
+  author_name: ch.bosse
+  author_nickname: Christian Bosse
+  content: Alright, the "#9-sheodox" helps already. I'll ping the staff.
+  id: '1266450368381063200'
+  ref_to: null
+  timestamp: '2024-07-26T17:41:37.332+00:00'
+  type: Default
+- author_avatar_url: assets\e940fcd0527f7edd98cdee8d31c08cc0-9A6CA.png
+  author_id: '1256039311367999658'
+  author_name: ch.bosse
+  author_nickname: Christian Bosse
+  content: We got it forwarded and highlighted to the Tech team. They will look into
+    it
+  id: '1266459450789593270'
+  ref_to: null
+  timestamp: '2024-07-26T18:17:42.747+00:00'
+  type: Default
+- author_avatar_url: assets\7c9e6ce418028d8d80ab6a21bc6f94e3-7A9E5.png
+  author_id: '244255410964398081'
+  author_name: sheodox
+  author_nickname: Jake H. (MN)
+  content: thank you!
+  id: '1266462911375872042'
+  ref_to: null
+  timestamp: '2024-07-26T18:31:27.815+00:00'
+  type: Default
+- author_avatar_url: assets\e940fcd0527f7edd98cdee8d31c08cc0-9A6CA.png
+  author_id: '1256039311367999658'
+  author_name: ch.bosse
+  author_nickname: Christian Bosse
+  content: Hey, that seems to be fixed since yesterday, I believe. <:1f44d2x:1252804076849074276>
+  id: '1267282484853215344'
+  ref_to: null
+  timestamp: '2024-07-29T00:48:09.359+00:00'
+  type: Default

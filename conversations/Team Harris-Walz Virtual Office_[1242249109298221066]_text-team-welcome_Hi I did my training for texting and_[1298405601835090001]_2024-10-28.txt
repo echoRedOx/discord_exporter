@@ -1,0 +1,27 @@
+Guild: Team Harris-Walz Virtual Office (ID: 1242249109298221066)
+Channel: Hi I did my training for texting and (ID: 1298405601835090001)
+Channel Topic: None
+Exported At: 2024-10-28T22:21:27.0084868+00:00
+
+
+--- Message ---
+Message ID: 1298405978441777232
+Message Type: 21
+Reply to: 1298405601835090001
+Timestamp: 2024-10-22T22:01:48.477+00:00
+Author: Roberta Bavin CA KC Greeter/Mod (roberta_24935)
+Author Id: 1269872908759597148
+Avatar URL: assets\df6d19d97b04a49ffcafbe7be14c7839-D9CE4.png
+Content: 
+--------------------
+
+--- Message ---
+Message ID: 1298405981390372975
+Message Type: Default
+Reply to: None
+Timestamp: 2024-10-22T22:01:49.18+00:00
+Author: Roberta Bavin CA KC Greeter/Mod (roberta_24935)
+Author Id: 1269872908759597148
+Avatar URL: assets\df6d19d97b04a49ffcafbe7be14c7839-D9CE4.png
+Content: Hi <@1292256673687146648> Please check your DM's for a message I sent you on 10/6! Thanks for following up!
+--------------------

@@ -1,0 +1,29 @@
+- author_avatar_url: assets\f7f2e9361e8a54ce6e72580ac7b967af-88D2C.png
+  author_id: '1283487913123774485'
+  author_name: mmt_michelle
+  author_nickname: Michelle MMT
+  content: If voter confirms name, but then refuses, should I mark as talked to voter
+    or refused?
+  id: '1284318003747618836'
+  ref_to: null
+  timestamp: '2024-09-14T01:01:13.568+00:00'
+  type: Default
+- author_avatar_url: assets\d1341d3c05d207da49a6fa548b4c1086-4BE71.png
+  author_id: '1267643778043482122'
+  author_name: hollymateluber
+  author_nickname: Holly Mate-Luber [Call Mod]
+  content: I don't have the dialer link/script open in front of me to see the options
+    but I believe "refused" is ok here
+  id: '1284318486285520928'
+  ref_to: null
+  timestamp: '2024-09-14T01:03:08.614+00:00'
+  type: Default
+- author_avatar_url: assets\f7f2e9361e8a54ce6e72580ac7b967af-88D2C.png
+  author_id: '1283487913123774485'
+  author_name: mmt_michelle
+  author_nickname: Michelle MMT
+  content: "Could I ask for Dialer link/script you\u2019re referring to, pls?"
+  id: '1284351031840346197'
+  ref_to: null
+  timestamp: '2024-09-14T03:12:28.079+00:00'
+  type: Default

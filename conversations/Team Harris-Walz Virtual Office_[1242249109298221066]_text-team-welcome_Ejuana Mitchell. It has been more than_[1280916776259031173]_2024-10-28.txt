@@ -1,0 +1,27 @@
+Guild: Team Harris-Walz Virtual Office (ID: 1242249109298221066)
+Channel: Ejuana Mitchell. It has been more than (ID: 1280916776259031173)
+Channel Topic: None
+Exported At: 2024-10-28T23:40:16.7793952+00:00
+
+
+--- Message ---
+Message ID: 1280919428711579709
+Message Type: 21
+Reply to: 1280916776259031173
+Timestamp: 2024-09-04T15:56:30.137+00:00
+Author: Roberta Bavin CA KC Greeter/Mod (roberta_24935)
+Author Id: 1269872908759597148
+Avatar URL: assets\df6d19d97b04a49ffcafbe7be14c7839-D9CE4.png
+Content: 
+--------------------
+
+--- Message ---
+Message ID: 1280919430410276894
+Message Type: Default
+Reply to: None
+Timestamp: 2024-09-04T15:56:30.542+00:00
+Author: Roberta Bavin CA KC Greeter/Mod (roberta_24935)
+Author Id: 1269872908759597148
+Avatar URL: assets\df6d19d97b04a49ffcafbe7be14c7839-D9CE4.png
+Content: Please check your DM's. Thanks!
+--------------------

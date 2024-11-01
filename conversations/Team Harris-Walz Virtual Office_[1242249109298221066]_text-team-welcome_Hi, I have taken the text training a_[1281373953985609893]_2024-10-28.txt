@@ -1,0 +1,60 @@
+Guild: Team Harris-Walz Virtual Office (ID: 1242249109298221066)
+Channel: Hi, I have taken the text training a (ID: 1281373953985609893)
+Channel Topic: None
+Exported At: 2024-10-28T23:38:16.4723397+00:00
+
+
+--- Message ---
+Message ID: 1281374088505593858
+Message Type: 21
+Reply to: 1281373953985609893
+Timestamp: 2024-09-05T22:03:09.479+00:00
+Author: Jack Joannides KC text admin (jjoannid)
+Author Id: 477560366432256000
+Avatar URL: assets\791c521e62160be1f3df04992f6e5470-36A38.png
+Content: 
+--------------------
+
+--- Message ---
+Message ID: 1281374089818148975
+Message Type: Default
+Reply to: None
+Timestamp: 2024-09-05T22:03:09.792+00:00
+Author: Jack Joannides KC text admin (jjoannid)
+Author Id: 477560366432256000
+Avatar URL: assets\791c521e62160be1f3df04992f6e5470-36A38.png
+Content: You'll get added in 24-72 hours.
+--------------------
+
+--- Message ---
+Message ID: 1281374193279176714
+Message Type: Default
+Reply to: None
+Timestamp: 2024-09-05T22:03:34.459+00:00
+Author: Robyn Crosby (MO) (malinoisowner)
+Author Id: 1279893710573932695
+Avatar URL: assets\f9eed096a54c4d940a8154d5b8e09420-BF71C.png
+Content: how do i get into Scale to Win?
+--------------------
+
+--- Message ---
+Message ID: 1281374445297991875
+Message Type: Default
+Reply to: None
+Timestamp: 2024-09-05T22:04:34.545+00:00
+Author: Robyn Crosby (MO) (malinoisowner)
+Author Id: 1279893710573932695
+Avatar URL: assets\f9eed096a54c4d940a8154d5b8e09420-BF71C.png
+Content: I'm so confused b/c when i took the training the other day it was given to me immediately ... Edited: no wait, i logged in somehow?? I don't have an account in anyway tho, but no noone gave me a link.
+--------------------
+
+--- Message ---
+Message ID: 1281374634180349962
+Message Type: Default
+Reply to: None
+Timestamp: 2024-09-05T22:05:19.578+00:00
+Author: Jack Joannides KC text admin (jjoannid)
+Author Id: 477560366432256000
+Avatar URL: assets\791c521e62160be1f3df04992f6e5470-36A38.png
+Content: You will get the link from an greeter in 24-72.
+--------------------

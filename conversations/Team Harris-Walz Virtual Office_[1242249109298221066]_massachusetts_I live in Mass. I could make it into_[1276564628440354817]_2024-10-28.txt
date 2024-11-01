@@ -1,0 +1,38 @@
+Guild: Team Harris-Walz Virtual Office (ID: 1242249109298221066)
+Channel: I live in Mass. I could make it into (ID: 1276564628440354817)
+Channel Topic: None
+Exported At: 2024-10-29T00:36:28.1696589+00:00
+
+
+--- Message ---
+Message ID: 1276572718468305041
+Message Type: 21
+Reply to: 1276564628440354817
+Timestamp: 2024-08-23T16:04:13.657+00:00
+Author: Holly Mate-Luber [Call Mod] (hollymateluber)
+Author Id: 1267643778043482122
+Avatar URL: assets\d1341d3c05d207da49a6fa548b4c1086-4BE71.png
+Content: 
+--------------------
+
+--- Message ---
+Message ID: 1276572720695480412
+Message Type: Default
+Reply to: None
+Timestamp: 2024-08-23T16:04:14.188+00:00
+Author: Holly Mate-Luber [Call Mod] (hollymateluber)
+Author Id: 1267643778043482122
+Avatar URL: assets\d1341d3c05d207da49a6fa548b4c1086-4BE71.png
+Content: Got it! Do you want to do texting from home? Here is a link to the training! https://events.democrats.org/event/672393/
+--------------------
+
+--- Message ---
+Message ID: 1276578311350259803
+Message Type: Default
+Reply to: None
+Timestamp: 2024-08-23T16:26:27.104+00:00
+Author: Kathryn Jean [MA] (lefty_lucy_60633)
+Author Id: 1264664181697675285
+Avatar URL: assets\a9fc9fbd48b893a8bf777da59a460813-9D27B.png
+Content: Thank you. I just signed up!
+--------------------

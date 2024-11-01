@@ -1,0 +1,27 @@
+Guild: Team Harris-Walz Virtual Office (ID: 1242249109298221066)
+Channel: Hi! How do I sign up to be a texter? (ID: 1279929264879304705)
+Channel Topic: None
+Exported At: 2024-10-28T23:43:19.9471399+00:00
+
+
+--- Message ---
+Message ID: 1279930524600897536
+Message Type: 21
+Reply to: 1279929264879304705
+Timestamp: 2024-09-01T22:26:57.024+00:00
+Author: Jack Joannides KC text admin (jjoannid)
+Author Id: 477560366432256000
+Avatar URL: assets\791c521e62160be1f3df04992f6e5470-36A38.png
+Content: 
+--------------------
+
+--- Message ---
+Message ID: 1279930525812785215
+Message Type: Default
+Reply to: None
+Timestamp: 2024-09-01T22:26:57.313+00:00
+Author: Jack Joannides KC text admin (jjoannid)
+Author Id: 477560366432256000
+Avatar URL: assets\791c521e62160be1f3df04992f6e5470-36A38.png
+Content: You can sign up here: https://events.democrats.org/event/672393/
+--------------------

@@ -1,0 +1,38 @@
+Guild: Team Harris-Walz Virtual Office (ID: 1242249109298221066)
+Channel: I did the text team training with Angelo (ID: 1270146132143636501)
+Channel Topic: None
+Exported At: 2024-10-24T06:19:39.556543+00:00
+
+
+--- Message ---
+Message ID: 1270152937582231582
+Message Type: 21
+Reply to: 1270146132143636501
+Timestamp: 2024-08-05T22:54:18.62+00:00
+Author: Marie B. | PA/NJ | OE/KC (mariebroph2677695)
+Author Id: 941196169852366859
+Avatar URL: assets\4412fd436c9a7d43a1770d5771bbdd0c-8CC79.png
+Content: 
+--------------------
+
+--- Message ---
+Message ID: 1270152939348033648
+Message Type: Default
+Reply to: None
+Timestamp: 2024-08-05T22:54:19.041+00:00
+Author: Marie B. | PA/NJ | OE/KC (mariebroph2677695)
+Author Id: 941196169852366859
+Avatar URL: assets\4412fd436c9a7d43a1770d5771bbdd0c-8CC79.png
+Content: <@1257444318222876712> Bruce said he didn't get the text team agreement form. Is there any way we can get that to him?
+--------------------
+
+--- Message ---
+Message ID: 1277065943197028427
+Message Type: Default
+Reply to: None
+Timestamp: 2024-08-25T00:44:07.596+00:00
+Author: Barbara Macdonald (barbaramacdonald.)
+Author Id: 1277044145407660164
+Avatar URL: assets\6c5996770c985bcd6e5b68131ff2ba04-48C68.png
+Content: Hi I just finished the Texting volunteer training with Angelo.  Please send me the text team agreement form as well as the quiz as was unable to access them via google with the https addresses provided.  Thank you.
+--------------------

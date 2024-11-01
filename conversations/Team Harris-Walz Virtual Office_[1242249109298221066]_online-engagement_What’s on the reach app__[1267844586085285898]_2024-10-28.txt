@@ -1,0 +1,27 @@
+Guild: Team Harris-Walz Virtual Office (ID: 1242249109298221066)
+Channel: What’s on the reach app? (ID: 1267844586085285898)
+Channel Topic: None
+Exported At: 2024-10-28T21:56:28.8805878+00:00
+
+
+--- Message ---
+Message ID: 1267845798943657995
+Message Type: 21
+Reply to: 1267844586085285898
+Timestamp: 2024-07-30T14:06:33.904+00:00
+Author: Christian Bosse (ch.bosse)
+Author Id: 1256039311367999658
+Avatar URL: assets\e940fcd0527f7edd98cdee8d31c08cc0-9A6CA.png
+Content: 
+--------------------
+
+--- Message ---
+Message ID: 1267845800667512883
+Message Type: Default
+Reply to: None
+Timestamp: 2024-07-30T14:06:34.315+00:00
+Author: Christian Bosse (ch.bosse)
+Author Id: 1256039311367999658
+Avatar URL: assets\e940fcd0527f7edd98cdee8d31c08cc0-9A6CA.png
+Content: Using our tool Reach, you'll receive graphics and content to help amplify the Democrats' message and remind your social networks of the stakes this November. check <#1242256950402744431> and our Online Engagement Trainings https://events.democrats.org/event/615101/
+--------------------

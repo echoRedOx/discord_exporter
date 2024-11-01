@@ -1,0 +1,82 @@
+Guild: Team Harris-Walz Virtual Office (ID: 1242249109298221066)
+Channel: Roberta, I signed up with Spoke as you (ID: 1294792467253821512)
+Channel Topic: None
+Exported At: 2024-10-28T22:41:58.7322389+00:00
+
+
+--- Message ---
+Message ID: 1294792695130095760
+Message Type: 21
+Reply to: 1294792467253821512
+Timestamp: 2024-10-12T22:43:54.604+00:00
+Author: Roberta Bavin CA KC Greeter/Mod (roberta_24935)
+Author Id: 1269872908759597148
+Avatar URL: assets\df6d19d97b04a49ffcafbe7be14c7839-D9CE4.png
+Content: 
+--------------------
+
+--- Message ---
+Message ID: 1294792698267566142
+Message Type: Default
+Reply to: None
+Timestamp: 2024-10-12T22:43:55.352+00:00
+Author: Roberta Bavin CA KC Greeter/Mod (roberta_24935)
+Author Id: 1269872908759597148
+Avatar URL: assets\df6d19d97b04a49ffcafbe7be14c7839-D9CE4.png
+Content: Let me complete things on the back end and send you another DM. Be back soon!
+--------------------
+
+--- Message ---
+Message ID: 1294798783376261284
+Message Type: Default
+Reply to: None
+Timestamp: 2024-10-12T23:08:06.155+00:00
+Author: Daniel Redwood (daniel.redwood)
+Author Id: 1291768626461937727
+Avatar URL: assets\1-B2132.png
+Content: Thank you. If I need to leave, will this conversation be available to me under text-team-welcome link on left of Discord home screen?
+--------------------
+
+--- Message ---
+Message ID: 1294799610589614143
+Message Type: Reply
+Reply to: 1294798783376261284
+Timestamp: 2024-10-12T23:11:23.378+00:00
+Author: Roberta Bavin CA KC Greeter/Mod (roberta_24935)
+Author Id: 1269872908759597148
+Avatar URL: assets\df6d19d97b04a49ffcafbe7be14c7839-D9CE4.png
+Content: It's better to have it in DM so it's not public. Thanks!
+--------------------
+
+--- Message ---
+Message ID: 1294800000936575087
+Message Type: Default
+Reply to: None
+Timestamp: 2024-10-12T23:12:56.444+00:00
+Author: Daniel Redwood (daniel.redwood)
+Author Id: 1291768626461937727
+Avatar URL: assets\1-B2132.png
+Content: I agree. Not sure where I access DM on Discord. Does that only have a link if someone has DM'd me?
+--------------------
+
+--- Message ---
+Message ID: 1294801395702038608
+Message Type: Reply
+Reply to: 1294800000936575087
+Timestamp: 2024-10-12T23:18:28.982+00:00
+Author: Roberta Bavin CA KC Greeter/Mod (roberta_24935)
+Author Id: 1269872908759597148
+Avatar URL: assets\df6d19d97b04a49ffcafbe7be14c7839-D9CE4.png
+Content: You have been sending DM's back and forth with me during the onboarding process. All the DM's are in left Upper corner of Discord, game controller icon. Thanks for checking in!
+--------------------
+
+--- Message ---
+Message ID: 1294802837708083260
+Message Type: Default
+Reply to: None
+Timestamp: 2024-10-12T23:24:12.783+00:00
+Author: Daniel Redwood (daniel.redwood)
+Author Id: 1291768626461937727
+Avatar URL: assets\1-B2132.png
+Content: Got it.  Thanks for help getting me up to speed. I now know where it is. Signing off for now. I greatly appreciate ypur patience.
+--------------------

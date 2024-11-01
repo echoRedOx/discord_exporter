@@ -1,0 +1,82 @@
+Guild: Team Harris-Walz Virtual Office (ID: 1242249109298221066)
+Channel: Text banking (ID: 1280285199195832342)
+Channel Topic: None
+Exported At: 2024-10-24T06:46:14.4303082+00:00
+
+
+--- Message ---
+Message ID: 1280285199195832342
+Message Type: Default
+Reply to: None
+Timestamp: 2024-09-02T21:56:18.037+00:00
+Author: dantheraider2015 (dantheraider2015)
+Author Id: 481338344941289472
+Avatar URL: assets\090480b79efe733d72dc5d4699895f0f-EBD22.png
+Content: Are there any text banks for Harris Walz? I’ve had people some of them rude. Mention the way that I sound when I talk and I am hoping that there maybe a text bank I can do instead of phone calls banking?
+--------------------
+
+--- Message ---
+Message ID: 1280311153251192832
+Message Type: Default
+Reply to: None
+Timestamp: 2024-09-02T23:39:25.966+00:00
+Author: Laura M (CO) • Call Mod (hungry.hiker)
+Author Id: 756314488113987654
+Avatar URL: assets\4aa5ed3c3ad66beef8f10bd0d3979dae-08843.png
+Content: Hi <@481338344941289472> Thanks so much for reaching out and sharing your feedback. Calls can be tough for many people (I sill get anxious making them). If you are interested in trying out text banking, you can sign up for a training session here: https://events.democrats.org/event/672393/
+--------------------
+
+--- Message ---
+Message ID: 1280339292555706368
+Message Type: Default
+Reply to: None
+Timestamp: 2024-09-03T01:31:14.899+00:00
+Author: dantheraider2015 (dantheraider2015)
+Author Id: 481338344941289472
+Avatar URL: assets\090480b79efe733d72dc5d4699895f0f-EBD22.png
+Content: Are there any other days for the training? I work durning those days.
+--------------------
+
+--- Message ---
+Message ID: 1280339429705257003
+Message Type: Default
+Reply to: None
+Timestamp: 2024-09-03T01:31:47.598+00:00
+Author: dantheraider2015 (dantheraider2015)
+Author Id: 481338344941289472
+Avatar URL: assets\090480b79efe733d72dc5d4699895f0f-EBD22.png
+Content: I would be able to make it to a Monday one
+--------------------
+
+--- Message ---
+Message ID: 1280341525221347372
+Message Type: Reply
+Reply to: 1280339429705257003
+Timestamp: 2024-09-03T01:40:07.208+00:00
+Author: Jeannine M • Lead Mod (jean9_28218_79932)
+Author Id: 1266879741785538682
+Avatar URL: assets\54ff5e8dfab835d878a961f9f7b7d161-6C0EE.png
+Content: Unfortunately it doesn't look like there are other ones right now. They have filled up, but we might open more up soon! In the meantime, there are lots of ways to get involved that don't involve being on the phone. Have you checked out our [Online Engagement Team training Part 1: Mapping Your Digital Communities](https://events.democrats.org/event/615101/) or [Data Captain Training](https://events.democrats.org/event/654890/)?
+--------------------
+
+--- Message ---
+Message ID: 1280353619639799809
+Message Type: Default
+Reply to: None
+Timestamp: 2024-09-03T02:28:10.742+00:00
+Author: Jeannine M • Lead Mod (jean9_28218_79932)
+Author Id: 1266879741785538682
+Avatar URL: assets\54ff5e8dfab835d878a961f9f7b7d161-6C0EE.png
+Content: <@481338344941289472> we have an updated url with lots of trainings. Check these out and see if any work with your schedule: [Text Team Training- often limited spots available](https://events.democrats.org/event/672393/)
+--------------------
+
+--- Message ---
+Message ID: 1280469535291473962
+Message Type: Default
+Reply to: None
+Timestamp: 2024-09-03T10:08:47.187+00:00
+Author: dantheraider2015 (dantheraider2015)
+Author Id: 481338344941289472
+Avatar URL: assets\090480b79efe733d72dc5d4699895f0f-EBD22.png
+Content: We need another day and time. I’ll try to make it to one of those days but nothing changed. All I see are the same dates as before.
+--------------------

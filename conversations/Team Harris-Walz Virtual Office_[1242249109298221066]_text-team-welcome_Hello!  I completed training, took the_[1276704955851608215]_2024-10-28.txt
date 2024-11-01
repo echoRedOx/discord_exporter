@@ -1,0 +1,27 @@
+Guild: Team Harris-Walz Virtual Office (ID: 1242249109298221066)
+Channel: Hello!  I completed training, took the (ID: 1276704955851608215)
+Channel Topic: None
+Exported At: 2024-10-29T00:09:00.6283586+00:00
+
+
+--- Message ---
+Message ID: 1276707390263394345
+Message Type: 21
+Reply to: 1276704955851608215
+Timestamp: 2024-08-24T00:59:21.915+00:00
+Author: Nicole Morris - Text Admin (nmorris237)
+Author Id: 935762347753103382
+Avatar URL: assets\27b1e286b65ae02b3378793b5f098411-A7B20.png
+Content: 
+--------------------
+
+--- Message ---
+Message ID: 1276707391555244044
+Message Type: Default
+Reply to: None
+Timestamp: 2024-08-24T00:59:22.223+00:00
+Author: Nicole Morris - Text Admin (nmorris237)
+Author Id: 935762347753103382
+Avatar URL: assets\27b1e286b65ae02b3378793b5f098411-A7B20.png
+Content: Hi <@1269342871551479933> Thanks for your patience! Sending you a Direct Message shortly 🙂 Please check your notifications on the top left in Discord for it.
+--------------------

@@ -1,0 +1,65 @@
+- author_avatar_url: assets\df6d19d97b04a49ffcafbe7be14c7839-D9CE4.png
+  author_id: '1269872908759597148'
+  author_name: roberta_24935
+  author_nickname: Roberta Bavin CA KC Greeter/Mod
+  content: ''
+  id: '1287779193421041708'
+  ref_to: '1287739316004716587'
+  timestamp: '2024-09-23T14:14:45.492+00:00'
+  type: '21'
+- author_avatar_url: assets\df6d19d97b04a49ffcafbe7be14c7839-D9CE4.png
+  author_id: '1269872908759597148'
+  author_name: roberta_24935
+  author_nickname: Roberta Bavin CA KC Greeter/Mod
+  content: Hi Margaret! Thanks for reaching out. Please check for DM sent to you on
+    9/21. Let us know if you can't  find it. <:thankyou:1252806147396735057>
+  id: '1287779194943705170'
+  ref_to: null
+  timestamp: '2024-09-23T14:14:45.855+00:00'
+  type: Default
+- author_avatar_url: assets\5-E9BDB.png
+  author_id: '1286443995383337044'
+  author_name: margaret_35616
+  author_nickname: Margaret Scheg [NY]
+  content: It told me to add my full name, which I did
+  id: '1287779353673076820'
+  ref_to: null
+  timestamp: '2024-09-23T14:15:23.699+00:00'
+  type: Default
+- author_avatar_url: assets\5-E9BDB.png
+  author_id: '1286443995383337044'
+  author_name: margaret_35616
+  author_nickname: Margaret Scheg [NY]
+  content: Hi Roberta. Nothing looks like it did in training.  I want to start texting.  What
+    am I missing?
+  id: '1287789457252290641'
+  ref_to: null
+  timestamp: '2024-09-23T14:55:32.58+00:00'
+  type: Default
+- author_avatar_url: assets\df6d19d97b04a49ffcafbe7be14c7839-D9CE4.png
+  author_id: '1269872908759597148'
+  author_name: roberta_24935
+  author_nickname: Roberta Bavin CA KC Greeter/Mod
+  content: Please go back to the DM conversation we've been having this morning! Thanks!
+  id: '1287791225331781632'
+  ref_to: '1287789457252290641'
+  timestamp: '2024-09-23T15:02:34.123+00:00'
+  type: Reply
+- author_avatar_url: assets\5-E9BDB.png
+  author_id: '1286443995383337044'
+  author_name: margaret_35616
+  author_nickname: Margaret Scheg [NY]
+  content: I cannot find the other questions but I did respond that I completed them
+  id: '1287796010302574622'
+  ref_to: null
+  timestamp: '2024-09-23T15:21:34.949+00:00'
+  type: Default
+- author_avatar_url: assets\df6d19d97b04a49ffcafbe7be14c7839-D9CE4.png
+  author_id: '1269872908759597148'
+  author_name: roberta_24935
+  author_nickname: Roberta Bavin CA KC Greeter/Mod
+  content: Please see your DM's. Thanks!
+  id: '1287796748177113130'
+  ref_to: '1287796010302574622'
+  timestamp: '2024-09-23T15:24:30.872+00:00'
+  type: Reply

@@ -1,0 +1,128 @@
+Guild: Team Harris-Walz Virtual Office (ID: 1242249109298221066)
+Channel: Reddit engagement (ID: 1269302469490376746)
+Channel Topic: None
+Exported At: 2024-10-28T21:55:26.8154494+00:00
+
+
+--- Message ---
+Message ID: 1269302472313143449
+Message Type: Default
+Reply to: None
+Timestamp: 2024-08-03T14:34:51.899+00:00
+Author: Jen G (NE) (lastpancakeclubexofficio)
+Author Id: 580183624062730241
+Avatar URL: assets\8c21c160e00ae57cf1a2b6b4a6cf3733-72BDF.png
+Content: <@260982275506700288> here are some subs that are talking about Harris: 
+R/Defeat_Project_2025
+R/VoteDEM
+R/disability
+R/TwoXChromosomes
+R/midlifemavens
+--------------------
+
+--- Message ---
+Message ID: 1269302646305591418
+Message Type: Default
+Reply to: None
+Timestamp: 2024-08-03T14:35:33.382+00:00
+Author: Jen G (NE) (lastpancakeclubexofficio)
+Author Id: 580183624062730241
+Avatar URL: assets\8c21c160e00ae57cf1a2b6b4a6cf3733-72BDF.png
+Content: I can keep going—I have a sneaking suspicion we might be looking at different parts of Reddit 🤣
+--------------------
+
+--- Message ---
+Message ID: 1269306139942846496
+Message Type: Default
+Reply to: None
+Timestamp: 2024-08-03T14:49:26.33+00:00
+Author: rootsmusic (rootsmusic)
+Author Id: 791857656897732648
+Avatar URL: assets\a30e650576a6d42a3c9ee24648f67c90-2AE37.png
+Content: Is the campaign on Reddit?
+--------------------
+
+--- Message ---
+Message ID: 1269318946851655723
+Message Type: Default
+Reply to: None
+Timestamp: 2024-08-03T15:40:19.735+00:00
+Author: Nick from NY (itsnickk5525)
+Author Id: 260982275506700288
+Avatar URL: assets\33bc28b94ceba3872bed7864e06e3045-6FEAB.png
+Content: Personally, outside of Dem/Harris. focused subreddits like:
+
+- /r/VoteDem
+- /r/Democrats
+- /r/Khive
+- /r/KamalaHarris
+
+I have found that many mainstream subs are posting pro-Harris and anti-Trump/Vance content, such as /r/pics, /r/videos, /r/Interestingasfuck, /r/adviceanimals (to name a few)
+
+However, there typically is a blowback to pro-Kamala content.  An effort to push back against people complaining about Harris, or people taking the route of “I don’t want to see political posts” to try and shut down discussion (and not out of legitimate exhaustion from election-related content), would be beneficial.
+
+I also think the posts need to be a little more savvy and not beat the same drum over and over, as that seems to instill the fatigue over political posts that makes people tune it out. For instance, /r/pics has been showcasing images of Harris as a kid, in college, things that get you more familiar with Harris without overly “political” rhetoric.
+--------------------
+
+--- Message ---
+Message ID: 1269319165546598512
+Message Type: Reply
+Reply to: 1269306139942846496
+Timestamp: 2024-08-03T15:41:11.876+00:00
+Author: Nick from NY (itsnickk5525)
+Author Id: 260982275506700288
+Avatar URL: assets\33bc28b94ceba3872bed7864e06e3045-6FEAB.png
+Content: I don’t believe so, the closest thing I can think would be /r/VoteDem but it does not seem official in any capacity
+--------------------
+
+--- Message ---
+Message ID: 1269319293255028820
+Message Type: Reply
+Reply to: 1269302646305591418
+Timestamp: 2024-08-03T15:41:42.324+00:00
+Author: Nick from NY (itsnickk5525)
+Author Id: 260982275506700288
+Avatar URL: assets\33bc28b94ceba3872bed7864e06e3045-6FEAB.png
+Content: There’s a little overlap! lol
+--------------------
+
+--- Message ---
+Message ID: 1269326064077897838
+Message Type: Default
+Reply to: None
+Timestamp: 2024-08-03T16:08:36.614+00:00
+Author: Jen G (NE) (lastpancakeclubexofficio)
+Author Id: 580183624062730241
+Avatar URL: assets\8c21c160e00ae57cf1a2b6b4a6cf3733-72BDF.png
+Content: So a more coordinated effort might help tighten up the messaging? Could that look like the Twitter community notes channel, where people could share posts from their targeted subs, and the discord vols could up or downvote, sort of to brigade on Reddit for good instead of evil?
+--------------------
+
+--- Message ---
+Message ID: 1269368712805224499
+Message Type: Default
+Reply to: None
+Timestamp: 2024-08-03T18:58:04.863+00:00
+Author: Nick from NY (itsnickk5525)
+Author Id: 260982275506700288
+Avatar URL: assets\33bc28b94ceba3872bed7864e06e3045-6FEAB.png
+Content: I think the messaging on reddit should be to let organic, specialized content shine through, disarm trolls with facts, and build on any Harris support mentioned by introducing the idea of volunteering, donating, and other GOTV messaging.
+
+For example, I see many comments under pro-Harris or anti-Trump posts that just say “Vote”. We should be adding a comment below that which adds on a message of the importance of also “volunteering and donating” and give links to mobilize (maybe not direct links to donate, as it isn’t allowed on many subs).
+
+I also think there are many ways to spread the word on Harris’ platform and things like the impacts of Project 2025 on more specialized subs that may not have political content. Think the anti-national park points in p2025, which can be posted in any local or regional subreddit and be extremely relevant to the user’s interests. These posts should be natural and stick to the type of content usually posted in these subs, and compelling enough to the sub’s user-base that it doesn’t just read like an out-of-place political campaign ad.
+
+As vote brigading isn’t allowed on reddit, I don’t think that should be pushed as an official message or tactic.  But sharing posts in a dedicated channel is a really good idea, if only to get others to see the discourse on reddit, learn the effective tactics being used to support the campaign in posts/comments, and people can individually decide if they want to interact if they feel they have a very strong opinion or response in the discussion.
+--------------------
+
+--- Message ---
+Message ID: 1269828637344010322
+Message Type: Default
+Reply to: None
+Timestamp: 2024-08-05T01:25:39.418+00:00
+Author: Jen G (NE) (lastpancakeclubexofficio)
+Author Id: 580183624062730241
+Avatar URL: assets\8c21c160e00ae57cf1a2b6b4a6cf3733-72BDF.png
+Content: This mostly aligns with what my approach has been as well. If there is a Harris or otherwise election-related post, regardless of sub topic, I will usually check it for incorrect information, or as you mentioned, get people thinking past the idea of voting and into checking registration, polling place, and talking to your personal connections to encourage voting. 
+I also link to details about P2025 that will affect different populations. 
+I like the idea of sharing posts that are either effective or could be.
+--------------------

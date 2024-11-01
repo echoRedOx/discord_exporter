@@ -1,0 +1,60 @@
+- author_avatar_url: assets\1-B2132.png
+  author_id: '201894710908813312'
+  author_name: maxinek36
+  author_nickname: Maxine
+  content: I joined a virtual phone bank session but had to leave before the debrief.
+    Is there a debrief survey or anything to fill out?
+  id: '1300159052113772584'
+  ref_to: null
+  timestamp: '2024-10-27T18:07:53.811+00:00'
+  type: Default
+- author_avatar_url: assets\43ec2b9e8ddf26e3072b9feb4516a5fd-3D55A.png
+  author_id: '1277408157664284795'
+  author_name: denise.ward
+  author_nickname: Denise Ward [CO] [Call MOD]
+  content: Hi Maxine - do you know if the zoom was with a particular state party/organization
+    or directly with the Harris-Walz team?
+  id: '1300159384529145980'
+  ref_to: null
+  timestamp: '2024-10-27T18:09:13.065+00:00'
+  type: Default
+- author_avatar_url: assets\43ec2b9e8ddf26e3072b9feb4516a5fd-3D55A.png
+  author_id: '1277408157664284795'
+  author_name: denise.ward
+  author_nickname: Denise Ward [CO] [Call MOD]
+  content: "Here is the debrief survey we use for the Harris-Walz phione banks \n\
+    https://docs.google.com/forms/d/e/1FAIpQLSdYNUspIhrNncyYxxznLa2BrGKjI74_T8fMm-nDhImXJtfRrg/viewform"
+  id: '1300159766022193153'
+  ref_to: null
+  timestamp: '2024-10-27T18:10:44.02+00:00'
+  type: Default
+- author_avatar_url: assets\1-B2132.png
+  author_id: '201894710908813312'
+  author_name: maxinek36
+  author_nickname: Maxine
+  content: 'It was directly with the Harris walz team! This was the confirmation text:
+    You''re registered with The Democratic Natio... on Sun 10/27 12:00PM EDT. Send
+    this link to friends to invite: https://mobilize.us/s/Ga5DbV/r'
+  id: '1300160503070589082'
+  ref_to: null
+  timestamp: '2024-10-27T18:13:39.746+00:00'
+  type: Default
+- author_avatar_url: assets\43ec2b9e8ddf26e3072b9feb4516a5fd-3D55A.png
+  author_id: '1277408157664284795'
+  author_name: denise.ward
+  author_nickname: Denise Ward [CO] [Call MOD]
+  content: Perfect, the debrief I linked above it the right one.  Thank you for making
+    calls with us!
+  id: '1300160732859596861'
+  ref_to: null
+  timestamp: '2024-10-27T18:14:34.532+00:00'
+  type: Default
+- author_avatar_url: assets\1-B2132.png
+  author_id: '201894710908813312'
+  author_name: maxinek36
+  author_nickname: Maxine
+  content: Thank you!
+  id: '1300161325611225140'
+  ref_to: null
+  timestamp: '2024-10-27T18:16:55.855+00:00'
+  type: Default

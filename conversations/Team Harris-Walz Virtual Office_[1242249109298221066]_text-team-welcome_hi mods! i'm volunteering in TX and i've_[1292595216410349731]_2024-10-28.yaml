@@ -1,0 +1,28 @@
+- author_avatar_url: assets\df6d19d97b04a49ffcafbe7be14c7839-D9CE4.png
+  author_id: '1269872908759597148'
+  author_name: roberta_24935
+  author_nickname: Roberta Bavin CA KC Greeter/Mod
+  content: ''
+  id: '1292596401791959090'
+  ref_to: '1292595216410349731'
+  timestamp: '2024-10-06T21:16:37.467+00:00'
+  type: '21'
+- author_avatar_url: assets\df6d19d97b04a49ffcafbe7be14c7839-D9CE4.png
+  author_id: '1269872908759597148'
+  author_name: roberta_24935
+  author_nickname: Roberta Bavin CA KC Greeter/Mod
+  content: Hi <@799760395161436181> Thanks for reaching out. Here's the link for the
+    training! https://events.democrats.org/event/672393/
+  id: '1292596403775733781'
+  ref_to: null
+  timestamp: '2024-10-06T21:16:37.94+00:00'
+  type: Default
+- author_avatar_url: assets\72794169802abe675966e44de3d0f75d-3A0B5.png
+  author_id: '799760395161436181'
+  author_name: fpereyra
+  author_nickname: Felicity Pereyra
+  content: "THANK YOU! \U0001F917"
+  id: '1292600416697188393'
+  ref_to: null
+  timestamp: '2024-10-06T21:32:34.695+00:00'
+  type: Default

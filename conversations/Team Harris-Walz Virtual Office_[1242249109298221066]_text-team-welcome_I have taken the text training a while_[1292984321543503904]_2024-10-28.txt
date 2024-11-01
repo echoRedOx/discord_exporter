@@ -1,0 +1,27 @@
+Guild: Team Harris-Walz Virtual Office (ID: 1242249109298221066)
+Channel: I have taken the text training a while (ID: 1292984321543503904)
+Channel Topic: None
+Exported At: 2024-10-28T22:50:06.0329186+00:00
+
+
+--- Message ---
+Message ID: 1292986423707701368
+Message Type: 21
+Reply to: 1292984321543503904
+Timestamp: 2024-10-07T23:06:25.938+00:00
+Author: Nicole Morris - Text Admin (nmorris237)
+Author Id: 935762347753103382
+Avatar URL: assets\27b1e286b65ae02b3378793b5f098411-A7B20.png
+Content: 
+--------------------
+
+--- Message ---
+Message ID: 1292986425339285505
+Message Type: Default
+Reply to: None
+Timestamp: 2024-10-07T23:06:26.327+00:00
+Author: Nicole Morris - Text Admin (nmorris237)
+Author Id: 935762347753103382
+Avatar URL: assets\27b1e286b65ae02b3378793b5f098411-A7B20.png
+Content: Hi Agnes - let me send you a follow up Direct Message now
+--------------------

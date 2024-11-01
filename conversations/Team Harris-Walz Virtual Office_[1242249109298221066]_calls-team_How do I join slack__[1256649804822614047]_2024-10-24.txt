@@ -1,0 +1,27 @@
+Guild: Team Harris-Walz Virtual Office (ID: 1242249109298221066)
+Channel: How do I join slack? (ID: 1256649804822614047)
+Channel Topic: None
+Exported At: 2024-10-24T12:37:34.2402962+00:00
+
+
+--- Message ---
+Message ID: 1256686403811803258
+Message Type: 21
+Reply to: 1256649804822614047
+Timestamp: 2024-06-29T19:03:06.773+00:00
+Author: Cheryl Brickey Mod Admin  (CA) (cpbricke_24848)
+Author Id: 1247292780032561152
+Avatar URL: assets\de09eeaf19be82e36df33c8429a4d1a3-30FA9.png
+Content: 
+--------------------
+
+--- Message ---
+Message ID: 1256686406491701279
+Message Type: Default
+Reply to: None
+Timestamp: 2024-06-29T19:03:07.412+00:00
+Author: Cheryl Brickey Mod Admin  (CA) (cpbricke_24848)
+Author Id: 1247292780032561152
+Avatar URL: assets\de09eeaf19be82e36df33c8429a4d1a3-30FA9.png
+Content: Here is our how to slack doc which contains the link  https://txt.democrats.org/Slack101/
+--------------------

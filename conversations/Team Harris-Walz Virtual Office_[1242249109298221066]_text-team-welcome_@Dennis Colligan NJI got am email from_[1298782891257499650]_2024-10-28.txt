@@ -1,0 +1,27 @@
+Guild: Team Harris-Walz Virtual Office (ID: 1242249109298221066)
+Channel: @Dennis Colligan NJI got am email from (ID: 1298782891257499650)
+Channel Topic: None
+Exported At: 2024-10-28T22:19:22.1824477+00:00
+
+
+--- Message ---
+Message ID: 1298793838508507146
+Message Type: 21
+Reply to: 1298782891257499650
+Timestamp: 2024-10-23T23:43:01.523+00:00
+Author: Roberta Bavin CA KC Greeter/Mod (roberta_24935)
+Author Id: 1269872908759597148
+Avatar URL: assets\df6d19d97b04a49ffcafbe7be14c7839-D9CE4.png
+Content: 
+--------------------
+
+--- Message ---
+Message ID: 1298793841154986004
+Message Type: Default
+Reply to: None
+Timestamp: 2024-10-23T23:43:02.154+00:00
+Author: Roberta Bavin CA KC Greeter/Mod (roberta_24935)
+Author Id: 1269872908759597148
+Avatar URL: assets\df6d19d97b04a49ffcafbe7be14c7839-D9CE4.png
+Content: Hi <@1260587101318025289> Please check your DM's from several days ago. They are in left upper corner of Discord at the game controller icon. Thank you for following up! <:thankyou:1252806147396735057>
+--------------------

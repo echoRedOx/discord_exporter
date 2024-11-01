@@ -1,0 +1,38 @@
+Guild: Team Harris-Walz Virtual Office (ID: 1242249109298221066)
+Channel: Other Virtual Offices? (ID: 1277774976447021119)
+Channel Topic: None
+Exported At: 2024-10-24T06:53:18.0790776+00:00
+
+
+--- Message ---
+Message ID: 1277774976447021119
+Message Type: Default
+Reply to: None
+Timestamp: 2024-08-26T23:41:34.296+00:00
+Author: Jack Ferreira (KC) (jackferreira.246012)
+Author Id: 1276396030375624789
+Avatar URL: assets\cd48a61b3416a1c6fe47335cfcfc484e-EE993.png
+Content: Does the party have other virtual offices for House, Senate, down ballot, ballot measures, individual races, or other things like that.  Really love this concept of using discord!
+--------------------
+
+--- Message ---
+Message ID: 1277775205095313470
+Message Type: Reply
+Reply to: 1277774976447021119
+Timestamp: 2024-08-26T23:42:28.81+00:00
+Author: rootsmusic (rootsmusic)
+Author Id: 791857656897732648
+Avatar URL: assets\a30e650576a6d42a3c9ee24648f67c90-2AE37.png
+Content: No, but some state campaigns/parties have their own Slack/Discord.
+--------------------
+
+--- Message ---
+Message ID: 1277777638462586880
+Message Type: Default
+Reply to: None
+Timestamp: 2024-08-26T23:52:08.97+00:00
+Author: Jack Ferreira (KC) (jackferreira.246012)
+Author Id: 1276396030375624789
+Avatar URL: assets\cd48a61b3416a1c6fe47335cfcfc484e-EE993.png
+Content: Regardless, the party needs to do this for the 2026 midterms, huge props to whoever thought of this
+--------------------

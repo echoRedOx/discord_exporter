@@ -1,0 +1,82 @@
+- author_avatar_url: assets\a30e650576a6d42a3c9ee24648f67c90-2AE37.png
+  author_id: '791857656897732648'
+  author_name: rootsmusic
+  author_nickname: rootsmusic
+  content: ''
+  id: '1277465667729231882'
+  ref_to: '1277464867204366490'
+  timestamp: '2024-08-26T03:12:29.351+00:00'
+  type: '21'
+- author_avatar_url: assets\a30e650576a6d42a3c9ee24648f67c90-2AE37.png
+  author_id: '791857656897732648'
+  author_name: rootsmusic
+  author_nickname: rootsmusic
+  content: This is fine, but I don't quite understand your request.  By the way, I
+    can only pass onto the [content created by volunteers](https://app.reach.vote/library/gallery/c07cfbbe-ed31-4770-8303-833364ba39b8?campaign=democrats)
+    gallery by the Content Brigade.
+  id: '1277465670124175371'
+  ref_to: null
+  timestamp: '2024-08-26T03:12:29.922+00:00'
+  type: Default
+- author_avatar_url: assets\a30e650576a6d42a3c9ee24648f67c90-2AE37.png
+  author_id: '791857656897732648'
+  author_name: rootsmusic
+  author_nickname: rootsmusic
+  content: 'Changed the channel name: request for Content Created by Volunteers'
+  id: '1277466178691797093'
+  ref_to: null
+  timestamp: '2024-08-26T03:14:31.174+00:00'
+  type: ChannelNameChange
+- author_avatar_url: assets\b1a6c0186c7eb1843c0b1b7af28eadb4-43D51.png
+  author_id: '1274515952884781247'
+  author_name: didntfalloutofacoconuttree
+  author_nickname: Noelle (IN)
+  content: My request was that the folder for LGBTQ+ content be updated. None of the
+    ones in there are wrong, and they're all semi relevant, but there's not a lot
+    of newer content to share about what the race looks like for LGBTQ people now.
+    Maybe we add some graphics or videos of quotes from Harris and Walz, like more
+    content from when Harris visited the RuPaul set or content about Walz being the
+    head of the G/S alliance? It's only a suggestion!
+  id: '1277467312898838651'
+  ref_to: null
+  timestamp: '2024-08-26T03:19:01.59+00:00'
+  type: Default
+- author_avatar_url: assets\b1a6c0186c7eb1843c0b1b7af28eadb4-43D51.png
+  author_id: '1274515952884781247'
+  author_name: didntfalloutofacoconuttree
+  author_nickname: Noelle (IN)
+  content: Oh and some facts about Harris performing gay marriages would work too!
+  id: '1277467612003172393'
+  ref_to: null
+  timestamp: '2024-08-26T03:20:12.902+00:00'
+  type: Default
+- author_avatar_url: assets\a30e650576a6d42a3c9ee24648f67c90-2AE37.png
+  author_id: '791857656897732648'
+  author_name: rootsmusic
+  author_nickname: rootsmusic
+  content: Sorry, that's the LGBTQ+ Democratic Coalition's gallery.  (The Content
+    Brigade only has the [content created by volunteers](https://app.reach.vote/library/gallery/c07cfbbe-ed31-4770-8303-833364ba39b8?campaign=democrats)
+    gallery.)  You can ask if Out For Harris-Walz controls the LGBTQ+ gallery.
+  id: '1277501422723661836'
+  ref_to: '1277467312898838651'
+  timestamp: '2024-08-26T05:34:34.006+00:00'
+  type: Reply
+- author_avatar_url: assets\b1a6c0186c7eb1843c0b1b7af28eadb4-43D51.png
+  author_id: '1274515952884781247'
+  author_name: didntfalloutofacoconuttree
+  author_nickname: Noelle (IN)
+  content: Gotcha! Thank you for trying to help me!
+  id: '1277501648326885376'
+  ref_to: null
+  timestamp: '2024-08-26T05:35:27.794+00:00'
+  type: Default
+- author_avatar_url: assets\a30e650576a6d42a3c9ee24648f67c90-2AE37.png
+  author_id: '791857656897732648'
+  author_name: rootsmusic
+  author_nickname: rootsmusic
+  content: You're welcome!  [Out For Harris](https://events.democrats.org/event/671143/)
+    has an upcoming Organizing call.
+  id: '1277718101579796592'
+  ref_to: '1277501648326885376'
+  timestamp: '2024-08-26T19:55:34.271+00:00'
+  type: Reply

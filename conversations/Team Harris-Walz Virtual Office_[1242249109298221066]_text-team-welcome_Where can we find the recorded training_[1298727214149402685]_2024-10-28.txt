@@ -1,0 +1,60 @@
+Guild: Team Harris-Walz Virtual Office (ID: 1242249109298221066)
+Channel: Where can we find the recorded training (ID: 1298727214149402685)
+Channel Topic: None
+Exported At: 2024-10-28T22:20:22.174478+00:00
+
+
+--- Message ---
+Message ID: 1298727563006312498
+Message Type: 21
+Reply to: 1298727214149402685
+Timestamp: 2024-10-23T19:19:40.212+00:00
+Author: Jack Joannides KC text admin (jjoannid)
+Author Id: 477560366432256000
+Avatar URL: assets\791c521e62160be1f3df04992f6e5470-36A38.png
+Content: 
+--------------------
+
+--- Message ---
+Message ID: 1298727566064226445
+Message Type: Default
+Reply to: None
+Timestamp: 2024-10-23T19:19:40.941+00:00
+Author: Jack Joannides KC text admin (jjoannid)
+Author Id: 477560366432256000
+Avatar URL: assets\791c521e62160be1f3df04992f6e5470-36A38.png
+Content: We don't have a recorded training.
+--------------------
+
+--- Message ---
+Message ID: 1298727772700540949
+Message Type: Default
+Reply to: None
+Timestamp: 2024-10-23T19:20:30.207+00:00
+Author: Gina Turone (ginaturone)
+Author Id: 779382569534881824
+Avatar URL: assets\90595ea07dd349adc8ba22cb8d2f8a14-00AFD.png
+Content: Lol I started watching it yesterday
+--------------------
+
+--- Message ---
+Message ID: 1298727901319004251
+Message Type: Default
+Reply to: None
+Timestamp: 2024-10-23T19:21:00.872+00:00
+Author: Jack Joannides KC text admin (jjoannid)
+Author Id: 477560366432256000
+Avatar URL: assets\791c521e62160be1f3df04992f6e5470-36A38.png
+Content: That's in another channel.
+--------------------
+
+--- Message ---
+Message ID: 1298727963377930334
+Message Type: Default
+Reply to: None
+Timestamp: 2024-10-23T19:21:15.668+00:00
+Author: Gina Turone (ginaturone)
+Author Id: 779382569534881824
+Avatar URL: assets\90595ea07dd349adc8ba22cb8d2f8a14-00AFD.png
+Content: Nvm I found it in persuasion channel it was a yt video
+--------------------

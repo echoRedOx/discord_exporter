@@ -1,0 +1,27 @@
+Guild: Team Harris-Walz Virtual Office (ID: 1242249109298221066)
+Channel: Making calls (ID: 1271902024379928608)
+Channel Topic: None
+Exported At: 2024-10-28T21:04:31.8065878+00:00
+
+
+--- Message ---
+Message ID: 1271902024379928608
+Message Type: Default
+Reply to: None
+Timestamp: 2024-08-10T18:44:33.409+00:00
+Author: Wayne (j_wood5)
+Author Id: 1271890905757909094
+Avatar URL: assets\c82b3fa769ed6e6ffdea579381ed5f5c-1A1A1.png
+Content: I think I have finished the making calls training; so how do I get started?
+--------------------
+
+--- Message ---
+Message ID: 1271937843496747018
+Message Type: Default
+Reply to: None
+Timestamp: 2024-08-10T21:06:53.352+00:00
+Author: Frances Haydock (HFP HQ!) (franceshaydock_20619)
+Author Id: 1257469301435400238
+Avatar URL: assets\8286d5b1308e7b3d80a3523e4ec50548-C029D.png
+Content: Hi Wayne! You can sign up for whatever shifts fit your schedule (by going to <#1245441927948800020> ) and when you hop on that zoom link, you will be given the dialer link to the list we are calling for that shift!
+--------------------

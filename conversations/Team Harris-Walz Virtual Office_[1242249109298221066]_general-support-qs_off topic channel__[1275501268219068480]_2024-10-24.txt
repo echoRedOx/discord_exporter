@@ -1,0 +1,73 @@
+Guild: Team Harris-Walz Virtual Office (ID: 1242249109298221066)
+Channel: off topic channel? (ID: 1275501268219068480)
+Channel Topic: None
+Exported At: 2024-10-24T07:00:20.8736132+00:00
+
+
+--- Message ---
+Message ID: 1275501268219068480
+Message Type: Default
+Reply to: None
+Timestamp: 2024-08-20T17:06:40.011+00:00
+Author: Laura M (CO) • Call Mod (hungry.hiker)
+Author Id: 756314488113987654
+Avatar URL: assets\4aa5ed3c3ad66beef8f10bd0d3979dae-08843.png
+Content: Would it be possible to set up an off topic, random, water cooler channel, whatever you want to call it, for conversation that is unrelated to the campaign? The <#1242249109298221069> channel has a lot of off topic chat (which is great that volunteers are connecting with each other) and it's overwhelming for me. I still want to see the campaign related messages in there.
+
+Edit: also I think the name,"general conversation" maybe suggests it's supposed to be for any kind of conversation, but the channel description implies it's campaign related.
+--------------------
+
+--- Message ---
+Message ID: 1275514596047851542
+Message Type: Default
+Reply to: None
+Timestamp: 2024-08-20T17:59:37.613+00:00
+Author: Evan B (evo_devo)
+Author Id: 109848744362508288
+Avatar URL: assets\039a1a53b4ecb5d1413b1170cef883d6-5397F.png
+Content: We are currently discussing this. Will let ya know
+--------------------
+
+--- Message ---
+Message ID: 1275516826972852264
+Message Type: Reply
+Reply to: 1275501268219068480
+Timestamp: 2024-08-20T18:08:29.507+00:00
+Author: Carolyn B [CA] • Lead Mod (carb.on)
+Author Id: 568257600228032512
+Avatar URL: assets\28a90c77b5793d80eb62484a43c66748-D8837.png
+Content: Hi <@756314488113987654> I appreciate the overwhelm. I encourage you to use the "mute channel" or "mark as read" options to turn down the "volume". You can just keep up with the campaign from the announcements channel and your text team channels. Let me know if you need help finding the mute optoin.
+--------------------
+
+--- Message ---
+Message ID: 1275517456940535820
+Message Type: Default
+Reply to: None
+Timestamp: 2024-08-20T18:10:59.703+00:00
+Author: Laura M (CO) • Call Mod (hungry.hiker)
+Author Id: 756314488113987654
+Avatar URL: assets\4aa5ed3c3ad66beef8f10bd0d3979dae-08843.png
+Content: Thanks both. I realize other people may like it the way it is, but appreciate you listening to feedback and responding!
+--------------------
+
+--- Message ---
+Message ID: 1275517469687152751
+Message Type: Default
+Reply to: None
+Timestamp: 2024-08-20T18:11:02.742+00:00
+Author: Evan B (evo_devo)
+Author Id: 109848744362508288
+Avatar URL: assets\039a1a53b4ecb5d1413b1170cef883d6-5397F.png
+Content: We will be further discussing the idea later <@756314488113987654> . We have not come to a conclusion yet, but we agree general should remain campaign based
+--------------------
+
+--- Message ---
+Message ID: 1275517560674320456
+Message Type: Reply
+Reply to: 1275517456940535820
+Timestamp: 2024-08-20T18:11:24.435+00:00
+Author: Evan B (evo_devo)
+Author Id: 109848744362508288
+Avatar URL: assets\039a1a53b4ecb5d1413b1170cef883d6-5397F.png
+Content: of course!
+--------------------

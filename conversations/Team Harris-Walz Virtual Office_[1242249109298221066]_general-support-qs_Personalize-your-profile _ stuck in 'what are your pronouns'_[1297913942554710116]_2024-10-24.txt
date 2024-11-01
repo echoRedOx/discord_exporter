@@ -1,0 +1,49 @@
+Guild: Team Harris-Walz Virtual Office (ID: 1242249109298221066)
+Channel: Personalize-your-profile > stuck in 'what are your pronouns' (ID: 1297913942554710116)
+Channel Topic: None
+Exported At: 2024-10-24T06:23:27.8476436+00:00
+
+
+--- Message ---
+Message ID: 1297913942554710116
+Message Type: Default
+Reply to: None
+Timestamp: 2024-10-21T13:26:37.98+00:00
+Author: UnitedWeStand! (unitedwestand_98446)
+Author Id: 1073796747861704714
+Avatar URL: assets\3f69759eba280befa1a46e7de35d62dc-C9ACD.png
+Content: I clicked the option showing my pronouns, clicked every emoji representing my pronouns, and moused over the rest of that sceen in "Personalize-your-profile', but nothing seems to happen.  I can't tell if my pronouns have been set (or what else to do to set them), and I don't see a way to move to the next profile personalization questions.
+--------------------
+
+--- Message ---
+Message ID: 1297936466957303942
+Message Type: Default
+Reply to: None
+Timestamp: 2024-10-21T14:56:08.216+00:00
+Author: Carolyn B [CA] • Lead Mod (carb.on)
+Author Id: 568257600228032512
+Avatar URL: assets\28a90c77b5793d80eb62484a43c66748-D8837.png
+Content: Hi <@1073796747861704714> Click on your name and you can see your pronouns on your profile card.
+--------------------
+
+--- Message ---
+Message ID: 1297960033295925359
+Message Type: Default
+Reply to: None
+Timestamp: 2024-10-21T16:29:46.869+00:00
+Author: UnitedWeStand! (unitedwestand_98446)
+Author Id: 1073796747861704714
+Avatar URL: assets\3f69759eba280befa1a46e7de35d62dc-C9ACD.png
+Content: Thanks!  But how do I move past that step to make my "other personalizations"
+--------------------
+
+--- Message ---
+Message ID: 1298111399880298570
+Message Type: Default
+Reply to: None
+Timestamp: 2024-10-22T02:31:15.475+00:00
+Author: Carolyn B [CA] • Lead Mod (carb.on)
+Author Id: 568257600228032512
+Avatar URL: assets\28a90c77b5793d80eb62484a43c66748-D8837.png
+Content: You can continue to personalize your profile by clicking on the "user settings "gear next to your name in the lower-left, then click Profile, then you can choose either "user profile" or "server profile" and change your name and your picture.
+--------------------

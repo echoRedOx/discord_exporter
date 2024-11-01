@@ -1,0 +1,27 @@
+Guild: Team Harris-Walz Virtual Office (ID: 1242249109298221066)
+Channel: I'm a phone bank coach, can I anytime call? (ID: 1299185404024586320)
+Channel Topic: None
+Exported At: 2024-10-28T20:44:00.39712+00:00
+
+
+--- Message ---
+Message ID: 1299185404024586320
+Message Type: Default
+Reply to: None
+Timestamp: 2024-10-25T01:38:58.017+00:00
+Author: Sandy Cressman (sandycressman_34414)
+Author Id: 1279889637124608124
+Avatar URL: assets\4-4551A.png
+Content: Hi There, I'm a phone bank coach for the last few years with The Bay Area Coalition(Virtual Phone banks) and I am also coaching at the Dem HQ in San Francisco.  I would like to make calls from home outside my coaching shifts.  Do I need to do the Anytime Call Training?  They seem to be using Slack...
+--------------------
+
+--- Message ---
+Message ID: 1299186483067879435
+Message Type: Default
+Reply to: None
+Timestamp: 2024-10-25T01:43:15.281+00:00
+Author: Holly Mate-Luber [Call Mod] (hollymateluber)
+Author Id: 1267643778043482122
+Avatar URL: assets\d1341d3c05d207da49a6fa548b4c1086-4BE71.png
+Content: Hi Sandy! We here on the Discord calls team have a program separate from Slack, but you can indeed do calls anytime from 9am until midnight ET! Just [sign up here](https://events.democrats.org/event/704955/ ) for immediate access to the dialer, and then fill out your [debrief form](https://forms.gle/cJohAPgrSRH7S25Y7) afterwards. And here is our [training video](https://www.youtube.com/watch?v=5FYlZK0essc) if you need it!
+--------------------

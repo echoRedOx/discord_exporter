@@ -1,0 +1,40 @@
+Guild: Team Harris-Walz Virtual Office (ID: 1242249109298221066)
+Channel: Hi, I'm Tara! Feeling honored to be the (ID: 1242962519136403548)
+Channel Topic: None
+Exported At: 2024-10-28T19:47:41.6490776+00:00
+
+
+--- Message ---
+Message ID: 1242996932494753803
+Message Type: 21
+Reply to: 1242962519136403548
+Timestamp: 2024-05-23T00:26:02.473+00:00
+Author: demtortilla (demtortilla_60949)
+Author Id: 1242248892804763712
+Avatar URL: assets\a_c1a2d0423471e6287ce2d2c69bf8abe5-C5FA2.gif
+Content: 
+--------------------
+
+--- Message ---
+Message ID: 1242996933463773184
+Message Type: Default
+Reply to: None
+Timestamp: 2024-05-23T00:26:02.704+00:00
+Author: demtortilla (demtortilla_60949)
+Author Id: 1242248892804763712
+Avatar URL: assets\a_c1a2d0423471e6287ce2d2c69bf8abe5-C5FA2.gif
+Content: also you can thread messages. so innovatie
+--------------------
+
+--- Message ---
+Message ID: 1256648887020814386
+Message Type: Default
+Reply to: None
+Timestamp: 2024-06-29T16:34:02.073+00:00
+Author: demtortilla (demtortilla_60949)
+Author Id: 1242248892804763712
+Avatar URL: assets\a_c1a2d0423471e6287ce2d2c69bf8abe5-C5FA2.gif
+Content: Truman actually didn't run for a second term 🤓 
+
+Though that definitely would've been a trick option
+--------------------

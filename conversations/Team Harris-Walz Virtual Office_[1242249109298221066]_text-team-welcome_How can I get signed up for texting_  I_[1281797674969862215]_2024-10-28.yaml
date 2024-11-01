@@ -1,0 +1,27 @@
+- author_avatar_url: assets\791c521e62160be1f3df04992f6e5470-36A38.png
+  author_id: '477560366432256000'
+  author_name: jjoannid
+  author_nickname: Jack Joannides KC text admin
+  content: ''
+  id: '1281802253522567330'
+  ref_to: '1281797674969862215'
+  timestamp: '2024-09-07T02:24:31.974+00:00'
+  type: '21'
+- author_avatar_url: assets\791c521e62160be1f3df04992f6e5470-36A38.png
+  author_id: '477560366432256000'
+  author_name: jjoannid
+  author_nickname: Jack Joannides KC text admin
+  content: https://events.democrats.org/event/672393/
+  id: '1281802254931988551'
+  ref_to: null
+  timestamp: '2024-09-07T02:24:32.31+00:00'
+  type: Default
+- author_avatar_url: assets\8569adcbd36c70a7578c017bf5604ea5-61CE7.png
+  author_id: '1276944282510692476'
+  author_name: pat03047
+  author_nickname: Pat Lewis (IL)
+  content: "Thank you.  I signed up!\U0001F44D\U0001F1FA\U0001F1F8"
+  id: '1281991217344938047'
+  ref_to: null
+  timestamp: '2024-09-07T14:55:24.46+00:00'
+  type: Default

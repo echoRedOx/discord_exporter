@@ -1,0 +1,27 @@
+Guild: Team Harris-Walz Virtual Office (ID: 1242249109298221066)
+Channel: In the text I got about the training, it (ID: 1286121224493207562)
+Channel Topic: None
+Exported At: 2024-10-28T23:14:51.9332978+00:00
+
+
+--- Message ---
+Message ID: 1286121971519590412
+Message Type: 21
+Reply to: 1286121224493207562
+Timestamp: 2024-09-19T00:29:33.001+00:00
+Author: Nicole Morris - Text Admin (nmorris237)
+Author Id: 935762347753103382
+Avatar URL: assets\27b1e286b65ae02b3378793b5f098411-A7B20.png
+Content: 
+--------------------
+
+--- Message ---
+Message ID: 1286121973126271078
+Message Type: Default
+Reply to: None
+Timestamp: 2024-09-19T00:29:33.384+00:00
+Author: Nicole Morris - Text Admin (nmorris237)
+Author Id: 935762347753103382
+Avatar URL: assets\27b1e286b65ae02b3378793b5f098411-A7B20.png
+Content: There should always be a full Zoom link that is clickable in the confirmation email
+--------------------

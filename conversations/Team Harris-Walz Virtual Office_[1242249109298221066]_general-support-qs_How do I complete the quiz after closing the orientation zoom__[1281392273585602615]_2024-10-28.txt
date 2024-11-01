@@ -1,0 +1,38 @@
+Guild: Team Harris-Walz Virtual Office (ID: 1242249109298221066)
+Channel: How do I complete the quiz after closing the orientation zoom? (ID: 1281392273585602615)
+Channel Topic: None
+Exported At: 2024-10-28T20:10:07.505258+00:00
+
+
+--- Message ---
+Message ID: 1281392273585602615
+Message Type: Default
+Reply to: None
+Timestamp: 2024-09-05T23:15:25.14+00:00
+Author: Bennett Samson CA (bennetts_03603)
+Author Id: 1281373343156535327
+Avatar URL: assets\1713a913405ed11080bc3121dfaa8a19-22E4C.png
+Content: I did the orientation and closed out the zoom before realizing that was the only way to get to the quiz.  How do I get it so I can finish that step?
+--------------------
+
+--- Message ---
+Message ID: 1281416775736623104
+Message Type: Default
+Reply to: None
+Timestamp: 2024-09-06T00:52:46.908+00:00
+Author: Mimi P. [UT] • Lead Moo 🐄 (snowbunslc)
+Author Id: 690265089013842114
+Avatar URL: assets\9a1cf4df2df35afc17dbc2d78b623d4a-06B66.png
+Content: Hi Bennett! What orientation did you attend? Was it for calls, texting, or something else?
+--------------------
+
+--- Message ---
+Message ID: 1281477446243319868
+Message Type: Default
+Reply to: None
+Timestamp: 2024-09-06T04:53:51.884+00:00
+Author: Nicole Morris - Text Admin (nmorris237)
+Author Id: 935762347753103382
+Avatar URL: assets\27b1e286b65ae02b3378793b5f098411-A7B20.png
+Content: Hi <@1281373343156535327> I'll follow up now with a Direct Message. Thanks!
+--------------------

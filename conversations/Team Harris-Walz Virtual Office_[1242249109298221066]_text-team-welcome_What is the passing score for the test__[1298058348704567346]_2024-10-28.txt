@@ -1,0 +1,27 @@
+Guild: Team Harris-Walz Virtual Office (ID: 1242249109298221066)
+Channel: What is the passing score for the test? (ID: 1298058348704567346)
+Channel Topic: None
+Exported At: 2024-10-28T22:11:14.0906766+00:00
+
+
+--- Message ---
+Message ID: 1298082221407735839
+Message Type: 21
+Reply to: 1298058348704567346
+Timestamp: 2024-10-22T00:35:18.785+00:00
+Author: Nicole Morris - Text Admin (nmorris237)
+Author Id: 935762347753103382
+Avatar URL: assets\27b1e286b65ae02b3378793b5f098411-A7B20.png
+Content: 
+--------------------
+
+--- Message ---
+Message ID: 1298082224973025281
+Message Type: Default
+Reply to: None
+Timestamp: 2024-10-22T00:35:19.635+00:00
+Author: Nicole Morris - Text Admin (nmorris237)
+Author Id: 935762347753103382
+Avatar URL: assets\27b1e286b65ae02b3378793b5f098411-A7B20.png
+Content: No worries! If anyone gets a question/a few wrong,  we just clarify the correct answers with them
+--------------------

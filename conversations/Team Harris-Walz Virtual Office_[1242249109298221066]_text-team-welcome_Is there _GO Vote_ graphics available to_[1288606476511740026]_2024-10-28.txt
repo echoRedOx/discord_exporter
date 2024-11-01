@@ -1,0 +1,71 @@
+Guild: Team Harris-Walz Virtual Office (ID: 1242249109298221066)
+Channel: Is there "GO Vote" graphics available to (ID: 1288606476511740026)
+Channel Topic: None
+Exported At: 2024-10-28T23:03:22.6734006+00:00
+
+
+--- Message ---
+Message ID: 1288606799271952445
+Message Type: 21
+Reply to: 1288606476511740026
+Timestamp: 2024-09-25T21:03:22.103+00:00
+Author: Jack Joannides KC text admin (jjoannid)
+Author Id: 477560366432256000
+Avatar URL: assets\791c521e62160be1f3df04992f6e5470-36A38.png
+Content: 
+--------------------
+
+--- Message ---
+Message ID: 1288606800697884762
+Message Type: Default
+Reply to: None
+Timestamp: 2024-09-25T21:03:22.443+00:00
+Author: Jack Joannides KC text admin (jjoannid)
+Author Id: 477560366432256000
+Avatar URL: assets\791c521e62160be1f3df04992f6e5470-36A38.png
+Content: Can you ask this in <#1267941954243526756>
+--------------------
+
+--- Message ---
+Message ID: 1288607008018272309
+Message Type: Default
+Reply to: None
+Timestamp: 2024-09-25T21:04:11.872+00:00
+Author: emery_95906 (emery_95906)
+Author Id: 1281266549226864807
+Avatar URL: assets\782120b99b9615de21a1a3a54e3e5a27-C2730.png
+Content: Is there "GO Vote" graphics available to post on my family & friends FaceBook channels?
+--------------------
+
+--- Message ---
+Message ID: 1288607344128688170
+Message Type: Default
+Reply to: None
+Timestamp: 2024-09-25T21:05:32.007+00:00
+Author: Jack Joannides KC text admin (jjoannid)
+Author Id: 477560366432256000
+Avatar URL: assets\791c521e62160be1f3df04992f6e5470-36A38.png
+Content: I just asked in another channel. Another mod will reach out back to you here.
+--------------------
+
+--- Message ---
+Message ID: 1288608055369662556
+Message Type: Reply
+Reply to: 1288607008018272309
+Timestamp: 2024-09-25T21:08:21.58+00:00
+Author: Jared R [CO] • Lead Mod (kyaizen)
+Author Id: 112080668296564736
+Avatar URL: assets\a_de0e3d4a3f9b486ad3ad6df0d72323da-D0252.gif
+Content: You might find what you're looking for in <#1250876565366243348> or by searching in the Reach app. <#1242256950402744431>
+--------------------
+
+--- Message ---
+Message ID: 1288610273175015425
+Message Type: Default
+Reply to: None
+Timestamp: 2024-09-25T21:17:10.346+00:00
+Author: Carolyn B [CA] • Lead Mod (carb.on)
+Author Id: 568257600228032512
+Avatar URL: assets\28a90c77b5793d80eb62484a43c66748-D8837.png
+Content: Hi <@1281266549226864807> after you download the Reach app, you will tap on Library, and then put "go vote" in the search box. you will see a screen like the picture I put here. If you put "vote" in the search box there will be more choices.
+--------------------

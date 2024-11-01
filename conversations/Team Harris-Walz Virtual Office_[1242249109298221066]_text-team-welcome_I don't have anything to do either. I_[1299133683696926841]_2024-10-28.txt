@@ -1,0 +1,38 @@
+Guild: Team Harris-Walz Virtual Office (ID: 1242249109298221066)
+Channel: I don't have anything to do either. I (ID: 1299133683696926841)
+Channel Topic: None
+Exported At: 2024-10-28T22:14:13.1153465+00:00
+
+
+--- Message ---
+Message ID: 1299153058529415168
+Message Type: 21
+Reply to: 1299133683696926841
+Timestamp: 2024-10-24T23:30:26.25+00:00
+Author: Roberta Bavin CA KC Greeter/Mod (roberta_24935)
+Author Id: 1269872908759597148
+Avatar URL: assets\df6d19d97b04a49ffcafbe7be14c7839-D9CE4.png
+Content: 
+--------------------
+
+--- Message ---
+Message ID: 1299153061947641857
+Message Type: Default
+Reply to: None
+Timestamp: 2024-10-24T23:30:27.065+00:00
+Author: Roberta Bavin CA KC Greeter/Mod (roberta_24935)
+Author Id: 1269872908759597148
+Avatar URL: assets\df6d19d97b04a49ffcafbe7be14c7839-D9CE4.png
+Content: Hi <@690811070058594354> When people release their texts, it will show up, otherwise, just go back to <#1265788349747171438> channel and click on a different reply. Thanks for being here!
+--------------------
+
+--- Message ---
+Message ID: 1299190306050408448
+Message Type: Default
+Reply to: None
+Timestamp: 2024-10-25T01:58:26.751+00:00
+Author: Carlos Ortiz [CA] (eldariontkd)
+Author Id: 690811070058594354
+Avatar URL: assets\f6a387929c1b2f582f249f8bb401c865-A2A5D.png
+Content: Thanks. I was able to respond to a few text messages. I released them after I was done.
+--------------------

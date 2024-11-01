@@ -1,0 +1,16 @@
+Guild: Team Harris-Walz Virtual Office (ID: 1242249109298221066)
+Channel: Reuben Gallego (ID: 1299920599866540103)
+Channel Topic: None
+Exported At: 2024-10-28T20:41:52.6382898+00:00
+
+
+--- Message ---
+Message ID: 1299924555967758346
+Message Type: Default
+Reply to: None
+Timestamp: 2024-10-27T02:36:05.573+00:00
+Author: Emily Powers (CO) [Call MOD] (epowers7)
+Author Id: 937887742262673429
+Avatar URL: assets\d91f2745c5a60026d6f81161ae61335f-53ED9.png
+Content: Hi <@1238917147225489520> any chance you can remove the link to be downloaded and share this as a screenshot or image so it can be viewed?
+--------------------

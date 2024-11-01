@@ -1,0 +1,60 @@
+Guild: Team Harris-Walz Virtual Office (ID: 1242249109298221066)
+Channel: list of events I signed up for (ID: 1280939053461540916)
+Channel Topic: None
+Exported At: 2024-10-28T20:11:09.6250509+00:00
+
+
+--- Message ---
+Message ID: 1280939053461540916
+Message Type: Default
+Reply to: None
+Timestamp: 2024-09-04T17:14:29.042+00:00
+Author: Mary (marybullin)
+Author Id: 1280665643674239037
+Avatar URL: assets\be128c5c34edd3f1d22d4268aa9708de-071DB.png
+Content: How do I view a list of events I previously signed up for?
+--------------------
+
+--- Message ---
+Message ID: 1280939466223259648
+Message Type: Default
+Reply to: None
+Timestamp: 2024-09-04T17:16:07.452+00:00
+Author: Gillian D [TX] • Lead Mod (tenaciousg27)
+Author Id: 763374129772363776
+Avatar URL: assets\bfccaff89d7c287575ef163d39d3bde8-053E1.png
+Content: Hi Mary! You can sign in to https://events.democrats.org and go to the drop-down menu on the top right-hand side and select "my schedule"
+--------------------
+
+--- Message ---
+Message ID: 1280939943920926733
+Message Type: Default
+Reply to: None
+Timestamp: 2024-09-04T17:18:01.344+00:00
+Author: Gillian D [TX] • Lead Mod (tenaciousg27)
+Author Id: 763374129772363776
+Avatar URL: assets\bfccaff89d7c287575ef163d39d3bde8-053E1.png
+Content: Please let me know if this works for you or if you need further assistance! Thanks so much for signing up to heed the call and "Do Something!" 💪🏼 <:michelle:1275836570544635992> <a:kamala3:1269028076663345152>
+--------------------
+
+--- Message ---
+Message ID: 1281003378381553736
+Message Type: Default
+Reply to: None
+Timestamp: 2024-09-04T21:30:05.298+00:00
+Author: Mary (marybullin)
+Author Id: 1280665643674239037
+Avatar URL: assets\be128c5c34edd3f1d22d4268aa9708de-071DB.png
+Content: Thank you. Very helpful.
+--------------------
+
+--- Message ---
+Message ID: 1281004565071663117
+Message Type: Reply
+Reply to: 1281003378381553736
+Timestamp: 2024-09-04T21:34:48.227+00:00
+Author: Gillian D [TX] • Lead Mod (tenaciousg27)
+Author Id: 763374129772363776
+Avatar URL: assets\bfccaff89d7c287575ef163d39d3bde8-053E1.png
+Content: Thanks so much for letting me know that worked, Mary! Happy to be of assistance! <:blueheart:1252803082849488956> <:thankyou:1252806147396735057>
+--------------------

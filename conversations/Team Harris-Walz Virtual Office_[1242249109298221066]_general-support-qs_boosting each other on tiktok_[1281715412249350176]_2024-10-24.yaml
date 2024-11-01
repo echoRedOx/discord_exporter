@@ -1,0 +1,40 @@
+- author_avatar_url: assets\5-E9BDB.png
+  author_id: '720762529315291177'
+  author_name: graciebellemagic
+  author_nickname: Grace R (MN)
+  content: Is there a preferred channel for people to share their campaign related
+    tiktok and other social media content where we can follow each other and boost
+    each other's content?
+  id: '1281715412249350176'
+  ref_to: null
+  timestamp: '2024-09-06T20:39:27.401+00:00'
+  type: Default
+- author_avatar_url: assets\28a90c77b5793d80eb62484a43c66748-D8837.png
+  author_id: '568257600228032512'
+  author_name: carb.on
+  author_nickname: "Carolyn B [CA] \u2022 Lead Mod"
+  content: Yes! <@720762529315291177> you can join the Tiktok community. Go to https://discord.com/channels/1242249109298221066/1250550849998946417
+    and click on the megaphone emoji. This will open the TT channel for you.
+  id: '1281717334041432174'
+  ref_to: null
+  timestamp: '2024-09-06T20:47:05.592+00:00'
+  type: Default
+- author_avatar_url: assets\5-E9BDB.png
+  author_id: '720762529315291177'
+  author_name: graciebellemagic
+  author_nickname: Grace R (MN)
+  content: Thanks so much for the reply! I actually don't see a megaphone emoji to
+    click on when I go there. Hmmm
+  id: '1281730081643036693'
+  ref_to: '1281717334041432174'
+  timestamp: '2024-09-06T21:37:44.857+00:00'
+  type: Reply
+- author_avatar_url: assets\28a90c77b5793d80eb62484a43c66748-D8837.png
+  author_id: '568257600228032512'
+  author_name: carb.on
+  author_nickname: "Carolyn B [CA] \u2022 Lead Mod"
+  content: Oops sent you the wrong channel here you go https://discord.com/channels/1242249109298221066/1260651617867399188
+  id: '1281734896796045426'
+  ref_to: null
+  timestamp: '2024-09-06T21:56:52.879+00:00'
+  type: Default

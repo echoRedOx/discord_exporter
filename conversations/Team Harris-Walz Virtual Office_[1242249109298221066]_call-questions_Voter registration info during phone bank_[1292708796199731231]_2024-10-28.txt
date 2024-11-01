@@ -1,0 +1,27 @@
+Guild: Team Harris-Walz Virtual Office (ID: 1242249109298221066)
+Channel: Voter registration info during phone bank (ID: 1292708796199731231)
+Channel Topic: None
+Exported At: 2024-10-28T20:52:21.5740417+00:00
+
+
+--- Message ---
+Message ID: 1292708796199731231
+Message Type: Default
+Reply to: None
+Timestamp: 2024-10-07T04:43:14.382+00:00
+Author: diya (diyadwrites)
+Author Id: 1128560352079130704
+Avatar URL: assets\1227172bc40645815d807231781bcd02-B3B31.png
+Content: Hi, I ran into a supporter who hadn't registered to vote yet in her state and asked me to text her the information. I could not because we were phone banking to recruit volunteers and the text message isn't customizable. Can the script be updated to include a text message option for voting info? Or how should I respond?
+--------------------
+
+--- Message ---
+Message ID: 1292710415905591390
+Message Type: Default
+Reply to: None
+Timestamp: 2024-10-07T04:49:40.55+00:00
+Author: Laura M (CO) • Call Mod (hungry.hiker)
+Author Id: 756314488113987654
+Avatar URL: assets\4aa5ed3c3ad66beef8f10bd0d3979dae-08843.png
+Content: Hi diya, Thank you so much for making calls with us. We can direct people to iwillvote.com for any voting questions.
+--------------------

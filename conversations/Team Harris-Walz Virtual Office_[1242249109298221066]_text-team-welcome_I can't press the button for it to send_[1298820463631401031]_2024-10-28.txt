@@ -1,0 +1,27 @@
+Guild: Team Harris-Walz Virtual Office (ID: 1242249109298221066)
+Channel: I can't press the button for it to send (ID: 1298820463631401031)
+Channel Topic: None
+Exported At: 2024-10-28T22:18:25.7949502+00:00
+
+
+--- Message ---
+Message ID: 1298823481307430912
+Message Type: 21
+Reply to: 1298820463631401031
+Timestamp: 2024-10-24T01:40:48.917+00:00
+Author: Roberta Bavin CA KC Greeter/Mod (roberta_24935)
+Author Id: 1269872908759597148
+Avatar URL: assets\df6d19d97b04a49ffcafbe7be14c7839-D9CE4.png
+Content: 
+--------------------
+
+--- Message ---
+Message ID: 1298823483677212714
+Message Type: Default
+Reply to: None
+Timestamp: 2024-10-24T01:40:49.482+00:00
+Author: Roberta Bavin CA KC Greeter/Mod (roberta_24935)
+Author Id: 1269872908759597148
+Avatar URL: assets\df6d19d97b04a49ffcafbe7be14c7839-D9CE4.png
+Content: Hi <@796929044427046942> If the replies button is grayed out, there are no replies. Thanks for being here!
+--------------------

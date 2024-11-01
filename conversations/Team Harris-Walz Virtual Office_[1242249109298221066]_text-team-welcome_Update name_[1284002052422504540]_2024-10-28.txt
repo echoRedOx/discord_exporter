@@ -1,0 +1,104 @@
+Guild: Team Harris-Walz Virtual Office (ID: 1242249109298221066)
+Channel: Update name (ID: 1284002052422504540)
+Channel Topic: None
+Exported At: 2024-10-28T23:25:57.322877+00:00
+
+
+--- Message ---
+Message ID: 1284003090789306430
+Message Type: 21
+Reply to: 1284002052422504540
+Timestamp: 2024-09-13T04:09:52.468+00:00
+Author: Jack Joannides KC text admin (jjoannid)
+Author Id: 477560366432256000
+Avatar URL: assets\791c521e62160be1f3df04992f6e5470-36A38.png
+Content: 
+--------------------
+
+--- Message ---
+Message ID: 1284003092521811989
+Message Type: Default
+Reply to: None
+Timestamp: 2024-09-13T04:09:52.881+00:00
+Author: Jack Joannides KC text admin (jjoannid)
+Author Id: 477560366432256000
+Avatar URL: assets\791c521e62160be1f3df04992f6e5470-36A38.png
+Content: Can you update your display name. We only see an emoji.
+--------------------
+
+--- Message ---
+Message ID: 1284224809819045941
+Message Type: Default
+Reply to: None
+Timestamp: 2024-09-13T18:50:54.404+00:00
+Author: Stephanie Helsel (CO) (slhelsel)
+Author Id: 1283914546846634095
+Avatar URL: assets\8569adcbd36c70a7578c017bf5604ea5-05CA3.png
+Content: I have already
+--------------------
+
+--- Message ---
+Message ID: 1284225055089496196
+Message Type: Default
+Reply to: None
+Timestamp: 2024-09-13T18:51:52.881+00:00
+Author: Stephanie Helsel (CO) (slhelsel)
+Author Id: 1283914546846634095
+Avatar URL: assets\8569adcbd36c70a7578c017bf5604ea5-05CA3.png
+Content: Please send link to text training quiz. I’ve done the training yesterday but don’t have quiz link
+--------------------
+
+--- Message ---
+Message ID: 1284225203534299168
+Message Type: Default
+Reply to: None
+Timestamp: 2024-09-13T18:52:28.273+00:00
+Author: Jack Joannides KC text admin (jjoannid)
+Author Id: 477560366432256000
+Avatar URL: assets\791c521e62160be1f3df04992f6e5470-36A38.png
+Content: We’ll do that when we start the process to onboard you.
+--------------------
+
+--- Message ---
+Message ID: 1284225415636062269
+Message Type: Default
+Reply to: None
+Timestamp: 2024-09-13T18:53:18.842+00:00
+Author: Stephanie Helsel (CO) (slhelsel)
+Author Id: 1283914546846634095
+Avatar URL: assets\8569adcbd36c70a7578c017bf5604ea5-05CA3.png
+Content: Oh ok. But I thought I couldn’t be onboarded until I did that quiz.
+--------------------
+
+--- Message ---
+Message ID: 1284225517360513064
+Message Type: Default
+Reply to: None
+Timestamp: 2024-09-13T18:53:43.095+00:00
+Author: Jack Joannides KC text admin (jjoannid)
+Author Id: 477560366432256000
+Avatar URL: assets\791c521e62160be1f3df04992f6e5470-36A38.png
+Content: Nvm
+--------------------
+
+--- Message ---
+Message ID: 1284225617558114457
+Message Type: Default
+Reply to: None
+Timestamp: 2024-09-13T18:54:06.984+00:00
+Author: Jack Joannides KC text admin (jjoannid)
+Author Id: 477560366432256000
+Avatar URL: assets\791c521e62160be1f3df04992f6e5470-36A38.png
+Content: Technically but I can help you after I do some personal stuff.
+--------------------
+
+--- Message ---
+Message ID: 1284225726719070239
+Message Type: Default
+Reply to: None
+Timestamp: 2024-09-13T18:54:33.01+00:00
+Author: Stephanie Helsel (CO) (slhelsel)
+Author Id: 1283914546846634095
+Avatar URL: assets\8569adcbd36c70a7578c017bf5604ea5-05CA3.png
+Content: Ok
+--------------------

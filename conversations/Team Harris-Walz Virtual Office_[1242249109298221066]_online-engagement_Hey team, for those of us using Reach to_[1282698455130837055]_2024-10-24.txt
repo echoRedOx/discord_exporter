@@ -1,0 +1,71 @@
+Guild: Team Harris-Walz Virtual Office (ID: 1242249109298221066)
+Channel: Hey team, for those of us using Reach to (ID: 1282698455130837055)
+Channel Topic: None
+Exported At: 2024-10-24T13:09:09.2425796+00:00
+
+
+--- Message ---
+Message ID: 1282699216975560704
+Message Type: 21
+Reply to: 1282698455130837055
+Timestamp: 2024-09-09T13:48:44.726+00:00
+Author: Marta Richenburg (martarichenburg_59797)
+Author Id: 1260983976483356767
+Avatar URL: assets\a57efb34b9ef35ed7f644aca5ab803aa-F2CBD.png
+Content: 
+--------------------
+
+--- Message ---
+Message ID: 1282699218418405529
+Message Type: Default
+Reply to: None
+Timestamp: 2024-09-09T13:48:45.07+00:00
+Author: Marta Richenburg (martarichenburg_59797)
+Author Id: 1260983976483356767
+Avatar URL: assets\a57efb34b9ef35ed7f644aca5ab803aa-F2CBD.png
+Content: Hi! I will pass this on to our team! Once the debate begins, we will be putting things into Reach in real time!
+--------------------
+
+--- Message ---
+Message ID: 1282699356503281768
+Message Type: Default
+Reply to: None
+Timestamp: 2024-09-09T13:49:17.992+00:00
+Author: lil’ GZY (eikocherry)
+Author Id: 715290461299933245
+Avatar URL: assets\beed427a56d05670fbfdbb498f0b7e6e-862E2.png
+Content: Thank you so much!
+--------------------
+
+--- Message ---
+Message ID: 1282699414653108387
+Message Type: Default
+Reply to: None
+Timestamp: 2024-09-09T13:49:31.856+00:00
+Author: Marta Richenburg (martarichenburg_59797)
+Author Id: 1260983976483356767
+Avatar URL: assets\a57efb34b9ef35ed7f644aca5ab803aa-F2CBD.png
+Content: I would also look at the lowering cost label as well for some economy things! More things to come in this label as well!
+--------------------
+
+--- Message ---
+Message ID: 1282699523097100391
+Message Type: Default
+Reply to: None
+Timestamp: 2024-09-09T13:49:57.711+00:00
+Author: lil’ GZY (eikocherry)
+Author Id: 715290461299933245
+Avatar URL: assets\beed427a56d05670fbfdbb498f0b7e6e-862E2.png
+Content: Excellent!
+--------------------
+
+--- Message ---
+Message ID: 1282699664809918516
+Message Type: Default
+Reply to: None
+Timestamp: 2024-09-09T13:50:31.498+00:00
+Author: Marta Richenburg (martarichenburg_59797)
+Author Id: 1260983976483356767
+Avatar URL: assets\a57efb34b9ef35ed7f644aca5ab803aa-F2CBD.png
+Content: Thank YOU for giving feedback! It really helps our content team!
+--------------------

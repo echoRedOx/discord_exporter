@@ -1,0 +1,137 @@
+Guild: Team Harris-Walz Virtual Office (ID: 1242249109298221066)
+Channel: State Engagement (ID: 1269377021100822541)
+Channel Topic: None
+Exported At: 2024-10-24T06:55:15.2305142+00:00
+
+
+--- Message ---
+Message ID: 1269377021100822541
+Message Type: Default
+Reply to: None
+Timestamp: 2024-08-03T19:31:05.715+00:00
+Author: Kathryn Jean [MA] (lefty_lucy_60633)
+Author Id: 1264664181697675285
+Avatar URL: assets\a9fc9fbd48b893a8bf777da59a460813-9D27B.png
+Content: Hello! Under State Engagement, the only state I see is Mississippi. Is there a channel for each state?
+--------------------
+
+--- Message ---
+Message ID: 1269381272682106992
+Message Type: Default
+Reply to: None
+Timestamp: 2024-08-03T19:47:59.371+00:00
+Author: Ophelia W • Lead Mod (opheliawild)
+Author Id: 957714233217409174
+Avatar URL: assets\8b706a86e5f9b8dcaaa950a7500b77b8-E1341.png
+Content: There is, but if you want to campaign locally in more than one, let me know and I can add a few others so you can have access.
+--------------------
+
+--- Message ---
+Message ID: 1269391701642842193
+Message Type: Default
+Reply to: None
+Timestamp: 2024-08-03T20:29:25.829+00:00
+Author: Kathryn Jean [MA] (lefty_lucy_60633)
+Author Id: 1264664181697675285
+Avatar URL: assets\a9fc9fbd48b893a8bf777da59a460813-9D27B.png
+Content: I am in MA
+--------------------
+
+--- Message ---
+Message ID: 1269392519796363355
+Message Type: Default
+Reply to: None
+Timestamp: 2024-08-03T20:32:40.892+00:00
+Author: Carolyn B [CA] • Lead Mod (carb.on)
+Author Id: 568257600228032512
+Avatar URL: assets\28a90c77b5793d80eb62484a43c66748-D8837.png
+Content: You have both MA and MS now, if you don't want MS i can remove it.
+--------------------
+
+--- Message ---
+Message ID: 1269392789666402386
+Message Type: Default
+Reply to: None
+Timestamp: 2024-08-03T20:33:45.234+00:00
+Author: Kathryn Jean [MA] (lefty_lucy_60633)
+Author Id: 1264664181697675285
+Avatar URL: assets\a9fc9fbd48b893a8bf777da59a460813-9D27B.png
+Content: Yes, I love MS but I won't be campaigning there this time around. Thank you very much!
+--------------------
+
+--- Message ---
+Message ID: 1269393109008121976
+Message Type: Default
+Reply to: None
+Timestamp: 2024-08-03T20:35:01.371+00:00
+Author: Carolyn B [CA] • Lead Mod (carb.on)
+Author Id: 568257600228032512
+Avatar URL: assets\28a90c77b5793d80eb62484a43c66748-D8837.png
+Content: done <:blueheart:1252803082849488956>
+--------------------
+
+--- Message ---
+Message ID: 1270463621310316617
+Message Type: Default
+Reply to: None
+Timestamp: 2024-08-06T19:28:51.393+00:00
+Author: Karen P (MA) (kpl0nty)
+Author Id: 1266383929275846690
+Avatar URL: assets\5375c65a4b2c46bb8c35a1c5758a3435-14A31.png
+Content: Hi - I have the same question as LeftyLucy. I’m from MA but I was assigned to the @MS role and not the @MA role. Can someone please add me to @MA and remove me from @MS?
+--------------------
+
+--- Message ---
+Message ID: 1270491636425822299
+Message Type: Reply
+Reply to: 1270463621310316617
+Timestamp: 2024-08-06T21:20:10.717+00:00
+Author: Gillian D [TX] • Lead Mod (tenaciousg27)
+Author Id: 763374129772363776
+Avatar URL: assets\bfccaff89d7c287575ef163d39d3bde8-053E1.png
+Content: done <:blueheart:1252803082849488956>
+--------------------
+
+--- Message ---
+Message ID: 1270570536967209012
+Message Type: Reply
+Reply to: 1270491636425822299
+Timestamp: 2024-08-07T02:33:42.072+00:00
+Author: Karen P (MA) (kpl0nty)
+Author Id: 1266383929275846690
+Avatar URL: assets\5375c65a4b2c46bb8c35a1c5758a3435-14A31.png
+Content: Thanks!
+--------------------
+
+--- Message ---
+Message ID: 1277425132880662575
+Message Type: Default
+Reply to: None
+Timestamp: 2024-08-26T00:31:25.09+00:00
+Author: Grace (NYC/CT) (glcap03)
+Author Id: 1277409909624799284
+Avatar URL: assets\687adbf7f172a15dffcc103240e59b59-2840E.png
+Content: Hi there, similar question! Can I be added to Connecticut as well as New York?
+--------------------
+
+--- Message ---
+Message ID: 1277426294195224718
+Message Type: Reply
+Reply to: 1277425132880662575
+Timestamp: 2024-08-26T00:36:01.969+00:00
+Author: Carolyn B [CA] • Lead Mod (carb.on)
+Author Id: 568257600228032512
+Avatar URL: assets\28a90c77b5793d80eb62484a43c66748-D8837.png
+Content: Hi Grace you have CT and NY, you can choose as many as you want in the Channels and Roles at the top of the server menu.
+--------------------
+
+--- Message ---
+Message ID: 1277426388835631248
+Message Type: Reply
+Reply to: 1277426294195224718
+Timestamp: 2024-08-26T00:36:24.533+00:00
+Author: Grace (NYC/CT) (glcap03)
+Author Id: 1277409909624799284
+Avatar URL: assets\687adbf7f172a15dffcc103240e59b59-2840E.png
+Content: Oh, I see! Thank you so much
+--------------------

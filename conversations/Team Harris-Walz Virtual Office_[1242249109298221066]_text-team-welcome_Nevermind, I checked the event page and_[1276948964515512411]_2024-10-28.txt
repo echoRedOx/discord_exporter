@@ -1,0 +1,27 @@
+Guild: Team Harris-Walz Virtual Office (ID: 1242249109298221066)
+Channel: Nevermind, I checked the event page and (ID: 1276948964515512411)
+Channel Topic: None
+Exported At: 2024-10-29T00:08:06.9603204+00:00
+
+
+--- Message ---
+Message ID: 1276960315912749086
+Message Type: 21
+Reply to: 1276948964515512411
+Timestamp: 2024-08-24T17:44:24.089+00:00
+Author: Nicole Morris - Text Admin (nmorris237)
+Author Id: 935762347753103382
+Avatar URL: assets\27b1e286b65ae02b3378793b5f098411-A7B20.png
+Content: 
+--------------------
+
+--- Message ---
+Message ID: 1276960317368438835
+Message Type: Default
+Reply to: None
+Timestamp: 2024-08-24T17:44:24.436+00:00
+Author: Nicole Morris - Text Admin (nmorris237)
+Author Id: 935762347753103382
+Avatar URL: assets\27b1e286b65ae02b3378793b5f098411-A7B20.png
+Content: Hi <@385470684412903445> No worries! Good question. The training is the same -- but slightly different from phone banking, in that you only need to do the text training once! And then after the training and onboarding steps, you'll be added to our texting channels to start texting (usually within 48 hours)
+--------------------

@@ -1,0 +1,49 @@
+Guild: Team Harris-Walz Virtual Office (ID: 1242249109298221066)
+Channel: Hi I am trying to help with the current (ID: 1296558453245870123)
+Channel Topic: None
+Exported At: 2024-10-28T22:34:44.9727742+00:00
+
+
+--- Message ---
+Message ID: 1296558644825161849
+Message Type: 21
+Reply to: 1296558453245870123
+Timestamp: 2024-10-17T19:41:09.821+00:00
+Author: Roberta Bavin CA KC Greeter/Mod (roberta_24935)
+Author Id: 1269872908759597148
+Avatar URL: assets\df6d19d97b04a49ffcafbe7be14c7839-D9CE4.png
+Content: 
+--------------------
+
+--- Message ---
+Message ID: 1296558648696508426
+Message Type: Default
+Reply to: None
+Timestamp: 2024-10-17T19:41:10.744+00:00
+Author: Roberta Bavin CA KC Greeter/Mod (roberta_24935)
+Author Id: 1269872908759597148
+Avatar URL: assets\df6d19d97b04a49ffcafbe7be14c7839-D9CE4.png
+Content: Hi <@794057167141077012> That means that all are claimed, keep an eye out in <#1265788349747171438> for more to be posted. Thanks for being here!
+--------------------
+
+--- Message ---
+Message ID: 1296558713003315314
+Message Type: Default
+Reply to: None
+Timestamp: 2024-10-17T19:41:26.076+00:00
+Author: Laura Bradford (TN) (eggyfarmer6213)
+Author Id: 794057167141077012
+Avatar URL: assets\94e5569ae03d5a894eb68992ff7eb3aa-01621.png
+Content: ok thanks 🙂
+--------------------
+
+--- Message ---
+Message ID: 1296565202917134467
+Message Type: Default
+Reply to: None
+Timestamp: 2024-10-17T20:07:13.392+00:00
+Author: Laura Bradford (TN) (eggyfarmer6213)
+Author Id: 794057167141077012
+Avatar URL: assets\94e5569ae03d5a894eb68992ff7eb3aa-01621.png
+Content: Any idea when I should check back?
+--------------------

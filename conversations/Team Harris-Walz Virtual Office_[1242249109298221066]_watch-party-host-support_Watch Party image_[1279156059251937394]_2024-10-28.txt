@@ -1,0 +1,71 @@
+Guild: Team Harris-Walz Virtual Office (ID: 1242249109298221066)
+Channel: Watch Party image (ID: 1279156059251937394)
+Channel Topic: None
+Exported At: 2024-10-28T22:02:31.0430564+00:00
+
+
+--- Message ---
+Message ID: 1279157975180771328
+Message Type: 21
+Reply to: 1279156059251937394
+Timestamp: 2024-08-30T19:17:06.889+00:00
+Author: rootsmusic (rootsmusic)
+Author Id: 791857656897732648
+Avatar URL: assets\a30e650576a6d42a3c9ee24648f67c90-2AE37.png
+Content: 
+--------------------
+
+--- Message ---
+Message ID: 1279157977118539816
+Message Type: Default
+Reply to: None
+Timestamp: 2024-08-30T19:17:07.351+00:00
+Author: rootsmusic (rootsmusic)
+Author Id: 791857656897732648
+Avatar URL: assets\a30e650576a6d42a3c9ee24648f67c90-2AE37.png
+Content: <@1250880260338094331> [Several events](https://events.democrats.org/?event_campaign=13991&show_all_events=true) are displaying the wrong image.  The image says: "Host a Debate Watch Party".
+--------------------
+
+--- Message ---
+Message ID: 1279190379186622488
+Message Type: Default
+Reply to: None
+Timestamp: 2024-08-30T21:25:52.606+00:00
+Author: Sarah Jane [HQ Staff] (sarahjane_19621)
+Author Id: 1250880260338094331
+Avatar URL: assets\929edfc72a5aaaff243d98a3630a887d-031C7.png
+Content: This is a new one! I'm going to get this fixed asap, thank you for flagging it to me!
+--------------------
+
+--- Message ---
+Message ID: 1279269004069830656
+Message Type: Default
+Reply to: None
+Timestamp: 2024-08-31T02:38:18.239+00:00
+Author: MWolff (merciwolff)
+Author Id: 1279151705103143015
+Avatar URL: assets\6d7b3dae35ccfcdcb979f91c01f95e3d-DADCE.png
+Content: Thank you!
+--------------------
+
+--- Message ---
+Message ID: 1281281818859147459
+Message Type: Default
+Reply to: None
+Timestamp: 2024-09-05T15:56:30.681+00:00
+Author: MWolff (merciwolff)
+Author Id: 1279151705103143015
+Avatar URL: assets\6d7b3dae35ccfcdcb979f91c01f95e3d-DADCE.png
+Content: Any update here?
+--------------------
+
+--- Message ---
+Message ID: 1281775778635452490
+Message Type: Default
+Reply to: None
+Timestamp: 2024-09-07T00:39:19.869+00:00
+Author: Sarah Jane [HQ Staff] (sarahjane_19621)
+Author Id: 1250880260338094331
+Avatar URL: assets\929edfc72a5aaaff243d98a3630a887d-031C7.png
+Content: I tried to go through and change as many as I could but it's possible I missed one. Can you private message me with your real name please and I can get that fixed asap.
+--------------------

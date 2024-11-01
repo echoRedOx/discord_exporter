@@ -1,0 +1,65 @@
+- author_avatar_url: assets\6c5996770c985bcd6e5b68131ff2ba04-C05AF.png
+  author_id: '1283210598271942758'
+  author_name: dara070121
+  author_nickname: Dara Glenn [NJ]
+  content: 'Hi I was recently trained on phone banking and have a follow up question:
+    I don''t see a response in the script for when a different person than the one
+    I''m calling comes to the phone. There are lots of choices: answering machine,
+    hostile, do not call etc. but if it''s just "not Joe" what''s next? Thank you
+    in advance!'
+  id: '1299190739066032289'
+  ref_to: null
+  timestamp: '2024-10-25T02:00:09.99+00:00'
+  type: Default
+- author_avatar_url: assets\d1341d3c05d207da49a6fa548b4c1086-4BE71.png
+  author_id: '1267643778043482122'
+  author_name: hollymateluber
+  author_nickname: Holly Mate-Luber [Call Mod]
+  content: If it's a different person answering the phone and the person you are looking
+    for isnt there right now, please select "busy/call back." If the person who answers
+    says that the person you're looking for isn't at that number anymore, select "wrong
+    number." Thanks!
+  id: '1299191310741409874'
+  ref_to: null
+  timestamp: '2024-10-25T02:02:26.288+00:00'
+  type: Default
+- author_avatar_url: assets\6c5996770c985bcd6e5b68131ff2ba04-C05AF.png
+  author_id: '1283210598271942758'
+  author_name: dara070121
+  author_nickname: Dara Glenn [NJ]
+  content: Thanks and I tell the person that answers that we will call back?
+  id: '1299194287648407617'
+  ref_to: null
+  timestamp: '2024-10-25T02:14:16.038+00:00'
+  type: Default
+- author_avatar_url: assets\d1341d3c05d207da49a6fa548b4c1086-4BE71.png
+  author_id: '1267643778043482122'
+  author_name: hollymateluber
+  author_nickname: Holly Mate-Luber [Call Mod]
+  content: You don't need to. You can just say "okay, thank you so much!" And end
+    the call
+  id: '1299194523011780649'
+  ref_to: '1299194287648407617'
+  timestamp: '2024-10-25T02:15:12.153+00:00'
+  type: Reply
+- author_avatar_url: assets\6c5996770c985bcd6e5b68131ff2ba04-C05AF.png
+  author_id: '1283210598271942758'
+  author_name: dara070121
+  author_nickname: Dara Glenn [NJ]
+  content: got it. thanks!!
+  id: '1299194656436916256'
+  ref_to: null
+  timestamp: '2024-10-25T02:15:43.964+00:00'
+  type: Default
+- author_avatar_url: assets\74f79242ea49bf356a8e39afc26d2ed1-96B1B.png
+  author_id: '1285004866061860864'
+  author_name: thatgirlg.
+  author_nickname: That Girl  G
+  content: "I also engage the person I am speaking with, ask them if they are registered,\
+    \ if they watched the debates, who they liked most and why, or where they get\
+    \ their info and then engage them on topics. Every vote matters! \n\nI then explain\
+    \ I will call back for the other person too!"
+  id: '1299360895780257884'
+  ref_to: null
+  timestamp: '2024-10-25T13:16:18.512+00:00'
+  type: Default

@@ -1,0 +1,40 @@
+- author_avatar_url: assets\791c521e62160be1f3df04992f6e5470-36A38.png
+  author_id: '477560366432256000'
+  author_name: jjoannid
+  author_nickname: Jack Joannides KC text admin
+  content: ''
+  id: '1276243952139501740'
+  ref_to: '1276240909171687424'
+  timestamp: '2024-08-22T18:17:49.656+00:00'
+  type: '21'
+- author_avatar_url: assets\791c521e62160be1f3df04992f6e5470-36A38.png
+  author_id: '477560366432256000'
+  author_name: jjoannid
+  author_nickname: Jack Joannides KC text admin
+  content: We said 24-48 hours. Please wait your turn in line to be added. We had
+    so many who filled out the form. And it takes time. We're not robots.
+  id: '1276243953800318986'
+  ref_to: null
+  timestamp: '2024-08-22T18:17:50.052+00:00'
+  type: Default
+- author_avatar_url: assets\27b1e286b65ae02b3378793b5f098411-A7B20.png
+  author_id: '935762347753103382'
+  author_name: nmorris237
+  author_nickname: Nicole Morris - Text Admin
+  content: <@533730331111587850> Thanks! The notification will be in Discord -- on
+    the top left in your Direct Messages. Please see the screenshot below as an example.
+    But as Jack mentioned, we are still working thorugh the list of new texters so
+    it may be up to another 24 hours
+  id: '1276313504013352961'
+  ref_to: null
+  timestamp: '2024-08-22T22:54:12.115+00:00'
+  type: Default
+- author_avatar_url: assets\27b1e286b65ae02b3378793b5f098411-A7B20.png
+  author_id: '935762347753103382'
+  author_name: nmorris237
+  author_nickname: Nicole Morris - Text Admin
+  content: ''
+  id: '1276313530148323359'
+  ref_to: null
+  timestamp: '2024-08-22T22:54:18.346+00:00'
+  type: Default

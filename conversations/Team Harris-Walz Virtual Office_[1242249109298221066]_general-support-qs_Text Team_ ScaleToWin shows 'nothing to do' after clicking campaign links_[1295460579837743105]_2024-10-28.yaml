@@ -1,0 +1,34 @@
+- author_avatar_url: assets\9591d556dcd80f39fabc73065c2589cb-BE96A.png
+  author_id: '260919783757840385'
+  author_name: hans_yolo9389
+  author_nickname: Nate Tehrani (WV)
+  content: When I click on a texting campain link in the <#1265788349747171438> channel,
+    I just see the 'nothing to do' page - not even grayed campain buttons. I am returning
+    to texting after taking a break for about two weeks. When I go to the top-level
+    url at that site, I see the message about not being registered. What do I need
+    to do to get back into texting? Can a text-team mod verify that my ScaleToWin
+    account is still connected with this? I was directed to post here by a text-team
+    mod.
+  id: '1295460579837743105'
+  ref_to: null
+  timestamp: '2024-10-14T18:57:50.727+00:00'
+  type: Default
+- author_avatar_url: assets\af45a372ba919e7bac10686b43e799f1-BDEE3.png
+  author_id: '936622618293968958'
+  author_name: meanderingstone6495
+  author_nickname: "Autumn S [AR]\U0001F918\u2022 Lead Mod/OE Mod"
+  content: Hey <@260919783757840385> you'll need to go post this over in <#1259238714157305936>.
+    Their mods can get you sorted.
+  id: '1295461546725740606'
+  ref_to: null
+  timestamp: '2024-10-14T19:01:41.251+00:00'
+  type: Default
+- author_avatar_url: assets\af45a372ba919e7bac10686b43e799f1-BDEE3.png
+  author_id: '936622618293968958'
+  author_name: meanderingstone6495
+  author_nickname: "Autumn S [AR]\U0001F918\u2022 Lead Mod/OE Mod"
+  content: We don't handle the approval for texting campaigns.
+  id: '1295461662546985061'
+  ref_to: null
+  timestamp: '2024-10-14T19:02:08.865+00:00'
+  type: Default

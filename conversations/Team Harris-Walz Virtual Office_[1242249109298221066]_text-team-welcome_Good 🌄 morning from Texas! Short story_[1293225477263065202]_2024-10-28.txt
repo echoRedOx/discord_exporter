@@ -1,0 +1,49 @@
+Guild: Team Harris-Walz Virtual Office (ID: 1242249109298221066)
+Channel: Good 🌄 morning from Texas! Short story (ID: 1293225477263065202)
+Channel Topic: None
+Exported At: 2024-10-28T22:49:06.6822989+00:00
+
+
+--- Message ---
+Message ID: 1293233719481729034
+Message Type: 21
+Reply to: 1293225477263065202
+Timestamp: 2024-10-08T15:29:05.845+00:00
+Author: Jack Joannides KC text admin (jjoannid)
+Author Id: 477560366432256000
+Avatar URL: assets\791c521e62160be1f3df04992f6e5470-36A38.png
+Content: 
+--------------------
+
+--- Message ---
+Message ID: 1293233721373364297
+Message Type: Default
+Reply to: None
+Timestamp: 2024-10-08T15:29:06.296+00:00
+Author: Jack Joannides KC text admin (jjoannid)
+Author Id: 477560366432256000
+Avatar URL: assets\791c521e62160be1f3df04992f6e5470-36A38.png
+Content: You can take a training here: https://events.democrats.org/event/672393/
+--------------------
+
+--- Message ---
+Message ID: 1293235961035100255
+Message Type: Default
+Reply to: None
+Timestamp: 2024-10-08T15:38:00.273+00:00
+Author: Ophelia W • Lead Mod (opheliawild)
+Author Id: 957714233217409174
+Avatar URL: assets\8b706a86e5f9b8dcaaa950a7500b77b8-E1341.png
+Content: Hi <@1291508460231589918> Looks like Jack got you covered and the phone bank training is also excellent, high impact work! Thank you for doing the work!
+--------------------
+
+--- Message ---
+Message ID: 1293240955994116097
+Message Type: Reply
+Reply to: 1293235961035100255
+Timestamp: 2024-10-08T15:57:51.164+00:00
+Author: Sonja Camden TX (295805)
+Author Id: 1291508460231589918
+Avatar URL: assets\d3448546fa52a0e1a2574872e38473ce-0D76A.png
+Content: You're welcome 💙. I love doing the work!! 💙💙💙
+--------------------

@@ -1,0 +1,38 @@
+Guild: Team Harris-Walz Virtual Office (ID: 1242249109298221066)
+Channel: Hi, how do you sign up for the text (ID: 1285397588895334411)
+Channel Topic: None
+Exported At: 2024-10-28T23:18:52.3924404+00:00
+
+
+--- Message ---
+Message ID: 1285398032296448030
+Message Type: 21
+Reply to: 1285397588895334411
+Timestamp: 2024-09-17T00:32:52.44+00:00
+Author: Roberta Bavin CA KC Greeter/Mod (roberta_24935)
+Author Id: 1269872908759597148
+Avatar URL: assets\df6d19d97b04a49ffcafbe7be14c7839-D9CE4.png
+Content: 
+--------------------
+
+--- Message ---
+Message ID: 1285398035743899689
+Message Type: Default
+Reply to: None
+Timestamp: 2024-09-17T00:32:53.262+00:00
+Author: Roberta Bavin CA KC Greeter/Mod (roberta_24935)
+Author Id: 1269872908759597148
+Avatar URL: assets\df6d19d97b04a49ffcafbe7be14c7839-D9CE4.png
+Content: Ho Lauren! Here's the link! Thanks for joining in! https://events.democrats.org/event/672393/
+--------------------
+
+--- Message ---
+Message ID: 1285398505812131870
+Message Type: Default
+Reply to: None
+Timestamp: 2024-09-17T00:34:45.335+00:00
+Author: Lauren Goldsmith - NY (lauren_93131)
+Author Id: 1285395092416499723
+Avatar URL: assets\4-4551A.png
+Content: Thank you!
+--------------------

@@ -1,0 +1,49 @@
+Guild: Team Harris-Walz Virtual Office (ID: 1242249109298221066)
+Channel: Press Releases (ID: 1271224765603909684)
+Channel Topic: None
+Exported At: 2024-10-28T21:54:32.1509065+00:00
+
+
+--- Message ---
+Message ID: 1271225649205346388
+Message Type: 21
+Reply to: 1271224765603909684
+Timestamp: 2024-08-08T21:56:53.001+00:00
+Author: Jessica Puchala (MD) [OE Lead] (jessica033389)
+Author Id: 869778676986814514
+Avatar URL: assets\37de34190564f7c9acae5895cc884c8a-6F9C7.png
+Content: 
+--------------------
+
+--- Message ---
+Message ID: 1271225650610438226
+Message Type: Default
+Reply to: None
+Timestamp: 2024-08-08T21:56:53.336+00:00
+Author: Jessica Puchala (MD) [OE Lead] (jessica033389)
+Author Id: 869778676986814514
+Avatar URL: assets\37de34190564f7c9acae5895cc884c8a-6F9C7.png
+Content: Hi <@1240701297058123818>. Thanks for volunteering and asking! Generally speaking, in the past, many official statements from the campaign were made into graphics for digital sharing and placed within Reach. You can look for them there. Your patience is always appreciated as the campaign is still transitioning behind the scenes. Of course, statements and news releases from the Biden-Harris Administration (not the campaign) can be found on the official White House website. I hope this helps! Thanks for being here today.
+--------------------
+
+--- Message ---
+Message ID: 1271226149631954964
+Message Type: Reply
+Reply to: 1271225650610438226
+Timestamp: 2024-08-08T21:58:52.312+00:00
+Author: CarolC(IL) (carolthecrone_38232_34381)
+Author Id: 1240701297058123818
+Avatar URL: assets\07765e17ec48a4a56b959b87db27d5d1-D9A30.png
+Content: Well, it's just that the press releases have been doozies, and everyone talks about them. I thought maybe they showed up on the campaign website when they are released to the press.
+--------------------
+
+--- Message ---
+Message ID: 1271226849141194762
+Message Type: Reply
+Reply to: 1271226149631954964
+Timestamp: 2024-08-08T22:01:39.088+00:00
+Author: Jessica Puchala (MD) [OE Lead] (jessica033389)
+Author Id: 869778676986814514
+Avatar URL: assets\37de34190564f7c9acae5895cc884c8a-6F9C7.png
+Content: Oh, yes! I have not seen them on the official campaign website before. Again, I do see many graphics with official statements, but generally there's a bit of a delay to produce those and get them through the process to share with Reach. Thanks again!
+--------------------

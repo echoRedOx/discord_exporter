@@ -1,0 +1,148 @@
+Guild: Team Harris-Walz Virtual Office (ID: 1242249109298221066)
+Channel: Blank channels (ID: 1278543543752986664)
+Channel Topic: None
+Exported At: 2024-10-28T20:17:18.8504414+00:00
+
+
+--- Message ---
+Message ID: 1278543543752986664
+Message Type: Default
+Reply to: None
+Timestamp: 2024-08-29T02:35:35.021+00:00
+Author: Evan Blue [OR] (conifers3)
+Author Id: 338541412343611392
+Avatar URL: assets\760ff9889b5e41135bd2eabfc260cb03-64823.png
+Content: Under Server Guide > Resources, the Community Guidelines and Channel Guide are blank except for emoji reactions. Same with 2 channels in Orientation category: <#1242809422481195018> and <#1274062346272117028> . Any idea why these aren't displaying any text? All the other channels seem fine. Thanks
+--------------------
+
+--- Message ---
+Message ID: 1278569972125405306
+Message Type: Default
+Reply to: None
+Timestamp: 2024-08-29T04:20:36.036+00:00
+Author: Carolyn B [CA] • Lead Mod (carb.on)
+Author Id: 568257600228032512
+Avatar URL: assets\28a90c77b5793d80eb62484a43c66748-D8837.png
+Content: Hi <@338541412343611392> I want to make sure you are seeing everything. If you are using a desktop browser, try clearing your browsing history.
+--------------------
+
+--- Message ---
+Message ID: 1278571001239699468
+Message Type: Default
+Reply to: None
+Timestamp: 2024-08-29T04:24:41.396+00:00
+Author: Evan Blue [OR] (conifers3)
+Author Id: 338541412343611392
+Avatar URL: assets\760ff9889b5e41135bd2eabfc260cb03-64823.png
+Content: Thanks, I'm actually in the desktop app. I already tried quitting and restarting, no luck...
+--------------------
+
+--- Message ---
+Message ID: 1278577754618593322
+Message Type: Default
+Reply to: None
+Timestamp: 2024-08-29T04:51:31.527+00:00
+Author: Carolyn B [CA] • Lead Mod (carb.on)
+Author Id: 568257600228032512
+Avatar URL: assets\28a90c77b5793d80eb62484a43c66748-D8837.png
+Content: Hi <@338541412343611392> can you check this now and let me know if you see anything?
+--------------------
+
+--- Message ---
+Message ID: 1278578080625201253
+Message Type: Default
+Reply to: None
+Timestamp: 2024-08-29T04:52:49.253+00:00
+Author: Evan Blue [OR] (conifers3)
+Author Id: 338541412343611392
+Avatar URL: assets\760ff9889b5e41135bd2eabfc260cb03-64823.png
+Content: No, they're still blank except for the emoji reactions.
+--------------------
+
+--- Message ---
+Message ID: 1278578357495140383
+Message Type: Default
+Reply to: None
+Timestamp: 2024-08-29T04:53:55.264+00:00
+Author: Evan Blue [OR] (conifers3)
+Author Id: 338541412343611392
+Avatar URL: assets\760ff9889b5e41135bd2eabfc260cb03-64823.png
+Content: It's not a big deal except I would like to see the community guidelines, pretty sure I know roughly what they are but like to be sure 🙂
+--------------------
+
+--- Message ---
+Message ID: 1278581267247398933
+Message Type: Reply
+Reply to: 1278578080625201253
+Timestamp: 2024-08-29T05:05:29.003+00:00
+Author: Carolyn B [CA] • Lead Mod (carb.on)
+Author Id: 568257600228032512
+Avatar URL: assets\28a90c77b5793d80eb62484a43c66748-D8837.png
+Content: Okay I'm going to give you the online engagement role. This does not affect you work here. It's just that the onboarding is expecting you to pick something on that screen.
+--------------------
+
+--- Message ---
+Message ID: 1278581821571076148
+Message Type: Default
+Reply to: None
+Timestamp: 2024-08-29T05:07:41.164+00:00
+Author: Carolyn B [CA] • Lead Mod (carb.on)
+Author Id: 568257600228032512
+Avatar URL: assets\28a90c77b5793d80eb62484a43c66748-D8837.png
+Content: If you don't want to see the extra channels, you can right click on "Amplify Messaging" and choose "Mute Category > Until I turn back on"
+--------------------
+
+--- Message ---
+Message ID: 1278584874013429760
+Message Type: Default
+Reply to: None
+Timestamp: 2024-08-29T05:19:48.923+00:00
+Author: Carolyn B [CA] • Lead Mod (carb.on)
+Author Id: 568257600228032512
+Avatar URL: assets\28a90c77b5793d80eb62484a43c66748-D8837.png
+Content: I also noticed Discord is very slow this evening, I seeing blank pages while I wait for them to load
+--------------------
+
+--- Message ---
+Message ID: 1278587841080983594
+Message Type: Default
+Reply to: None
+Timestamp: 2024-08-29T05:31:36.327+00:00
+Author: Evan Blue [OR] (conifers3)
+Author Id: 338541412343611392
+Avatar URL: assets\760ff9889b5e41135bd2eabfc260cb03-64823.png
+Content: Ok thanks, maybe it's a temporary glitch... is there anything else I'm missing for onboarding? I was able to check off some customizations in Channels & Roles at least
+--------------------
+
+--- Message ---
+Message ID: 1278588342576877619
+Message Type: Default
+Reply to: None
+Timestamp: 2024-08-29T05:33:35.893+00:00
+Author: Carolyn B [CA] • Lead Mod (carb.on)
+Author Id: 568257600228032512
+Avatar URL: assets\28a90c77b5793d80eb62484a43c66748-D8837.png
+Content: You're probably fine, you may want to revisit Channels & Roles after you decide what kind(s) of actions you want to participate in.
+--------------------
+
+--- Message ---
+Message ID: 1279473665255145513
+Message Type: Default
+Reply to: None
+Timestamp: 2024-08-31T16:11:33.268+00:00
+Author: Evan Blue [OR] (conifers3)
+Author Id: 338541412343611392
+Avatar URL: assets\760ff9889b5e41135bd2eabfc260cb03-64823.png
+Content: Could you remove me from the "online engagement" role? I can't find a way to undo it, and I keep getting notifications and recommendations for it even though I muted the channel and category. Thanks
+--------------------
+
+--- Message ---
+Message ID: 1279476411295469639
+Message Type: Default
+Reply to: None
+Timestamp: 2024-08-31T16:22:27.975+00:00
+Author: Carolyn B [CA] • Lead Mod (carb.on)
+Author Id: 568257600228032512
+Avatar URL: assets\28a90c77b5793d80eb62484a43c66748-D8837.png
+Content: Hello <@338541412343611392> I removed your online engagement role. You only have the Oregon State role now.
+--------------------

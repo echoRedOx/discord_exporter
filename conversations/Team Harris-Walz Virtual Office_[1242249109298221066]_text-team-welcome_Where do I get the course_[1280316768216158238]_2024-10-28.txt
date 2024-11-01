@@ -1,0 +1,27 @@
+Guild: Team Harris-Walz Virtual Office (ID: 1242249109298221066)
+Channel: Where do I get the course (ID: 1280316768216158238)
+Channel Topic: None
+Exported At: 2024-10-28T23:40:24.8739296+00:00
+
+
+--- Message ---
+Message ID: 1280348256915951687
+Message Type: 21
+Reply to: 1280316768216158238
+Timestamp: 2024-09-03T02:06:52.169+00:00
+Author: Nicole Morris - Text Admin (nmorris237)
+Author Id: 935762347753103382
+Avatar URL: assets\27b1e286b65ae02b3378793b5f098411-A7B20.png
+Content: 
+--------------------
+
+--- Message ---
+Message ID: 1280348259205910580
+Message Type: Default
+Reply to: None
+Timestamp: 2024-09-03T02:06:52.715+00:00
+Author: Nicole Morris - Text Admin (nmorris237)
+Author Id: 935762347753103382
+Avatar URL: assets\27b1e286b65ae02b3378793b5f098411-A7B20.png
+Content: Hi <@1276873377390530632> You can sign up at https://events.democrats.org/event/672393/
+--------------------

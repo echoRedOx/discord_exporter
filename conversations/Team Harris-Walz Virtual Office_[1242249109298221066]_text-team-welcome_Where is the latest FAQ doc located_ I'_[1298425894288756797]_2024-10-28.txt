@@ -1,0 +1,38 @@
+Guild: Team Harris-Walz Virtual Office (ID: 1242249109298221066)
+Channel: Where is the latest FAQ doc located? I' (ID: 1298425894288756797)
+Channel Topic: None
+Exported At: 2024-10-28T22:21:25.4575476+00:00
+
+
+--- Message ---
+Message ID: 1298427204111171614
+Message Type: 21
+Reply to: 1298425894288756797
+Timestamp: 2024-10-22T23:26:09.071+00:00
+Author: Roberta Bavin CA KC Greeter/Mod (roberta_24935)
+Author Id: 1269872908759597148
+Avatar URL: assets\df6d19d97b04a49ffcafbe7be14c7839-D9CE4.png
+Content: 
+--------------------
+
+--- Message ---
+Message ID: 1298427207051509780
+Message Type: Default
+Reply to: None
+Timestamp: 2024-10-22T23:26:09.772+00:00
+Author: Roberta Bavin CA KC Greeter/Mod (roberta_24935)
+Author Id: 1269872908759597148
+Avatar URL: assets\df6d19d97b04a49ffcafbe7be14c7839-D9CE4.png
+Content: Hi <@1266879782990119014> Please check out the <#1287795589655822397> channel. Thanks for being here!
+--------------------
+
+--- Message ---
+Message ID: 1298427449914298418
+Message Type: Default
+Reply to: None
+Timestamp: 2024-10-22T23:27:07.675+00:00
+Author: Eileen Botti (eileenb._45388)
+Author Id: 1266879782990119014
+Avatar URL: assets\c72c05d1f4dc0b961cfe91c97e112aa2-B8964.png
+Content: Thank you! I didn't even have that channel, that makes sense now.
+--------------------

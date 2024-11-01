@@ -1,0 +1,28 @@
+- author_avatar_url: assets\8156a8c1e23069b2fac6bd70259a5ade-A321B.png
+  author_id: '932025725777743923'
+  author_name: andrewjnla
+  author_nickname: Andrew Martin [CA[ KC Text Admin
+  content: ''
+  id: '1299868126460121159'
+  ref_to: '1299851923373166603'
+  timestamp: '2024-10-26T22:51:51.73+00:00'
+  type: '21'
+- author_avatar_url: assets\8156a8c1e23069b2fac6bd70259a5ade-A321B.png
+  author_id: '932025725777743923'
+  author_name: andrewjnla
+  author_nickname: Andrew Martin [CA[ KC Text Admin
+  content: Hi <@1284966085065703530>  - please keep an eye out in <#1296953885818355752>
+    every day. Thanks.
+  id: '1299868129584877578'
+  ref_to: null
+  timestamp: '2024-10-26T22:51:52.475+00:00'
+  type: Default
+- author_avatar_url: assets\1b9a6f2391db7001eca7bff4e4f5612c-AEBD8.png
+  author_id: '1284966085065703530'
+  author_name: lori940013
+  author_nickname: Lori94
+  content: Will do!
+  id: '1299871721037496445'
+  ref_to: null
+  timestamp: '2024-10-26T23:06:08.744+00:00'
+  type: Default

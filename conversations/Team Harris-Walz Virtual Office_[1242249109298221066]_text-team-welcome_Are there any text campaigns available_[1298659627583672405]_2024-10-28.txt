@@ -1,0 +1,27 @@
+Guild: Team Harris-Walz Virtual Office (ID: 1242249109298221066)
+Channel: Are there any text campaigns available (ID: 1298659627583672405)
+Channel Topic: None
+Exported At: 2024-10-28T22:18:23.7901214+00:00
+
+
+--- Message ---
+Message ID: 1298855795060117595
+Message Type: 21
+Reply to: 1298659627583672405
+Timestamp: 2024-10-24T03:49:13.116+00:00
+Author: Nicole Morris - Text Admin (nmorris237)
+Author Id: 935762347753103382
+Avatar URL: assets\27b1e286b65ae02b3378793b5f098411-A7B20.png
+Content: 
+--------------------
+
+--- Message ---
+Message ID: 1298855799589834793
+Message Type: Default
+Reply to: None
+Timestamp: 2024-10-24T03:49:14.196+00:00
+Author: Nicole Morris - Text Admin (nmorris237)
+Author Id: 935762347753103382
+Avatar URL: assets\27b1e286b65ae02b3378793b5f098411-A7B20.png
+Content: Hi <@636751573145485337> Thanks! Have you taken the text training with us yet?
+--------------------

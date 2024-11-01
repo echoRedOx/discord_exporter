@@ -1,0 +1,30 @@
+- author_avatar_url: assets\27b1e286b65ae02b3378793b5f098411-A7B20.png
+  author_id: '935762347753103382'
+  author_name: nmorris237
+  author_nickname: Nicole Morris - Text Admin
+  content: ''
+  id: '1277364485547364373'
+  ref_to: '1277363348362756218'
+  timestamp: '2024-08-25T20:30:25.639+00:00'
+  type: '21'
+- author_avatar_url: assets\27b1e286b65ae02b3378793b5f098411-A7B20.png
+  author_id: '935762347753103382'
+  author_name: nmorris237
+  author_nickname: Nicole Morris - Text Admin
+  content: Hi Michele - and welcome! We're still working on how to add Slack texters
+    to our Discord texting channels. We should have more information by tomorrow (for
+    now, texting opportunities are the same in Slack and Discord, so you'll see the
+    campaigns avaialble in Slack still while we move over)
+  id: '1277364486516506696'
+  ref_to: null
+  timestamp: '2024-08-25T20:30:25.87+00:00'
+  type: Default
+- author_avatar_url: assets\812c40d778e45367353049733269c7f8-F1551.png
+  author_id: '1264756267990122521'
+  author_name: miblu22
+  author_nickname: Michele Leschi [CA]
+  content: Okay! Thank You! <:thankyou:1252806147396735057>
+  id: '1277366905220632751'
+  ref_to: null
+  timestamp: '2024-08-25T20:40:02.534+00:00'
+  type: Default

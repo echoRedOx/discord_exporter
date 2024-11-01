@@ -1,0 +1,30 @@
+- author_avatar_url: assets\85321e10cbafaab9d944b9d1cfce8ef3-34B31.png
+  author_id: '1185625617639669851'
+  author_name: scubagear29
+  author_nickname: jasmine
+  content: Hi, I signed up to events like this one https://events.democrats.org/event/646177/
+    but I am not getting the zoom links to hop on and phone bank. Can anyone here
+    provide me a link to phone bank right now? I am a PA resident and trying to do
+    what I can to get PA blue
+  id: '1284608376701059133'
+  ref_to: null
+  timestamp: '2024-09-14T20:15:03.875+00:00'
+  type: Default
+- author_avatar_url: assets\5fde485e55d806d8356ca6e7e08f1f48-77A19.png
+  author_id: '1266903666879627274'
+  author_name: larrya._98544
+  author_nickname: Larry Ahlgrim (VA) [Call Mod]
+  content: here's the zoom link...https://democrats.zoom.us/j/96712252906?pwd=k2LsmwEa29ouOsms2bg848tspKooho.1
+  id: '1284609682421583963'
+  ref_to: '1284608376701059133'
+  timestamp: '2024-09-14T20:20:15.183+00:00'
+  type: Reply
+- author_avatar_url: assets\85321e10cbafaab9d944b9d1cfce8ef3-34B31.png
+  author_id: '1185625617639669851'
+  author_name: scubagear29
+  author_nickname: jasmine
+  content: thank you!!!!
+  id: '1284609711546695710'
+  ref_to: null
+  timestamp: '2024-09-14T20:20:22.127+00:00'
+  type: Default

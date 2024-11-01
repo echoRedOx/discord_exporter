@@ -1,0 +1,302 @@
+Guild: Team Harris-Walz Virtual Office (ID: 1242249109298221066)
+Channel: Text (ID: 1269983129188171797)
+Channel Topic: None
+Exported At: 2024-10-28T19:42:35.4509744+00:00
+
+
+--- Message ---
+Message ID: 1269992666851180555
+Message Type: 21
+Reply to: 1269983129188171797
+Timestamp: 2024-08-05T12:17:27.1+00:00
+Author: Tim B [CA] KC Text Admin (otter20079058)
+Author Id: 968557716832391219
+Avatar URL: assets\ff322353539338ae0919d2cd05ec6b4f-297C8.png
+Content: 
+--------------------
+
+--- Message ---
+Message ID: 1269992668868644907
+Message Type: Default
+Reply to: None
+Timestamp: 2024-08-05T12:17:27.581+00:00
+Author: Tim B [CA] KC Text Admin (otter20079058)
+Author Id: 968557716832391219
+Avatar URL: assets\ff322353539338ae0919d2cd05ec6b4f-297C8.png
+Content: <@1269412506699431997> hello, welcome! Are you interested in joining our Text team? We have onboarding trainings.
+--------------------
+
+--- Message ---
+Message ID: 1269992985911623792
+Message Type: Default
+Reply to: None
+Timestamp: 2024-08-05T12:18:43.17+00:00
+Author: Keith Richmond (keith_richmond)
+Author Id: 1269412506699431997
+Avatar URL: assets\ea644b054a201d31484975ef41fbfe4e-676E8.png
+Content: Yes. I did the onboarding training 2 days ago on Saturday
+--------------------
+
+--- Message ---
+Message ID: 1269993144657772727
+Message Type: Default
+Reply to: None
+Timestamp: 2024-08-05T12:19:21.018+00:00
+Author: Keith Richmond (keith_richmond)
+Author Id: 1269412506699431997
+Avatar URL: assets\ea644b054a201d31484975ef41fbfe4e-676E8.png
+Content: Angelo Ruiz led the training. I would like to join the texting channels
+--------------------
+
+--- Message ---
+Message ID: 1270008185268342926
+Message Type: Default
+Reply to: None
+Timestamp: 2024-08-05T13:19:06.979+00:00
+Author: Jeannine M • Lead Mod (jean9_28218_79932)
+Author Id: 1266879741785538682
+Avatar URL: assets\54ff5e8dfab835d878a961f9f7b7d161-6C0EE.png
+Content: Thanks, <@1269412506699431997> ! Excited to have you and your expertise with us! the text team will be adding people to the text channels as they can. You aren't missing anything right now though as there aren't any active campaigns right now. While waiting, consider joining a phone bank or another opportunity!
+--------------------
+
+--- Message ---
+Message ID: 1270054588179025941
+Message Type: Default
+Reply to: None
+Timestamp: 2024-08-05T16:23:30.295+00:00
+Author: Carl Sabath (MD) (discuscarl7_32308)
+Author Id: 1262811070804922393
+Avatar URL: assets\1-B2132.png
+Content: Hi there,  I had to update my email so that I could get the spoke/scale to win account to work.  Now I'm not seeing any of the Text Channels.  Could someone please add me back?  Thank you.
+--------------------
+
+--- Message ---
+Message ID: 1270057480172343408
+Message Type: Reply
+Reply to: 1270054588179025941
+Timestamp: 2024-08-05T16:34:59.8+00:00
+Author: Tim B [CA] KC Text Admin (otter20079058)
+Author Id: 968557716832391219
+Avatar URL: assets\ff322353539338ae0919d2cd05ec6b4f-297C8.png
+Content: Whats your Discord Username? Its in your Profile Settings.
+--------------------
+
+--- Message ---
+Message ID: 1270057764713926676
+Message Type: Default
+Reply to: None
+Timestamp: 2024-08-05T16:36:07.64+00:00
+Author: Carl Sabath (MD) (discuscarl7_32308)
+Author Id: 1262811070804922393
+Avatar URL: assets\1-B2132.png
+Content: discuscarl7_32308
+--------------------
+
+--- Message ---
+Message ID: 1270057966300827751
+Message Type: Reply
+Reply to: 1270057480172343408
+Timestamp: 2024-08-05T16:36:55.702+00:00
+Author: Carl Sabath (MD) (discuscarl7_32308)
+Author Id: 1262811070804922393
+Avatar URL: assets\1-B2132.png
+Content: discuscarl7_32308
+--------------------
+
+--- Message ---
+Message ID: 1270137500030996543
+Message Type: Reply
+Reply to: 1270054588179025941
+Timestamp: 2024-08-05T21:52:58.021+00:00
+Author: Keith Richmond (keith_richmond)
+Author Id: 1269412506699431997
+Avatar URL: assets\ea644b054a201d31484975ef41fbfe4e-676E8.png
+Content: Okay. My username is keith_richmond
+--------------------
+
+--- Message ---
+Message ID: 1271514167550939217
+Message Type: Default
+Reply to: None
+Timestamp: 2024-08-09T17:03:21.135+00:00
+Author: Barbara Tokay NJ (barbarat0989)
+Author Id: 1267561006519812129
+Avatar URL: assets\480c962ef1ffdc50e446886d680edf0c-28C67.png
+Content: Hi, I'm a member of the text team, currently signed up on Slack with access to Spoke. I've signed up as well on Discord but don't seem to be able to get beyond the volunteer -welcome channel. What do I need to do to be set up to text for Harris/Walz on Discord?
+--------------------
+
+--- Message ---
+Message ID: 1271516747056549979
+Message Type: Reply
+Reply to: 1271514167550939217
+Timestamp: 2024-08-09T17:13:36.137+00:00
+Author: Tim B [CA] KC Text Admin (otter20079058)
+Author Id: 968557716832391219
+Avatar URL: assets\ff322353539338ae0919d2cd05ec6b4f-297C8.png
+Content: I’ll DM you in a bit
+--------------------
+
+--- Message ---
+Message ID: 1271517747875942544
+Message Type: Default
+Reply to: None
+Timestamp: 2024-08-09T17:17:34.751+00:00
+Author: Barbara Tokay NJ (barbarat0989)
+Author Id: 1267561006519812129
+Avatar URL: assets\480c962ef1ffdc50e446886d680edf0c-28C67.png
+Content: Thank you. Hope I can get to DMs in Discord..
+--------------------
+
+--- Message ---
+Message ID: 1271517890000060507
+Message Type: Reply
+Reply to: 1271517747875942544
+Timestamp: 2024-08-09T17:18:08.636+00:00
+Author: Tim B [CA] KC Text Admin (otter20079058)
+Author Id: 968557716832391219
+Avatar URL: assets\ff322353539338ae0919d2cd05ec6b4f-297C8.png
+Content: Iys the game controller in top corner, may see a ‘red 1’ notification too
+--------------------
+
+--- Message ---
+Message ID: 1271554429618749542
+Message Type: Default
+Reply to: None
+Timestamp: 2024-08-09T19:43:20.36+00:00
+Author: Carl Sabath (MD) (discuscarl7_32308)
+Author Id: 1262811070804922393
+Avatar URL: assets\1-B2132.png
+Content: Hi there,  I was in the Text team channels several days ago and then when I came back,  I don't seem to be in them.  My discord name is discuscarl7_32308   If someone can check I'd appreciate it.
+--------------------
+
+--- Message ---
+Message ID: 1271560235189932113
+Message Type: Reply
+Reply to: 1271554429618749542
+Timestamp: 2024-08-09T20:06:24.516+00:00
+Author: Tim B [CA] KC Text Admin (otter20079058)
+Author Id: 968557716832391219
+Avatar URL: assets\ff322353539338ae0919d2cd05ec6b4f-297C8.png
+Content: <@1262811070804922393>  Staff will follow up with you.
+--------------------
+
+--- Message ---
+Message ID: 1278532343597895744
+Message Type: Default
+Reply to: None
+Timestamp: 2024-08-29T01:51:04.696+00:00
+Author: Kerrie (kerrie_53618)
+Author Id: 1278148373005865014
+Avatar URL: assets\fe86d669224123c86a5e1f682e9afd15-9247F.png
+Content: I would love to help text, is there a training to do that?
+--------------------
+
+--- Message ---
+Message ID: 1278574075383648276
+Message Type: Reply
+Reply to: 1278532343597895744
+Timestamp: 2024-08-29T04:36:54.329+00:00
+Author: Tim B [CA] KC Text Admin (otter20079058)
+Author Id: 968557716832391219
+Avatar URL: assets\ff322353539338ae0919d2cd05ec6b4f-297C8.png
+Content: <@1278148373005865014>  I DM you on Discord, please check there for messages. May have to approve a message request (see Game Controller, upper left corner of Discord App)
+--------------------
+
+--- Message ---
+Message ID: 1278743421544169647
+Message Type: Default
+Reply to: None
+Timestamp: 2024-08-29T15:49:49.6+00:00
+Author: Dabbie Bowron (dabbie_82428)
+Author Id: 1277645699105816750
+Avatar URL: assets\18c094134906ce752c1eb5e346c2898f-8AADA.png
+Content: I'm ready to begin texting?
+--------------------
+
+--- Message ---
+Message ID: 1278808317212491897
+Message Type: Reply
+Reply to: 1278743421544169647
+Timestamp: 2024-08-29T20:07:41.933+00:00
+Author: Jeannine M • Lead Mod (jean9_28218_79932)
+Author Id: 1266879741785538682
+Avatar URL: assets\54ff5e8dfab835d878a961f9f7b7d161-6C0EE.png
+Content: Hi, Dab! Have you completed the text training yet?
+--------------------
+
+--- Message ---
+Message ID: 1278814266085871666
+Message Type: Default
+Reply to: None
+Timestamp: 2024-08-29T20:31:20.255+00:00
+Author: Dabbie Bowron (dabbie_82428)
+Author Id: 1277645699105816750
+Avatar URL: assets\18c094134906ce752c1eb5e346c2898f-8AADA.png
+Content: Yes, I got 4 out of 5 questions right.  I'm ready to begin, so happy to have a text from you.
+--------------------
+
+--- Message ---
+Message ID: 1278814406225952856
+Message Type: Default
+Reply to: None
+Timestamp: 2024-08-29T20:31:53.667+00:00
+Author: Dabbie Bowron (dabbie_82428)
+Author Id: 1277645699105816750
+Avatar URL: assets\18c094134906ce752c1eb5e346c2898f-8AADA.png
+Content: Do you need my full name?
+--------------------
+
+--- Message ---
+Message ID: 1278832351471992933
+Message Type: Reply
+Reply to: 1278814266085871666
+Timestamp: 2024-08-29T21:43:12.147+00:00
+Author: Tim B [CA] KC Text Admin (otter20079058)
+Author Id: 968557716832391219
+Avatar URL: assets\ff322353539338ae0919d2cd05ec6b4f-297C8.png
+Content: <@1277645699105816750>  to get a head start please add first and last name on Discord Display name. Soon a Greeter will message you on Discord Direct Messages, please check your DM area (game controller bubble, top left corner of screen).
+--------------------
+
+--- Message ---
+Message ID: 1279070743396614236
+Message Type: Reply
+Reply to: 1278574075383648276
+Timestamp: 2024-08-30T13:30:29.211+00:00
+Author: Kerrie (kerrie_53618)
+Author Id: 1278148373005865014
+Avatar URL: assets\fe86d669224123c86a5e1f682e9afd15-9247F.png
+Content: Hi Tim, got it and signed up for next week. Thank you!
+--------------------
+
+--- Message ---
+Message ID: 1279125077392363561
+Message Type: Default
+Reply to: None
+Timestamp: 2024-08-30T17:06:23.445+00:00
+Author: Dabbie Bowron (dabbie_82428)
+Author Id: 1277645699105816750
+Avatar URL: assets\18c094134906ce752c1eb5e346c2898f-8AADA.png
+Content: I hate to be so dumb, but where is the "Discord Display"?  I'll enter it here.  Name is Dabbie Bowron.
+--------------------
+
+--- Message ---
+Message ID: 1279154561294274724
+Message Type: Reply
+Reply to: 1279125077392363561
+Timestamp: 2024-08-30T19:03:32.955+00:00
+Author: Tim B [CA] KC Text Admin (otter20079058)
+Author Id: 968557716832391219
+Avatar URL: assets\ff322353539338ae0919d2cd05ec6b4f-297C8.png
+Content: <@1277645699105816750>  To change your Discord Display Name, visit your profile bottom left corner of screen, select the gear icon 'User Settings' -> edit profile name. 'edit display name'
+--------------------
+
+--- Message ---
+Message ID: 1279156286507843706
+Message Type: Default
+Reply to: None
+Timestamp: 2024-08-30T19:10:24.278+00:00
+Author: Dabbie Bowron (dabbie_82428)
+Author Id: 1277645699105816750
+Avatar URL: assets\18c094134906ce752c1eb5e346c2898f-8AADA.png
+Content: Hi Tim, I mentioned to someone else that I don't want my name to appear on any texts that I am doing -- it's too easy to track and unusual.  Can we solve this problem?
+--------------------

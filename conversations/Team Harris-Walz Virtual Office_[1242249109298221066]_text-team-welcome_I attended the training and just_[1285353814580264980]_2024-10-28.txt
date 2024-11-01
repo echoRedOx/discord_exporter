@@ -1,0 +1,60 @@
+Guild: Team Harris-Walz Virtual Office (ID: 1242249109298221066)
+Channel: I attended the training and just (ID: 1285353814580264980)
+Channel Topic: None
+Exported At: 2024-10-28T23:18:46.4017033+00:00
+
+
+--- Message ---
+Message ID: 1285374331295236176
+Message Type: 21
+Reply to: 1285353814580264980
+Timestamp: 2024-09-16T22:58:41.681+00:00
+Author: Nicole Morris - Text Admin (nmorris237)
+Author Id: 935762347753103382
+Avatar URL: assets\27b1e286b65ae02b3378793b5f098411-A7B20.png
+Content: 
+--------------------
+
+--- Message ---
+Message ID: 1285374333283467295
+Message Type: Default
+Reply to: None
+Timestamp: 2024-09-16T22:58:42.155+00:00
+Author: Nicole Morris - Text Admin (nmorris237)
+Author Id: 935762347753103382
+Avatar URL: assets\27b1e286b65ae02b3378793b5f098411-A7B20.png
+Content: Hi Karen - thanks! I will send you a follow up Direct Message now in Discord. Please let me know if you don't see it.
+--------------------
+
+--- Message ---
+Message ID: 1285383503122272317
+Message Type: Default
+Reply to: None
+Timestamp: 2024-09-16T23:35:08.415+00:00
+Author: Karen Ross (karenross0111)
+Author Id: 1283594192656011427
+Avatar URL: assets\8569adcbd36c70a7578c017bf5604ea5-7431F.png
+Content: I don’t see it here.  What channel is it on
+--------------------
+
+--- Message ---
+Message ID: 1285430667785801770
+Message Type: Default
+Reply to: None
+Timestamp: 2024-09-17T02:42:33.347+00:00
+Author: Karen Ross (karenross0111)
+Author Id: 1283594192656011427
+Avatar URL: assets\8569adcbd36c70a7578c017bf5604ea5-7431F.png
+Content: I found your message
+--------------------
+
+--- Message ---
+Message ID: 1285478432502972512
+Message Type: Default
+Reply to: None
+Timestamp: 2024-09-17T05:52:21.343+00:00
+Author: Nicole Morris - Text Admin (nmorris237)
+Author Id: 935762347753103382
+Avatar URL: assets\27b1e286b65ae02b3378793b5f098411-A7B20.png
+Content: Thanks! Will reply to you there.
+--------------------

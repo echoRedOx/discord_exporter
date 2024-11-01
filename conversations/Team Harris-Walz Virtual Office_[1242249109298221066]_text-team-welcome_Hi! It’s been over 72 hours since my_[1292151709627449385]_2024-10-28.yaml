@@ -1,0 +1,39 @@
+- author_avatar_url: assets\df6d19d97b04a49ffcafbe7be14c7839-D9CE4.png
+  author_id: '1269872908759597148'
+  author_name: roberta_24935
+  author_nickname: Roberta Bavin CA KC Greeter/Mod
+  content: ''
+  id: '1292152974444986378'
+  ref_to: '1292151709627449385'
+  timestamp: '2024-10-05T15:54:36.149+00:00'
+  type: '21'
+- author_avatar_url: assets\df6d19d97b04a49ffcafbe7be14c7839-D9CE4.png
+  author_id: '1269872908759597148'
+  author_name: roberta_24935
+  author_nickname: Roberta Bavin CA KC Greeter/Mod
+  content: "Hi Anna! Thanks for reaching out. It looks like you were sent a DM on\
+    \ 10/2. Please check upper left game controller icon for your DM. <:thankyou:1252806147396735057>\
+    \ \U0001F30A"
+  id: '1292152978215796798'
+  ref_to: null
+  timestamp: '2024-10-05T15:54:37.048+00:00'
+  type: Default
+- author_avatar_url: assets\4b981f8f89c6c9b080b33330e5bb3461-1F03B.png
+  author_id: '1290806590085271663'
+  author_name: aparrell
+  author_nickname: Anna Parrell [WI]
+  content: Hi Roberta! I checked my messages and I'm not seeing it - would you mind
+    sending it again? I may have had my settings set to not receive outside messages.
+  id: '1292165321553350819'
+  ref_to: null
+  timestamp: '2024-10-05T16:43:39.929+00:00'
+  type: Default
+- author_avatar_url: assets\df6d19d97b04a49ffcafbe7be14c7839-D9CE4.png
+  author_id: '1269872908759597148'
+  author_name: roberta_24935
+  author_nickname: Roberta Bavin CA KC Greeter/Mod
+  content: Just sent another one!
+  id: '1292183265653821622'
+  ref_to: '1292165321553350819'
+  timestamp: '2024-10-05T17:54:58.136+00:00'
+  type: Reply

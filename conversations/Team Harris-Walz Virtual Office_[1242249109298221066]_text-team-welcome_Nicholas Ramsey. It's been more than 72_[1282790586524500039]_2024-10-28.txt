@@ -1,0 +1,38 @@
+Guild: Team Harris-Walz Virtual Office (ID: 1242249109298221066)
+Channel: Nicholas Ramsey. It's been more than 72 (ID: 1282790586524500039)
+Channel Topic: None
+Exported At: 2024-10-28T23:31:04.2781541+00:00
+
+
+--- Message ---
+Message ID: 1282850690665812090
+Message Type: 21
+Reply to: 1282790586524500039
+Timestamp: 2024-09-09T23:50:38.868+00:00
+Author: Nicole Morris - Text Admin (nmorris237)
+Author Id: 935762347753103382
+Avatar URL: assets\27b1e286b65ae02b3378793b5f098411-A7B20.png
+Content: 
+--------------------
+
+--- Message ---
+Message ID: 1282850694461919252
+Message Type: Default
+Reply to: None
+Timestamp: 2024-09-09T23:50:39.773+00:00
+Author: Nicole Morris - Text Admin (nmorris237)
+Author Id: 935762347753103382
+Avatar URL: assets\27b1e286b65ae02b3378793b5f098411-A7B20.png
+Content: Hi <@557944455890468867> Thanks! Let me send you a follow up DM now
+--------------------
+
+--- Message ---
+Message ID: 1282850839232380928
+Message Type: Default
+Reply to: None
+Timestamp: 2024-09-09T23:51:14.289+00:00
+Author: Nicholas Ramsey [NJ] (nramsey)
+Author Id: 557944455890468867
+Avatar URL: assets\c44ac97d00fc86e0bf03b683113c7639-31896.png
+Content: Thank you so much, <@935762347753103382>! Eager to volunteer!
+--------------------

@@ -1,0 +1,191 @@
+Guild: Team Harris-Walz Virtual Office (ID: 1242249109298221066)
+Channel: Do you need any help on Discord? (ID: 1279577334797566042)
+Channel Topic: None
+Exported At: 2024-10-28T20:16:24.6749877+00:00
+
+
+--- Message ---
+Message ID: 1279577334797566042
+Message Type: Default
+Reply to: None
+Timestamp: 2024-08-31T23:03:30.013+00:00
+Author: billh (.billh)
+Author Id: 911700060360818688
+Avatar URL: assets\0-EB806.png
+Content: Have used for a year and can learn more. Have time.
+--------------------
+
+--- Message ---
+Message ID: 1279578800480456885
+Message Type: Default
+Reply to: None
+Timestamp: 2024-08-31T23:09:19.459+00:00
+Author: Carolyn B [CA] • Lead Mod (carb.on)
+Author Id: 568257600228032512
+Avatar URL: assets\28a90c77b5793d80eb62484a43c66748-D8837.png
+Content: We have a nice intro video to support your learning. https://youtu.be/cA32MMsN61g and if you want to minimize the overwhelm there is this one https://youtu.be/cA32MMsN61g
+--------------------
+
+--- Message ---
+Message ID: 1279590097230233664
+Message Type: Default
+Reply to: None
+Timestamp: 2024-08-31T23:54:12.814+00:00
+Author: Dorthea King-Simpson (dortheakingsimpson)
+Author Id: 1268700656743612417
+Avatar URL: assets\65475662df73c5875bc4a1d6f590e5fe-10DB5.png
+Content: Well...I have posted everywhere I have been instructed for more than two weeks...I can't get the answer to o my question. It doesn't feel good to be shuffled from one channel to the next.
+
+Qu. How do I set up a fundraiser at a watch party?
+
+Thanks so much!
+--------------------
+
+--- Message ---
+Message ID: 1279599285754925142
+Message Type: Default
+Reply to: None
+Timestamp: 2024-09-01T00:30:43.529+00:00
+Author: Jen Medeiros [CA] • [Lead Mod] (starkittynmom)
+Author Id: 1276944250491113656
+Avatar URL: assets\a_2aba4b7f19fcab5fe5391fcdb73d735d-D670A.gif
+Content: <@1268700656743612417>  the <#1245826306780823563> channel would be a good place to ask questions like this. Here's a link to a similar question another member posted earlier today: https://discord.com/channels/1242249109298221066/1245826306780823563/1277816160884232214
+--------------------
+
+--- Message ---
+Message ID: 1279599474758516787
+Message Type: Default
+Reply to: None
+Timestamp: 2024-09-01T00:31:28.591+00:00
+Author: Dorthea King-Simpson (dortheakingsimpson)
+Author Id: 1268700656743612417
+Avatar URL: assets\65475662df73c5875bc4a1d6f590e5fe-10DB5.png
+Content: <@1276944250491113656>  Thanks so much!
+--------------------
+
+--- Message ---
+Message ID: 1279600072136458250
+Message Type: Default
+Reply to: None
+Timestamp: 2024-09-01T00:33:51.017+00:00
+Author: Dorthea King-Simpson (dortheakingsimpson)
+Author Id: 1268700656743612417
+Avatar URL: assets\65475662df73c5875bc4a1d6f590e5fe-10DB5.png
+Content: <@1276944250491113656> I can host, but the second g part of my question seems to be more challenging.
+--------------------
+
+--- Message ---
+Message ID: 1279601189234933780
+Message Type: Default
+Reply to: None
+Timestamp: 2024-09-01T00:38:17.354+00:00
+Author: Carolyn B [CA] • Lead Mod (carb.on)
+Author Id: 568257600228032512
+Avatar URL: assets\28a90c77b5793d80eb62484a43c66748-D8837.png
+Content: Hi <@1268700656743612417> due to campaign law we only promote DNC and HFP official fundraising events.
+--------------------
+
+--- Message ---
+Message ID: 1279601391739867158
+Message Type: Default
+Reply to: None
+Timestamp: 2024-09-01T00:39:05.635+00:00
+Author: Carolyn B [CA] • Lead Mod (carb.on)
+Author Id: 568257600228032512
+Avatar URL: assets\28a90c77b5793d80eb62484a43c66748-D8837.png
+Content: There are apps like eventbrite that will manage your own personal fundraising.
+--------------------
+
+--- Message ---
+Message ID: 1279601711090241568
+Message Type: Default
+Reply to: None
+Timestamp: 2024-09-01T00:40:21.774+00:00
+Author: Dorthea King-Simpson (dortheakingsimpson)
+Author Id: 1268700656743612417
+Avatar URL: assets\65475662df73c5875bc4a1d6f590e5fe-10DB5.png
+Content: <@568257600228032512> ho Carolyn, what is DNV and HFP?
+
+I would like to have it all go straight to the campaign and pur group be recognized for organizing the donations.
+--------------------
+
+--- Message ---
+Message ID: 1279601878555951197
+Message Type: Default
+Reply to: None
+Timestamp: 2024-09-01T00:41:01.701+00:00
+Author: Carolyn B [CA] • Lead Mod (carb.on)
+Author Id: 568257600228032512
+Avatar URL: assets\28a90c77b5793d80eb62484a43c66748-D8837.png
+Content: Democratic National Campaign
+Harris For President
+also Harris Victory Fund
+--------------------
+
+--- Message ---
+Message ID: 1279602015571415050
+Message Type: Default
+Reply to: None
+Timestamp: 2024-09-01T00:41:34.368+00:00
+Author: Dorthea King-Simpson (dortheakingsimpson)
+Author Id: 1268700656743612417
+Avatar URL: assets\65475662df73c5875bc4a1d6f590e5fe-10DB5.png
+Content: Wouldn't that be the Harris for president link?
+--------------------
+
+--- Message ---
+Message ID: 1279603122775261265
+Message Type: Reply
+Reply to: 1279602015571415050
+Timestamp: 2024-09-01T00:45:58.346+00:00
+Author: Carolyn B [CA] • Lead Mod (carb.on)
+Author Id: 568257600228032512
+Avatar URL: assets\28a90c77b5793d80eb62484a43c66748-D8837.png
+Content: You could use this as your donation link at your event https://kamalaharris.com
+--------------------
+
+--- Message ---
+Message ID: 1279791021730824294
+Message Type: Default
+Reply to: None
+Timestamp: 2024-09-01T13:12:36.948+00:00
+Author: Dorthea King-Simpson (dortheakingsimpson)
+Author Id: 1268700656743612417
+Avatar URL: assets\65475662df73c5875bc4a1d6f590e5fe-10DB5.png
+Content: <@568257600228032512> I appreciate you sharing this. How can we as ROC 4 Harris be credited with the donations that come in?
+
+Is there a place to make a note?
+--------------------
+
+--- Message ---
+Message ID: 1279798134502850570
+Message Type: Reply
+Reply to: 1279791021730824294
+Timestamp: 2024-09-01T13:40:52.765+00:00
+Author: Ophelia W • Lead Mod (opheliawild)
+Author Id: 957714233217409174
+Avatar URL: assets\8b706a86e5f9b8dcaaa950a7500b77b8-E1341.png
+Content: Hi Dorothea! I believe you can set up your host event on https://events.democrats.org and once it's approved, it should tie to your campaign drive, giving your group credit. I would confirm this though with <@1250880260338094331> since you didn't receive an answer in the host channel.
+--------------------
+
+--- Message ---
+Message ID: 1279815771790245888
+Message Type: Default
+Reply to: None
+Timestamp: 2024-09-01T14:50:57.822+00:00
+Author: Dorthea King-Simpson (dortheakingsimpson)
+Author Id: 1268700656743612417
+Avatar URL: assets\65475662df73c5875bc4a1d6f590e5fe-10DB5.png
+Content: <@957714233217409174> <@957714233217409174> ok...My event is set up already. I will reach out to her.
+--------------------
+
+--- Message ---
+Message ID: 1279815881672626287
+Message Type: Default
+Reply to: None
+Timestamp: 2024-09-01T14:51:24.02+00:00
+Author: Dorthea King-Simpson (dortheakingsimpson)
+Author Id: 1268700656743612417
+Avatar URL: assets\65475662df73c5875bc4a1d6f590e5fe-10DB5.png
+Content: <@957714233217409174> Thank you so much.
+--------------------

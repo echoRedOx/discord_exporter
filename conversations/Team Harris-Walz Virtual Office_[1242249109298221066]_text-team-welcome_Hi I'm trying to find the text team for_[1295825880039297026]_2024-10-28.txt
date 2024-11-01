@@ -1,0 +1,104 @@
+Guild: Team Harris-Walz Virtual Office (ID: 1242249109298221066)
+Channel: Hi I'm trying to find the text team for (ID: 1295825880039297026)
+Channel Topic: None
+Exported At: 2024-10-28T22:37:49.5470529+00:00
+
+
+--- Message ---
+Message ID: 1295837591006089258
+Message Type: 21
+Reply to: 1295825880039297026
+Timestamp: 2024-10-15T19:55:57.194+00:00
+Author: Roberta Bavin CA KC Greeter/Mod (roberta_24935)
+Author Id: 1269872908759597148
+Avatar URL: assets\df6d19d97b04a49ffcafbe7be14c7839-D9CE4.png
+Content: 
+--------------------
+
+--- Message ---
+Message ID: 1295837594562596904
+Message Type: Default
+Reply to: None
+Timestamp: 2024-10-15T19:55:58.042+00:00
+Author: Roberta Bavin CA KC Greeter/Mod (roberta_24935)
+Author Id: 1269872908759597148
+Avatar URL: assets\df6d19d97b04a49ffcafbe7be14c7839-D9CE4.png
+Content: Hi <@1294793929325285407> Have you taken a training with us yet?
+--------------------
+
+--- Message ---
+Message ID: 1295887927468888115
+Message Type: Default
+Reply to: None
+Timestamp: 2024-10-15T23:15:58.342+00:00
+Author: Benjamin Ferris II California (busy_gull_26748)
+Author Id: 1294793929325285407
+Avatar URL: assets\1-B2132.png
+Content: Yes and was approved and given instructions to go to "Channels and Roles" and then browse.
+--------------------
+
+--- Message ---
+Message ID: 1295888802539241556
+Message Type: Default
+Reply to: None
+Timestamp: 2024-10-15T23:19:26.975+00:00
+Author: Benjamin Ferris II California (busy_gull_26748)
+Author Id: 1294793929325285407
+Avatar URL: assets\1-B2132.png
+Content: Roberta I tried DM ing you after you sent the instructions but a message came back saying I wasn't set up to do that...
+--------------------
+
+--- Message ---
+Message ID: 1295889025101729822
+Message Type: Default
+Reply to: None
+Timestamp: 2024-10-15T23:20:20.038+00:00
+Author: Benjamin Ferris II California (busy_gull_26748)
+Author Id: 1294793929325285407
+Avatar URL: assets\1-B2132.png
+Content: Also I've changed my screen name back if that's the issue...
+--------------------
+
+--- Message ---
+Message ID: 1295902475785867355
+Message Type: Reply
+Reply to: 1295887927468888115
+Timestamp: 2024-10-16T00:13:46.931+00:00
+Author: Roberta Bavin CA KC Greeter/Mod (roberta_24935)
+Author Id: 1269872908759597148
+Avatar URL: assets\df6d19d97b04a49ffcafbe7be14c7839-D9CE4.png
+Content: It looks like you have two discord accounts and you were approved to text using Ben Ferris. Please look for that discord account to text. Thanks!
+--------------------
+
+--- Message ---
+Message ID: 1295907011850141746
+Message Type: Default
+Reply to: None
+Timestamp: 2024-10-16T00:31:48.413+00:00
+Author: Benjamin Ferris II California (busy_gull_26748)
+Author Id: 1294793929325285407
+Avatar URL: assets\1-B2132.png
+Content: OK I've logged out and logged back in as Benjamin Ferris II. I thought I could use a different screen name? All I'm seeing on the left column is text-team-welcome. Aren't there more channels I should be able to access? Sorry to bother you Thanks!
+--------------------
+
+--- Message ---
+Message ID: 1295908165338267689
+Message Type: Reply
+Reply to: 1295907011850141746
+Timestamp: 2024-10-16T00:36:23.426+00:00
+Author: Roberta Bavin CA KC Greeter/Mod (roberta_24935)
+Author Id: 1269872908759597148
+Avatar URL: assets\df6d19d97b04a49ffcafbe7be14c7839-D9CE4.png
+Content: Let me reply in a DM so it's not public. Thanks!
+--------------------
+
+--- Message ---
+Message ID: 1295909474636136449
+Message Type: Default
+Reply to: None
+Timestamp: 2024-10-16T00:41:35.587+00:00
+Author: Benjamin Ferris II California (busy_gull_26748)
+Author Id: 1294793929325285407
+Avatar URL: assets\1-B2132.png
+Content: Yes, success!
+--------------------

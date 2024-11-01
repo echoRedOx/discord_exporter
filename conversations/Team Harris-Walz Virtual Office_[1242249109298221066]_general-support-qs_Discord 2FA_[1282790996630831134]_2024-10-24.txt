@@ -1,0 +1,75 @@
+Guild: Team Harris-Walz Virtual Office (ID: 1242249109298221066)
+Channel: Discord 2FA (ID: 1282790996630831134)
+Channel Topic: None
+Exported At: 2024-10-24T06:38:59.2646225+00:00
+
+
+--- Message ---
+Message ID: 1282790996630831134
+Message Type: Default
+Reply to: None
+Timestamp: 2024-09-09T19:53:26.701+00:00
+Author: Leah Larkin [CA] — KC Text Admin (thednageek)
+Author Id: 827323038714167316
+Avatar URL: assets\2-ADBB4.png
+Content: Discord has a banner saying "We suggest adding a phone to your 2 factor authentications settings as a backup."  When I try to enable 2FA, I get an error saying "This account is not enrolled in two factor authentication."  
+
+I feel old.
+--------------------
+
+--- Message ---
+Message ID: 1282792756795670551
+Message Type: Default
+Reply to: None
+Timestamp: 2024-09-09T20:00:26.357+00:00
+Author: Carolyn B [CA] • Lead Mod (carb.on)
+Author Id: 568257600228032512
+Avatar URL: assets\28a90c77b5793d80eb62484a43c66748-D8837.png
+Content: Hi <@827323038714167316> if you use 2FA for anything else in your life, you can add Discord to the 2FA app you already have. If this is your first 2FA you can use Google Authenticator or an app like Duo Mobile. Here is the Discord page explaination https://support.discord.com/hc/en-us/articles/219576828-Setting-up-Multi-Factor-Authentication#h_01J5BFJ9JZEDTA2W83J9TAHG0Z
+--------------------
+
+--- Message ---
+Message ID: 1282820127145984063
+Message Type: Default
+Reply to: None
+Timestamp: 2024-09-09T21:49:11.957+00:00
+Author: Leah Larkin [CA] — KC Text Admin (thednageek)
+Author Id: 827323038714167316
+Avatar URL: assets\2-ADBB4.png
+Content: The other sites I use have their own 2FA.  I assume it's okay to do without.
+--------------------
+
+--- Message ---
+Message ID: 1282822164894187602
+Message Type: Default
+Reply to: None
+Timestamp: 2024-09-09T21:57:17.794+00:00
+Author: Carolyn B [CA] • Lead Mod (carb.on)
+Author Id: 568257600228032512
+Avatar URL: assets\28a90c77b5793d80eb62484a43c66748-D8837.png
+Content: You need 2FA to use moderator level permissions. Idk what the mod settings are for text team, but you might be missing some things.
+--------------------
+
+--- Message ---
+Message ID: 1282835278255493131
+Message Type: Default
+Reply to: None
+Timestamp: 2024-09-09T22:49:24.263+00:00
+Author: Leah Larkin [CA] — KC Text Admin (thednageek)
+Author Id: 827323038714167316
+Avatar URL: assets\2-ADBB4.png
+Content: I set up a passcode for 2FA.  The banner suggesting I add my phone is something new.  There's a field for the phone number (which it already had, btw), but I get the error when I try to set it up.
+--------------------
+
+--- Message ---
+Message ID: 1282860927342870583
+Message Type: Default
+Reply to: None
+Timestamp: 2024-09-10T00:31:19.482+00:00
+Author: Carolyn B [CA] • Lead Mod (carb.on)
+Author Id: 568257600228032512
+Avatar URL: assets\28a90c77b5793d80eb62484a43c66748-D8837.png
+Content: Great that you already had your phone number in there. you won't need to do anything when the server security setting increases next week.
+Try logging out of Discord on all your device(s). Then log back in on one device and see if you can set up 2FA.
+Are you doing the 2FA setup on your phone or desktop?
+--------------------

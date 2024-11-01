@@ -1,0 +1,27 @@
+Guild: Team Harris-Walz Virtual Office (ID: 1242249109298221066)
+Channel: Hi there- Wondering what we're gonna do (ID: 1274060796309278831)
+Channel Topic: None
+Exported At: 2024-10-29T00:37:31.9824163+00:00
+
+
+--- Message ---
+Message ID: 1275393711794028544
+Message Type: 21
+Reply to: 1274060796309278831
+Timestamp: 2024-08-20T09:59:16.561+00:00
+Author: gibberish_grinch (gibberish_grinch)
+Author Id: 1273910058132181030
+Avatar URL: assets\3-FB033.png
+Content: 
+--------------------
+
+--- Message ---
+Message ID: 1275393713534795818
+Message Type: Default
+Reply to: None
+Timestamp: 2024-08-20T09:59:16.976+00:00
+Author: gibberish_grinch (gibberish_grinch)
+Author Id: 1273910058132181030
+Avatar URL: assets\3-FB033.png
+Content: I would be be happy to not get his cringe emails anymore, yes. How about Josh Riley?  Volunteer for him https://www.mobilize.us/joshrileyforcongress/
+--------------------

@@ -1,0 +1,38 @@
+Guild: Team Harris-Walz Virtual Office (ID: 1242249109298221066)
+Channel: Web dialer caller ID (ID: 1290833014376366152)
+Channel Topic: None
+Exported At: 2024-10-24T12:47:26.931349+00:00
+
+
+--- Message ---
+Message ID: 1290833014376366152
+Message Type: Default
+Reply to: None
+Timestamp: 2024-10-02T00:29:33.145+00:00
+Author: David Sloane (MA) (salmontorch)
+Author Id: 808840421904089141
+Avatar URL: assets\cf8b61eb826c98b9c7dd7f1da04254a4-03D52.png
+Content: Do web dialer calls show caller ID for Democrats or the Harris campaign? Or is it just a number?
+--------------------
+
+--- Message ---
+Message ID: 1290836825602261044
+Message Type: Default
+Reply to: None
+Timestamp: 2024-10-02T00:44:41.812+00:00
+Author: Abigail P.(Data Captain) (abigailpritchard)
+Author Id: 1174129892019941411
+Avatar URL: assets\6f513b8af09f9314bc65d892f3473a23-9D45C.png
+Content: Hi! Our calls do not show a caller id, they just show a local number.
+--------------------
+
+--- Message ---
+Message ID: 1290837417565356044
+Message Type: Default
+Reply to: None
+Timestamp: 2024-10-02T00:47:02.947+00:00
+Author: David Sloane (MA) (salmontorch)
+Author Id: 808840421904089141
+Avatar URL: assets\cf8b61eb826c98b9c7dd7f1da04254a4-03D52.png
+Content: Glorious - thank you!
+--------------------

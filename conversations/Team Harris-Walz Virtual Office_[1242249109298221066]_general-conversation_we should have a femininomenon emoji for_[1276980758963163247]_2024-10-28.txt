@@ -1,0 +1,38 @@
+Guild: Team Harris-Walz Virtual Office (ID: 1242249109298221066)
+Channel: we should have a femininomenon emoji for (ID: 1276980758963163247)
+Channel Topic: None
+Exported At: 2024-10-28T19:45:36.5944103+00:00
+
+
+--- Message ---
+Message ID: 1276983703024963686
+Message Type: 21
+Reply to: 1276980758963163247
+Timestamp: 2024-08-24T19:17:20.011+00:00
+Author: Jessica Puchala (MD) [OE Lead] (jessica033389)
+Author Id: 869778676986814514
+Avatar URL: assets\37de34190564f7c9acae5895cc884c8a-6F9C7.png
+Content: 
+--------------------
+
+--- Message ---
+Message ID: 1276984516669603841
+Message Type: Default
+Reply to: None
+Timestamp: 2024-08-24T19:20:33.999+00:00
+Author: The piper at the gates of dawn (poglizar)
+Author Id: 775478835478265879
+Avatar URL: assets\6b558dcf96a97963b814e448c8a00580-52829.png
+Content: Agreed
+--------------------
+
+--- Message ---
+Message ID: 1276993963873538119
+Message Type: Default
+Reply to: None
+Timestamp: 2024-08-24T19:58:06.388+00:00
+Author: Ophelia W • Lead Mod (opheliawild)
+Author Id: 957714233217409174
+Avatar URL: assets\8b706a86e5f9b8dcaaa950a7500b77b8-E1341.png
+Content: What would you like the emoji to be? It has to be clear since it's really small.
+--------------------

@@ -1,0 +1,47 @@
+- author_avatar_url: assets\ffcbaca1edffb25ac530087181864d5a-E82C5.png
+  author_id: '1277403351667048508'
+  author_name: helen_fair
+  author_nickname: Helen Fairbrother[NJ] [Call Mod]
+  content: Caller is trying to join a phone bank.  They did not receive a confirmation
+    email, and when they try to access the zoom link I provided, zoom keeps asking
+    for an access code even though they are logged in to their zoom account, which
+    has worked in the past.  I asked them to log in and out of zoom and that did not
+    help.  What should they do?  How can I help?
+  id: '1287807662083280898'
+  ref_to: null
+  timestamp: '2024-09-23T16:07:52.95+00:00'
+  type: Default
+- author_avatar_url: assets\28a90c77b5793d80eb62484a43c66748-D8837.png
+  author_id: '568257600228032512'
+  author_name: carb.on
+  author_nickname: "Carolyn B [CA] \u2022 Lead Mod"
+  content: "Hi <@1277403351667048508> it's possible they are logged into zoom on a\
+    \ corporate account (with more security) try advising them to log out of zoom\
+    \ and stay logged out, then let the invite take care of starting zoom for them.\
+    \ or course there is always the restart the computer suggestion. \U0001F606"
+  id: '1287827056838578209'
+  ref_to: null
+  timestamp: '2024-09-23T17:24:57.02+00:00'
+  type: Default
+- author_avatar_url: assets\ffcbaca1edffb25ac530087181864d5a-E82C5.png
+  author_id: '1277403351667048508'
+  author_name: helen_fair
+  author_nickname: Helen Fairbrother[NJ] [Call Mod]
+  content: Thanks!  The caller has been so helpful in troubleshooting.  Other mods
+    say you have to be logged in to your zoom account -- is this something we prefer
+    but is not required?
+  id: '1287827835968426016'
+  ref_to: '1287827056838578209'
+  timestamp: '2024-09-23T17:28:02.779+00:00'
+  type: Reply
+- author_avatar_url: assets\28a90c77b5793d80eb62484a43c66748-D8837.png
+  author_id: '568257600228032512'
+  author_name: carb.on
+  author_nickname: "Carolyn B [CA] \u2022 Lead Mod"
+  content: It really depends on what kind of zoom account the user already has. If
+    it's a personal zoom account then logging in is fine. If it's a work account it
+    could be asking to verify a zoom request from outside of the work  community.
+  id: '1287828807247593566'
+  ref_to: null
+  timestamp: '2024-09-23T17:31:54.35+00:00'
+  type: Default

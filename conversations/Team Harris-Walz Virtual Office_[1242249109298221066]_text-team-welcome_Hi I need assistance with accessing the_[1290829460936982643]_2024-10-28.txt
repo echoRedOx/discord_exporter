@@ -1,0 +1,27 @@
+Guild: Team Harris-Walz Virtual Office (ID: 1242249109298221066)
+Channel: Hi I need assistance with accessing the (ID: 1290829460936982643)
+Channel Topic: None
+Exported At: 2024-10-28T22:55:16.9426114+00:00
+
+
+--- Message ---
+Message ID: 1290839981346132019
+Message Type: 21
+Reply to: 1290829460936982643
+Timestamp: 2024-10-02T00:57:14.2+00:00
+Author: Roberta Bavin CA KC Greeter/Mod (roberta_24935)
+Author Id: 1269872908759597148
+Avatar URL: assets\df6d19d97b04a49ffcafbe7be14c7839-D9CE4.png
+Content: 
+--------------------
+
+--- Message ---
+Message ID: 1290839983204208690
+Message Type: Default
+Reply to: None
+Timestamp: 2024-10-02T00:57:14.643+00:00
+Author: Roberta Bavin CA KC Greeter/Mod (roberta_24935)
+Author Id: 1269872908759597148
+Avatar URL: assets\df6d19d97b04a49ffcafbe7be14c7839-D9CE4.png
+Content: Hi Jalan- Please look for a DM from me in a couple of minutes. Thanks for reaching out!
+--------------------

@@ -1,0 +1,37 @@
+- author_avatar_url: assets\27b1e286b65ae02b3378793b5f098411-A7B20.png
+  author_id: '935762347753103382'
+  author_name: nmorris237
+  author_nickname: Nicole Morris - Text Admin
+  content: ''
+  id: '1298856200846311464'
+  ref_to: '1298667173828362251'
+  timestamp: '2024-10-24T03:50:49.863+00:00'
+  type: '21'
+- author_avatar_url: assets\27b1e286b65ae02b3378793b5f098411-A7B20.png
+  author_id: '935762347753103382'
+  author_name: nmorris237
+  author_nickname: Nicole Morris - Text Admin
+  content: Hi Sasha - thanks! It looks like you're part of our Persusion team. This
+    channel is for onboarding texters for the Text Team (different team!).
+  id: '1298856204633641020'
+  ref_to: null
+  timestamp: '2024-10-24T03:50:50.766+00:00'
+  type: Default
+- author_avatar_url: assets\7ca4ee1b4ec03f04eae9db4a9df262f3-ACA3C.png
+  author_id: '434387454435393536'
+  author_name: the__sasha
+  author_nickname: Sasha Geist NY
+  content: Oh sorry about that! Ty
+  id: '1298999214357090344'
+  ref_to: null
+  timestamp: '2024-10-24T13:19:06.941+00:00'
+  type: Default
+- author_avatar_url: assets\27b1e286b65ae02b3378793b5f098411-A7B20.png
+  author_id: '935762347753103382'
+  author_name: nmorris237
+  author_nickname: Nicole Morris - Text Admin
+  content: No worries!
+  id: '1299003478483402753'
+  ref_to: null
+  timestamp: '2024-10-24T13:36:03.588+00:00'
+  type: Default

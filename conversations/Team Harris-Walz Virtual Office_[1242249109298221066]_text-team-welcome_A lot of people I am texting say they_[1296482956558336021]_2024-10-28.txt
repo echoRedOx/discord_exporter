@@ -1,0 +1,27 @@
+Guild: Team Harris-Walz Virtual Office (ID: 1242249109298221066)
+Channel: A lot of people I am texting say they (ID: 1296482956558336021)
+Channel Topic: None
+Exported At: 2024-10-28T22:34:48.6941148+00:00
+
+
+--- Message ---
+Message ID: 1296484892733079593
+Message Type: 21
+Reply to: 1296482956558336021
+Timestamp: 2024-10-17T14:48:05.952+00:00
+Author: Roberta Bavin CA KC Greeter/Mod (roberta_24935)
+Author Id: 1269872908759597148
+Avatar URL: assets\df6d19d97b04a49ffcafbe7be14c7839-D9CE4.png
+Content: 
+--------------------
+
+--- Message ---
+Message ID: 1296484896696700940
+Message Type: Default
+Reply to: None
+Timestamp: 2024-10-17T14:48:06.897+00:00
+Author: Roberta Bavin CA KC Greeter/Mod (roberta_24935)
+Author Id: 1269872908759597148
+Avatar URL: assets\df6d19d97b04a49ffcafbe7be14c7839-D9CE4.png
+Content: Hi there! Thanks for reaching out. This may be a VoPro issue.  Please ask this in <#1259238714157305936> <:thankyou:1252806147396735057>
+--------------------

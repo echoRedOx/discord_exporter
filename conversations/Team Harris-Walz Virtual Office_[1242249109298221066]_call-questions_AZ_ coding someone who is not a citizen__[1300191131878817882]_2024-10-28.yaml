@@ -1,0 +1,18 @@
+- author_avatar_url: assets\c36da42f84fd0333cd2f452b58548ac5-6759F.png
+  author_id: '1274494501620023349'
+  author_name: garretth._07326
+  author_nickname: Garrett Hall
+  content: Person said she is supporting but is no longer a citizen
+  id: '1300191131878817882'
+  ref_to: null
+  timestamp: '2024-10-27T20:15:22.223+00:00'
+  type: Default
+- author_avatar_url: assets\5fde485e55d806d8356ca6e7e08f1f48-77A19.png
+  author_id: '1266903666879627274'
+  author_name: larrya._98544
+  author_nickname: Larry Ahlgrim (VA) [Call Mod]
+  content: Mark it as not voting
+  id: '1300191481247694868'
+  ref_to: '1300191131878817882'
+  timestamp: '2024-10-27T20:16:45.519+00:00'
+  type: Reply

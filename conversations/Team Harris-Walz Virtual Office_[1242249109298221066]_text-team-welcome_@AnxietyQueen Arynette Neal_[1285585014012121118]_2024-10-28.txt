@@ -1,0 +1,38 @@
+Guild: Team Harris-Walz Virtual Office (ID: 1242249109298221066)
+Channel: @AnxietyQueen Arynette Neal (ID: 1285585014012121118)
+Channel Topic: None
+Exported At: 2024-10-28T23:17:47.2907067+00:00
+
+
+--- Message ---
+Message ID: 1285610432572424222
+Message Type: 21
+Reply to: 1285585014012121118
+Timestamp: 2024-09-17T14:36:52.612+00:00
+Author: Roberta Bavin CA KC Greeter/Mod (roberta_24935)
+Author Id: 1269872908759597148
+Avatar URL: assets\df6d19d97b04a49ffcafbe7be14c7839-D9CE4.png
+Content: 
+--------------------
+
+--- Message ---
+Message ID: 1285610435017703588
+Message Type: Default
+Reply to: None
+Timestamp: 2024-09-17T14:36:53.195+00:00
+Author: Roberta Bavin CA KC Greeter/Mod (roberta_24935)
+Author Id: 1269872908759597148
+Avatar URL: assets\df6d19d97b04a49ffcafbe7be14c7839-D9CE4.png
+Content: Hi <@1283581071635517542> Please see DM sent to you 9/15. Thanks for checking in! <:thankyou:1252806147396735057>
+--------------------
+
+--- Message ---
+Message ID: 1285628411330691093
+Message Type: Default
+Reply to: None
+Timestamp: 2024-09-17T15:48:19.082+00:00
+Author: Arynette N (GA) (261138_)
+Author Id: 1283581071635517542
+Avatar URL: assets\9d1b9f5f8e222654c51536740275bd88-470E4.png
+Content: Got it! Thank you!
+--------------------

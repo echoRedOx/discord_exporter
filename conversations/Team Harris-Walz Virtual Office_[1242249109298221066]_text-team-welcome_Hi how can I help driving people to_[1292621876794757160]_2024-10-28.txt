@@ -1,0 +1,27 @@
+Guild: Team Harris-Walz Virtual Office (ID: 1242249109298221066)
+Channel: Hi how can I help driving people to (ID: 1292621876794757160)
+Channel Topic: None
+Exported At: 2024-10-28T22:51:10.3316915+00:00
+
+
+--- Message ---
+Message ID: 1292622676669759498
+Message Type: 21
+Reply to: 1292621876794757160
+Timestamp: 2024-10-06T23:01:01.886+00:00
+Author: Jack Joannides KC text admin (jjoannid)
+Author Id: 477560366432256000
+Avatar URL: assets\791c521e62160be1f3df04992f6e5470-36A38.png
+Content: 
+--------------------
+
+--- Message ---
+Message ID: 1292622679634870352
+Message Type: Default
+Reply to: None
+Timestamp: 2024-10-06T23:01:02.593+00:00
+Author: Jack Joannides KC text admin (jjoannid)
+Author Id: 477560366432256000
+Avatar URL: assets\791c521e62160be1f3df04992f6e5470-36A38.png
+Content: Can you ask this in <#1267941954243526756>
+--------------------

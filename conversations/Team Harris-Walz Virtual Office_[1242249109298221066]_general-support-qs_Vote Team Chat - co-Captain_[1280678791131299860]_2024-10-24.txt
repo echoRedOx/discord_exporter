@@ -1,0 +1,37 @@
+Guild: Team Harris-Walz Virtual Office (ID: 1242249109298221066)
+Channel: Vote Team Chat - co-Captain (ID: 1280678791131299860)
+Channel Topic: None
+Exported At: 2024-10-24T06:45:01.9603842+00:00
+
+
+--- Message ---
+Message ID: 1280678791131299860
+Message Type: Default
+Reply to: None
+Timestamp: 2024-09-04T00:00:17.667+00:00
+Author: Beverly💕 (bevburke)
+Author Id: 1274516658597138493
+Avatar URL: assets\8569adcbd36c70a7578c017bf5604ea5-E0A3E.png
+Content: Need link to sign up to complete this training.
+--------------------
+
+--- Message ---
+Message ID: 1280682132875907104
+Message Type: Default
+Reply to: None
+Timestamp: 2024-09-04T00:13:34.401+00:00
+Author: Vernon J. [AL] MOD (kahlossolking)
+Author Id: 505706962101469204
+Avatar URL: assets\471b09011786f17f468f22e3a205db86-1986C.png
+Content: Hello Beverly.  Please find the following links for Vote Team Training:
+
+Shadow Shift: https://events.democrats.org/event/665877/
+
+VOTE Team Chat Captain Training: https://events.democrats.org/event/654850/
+
+VOTE Team Data Captain Training: https://events.democrats.org/event/654890/
+
+VOTE Team Facilitator Training: REACH Edition: https://events.democrats.org/event/655170/
+
+VOTE Team Facilitator Training: Phone Bank Edition: https://events.democrats.org/event/654762/
+--------------------

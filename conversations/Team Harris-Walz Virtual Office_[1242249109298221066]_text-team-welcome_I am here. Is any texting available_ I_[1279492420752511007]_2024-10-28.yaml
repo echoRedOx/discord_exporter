@@ -1,0 +1,39 @@
+- author_avatar_url: assets\791c521e62160be1f3df04992f6e5470-36A38.png
+  author_id: '477560366432256000'
+  author_name: jjoannid
+  author_nickname: Jack Joannides KC text admin
+  content: ''
+  id: '1279493091170193440'
+  ref_to: '1279492420752511007'
+  timestamp: '2024-08-31T17:28:44.767+00:00'
+  type: '21'
+- author_avatar_url: assets\791c521e62160be1f3df04992f6e5470-36A38.png
+  author_id: '477560366432256000'
+  author_name: jjoannid
+  author_nickname: Jack Joannides KC text admin
+  content: Can you please check <#1245442408305393675>
+  id: '1279493092462039101'
+  ref_to: null
+  timestamp: '2024-08-31T17:28:45.075+00:00'
+  type: Default
+- author_avatar_url: assets\4-4551A.png
+  author_id: '1277043120051327031'
+  author_name: bruce_80193
+  author_nickname: Bruce Landman
+  content: Yes. I just did. Is this how I get batches of texts? I've been looking
+    at that page since I signed up about 4 days ago, but have not figured out how
+    to actually get an assignment of texts.
+  id: '1279493695003037837'
+  ref_to: null
+  timestamp: '2024-08-31T17:31:08.732+00:00'
+  type: Default
+- author_avatar_url: assets\791c521e62160be1f3df04992f6e5470-36A38.png
+  author_id: '477560366432256000'
+  author_name: jjoannid
+  author_nickname: Jack Joannides KC text admin
+  content: Yes. Any texting questions you can ask in <#1259238714157305936> Text-team-welcome
+    is for new people.
+  id: '1279494599970132080'
+  ref_to: null
+  timestamp: '2024-08-31T17:34:44.493+00:00'
+  type: Default

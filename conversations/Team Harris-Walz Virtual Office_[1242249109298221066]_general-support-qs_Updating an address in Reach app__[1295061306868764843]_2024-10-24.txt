@@ -1,0 +1,161 @@
+Guild: Team Harris-Walz Virtual Office (ID: 1242249109298221066)
+Channel: Updating an address in Reach app? (ID: 1295061306868764843)
+Channel Topic: None
+Exported At: 2024-10-24T06:25:50.4219886+00:00
+
+
+--- Message ---
+Message ID: 1295061306868764843
+Message Type: Default
+Reply to: None
+Timestamp: 2024-10-13T16:31:16.633+00:00
+Author: S [MT/NM] (genericusername8797)
+Author Id: 465305140786888705
+Avatar URL: assets\a187dcd150192cbe1a6b1b9cb0ffe55c-6C116.png
+Content: I have a voter in Reach who recently moved and is in a totally different area now. They thought they updated their voter registration, but aren’t sure. Reach app still has old address & voting info. Can I update it somehow to get their current voting precincts etc? They’re a strong Harris supporter, but an infrequent voter. Trying to encourage them to get out and vote. Thanks!
+--------------------
+
+--- Message ---
+Message ID: 1295067656910798888
+Message Type: Default
+Reply to: None
+Timestamp: 2024-10-13T16:56:30.601+00:00
+Author: Jay E  (TX)  OE Mod (jayrio76)
+Author Id: 782870341445353522
+Avatar URL: assets\41ef520387924aa4413513eda28784df-34D82.png
+Content: Hi <@465305140786888705>: I am researching that now for you. I found out you can edit nicknames or preferred names now too, if that comes up.
+--------------------
+
+--- Message ---
+Message ID: 1295068374552019015
+Message Type: Reply
+Reply to: 1295067656910798888
+Timestamp: 2024-10-13T16:59:21.7+00:00
+Author: S [MT/NM] (genericusername8797)
+Author Id: 465305140786888705
+Avatar URL: assets\a187dcd150192cbe1a6b1b9cb0ffe55c-6C116.png
+Content: Yes I’ve corrected a few misspellings. 
+
+Thanks for looking into this for me!
+--------------------
+
+--- Message ---
+Message ID: 1295072873731330178
+Message Type: Default
+Reply to: None
+Timestamp: 2024-10-13T17:17:14.388+00:00
+Author: Jay E  (TX)  OE Mod (jayrio76)
+Author Id: 782870341445353522
+Avatar URL: assets\41ef520387924aa4413513eda28784df-34D82.png
+Content: FYI - I am looking here, which you may have done already. https://democrats.org/reach/vr/ but the actual steps are in the Reach Online Knowledge Base. https://www.reach.vote/knowledge-base/contact-actions/.  Yes, it says you can edit.
+--------------------
+
+--- Message ---
+Message ID: 1295075149929906198
+Message Type: Default
+Reply to: None
+Timestamp: 2024-10-13T17:26:17.076+00:00
+Author: Jay E  (TX)  OE Mod (jayrio76)
+Author Id: 782870341445353522
+Avatar URL: assets\41ef520387924aa4413513eda28784df-34D82.png
+Content: Thanks for your patience <@465305140786888705> and for all you do for the campaign!
+--------------------
+
+--- Message ---
+Message ID: 1295077008161767474
+Message Type: Reply
+Reply to: 1295075149929906198
+Timestamp: 2024-10-13T17:33:40.113+00:00
+Author: S [MT/NM] (genericusername8797)
+Author Id: 465305140786888705
+Avatar URL: assets\a187dcd150192cbe1a6b1b9cb0ffe55c-6C116.png
+Content: Thank you for helping me figure out how to update their address! I've been gently poking them to go vote this year. They're a good friend, so I can use compassionate peer pressure on them lol. Thanks for all you're doing to help the campaign as well!
+--------------------
+
+--- Message ---
+Message ID: 1295122009587712055
+Message Type: Reply
+Reply to: 1295072873731330178
+Timestamp: 2024-10-13T20:32:29.289+00:00
+Author: S [MT/NM] (genericusername8797)
+Author Id: 465305140786888705
+Avatar URL: assets\a187dcd150192cbe1a6b1b9cb0ffe55c-6C116.png
+Content: I looked at that website article, but still can’t find the “Edit Address” action they’re talking about. Any idea where it is? Thanks!
+--------------------
+
+--- Message ---
+Message ID: 1295123005512482896
+Message Type: Default
+Reply to: None
+Timestamp: 2024-10-13T20:36:26.736+00:00
+Author: Jay E  (TX)  OE Mod (jayrio76)
+Author Id: 782870341445353522
+Avatar URL: assets\41ef520387924aa4413513eda28784df-34D82.png
+Content: For reference: here's the screenshot from the KB article. One moment for me to check the actual DNC Reach.
+--------------------
+
+--- Message ---
+Message ID: 1295124559556513824
+Message Type: Default
+Reply to: None
+Timestamp: 2024-10-13T20:42:37.249+00:00
+Author: Jay E  (TX)  OE Mod (jayrio76)
+Author Id: 782870341445353522
+Avatar URL: assets\41ef520387924aa4413513eda28784df-34D82.png
+Content: I am trying to edit an example under voter location, my network - but I cannot.
+--------------------
+
+--- Message ---
+Message ID: 1295124627793903617
+Message Type: Default
+Reply to: None
+Timestamp: 2024-10-13T20:42:53.518+00:00
+Author: Jay E  (TX)  OE Mod (jayrio76)
+Author Id: 782870341445353522
+Avatar URL: assets\41ef520387924aa4413513eda28784df-34D82.png
+Content: Thanks for your patience, again.
+--------------------
+
+--- Message ---
+Message ID: 1295124781842042921
+Message Type: Default
+Reply to: None
+Timestamp: 2024-10-13T20:43:30.246+00:00
+Author: S [MT/NM] (genericusername8797)
+Author Id: 465305140786888705
+Avatar URL: assets\a187dcd150192cbe1a6b1b9cb0ffe55c-6C116.png
+Content: No worries! I found that blurb on the website too. Thanks for continuing to look into it for me.
+--------------------
+
+--- Message ---
+Message ID: 1295124894819942451
+Message Type: Default
+Reply to: None
+Timestamp: 2024-10-13T20:43:57.182+00:00
+Author: Jay E  (TX)  OE Mod (jayrio76)
+Author Id: 782870341445353522
+Avatar URL: assets\41ef520387924aa4413513eda28784df-34D82.png
+Content: I do not use the relational aspect as much.  I share online content in Reach, but still trying.
+--------------------
+
+--- Message ---
+Message ID: 1295244482731577345
+Message Type: Default
+Reply to: None
+Timestamp: 2024-10-14T04:39:09.162+00:00
+Author: Jay E  (TX)  OE Mod (jayrio76)
+Author Id: 782870341445353522
+Avatar URL: assets\41ef520387924aa4413513eda28784df-34D82.png
+Content: Well, sorry for the bad news, but it looks like you cannot edit the address on DNC Reach (desktop or mobile version). The voter would have to update the address via their voter registration card.  Reach needs to update their knowledge base website.  Sorry. 🙂
+--------------------
+
+--- Message ---
+Message ID: 1295245333634482176
+Message Type: Reply
+Reply to: 1295244482731577345
+Timestamp: 2024-10-14T04:42:32.033+00:00
+Author: S [MT/NM] (genericusername8797)
+Author Id: 465305140786888705
+Avatar URL: assets\a187dcd150192cbe1a6b1b9cb0ffe55c-6C116.png
+Content: Thanks for looking into this for me. Bummer. I'll have to hunt down their voting precinct information by hand then. I'm pretty sure that if I tell them where to go and when it's open, they'll go out and vote when they otherwise wouldn't. Thank you so much for taking time to hunt down info for me!
+--------------------

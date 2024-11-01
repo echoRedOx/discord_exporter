@@ -1,0 +1,82 @@
+Guild: Team Harris-Walz Virtual Office (ID: 1242249109298221066)
+Channel: Is it too late to join the texting team? (ID: 1297942089291796623)
+Channel Topic: None
+Exported At: 2024-10-28T22:25:34.6341522+00:00
+
+
+--- Message ---
+Message ID: 1297945259338371192
+Message Type: 21
+Reply to: 1297942089291796623
+Timestamp: 2024-10-21T15:31:04.483+00:00
+Author: Roberta Bavin CA KC Greeter/Mod (roberta_24935)
+Author Id: 1269872908759597148
+Avatar URL: assets\df6d19d97b04a49ffcafbe7be14c7839-D9CE4.png
+Content: 
+--------------------
+
+--- Message ---
+Message ID: 1297945262920302613
+Message Type: Default
+Reply to: None
+Timestamp: 2024-10-21T15:31:05.337+00:00
+Author: Roberta Bavin CA KC Greeter/Mod (roberta_24935)
+Author Id: 1269872908759597148
+Avatar URL: assets\df6d19d97b04a49ffcafbe7be14c7839-D9CE4.png
+Content: Hi there! Thanks for reaching out. We don't have any further trainings scheduled. Please check ⁠non-official-events-only channel for other activities. We appreciate you being here! <:thankyou:1252806147396735057>
+--------------------
+
+--- Message ---
+Message ID: 1297945511625621534
+Message Type: Default
+Reply to: None
+Timestamp: 2024-10-21T15:32:04.633+00:00
+Author: Linda W (TX) (ariel817)
+Author Id: 161475441654235136
+Avatar URL: assets\cf8f2cd8acfb25565f31f96b21cae9df-B19FF.png
+Content: No problem, I've been doing social media engagement, community notes, click approvals, and phone banking
+--------------------
+
+--- Message ---
+Message ID: 1297987933730770984
+Message Type: Default
+Reply to: None
+Timestamp: 2024-10-21T18:20:38.851+00:00
+Author: Andrew Martin [CA[ KC Text Admin (andrewjnla)
+Author Id: 932025725777743923
+Avatar URL: assets\8156a8c1e23069b2fac6bd70259a5ade-A321B.png
+Content: Hi <@161475441654235136> We just added one final training later today. Please join us if you can! https://events.democrats.org/event/715820/
+--------------------
+
+--- Message ---
+Message ID: 1297994388911296624
+Message Type: Default
+Reply to: None
+Timestamp: 2024-10-21T18:46:17.886+00:00
+Author: Linda W (TX) (ariel817)
+Author Id: 161475441654235136
+Avatar URL: assets\cf8f2cd8acfb25565f31f96b21cae9df-B19FF.png
+Content: Great!  Thank you, I will!  I have texted in prior elections, just work and life has been too busy to make a training this time around before now.
+--------------------
+
+--- Message ---
+Message ID: 1298019759757066314
+Message Type: Reply
+Reply to: 1297987933730770984
+Timestamp: 2024-10-21T20:27:06.767+00:00
+Author: Natalie Adkins [VA] (current_selection)
+Author Id: 573588174891122806
+Avatar URL: assets\7b6cea4dde1c9a7c37f9853aa21b90ae-8E20B.png
+Content: If I did the text banking training over the weekend with Swifties for Kamala for Voters of Tomorrow already can I sign up to text bank? Or do I need to attend this training as well since it is for Team Harris-Walz?
+--------------------
+
+--- Message ---
+Message ID: 1298055677075525664
+Message Type: Default
+Reply to: None
+Timestamp: 2024-10-21T22:49:50.123+00:00
+Author: Linda W (TX) (ariel817)
+Author Id: 161475441654235136
+Avatar URL: assets\cf8f2cd8acfb25565f31f96b21cae9df-B19FF.png
+Content: I have taken the quiz and filled out the texting agreement form. SO glad you did one more training, I was sad not able to help before now!
+--------------------

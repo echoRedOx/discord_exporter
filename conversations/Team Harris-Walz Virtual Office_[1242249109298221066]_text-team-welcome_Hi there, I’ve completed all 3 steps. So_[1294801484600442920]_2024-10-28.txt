@@ -1,0 +1,60 @@
+Guild: Team Harris-Walz Virtual Office (ID: 1242249109298221066)
+Channel: Hi there, I’ve completed all 3 steps. So (ID: 1294801484600442920)
+Channel Topic: None
+Exported At: 2024-10-28T22:41:59.6563843+00:00
+
+
+--- Message ---
+Message ID: 1294801645510856776
+Message Type: 21
+Reply to: 1294801484600442920
+Timestamp: 2024-10-12T23:19:28.541+00:00
+Author: Roberta Bavin CA KC Greeter/Mod (roberta_24935)
+Author Id: 1269872908759597148
+Avatar URL: assets\df6d19d97b04a49ffcafbe7be14c7839-D9CE4.png
+Content: 
+--------------------
+
+--- Message ---
+Message ID: 1294801648429826129
+Message Type: Default
+Reply to: None
+Timestamp: 2024-10-12T23:19:29.237+00:00
+Author: Roberta Bavin CA KC Greeter/Mod (roberta_24935)
+Author Id: 1269872908759597148
+Avatar URL: assets\df6d19d97b04a49ffcafbe7be14c7839-D9CE4.png
+Content: Hi <@1294793760550686780> You are correct! Thanks for being here!
+--------------------
+
+--- Message ---
+Message ID: 1294801821058990111
+Message Type: Default
+Reply to: None
+Timestamp: 2024-10-12T23:20:10.395+00:00
+Author: Judy Miu CA (judymiuca)
+Author Id: 1294793760550686780
+Avatar URL: assets\4-4551A.png
+Content: Ok, will we get an email or will it just show up automatically on Discord?
+--------------------
+
+--- Message ---
+Message ID: 1294802517221183539
+Message Type: Reply
+Reply to: 1294801821058990111
+Timestamp: 2024-10-12T23:22:56.373+00:00
+Author: Roberta Bavin CA KC Greeter/Mod (roberta_24935)
+Author Id: 1269872908759597148
+Avatar URL: assets\df6d19d97b04a49ffcafbe7be14c7839-D9CE4.png
+Content: It will be in a Discord DM, left upper corner game controller icon. <:thankyou:1252806147396735057>
+--------------------
+
+--- Message ---
+Message ID: 1294802631381749872
+Message Type: Default
+Reply to: None
+Timestamp: 2024-10-12T23:23:23.591+00:00
+Author: Judy Miu CA (judymiuca)
+Author Id: 1294793760550686780
+Avatar URL: assets\4-4551A.png
+Content: Thank you!
+--------------------

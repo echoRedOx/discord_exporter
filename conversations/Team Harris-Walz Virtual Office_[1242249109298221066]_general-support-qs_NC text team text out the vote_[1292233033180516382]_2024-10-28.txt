@@ -1,0 +1,61 @@
+Guild: Team Harris-Walz Virtual Office (ID: 1242249109298221066)
+Channel: NC text team text out the vote (ID: 1292233033180516382)
+Channel Topic: None
+Exported At: 2024-10-28T19:55:51.2988299+00:00
+
+
+--- Message ---
+Message ID: 1292234941345697936
+Message Type: Default
+Reply to: None
+Timestamp: 2024-10-05T21:20:18.581+00:00
+Author: Carolyn B [CA] • Lead Mod (carb.on)
+Author Id: 568257600228032512
+Avatar URL: assets\28a90c77b5793d80eb62484a43c66748-D8837.png
+Content: Hi <@1271924772753641497> you can check in here https://discord.com/channels/1242249109298221066/1266829704204386334.
+--------------------
+
+--- Message ---
+Message ID: 1292235470444695685
+Message Type: Default
+Reply to: None
+Timestamp: 2024-10-05T21:22:24.728+00:00
+Author: Carolyn B [CA] • Lead Mod (carb.on)
+Author Id: 568257600228032512
+Avatar URL: assets\28a90c77b5793d80eb62484a43c66748-D8837.png
+Content: Please respond when you read this, I need to remove it because we can't mention the qz in public spaces.
+--------------------
+
+--- Message ---
+Message ID: 1292241660800929885
+Message Type: Default
+Reply to: None
+Timestamp: 2024-10-05T21:47:00.624+00:00
+Author: Michele Juliano NC (michelejuliano_72178)
+Author Id: 1271924772753641497
+Avatar URL: assets\2-ADBB4.png
+Content: i have read this thanks so i just go to text team welcome in this caneel i am on now?
+--------------------
+
+--- Message ---
+Message ID: 1292241853596569701
+Message Type: Default
+Reply to: None
+Timestamp: 2024-10-05T21:47:46.59+00:00
+Author: Carolyn B [CA] • Lead Mod (carb.on)
+Author Id: 568257600228032512
+Avatar URL: assets\28a90c77b5793d80eb62484a43c66748-D8837.png
+Content: click on https://discord.com/channels/1242249109298221066/1266829704204386334 and you will automatically go there. then ask your question there.
+--------------------
+
+--- Message ---
+Message ID: 1292587207969869937
+Message Type: Default
+Reply to: None
+Timestamp: 2024-10-06T20:40:05.489+00:00
+Author: Carolyn B [CA] • Lead Mod (carb.on)
+Author Id: 568257600228032512
+Avatar URL: assets\28a90c77b5793d80eb62484a43c66748-D8837.png
+Content: Hi <@1290823027679825981> we are super excited you are joining the text team, and thank you so much for completing all the training. If you just recently completed, it can take about 72 hours to get access. If it's been longer than that I encourage you to visit https://discord.com/channels/1242249109298221066/1266829704204386334 say hello and remind the team you are waiting.
+I had to remove your post, to keep the training process private.
+--------------------

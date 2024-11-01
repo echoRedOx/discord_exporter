@@ -1,0 +1,39 @@
+- author_avatar_url: assets\df6d19d97b04a49ffcafbe7be14c7839-D9CE4.png
+  author_id: '1269872908759597148'
+  author_name: roberta_24935
+  author_nickname: Roberta Bavin CA KC Greeter/Mod
+  content: ''
+  id: '1300235763702698044'
+  ref_to: '1300232200196718653'
+  timestamp: '2024-10-27T23:12:43.279+00:00'
+  type: '21'
+- author_avatar_url: assets\df6d19d97b04a49ffcafbe7be14c7839-D9CE4.png
+  author_id: '1269872908759597148'
+  author_name: roberta_24935
+  author_nickname: Roberta Bavin CA KC Greeter/Mod
+  content: Hi <@1298044268988076054> Please check the DM sent on 10/24 to complete
+    the onboarding process. Then you will be able to text with us. It's at the left
+    upper corner of Discord game controller icon. Thanks for reaching out!
+  id: '1300235766391246891'
+  ref_to: null
+  timestamp: '2024-10-27T23:12:43.92+00:00'
+  type: Default
+- author_avatar_url: assets\d830a595694e4c36272f89de63a157aa-466EB.png
+  author_id: '1299919950516977744'
+  author_name: adorable_flamingo_19409
+  author_nickname: Dan G.
+  content: Hi Roberta, I've also completed the training, but I don't see any DMs with
+    the rest of the instructions. Is there something else I need to do?
+  id: '1300262682825457825'
+  ref_to: null
+  timestamp: '2024-10-28T00:59:41.298+00:00'
+  type: Default
+- author_avatar_url: assets\df6d19d97b04a49ffcafbe7be14c7839-D9CE4.png
+  author_id: '1269872908759597148'
+  author_name: roberta_24935
+  author_nickname: Roberta Bavin CA KC Greeter/Mod
+  content: Let me send you a DM. Thanks for reaching out!
+  id: '1300263050557001868'
+  ref_to: '1300262682825457825'
+  timestamp: '2024-10-28T01:01:08.972+00:00'
+  type: Reply

@@ -1,0 +1,38 @@
+Guild: Team Harris-Walz Virtual Office (ID: 1242249109298221066)
+Channel: Hello, I just did the training and (ID: 1293745031055806524)
+Channel Topic: None
+Exported At: 2024-10-28T22:46:02.073149+00:00
+
+
+--- Message ---
+Message ID: 1293752307002900501
+Message Type: 21
+Reply to: 1293745031055806524
+Timestamp: 2024-10-10T01:49:46.745+00:00
+Author: Roberta Bavin CA KC Greeter/Mod (roberta_24935)
+Author Id: 1269872908759597148
+Avatar URL: assets\df6d19d97b04a49ffcafbe7be14c7839-D9CE4.png
+Content: 
+--------------------
+
+--- Message ---
+Message ID: 1293752309960019981
+Message Type: Default
+Reply to: None
+Timestamp: 2024-10-10T01:49:47.45+00:00
+Author: Roberta Bavin CA KC Greeter/Mod (roberta_24935)
+Author Id: 1269872908759597148
+Avatar URL: assets\df6d19d97b04a49ffcafbe7be14c7839-D9CE4.png
+Content: Hi <@983726616410742834> Thanks for reaching out. There was an issue with the Quiz Link for some at the end of the meeting, so one of the Greeters will send you a DM with the link after we verify the Zoom report. Thanks for being here!
+--------------------
+
+--- Message ---
+Message ID: 1293769813281214514
+Message Type: Reply
+Reply to: 1293752309960019981
+Timestamp: 2024-10-10T02:59:20.567+00:00
+Author: Skye Sands [CA] (skye1697)
+Author Id: 983726616410742834
+Avatar URL: assets\e139d15847c18017e74a3e3c877b460a-B25E4.png
+Content: Ah ok great! I knew something wasn’t right. Thank you so much for your help.
+--------------------

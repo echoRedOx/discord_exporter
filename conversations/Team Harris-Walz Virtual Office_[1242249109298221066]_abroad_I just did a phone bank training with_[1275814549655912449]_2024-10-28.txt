@@ -1,0 +1,82 @@
+Guild: Team Harris-Walz Virtual Office (ID: 1242249109298221066)
+Channel: I just did a phone bank training with (ID: 1275814549655912449)
+Channel Topic: None
+Exported At: 2024-10-29T00:39:11.0885288+00:00
+
+
+--- Message ---
+Message ID: 1276111812953112647
+Message Type: 21
+Reply to: 1275814549655912449
+Timestamp: 2024-08-22T09:32:45.219+00:00
+Author: gibberish_grinch (gibberish_grinch)
+Author Id: 1273910058132181030
+Avatar URL: assets\3-FB033.png
+Content: 
+--------------------
+
+--- Message ---
+Message ID: 1276111814979092571
+Message Type: Default
+Reply to: None
+Timestamp: 2024-08-22T09:32:45.702+00:00
+Author: gibberish_grinch (gibberish_grinch)
+Author Id: 1273910058132181030
+Avatar URL: assets\3-FB033.png
+Content: Thank you. I'm going to try this. I was looking at the training options the other day.
+--------------------
+
+--- Message ---
+Message ID: 1276126819900198954
+Message Type: Default
+Reply to: None
+Timestamp: 2024-08-22T10:32:23.154+00:00
+Author: apfel4harris (NY/abroad) (lapfel2024_81383)
+Author Id: 1274293080794595339
+Avatar URL: assets\1303b6be213537796f03663d46f2634d-369E3.png
+Content: Ahhhhhh good for you, thank you for your service. I need to take action on the training follow-up email and sign up today.
+--------------------
+
+--- Message ---
+Message ID: 1276127980413915136
+Message Type: Reply
+Reply to: 1276126819900198954
+Timestamp: 2024-08-22T10:36:59.842+00:00
+Author: gibberish_grinch (gibberish_grinch)
+Author Id: 1273910058132181030
+Avatar URL: assets\3-FB033.png
+Content: Also by signing up for Democrats abroad, I got a personal email from the local leader urging me to call their cel which is very nice.
+--------------------
+
+--- Message ---
+Message ID: 1276133813029703754
+Message Type: Default
+Reply to: None
+Timestamp: 2024-08-22T11:00:10.446+00:00
+Author: apfel4harris (NY/abroad) (lapfel2024_81383)
+Author Id: 1274293080794595339
+Avatar URL: assets\1303b6be213537796f03663d46f2634d-369E3.png
+Content: I went to local chapter events for the first time ever last week and it was great. Being an American watching the depressing stuff we've observed over the past few years (DJT, J6, terrible SCOTUS decisions) has felt lonely, and through the local chapter I got to meet a lot of other Americans who understand the experience and are plugged into efforts to do something about it. I really needed that.
+--------------------
+
+--- Message ---
+Message ID: 1276134078965616662
+Message Type: Default
+Reply to: None
+Timestamp: 2024-08-22T11:01:13.85+00:00
+Author: apfel4harris (NY/abroad) (lapfel2024_81383)
+Author Id: 1274293080794595339
+Avatar URL: assets\1303b6be213537796f03663d46f2634d-369E3.png
+Content: I tried to use s---show instead of "stuff" but got censored by the server ... here in Germany one sees that word in newspaper headlines so I forgot we can be a little more sensitive about swear words 😂
+--------------------
+
+--- Message ---
+Message ID: 1276157497127866418
+Message Type: Reply
+Reply to: 1276133813029703754
+Timestamp: 2024-08-22T12:34:17.175+00:00
+Author: gibberish_grinch (gibberish_grinch)
+Author Id: 1273910058132181030
+Avatar URL: assets\3-FB033.png
+Content: yes i know what you mean about the loneliness, being abroad makes one feel kind of powerless like you're watching a train crash. So it would be good to get nvolved in something. The local chapter is not super near me but I will make an effort to attend some events at some point ( and do online volunteering)
+--------------------

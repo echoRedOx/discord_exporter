@@ -1,0 +1,43 @@
+- author_avatar_url: assets\0-EB806.png
+  author_id: '1297203373661098049'
+  author_name: charlotte_02488
+  author_nickname: Charlotte
+  content: I am a high schol student and I am making calls for Kamala this morning
+    and was hoping I could get some high school community service hours for my calls
+    because this is the way I chose to contribute to my community. Is there an email
+    I can send a link to or someone who can approve these for me? Thanks so much.
+    <@&1245831457818279986> <@&1266883962727432304>
+  id: '1297206572279402587'
+  ref_to: null
+  timestamp: '2024-10-19T14:35:47.764+00:00'
+  type: Default
+- author_avatar_url: assets\5fde485e55d806d8356ca6e7e08f1f48-77A19.png
+  author_id: '1266903666879627274'
+  author_name: larrya._98544
+  author_nickname: Larry Ahlgrim (VA) [Call Mod]
+  content: I think this could be done. <@1257469301435400238>  Frances can you supply
+    an email where Charlotte can confirm hours worked?
+  id: '1297209836320063571'
+  ref_to: '1297206572279402587'
+  timestamp: '2024-10-19T14:48:45.972+00:00'
+  type: Reply
+- author_avatar_url: assets\8286d5b1308e7b3d80a3523e4ec50548-C029D.png
+  author_id: '1257469301435400238'
+  author_name: franceshaydock_20619
+  author_nickname: Frances Haydock (HFP HQ!)
+  content: Hi--you can shoot me an email at fhaydock@2024victory.com and I can do
+    that for you!@
+  id: '1297236251308720254'
+  ref_to: null
+  timestamp: '2024-10-19T16:33:43.796+00:00'
+  type: Default
+- author_avatar_url: assets\8b706a86e5f9b8dcaaa950a7500b77b8-E1341.png
+  author_id: '957714233217409174'
+  author_name: opheliawild
+  author_nickname: "Ophelia W \u2022 Lead Mod"
+  content: This is the one I asked about so hopefully you get that form! Thank you
+    Frances!
+  id: '1297250771506696285'
+  ref_to: '1297236251308720254'
+  timestamp: '2024-10-19T17:31:25.681+00:00'
+  type: Reply

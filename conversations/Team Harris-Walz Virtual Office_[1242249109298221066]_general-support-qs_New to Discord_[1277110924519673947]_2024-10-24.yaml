@@ -1,0 +1,30 @@
+- author_avatar_url: assets\5-E9BDB.png
+  author_id: '1277052348237352962'
+  author_name: bjacks00
+  author_nickname: Barbara Jackson
+  content: Had training call today. Got on Discord and completed Orientation. I'm
+    supposed to take a quiz and maybe fill out another form, but can't find where/how
+    to do that.
+  id: '1277110924519673947'
+  ref_to: null
+  timestamp: '2024-08-25T03:42:51.979+00:00'
+  type: Default
+- author_avatar_url: assets\27b1e286b65ae02b3378793b5f098411-A7B20.png
+  author_id: '935762347753103382'
+  author_name: nmorris237
+  author_nickname: Nicole Morris - Text Admin
+  content: Hi <@1277052348237352962> I can follow up with you now! Please check your
+    Direct Messages on Discord -- you should see it on the top left
+  id: '1277116655817986110'
+  ref_to: null
+  timestamp: '2024-08-25T04:05:38.427+00:00'
+  type: Default
+- author_avatar_url: assets\27b1e286b65ae02b3378793b5f098411-A7B20.png
+  author_id: '935762347753103382'
+  author_name: nmorris237
+  author_nickname: Nicole Morris - Text Admin
+  content: ''
+  id: '1277116688407728158'
+  ref_to: null
+  timestamp: '2024-08-25T04:05:46.197+00:00'
+  type: Default

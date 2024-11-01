@@ -1,0 +1,93 @@
+Guild: Team Harris-Walz Virtual Office (ID: 1242249109298221066)
+Channel: can I remove my last name? (ID: 1286810356689145947)
+Channel Topic: None
+Exported At: 2024-10-24T06:32:49.4538694+00:00
+
+
+--- Message ---
+Message ID: 1286810356689145947
+Message Type: Default
+Reply to: None
+Timestamp: 2024-09-20T22:04:56.815+00:00
+Author: Kristen D [NY] (kristennd)
+Author Id: 1285750638583484437
+Avatar URL: assets\0-EB806.png
+Content: I just got onboarded for texting and I was told to use my first and last name [with state in brackets]. Is it ok if I remove my last name or just keep an initial? Will this impact my Scale to Win account, which has my full name? I noticed many people on here including mods only have their last initial, so I hope it's ok if I do so too. Many thanks in advance!!
+--------------------
+
+--- Message ---
+Message ID: 1286810805723074561
+Message Type: Default
+Reply to: None
+Timestamp: 2024-09-20T22:06:43.873+00:00
+Author: Jack Joannides KC text admin (jjoannid)
+Author Id: 477560366432256000
+Avatar URL: assets\791c521e62160be1f3df04992f6e5470-36A38.png
+Content: You don't need to remove your scale to win name. You can change your name to firstname last intial though.
+--------------------
+
+--- Message ---
+Message ID: 1286811423409836042
+Message Type: Default
+Reply to: None
+Timestamp: 2024-09-20T22:09:11.141+00:00
+Author: Kristen D [NY] (kristennd)
+Author Id: 1285750638583484437
+Avatar URL: assets\0-EB806.png
+Content: Thanks Jack! And this won't affect anything else by doing so? Like will my discord and scale to win still be connected?
+--------------------
+
+--- Message ---
+Message ID: 1286813139702382624
+Message Type: Default
+Reply to: None
+Timestamp: 2024-09-20T22:16:00.337+00:00
+Author: Jack Joannides KC text admin (jjoannid)
+Author Id: 477560366432256000
+Avatar URL: assets\791c521e62160be1f3df04992f6e5470-36A38.png
+Content: It will still be connected. Scale to win doesn't connect with discord in anyway.
+--------------------
+
+--- Message ---
+Message ID: 1286815663834398730
+Message Type: Default
+Reply to: None
+Timestamp: 2024-09-20T22:26:02.137+00:00
+Author: Kristen D [NY] (kristennd)
+Author Id: 1285750638583484437
+Avatar URL: assets\0-EB806.png
+Content: Ok so the last name was only needed for the onboarding process?
+--------------------
+
+--- Message ---
+Message ID: 1286816722694705286
+Message Type: Default
+Reply to: None
+Timestamp: 2024-09-20T22:30:14.589+00:00
+Author: Jack Joannides KC text admin (jjoannid)
+Author Id: 477560366432256000
+Avatar URL: assets\791c521e62160be1f3df04992f6e5470-36A38.png
+Content: Not really. Some of us have firstname last intial anyways.
+--------------------
+
+--- Message ---
+Message ID: 1286849958313459722
+Message Type: Default
+Reply to: None
+Timestamp: 2024-09-21T00:42:18.578+00:00
+Author: Kristen D [NY] (kristennd)
+Author Id: 1285750638583484437
+Avatar URL: assets\0-EB806.png
+Content: Ok cool thanks for your help!
+--------------------
+
+--- Message ---
+Message ID: 1286857057701466154
+Message Type: Default
+Reply to: None
+Timestamp: 2024-09-21T01:10:31.204+00:00
+Author: Jack Joannides KC text admin (jjoannid)
+Author Id: 477560366432256000
+Avatar URL: assets\791c521e62160be1f3df04992f6e5470-36A38.png
+Content: NP
+--------------------

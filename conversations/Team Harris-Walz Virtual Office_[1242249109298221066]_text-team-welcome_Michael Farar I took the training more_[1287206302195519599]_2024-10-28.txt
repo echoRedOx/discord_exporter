@@ -1,0 +1,104 @@
+Guild: Team Harris-Walz Virtual Office (ID: 1242249109298221066)
+Channel: Michael Farar I took the training more (ID: 1287206302195519599)
+Channel Topic: None
+Exported At: 2024-10-28T23:08:34.0324416+00:00
+
+
+--- Message ---
+Message ID: 1287206649269846130
+Message Type: 21
+Reply to: 1287206302195519599
+Timestamp: 2024-09-22T00:19:40.329+00:00
+Author: Jack Joannides KC text admin (jjoannid)
+Author Id: 477560366432256000
+Avatar URL: assets\791c521e62160be1f3df04992f6e5470-36A38.png
+Content: 
+--------------------
+
+--- Message ---
+Message ID: 1287206656547098725
+Message Type: Default
+Reply to: None
+Timestamp: 2024-09-22T00:19:42.064+00:00
+Author: Jack Joannides KC text admin (jjoannid)
+Author Id: 477560366432256000
+Avatar URL: assets\791c521e62160be1f3df04992f6e5470-36A38.png
+Content: Looks like Nicole direct messaged you yesterday. Do you not see it?
+--------------------
+
+--- Message ---
+Message ID: 1287405571762552863
+Message Type: Default
+Reply to: None
+Timestamp: 2024-09-22T13:30:07.147+00:00
+Author: Michael Farar [AR] (smichael6720)
+Author Id: 947574690287861792
+Avatar URL: assets\93d29f2a7f8024818f60e2492e6c4231-DAD77.png
+Content: No. Where do I see it?
+--------------------
+
+--- Message ---
+Message ID: 1287411805710192756
+Message Type: Default
+Reply to: None
+Timestamp: 2024-09-22T13:54:53.436+00:00
+Author: Jack Joannides KC text admin (jjoannid)
+Author Id: 477560366432256000
+Avatar URL: assets\791c521e62160be1f3df04992f6e5470-36A38.png
+Content: Message requests
+--------------------
+
+--- Message ---
+Message ID: 1287413108381585459
+Message Type: Default
+Reply to: None
+Timestamp: 2024-09-22T14:00:04.017+00:00
+Author: Michael Farar [AR] (smichael6720)
+Author Id: 947574690287861792
+Avatar URL: assets\93d29f2a7f8024818f60e2492e6c4231-DAD77.png
+Content: Ok, I can’t even find that. Is it the official title?
+--------------------
+
+--- Message ---
+Message ID: 1287413243232522322
+Message Type: Default
+Reply to: None
+Timestamp: 2024-09-22T14:00:36.168+00:00
+Author: Michael Farar [AR] (smichael6720)
+Author Id: 947574690287861792
+Avatar URL: assets\93d29f2a7f8024818f60e2492e6c4231-DAD77.png
+Content: “Message requests”
+--------------------
+
+--- Message ---
+Message ID: 1287413352867299430
+Message Type: Default
+Reply to: None
+Timestamp: 2024-09-22T14:01:02.307+00:00
+Author: Michael Farar [AR] (smichael6720)
+Author Id: 947574690287861792
+Avatar URL: assets\93d29f2a7f8024818f60e2492e6c4231-DAD77.png
+Content: Do you have a screenshot?
+--------------------
+
+--- Message ---
+Message ID: 1287416299080646699
+Message Type: Default
+Reply to: None
+Timestamp: 2024-09-22T14:12:44.739+00:00
+Author: Jack Joannides KC text admin (jjoannid)
+Author Id: 477560366432256000
+Avatar URL: assets\791c521e62160be1f3df04992f6e5470-36A38.png
+Content: I’m currently working out I’ll send you a message later today again.
+--------------------
+
+--- Message ---
+Message ID: 1287416419570421791
+Message Type: Default
+Reply to: None
+Timestamp: 2024-09-22T14:13:13.466+00:00
+Author: Michael Farar [AR] (smichael6720)
+Author Id: 947574690287861792
+Avatar URL: assets\93d29f2a7f8024818f60e2492e6c4231-DAD77.png
+Content: Thank you.
+--------------------

@@ -1,0 +1,71 @@
+Guild: Team Harris-Walz Virtual Office (ID: 1242249109298221066)
+Channel: ok, I answered the DM that I received (ID: 1280295674470072330)
+Channel Topic: None
+Exported At: 2024-10-28T23:41:17.0461899+00:00
+
+
+--- Message ---
+Message ID: 1280312156331446324
+Message Type: 21
+Reply to: 1280295674470072330
+Timestamp: 2024-09-02T23:43:25.119+00:00
+Author: Jack Joannides KC text admin (jjoannid)
+Author Id: 477560366432256000
+Avatar URL: assets\791c521e62160be1f3df04992f6e5470-36A38.png
+Content: 
+--------------------
+
+--- Message ---
+Message ID: 1280312157984002168
+Message Type: Default
+Reply to: None
+Timestamp: 2024-09-02T23:43:25.513+00:00
+Author: Jack Joannides KC text admin (jjoannid)
+Author Id: 477560366432256000
+Avatar URL: assets\791c521e62160be1f3df04992f6e5470-36A38.png
+Content: Did you tell the person that you direct messaged you created your account?
+--------------------
+
+--- Message ---
+Message ID: 1280312378319175740
+Message Type: Default
+Reply to: None
+Timestamp: 2024-09-02T23:44:18.045+00:00
+Author: Rachel Dobbs (FL) (rapunzel77)
+Author Id: 546136515378413604
+Avatar URL: assets\732a39b6e7a32e623652d780249bf188-1B346.png
+Content: yeah, I told her I did
+--------------------
+
+--- Message ---
+Message ID: 1280312824647647314
+Message Type: Default
+Reply to: None
+Timestamp: 2024-09-02T23:46:04.458+00:00
+Author: Jack Joannides KC text admin (jjoannid)
+Author Id: 477560366432256000
+Avatar URL: assets\791c521e62160be1f3df04992f6e5470-36A38.png
+Content: Great. We might be busy. It takes time.
+--------------------
+
+--- Message ---
+Message ID: 1280329173533065257
+Message Type: Default
+Reply to: None
+Timestamp: 2024-09-03T00:51:02.336+00:00
+Author: Rachel Dobbs (FL) (rapunzel77)
+Author Id: 546136515378413604
+Avatar URL: assets\732a39b6e7a32e623652d780249bf188-1B346.png
+Content: ok
+--------------------
+
+--- Message ---
+Message ID: 1280330610883166299
+Message Type: Default
+Reply to: None
+Timestamp: 2024-09-03T00:56:45.027+00:00
+Author: Jack Joannides KC text admin (jjoannid)
+Author Id: 477560366432256000
+Avatar URL: assets\791c521e62160be1f3df04992f6e5470-36A38.png
+Content: I added you. You have an question?
+--------------------

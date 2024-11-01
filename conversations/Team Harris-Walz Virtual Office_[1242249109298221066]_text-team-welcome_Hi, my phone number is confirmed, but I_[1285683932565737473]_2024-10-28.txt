@@ -1,0 +1,38 @@
+Guild: Team Harris-Walz Virtual Office (ID: 1242249109298221066)
+Channel: Hi, my phone number is confirmed, but I (ID: 1285683932565737473)
+Channel Topic: None
+Exported At: 2024-10-28T23:15:48.7693055+00:00
+
+
+--- Message ---
+Message ID: 1285702504163709081
+Message Type: 21
+Reply to: 1285683932565737473
+Timestamp: 2024-09-17T20:42:44.19+00:00
+Author: Roberta Bavin CA KC Greeter/Mod (roberta_24935)
+Author Id: 1269872908759597148
+Avatar URL: assets\df6d19d97b04a49ffcafbe7be14c7839-D9CE4.png
+Content: 
+--------------------
+
+--- Message ---
+Message ID: 1285702506298474610
+Message Type: Default
+Reply to: None
+Timestamp: 2024-09-17T20:42:44.699+00:00
+Author: Roberta Bavin CA KC Greeter/Mod (roberta_24935)
+Author Id: 1269872908759597148
+Avatar URL: assets\df6d19d97b04a49ffcafbe7be14c7839-D9CE4.png
+Content: Hi Elise- I've checked in the back end and you seem to be good to go; please log out of Discord and back in, maybe restart your computer and see if that helps. Thanks for being here!
+--------------------
+
+--- Message ---
+Message ID: 1285984560454176821
+Message Type: Default
+Reply to: None
+Timestamp: 2024-09-18T15:23:31.65+00:00
+Author: Elise Hertz (elisehertz)
+Author Id: 1279187825685827746
+Avatar URL: assets\e06b73cb90f30aa2f9323038ffab505d-F1960.png
+Content: I am all good, thank you!
+--------------------

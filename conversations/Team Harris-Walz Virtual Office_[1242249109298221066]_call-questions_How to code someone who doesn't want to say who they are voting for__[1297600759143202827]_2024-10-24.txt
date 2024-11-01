@@ -1,0 +1,27 @@
+Guild: Team Harris-Walz Virtual Office (ID: 1242249109298221066)
+Channel: How to code someone who doesn't want to say who they are voting for? (ID: 1297600759143202827)
+Channel Topic: None
+Exported At: 2024-10-24T12:42:14.8222252+00:00
+
+
+--- Message ---
+Message ID: 1297600759143202827
+Message Type: Default
+Reply to: None
+Timestamp: 2024-10-20T16:42:09.236+00:00
+Author: Jesse Weinstein [MA] (jesse0293)
+Author Id: 184546990468628481
+Avatar URL: assets\31b235acba176763a2da1c99cb026c00-6C019.png
+Content: This was a voter who said they had all the information they needed, but didn't want to say who they were voting for. I marked as Undecided, but I wanted to confirm that was correct. This is in MI.
+--------------------
+
+--- Message ---
+Message ID: 1297600970569682954
+Message Type: Default
+Reply to: None
+Timestamp: 2024-10-20T16:42:59.644+00:00
+Author: Stephanie Salerno (IL)-Call Mod (stephanie004760)
+Author Id: 1277405088708690007
+Avatar URL: assets\4d7fa70ea3a3a2b13ba4c7e856e84ad0-BDF0D.png
+Content: That's a refused response - when they won't engage, won't tell us, they're refusing. For next time if you can't edit it!
+--------------------

@@ -1,0 +1,36 @@
+- author_avatar_url: assets\df6d19d97b04a49ffcafbe7be14c7839-D9CE4.png
+  author_id: '1269872908759597148'
+  author_name: roberta_24935
+  author_nickname: Roberta Bavin CA KC Greeter/Mod
+  content: ''
+  id: '1285020142711083209'
+  ref_to: '1285018863821389915'
+  timestamp: '2024-09-15T23:31:16.542+00:00'
+  type: '21'
+- author_avatar_url: assets\df6d19d97b04a49ffcafbe7be14c7839-D9CE4.png
+  author_id: '1269872908759597148'
+  author_name: roberta_24935
+  author_nickname: Roberta Bavin CA KC Greeter/Mod
+  content: Here's the link! https://events.democrats.org/event/672393/?force_banner=true&share_context=event_details&share_medium=copy_link
+  id: '1285020144174891059'
+  ref_to: null
+  timestamp: '2024-09-15T23:31:16.891+00:00'
+  type: Default
+- author_avatar_url: assets\fb467bee2539fc5d07540b3b46cae6b6-050F5.png
+  author_id: '960358175113117737'
+  author_name: putitthatway6493
+  author_nickname: Mary Byrne M
+  content: ''
+  id: '1285020427642474548'
+  ref_to: '1285020144174891059'
+  timestamp: '2024-09-15T23:32:24.475+00:00'
+  type: Reply
+- author_avatar_url: assets\fb467bee2539fc5d07540b3b46cae6b6-050F5.png
+  author_id: '960358175113117737'
+  author_name: putitthatway6493
+  author_nickname: Mary Byrne M
+  content: figure me while I play with discord gifs lol
+  id: '1285020598292058229'
+  ref_to: '1285020144174891059'
+  timestamp: '2024-09-15T23:33:05.161+00:00'
+  type: Reply

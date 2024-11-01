@@ -1,0 +1,159 @@
+Guild: Team Harris-Walz Virtual Office (ID: 1242249109298221066)
+Channel: saw msg about adding a number & verifying by 16th.added number but won't let me hit next. (ID: 1283616744073723914)
+Channel Topic: None
+Exported At: 2024-10-24T06:37:50.0196439+00:00
+
+
+--- Message ---
+Message ID: 1283616744073723914
+Message Type: Default
+Reply to: None
+Timestamp: 2024-09-12T02:34:40.233+00:00
+Author: Taylor Lynn [MD] (tfordemocracy_18114)
+Author Id: 1279970871162835079
+Avatar URL: assets\2-ADBB4.png
+Content: so I cannot complete that process.
+--------------------
+
+--- Message ---
+Message ID: 1283617205228933193
+Message Type: Default
+Reply to: None
+Timestamp: 2024-09-12T02:36:30.181+00:00
+Author: Frances Haydock (HFP HQ!) (franceshaydock_20619)
+Author Id: 1257469301435400238
+Avatar URL: assets\8286d5b1308e7b3d80a3523e4ec50548-C029D.png
+Content: <@568257600228032512> when you are back on can you help
+--------------------
+
+--- Message ---
+Message ID: 1283617752006787104
+Message Type: Default
+Reply to: None
+Timestamp: 2024-09-12T02:38:40.543+00:00
+Author: Carolyn B [CA] • Lead Mod (carb.on)
+Author Id: 568257600228032512
+Avatar URL: assets\28a90c77b5793d80eb62484a43c66748-D8837.png
+Content: Hi <@1279970871162835079> can you tell me what happens when you try to add your phone number?
+--------------------
+
+--- Message ---
+Message ID: 1283620379415412849
+Message Type: Default
+Reply to: None
+Timestamp: 2024-09-12T02:49:06.966+00:00
+Author: Taylor Lynn [MD] (tfordemocracy_18114)
+Author Id: 1279970871162835079
+Avatar URL: assets\2-ADBB4.png
+Content: yes it won't let me nit the next button
+--------------------
+
+--- Message ---
+Message ID: 1283620478401122306
+Message Type: Default
+Reply to: None
+Timestamp: 2024-09-12T02:49:30.566+00:00
+Author: Taylor Lynn [MD] (tfordemocracy_18114)
+Author Id: 1279970871162835079
+Avatar URL: assets\2-ADBB4.png
+Content: *hit
+--------------------
+
+--- Message ---
+Message ID: 1283620655438499861
+Message Type: Default
+Reply to: None
+Timestamp: 2024-09-12T02:50:12.775+00:00
+Author: Taylor Lynn [MD] (tfordemocracy_18114)
+Author Id: 1279970871162835079
+Avatar URL: assets\2-ADBB4.png
+Content: I even added dashes in between the numbers
+--------------------
+
+--- Message ---
+Message ID: 1283623700179980299
+Message Type: Default
+Reply to: None
+Timestamp: 2024-09-12T03:02:18.698+00:00
+Author: Carolyn B [CA] • Lead Mod (carb.on)
+Author Id: 568257600228032512
+Avatar URL: assets\28a90c77b5793d80eb62484a43c66748-D8837.png
+Content: is this a 10 digit mobile number? is it landline? or VOIP (Google Voice)?
+--------------------
+
+--- Message ---
+Message ID: 1283632344187535403
+Message Type: Default
+Reply to: None
+Timestamp: 2024-09-12T03:36:39.59+00:00
+Author: Taylor Lynn [MD] (tfordemocracy_18114)
+Author Id: 1279970871162835079
+Avatar URL: assets\2-ADBB4.png
+Content: yep. 10 digits. yeah my Google voice. I use it for most things
+--------------------
+
+--- Message ---
+Message ID: 1283636677067149386
+Message Type: Default
+Reply to: None
+Timestamp: 2024-09-12T03:53:52.629+00:00
+Author: Jared R [CO] • Lead Mod (kyaizen)
+Author Id: 112080668296564736
+Avatar URL: assets\a_de0e3d4a3f9b486ad3ad6df0d72323da-D0252.gif
+Content: I don't think discord will allow Google voice or any voip number.
+--------------------
+
+--- Message ---
+Message ID: 1283644820471943248
+Message Type: Default
+Reply to: None
+Timestamp: 2024-09-12T04:26:14.168+00:00
+Author: Carolyn B [CA] • Lead Mod (carb.on)
+Author Id: 568257600228032512
+Avatar URL: assets\28a90c77b5793d80eb62484a43c66748-D8837.png
+Content: Hi <@1279970871162835079> VOIP is not accepted for verification.
+--------------------
+
+--- Message ---
+Message ID: 1283645439941541988
+Message Type: Default
+Reply to: None
+Timestamp: 2024-09-12T04:28:41.861+00:00
+Author: Carolyn B [CA] • Lead Mod (carb.on)
+Author Id: 568257600228032512
+Avatar URL: assets\28a90c77b5793d80eb62484a43c66748-D8837.png
+Content: Discord wants a mobile phone number as verification. Consider that anyone can make 1000s of Google Voice numbers, so not really improving security.
+--------------------
+
+--- Message ---
+Message ID: 1283746206064840806
+Message Type: Default
+Reply to: None
+Timestamp: 2024-09-12T11:09:06.377+00:00
+Author: Shawn Nelson (krnlkule)
+Author Id: 392108353997766659
+Avatar URL: assets\cd4008c1ef8172dbf926e36914d284a0-AF75D.png
+Content: Hi I saw this requirement as well.  My question is if our phone number is already part of our discord account profile.  Will that be sufficient, or is this a separate process? I’m not seeing where to go based on the written instructions.  Also I’m on mobile.
+--------------------
+
+--- Message ---
+Message ID: 1283800893585887385
+Message Type: Default
+Reply to: None
+Timestamp: 2024-09-12T14:46:24.898+00:00
+Author: Carolyn B [CA] • Lead Mod (carb.on)
+Author Id: 568257600228032512
+Avatar URL: assets\28a90c77b5793d80eb62484a43c66748-D8837.png
+Content: Hi <@392108353997766659> you don’t need to do anything if you already have a phone number on your discord profile.
+--------------------
+
+--- Message ---
+Message ID: 1283801007196995614
+Message Type: Reply
+Reply to: 1283800893585887385
+Timestamp: 2024-09-12T14:46:51.985+00:00
+Author: Shawn Nelson (krnlkule)
+Author Id: 392108353997766659
+Avatar URL: assets\cd4008c1ef8172dbf926e36914d284a0-AF75D.png
+Content: Thank you for that update.
+--------------------

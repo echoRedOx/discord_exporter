@@ -1,0 +1,30 @@
+- author_avatar_url: assets\27b1e286b65ae02b3378793b5f098411-A7B20.png
+  author_id: '935762347753103382'
+  author_name: nmorris237
+  author_nickname: Nicole Morris - Text Admin
+  content: ''
+  id: '1281267009321173073'
+  ref_to: '1281266217033662565'
+  timestamp: '2024-09-05T14:57:39.812+00:00'
+  type: '21'
+- author_avatar_url: assets\27b1e286b65ae02b3378793b5f098411-A7B20.png
+  author_id: '935762347753103382'
+  author_name: nmorris237
+  author_nickname: Nicole Morris - Text Admin
+  content: Hi <@1145190544784510986> Thanks for checking! We're still working on everyone
+    from this week's training -- should hopefully see a DM from one of us in the next
+    ~24 hours!
+  id: '1281267016040189954'
+  ref_to: null
+  timestamp: '2024-09-05T14:57:41.414+00:00'
+  type: Default
+- author_avatar_url: assets\29005ba076fb05e847f4b08e6ace531d-D0C45.png
+  author_id: '1145190544784510986'
+  author_name: socialb73
+  author_nickname: Beth Diebels
+  content: Whew! Thank you! Making sure I did turn my homework in correctly! Appreciate
+    all you do. Looking forward to "doing something" with all of you!
+  id: '1281270820584554507'
+  ref_to: null
+  timestamp: '2024-09-05T15:12:48.488+00:00'
+  type: Default

@@ -1,0 +1,1272 @@
+Guild: Team Harris-Walz Virtual Office (ID: 1242249109298221066)
+Channel: connecticut (ID: 1268356266984476793)
+Channel Topic: To discuss organizing endeavors specific to Connecticut!
+Exported At: 2024-10-30T07:02:57.5714139+00:00
+
+
+--- Message ---
+Message ID: 1269815937494941810
+Message Type: Default
+Reply to: None
+Timestamp: 2024-08-05T00:35:11.538+00:00
+Author: Pete Miller (petemiller.)
+Author Id: 1269343997013528729
+Avatar URL: assets\1-B2132.png
+Content: Peter Miller, Prospect CT. Awaiting opportunities to assist Team Harris.
+--------------------
+
+--- Message ---
+Message ID: 1270528556207833149
+Message Type: Default
+Reply to: None
+Timestamp: 2024-08-06T23:46:53.079+00:00
+Author: Pete Miller (petemiller.)
+Author Id: 1269343997013528729
+Avatar URL: assets\1-B2132.png
+Content: Is there a physical location for a Harris-Walz HQ in CT?
+--------------------
+
+--- Message ---
+Message ID: 1271892516316381297
+Message Type: Default
+Reply to: None
+Timestamp: 2024-08-10T18:06:46.51+00:00
+Author: Kate • Community Mod (ktmg)
+Author Id: 447570500030562314
+Avatar URL: assets\4ab56c60f334133787a2e11eccf36d79-7F4A0.png
+Content: This is just a reminder that you can sign up to phone bank, canvass, get trainings  or take other actions at https://events.democrats.org/ in your state or in one of our battleground states (NC, PA, GA, NH, WI, PA, MI, AZ, NV). Volunteers like you make all the difference! We look forward to seeing you at an event soon.
+--------------------
+
+--- Message ---
+Message ID: 1276260378028019874
+Message Type: Default
+Reply to: None
+Timestamp: 2024-08-22T19:23:05.893+00:00
+Author: Carolyn • Lead Mod (carb.on)
+Author Id: 568257600228032512
+Avatar URL: assets\84866cc1246fcdfe67a9addc87c1f8e3-F9610.png
+Content: ## [Connecticut Voter Information](https://www.vote.org/state/connecticut/)
+--------------------
+
+--- Message ---
+Message ID: 1276260403227267173
+Message Type: ChannelPinnedMessage
+Reply to: 1276260378028019874
+Timestamp: 2024-08-22T19:23:11.901+00:00
+Author: Carolyn • Lead Mod (carb.on)
+Author Id: 568257600228032512
+Avatar URL: assets\84866cc1246fcdfe67a9addc87c1f8e3-F9610.png
+Content: Pinned a message.
+--------------------
+
+--- Message ---
+Message ID: 1276398121563324427
+Message Type: Reply
+Reply to: 1270528556207833149
+Timestamp: 2024-08-23T04:30:26.511+00:00
+Author: Michael Brennan (CT) (thisdudeoverhereee)
+Author Id: 752675877376098466
+Avatar URL: assets\685b70c39dc72e80492f106436020ccb-74857.png
+Content: Probably a bunch of local ones given how blue we vote federally
+--------------------
+
+--- Message ---
+Message ID: 1276516500529745992
+Message Type: Default
+Reply to: None
+Timestamp: 2024-08-23T12:20:50.256+00:00
+Author: Athena is Susan • Lead Mod (slc813050)
+Author Id: 1261701914454659092
+Avatar URL: assets\7b7c5a311a1fd801c610d560ffe8074b-ADDDF.png
+Content: If you haven’t already, please check out * General Events: https://events.democrats.org/
+--------------------
+
+--- Message ---
+Message ID: 1276516579580055656
+Message Type: Default
+Reply to: None
+Timestamp: 2024-08-23T12:21:09.103+00:00
+Author: Athena is Susan • Lead Mod (slc813050)
+Author Id: 1261701914454659092
+Avatar URL: assets\7b7c5a311a1fd801c610d560ffe8074b-ADDDF.png
+Content: It lists events in and around your area
+--------------------
+
+--- Message ---
+Message ID: 1276516784706424934
+Message Type: Default
+Reply to: None
+Timestamp: 2024-08-23T12:21:58.009+00:00
+Author: Athena is Susan • Lead Mod (slc813050)
+Author Id: 1261701914454659092
+Avatar URL: assets\7b7c5a311a1fd801c610d560ffe8074b-ADDDF.png
+Content: Let’s go Connecticut—we have lots of purple areas with an influx of new residents. Let’s not be complacent 💙💙💙
+--------------------
+
+--- Message ---
+Message ID: 1276661334246948914
+Message Type: Default
+Reply to: None
+Timestamp: 2024-08-23T21:56:21.305+00:00
+Author: Michael Brennan (CT) (thisdudeoverhereee)
+Author Id: 752675877376098466
+Avatar URL: assets\685b70c39dc72e80492f106436020ccb-74857.png
+Content: If only I didn’t work weekends, I’d be canvassing for Jahana Hayes
+--------------------
+
+--- Message ---
+Message ID: 1278095188237226016
+Message Type: Default
+Reply to: None
+Timestamp: 2024-08-27T20:53:58.736+00:00
+Author: Jack (KC) (jack.246012)
+Author Id: 1276396030375624789
+Avatar URL: assets\1b105b23ea580bad6169b556d3b7ebc4-4403D.png
+Content: Fellow CT voters! We may live in a solid blue state, but on election day we have a very important ballot measure.  In a nutshell, if it were to pass, it would authorize our state legislature to pass a law to allow anyone to request an absentee ballot
+--------------------
+
+--- Message ---
+Message ID: 1278097058758266970
+Message Type: Default
+Reply to: None
+Timestamp: 2024-08-27T21:01:24.703+00:00
+Author: Athena is Susan • Lead Mod (slc813050)
+Author Id: 1261701914454659092
+Avatar URL: assets\7b7c5a311a1fd801c610d560ffe8074b-ADDDF.png
+Content: CT is actually purple
+--------------------
+
+--- Message ---
+Message ID: 1278098264733909164
+Message Type: Default
+Reply to: None
+Timestamp: 2024-08-27T21:06:12.23+00:00
+Author: Jack (KC) (jack.246012)
+Author Id: 1276396030375624789
+Avatar URL: assets\1b105b23ea580bad6169b556d3b7ebc4-4403D.png
+Content: On the presidental level
+--------------------
+
+--- Message ---
+Message ID: 1278098406472028170
+Message Type: Default
+Reply to: None
+Timestamp: 2024-08-27T21:06:46.023+00:00
+Author: Jack (KC) (jack.246012)
+Author Id: 1276396030375624789
+Avatar URL: assets\1b105b23ea580bad6169b556d3b7ebc4-4403D.png
+Content: Hasnt been red since 1988
+--------------------
+
+--- Message ---
+Message ID: 1279454953114701834
+Message Type: Default
+Reply to: None
+Timestamp: 2024-08-31T14:57:11.946+00:00
+Author: Jessica Lillian [CT] (jesslill)
+Author Id: 893562576489828372
+Avatar URL: assets\b6fe7dcaec383399d401517c3a4f9837-B44A4.png
+Content: Anyone else signed up for the Newtown Labor Day Parade this weekend with Sen. Murphy and Rep. Hayes? From the event wording, I’m not sure if they’re having us actually march with them or just watch from the side, but either way it should be fun! I remember marching with Team Murphy in 2012 and still have the t-shirt 💙
+--------------------
+
+--- Message ---
+Message ID: 1280178039615127586
+Message Type: Reply
+Reply to: 1279454953114701834
+Timestamp: 2024-09-02T14:50:29.202+00:00
+Author: Michael Brennan (CT) (thisdudeoverhereee)
+Author Id: 752675877376098466
+Avatar URL: assets\685b70c39dc72e80492f106436020ccb-74857.png
+Content: Ahhhhh I’m heading to nyc today or id be there
+--------------------
+
+--- Message ---
+Message ID: 1280194235764572242
+Message Type: Reply
+Reply to: 1279454953114701834
+Timestamp: 2024-09-02T15:54:50.665+00:00
+Author: Theresa P. Facilitator, CT (theresapiliero)
+Author Id: 1247358312727580722
+Avatar URL: assets\0ce79d61dd701fd36efab64a375a70b2-3E869.png
+Content: I believe you March with them
+--------------------
+
+--- Message ---
+Message ID: 1280372595837112351
+Message Type: Default
+Reply to: None
+Timestamp: 2024-09-03T03:43:35.02+00:00
+Author: Jeannine • Lead Mod (jean9_28218_79932)
+Author Id: 1266879741785538682
+Avatar URL: assets\54ff5e8dfab835d878a961f9f7b7d161-6C0EE.png
+Content: <a:star_wave:1269735420359606369> Hey, Team! We know you want to help make a difference! Did you know though that hosting a debate watch party is an amazing way to get involved and bring people together? <a:rainbow_heart_scribble:1269029739432120465> It’s all about good vibes, great conversations, and getting folks fired up for the election. Your watch party could be the spark that motivates someone to vote! <a:PinkFlames:1252802562659193004>  [Register your watch party](https://events.democrats.org/c/host-a-debate-watch-party/event/create/) to get access to all sorts of resources for throwing a successful debate watch party, including a [Host Information Session](https://events.democrats.org/event/677337/). <a:ThanksRainbow:1278765693579431967>
+--------------------
+
+--- Message ---
+Message ID: 1280665029561159792
+Message Type: Default
+Reply to: None
+Timestamp: 2024-09-03T23:05:36.653+00:00
+Author: Athena is Susan • Lead Mod (slc813050)
+Author Id: 1261701914454659092
+Avatar URL: assets\7b7c5a311a1fd801c610d560ffe8074b-ADDDF.png
+Content: Hey CT team, I've just set up a watch party. Are you able to also?
+--------------------
+
+--- Message ---
+Message ID: 1280698808304664599
+Message Type: Default
+Reply to: None
+Timestamp: 2024-09-04T01:19:50.133+00:00
+Author: Jessica Lillian [CT] (jesslill)
+Author Id: 893562576489828372
+Avatar URL: assets\b6fe7dcaec383399d401517c3a4f9837-B44A4.png
+Content: I’m not able to host this time but happy to help out with someone else’s or attend!
+--------------------
+
+--- Message ---
+Message ID: 1280813062168903771
+Message Type: Default
+Reply to: None
+Timestamp: 2024-09-04T08:53:50.377+00:00
+Author: Michael Pelaez | FL (trumansleeps)
+Author Id: 389839010576465936
+Avatar URL: assets\3a91c3446fca9803ffb1d856364145a2-A8603.png
+Content: https://www.mobilize.us/voteriders/event/564817/?referring_vol=6684605&rname=Michael&share_context=event_details&share_medium=copy_link
+--------------------
+
+--- Message ---
+Message ID: 1280991207551406080
+Message Type: Default
+Reply to: None
+Timestamp: 2024-09-04T20:41:43.546+00:00
+Author: Sarah Johnson | CT (sarahrose13)
+Author Id: 454416840798502933
+Avatar URL: assets\e67a6ac9419628ecb45f29be34c5f615-D17E0.png
+Content: Hi! Do any of you know if there's any volunteer opportunities happening soon over here soon?
+--------------------
+
+--- Message ---
+Message ID: 1280997740544786484
+Message Type: Reply
+Reply to: 1280991207551406080
+Timestamp: 2024-09-04T21:07:41.133+00:00
+Author: Athena is Susan • Lead Mod (slc813050)
+Author Id: 1261701914454659092
+Avatar URL: assets\7b7c5a311a1fd801c610d560ffe8074b-ADDDF.png
+Content: In person volunteering? The candidates will be ramping up canvassing soon.
+--------------------
+
+--- Message ---
+Message ID: 1280997838427394202
+Message Type: Reply
+Reply to: 1280997740544786484
+Timestamp: 2024-09-04T21:08:04.47+00:00
+Author: Sarah Johnson | CT (sarahrose13)
+Author Id: 454416840798502933
+Avatar URL: assets\e67a6ac9419628ecb45f29be34c5f615-D17E0.png
+Content: What exactly do you do for that?
+--------------------
+
+--- Message ---
+Message ID: 1280998257803399199
+Message Type: Default
+Reply to: None
+Timestamp: 2024-09-04T21:09:44.457+00:00
+Author: Athena is Susan • Lead Mod (slc813050)
+Author Id: 1261701914454659092
+Avatar URL: assets\7b7c5a311a1fd801c610d560ffe8074b-ADDDF.png
+Content: Walk door to door and talk to voters.
+--------------------
+
+--- Message ---
+Message ID: 1280998332344303718
+Message Type: Default
+Reply to: None
+Timestamp: 2024-09-04T21:10:02.229+00:00
+Author: Sarah Johnson | CT (sarahrose13)
+Author Id: 454416840798502933
+Avatar URL: assets\e67a6ac9419628ecb45f29be34c5f615-D17E0.png
+Content: Oh yeah, I'm good lol
+--------------------
+
+--- Message ---
+Message ID: 1281007761458462743
+Message Type: Default
+Reply to: None
+Timestamp: 2024-09-04T21:47:30.305+00:00
+Author: Athena is Susan • Lead Mod (slc813050)
+Author Id: 1261701914454659092
+Avatar URL: assets\7b7c5a311a1fd801c610d560ffe8074b-ADDDF.png
+Content: We have a wide variety of volunteerism events: phone banks, relational events, online engagement, text banks, and more here...! https://events.democrats.org/?is_high_priority=true
+--------------------
+
+--- Message ---
+Message ID: 1281357162798645359
+Message Type: Reply
+Reply to: 1280813062168903771
+Timestamp: 2024-09-05T20:55:54.076+00:00
+Author: Jack (KC) (jack.246012)
+Author Id: 1276396030375624789
+Avatar URL: assets\1b105b23ea580bad6169b556d3b7ebc4-4403D.png
+Content: Thanks for the link Michael!  Signed up for a shift!
+--------------------
+
+--- Message ---
+Message ID: 1281357281803370598
+Message Type: Default
+Reply to: None
+Timestamp: 2024-09-05T20:56:22.449+00:00
+Author: Jack (KC) (jack.246012)
+Author Id: 1276396030375624789
+Avatar URL: assets\1b105b23ea580bad6169b556d3b7ebc4-4403D.png
+Content: the MAGA Attorney Generals are motivating me!
+--------------------
+
+--- Message ---
+Message ID: 1281357417950482525
+Message Type: Reply
+Reply to: 1281357162798645359
+Timestamp: 2024-09-05T20:56:54.909+00:00
+Author: Michael Pelaez | FL (trumansleeps)
+Author Id: 389839010576465936
+Avatar URL: assets\3a91c3446fca9803ffb1d856364145a2-A8603.png
+Content: Nice! It's a great opportunity, I just started with them last week and am hooked. Will definitely keep volunteering for them well past this election.
+--------------------
+
+--- Message ---
+Message ID: 1281357526582956193
+Message Type: Default
+Reply to: None
+Timestamp: 2024-09-05T20:57:20.809+00:00
+Author: Jack (KC) (jack.246012)
+Author Id: 1276396030375624789
+Avatar URL: assets\1b105b23ea580bad6169b556d3b7ebc4-4403D.png
+Content: Does it get busy?
+--------------------
+
+--- Message ---
+Message ID: 1281357778065031263
+Message Type: Reply
+Reply to: 1281357526582956193
+Timestamp: 2024-09-05T20:58:20.767+00:00
+Author: Michael Pelaez | FL (trumansleeps)
+Author Id: 389839010576465936
+Avatar URL: assets\3a91c3446fca9803ffb1d856364145a2-A8603.png
+Content: You set your own hours , you can pull as many cases as you want to work on, mostly its helping people order their birth certificates first so they can then get an id etc... very flexible
+--------------------
+
+--- Message ---
+Message ID: 1281357904770896007
+Message Type: Default
+Reply to: None
+Timestamp: 2024-09-05T20:58:50.976+00:00
+Author: Jack (KC) (jack.246012)
+Author Id: 1276396030375624789
+Avatar URL: assets\1b105b23ea580bad6169b556d3b7ebc4-4403D.png
+Content: I know that, it will probably pick up once we get closer
+--------------------
+
+--- Message ---
+Message ID: 1283413800552370278
+Message Type: Default
+Reply to: None
+Timestamp: 2024-09-11T13:08:14.727+00:00
+Author: Athena is Susan • Lead Mod (slc813050)
+Author Id: 1261701914454659092
+Avatar URL: assets\7b7c5a311a1fd801c610d560ffe8074b-ADDDF.png
+Content: Hello hello!! Is everyone fired up after that epic debate?! If you're in the Danbury-Newtown-Redding area I have some extra signs from my watch party, if you're interested.
+--------------------
+
+--- Message ---
+Message ID: 1283424931413098497
+Message Type: Default
+Reply to: None
+Timestamp: 2024-09-11T13:52:28.531+00:00
+Author: Yamy (yamytaina)
+Author Id: 1004248060794245220
+Avatar URL: assets\0100c867a07ffd8ec5ac618e9e5df214-205A3.png
+Content: I am fired up!!! Greetings from Manchester, CT
+--------------------
+
+--- Message ---
+Message ID: 1283432303648968854
+Message Type: Default
+Reply to: None
+Timestamp: 2024-09-11T14:21:46.209+00:00
+Author: Jessica Lillian [CT] (jesslill)
+Author Id: 893562576489828372
+Avatar URL: assets\b6fe7dcaec383399d401517c3a4f9837-B44A4.png
+Content: I wish I were allowed to put up signs (HOA rules, sigh) but hello from Danbury, neighbor! 👋
+--------------------
+
+--- Message ---
+Message ID: 1283443024713617490
+Message Type: Reply
+Reply to: 1283432303648968854
+Timestamp: 2024-09-11T15:04:22.31+00:00
+Author: Athena is Susan • Lead Mod (slc813050)
+Author Id: 1261701914454659092
+Avatar URL: assets\7b7c5a311a1fd801c610d560ffe8074b-ADDDF.png
+Content: Hey neighbor!!
+--------------------
+
+--- Message ---
+Message ID: 1283467028497432720
+Message Type: Default
+Reply to: None
+Timestamp: 2024-09-11T16:39:45.258+00:00
+Author: Feline (feline0330)
+Author Id: 1282864425400926252
+Avatar URL: assets\1628fc11e7961d85181295493426b775-C81D1.png
+Content: I’m from Milford!  So hello my neighbors.  I get yard signs from the Democratic Party but that is for local elections.
+--------------------
+
+--- Message ---
+Message ID: 1283506485271335059
+Message Type: Default
+Reply to: None
+Timestamp: 2024-09-11T19:16:32.486+00:00
+Author: Karen (karen_73231)
+Author Id: 1281751899233845329
+Avatar URL: assets\2-ADBB4.png
+Content: Hello from Stratford
+--------------------
+
+--- Message ---
+Message ID: 1283511705216749688
+Message Type: Default
+Reply to: None
+Timestamp: 2024-09-11T19:37:17.018+00:00
+Author: Athena is Susan • Lead Mod (slc813050)
+Author Id: 1261701914454659092
+Avatar URL: assets\7b7c5a311a1fd801c610d560ffe8074b-ADDDF.png
+Content: Hello new volunteers!! Do you have volunteering experience? How would you like to contribute?
+--------------------
+
+--- Message ---
+Message ID: 1283581697325273169
+Message Type: Default
+Reply to: None
+Timestamp: 2024-09-12T00:15:24.437+00:00
+Author: Theresa P. Facilitator, CT (theresapiliero)
+Author Id: 1247358312727580722
+Avatar URL: assets\0ce79d61dd701fd36efab64a375a70b2-3E869.png
+Content: I live in Trumbull!!
+--------------------
+
+--- Message ---
+Message ID: 1283840919933685852
+Message Type: Default
+Reply to: None
+Timestamp: 2024-09-12T17:25:27.923+00:00
+Author: Michael Pelaez | FL (trumansleeps)
+Author Id: 389839010576465936
+Avatar URL: assets\3a91c3446fca9803ffb1d856364145a2-A8603.png
+Content: Let's get a volunteer wave going! Repond on a thread with how many events you signed up to! Let's make the goal 5+ https://www.mobilize.us/events/connecticut-volunteer-opportunities/
+--------------------
+
+--- Message ---
+Message ID: 1283859551073865729
+Message Type: Reply
+Reply to: 1280998257803399199
+Timestamp: 2024-09-12T18:39:29.933+00:00
+Author: Jay 🥳 (jay_68228)
+Author Id: 1170378368051593358
+Avatar URL: assets\ab93358182a8dc3cd0fd1de5515e03d3-2B9B9.png
+Content: I would love to be able to do this for Harris - Walz. Where would the best state be? Pennsylvania? Is there an infrastructure for out of state volunteers?
+--------------------
+
+--- Message ---
+Message ID: 1283865127711539291
+Message Type: Reply
+Reply to: 1283859551073865729
+Timestamp: 2024-09-12T19:01:39.507+00:00
+Author: Athena is Susan • Lead Mod (slc813050)
+Author Id: 1261701914454659092
+Avatar URL: assets\7b7c5a311a1fd801c610d560ffe8074b-ADDDF.png
+Content: Excellent. Please add the Pennsylvania channel. The process is the same in most states. Each city has a Democratic Party office. Contact them and the local reps to find out about their canvassing schedule. Also, search the event site by location. There are some canvassing opportunities listed. Please lmk how you do. https://events.democrats.org/
+--------------------
+
+--- Message ---
+Message ID: 1284030037162459186
+Message Type: Default
+Reply to: None
+Timestamp: 2024-09-13T05:56:56.984+00:00
+Author: Feline (feline0330)
+Author Id: 1282864425400926252
+Avatar URL: assets\1628fc11e7961d85181295493426b775-C81D1.png
+Content: Hello!
+--------------------
+
+--- Message ---
+Message ID: 1284030641125589012
+Message Type: Default
+Reply to: None
+Timestamp: 2024-09-13T05:59:20.98+00:00
+Author: Feline (feline0330)
+Author Id: 1282864425400926252
+Avatar URL: assets\1628fc11e7961d85181295493426b775-C81D1.png
+Content: From Milford Ct and proud to be a blue state and hoping we can keep it that way!!!
+--------------------
+
+--- Message ---
+Message ID: 1284730847928258651
+Message Type: Default
+Reply to: None
+Timestamp: 2024-09-15T04:21:43.291+00:00
+Author: curlygirl860 (curlygirl860)
+Author Id: 1061898684683530240
+Avatar URL: assets\03c846746e56b1884ca43da4b9c65247-E6C52.png
+Content: Hi. Alicia from Hartford. I’m sending get out the vote postcards for early voting in Michigan and voting reminders to new registered democrats in AZ.
+--------------------
+
+--- Message ---
+Message ID: 1285808540136771635
+Message Type: Default
+Reply to: None
+Timestamp: 2024-09-18T03:44:05.136+00:00
+Author: Jennifer • [Lead Mod] (starkittynmom)
+Author Id: 1276944250491113656
+Avatar URL: assets\a_2aba4b7f19fcab5fe5391fcdb73d735d-D670A.gif
+Content: <:bluewave3:1270555729836900453> <:bluewave3:1270555729836900453> <:bluewave3:1270555729836900453> <:bluewave3:1270555729836900453> <:bluewave3:1270555729836900453> <:bluewave3:1270555729836900453> <:bluewave3:1270555729836900453> <:bluewave3:1270555729836900453> <:bluewave3:1270555729836900453> <:bluewave3:1270555729836900453> <:bluewave3:1270555729836900453> <:bluewave3:1270555729836900453> 
+**COOL STUFF ALERT**
+
+Hey everyone : 
+The moderators of www.reddit.com/r/VoteDem and r/Bluemidterm2018 (the FORMER moderators of r/Voteblue) made this amazing spreadsheet:
+
+https://docs.google.com/spreadsheets/d/1jxO8g7q9VO3ZMAABcrvR7PMyX4Yl6dgIYhD3eRTKk1M/edit?usp=sharing
+This Google Sheet has links to the sign up pages for HUNDREDS of opportunities to engage from home for campaigns across the country. Check it out and sign up! Let's keep going to build this BLUE WAVE!
+<:bluewave3:1270555729836900453> <:bluewave3:1270555729836900453> <:bluewave3:1270555729836900453> <:bluewave3:1270555729836900453> <:bluewave3:1270555729836900453> <:bluewave3:1270555729836900453> <:bluewave3:1270555729836900453> <:bluewave3:1270555729836900453> <:bluewave3:1270555729836900453> <:bluewave3:1270555729836900453> <:bluewave3:1270555729836900453> <:bluewave3:1270555729836900453>
+--------------------
+
+--- Message ---
+Message ID: 1286406832373370902
+Message Type: Default
+Reply to: None
+Timestamp: 2024-09-19T19:21:29.121+00:00
+Author: Mary Young  (CT) (myoung6471)
+Author Id: 1273427620738105364
+Avatar URL: assets\2e43063065eee4dccaf9c6e439930509-5B5E6.png
+Content: I am at the Big E and I was at the Brooklyn fair last month.  Both places had vendors selling trump tshirts and other merch. Why don't we do that?
+--------------------
+
+--- Message ---
+Message ID: 1286409273680728117
+Message Type: Reply
+Reply to: 1286406832373370902
+Timestamp: 2024-09-19T19:31:11.174+00:00
+Author: Autumn S [AR]🤘• Lead Mod/OE Mod (meanderingstone6495)
+Author Id: 936622618293968958
+Avatar URL: assets\af45a372ba919e7bac10686b43e799f1-BDEE3.png
+Content: Do people volunteer for booths there? I wonder if there just wasn't any Democrats.
+--------------------
+
+--- Message ---
+Message ID: 1286704345446092831
+Message Type: Reply
+Reply to: 1286406832373370902
+Timestamp: 2024-09-20T15:03:41.765+00:00
+Author: Theresa P. Facilitator, CT (theresapiliero)
+Author Id: 1247358312727580722
+Avatar URL: assets\0ce79d61dd701fd36efab64a375a70b2-3E869.png
+Content: I think it would be local democrat committes who would table and sell items
+--------------------
+
+--- Message ---
+Message ID: 1286901468666007574
+Message Type: Default
+Reply to: None
+Timestamp: 2024-09-21T04:06:59.603+00:00
+Author: Yamy (yamytaina)
+Author Id: 1004248060794245220
+Avatar URL: assets\0100c867a07ffd8ec5ac618e9e5df214-205A3.png
+Content: I live in Manchester very close to Vernon line and they rented a space and have merch, flags, clothes and stuff. Very busy rd btw
+--------------------
+
+--- Message ---
+Message ID: 1286901645631815761
+Message Type: Default
+Reply to: None
+Timestamp: 2024-09-21T04:07:41.795+00:00
+Author: Yamy (yamytaina)
+Author Id: 1004248060794245220
+Avatar URL: assets\0100c867a07ffd8ec5ac618e9e5df214-205A3.png
+Content: I went to the democrat committee twice to finally get my Kamala/Walz sign
+--------------------
+
+--- Message ---
+Message ID: 1287556572528250941
+Message Type: Default
+Reply to: None
+Timestamp: 2024-09-22T23:30:08.535+00:00
+Author: Athena is Susan • Lead Mod (slc813050)
+Author Id: 1261701914454659092
+Avatar URL: assets\7b7c5a311a1fd801c610d560ffe8074b-ADDDF.png
+Content: Is anyone hosting a Vice Presidental Debate watch party? I have some extra rally placards that I am happy to share.
+--------------------
+
+--- Message ---
+Message ID: 1288274531525460079
+Message Type: Default
+Reply to: None
+Timestamp: 2024-09-24T23:03:03.299+00:00
+Author: Jack (KC) (jack.246012)
+Author Id: 1276396030375624789
+Avatar URL: assets\1b105b23ea580bad6169b556d3b7ebc4-4403D.png
+Content: Good evening fellow Connecticuters!  This November we have a chance to establish no excuse absentee voting!  Please click the link below to be informed of everything you need to know to cast your ballot! https://www.vote411.org/
+--------------------
+
+--- Message ---
+Message ID: 1288534907026411602
+Message Type: Default
+Reply to: None
+Timestamp: 2024-09-25T16:17:41.656+00:00
+Author: Wesley Hurd [CT] (21stcentdglboy)
+Author Id: 432524570281639939
+Avatar URL: assets\3-FB033.png
+Content: Please pass the word along that early voting is now available in Connecticut. This is the first year it is in effect.
+
+https://portal.ct.gov/sots/election-services/early-voting/early-voting
+--------------------
+
+--- Message ---
+Message ID: 1289988336676638770
+Message Type: Default
+Reply to: None
+Timestamp: 2024-09-29T16:33:06.288+00:00
+Author: Jack (KC) (jack.246012)
+Author Id: 1276396030375624789
+Avatar URL: assets\1b105b23ea580bad6169b556d3b7ebc4-4403D.png
+Content: Remember, if you requested an absentee ballot, they will start to be shipped on Saturday
+--------------------
+
+--- Message ---
+Message ID: 1291491474697097278
+Message Type: Default
+Reply to: None
+Timestamp: 2024-10-03T20:06:02.319+00:00
+Author: Autumn S [AR]🤘• Lead Mod/OE Mod (meanderingstone6495)
+Author Id: 936622618293968958
+Avatar URL: assets\af45a372ba919e7bac10686b43e799f1-BDEE3.png
+Content: Want to join me for this event? https://mobilize.us/s/ncZVaj
+--------------------
+
+--- Message ---
+Message ID: 1291846478574125146
+Message Type: Default
+Reply to: None
+Timestamp: 2024-10-04T19:36:41.839+00:00
+Author: Autumn S [AR]🤘• Lead Mod/OE Mod (meanderingstone6495)
+Author Id: 936622618293968958
+Avatar URL: assets\af45a372ba919e7bac10686b43e799f1-BDEE3.png
+Content: Want to join me for this event? https://mobilize.us/s/NPgfUm
+--------------------
+
+--- Message ---
+Message ID: 1291936974470381649
+Message Type: Default
+Reply to: None
+Timestamp: 2024-10-05T01:36:17.742+00:00
+Author: Jack (KC) (jack.246012)
+Author Id: 1276396030375624789
+Avatar URL: assets\1b105b23ea580bad6169b556d3b7ebc4-4403D.png
+Content: On this day 4 years ago, a record 3.3 million Americans cast their ballot early.  And as expected, only 1.7 million early votes have been cast (a 45% decrease).  Please use the link below or call the Democratic Voter Assistance Hotline 9am-9pm (EST) (1-833-336-8683) to request an absentee ballot, or make a plan to vote early or on election day.  https://iwillvote.com/
+--------------------
+
+--- Message ---
+Message ID: 1292132692875546626
+Message Type: Default
+Reply to: None
+Timestamp: 2024-10-05T14:34:00.646+00:00
+Author: Michael Pelaez | FL (trumansleeps)
+Author Id: 389839010576465936
+Avatar URL: assets\3a91c3446fca9803ffb1d856364145a2-A8603.png
+Content: 
+--------------------
+
+--- Message ---
+Message ID: 1292166360847220810
+Message Type: Default
+Reply to: None
+Timestamp: 2024-10-05T16:47:47.716+00:00
+Author: Jack (KC) (jack.246012)
+Author Id: 1276396030375624789
+Avatar URL: assets\1b105b23ea580bad6169b556d3b7ebc4-4403D.png
+Content: Get ready Connecticut!  Your ballots are in the mail!!
+--------------------
+
+--- Message ---
+Message ID: 1292471700985741393
+Message Type: Default
+Reply to: None
+Timestamp: 2024-10-06T13:01:06.478+00:00
+Author: Autumn S [AR]🤘• Lead Mod/OE Mod (meanderingstone6495)
+Author Id: 936622618293968958
+Avatar URL: assets\af45a372ba919e7bac10686b43e799f1-BDEE3.png
+Content: Want to join me for this event? https://mobilize.us/s/PNzBX2
+--------------------
+
+--- Message ---
+Message ID: 1292585205961326654
+Message Type: Default
+Reply to: None
+Timestamp: 2024-10-06T20:32:08.173+00:00
+Author: Carolyn • Lead Mod (carb.on)
+Author Id: 568257600228032512
+Avatar URL: assets\84866cc1246fcdfe67a9addc87c1f8e3-F9610.png
+Content: <:mega2:1269006580976976076> A reminder that we have a dedicated ⁠https://discord.com/channels/1242249109298221066/1288163431911788586 Reddit channel where we coordinate our efforts to post campaign content, leave comments, and upvote <:kamala1:1269028302203523114> <:WalzSmile:1270424129853456445> -related posts. Right now even supportive subreddits like r/politics are bombarded with Trump info, and we're trying to change that. Let's help people find information about our candidates and the brighter future they offer! Head on over to our channel and we'll plug you in with opportunities to contribute. Even if you have just one minute to help, you can make a difference.
+Get the role to see the Reddit channel, go to https://discord.com/channels/1242249109298221066/1260651617867399188 and pick the 👾
+--------------------
+
+--- Message ---
+Message ID: 1292624453053714453
+Message Type: Default
+Reply to: None
+Timestamp: 2024-10-06T23:08:05.409+00:00
+Author: Athena is Susan • Lead Mod (slc813050)
+Author Id: 1261701914454659092
+Avatar URL: assets\7b7c5a311a1fd801c610d560ffe8074b-ADDDF.png
+Content: There are just 30 days left in this campaign.
+
+30 days to fight for this country we love, to fight for the ideals we cherish, and to uphold the awesome responsibility that comes with the greatest privilege on Earth: The privilege and pride of being an American.
+
+We must be worthy of this moment. That’s why today, I am asking for your help to contact voters in your community and ensure they are prepared to make their voices heard in this election.
+
+Can we count on you to sign up to talk to key voters we need to reach before Election Day?
+--------------------
+
+--- Message ---
+Message ID: 1293288388157509722
+Message Type: Default
+Reply to: None
+Timestamp: 2024-10-08T19:06:19.873+00:00
+Author: Autumn S [AR]🤘• Lead Mod/OE Mod (meanderingstone6495)
+Author Id: 936622618293968958
+Avatar URL: assets\af45a372ba919e7bac10686b43e799f1-BDEE3.png
+Content: Want to join me for this event? https://mobilize.us/s/6Cs1xV
+--------------------
+
+--- Message ---
+Message ID: 1293391288669962240
+Message Type: Default
+Reply to: None
+Timestamp: 2024-10-09T01:55:13.267+00:00
+Author: Jessica Lillian [CT] (jesslill)
+Author Id: 893562576489828372
+Avatar URL: assets\b6fe7dcaec383399d401517c3a4f9837-B44A4.png
+Content: 🚌 Looks like some canvassing trips to PA are popping up! I see departures from New Haven and Stamford so far  https://events.democrats.org/event/720771/
+
+https://events.democrats.org/event/721423/
+--------------------
+
+--- Message ---
+Message ID: 1293708931528527944
+Message Type: Default
+Reply to: None
+Timestamp: 2024-10-09T22:57:25.226+00:00
+Author: Brian (brian_17805)
+Author Id: 1293688114161651735
+Avatar URL: assets\3-FB033.png
+Content: Hello! New person here. I could help via Facebook. Can someone give me info about doing so? Thanks.
+--------------------
+
+--- Message ---
+Message ID: 1293760406048997478
+Message Type: Reply
+Reply to: 1293708931528527944
+Timestamp: 2024-10-10T02:21:57.708+00:00
+Author: JenK – Mod (groovyduv)
+Author Id: 1283888134454644799
+Avatar URL: assets\83f797be21363d002a3c6654cb2b3bfa-BA19E.png
+Content: Welcome Brian! We're glad to have you here! Hello and welcome! If you’re new to Discord, I highly recommend watching our Team Harris Discord Intro Video by Carolyn: https://www.youtube.com/watch?v=cA32MMsN61g to help you learn the new tech. Then I'd check out <#1268398483841220649>  and <#1268398608097476750> .  If you’re newer to volunteering, you could try our [**Volunteer Welcome**](https://events.democrats.org/event/671638/?utm_source=Discord&utm_medium=Posts&utm_campaign=Daily%20Engagement) to get an overview of different ways to get involved. If you feel like you are ready to go, you should try our [**Organize Your Friends and Family**](https://events.democrats.org/event/597621/?utm_source=Discord&utm_medium=Posts&utm_campaign=Daily%20Engagement) training. Meme and Misinformation Training could be really helpful on Facebook. 
+[Meme Training](https://events.democrats.org/event/684758/)
+Misinformation: How to Respond When Voters Repeat Online Lies
+[Misinformation: How to Respond When Voters Repeat Online Lies](https://events.democrats.org/event/676496/)
+--------------------
+
+--- Message ---
+Message ID: 1294858641639342081
+Message Type: Default
+Reply to: None
+Timestamp: 2024-10-13T03:05:57.477+00:00
+Author: Wesley Hurd [CT] (21stcentdglboy)
+Author Id: 432524570281639939
+Avatar URL: assets\3-FB033.png
+Content: I wanted to say hello to the other volunteers from CT. I have not been able to participate in any in-person events for the Harris/Walz campaign yet, so I haven't had the chance to meet other volunteers. If I didn't have to work today, I probably would have done the trip to PA. But I managed to get in a bunch of texts and calls after work. I've volunteered on other campaigns in the past but I'm not used to doing everything online. I hope everyone is well and I hope to meet you in person at some point. Glad to be part of the team.
+--------------------
+
+--- Message ---
+Message ID: 1294861771022143510
+Message Type: Default
+Reply to: None
+Timestamp: 2024-10-13T03:18:23.58+00:00
+Author: Autumn S [AR]🤘• Lead Mod/OE Mod (meanderingstone6495)
+Author Id: 936622618293968958
+Avatar URL: assets\af45a372ba919e7bac10686b43e799f1-BDEE3.png
+Content: Welcome <@432524570281639939>! You have been moving and shaking. Greatly appreciate you🙌
+--------------------
+
+--- Message ---
+Message ID: 1294869993812398090
+Message Type: Default
+Reply to: None
+Timestamp: 2024-10-13T03:51:04.046+00:00
+Author: Autumn S [AR]🤘• Lead Mod/OE Mod (meanderingstone6495)
+Author Id: 936622618293968958
+Avatar URL: assets\af45a372ba919e7bac10686b43e799f1-BDEE3.png
+Content: Want to join me for this High Hopes for Harris event? https://mobilize.us/s/1nez72
+--------------------
+
+--- Message ---
+Message ID: 1296197345893158912
+Message Type: Default
+Reply to: None
+Timestamp: 2024-10-16T19:45:29.443+00:00
+Author: Autumn S [AR]🤘• Lead Mod/OE Mod (meanderingstone6495)
+Author Id: 936622618293968958
+Avatar URL: assets\af45a372ba919e7bac10686b43e799f1-BDEE3.png
+Content: Want to join me for this event? https://mobilize.us/s/yCrvow
+--------------------
+
+--- Message ---
+Message ID: 1296215714373435508
+Message Type: Default
+Reply to: None
+Timestamp: 2024-10-16T20:58:28.83+00:00
+Author: Athena is Susan • Lead Mod (slc813050)
+Author Id: 1261701914454659092
+Avatar URL: assets\7b7c5a311a1fd801c610d560ffe8074b-ADDDF.png
+Content: Who's ready to vote early next week with me? Let's go Connecticut!
+--------------------
+
+--- Message ---
+Message ID: 1296222521036898346
+Message Type: Default
+Reply to: None
+Timestamp: 2024-10-16T21:25:31.665+00:00
+Author: Jack (KC) (jack.246012)
+Author Id: 1276396030375624789
+Avatar URL: assets\1b105b23ea580bad6169b556d3b7ebc4-4403D.png
+Content: I know I am!
+--------------------
+
+--- Message ---
+Message ID: 1296848992222576682
+Message Type: Default
+Reply to: None
+Timestamp: 2024-10-18T14:54:54.035+00:00
+Author: Matt Sally (matt_1989_)
+Author Id: 1275554237870247947
+Avatar URL: assets\2-ADBB4.png
+Content: https://events.democrats.org/event/727239/
+--------------------
+
+--- Message ---
+Message ID: 1296914516914737153
+Message Type: Default
+Reply to: None
+Timestamp: 2024-10-18T19:15:16.339+00:00
+Author: Autumn S [AR]🤘• Lead Mod/OE Mod (meanderingstone6495)
+Author Id: 936622618293968958
+Avatar URL: assets\af45a372ba919e7bac10686b43e799f1-BDEE3.png
+Content: <:eyes:1252803301137842251>  Looking for more ways to get involved and get out the vote? **Join us Monday through Saturday for our GOTV Power Hours**, where you'll learn everything you need to know to reach out to your friends, family, and online communities and make sure they get out the vote! 🗳️ Sign up HERE: https://txt.democrats.org/GOTVHour 
+
+<:retweet:1278893511780864010> Check out our priority content from Reach to share HERE: https://share.kamalaharris.com/toolkit/Discord-2f08
+--------------------
+
+--- Message ---
+Message ID: 1297259569881546762
+Message Type: Default
+Reply to: None
+Timestamp: 2024-10-19T18:06:23.377+00:00
+Author: JenK – Mod (groovyduv)
+Author Id: 1283888134454644799
+Avatar URL: assets\83f797be21363d002a3c6654cb2b3bfa-BA19E.png
+Content: Wohoo! Early voting is finally in CT! Here’s info from our great SOS Stephanie Thomas—
+
+
+Early Voting is IN-PERSON voting
+It is available to every eligible voter
+No special arrangements need to be made to use early voting
+
+Voting begins Monday, Oct. 21 and ends Sunday, Nov. 3
+This includes two SATURDAYS and SUNDAYS
+
+Hours are 10am - 6pm all days except
+Oct. 29 & 31 which have extended hours of 8am - 8pm
+
+Every town has one location; Mansfield CT has two
+It is NOT your usual polling location
+
+See Early Voting link at MyVote.ct.gov for all details
+NOTE: Nothing has changed about Election Day at your usual polling place from 6am - 8pm
+--------------------
+
+--- Message ---
+Message ID: 1297295404676808704
+Message Type: Default
+Reply to: None
+Timestamp: 2024-10-19T20:28:47.058+00:00
+Author: Jack (KC) (jack.246012)
+Author Id: 1276396030375624789
+Avatar URL: assets\1b105b23ea580bad6169b556d3b7ebc4-4403D.png
+Content: Don’t forget about the no excuse absentee amendment!
+--------------------
+
+--- Message ---
+Message ID: 1297549572989517965
+Message Type: Default
+Reply to: None
+Timestamp: 2024-10-20T13:18:45.506+00:00
+Author: Marisa [Mod]/KC TextMod (marisa._74585)
+Author Id: 1268363112956952637
+Avatar URL: assets\20f3039f2fdd15bcbfa1e601c4cd2ace-ED69E.png
+Content: In celebration of Kamala's birthday lets trade candles for calls and gifts for gumption! We're trying to reach over 3 million voters today! Can you help?  Knock out some calls while you are drinking your morning coffee and still be out in time to hit up a pumpkin patch! Join the [5M Dial-a-thon](https://events.democrats.org/event/730026/) and help make history!
+--------------------
+
+--- Message ---
+Message ID: 1297696344122855516
+Message Type: Default
+Reply to: None
+Timestamp: 2024-10-20T23:01:58.471+00:00
+Author: Maggie • Community Mod (dramacrone)
+Author Id: 291311960417370112
+Avatar URL: assets\3526c602178143a48a9785cd02cc3110-F2E2E.png
+Content: **Courage is mastery of fear, not absence of fear.** Which [**Phone Bank with Team Harris-Walz**](https://events.democrats.org/event/725393/?utm_source=Discord&utm_medium=Posts&utm_campaign=Daily%20Engagement) are you signing up for right now?
+--------------------
+
+--- Message ---
+Message ID: 1297736428297650187
+Message Type: Default
+Reply to: None
+Timestamp: 2024-10-21T01:41:15.283+00:00
+Author: Sergio Godinez [HQ Staff] (sergiog_23)
+Author Id: 1284539093941878917
+Avatar URL: assets\ee799161042b479e8333da3e6691d0e8-CDB84.png
+Content: @here FOLKS, WE LOVE YA, AND YOUR DEDICATION TO THIS CAMPAIGN! WHAT IS OF IMMEDIATE HELP RIGHT NOW IS TO  HOP ON THE DIALER **RIGHT NOW** AND HELP US GET TO 5 MILLION CALLS!!! 
+
+WE ARE LESS THAN 600K AWAY FROM IT, AND WE CAN DO THIS, BUT WE NEED ***ALL OF YOU TO HELP US GET THERE!***
+
+HOP ON THE DIALER RIGHT NOW AND CALL SOME AWESOME WISCONSIN VOTERS: https://democrats.call.scaletowin.com/?t=f80c83d9-aa81-404c-9137-bbd269d6b1c7&ref=discord
+--------------------
+
+--- Message ---
+Message ID: 1297737555797868566
+Message Type: Default
+Reply to: None
+Timestamp: 2024-10-21T01:45:44.1+00:00
+Author: Jared • Lead Mod (kyaizen)
+Author Id: 112080668296564736
+Avatar URL: assets\a_de0e3d4a3f9b486ad3ad6df0d72323da-D0252.gif
+Content: <@&1245910222246121653> Please hop on if you can help! <a:arrowup:1279140196386082869> https://democrats.call.scaletowin.com/?t=f80c83d9-aa81-404c-9137-bbd269d6b1c7&ref=discord
+--------------------
+
+--- Message ---
+Message ID: 1297741026668318740
+Message Type: Default
+Reply to: None
+Timestamp: 2024-10-21T01:59:31.62+00:00
+Author: Jared • Lead Mod (kyaizen)
+Author Id: 112080668296564736
+Avatar URL: assets\a_de0e3d4a3f9b486ad3ad6df0d72323da-D0252.gif
+Content: NOW CALLING NV!! JOIN US! https://democrats.call.scaletowin.com/?t=09bd534e-841d-495f-b590-68e74150764e&ef=discord
+--------------------
+
+--- Message ---
+Message ID: 1297759646324494366
+Message Type: Default
+Reply to: None
+Timestamp: 2024-10-21T03:13:30.892+00:00
+Author: Madison • [Mod] (madison7026)
+Author Id: 285222833640964099
+Avatar URL: assets\b7edd4987cd7bc68ef619693665ed31d-33146.png
+Content: ## We're back! We're getting SO close to our goal of 5 million goals and have one more hour to call west coast voters - [please come join us](https://democrats.call.scaletowin.com/?t=09bd534e-841d-495f-b590-68e74150764e&ef=discord) to call NV voters! Even a few calls helps us reach our goal. 🤩
+--------------------
+
+--- Message ---
+Message ID: 1297936368735092908
+Message Type: Default
+Reply to: None
+Timestamp: 2024-10-21T14:55:44.798+00:00
+Author: Marisa [Mod]/KC TextMod (marisa._74585)
+Author Id: 1268363112956952637
+Avatar URL: assets\20f3039f2fdd15bcbfa1e601c4cd2ace-ED69E.png
+Content: Happy Monday!
+
+ We made almost 5 million calls this weekend to celebrate Kamala's birthday! 
+
+How did get involved?: 
+
+<:phone:1252803032346001479> Phone Bank Powerhouse
+<:text_heart1:1270612783796584541> Text Bank Warrior
+🚪 Steps-in Canvasser
+<:9364_blobpumpkin:1285344377065046047> Something different
+<:100:1252803350026653726> Didn't get on this weekend but will today! 
+
+
+We still need you all on the phones!!! We are on them too!! Join us!  [Phonebank with Team Harris-Walz ](https://events.democrats.org/event/725393/?utm_source=Discord&utm_medium=Posts&utm_campaign=Daily%20Engagement)today!! Will you join us?!  <:100:1252803350026653726>
+--------------------
+
+--- Message ---
+Message ID: 1297985682584764488
+Message Type: Default
+Reply to: None
+Timestamp: 2024-10-21T18:11:42.136+00:00
+Author: Jack (KC) (jack.246012)
+Author Id: 1276396030375624789
+Avatar URL: assets\1b105b23ea580bad6169b556d3b7ebc4-4403D.png
+Content: Hey friends, four years ago, we sent President Biden to the White House with one of the largest popular vote margins in history, thanks to support from all 50 states, blue and red alike. A bigger margin makes it harder for Trump and MAGA Republicans to challenge the election. The work we do in these last two weeks is crucial.
+
+Visit: https://iwillvote.com/
+Call: Democratic Voter Assistance Hotline (833-336-8683)
+
+Let's ensure Kamala Harris is elected!
+--------------------
+
+--- Message ---
+Message ID: 1298007355870679060
+Message Type: Default
+Reply to: None
+Timestamp: 2024-10-21T19:37:49.45+00:00
+Author: XHD (xhd_zyguyking)
+Author Id: 838229497060786236
+Avatar URL: assets\71bcb2b205c50c2054b1e126a5d11f60-61E9F.png
+Content: YOO conneticuit
+--------------------
+
+--- Message ---
+Message ID: 1298007363558576149
+Message Type: Default
+Reply to: None
+Timestamp: 2024-10-21T19:37:51.283+00:00
+Author: XHD (xhd_zyguyking)
+Author Id: 838229497060786236
+Avatar URL: assets\71bcb2b205c50c2054b1e126a5d11f60-61E9F.png
+Content: goated
+--------------------
+
+--- Message ---
+Message ID: 1298008800229589033
+Message Type: Default
+Reply to: None
+Timestamp: 2024-10-21T19:43:33.812+00:00
+Author: Rogue24 (rogue240933)
+Author Id: 1254167148457103405
+Avatar URL: assets\6c5996770c985bcd6e5b68131ff2ba04-12302.png
+Content: I just voted now guys after I finish work! Go vote now!
+--------------------
+
+--- Message ---
+Message ID: 1298016000779751577
+Message Type: Default
+Reply to: None
+Timestamp: 2024-10-21T20:12:10.557+00:00
+Author: Jessica Lillian [CT] (jesslill)
+Author Id: 893562576489828372
+Avatar URL: assets\b6fe7dcaec383399d401517c3a4f9837-B44A4.png
+Content: How have the early voting lines been? I've been stuck in work meetings most of the day but saw some pics on the news of long lines (which is exciting!!)
+--------------------
+
+--- Message ---
+Message ID: 1298028592697180210
+Message Type: Default
+Reply to: None
+Timestamp: 2024-10-21T21:02:12.704+00:00
+Author: Jack (KC) (jack.246012)
+Author Id: 1276396030375624789
+Avatar URL: assets\1b105b23ea580bad6169b556d3b7ebc4-4403D.png
+Content: Waiting 40 minutes in a long line at the local library to cast my ballot is something I will always remember.  Love you Conneticut.
+--------------------
+
+--- Message ---
+Message ID: 1298096315963674736
+Message Type: Default
+Reply to: None
+Timestamp: 2024-10-22T01:31:19.189+00:00
+Author: Matt (matchez312)
+Author Id: 870033314533220403
+Avatar URL: assets\804ae669ee776b0a0fb8e68ead26fa34-F5EAD.png
+Content: Thinking of early voting soon, but there's also something about voting ON election day
+--------------------
+
+--- Message ---
+Message ID: 1298380025753763900
+Message Type: Default
+Reply to: None
+Timestamp: 2024-10-22T20:18:40.874+00:00
+Author: Kassie - Mod (amirina9811)
+Author Id: 243492115739312128
+Avatar URL: assets\f19da0c0dea48063bce19dd27537a2fb-8587E.png
+Content: <@&1242265273055314051> Happy Tuesday! We need volunteers on our dialers NOW! Come give us 30 minutes or more of your time! 
+
+ We made almost 5 million calls this weekend to celebrate Kamala's birthday! 
+
+We still need you all on the phones!!! We are on them too!! Join us! [**Phone Banks with Team Harris-Walz for Warriors Who are Not Quitting**](https://events.democrats.org/event/725393/?utm_source=Discord&utm_medium=Posts&utm_campaign=Daily%20Engagement)
+--------------------
+
+--- Message ---
+Message ID: 1298414688547377195
+Message Type: Default
+Reply to: None
+Timestamp: 2024-10-22T22:36:25.128+00:00
+Author: Mags [CT] (mags_gg)
+Author Id: 71619115898384384
+Avatar URL: assets\4515dadc262257f16a2d98ab994abeb6-E4005.png
+Content: Hello CT. I will be voting tomorrow 🙂
+--------------------
+
+--- Message ---
+Message ID: 1298506546065444925
+Message Type: Default
+Reply to: None
+Timestamp: 2024-10-23T04:41:25.667+00:00
+Author: Jack (KC) (jack.246012)
+Author Id: 1276396030375624789
+Avatar URL: assets\1b105b23ea580bad6169b556d3b7ebc4-4403D.png
+Content: 56k early votes on day one.  So proud of my state
+--------------------
+
+--- Message ---
+Message ID: 1298727221799944264
+Message Type: Default
+Reply to: None
+Timestamp: 2024-10-23T19:18:18.862+00:00
+Author: Autumn S [AR]🤘• Lead Mod/OE Mod (meanderingstone6495)
+Author Id: 936622618293968958
+Avatar URL: assets\af45a372ba919e7bac10686b43e799f1-BDEE3.png
+Content: Got some free time on your hands? 
+
+MAKE SOME CALLS🙌 https://go.kamalaharris.com/calls/
+--------------------
+
+--- Message ---
+Message ID: 1298733350760091741
+Message Type: Default
+Reply to: None
+Timestamp: 2024-10-23T19:42:40.12+00:00
+Author: Mags [CT] (mags_gg)
+Author Id: 71619115898384384
+Avatar URL: assets\4515dadc262257f16a2d98ab994abeb6-E4005.png
+Content: DID THE THING
+--------------------
+
+--- Message ---
+Message ID: 1299071265876873256
+Message Type: Default
+Reply to: None
+Timestamp: 2024-10-24T18:05:25.362+00:00
+Author: Michele Tivey [Connecticut] (missstake_)
+Author Id: 661259135735824404
+Avatar URL: assets\5e4a5f0593b991ae146dc46b2a9920c3-79850.png
+Content: <:blueheart:1252803082849488956>
+--------------------
+
+--- Message ---
+Message ID: 1299071724154785793
+Message Type: Default
+Reply to: None
+Timestamp: 2024-10-24T18:07:14.624+00:00
+Author: Michele Tivey [Connecticut] (missstake_)
+Author Id: 661259135735824404
+Avatar URL: assets\5e4a5f0593b991ae146dc46b2a9920c3-79850.png
+Content: 💜
+--------------------
+
+--- Message ---
+Message ID: 1299071749958275152
+Message Type: Default
+Reply to: None
+Timestamp: 2024-10-24T18:07:20.776+00:00
+Author: Michele Tivey [Connecticut] (missstake_)
+Author Id: 661259135735824404
+Avatar URL: assets\5e4a5f0593b991ae146dc46b2a9920c3-79850.png
+Content: <:CT_callteam:1269422221651214468>
+--------------------
+
+--- Message ---
+Message ID: 1299071991914954812
+Message Type: Default
+Reply to: None
+Timestamp: 2024-10-24T18:08:18.463+00:00
+Author: Michele Tivey [Connecticut] (missstake_)
+Author Id: 661259135735824404
+Avatar URL: assets\5e4a5f0593b991ae146dc46b2a9920c3-79850.png
+Content: If there is enough interest we can organize our own bus to go and ask the campaign about attending. <:KamalaPoster:1269134616502206577>
+--------------------
+
+--- Message ---
+Message ID: 1299086611388305450
+Message Type: Default
+Reply to: None
+Timestamp: 2024-10-24T19:06:24.017+00:00
+Author: Autumn S [AR]🤘• Lead Mod/OE Mod (meanderingstone6495)
+Author Id: 936622618293968958
+Avatar URL: assets\af45a372ba919e7bac10686b43e799f1-BDEE3.png
+Content: 📞  You CAN sit with us -- check out our Twitch livestream and join us as we call voters across the country! <:happysun1:1270566006590541896> 
+
+<:twitch:1297444838249074729> Join the livestream here: https://www.twitch.tv/kamalaharris
+<:phone:1252803032346001479> Start making calls here: https://go.kamalaharris.com/calls/
+--------------------
+
+--- Message ---
+Message ID: 1300064776549826661
+Message Type: Default
+Reply to: None
+Timestamp: 2024-10-27T11:53:16.765+00:00
+Author: Autumn S [AR]🤘• Lead Mod/OE Mod (meanderingstone6495)
+Author Id: 936622618293968958
+Avatar URL: assets\af45a372ba919e7bac10686b43e799f1-BDEE3.png
+Content: HEY <@&1245910222246121653>👋
+
+Hope you all are having a great weekend! 🙌
+
+If you didn't join us yesterday... there is still time to call and boost voter turnout in your state💙
+
+Help us make history (herstory🙏)
+
+https://events.democrats.org/event/734916/?utm_source=Discord&utm_medium=Posts&utm_campaign=Daily%20Engagement
+--------------------
+
+--- Message ---
+Message ID: 1300270068545884271
+Message Type: Default
+Reply to: None
+Timestamp: 2024-10-28T01:29:02.191+00:00
+Author: Marisa [Mod]/KC TextMod (marisa._74585)
+Author Id: 1268363112956952637
+Avatar URL: assets\20f3039f2fdd15bcbfa1e601c4cd2ace-ED69E.png
+Content: Sunday Scaries got you down?! We have less than 2million calls left to make to hit our goal of [10 Million to Victory!  ](https://events.democrats.org/event/734916/?[utm_source=Discord&utm_medium=Posts&utm_campaign=Daily%20Engagement)Can you hop onto the Dialer and help us out?!
+--------------------
+
+--- Message ---
+Message ID: 1300479068466315274
+Message Type: Default
+Reply to: None
+Timestamp: 2024-10-28T15:19:31.655+00:00
+Author: Rebecca (CT) (rebeccamiller12)
+Author Id: 1296461685216772170
+Avatar URL: assets\baca018b30429989e09333db36b9719d-8F4D1.png
+Content: Anyone in CT want to join me making calls for Kamala?
+--------------------
+
+--- Message ---
+Message ID: 1300576007656570980
+Message Type: Default
+Reply to: None
+Timestamp: 2024-10-28T21:44:43.759+00:00
+Author: Jared • Lead Mod (kyaizen)
+Author Id: 112080668296564736
+Avatar URL: assets\a_de0e3d4a3f9b486ad3ad6df0d72323da-D0252.gif
+Content: HI <@&1245910222246121653> 
+# <:80s:1300476405079080980>  80,000 calls for 80's Week!  <:80s:1300476405079080980> 
+
+## 🌟  Let's do this, Discorders! [Jump on the dialer anytime it's open and get those dials IN!](https://go.kamalaharris.com/dial/national?ref=natl_dis_host_discordveveryoneelse) Help us hit our goal and elect Kamala Harris! 🌟 
+
+All week, also be on the lookout for:
+- special live events on The Stage  🎤 
+- fun messages, videos, and memes <:eyes:1252803301137842251> 
+- updates on our goal! 📈 
+
+## <:celebrate:1252803817095958548>  Let's get those dials in so we can [party like it's 1999](https://youtu.be/rblt2EtFfC4?si=TAExS7rBb9SZs9A7) [!](https://cdn.discordapp.com/attachments/1265762143559618624/1300548748488867850/Screenshot_2024-10-28_at_1.05.08_PM.png?ex=67213de8&is=671fec68&hm=3757f1b42488f5d6bf35f5400ea9b3be6bc9fedc024c7ca8e4b6b1e79a90c617&) <:celebrate:1252803817095958548>
+--------------------

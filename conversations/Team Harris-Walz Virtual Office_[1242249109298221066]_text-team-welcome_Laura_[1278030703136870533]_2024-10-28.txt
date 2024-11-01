@@ -1,0 +1,27 @@
+Guild: Team Harris-Walz Virtual Office (ID: 1242249109298221066)
+Channel: Laura (ID: 1278030703136870533)
+Channel Topic: None
+Exported At: 2024-10-28T23:59:42.3514426+00:00
+
+
+--- Message ---
+Message ID: 1278031401933082636
+Message Type: 21
+Reply to: 1278030703136870533
+Timestamp: 2024-08-27T16:40:30.896+00:00
+Author: Nicole Morris - Text Admin (nmorris237)
+Author Id: 935762347753103382
+Avatar URL: assets\27b1e286b65ae02b3378793b5f098411-A7B20.png
+Content: 
+--------------------
+
+--- Message ---
+Message ID: 1278031404080431105
+Message Type: Default
+Reply to: None
+Timestamp: 2024-08-27T16:40:31.408+00:00
+Author: Nicole Morris - Text Admin (nmorris237)
+Author Id: 935762347753103382
+Avatar URL: assets\27b1e286b65ae02b3378793b5f098411-A7B20.png
+Content: Hey Laura! Sounds good - thanks! Did you fill out the form posted on Slack?
+--------------------

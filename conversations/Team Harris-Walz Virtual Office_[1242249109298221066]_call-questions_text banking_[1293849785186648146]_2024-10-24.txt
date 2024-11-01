@@ -1,0 +1,33 @@
+Guild: Team Harris-Walz Virtual Office (ID: 1242249109298221066)
+Channel: text banking (ID: 1293849785186648146)
+Channel Topic: None
+Exported At: 2024-10-24T12:46:16.3809341+00:00
+
+
+--- Message ---
+Message ID: 1293849785186648146
+Message Type: Default
+Reply to: None
+Timestamp: 2024-10-10T08:17:07.355+00:00
+Author: kalanikupua (kalanikupua)
+Author Id: 286796909727711233
+Avatar URL: assets\4-4551A.png
+Content: Is there a link for people to sign up for text banking?  I have multiple people interested in this
+--------------------
+
+--- Message ---
+Message ID: 1293921655512633344
+Message Type: Default
+Reply to: None
+Timestamp: 2024-10-10T13:02:42.576+00:00
+Author: Gail Levine CA (CALL Mod D.C.) (gail_13473)
+Author Id: 1266903886434799708
+Avatar URL: assets\9a73536ac815ab8b7516ce92a4c36681-C7CBF.png
+Content: Here's a link to several text banking events.  https://events.democrats.org/?event_type=3
+Mobilize
+Join an event near you! · The Democratic National Committee on Mobi...
+Find events, petitions, volunteer opportunities, fundraisers and more with The Democratic National Committee.
+
+[5:07 AM]
+I'd also suggest going to the ⁠text-team-welcome channel to get more information about how to get involved with texting.  We are concentrated on phone banking on this channel.  Glad you want to participate!
+--------------------

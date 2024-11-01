@@ -1,0 +1,38 @@
+Guild: Team Harris-Walz Virtual Office (ID: 1242249109298221066)
+Channel: Thanks @Vicki_Weber ! My schedule is (ID: 1285626925393383587)
+Channel Topic: None
+Exported At: 2024-10-24T06:15:18.049511+00:00
+
+
+--- Message ---
+Message ID: 1285628686883749999
+Message Type: 21
+Reply to: 1285626925393383587
+Timestamp: 2024-09-17T15:49:24.779+00:00
+Author: Vicki W [OH] • KC Text Mod (vicki_weber_00792)
+Author Id: 1277751221180043295
+Avatar URL: assets\e7d693bc5005a2ee5bed77a886fed37e-49C5D.png
+Content: 
+--------------------
+
+--- Message ---
+Message ID: 1285628688595030107
+Message Type: Default
+Reply to: None
+Timestamp: 2024-09-17T15:49:25.187+00:00
+Author: Vicki W [OH] • KC Text Mod (vicki_weber_00792)
+Author Id: 1277751221180043295
+Avatar URL: assets\e7d693bc5005a2ee5bed77a886fed37e-49C5D.png
+Content: That's awesome that you're doing the anytime calls training, Dylan! It looks like you're signed up for Twitter Community Notes. For more flexible opportunities, I recommend you take a look at <#1260651617867399188> .
+--------------------
+
+--- Message ---
+Message ID: 1285630887995772930
+Message Type: Default
+Reply to: None
+Timestamp: 2024-09-17T15:58:09.565+00:00
+Author: Depiceisright (depiceisright_67284)
+Author Id: 1177413695027019867
+Avatar URL: assets\5445ffd7ffb201a98393cbdf684ea4b1-027E8.png
+Content: Awesome, thank you!!
+--------------------

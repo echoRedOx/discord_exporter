@@ -1,0 +1,27 @@
+Guild: Team Harris-Walz Virtual Office (ID: 1242249109298221066)
+Channel: Talked to a Harris supporter who hasn't decided how to vote yet (ID: 1298465259656445983)
+Channel Topic: None
+Exported At: 2024-10-28T20:45:09.1153618+00:00
+
+
+--- Message ---
+Message ID: 1298465259656445983
+Message Type: Default
+Reply to: None
+Timestamp: 2024-10-23T01:57:22.22+00:00
+Author: Kelly Walker CA10 (kelly_4032)
+Author Id: 728671927694131351
+Avatar URL: assets\62de37a96f6f1d25cd346725b5b6666f-20EFE.png
+Content: I just ended the survey at that point. Or should I have chosen one of the Vote Plan options?
+--------------------
+
+--- Message ---
+Message ID: 1298466017369915424
+Message Type: Default
+Reply to: None
+Timestamp: 2024-10-23T02:00:22.873+00:00
+Author: Holly Mate-Luber [Call Mod] (hollymateluber)
+Author Id: 1267643778043482122
+Avatar URL: assets\d1341d3c05d207da49a6fa548b4c1086-4BE71.png
+Content: Hi Kelly! You were correct to not choose one of the options on the survey. This person will most certainly be getting a followup call to make sure they make that voting plan! If you get another one of these, definitely give them the info (verbally) on the righthand side of the script page about voting dates, polling hours, deadlines, along with the voter hotline number and iwillvote.com/nv so they have all the resources available to decide how they want to cast their ballot!
+--------------------

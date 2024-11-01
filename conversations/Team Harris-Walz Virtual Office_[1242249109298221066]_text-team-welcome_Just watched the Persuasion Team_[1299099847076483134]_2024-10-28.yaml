@@ -1,0 +1,78 @@
+- author_avatar_url: assets\df6d19d97b04a49ffcafbe7be14c7839-D9CE4.png
+  author_id: '1269872908759597148'
+  author_name: roberta_24935
+  author_nickname: Roberta Bavin CA KC Greeter/Mod
+  content: ''
+  id: '1299104262516772989'
+  ref_to: '1299099847076483134'
+  timestamp: '2024-10-24T20:16:32.374+00:00'
+  type: '21'
+- author_avatar_url: assets\df6d19d97b04a49ffcafbe7be14c7839-D9CE4.png
+  author_id: '1269872908759597148'
+  author_name: roberta_24935
+  author_nickname: Roberta Bavin CA KC Greeter/Mod
+  content: Hi <@1298429543622901773> Please post this in the Persuasion Texting channel.
+    They can help you the best. Thanks for your work!
+  id: '1299104266451157123'
+  ref_to: null
+  timestamp: '2024-10-24T20:16:33.312+00:00'
+  type: Default
+- author_avatar_url: assets\f229a074b05e4df143d48864fe3834b4-16B88.png
+  author_id: '1064644535721939095'
+  author_name: mcslambley
+  author_nickname: Jake
+  content: To clarify, is that the <#1298623273566732300> channel?
+  id: '1299108254546264135'
+  ref_to: null
+  timestamp: '2024-10-24T20:32:24.148+00:00'
+  type: Default
+- author_avatar_url: assets\4-4551A.png
+  author_id: '1298429543622901773'
+  author_name: hahahabig.
+  author_nickname: HaHaHabig
+  content: I don't have access to message on that channel
+  id: '1299108792121954377'
+  ref_to: null
+  timestamp: '2024-10-24T20:34:32.316+00:00'
+  type: Default
+- author_avatar_url: assets\df6d19d97b04a49ffcafbe7be14c7839-D9CE4.png
+  author_id: '1269872908759597148'
+  author_name: roberta_24935
+  author_nickname: Roberta Bavin CA KC Greeter/Mod
+  content: Please go to channels and roles, then browse, then turn on the persuasion
+    channel. See if that helps. Thanks
+  id: '1299110130801049640'
+  ref_to: '1299108792121954377'
+  timestamp: '2024-10-24T20:39:51.482+00:00'
+  type: Reply
+- author_avatar_url: assets\4-4551A.png
+  author_id: '1298429543622901773'
+  author_name: hahahabig.
+  author_nickname: HaHaHabig
+  content: Channel is turned on.  I'm either missing something super simple, or don't
+    have an invite code because I watched a recorded training instead of signing up
+    for the live zoom.
+  id: '1299114162747736094'
+  ref_to: null
+  timestamp: '2024-10-24T20:55:52.773+00:00'
+  type: Default
+- author_avatar_url: assets\df6d19d97b04a49ffcafbe7be14c7839-D9CE4.png
+  author_id: '1269872908759597148'
+  author_name: roberta_24935
+  author_nickname: Roberta Bavin CA KC Greeter/Mod
+  content: Since I'm not a Mod/Greeter for Persuasion team, I have no idea how to
+    help you. Was there any information where you got the training links regarding
+    where to reply after?
+  id: '1299114582417346661'
+  ref_to: '1299114162747736094'
+  timestamp: '2024-10-24T20:57:32.83+00:00'
+  type: Reply
+- author_avatar_url: assets\4-4551A.png
+  author_id: '1298429543622901773'
+  author_name: hahahabig.
+  author_nickname: HaHaHabig
+  content: I'm going to complete the quiz then see what else happens.
+  id: '1299115073318424648'
+  ref_to: null
+  timestamp: '2024-10-24T20:59:29.87+00:00'
+  type: Default

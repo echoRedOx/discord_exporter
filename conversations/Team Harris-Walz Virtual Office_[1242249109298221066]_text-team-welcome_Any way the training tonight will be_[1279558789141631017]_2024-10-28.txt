@@ -1,0 +1,71 @@
+Guild: Team Harris-Walz Virtual Office (ID: 1242249109298221066)
+Channel: Any way the training tonight will be (ID: 1279558789141631017)
+Channel Topic: None
+Exported At: 2024-10-28T23:45:24.4864009+00:00
+
+
+--- Message ---
+Message ID: 1279562334221631558
+Message Type: 21
+Reply to: 1279558789141631017
+Timestamp: 2024-08-31T22:03:53.597+00:00
+Author: Kris Morrell (CA) - KC TextAdmin (kcmpolitical)
+Author Id: 1254144571089354868
+Avatar URL: assets\f7ebcd4727f2b8e05b4382b1b1eb6d74-1D9FE.png
+Content: 
+--------------------
+
+--- Message ---
+Message ID: 1279562335631179869
+Message Type: Default
+Reply to: None
+Timestamp: 2024-08-31T22:03:53.933+00:00
+Author: Kris Morrell (CA) - KC TextAdmin (kcmpolitical)
+Author Id: 1254144571089354868
+Avatar URL: assets\f7ebcd4727f2b8e05b4382b1b1eb6d74-1D9FE.png
+Content: I hope you are on the training! It won't be recorded and shared, sorry.
+--------------------
+
+--- Message ---
+Message ID: 1279562408381251789
+Message Type: Default
+Reply to: None
+Timestamp: 2024-08-31T22:04:11.278+00:00
+Author: Kris Morrell (CA) - KC TextAdmin (kcmpolitical)
+Author Id: 1254144571089354868
+Avatar URL: assets\f7ebcd4727f2b8e05b4382b1b1eb6d74-1D9FE.png
+Content: sympathy about the toddler!
+--------------------
+
+--- Message ---
+Message ID: 1279569110157496320
+Message Type: Default
+Reply to: None
+Timestamp: 2024-08-31T22:30:49.106+00:00
+Author: Ryan White [NJ] (ryangwhite)
+Author Id: 1277374421736357969
+Avatar URL: assets\6c5996770c985bcd6e5b68131ff2ba04-D7E79.png
+Content: Thanks was on it but it signed me out around 620 and then wouldn't let me back in! Any way they'll email the links to the forms or should I sign up for another?
+--------------------
+
+--- Message ---
+Message ID: 1279569376067981464
+Message Type: Default
+Reply to: None
+Timestamp: 2024-08-31T22:31:52.504+00:00
+Author: Kris Morrell (CA) - KC TextAdmin (kcmpolitical)
+Author Id: 1254144571089354868
+Avatar URL: assets\f7ebcd4727f2b8e05b4382b1b1eb6d74-1D9FE.png
+Content: They don't email the links, so best to sign up for another, sorry! I'm not sure if I'll be able to get through to let them know that you are waiting to be let on, but I can try.
+--------------------
+
+--- Message ---
+Message ID: 1279571452646916229
+Message Type: Default
+Reply to: None
+Timestamp: 2024-08-31T22:40:07.599+00:00
+Author: Kris Morrell (CA) - KC TextAdmin (kcmpolitical)
+Author Id: 1254144571089354868
+Avatar URL: assets\f7ebcd4727f2b8e05b4382b1b1eb6d74-1D9FE.png
+Content: I let the co-host know
+--------------------

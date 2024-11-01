@@ -1,0 +1,46 @@
+- author_avatar_url: assets\df6d19d97b04a49ffcafbe7be14c7839-D9CE4.png
+  author_id: '1269872908759597148'
+  author_name: roberta_24935
+  author_nickname: Roberta Bavin CA KC Greeter/Mod
+  content: ''
+  id: '1291518671855816766'
+  ref_to: '1291516569620447303'
+  timestamp: '2024-10-03T21:54:06.627+00:00'
+  type: '21'
+- author_avatar_url: assets\df6d19d97b04a49ffcafbe7be14c7839-D9CE4.png
+  author_id: '1269872908759597148'
+  author_name: roberta_24935
+  author_nickname: Roberta Bavin CA KC Greeter/Mod
+  content: Hi Alex! Thanks for reaching out, how can we help you?
+  id: '1291518673265360917'
+  ref_to: null
+  timestamp: '2024-10-03T21:54:06.963+00:00'
+  type: Default
+- author_avatar_url: assets\d7bac5c242b9f33cf665939fc2cda181-A666E.png
+  author_id: '1013563708607320145'
+  author_name: guccigurl1017
+  author_nickname: Alex Bourgeois
+  content: I passed the onboarding test to text messages. What's the next step? Thanks
+  id: '1291518964530286704'
+  ref_to: null
+  timestamp: '2024-10-03T21:55:16.406+00:00'
+  type: Default
+- author_avatar_url: assets\df6d19d97b04a49ffcafbe7be14c7839-D9CE4.png
+  author_id: '1269872908759597148'
+  author_name: roberta_24935
+  author_nickname: Roberta Bavin CA KC Greeter/Mod
+  content: I'll send you a DM.... please look for that upper left corner of Discord,
+    game controller icon. Thanks!
+  id: '1291519129823477783'
+  ref_to: '1291518964530286704'
+  timestamp: '2024-10-03T21:55:55.815+00:00'
+  type: Reply
+- author_avatar_url: assets\d7bac5c242b9f33cf665939fc2cda181-A666E.png
+  author_id: '1013563708607320145'
+  author_name: guccigurl1017
+  author_nickname: Alex Bourgeois
+  content: Also, I live in NC
+  id: '1291519316910538895'
+  ref_to: null
+  timestamp: '2024-10-03T21:56:40.42+00:00'
+  type: Default

@@ -1,0 +1,60 @@
+Guild: Team Harris-Walz Virtual Office (ID: 1242249109298221066)
+Channel: #help @threads and @bluesky Discord Communities (ID: 1293407916451430451)
+Channel Topic: None
+Exported At: 2024-10-28T19:54:51.3087986+00:00
+
+
+--- Message ---
+Message ID: 1293407916451430451
+Message Type: Default
+Reply to: None
+Timestamp: 2024-10-09T03:01:17.639+00:00
+Author: Joy DuVivre (joyduvivre)
+Author Id: 1036829151451156531
+Avatar URL: assets\306c8f61465b5920b038e3d6738d9562-E31D0.png
+Content: I need some help. Does this server have communities for the social media apps @threads, @bluesky and has we are here @lemmon8, @snapchat and @tumblr?
+--------------------
+
+--- Message ---
+Message ID: 1293411550933155861
+Message Type: Default
+Reply to: None
+Timestamp: 2024-10-09T03:15:44.167+00:00
+Author: Jay E  (TX)  OE Mod (jayrio76)
+Author Id: 782870341445353522
+Avatar URL: assets\41ef520387924aa4413513eda28784df-34D82.png
+Content: <@1036829151451156531> - I know the OE teams of <@1280619651029798924> and <@1278006810552434826> are working to expand our outreach. We do not have those channels within this Discord yet. They may be aware of grassroots groups that have been started by OE team members. I am working on one group for threads. This should be a topic for the next OE office hours, but those are paused right now, so I will include the link to our weekly briefing next Tues.  I will find out before then though. https://events.democrats.org/event/616415/
+--------------------
+
+--- Message ---
+Message ID: 1293427621056741478
+Message Type: Reply
+Reply to: 1293411550933155861
+Timestamp: 2024-10-09T04:19:35.583+00:00
+Author: Joy DuVivre (joyduvivre)
+Author Id: 1036829151451156531
+Avatar URL: assets\306c8f61465b5920b038e3d6738d9562-E31D0.png
+Content: Thank you 🙇🏽! I'm doing online engagement on those platforms as well using the Reddit and Twitter formats.
+--------------------
+
+--- Message ---
+Message ID: 1293560681911816245
+Message Type: Default
+Reply to: None
+Timestamp: 2024-10-09T13:08:19.763+00:00
+Author: Cathy V (cathyv_13836)
+Author Id: 1290472047415398491
+Avatar URL: assets\5-E9BDB.png
+Content: <@1036829151451156531> I've been copying and pasting to those sites.
+--------------------
+
+--- Message ---
+Message ID: 1293572369587376212
+Message Type: Reply
+Reply to: 1293427621056741478
+Timestamp: 2024-10-09T13:54:46.322+00:00
+Author: Gabrielle Lynn [HFP Staff] (gabriellelynn_4444)
+Author Id: 1280619651029798924
+Avatar URL: assets\240de4e960e8591f3136c93fbf92c244-59538.png
+Content: I'm so glad you're aleady volunteering on those platforms! Echoing Jay, right now we don't have specific channels for those platforms, but we're definitely taking the feedback to see how we can continue to expand engagement across social media <:happysun1:1270566006590541896>  In the meantime, I love <@1290472047415398491> idea to copy and paste posts from Instagram, Facebook, TikTok, Twitter, and/or Reddit channels to those platforms!
+--------------------

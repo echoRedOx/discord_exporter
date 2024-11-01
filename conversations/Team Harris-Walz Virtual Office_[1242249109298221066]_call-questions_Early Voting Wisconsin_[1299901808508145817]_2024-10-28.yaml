@@ -1,0 +1,39 @@
+- author_avatar_url: assets\08dc16d76c4c9f25673a23f3b03638fe-F6F32.png
+  author_id: '691836316706406440'
+  author_name: geeves23
+  author_nickname: Gaurav
+  content: I don't see an option for already voted. What should I mark down?
+  id: '1299901808508145817'
+  ref_to: null
+  timestamp: '2024-10-27T01:05:42.156+00:00'
+  type: Default
+- author_avatar_url: assets\d91f2745c5a60026d6f81161ae61335f-53ED9.png
+  author_id: '937887742262673429'
+  author_name: epowers7
+  author_nickname: Emily Powers (CO) [Call MOD]
+  content: If you don't know who they voted for you can mark it refused. If they voted
+    Harris you can mark strong Harris and skip sending a text with voting info
+  id: '1299902082215710726'
+  ref_to: null
+  timestamp: '2024-10-27T01:06:47.413+00:00'
+  type: Default
+- author_avatar_url: assets\08dc16d76c4c9f25673a23f3b03638fe-F6F32.png
+  author_id: '691836316706406440'
+  author_name: geeves23
+  author_nickname: Gaurav
+  content: Gotcha ok thank you! The person I spoke to voted dem down ballot so was
+    good to hear!
+  id: '1299902183902547988'
+  ref_to: null
+  timestamp: '2024-10-27T01:07:11.657+00:00'
+  type: Default
+- author_avatar_url: assets\d91f2745c5a60026d6f81161ae61335f-53ED9.png
+  author_id: '937887742262673429'
+  author_name: epowers7
+  author_nickname: Emily Powers (CO) [Call MOD]
+  content: Awesome! Love to hear it! Thank you for being here and making calls with
+    us! <a:bluewave2:1269005280834752542> <:blueheart:1252803082849488956>
+  id: '1299902375510675456'
+  ref_to: '1299902183902547988'
+  timestamp: '2024-10-27T01:07:57.34+00:00'
+  type: Reply

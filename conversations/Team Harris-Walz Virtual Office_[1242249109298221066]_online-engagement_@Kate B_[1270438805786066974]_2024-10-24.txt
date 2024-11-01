@@ -1,0 +1,38 @@
+Guild: Team Harris-Walz Virtual Office (ID: 1242249109298221066)
+Channel: @Kate B. (ID: 1270438805786066974)
+Channel Topic: None
+Exported At: 2024-10-24T13:14:33.4523329+00:00
+
+
+--- Message ---
+Message ID: 1270439685285609532
+Message Type: 21
+Reply to: 1270438805786066974
+Timestamp: 2024-08-06T17:53:44.6+00:00
+Author: Marta Richenburg (martarichenburg_59797)
+Author Id: 1260983976483356767
+Avatar URL: assets\a57efb34b9ef35ed7f644aca5ab803aa-F2CBD.png
+Content: 
+--------------------
+
+--- Message ---
+Message ID: 1270439686145577147
+Message Type: Default
+Reply to: None
+Timestamp: 2024-08-06T17:53:44.805+00:00
+Author: Marta Richenburg (martarichenburg_59797)
+Author Id: 1260983976483356767
+Avatar URL: assets\a57efb34b9ef35ed7f644aca5ab803aa-F2CBD.png
+Content: Hi Kathy! What events are you looking for?
+--------------------
+
+--- Message ---
+Message ID: 1270439861526073457
+Message Type: Default
+Reply to: None
+Timestamp: 2024-08-06T17:54:26.619+00:00
+Author: Marta Richenburg (martarichenburg_59797)
+Author Id: 1260983976483356767
+Avatar URL: assets\a57efb34b9ef35ed7f644aca5ab803aa-F2CBD.png
+Content: And what posts are you referring to? That way we can update them!
+--------------------

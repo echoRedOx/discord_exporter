@@ -1,0 +1,27 @@
+Guild: Team Harris-Walz Virtual Office (ID: 1242249109298221066)
+Channel: Spanish q (ID: 1300196380597424248)
+Channel Topic: None
+Exported At: 2024-10-28T20:40:49.549059+00:00
+
+
+--- Message ---
+Message ID: 1300196380597424248
+Message Type: Default
+Reply to: None
+Timestamp: 2024-10-27T20:36:13.615+00:00
+Author: Blair (blair_47289)
+Author Id: 1300177041672638485
+Avatar URL: assets\2-ADBB4.png
+Content: Hi all, if we had a successful conversation in spanish but also want to mark the voter as such for any future calls - is there a way to do both of those things? I was able to confirm that they are voting for Harris. Seemed so based on searches here but wanted to check. Thank you!
+--------------------
+
+--- Message ---
+Message ID: 1300197069184827413
+Message Type: Reply
+Reply to: 1300196380597424248
+Timestamp: 2024-10-27T20:38:57.787+00:00
+Author: Larry Ahlgrim (VA) [Call Mod] (larrya._98544)
+Author Id: 1266903666879627274
+Avatar URL: assets\5fde485e55d806d8356ca6e7e08f1f48-77A19.png
+Content: Since the call was successful just mark it that way and in the future if he gets a call from someone who doesnt speak spanish then it can be marked that way
+--------------------

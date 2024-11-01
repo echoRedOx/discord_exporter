@@ -1,0 +1,60 @@
+- author_avatar_url: assets\791c521e62160be1f3df04992f6e5470-36A38.png
+  author_id: '477560366432256000'
+  author_name: jjoannid
+  author_nickname: Jack Joannides KC text admin
+  content: ''
+  id: '1288606799271952445'
+  ref_to: '1288606476511740026'
+  timestamp: '2024-09-25T21:03:22.103+00:00'
+  type: '21'
+- author_avatar_url: assets\791c521e62160be1f3df04992f6e5470-36A38.png
+  author_id: '477560366432256000'
+  author_name: jjoannid
+  author_nickname: Jack Joannides KC text admin
+  content: Can you ask this in <#1267941954243526756>
+  id: '1288606800697884762'
+  ref_to: null
+  timestamp: '2024-09-25T21:03:22.443+00:00'
+  type: Default
+- author_avatar_url: assets\782120b99b9615de21a1a3a54e3e5a27-C2730.png
+  author_id: '1281266549226864807'
+  author_name: emery_95906
+  author_nickname: emery_95906
+  content: Is there "GO Vote" graphics available to post on my family & friends FaceBook
+    channels?
+  id: '1288607008018272309'
+  ref_to: null
+  timestamp: '2024-09-25T21:04:11.872+00:00'
+  type: Default
+- author_avatar_url: assets\791c521e62160be1f3df04992f6e5470-36A38.png
+  author_id: '477560366432256000'
+  author_name: jjoannid
+  author_nickname: Jack Joannides KC text admin
+  content: I just asked in another channel. Another mod will reach out back to you
+    here.
+  id: '1288607344128688170'
+  ref_to: null
+  timestamp: '2024-09-25T21:05:32.007+00:00'
+  type: Default
+- author_avatar_url: assets\a_de0e3d4a3f9b486ad3ad6df0d72323da-D0252.gif
+  author_id: '112080668296564736'
+  author_name: kyaizen
+  author_nickname: "Jared R [CO] \u2022 Lead Mod"
+  content: You might find what you're looking for in <#1250876565366243348> or by
+    searching in the Reach app. <#1242256950402744431>
+  id: '1288608055369662556'
+  ref_to: '1288607008018272309'
+  timestamp: '2024-09-25T21:08:21.58+00:00'
+  type: Reply
+- author_avatar_url: assets\28a90c77b5793d80eb62484a43c66748-D8837.png
+  author_id: '568257600228032512'
+  author_name: carb.on
+  author_nickname: "Carolyn B [CA] \u2022 Lead Mod"
+  content: Hi <@1281266549226864807> after you download the Reach app, you will tap
+    on Library, and then put "go vote" in the search box. you will see a screen like
+    the picture I put here. If you put "vote" in the search box there will be more
+    choices.
+  id: '1288610273175015425'
+  ref_to: null
+  timestamp: '2024-09-25T21:17:10.346+00:00'
+  type: Default

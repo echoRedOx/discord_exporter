@@ -1,0 +1,38 @@
+Guild: Team Harris-Walz Virtual Office (ID: 1242249109298221066)
+Channel: Hi! I completed the text training on (ID: 1276768234925723700)
+Channel Topic: None
+Exported At: 2024-10-29T00:08:58.4731254+00:00
+
+
+--- Message ---
+Message ID: 1276901007229587466
+Message Type: 21
+Reply to: 1276768234925723700
+Timestamp: 2024-08-24T13:48:43.797+00:00
+Author: Nicole Morris - Text Admin (nmorris237)
+Author Id: 935762347753103382
+Avatar URL: assets\27b1e286b65ae02b3378793b5f098411-A7B20.png
+Content: 
+--------------------
+
+--- Message ---
+Message ID: 1276901009922195457
+Message Type: Default
+Reply to: None
+Timestamp: 2024-08-24T13:48:44.439+00:00
+Author: Nicole Morris - Text Admin (nmorris237)
+Author Id: 935762347753103382
+Avatar URL: assets\27b1e286b65ae02b3378793b5f098411-A7B20.png
+Content: Hi <@1268699313555509452> Thanks! I sent you a Direct Message on Discord two days ago to complete the onboarding process. Please let me know if you don't see it!
+--------------------
+
+--- Message ---
+Message ID: 1276901037827162233
+Message Type: Default
+Reply to: None
+Timestamp: 2024-08-24T13:48:51.092+00:00
+Author: Nicole Morris - Text Admin (nmorris237)
+Author Id: 935762347753103382
+Avatar URL: assets\27b1e286b65ae02b3378793b5f098411-A7B20.png
+Content: Should be here
+--------------------

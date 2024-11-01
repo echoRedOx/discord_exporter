@@ -1,0 +1,27 @@
+Guild: Team Harris-Walz Virtual Office (ID: 1242249109298221066)
+Channel: Hi there! I don't know where to get (ID: 1280327358930227270)
+Channel Topic: None
+Exported At: 2024-10-28T23:40:22.9007942+00:00
+
+
+--- Message ---
+Message ID: 1280348389187522582
+Message Type: 21
+Reply to: 1280327358930227270
+Timestamp: 2024-09-03T02:07:23.705+00:00
+Author: Nicole Morris - Text Admin (nmorris237)
+Author Id: 935762347753103382
+Avatar URL: assets\27b1e286b65ae02b3378793b5f098411-A7B20.png
+Content: 
+--------------------
+
+--- Message ---
+Message ID: 1280348390508593182
+Message Type: Default
+Reply to: None
+Timestamp: 2024-09-03T02:07:24.02+00:00
+Author: Nicole Morris - Text Admin (nmorris237)
+Author Id: 935762347753103382
+Avatar URL: assets\27b1e286b65ae02b3378793b5f098411-A7B20.png
+Content: Hi <@425089184663863306> Thanks! You can sign up for the training at https://events.democrats.org/event/672393/
+--------------------

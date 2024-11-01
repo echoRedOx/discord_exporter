@@ -1,0 +1,82 @@
+- author_avatar_url: assets\791c521e62160be1f3df04992f6e5470-36A38.png
+  author_id: '477560366432256000'
+  author_name: jjoannid
+  author_nickname: Jack Joannides KC text admin
+  content: ''
+  id: '1284003090789306430'
+  ref_to: '1284002052422504540'
+  timestamp: '2024-09-13T04:09:52.468+00:00'
+  type: '21'
+- author_avatar_url: assets\791c521e62160be1f3df04992f6e5470-36A38.png
+  author_id: '477560366432256000'
+  author_name: jjoannid
+  author_nickname: Jack Joannides KC text admin
+  content: Can you update your display name. We only see an emoji.
+  id: '1284003092521811989'
+  ref_to: null
+  timestamp: '2024-09-13T04:09:52.881+00:00'
+  type: Default
+- author_avatar_url: assets\8569adcbd36c70a7578c017bf5604ea5-05CA3.png
+  author_id: '1283914546846634095'
+  author_name: slhelsel
+  author_nickname: Stephanie Helsel (CO)
+  content: I have already
+  id: '1284224809819045941'
+  ref_to: null
+  timestamp: '2024-09-13T18:50:54.404+00:00'
+  type: Default
+- author_avatar_url: assets\8569adcbd36c70a7578c017bf5604ea5-05CA3.png
+  author_id: '1283914546846634095'
+  author_name: slhelsel
+  author_nickname: Stephanie Helsel (CO)
+  content: "Please send link to text training quiz. I\u2019ve done the training yesterday\
+    \ but don\u2019t have quiz link"
+  id: '1284225055089496196'
+  ref_to: null
+  timestamp: '2024-09-13T18:51:52.881+00:00'
+  type: Default
+- author_avatar_url: assets\791c521e62160be1f3df04992f6e5470-36A38.png
+  author_id: '477560366432256000'
+  author_name: jjoannid
+  author_nickname: Jack Joannides KC text admin
+  content: "We\u2019ll do that when we start the process to onboard you."
+  id: '1284225203534299168'
+  ref_to: null
+  timestamp: '2024-09-13T18:52:28.273+00:00'
+  type: Default
+- author_avatar_url: assets\8569adcbd36c70a7578c017bf5604ea5-05CA3.png
+  author_id: '1283914546846634095'
+  author_name: slhelsel
+  author_nickname: Stephanie Helsel (CO)
+  content: "Oh ok. But I thought I couldn\u2019t be onboarded until I did that quiz."
+  id: '1284225415636062269'
+  ref_to: null
+  timestamp: '2024-09-13T18:53:18.842+00:00'
+  type: Default
+- author_avatar_url: assets\791c521e62160be1f3df04992f6e5470-36A38.png
+  author_id: '477560366432256000'
+  author_name: jjoannid
+  author_nickname: Jack Joannides KC text admin
+  content: Nvm
+  id: '1284225517360513064'
+  ref_to: null
+  timestamp: '2024-09-13T18:53:43.095+00:00'
+  type: Default
+- author_avatar_url: assets\791c521e62160be1f3df04992f6e5470-36A38.png
+  author_id: '477560366432256000'
+  author_name: jjoannid
+  author_nickname: Jack Joannides KC text admin
+  content: Technically but I can help you after I do some personal stuff.
+  id: '1284225617558114457'
+  ref_to: null
+  timestamp: '2024-09-13T18:54:06.984+00:00'
+  type: Default
+- author_avatar_url: assets\8569adcbd36c70a7578c017bf5604ea5-05CA3.png
+  author_id: '1283914546846634095'
+  author_name: slhelsel
+  author_nickname: Stephanie Helsel (CO)
+  content: Ok
+  id: '1284225726719070239'
+  ref_to: null
+  timestamp: '2024-09-13T18:54:33.01+00:00'
+  type: Default

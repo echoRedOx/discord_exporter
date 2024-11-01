@@ -1,0 +1,38 @@
+Guild: Team Harris-Walz Virtual Office (ID: 1242249109298221066)
+Channel: Hi! Still waiting for the onboarding ( (ID: 1276192252720447509)
+Channel Topic: None
+Exported At: 2024-10-29T00:10:05.0859724+00:00
+
+
+--- Message ---
+Message ID: 1276194103809544202
+Message Type: 21
+Reply to: 1276192252720447509
+Timestamp: 2024-08-22T14:59:44.888+00:00
+Author: Nicole Morris - Text Admin (nmorris237)
+Author Id: 935762347753103382
+Avatar URL: assets\27b1e286b65ae02b3378793b5f098411-A7B20.png
+Content: 
+--------------------
+
+--- Message ---
+Message ID: 1276194105717686353
+Message Type: Default
+Reply to: None
+Timestamp: 2024-08-22T14:59:45.343+00:00
+Author: Nicole Morris - Text Admin (nmorris237)
+Author Id: 935762347753103382
+Avatar URL: assets\27b1e286b65ae02b3378793b5f098411-A7B20.png
+Content: Hi <@945434824129253436> Thanks! We are going thorugh applications today still, so thanks for yourpatience.
+--------------------
+
+--- Message ---
+Message ID: 1276194151775600743
+Message Type: Default
+Reply to: None
+Timestamp: 2024-08-22T14:59:56.324+00:00
+Author: Nicole Morris - Text Admin (nmorris237)
+Author Id: 935762347753103382
+Avatar URL: assets\27b1e286b65ae02b3378793b5f098411-A7B20.png
+Content: Hm! What was the text about? May not be from us -- they are time-zone related.
+--------------------

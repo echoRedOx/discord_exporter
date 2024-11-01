@@ -1,0 +1,27 @@
+Guild: Team Harris-Walz Virtual Office (ID: 1242249109298221066)
+Channel: Do you guys still need folks for text (ID: 1282514939269087253)
+Channel Topic: None
+Exported At: 2024-10-28T23:32:07.0298474+00:00
+
+
+--- Message ---
+Message ID: 1282515455852150805
+Message Type: 21
+Reply to: 1282514939269087253
+Timestamp: 2024-09-09T01:38:32.66+00:00
+Author: Jack Joannides KC text admin (jjoannid)
+Author Id: 477560366432256000
+Avatar URL: assets\791c521e62160be1f3df04992f6e5470-36A38.png
+Content: 
+--------------------
+
+--- Message ---
+Message ID: 1282515457256980602
+Message Type: Default
+Reply to: None
+Timestamp: 2024-09-09T01:38:32.995+00:00
+Author: Jack Joannides KC text admin (jjoannid)
+Author Id: 477560366432256000
+Avatar URL: assets\791c521e62160be1f3df04992f6e5470-36A38.png
+Content: Yes signup for a training here: https://events.democrats.org/event/672393/
+--------------------

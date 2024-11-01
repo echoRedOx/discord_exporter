@@ -1,0 +1,49 @@
+Guild: Team Harris-Walz Virtual Office (ID: 1242249109298221066)
+Channel: This is my first time beginning texting (ID: 1289271511047209013)
+Channel Topic: None
+Exported At: 2024-10-28T22:59:22.8555823+00:00
+
+
+--- Message ---
+Message ID: 1289272053433897050
+Message Type: 21
+Reply to: 1289271511047209013
+Timestamp: 2024-09-27T17:06:51.055+00:00
+Author: Jack Joannides KC text admin (jjoannid)
+Author Id: 477560366432256000
+Avatar URL: assets\791c521e62160be1f3df04992f6e5470-36A38.png
+Content: 
+--------------------
+
+--- Message ---
+Message ID: 1289272054478147594
+Message Type: Default
+Reply to: None
+Timestamp: 2024-09-27T17:06:51.304+00:00
+Author: Jack Joannides KC text admin (jjoannid)
+Author Id: 477560366432256000
+Avatar URL: assets\791c521e62160be1f3df04992f6e5470-36A38.png
+Content: Can you please ask this in <#1259238714157305936>
+--------------------
+
+--- Message ---
+Message ID: 1289272795812986983
+Message Type: Default
+Reply to: None
+Timestamp: 2024-09-27T17:09:48.052+00:00
+Author: Danielle Saliman - Washington DC (danistar6365)
+Author Id: 803442542874984470
+Avatar URL: assets\7c5ef04ebee9d686ed54142b52999583-02611.png
+Content: Ok thank you 🙂
+--------------------
+
+--- Message ---
+Message ID: 1289658571579064402
+Message Type: Default
+Reply to: None
+Timestamp: 2024-09-28T18:42:44.162+00:00
+Author: Patricia Casey, LA (tish03493)
+Author Id: 1276226175722721343
+Avatar URL: assets\6c5996770c985bcd6e5b68131ff2ba04-B986A.png
+Content: Would like to begin texting. Took the online training on Tuesday. Only thing I’m seeing is a “text team welcome”. Any suggestions?
+--------------------

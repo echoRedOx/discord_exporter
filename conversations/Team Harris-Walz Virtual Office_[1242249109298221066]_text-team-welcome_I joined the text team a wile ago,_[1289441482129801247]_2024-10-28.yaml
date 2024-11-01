@@ -1,0 +1,88 @@
+- author_avatar_url: assets\27b1e286b65ae02b3378793b5f098411-A7B20.png
+  author_id: '935762347753103382'
+  author_name: nmorris237
+  author_nickname: Nicole Morris - Text Admin
+  content: ''
+  id: '1289479343776727113'
+  ref_to: '1289441482129801247'
+  timestamp: '2024-09-28T06:50:32.924+00:00'
+  type: '21'
+- author_avatar_url: assets\27b1e286b65ae02b3378793b5f098411-A7B20.png
+  author_id: '935762347753103382'
+  author_name: nmorris237
+  author_nickname: Nicole Morris - Text Admin
+  content: Hi <@1267027448726421526> I'll send you a Direct Message now.
+  id: '1289479345571889162'
+  ref_to: null
+  timestamp: '2024-09-28T06:50:33.352+00:00'
+  type: Default
+- author_avatar_url: assets\e192b9944531fc708b19d3224670570a-B853E.png
+  author_id: '1267027448726421526'
+  author_name: awerber_76427
+  author_nickname: Awerber
+  content: Hi <@935762347753103382> . I did not see a DM. I should see those by clicking
+    on the Discord icon, right?
+  id: '1289705796585652307'
+  ref_to: null
+  timestamp: '2024-09-28T21:50:23.481+00:00'
+  type: Default
+- author_avatar_url: assets\27b1e286b65ae02b3378793b5f098411-A7B20.png
+  author_id: '935762347753103382'
+  author_name: nmorris237
+  author_nickname: Nicole Morris - Text Admin
+  content: Hi -- yes! Are you on a computer or phone/tablet?
+  id: '1289788149874036746'
+  ref_to: null
+  timestamp: '2024-09-29T03:17:38.035+00:00'
+  type: Default
+- author_avatar_url: assets\e192b9944531fc708b19d3224670570a-B853E.png
+  author_id: '1267027448726421526'
+  author_name: awerber_76427
+  author_nickname: Awerber
+  content: <@935762347753103382> I'm using Discord for Windows program on a computer.
+  id: '1289832348887547955'
+  ref_to: null
+  timestamp: '2024-09-29T06:13:15.901+00:00'
+  type: Default
+- author_avatar_url: assets\e192b9944531fc708b19d3224670570a-B853E.png
+  author_id: '1267027448726421526'
+  author_name: awerber_76427
+  author_nickname: Awerber
+  content: <@935762347753103382> I see the tooltip that says 'Direct Messages'. When
+    I click on that I don't see a message from you. Do I need to click on something
+    else? I'm a beginner at using Discord. I find it hard to use and get myself oriented
+    to it. By the way, will there be texting available before 11 AM Pacific time tomorrow?
+    And is there texting available between 7 and 9 PM Pacific time at nights?
+  id: '1289833449787756574'
+  ref_to: null
+  timestamp: '2024-09-29T06:17:38.376+00:00'
+  type: Default
+- author_avatar_url: assets\27b1e286b65ae02b3378793b5f098411-A7B20.png
+  author_id: '935762347753103382'
+  author_name: nmorris237
+  author_nickname: Nicole Morris - Text Admin
+  content: 'No worries! It''ll be here sometimes:'
+  id: '1289965037212930119'
+  ref_to: null
+  timestamp: '2024-09-29T15:00:31.263+00:00'
+  type: Default
+- author_avatar_url: assets\27b1e286b65ae02b3378793b5f098411-A7B20.png
+  author_id: '935762347753103382'
+  author_name: nmorris237
+  author_nickname: Nicole Morris - Text Admin
+  content: ''
+  id: '1289965073720410135'
+  ref_to: null
+  timestamp: '2024-09-29T15:00:39.967+00:00'
+  type: Default
+- author_avatar_url: assets\27b1e286b65ae02b3378793b5f098411-A7B20.png
+  author_id: '935762347753103382'
+  author_name: nmorris237
+  author_nickname: Nicole Morris - Text Admin
+  content: You may have two Discord accounts -- if you click on the bottom left in
+    Discord on your username/name, click on Switch Accounts and make sure you're in
+    the awerber_76427 account.
+  id: '1289965397021429822'
+  ref_to: null
+  timestamp: '2024-09-29T15:01:57.048+00:00'
+  type: Default

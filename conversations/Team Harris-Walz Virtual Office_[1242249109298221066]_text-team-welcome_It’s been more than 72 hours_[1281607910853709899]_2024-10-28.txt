@@ -1,0 +1,27 @@
+Guild: Team Harris-Walz Virtual Office (ID: 1242249109298221066)
+Channel: It’s been more than 72 hours (ID: 1281607910853709899)
+Channel Topic: None
+Exported At: 2024-10-28T23:37:12.8954953+00:00
+
+
+--- Message ---
+Message ID: 1281616914073784471
+Message Type: 21
+Reply to: 1281607910853709899
+Timestamp: 2024-09-06T14:08:03.606+00:00
+Author: Jack Joannides KC text admin (jjoannid)
+Author Id: 477560366432256000
+Avatar URL: assets\791c521e62160be1f3df04992f6e5470-36A38.png
+Content: 
+--------------------
+
+--- Message ---
+Message ID: 1281616915722145812
+Message Type: Default
+Reply to: None
+Timestamp: 2024-09-06T14:08:03.999+00:00
+Author: Jack Joannides KC text admin (jjoannid)
+Author Id: 477560366432256000
+Avatar URL: assets\791c521e62160be1f3df04992f6e5470-36A38.png
+Content: Please answer the direct message I sent you and I'll help you out.
+--------------------

@@ -1,0 +1,31 @@
+- author_avatar_url: assets\3455937c80f8c69cd430cbb4f671a3ab-A02E8.png
+  author_id: '379278050212315148'
+  author_name: egallager
+  author_nickname: Eric Gallager (NH02)
+  content: 'Hi, just wondering if the KamalaHQ Threads account is going to be getting
+    federated with the Fediverse anytime soon? I''d like to be able to repost it from
+    my Mastodon account, and it seems that others would, too: https://fasol.org/@fasol/112955462789994850'
+  id: '1275210179608313947'
+  ref_to: null
+  timestamp: '2024-08-19T21:49:59.078+00:00'
+  type: Default
+- author_avatar_url: assets\3455937c80f8c69cd430cbb4f671a3ab-A02E8.png
+  author_id: '379278050212315148'
+  author_name: egallager
+  author_nickname: Eric Gallager (NH02)
+  content: '...ah, apparently there was already a post about this: https://discord.com/channels/1242249109298221066/1250550849998946417/1274454200050258102'
+  id: '1275215472458993766'
+  ref_to: null
+  timestamp: '2024-08-19T22:11:00.992+00:00'
+  type: Default
+- author_avatar_url: assets\79ec240516b2d659c39aa570a1399e30-62CF9.png
+  author_id: '824045831673872385'
+  author_name: brooklynmothra
+  author_nickname: Brooklynmothra
+  content: Ditto, I had the same question from my community in Mastodon. Also, I believe
+    Bluesky folks would like something too , although Fediverse won't be possible
+    there.
+  id: '1277765771237261416'
+  ref_to: null
+  timestamp: '2024-08-26T23:04:59.603+00:00'
+  type: Default

@@ -1,0 +1,73 @@
+- author_avatar_url: assets\791c521e62160be1f3df04992f6e5470-36A38.png
+  author_id: '477560366432256000'
+  author_name: jjoannid
+  author_nickname: Jack Joannides KC text admin
+  content: ''
+  id: '1296282103847194665'
+  ref_to: '1296275461604900864'
+  timestamp: '2024-10-17T01:22:17.314+00:00'
+  type: '21'
+- author_avatar_url: assets\791c521e62160be1f3df04992f6e5470-36A38.png
+  author_id: '477560366432256000'
+  author_name: jjoannid
+  author_nickname: Jack Joannides KC text admin
+  content: You should of got it during the zoom training.
+  id: '1296282106007392268'
+  ref_to: null
+  timestamp: '2024-10-17T01:22:17.829+00:00'
+  type: Default
+- author_avatar_url: assets\4-4551A.png
+  author_id: '1296235890334503005'
+  author_name: cheri_69277
+  author_nickname: Cheri Cooper
+  content: Yes, it was in the chat but I didn't click on it.  Do I need to do another
+    training in order to get it?
+  id: '1296282432026443900'
+  ref_to: null
+  timestamp: '2024-10-17T01:23:35.558+00:00'
+  type: Default
+- author_avatar_url: assets\791c521e62160be1f3df04992f6e5470-36A38.png
+  author_id: '477560366432256000'
+  author_name: jjoannid
+  author_nickname: Jack Joannides KC text admin
+  content: Once we see that you attended the training we'll send it.
+  id: '1296283021321703452'
+  ref_to: null
+  timestamp: '2024-10-17T01:25:56.057+00:00'
+  type: Default
+- author_avatar_url: assets\4-4551A.png
+  author_id: '1296235890334503005'
+  author_name: cheri_69277
+  author_nickname: Cheri Cooper
+  content: Ok.  I need that and the quiz.  I attended tonight from 6-7.  Thanks!
+  id: '1296283533475840081'
+  ref_to: null
+  timestamp: '2024-10-17T01:27:58.164+00:00'
+  type: Default
+- author_avatar_url: assets\791c521e62160be1f3df04992f6e5470-36A38.png
+  author_id: '477560366432256000'
+  author_name: jjoannid
+  author_nickname: Jack Joannides KC text admin
+  content: I have to wait for zoom reports.
+  id: '1296283729303703593'
+  ref_to: null
+  timestamp: '2024-10-17T01:28:44.853+00:00'
+  type: Default
+- author_avatar_url: assets\4-4551A.png
+  author_id: '1296235890334503005'
+  author_name: cheri_69277
+  author_nickname: Cheri Cooper
+  content: Hello, are you still waiting for the Zoom report from yesterdays training?
+  id: '1296577001980952710'
+  ref_to: null
+  timestamp: '2024-10-17T20:54:06.508+00:00'
+  type: Default
+- author_avatar_url: assets\791c521e62160be1f3df04992f6e5470-36A38.png
+  author_id: '477560366432256000'
+  author_name: jjoannid
+  author_nickname: Jack Joannides KC text admin
+  content: Yes.
+  id: '1296577491929927760'
+  ref_to: null
+  timestamp: '2024-10-17T20:56:03.321+00:00'
+  type: Default

@@ -1,0 +1,21 @@
+- author_avatar_url: assets\0d9692e3d5d5eb651189bde02e1b94d4-65BBC.png
+  author_id: '1268363000436490406'
+  author_name: anninacton_37322
+  author_nickname: Ann in Acton
+  content: can someone let me in?
+  id: '1270882924325244960'
+  ref_to: null
+  timestamp: '2024-08-07T23:15:01.022+00:00'
+  type: Default
+- author_avatar_url: assets\bfccaff89d7c287575ef163d39d3bde8-053E1.png
+  author_id: '763374129772363776'
+  author_name: tenaciousg27
+  author_nickname: "Gillian D [TX] \u2022 Lead Mod"
+  content: Hi, <@1268363000436490406> When the event says waiting on host but doesn't
+    let you in, that issue is ongoing with Zoom. They know about it and are working
+    on it. Please visit the main <#1242256751445934262> channel for the team hosting
+    the event for more information.
+  id: '1270884308348833802'
+  ref_to: null
+  timestamp: '2024-08-07T23:20:30.999+00:00'
+  type: Default

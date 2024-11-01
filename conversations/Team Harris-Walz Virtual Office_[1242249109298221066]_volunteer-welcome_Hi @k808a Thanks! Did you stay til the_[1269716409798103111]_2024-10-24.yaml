@@ -1,0 +1,201 @@
+- author_avatar_url: assets\15ed673cb7735f293d9a10bafca27270-64B94.png
+  author_id: '1211141973097054269'
+  author_name: k808a_65546
+  author_nickname: Ken Andrade (IL)
+  content: ''
+  id: '1269717356934856755'
+  ref_to: '1269716409798103111'
+  timestamp: '2024-08-04T18:03:28.101+00:00'
+  type: '21'
+- author_avatar_url: assets\15ed673cb7735f293d9a10bafca27270-64B94.png
+  author_id: '1211141973097054269'
+  author_name: k808a_65546
+  author_nickname: Ken Andrade (IL)
+  content: We didn't see that. I my have been distracted getting my wife set up on
+    Discord. Is there a pinned item with the link somewhere here on Discord?
+  id: '1269717359225077830'
+  ref_to: null
+  timestamp: '2024-08-04T18:03:28.647+00:00'
+  type: Default
+- author_avatar_url: assets\27b1e286b65ae02b3378793b5f098411-A7B20.png
+  author_id: '935762347753103382'
+  author_name: nmorris237
+  author_nickname: Nicole Morris - Text Admin
+  content: No worries! I can send you a DM (look on the top left of your Discord page)
+  id: '1269717969047388261'
+  ref_to: null
+  timestamp: '2024-08-04T18:05:54.04+00:00'
+  type: Default
+- author_avatar_url: assets\15ed673cb7735f293d9a10bafca27270-64B94.png
+  author_id: '1211141973097054269'
+  author_name: k808a_65546
+  author_nickname: Ken Andrade (IL)
+  content: Got it thanks! Will relay to my wife too
+  id: '1269718932013711532'
+  ref_to: null
+  timestamp: '2024-08-04T18:09:43.629+00:00'
+  type: Default
+- author_avatar_url: assets\15ed673cb7735f293d9a10bafca27270-64B94.png
+  author_id: '1211141973097054269'
+  author_name: k808a_65546
+  author_nickname: Ken Andrade (IL)
+  content: Hmm, it wants a Gmail account. We do have Gmail accounts, but those aren't
+    the email accounts we used to sign up for Discord. (We both signed up with non-Gmail
+    accounts, which are under our family domain.) Is it OK if the Gmail and Discord
+    addresses are not the same?
+  id: '1269720601086398464'
+  ref_to: null
+  timestamp: '2024-08-04T18:16:21.567+00:00'
+  type: Default
+- author_avatar_url: assets\27b1e286b65ae02b3378793b5f098411-A7B20.png
+  author_id: '935762347753103382'
+  author_name: nmorris237
+  author_nickname: Nicole Morris - Text Admin
+  content: Yes totally fine - apologies about that, we're working on removing that
+    requirement from the form. Thanks for asking!
+  id: '1269722018467680349'
+  ref_to: null
+  timestamp: '2024-08-04T18:21:59.497+00:00'
+  type: Default
+- author_avatar_url: assets\15ed673cb7735f293d9a10bafca27270-64B94.png
+  author_id: '1211141973097054269'
+  author_name: k808a_65546
+  author_nickname: Ken Andrade (IL)
+  content: Great, both of our forms submitted!
+  id: '1269723236044898336'
+  ref_to: null
+  timestamp: '2024-08-04T18:26:49.79+00:00'
+  type: Default
+- author_avatar_url: assets\27b1e286b65ae02b3378793b5f098411-A7B20.png
+  author_id: '935762347753103382'
+  author_name: nmorris237
+  author_nickname: Nicole Morris - Text Admin
+  content: Thank you! You should be added to our text channels within the next ~48
+    hours!
+  id: '1269724872553271326'
+  ref_to: null
+  timestamp: '2024-08-04T18:33:19.964+00:00'
+  type: Default
+- author_avatar_url: assets\27b1e286b65ae02b3378793b5f098411-A7B20.png
+  author_id: '935762347753103382'
+  author_name: nmorris237
+  author_nickname: Nicole Morris - Text Admin
+  content: Let me know if you don't see anything updated by Wednesday
+  id: '1269724915993673798'
+  ref_to: null
+  timestamp: '2024-08-04T18:33:30.321+00:00'
+  type: Default
+- author_avatar_url: assets\f3f0d4decbb82746ca59852d88d13889-6BEFE.png
+  author_id: '1043888960734253126'
+  author_name: ektashahmd
+  author_nickname: Ekta Shah FL/DC
+  content: I wonder if that is part of my problem as my GMAIL form defaulted to EktaShah82@gmail.com
+    but my email i signed up for the zoom call with was eshah@med.wayne.edu
+  id: '1274764702454382682'
+  ref_to: null
+  timestamp: '2024-08-18T16:19:49.048+00:00'
+  type: Default
+- author_avatar_url: assets\27b1e286b65ae02b3378793b5f098411-A7B20.png
+  author_id: '935762347753103382'
+  author_name: nmorris237
+  author_nickname: Nicole Morris - Text Admin
+  content: Hi <@1043888960734253126> All set - just replied to your DM on this question
+  id: '1274770718432821389'
+  ref_to: null
+  timestamp: '2024-08-18T16:43:43.369+00:00'
+  type: Default
+- author_avatar_url: assets\f3f0d4decbb82746ca59852d88d13889-6BEFE.png
+  author_id: '1043888960734253126'
+  author_name: ektashahmd
+  author_nickname: Ekta Shah FL/DC
+  content: Thanks.
+  id: '1274773044786626720'
+  ref_to: '1274770718432821389'
+  timestamp: '2024-08-18T16:52:58.015+00:00'
+  type: Reply
+- author_avatar_url: assets\f3f0d4decbb82746ca59852d88d13889-6BEFE.png
+  author_id: '1043888960734253126'
+  author_name: ektashahmd
+  author_nickname: Ekta Shah FL/DC
+  content: It still doesn't let me post in the text team welcome page and I keep seeing
+    other newbies being able to post in there. What is going on?
+  id: '1274800711502135397'
+  ref_to: '1274770718432821389'
+  timestamp: '2024-08-18T18:42:54.274+00:00'
+  type: Reply
+- author_avatar_url: assets\27b1e286b65ae02b3378793b5f098411-A7B20.png
+  author_id: '935762347753103382'
+  author_name: nmorris237
+  author_nickname: Nicole Morris - Text Admin
+  content: "Hm! What is the error message or issue you\u2019re seeing?"
+  id: '1274801706240315507'
+  ref_to: '1274800711502135397'
+  timestamp: '2024-08-18T18:46:51.438+00:00'
+  type: Reply
+- author_avatar_url: assets\f3f0d4decbb82746ca59852d88d13889-6BEFE.png
+  author_id: '1043888960734253126'
+  author_name: ektashahmd
+  author_nickname: Ekta Shah FL/DC
+  content: It literally says you do not have permissiont o post in this channel in
+    the text box
+  id: '1274801960993951887'
+  ref_to: null
+  timestamp: '2024-08-18T18:47:52.176+00:00'
+  type: Default
+- author_avatar_url: assets\f3f0d4decbb82746ca59852d88d13889-6BEFE.png
+  author_id: '1043888960734253126'
+  author_name: ektashahmd
+  author_nickname: Ekta Shah FL/DC
+  content: I sent you in private a picture but it literally says you do not have permission
+    to send messages to this channel
+  id: '1274802523709902849'
+  ref_to: '1274801706240315507'
+  timestamp: '2024-08-18T18:50:06.338+00:00'
+  type: Reply
+- author_avatar_url: assets\27b1e286b65ae02b3378793b5f098411-A7B20.png
+  author_id: '935762347753103382'
+  author_name: nmorris237
+  author_nickname: Nicole Morris - Text Admin
+  content: "Got it - I\u2019ll take a look in a minute"
+  id: '1274803462680350852'
+  ref_to: null
+  timestamp: '2024-08-18T18:53:50.206+00:00'
+  type: Default
+- author_avatar_url: assets\f3f0d4decbb82746ca59852d88d13889-6BEFE.png
+  author_id: '1043888960734253126'
+  author_name: ektashahmd
+  author_nickname: Ekta Shah FL/DC
+  content: Once again is it the email? I listed my other email eshah@med.wayne.edu
+    bc that is what I signed up for the event with but my Discord email is a gmail
+    Ektashah82@gmail.com
+  id: '1274803644683784243'
+  ref_to: '1274803462680350852'
+  timestamp: '2024-08-18T18:54:33.599+00:00'
+  type: Reply
+- author_avatar_url: assets\f3f0d4decbb82746ca59852d88d13889-6BEFE.png
+  author_id: '1043888960734253126'
+  author_name: ektashahmd
+  author_nickname: Ekta Shah FL/DC
+  content: And thank you for your assistance
+  id: '1274803702082961418'
+  ref_to: '1274803462680350852'
+  timestamp: '2024-08-18T18:54:47.284+00:00'
+  type: Reply
+- author_avatar_url: assets\f3f0d4decbb82746ca59852d88d13889-6BEFE.png
+  author_id: '1043888960734253126'
+  author_name: ektashahmd
+  author_nickname: Ekta Shah FL/DC
+  content: Thanks now it works
+  id: '1274822433974517912'
+  ref_to: '1274801706240315507'
+  timestamp: '2024-08-18T20:09:13.315+00:00'
+  type: Reply
+- author_avatar_url: assets\27b1e286b65ae02b3378793b5f098411-A7B20.png
+  author_id: '935762347753103382'
+  author_name: nmorris237
+  author_nickname: Nicole Morris - Text Admin
+  content: Wonderful! Thanks!
+  id: '1274822868722651227'
+  ref_to: null
+  timestamp: '2024-08-18T20:10:56.967+00:00'
+  type: Default

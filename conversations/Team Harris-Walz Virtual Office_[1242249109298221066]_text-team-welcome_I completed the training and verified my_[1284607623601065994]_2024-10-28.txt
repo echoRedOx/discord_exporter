@@ -1,0 +1,27 @@
+Guild: Team Harris-Walz Virtual Office (ID: 1242249109298221066)
+Channel: I completed the training and verified my (ID: 1284607623601065994)
+Channel Topic: None
+Exported At: 2024-10-28T23:23:55.756148+00:00
+
+
+--- Message ---
+Message ID: 1284608410226135040
+Message Type: 21
+Reply to: 1284607623601065994
+Timestamp: 2024-09-14T20:15:11.868+00:00
+Author: Roberta Bavin CA KC Greeter/Mod (roberta_24935)
+Author Id: 1269872908759597148
+Avatar URL: assets\df6d19d97b04a49ffcafbe7be14c7839-D9CE4.png
+Content: 
+--------------------
+
+--- Message ---
+Message ID: 1284608411660455988
+Message Type: Default
+Reply to: None
+Timestamp: 2024-09-14T20:15:12.21+00:00
+Author: Roberta Bavin CA KC Greeter/Mod (roberta_24935)
+Author Id: 1269872908759597148
+Avatar URL: assets\df6d19d97b04a49ffcafbe7be14c7839-D9CE4.png
+Content: Hi Julie-Please check for DM from me sent on 9/12. Thanks for being here!
+--------------------

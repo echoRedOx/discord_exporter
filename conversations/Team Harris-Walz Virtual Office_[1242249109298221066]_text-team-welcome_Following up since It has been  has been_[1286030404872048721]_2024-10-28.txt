@@ -1,0 +1,38 @@
+Guild: Team Harris-Walz Virtual Office (ID: 1242249109298221066)
+Channel: Following up since It has been  has been (ID: 1286030404872048721)
+Channel Topic: None
+Exported At: 2024-10-28T23:15:41.971906+00:00
+
+
+--- Message ---
+Message ID: 1286030765900955669
+Message Type: 21
+Reply to: 1286030404872048721
+Timestamp: 2024-09-18T18:27:07.887+00:00
+Author: Jack Joannides KC text admin (jjoannid)
+Author Id: 477560366432256000
+Avatar URL: assets\791c521e62160be1f3df04992f6e5470-36A38.png
+Content: 
+--------------------
+
+--- Message ---
+Message ID: 1286030768325394482
+Message Type: Default
+Reply to: None
+Timestamp: 2024-09-18T18:27:08.465+00:00
+Author: Jack Joannides KC text admin (jjoannid)
+Author Id: 477560366432256000
+Avatar URL: assets\791c521e62160be1f3df04992f6e5470-36A38.png
+Content: You should have gotten a direct message on 9/15 from <@1269872908759597148>
+--------------------
+
+--- Message ---
+Message ID: 1286033067508498536
+Message Type: Default
+Reply to: None
+Timestamp: 2024-09-18T18:36:16.633+00:00
+Author: Priya Mukundan(KY) (pmuk1996)
+Author Id: 868572291942981642
+Avatar URL: assets\4-4551A.png
+Content: Thanks Jack. Rookie mistake - I was looking at my direct messages but not at message requests. I see it now. Thank you!
+--------------------

@@ -1,0 +1,84 @@
+Guild: Team Harris-Walz Virtual Office (ID: 1242249109298221066)
+Channel: thanks. no worries if things are running (ID: 1279874180053078036)
+Channel Topic: None
+Exported At: 2024-10-28T20:38:47.6264907+00:00
+
+
+--- Message ---
+Message ID: 1279875558834180096
+Message Type: 21
+Reply to: 1279874180053078036
+Timestamp: 2024-09-01T18:48:32.164+00:00
+Author: Yara - Call Mod (legendary_dragon_91983)
+Author Id: 951370826102472715
+Avatar URL: assets\480d1c5701c498f041da79e30a39cb69-A9F40.png
+Content: 
+--------------------
+
+--- Message ---
+Message ID: 1279875560323153930
+Message Type: Default
+Reply to: None
+Timestamp: 2024-09-01T18:48:32.519+00:00
+Author: Yara - Call Mod (legendary_dragon_91983)
+Author Id: 951370826102472715
+Avatar URL: assets\480d1c5701c498f041da79e30a39cb69-A9F40.png
+Content: Were you able to get in? I'm trying to find one of the leaders for the VOTE team. In the meantime, here's some documentation you might want to hang on to. 
+
+https://docs.google.com/document/d/1WfH8QHMgx-bFDLojWoJOtuMmx5tu2AOPZo-FMP0Aoig/edit#heading=h.sg8e2cha55q3
+--------------------
+
+--- Message ---
+Message ID: 1279875631534051359
+Message Type: Default
+Reply to: None
+Timestamp: 2024-09-01T18:48:49.497+00:00
+Author: Jared M. (jared_15998)
+Author Id: 1275309515616813091
+Avatar URL: assets\a4be39c2337735caa71009c9ba68c54b-C7FDA.png
+Content: no - still waiting.
+--------------------
+
+--- Message ---
+Message ID: 1279876698199822480
+Message Type: Default
+Reply to: None
+Timestamp: 2024-09-01T18:53:03.81+00:00
+Author: Yara - Call Mod (legendary_dragon_91983)
+Author Id: 951370826102472715
+Avatar URL: assets\480d1c5701c498f041da79e30a39cb69-A9F40.png
+Content: Sorry about that. If you scroll all the way down on that document, you will see the contact information for one of the Vote Team leaders. At this point you might just want to signup for another shift and let her know what happenned.
+--------------------
+
+--- Message ---
+Message ID: 1279876814235369492
+Message Type: Default
+Reply to: None
+Timestamp: 2024-09-01T18:53:31.475+00:00
+Author: Yara - Call Mod (legendary_dragon_91983)
+Author Id: 951370826102472715
+Avatar URL: assets\480d1c5701c498f041da79e30a39cb69-A9F40.png
+Content: I'll also attempt to contact them on my end.
+--------------------
+
+--- Message ---
+Message ID: 1279877324627775611
+Message Type: Default
+Reply to: None
+Timestamp: 2024-09-01T18:55:33.162+00:00
+Author: Jared M. (jared_15998)
+Author Id: 1275309515616813091
+Avatar URL: assets\a4be39c2337735caa71009c9ba68c54b-C7FDA.png
+Content: ok. thanks. i'll read through the docs and try again later.
+--------------------
+
+--- Message ---
+Message ID: 1279878402601390171
+Message Type: Default
+Reply to: None
+Timestamp: 2024-09-01T18:59:50.171+00:00
+Author: Yara - Call Mod (legendary_dragon_91983)
+Author Id: 951370826102472715
+Avatar URL: assets\480d1c5701c498f041da79e30a39cb69-A9F40.png
+Content: Hope the next time around is a better experience. Thank you for your time and know we are also following up on this on our end.
+--------------------

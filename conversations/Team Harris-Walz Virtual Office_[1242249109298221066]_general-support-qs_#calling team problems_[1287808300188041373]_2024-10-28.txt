@@ -1,0 +1,27 @@
+Guild: Team Harris-Walz Virtual Office (ID: 1242249109298221066)
+Channel: #calling team problems (ID: 1287808300188041373)
+Channel Topic: None
+Exported At: 2024-10-28T19:59:01.4831379+00:00
+
+
+--- Message ---
+Message ID: 1287808300188041373
+Message Type: Default
+Reply to: None
+Timestamp: 2024-09-23T16:10:25.086+00:00
+Author: Sarah DG (sarahdg_08178)
+Author Id: 1283054877953626135
+Avatar URL: assets\7c39f94c9b9d8d3d80d3cd0d84e71aaa-5F0AB.png
+Content: hi, I don’t get email links for phone bank sessions (to inbox or spam folder) and when mod sends me link directly, zoom requires passcode, even though I am signed into my zoom account.
+--------------------
+
+--- Message ---
+Message ID: 1287826178887127154
+Message Type: Default
+Reply to: None
+Timestamp: 2024-09-23T17:21:27.7+00:00
+Author: Frances Haydock (HFP HQ!) (franceshaydock_20619)
+Author Id: 1257469301435400238
+Avatar URL: assets\8286d5b1308e7b3d80a3523e4ec50548-C029D.png
+Content: And this is after you’ve signed up for a shift on mobilize?
+--------------------

@@ -1,0 +1,39 @@
+- author_avatar_url: assets\9067540a898d41e6ef940fc891c8b602-FA58A.png
+  author_id: '1277796164670066699'
+  author_name: angelica_67470
+  author_nickname: Angelica Faith (IL)
+  content: Hello! I signed up for "answering voter inquiries" but need a little direction
+    on where to go for the appropriate channel for further directions.  Please assist.
+  id: '1279877421742559427'
+  ref_to: null
+  timestamp: '2024-09-01T18:55:56.316+00:00'
+  type: Default
+- author_avatar_url: assets\0-EB806.png
+  author_id: '911700060360818688'
+  author_name: .billh
+  author_nickname: billh
+  content: Maybe https://events.democrats.org/event/620800/
+  id: '1279880077026263142'
+  ref_to: null
+  timestamp: '2024-09-01T19:06:29.385+00:00'
+  type: Default
+- author_avatar_url: assets\0-EB806.png
+  author_id: '911700060360818688'
+  author_name: .billh
+  author_nickname: billh
+  content: https://events.democrats.org/
+  id: '1279880272531161312'
+  ref_to: null
+  timestamp: '2024-09-01T19:07:15.997+00:00'
+  type: Default
+- author_avatar_url: assets\28a90c77b5793d80eb62484a43c66748-D8837.png
+  author_id: '568257600228032512'
+  author_name: carb.on
+  author_nickname: "Carolyn B [CA] \u2022 Lead Mod"
+  content: Hi <@1277796164670066699> go to Channels & Roles near the top of the left
+    menu and choose "respond to vote inquiries" this will open up channels where you
+    will find the directions.
+  id: '1280314461533638738'
+  ref_to: '1279877421742559427'
+  timestamp: '2024-09-02T23:52:34.722+00:00'
+  type: Reply

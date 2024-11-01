@@ -1,0 +1,112 @@
+Guild: Team Harris-Walz Virtual Office (ID: 1242249109298221066)
+Channel: link tree for coalition groups (ID: 1269958403170500668)
+Channel Topic: None
+Exported At: 2024-10-28T20:21:28.1320795+00:00
+
+
+--- Message ---
+Message ID: 1269958403170500668
+Message Type: Default
+Reply to: None
+Timestamp: 2024-08-05T10:01:18.002+00:00
+Author: rootsmusic (rootsmusic)
+Author Id: 791857656897732648
+Avatar URL: assets\a30e650576a6d42a3c9ee24648f67c90-2AE37.png
+Content: (Biden for President used to have a link tree.)  Please pin a link tree for coalition groups to this forum channel.  Since these are frequently requested, they should be shortened URLs that can be tweeted.  For example:
+[General volunteer signup](http://kamalaharris.com/organize)
+[Women for Harris](http://kamalaharris.com/women)
+[Latinos con Harris](http://kamalaharris.com/latinos)
+[AANHPIs for Harris](http://kamalaharris.com/aanhpi)
+[Republicans for Harris](http://kamalaharris.com/republicans)
+[Students for Harris](http://kamalaharris.com/students)
+Black Voters for Harris
+Veterans & Military Families for Harris
+--------------------
+
+--- Message ---
+Message ID: 1269958404990828679
+Message Type: Default
+Reply to: None
+Timestamp: 2024-08-05T10:01:18.436+00:00
+Author: DemCord (DemCord)
+Author Id: 1242806362195365968
+Avatar URL: assets\007b625c296385e4ed52038a42c7256d-7649B.png
+Content: 
+--------------------
+
+--- Message ---
+Message ID: 1269958653146955796
+Message Type: Default
+Reply to: None
+Timestamp: 2024-08-05T10:02:17.601+00:00
+Author: DemCord (DemCord)
+Author Id: 1242806362195365968
+Avatar URL: assets\007b625c296385e4ed52038a42c7256d-7649B.png
+Content: 
+--------------------
+
+--- Message ---
+Message ID: 1269958658771390559
+Message Type: Default
+Reply to: None
+Timestamp: 2024-08-05T10:02:18.942+00:00
+Author: DemCord (DemCord)
+Author Id: 1242806362195365968
+Avatar URL: assets\007b625c296385e4ed52038a42c7256d-7649B.png
+Content: 
+--------------------
+
+--- Message ---
+Message ID: 1269962010540642377
+Message Type: Default
+Reply to: None
+Timestamp: 2024-08-05T10:15:38.066+00:00
+Author: rootsmusic (rootsmusic)
+Author Id: 791857656897732648
+Avatar URL: assets\a30e650576a6d42a3c9ee24648f67c90-2AE37.png
+Content: No Youth Voters for Harris?
+--------------------
+
+--- Message ---
+Message ID: 1269963909260120104
+Message Type: Default
+Reply to: None
+Timestamp: 2024-08-05T10:23:10.756+00:00
+Author: DemCord (DemCord)
+Author Id: 1242806362195365968
+Avatar URL: assets\007b625c296385e4ed52038a42c7256d-7649B.png
+Content: 
+--------------------
+
+--- Message ---
+Message ID: 1269963979749331005
+Message Type: Default
+Reply to: None
+Timestamp: 2024-08-05T10:23:27.562+00:00
+Author: DemCord (DemCord)
+Author Id: 1242806362195365968
+Avatar URL: assets\007b625c296385e4ed52038a42c7256d-7649B.png
+Content: 
+--------------------
+
+--- Message ---
+Message ID: 1277708284467613724
+Message Type: Default
+Reply to: None
+Timestamp: 2024-08-26T19:16:33.689+00:00
+Author: rootsmusic (rootsmusic)
+Author Id: 791857656897732648
+Avatar URL: assets\a30e650576a6d42a3c9ee24648f67c90-2AE37.png
+Content: <@1242248892804763712> https://linktr.ee/harriswalz goes to another org?
+--------------------
+
+--- Message ---
+Message ID: 1277746880465600647
+Message Type: Default
+Reply to: None
+Timestamp: 2024-08-26T21:49:55.692+00:00
+Author: demtortilla (demtortilla_60949)
+Author Id: 1242248892804763712
+Avatar URL: assets\a_c1a2d0423471e6287ce2d2c69bf8abe5-C5FA2.gif
+Content: yeah this does not look like our linktree
+--------------------

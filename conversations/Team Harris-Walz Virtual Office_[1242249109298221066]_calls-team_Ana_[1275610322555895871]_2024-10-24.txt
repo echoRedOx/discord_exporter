@@ -1,0 +1,38 @@
+Guild: Team Harris-Walz Virtual Office (ID: 1242249109298221066)
+Channel: Ana (ID: 1275610322555895871)
+Channel Topic: None
+Exported At: 2024-10-24T12:37:19.2243412+00:00
+
+
+--- Message ---
+Message ID: 1275610324971683886
+Message Type: Default
+Reply to: None
+Timestamp: 2024-08-21T00:20:01.167+00:00
+Author: Ana (captivating_star_05385)
+Author Id: 1275592369168715926
+Avatar URL: assets\0-EB806.png
+Content: Is there a link for phone banking?
+--------------------
+
+--- Message ---
+Message ID: 1275611955436195891
+Message Type: Default
+Reply to: None
+Timestamp: 2024-08-21T00:26:29.9+00:00
+Author: Gillian D [TX] • Lead Mod (tenaciousg27)
+Author Id: 763374129772363776
+Avatar URL: assets\bfccaff89d7c287575ef163d39d3bde8-053E1.png
+Content: We hold phone banks every day! The links are posted in <#1245441927948800020>  and we would LOVE for you to sign up and join us!
+--------------------
+
+--- Message ---
+Message ID: 1277004842593681489
+Message Type: Default
+Reply to: None
+Timestamp: 2024-08-24T20:41:20.077+00:00
+Author: dsp_in_[MD] (dspatrell_78426)
+Author Id: 1276643747177828421
+Avatar URL: assets\0782809abc630de87432e48c1b71338e-B2805.png
+Content: will do. thanks!
+--------------------

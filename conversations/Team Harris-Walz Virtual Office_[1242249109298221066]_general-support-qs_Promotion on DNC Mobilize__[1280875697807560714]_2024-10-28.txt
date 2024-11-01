@@ -1,0 +1,49 @@
+Guild: Team Harris-Walz Virtual Office (ID: 1242249109298221066)
+Channel: Promotion on DNC Mobilize? (ID: 1280875697807560714)
+Channel Topic: None
+Exported At: 2024-10-28T20:11:15.4481579+00:00
+
+
+--- Message ---
+Message ID: 1280875697807560714
+Message Type: Default
+Reply to: None
+Timestamp: 2024-09-04T13:02:43.877+00:00
+Author: Jordan K. (fltadmlwolf)
+Author Id: 201533180434448385
+Avatar URL: assets\29da332e3f8721844d4eab7d9c8b42fa-62E9F.png
+Content: Who would I get in touch with to request promotion of a non-official event on the DNC's Mobilize feed? I'm doing a voter registration event in Pittsburgh this Friday and next Saturday and would love more publicity – and from the look of it, there's nothing happening on either of those dates that might conflict.
+--------------------
+
+--- Message ---
+Message ID: 1280912640507383818
+Message Type: Default
+Reply to: None
+Timestamp: 2024-09-04T15:29:31.703+00:00
+Author: Carolyn B [CA] • Lead Mod (carb.on)
+Author Id: 568257600228032512
+Avatar URL: assets\28a90c77b5793d80eb62484a43c66748-D8837.png
+Content: Hi <@201533180434448385> try https://events.democrats.org and click Host an Event at the top of the page.
+--------------------
+
+--- Message ---
+Message ID: 1280913778703339671
+Message Type: Default
+Reply to: None
+Timestamp: 2024-09-04T15:34:03.07+00:00
+Author: Jordan K. (fltadmlwolf)
+Author Id: 201533180434448385
+Avatar URL: assets\29da332e3f8721844d4eab7d9c8b42fa-62E9F.png
+Content: Thanks! Bummer, it looks like these are the only options right now:
+--------------------
+
+--- Message ---
+Message ID: 1280915025804001383
+Message Type: Default
+Reply to: None
+Timestamp: 2024-09-04T15:39:00.402+00:00
+Author: Carolyn B [CA] • Lead Mod (carb.on)
+Author Id: 568257600228032512
+Avatar URL: assets\28a90c77b5793d80eb62484a43c66748-D8837.png
+Content: Maybe reach out to https://alleghenydems.com/ and see if they can work with you to promote your event in the local community.
+--------------------

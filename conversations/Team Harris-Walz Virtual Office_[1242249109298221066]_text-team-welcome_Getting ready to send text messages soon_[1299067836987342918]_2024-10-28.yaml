@@ -1,0 +1,28 @@
+- author_avatar_url: assets\df6d19d97b04a49ffcafbe7be14c7839-D9CE4.png
+  author_id: '1269872908759597148'
+  author_name: roberta_24935
+  author_nickname: Roberta Bavin CA KC Greeter/Mod
+  content: ''
+  id: '1299100277026324509'
+  ref_to: '1299067836987342918'
+  timestamp: '2024-10-24T20:00:42.159+00:00'
+  type: '21'
+- author_avatar_url: assets\df6d19d97b04a49ffcafbe7be14c7839-D9CE4.png
+  author_id: '1269872908759597148'
+  author_name: roberta_24935
+  author_nickname: Roberta Bavin CA KC Greeter/Mod
+  content: Hi <@690811070058594354> Please check your DM's in upper left corner of
+    Discord. Thanks for reaching out!
+  id: '1299100281287606383'
+  ref_to: null
+  timestamp: '2024-10-24T20:00:43.175+00:00'
+  type: Default
+- author_avatar_url: assets\f6a387929c1b2f582f249f8bb401c865-A2A5D.png
+  author_id: '690811070058594354'
+  author_name: eldariontkd
+  author_nickname: Carlos Ortiz [CA]
+  content: I just responded. Nothing is working, so I'll just make calls instead.
+  id: '1299105046343974932'
+  ref_to: null
+  timestamp: '2024-10-24T20:19:39.253+00:00'
+  type: Default

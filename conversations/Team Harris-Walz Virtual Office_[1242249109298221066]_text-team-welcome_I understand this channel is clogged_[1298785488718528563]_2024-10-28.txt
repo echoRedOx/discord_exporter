@@ -1,0 +1,27 @@
+Guild: Team Harris-Walz Virtual Office (ID: 1242249109298221066)
+Channel: I understand this channel is clogged (ID: 1298785488718528563)
+Channel Topic: None
+Exported At: 2024-10-28T22:17:21.4287947+00:00
+
+
+--- Message ---
+Message ID: 1298858939861041203
+Message Type: 21
+Reply to: 1298785488718528563
+Timestamp: 2024-10-24T04:01:42.895+00:00
+Author: Roberta Bavin CA KC Greeter/Mod (roberta_24935)
+Author Id: 1269872908759597148
+Avatar URL: assets\df6d19d97b04a49ffcafbe7be14c7839-D9CE4.png
+Content: 
+--------------------
+
+--- Message ---
+Message ID: 1298858942855905332
+Message Type: Default
+Reply to: None
+Timestamp: 2024-10-24T04:01:43.609+00:00
+Author: Roberta Bavin CA KC Greeter/Mod (roberta_24935)
+Author Id: 1269872908759597148
+Avatar URL: assets\df6d19d97b04a49ffcafbe7be14c7839-D9CE4.png
+Content: Hi <@338414366489706496> Please look for DM from me. Thanks!
+--------------------

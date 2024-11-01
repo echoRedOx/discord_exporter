@@ -1,0 +1,45 @@
+- author_avatar_url: assets\df6d19d97b04a49ffcafbe7be14c7839-D9CE4.png
+  author_id: '1269872908759597148'
+  author_name: roberta_24935
+  author_nickname: Roberta Bavin CA KC Greeter/Mod
+  content: ''
+  id: '1294801645510856776'
+  ref_to: '1294801484600442920'
+  timestamp: '2024-10-12T23:19:28.541+00:00'
+  type: '21'
+- author_avatar_url: assets\df6d19d97b04a49ffcafbe7be14c7839-D9CE4.png
+  author_id: '1269872908759597148'
+  author_name: roberta_24935
+  author_nickname: Roberta Bavin CA KC Greeter/Mod
+  content: Hi <@1294793760550686780> You are correct! Thanks for being here!
+  id: '1294801648429826129'
+  ref_to: null
+  timestamp: '2024-10-12T23:19:29.237+00:00'
+  type: Default
+- author_avatar_url: assets\4-4551A.png
+  author_id: '1294793760550686780'
+  author_name: judymiuca
+  author_nickname: Judy Miu CA
+  content: Ok, will we get an email or will it just show up automatically on Discord?
+  id: '1294801821058990111'
+  ref_to: null
+  timestamp: '2024-10-12T23:20:10.395+00:00'
+  type: Default
+- author_avatar_url: assets\df6d19d97b04a49ffcafbe7be14c7839-D9CE4.png
+  author_id: '1269872908759597148'
+  author_name: roberta_24935
+  author_nickname: Roberta Bavin CA KC Greeter/Mod
+  content: It will be in a Discord DM, left upper corner game controller icon. <:thankyou:1252806147396735057>
+  id: '1294802517221183539'
+  ref_to: '1294801821058990111'
+  timestamp: '2024-10-12T23:22:56.373+00:00'
+  type: Reply
+- author_avatar_url: assets\4-4551A.png
+  author_id: '1294793760550686780'
+  author_name: judymiuca
+  author_nickname: Judy Miu CA
+  content: Thank you!
+  id: '1294802631381749872'
+  ref_to: null
+  timestamp: '2024-10-12T23:23:23.591+00:00'
+  type: Default

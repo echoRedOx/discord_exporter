@@ -1,0 +1,41 @@
+- author_avatar_url: assets\df6d19d97b04a49ffcafbe7be14c7839-D9CE4.png
+  author_id: '1269872908759597148'
+  author_name: roberta_24935
+  author_nickname: Roberta Bavin CA KC Greeter/Mod
+  content: ''
+  id: '1299103930625687694'
+  ref_to: '1299094964784857202'
+  timestamp: '2024-10-24T20:15:13.245+00:00'
+  type: '21'
+- author_avatar_url: assets\df6d19d97b04a49ffcafbe7be14c7839-D9CE4.png
+  author_id: '1269872908759597148'
+  author_name: roberta_24935
+  author_nickname: Roberta Bavin CA KC Greeter/Mod
+  content: Hi <@1266879350985199709> Thanks for your question. The best way is to
+    click on the reply links in the <#1265788349747171438> channel that will take
+    you directly into the appropriate STW channel. Thanks so much!
+  id: '1299103934149038172'
+  ref_to: null
+  timestamp: '2024-10-24T20:15:14.085+00:00'
+  type: Default
+- author_avatar_url: assets\1-B2132.png
+  author_id: '1266879350985199709'
+  author_name: louise_38402_17585
+  author_nickname: LouiseHarris (NJ)
+  content: That is what I usually do but then those links disappear so for example,
+    if I go to texting questions and then back to campaigns, sometimes the links are
+    gone.
+  id: '1299107835463864413'
+  ref_to: null
+  timestamp: '2024-10-24T20:30:44.231+00:00'
+  type: Default
+- author_avatar_url: assets\df6d19d97b04a49ffcafbe7be14c7839-D9CE4.png
+  author_id: '1269872908759597148'
+  author_name: roberta_24935
+  author_nickname: Roberta Bavin CA KC Greeter/Mod
+  content: The reply links gray out when there are none left. Hope that information
+    helps. Thanks for being here!
+  id: '1299108362646065222'
+  ref_to: '1299107835463864413'
+  timestamp: '2024-10-24T20:32:49.921+00:00'
+  type: Reply

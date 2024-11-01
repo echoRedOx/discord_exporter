@@ -1,0 +1,27 @@
+Guild: Team Harris-Walz Virtual Office (ID: 1242249109298221066)
+Channel: Where can I get the link to textbank? I (ID: 1297336584483377213)
+Channel Topic: None
+Exported At: 2024-10-28T22:11:25.8660142+00:00
+
+
+--- Message ---
+Message ID: 1297989437711712327
+Message Type: 21
+Reply to: 1297336584483377213
+Timestamp: 2024-10-21T18:26:37.428+00:00
+Author: Andrew Martin [CA[ KC Text Admin (andrewjnla)
+Author Id: 932025725777743923
+Avatar URL: assets\8156a8c1e23069b2fac6bd70259a5ade-A321B.png
+Content: 
+--------------------
+
+--- Message ---
+Message ID: 1297989440945258638
+Message Type: Default
+Reply to: None
+Timestamp: 2024-10-21T18:26:38.199+00:00
+Author: Andrew Martin [CA[ KC Text Admin (andrewjnla)
+Author Id: 932025725777743923
+Avatar URL: assets\8156a8c1e23069b2fac6bd70259a5ade-A321B.png
+Content: Hi <@1293971148542967922> We just added one final training later today. Please join us if you can! https://events.democrats.org/event/715820/
+--------------------

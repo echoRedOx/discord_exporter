@@ -1,0 +1,27 @@
+Guild: Team Harris-Walz Virtual Office (ID: 1242249109298221066)
+Channel: how do I start text banking once Ive (ID: 1293943588312453122)
+Channel Topic: None
+Exported At: 2024-10-28T22:45:59.9351119+00:00
+
+
+--- Message ---
+Message ID: 1293947398627786875
+Message Type: 21
+Reply to: 1293943588312453122
+Timestamp: 2024-10-10T14:45:00.213+00:00
+Author: Roberta Bavin CA KC Greeter/Mod (roberta_24935)
+Author Id: 1269872908759597148
+Avatar URL: assets\df6d19d97b04a49ffcafbe7be14c7839-D9CE4.png
+Content: 
+--------------------
+
+--- Message ---
+Message ID: 1293947402218246327
+Message Type: Default
+Reply to: None
+Timestamp: 2024-10-10T14:45:01.069+00:00
+Author: Roberta Bavin CA KC Greeter/Mod (roberta_24935)
+Author Id: 1269872908759597148
+Avatar URL: assets\df6d19d97b04a49ffcafbe7be14c7839-D9CE4.png
+Content: Hi <@1293935978699948068> Please give us 48-72 hours after training to complete onboarding process with you. There will be a DM sent to you by a Greeter that will be in left upper corner game controller icon. Thanks for being here!
+--------------------

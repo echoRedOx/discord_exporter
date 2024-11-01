@@ -1,0 +1,49 @@
+Guild: Team Harris-Walz Virtual Office (ID: 1242249109298221066)
+Channel: Hi, I went to the orientation yesterday (ID: 1286140731198799954)
+Channel Topic: None
+Exported At: 2024-10-28T23:14:48.0529531+00:00
+
+
+--- Message ---
+Message ID: 1286144137967570964
+Message Type: 21
+Reply to: 1286140731198799954
+Timestamp: 2024-09-19T01:57:37.894+00:00
+Author: Roberta Bavin CA KC Greeter/Mod (roberta_24935)
+Author Id: 1269872908759597148
+Avatar URL: assets\df6d19d97b04a49ffcafbe7be14c7839-D9CE4.png
+Content: 
+--------------------
+
+--- Message ---
+Message ID: 1286144139527852104
+Message Type: Default
+Reply to: None
+Timestamp: 2024-09-19T01:57:38.266+00:00
+Author: Roberta Bavin CA KC Greeter/Mod (roberta_24935)
+Author Id: 1269872908759597148
+Avatar URL: assets\df6d19d97b04a49ffcafbe7be14c7839-D9CE4.png
+Content: Hi Thuy! Thanks for reaching out! I know I tried to help you last night and was unsuccessful.... so sorry...🤔  Maybe <@935762347753103382> or <@477560366432256000> can help?
+--------------------
+
+--- Message ---
+Message ID: 1286146599772487742
+Message Type: Default
+Reply to: None
+Timestamp: 2024-09-19T02:07:24.834+00:00
+Author: Jack Joannides KC text admin (jjoannid)
+Author Id: 477560366432256000
+Avatar URL: assets\791c521e62160be1f3df04992f6e5470-36A38.png
+Content: I can try to help.
+--------------------
+
+--- Message ---
+Message ID: 1286148621531877376
+Message Type: Default
+Reply to: None
+Timestamp: 2024-09-19T02:15:26.859+00:00
+Author: Jack Joannides KC text admin (jjoannid)
+Author Id: 477560366432256000
+Avatar URL: assets\791c521e62160be1f3df04992f6e5470-36A38.png
+Content: Should have Dmed you.
+--------------------

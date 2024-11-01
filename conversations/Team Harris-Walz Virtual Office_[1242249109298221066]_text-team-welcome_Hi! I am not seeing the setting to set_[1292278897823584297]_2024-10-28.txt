@@ -1,0 +1,27 @@
+Guild: Team Harris-Walz Virtual Office (ID: 1242249109298221066)
+Channel: Hi! I am not seeing the setting to set (ID: 1292278897823584297)
+Channel Topic: None
+Exported At: 2024-10-28T22:52:13.6744334+00:00
+
+
+--- Message ---
+Message ID: 1292282342232166421
+Message Type: 21
+Reply to: 1292278897823584297
+Timestamp: 2024-10-06T00:28:39.833+00:00
+Author: Jack Joannides KC text admin (jjoannid)
+Author Id: 477560366432256000
+Avatar URL: assets\791c521e62160be1f3df04992f6e5470-36A38.png
+Content: 
+--------------------
+
+--- Message ---
+Message ID: 1292282343666487337
+Message Type: Default
+Reply to: None
+Timestamp: 2024-10-06T00:28:40.175+00:00
+Author: Jack Joannides KC text admin (jjoannid)
+Author Id: 477560366432256000
+Avatar URL: assets\791c521e62160be1f3df04992f6e5470-36A38.png
+Content: What do you mean?
+--------------------

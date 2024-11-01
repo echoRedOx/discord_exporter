@@ -1,0 +1,27 @@
+Guild: Team Harris-Walz Virtual Office (ID: 1242249109298221066)
+Channel: Hi! I previously attended the training (ID: 1275967543215128586)
+Channel Topic: None
+Exported At: 2024-10-29T00:11:04.9151047+00:00
+
+
+--- Message ---
+Message ID: 1275971782695850107
+Message Type: 21
+Reply to: 1275967543215128586
+Timestamp: 2024-08-22T00:16:19.404+00:00
+Author: Nicole Morris - Text Admin (nmorris237)
+Author Id: 935762347753103382
+Avatar URL: assets\27b1e286b65ae02b3378793b5f098411-A7B20.png
+Content: 
+--------------------
+
+--- Message ---
+Message ID: 1275971784373440552
+Message Type: Default
+Reply to: None
+Timestamp: 2024-08-22T00:16:19.804+00:00
+Author: Nicole Morris - Text Admin (nmorris237)
+Author Id: 935762347753103382
+Avatar URL: assets\27b1e286b65ae02b3378793b5f098411-A7B20.png
+Content: Hi <@696461895015727154> Sorry for the confusion! I will send you a Direct Message here in Discord! Please keep an eye on your notifications on the top left in Discord (game controller icon). Let me know if you don't see it
+--------------------

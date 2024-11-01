@@ -1,0 +1,39 @@
+Guild: Team Harris-Walz Virtual Office (ID: 1242249109298221066)
+Channel: Discord (ID: 1291449233937006743)
+Channel Topic: None
+Exported At: 2024-10-24T06:29:24.7818859+00:00
+
+
+--- Message ---
+Message ID: 1291449233937006743
+Message Type: Default
+Reply to: None
+Timestamp: 2024-10-03T17:18:11.337+00:00
+Author: Nana Korsah Tx (nkorsah1)
+Author Id: 1287103049600598166
+Avatar URL: assets\6c5996770c985bcd6e5b68131ff2ba04-04D06.png
+Content: How do l access discord from my computer instead of my phone
+--------------------
+
+--- Message ---
+Message ID: 1291454206078615625
+Message Type: Default
+Reply to: None
+Timestamp: 2024-10-03T17:37:56.788+00:00
+Author: Midsummer NYC • Lead Mod (midsummernyc)
+Author Id: 288902250955538432
+Avatar URL: assets\4ab0a2262b0338fe668a1314cfc0512b-8638D.png
+Content: Hi <@1287103049600598166> you can download the Discord app from the official website https://discord.com/download Once you have that installed you'll need to log in using the same user name and password you use to sign into the Discord app on your phone to see your favourite Discord server.
+--------------------
+
+--- Message ---
+Message ID: 1291457055672242347
+Message Type: Default
+Reply to: None
+Timestamp: 2024-10-03T17:49:16.184+00:00
+Author: Carolyn B [CA] • Lead Mod (carb.on)
+Author Id: 568257600228032512
+Avatar URL: assets\28a90c77b5793d80eb62484a43c66748-D8837.png
+Content: Hi <@1287103049600598166> you can open any browser and go to discord.com and log in. 
+Or you can follow Midsummer's instructions and download the app.
+--------------------

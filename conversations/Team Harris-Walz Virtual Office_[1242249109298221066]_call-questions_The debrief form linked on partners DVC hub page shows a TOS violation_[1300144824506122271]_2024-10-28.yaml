@@ -1,0 +1,28 @@
+- author_avatar_url: assets\3-FB033.png
+  author_id: '804125998584692738'
+  author_name: fpereyra1590
+  author_nickname: fpereyra
+  content: The debrief form linked on partners DVC hub page shows a TOS violation.
+  id: '1300144824506122271'
+  ref_to: null
+  timestamp: '2024-10-27T17:11:21.685+00:00'
+  type: Default
+- author_avatar_url: assets\a_de0e3d4a3f9b486ad3ad6df0d72323da-D0252.gif
+  author_id: '112080668296564736'
+  author_name: kyaizen
+  author_nickname: "Jared R [CO] \u2022 Lead Mod"
+  content: Good catch, thanks for calling this out. I have alerted staff.
+  id: '1300146074585137173'
+  ref_to: '1300144824506122271'
+  timestamp: '2024-10-27T17:16:19.727+00:00'
+  type: Reply
+- author_avatar_url: assets\a_de0e3d4a3f9b486ad3ad6df0d72323da-D0252.gif
+  author_id: '112080668296564736'
+  author_name: kyaizen
+  author_nickname: "Jared R [CO] \u2022 Lead Mod"
+  content: Hi, update that this has been fixed. If you click the link there now, it
+    will go to the correct form. Thanks again!
+  id: '1300149613382209587'
+  ref_to: '1300144824506122271'
+  timestamp: '2024-10-27T17:30:23.442+00:00'
+  type: Reply

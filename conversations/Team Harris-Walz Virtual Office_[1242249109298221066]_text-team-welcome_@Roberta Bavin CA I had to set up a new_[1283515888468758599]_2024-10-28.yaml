@@ -1,0 +1,27 @@
+- author_avatar_url: assets\f7ebcd4727f2b8e05b4382b1b1eb6d74-1D9FE.png
+  author_id: '1254144571089354868'
+  author_name: kcmpolitical
+  author_nickname: Kris Morrell (CA) - KC TextAdmin
+  content: ''
+  id: '1283521115913715722'
+  ref_to: '1283515888468758599'
+  timestamp: '2024-09-11T20:14:40.703+00:00'
+  type: '21'
+- author_avatar_url: assets\f7ebcd4727f2b8e05b4382b1b1eb6d74-1D9FE.png
+  author_id: '1254144571089354868'
+  author_name: kcmpolitical
+  author_nickname: Kris Morrell (CA) - KC TextAdmin
+  content: Hi <@1283417540244275311>, I will look into this and send you a DM.
+  id: '1283521117562212453'
+  ref_to: null
+  timestamp: '2024-09-11T20:14:41.096+00:00'
+  type: Default
+- author_avatar_url: assets\64dfeeae868ec82cfd381c6628a88833-1F19D.png
+  author_id: '1283417540244275311'
+  author_name: colettec13
+  author_nickname: Colette Crandall [CA] [Call Mod}
+  content: Thank you.
+  id: '1283528375138517045'
+  ref_to: '1283521117562212453'
+  timestamp: '2024-09-11T20:43:31.437+00:00'
+  type: Reply

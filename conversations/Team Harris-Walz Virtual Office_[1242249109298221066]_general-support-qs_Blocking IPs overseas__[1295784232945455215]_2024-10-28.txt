@@ -1,0 +1,181 @@
+Guild: Team Harris-Walz Virtual Office (ID: 1242249109298221066)
+Channel: Blocking IPs overseas? (ID: 1295784232945455215)
+Channel Topic: None
+Exported At: 2024-10-28T19:52:41.3071803+00:00
+
+
+--- Message ---
+Message ID: 1295784232945455215
+Message Type: Default
+Reply to: None
+Timestamp: 2024-10-15T16:23:55.641+00:00
+Author: Kathy Tafel (Berlin, ex CA/NY) (lucky_moose_80893)
+Author Id: 1278730804926615744
+Avatar URL: assets\36bec663cc896cdb8f383c66ab77829b-039F4.png
+Content: I got blocked by cloudflare when I clicked on a link. I can't visit events.democrats.org or mobilize. I was able to yesterday. (I just clicked on something in a "because you went to Camp Kamala." link.) I understand needing to block IPs at the cloudflare level, had to do it to block SMS farming. And if you're under a DDOS you need to do that. But, pretty sure my IP should only be associated with click me clicks?
+--------------------
+
+--- Message ---
+Message ID: 1295784376205836330
+Message Type: Default
+Reply to: None
+Timestamp: 2024-10-15T16:24:29.797+00:00
+Author: Kathy Tafel (Berlin, ex CA/NY) (lucky_moose_80893)
+Author Id: 1278730804926615744
+Avatar URL: assets\36bec663cc896cdb8f383c66ab77829b-039F4.png
+Content: (Sometimes Cloudflare gets "helpy" on its own)
+--------------------
+
+--- Message ---
+Message ID: 1295785977465274409
+Message Type: Reply
+Reply to: 1295784232945455215
+Timestamp: 2024-10-15T16:30:51.567+00:00
+Author: Jared R [CO] • Lead Mod (kyaizen)
+Author Id: 112080668296564736
+Avatar URL: assets\a_de0e3d4a3f9b486ad3ad6df0d72323da-D0252.gif
+Content: Thanks KT, we're seeing reports about this from a few users. I do not believe it is intentional but we are waiting to hear more info and possible workarounds. Sorry for the inconvenience!
+--------------------
+
+--- Message ---
+Message ID: 1295788949821849610
+Message Type: Default
+Reply to: None
+Timestamp: 2024-10-15T16:42:40.232+00:00
+Author: Kathy Tafel (Berlin, ex CA/NY) (lucky_moose_80893)
+Author Id: 1278730804926615744
+Avatar URL: assets\36bec663cc896cdb8f383c66ab77829b-039F4.png
+Content: Great, I hope it's not because I signed up for two tickets to the Trump MSG event.
+--------------------
+
+--- Message ---
+Message ID: 1295802980100083864
+Message Type: Default
+Reply to: None
+Timestamp: 2024-10-15T17:38:25.311+00:00
+Author: John G (johngorenfeld)
+Author Id: 431096410298122242
+Avatar URL: assets\ea34f463a2a2a7a091892181e0d85db9-987D2.png
+Content: KT, I don't know if this is helpful but I was able to get around this in England by setting up a VPN so that my computer acted like it was in the United States. It did seem to answer the question of whether it was a matter of blocking overseas traffic. Maybe?
+--------------------
+
+--- Message ---
+Message ID: 1295811652175794289
+Message Type: Default
+Reply to: None
+Timestamp: 2024-10-15T18:12:52.895+00:00
+Author: Kathy Tafel (Berlin, ex CA/NY) (lucky_moose_80893)
+Author Id: 1278730804926615744
+Avatar URL: assets\36bec663cc896cdb8f383c66ab77829b-039F4.png
+Content: I mean sure it's helpful to me, but if we're working around things and there's an actual site problem, the actual site people should know about it. usually when Cloudflare is helpy on its own there is a root cause. I thought I'd wait to see if it clears up on its own so I don't forget when I go binge on netflix.
+--------------------
+
+--- Message ---
+Message ID: 1295812115596050524
+Message Type: Default
+Reply to: None
+Timestamp: 2024-10-15T18:14:43.383+00:00
+Author: Kathy Tafel (Berlin, ex CA/NY) (lucky_moose_80893)
+Author Id: 1278730804926615744
+Avatar URL: assets\36bec663cc896cdb8f383c66ab77829b-039F4.png
+Content: Oh I'm also supposed to include a cloudflare ray id 8d31c957bbbbca9d
+--------------------
+
+--- Message ---
+Message ID: 1296097408043847721
+Message Type: Default
+Reply to: None
+Timestamp: 2024-10-16T13:08:22.403+00:00
+Author: Ophelia W • Lead Mod (opheliawild)
+Author Id: 957714233217409174
+Avatar URL: assets\8b706a86e5f9b8dcaaa950a7500b77b8-E1341.png
+Content: <@1278730804926615744> I'm hoping we can get one of our techier mods to help you with this. They may know something. <@568257600228032512> any ideas for KT on this?
+--------------------
+
+--- Message ---
+Message ID: 1296099417186762855
+Message Type: Default
+Reply to: None
+Timestamp: 2024-10-16T13:16:21.42+00:00
+Author: Theresa P. Facilitator, CT (theresapiliero)
+Author Id: 1247358312727580722
+Avatar URL: assets\0ce79d61dd701fd36efab64a375a70b2-3E869.png
+Content: FYI, <@782870341445353522>
+--------------------
+
+--- Message ---
+Message ID: 1296099758833668168
+Message Type: Default
+Reply to: None
+Timestamp: 2024-10-16T13:17:42.875+00:00
+Author: Theresa P. Facilitator, CT (theresapiliero)
+Author Id: 1247358312727580722
+Avatar URL: assets\0ce79d61dd701fd36efab64a375a70b2-3E869.png
+Content: FYI, <@1295844518310051891> see above
+--------------------
+
+--- Message ---
+Message ID: 1296100490517549066
+Message Type: Default
+Reply to: None
+Timestamp: 2024-10-16T13:20:37.322+00:00
+Author: Ophelia W • Lead Mod (opheliawild)
+Author Id: 957714233217409174
+Avatar URL: assets\8b706a86e5f9b8dcaaa950a7500b77b8-E1341.png
+Content: Love how we're all tagging in every techie expert we know around here! We're gonna get to the bottom of this, stat!
+--------------------
+
+--- Message ---
+Message ID: 1296214189768966266
+Message Type: Default
+Reply to: None
+Timestamp: 2024-10-16T20:52:25.336+00:00
+Author: Jay E  (TX)  OE Mod (jayrio76)
+Author Id: 782870341445353522
+Avatar URL: assets\41ef520387924aa4413513eda28784df-34D82.png
+Content: For her part <@1295844518310051891> is fine for tonight. She has the Zoom link via DM. I advised for her to make sure her Zoom name matches her Discord name, and she knows to ask for one on one tech help.
+--------------------
+
+--- Message ---
+Message ID: 1296248283513094205
+Message Type: Reply
+Reply to: 1296214189768966266
+Timestamp: 2024-10-16T23:07:53.918+00:00
+Author: Theresa P. Facilitator, CT (theresapiliero)
+Author Id: 1247358312727580722
+Avatar URL: assets\0ce79d61dd701fd36efab64a375a70b2-3E869.png
+Content: You rock!!!!!!!!!!!!
+--------------------
+
+--- Message ---
+Message ID: 1296278265102864457
+Message Type: Default
+Reply to: None
+Timestamp: 2024-10-17T01:07:02.086+00:00
+Author: Jay E  (TX)  OE Mod (jayrio76)
+Author Id: 782870341445353522
+Avatar URL: assets\41ef520387924aa4413513eda28784df-34D82.png
+Content: Not sure if she made it after all that effort, but I hope so. At least she knows the process to work around the Zoom link issue.
+--------------------
+
+--- Message ---
+Message ID: 1296298709285339136
+Message Type: Reply
+Reply to: 1296278265102864457
+Timestamp: 2024-10-17T02:28:16.359+00:00
+Author: Theresa P. Facilitator, CT (theresapiliero)
+Author Id: 1247358312727580722
+Avatar URL: assets\0ce79d61dd701fd36efab64a375a70b2-3E869.png
+Content: She was there. Your efforts worked!!!!
+--------------------
+
+--- Message ---
+Message ID: 1296329921731235860
+Message Type: Default
+Reply to: None
+Timestamp: 2024-10-17T04:32:17.986+00:00
+Author: Jay E  (TX)  OE Mod (jayrio76)
+Author Id: 782870341445353522
+Avatar URL: assets\41ef520387924aa4413513eda28784df-34D82.png
+Content: That makes my night.  So cool.  Thanks.
+--------------------

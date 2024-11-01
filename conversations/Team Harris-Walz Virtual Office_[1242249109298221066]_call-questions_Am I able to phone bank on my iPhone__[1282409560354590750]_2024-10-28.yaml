@@ -1,0 +1,30 @@
+- author_avatar_url: assets\b6507a1273164918d08c9ed9fae30d51-F19DB.png
+  author_id: '1230911468065521725'
+  author_name: valbano757
+  author_nickname: "Veronica \U0001F60E\U0001F436"
+  content: Am I able to phone bank on my iPhone?
+  id: '1282409560354590750'
+  ref_to: null
+  timestamp: '2024-09-08T18:37:45.206+00:00'
+  type: Default
+- author_avatar_url: assets\4412fd436c9a7d43a1770d5771bbdd0c-8CC79.png
+  author_id: '941196169852366859'
+  author_name: mariebroph2677695
+  author_nickname: Marie B. | PA/NJ | OE/KC
+  content: This is doable but it can be slightly difficult. Some do have it easier
+    using a computer or tablet to view the script and a phone for the audio but yes,
+    you can do the whole thing on your smartphone.
+  id: '1282417657806848020'
+  ref_to: null
+  timestamp: '2024-09-08T19:09:55.789+00:00'
+  type: Default
+- author_avatar_url: assets\5fde485e55d806d8356ca6e7e08f1f48-77A19.png
+  author_id: '1266903666879627274'
+  author_name: larrya._98544
+  author_nickname: Larry Ahlgrim (VA) [Call Mod]
+  content: If you run into audio problems you may need to leave zoom for the dialer
+    audio to work.
+  id: '1282433337058918400'
+  ref_to: '1282409560354590750'
+  timestamp: '2024-09-08T20:12:14.014+00:00'
+  type: Reply

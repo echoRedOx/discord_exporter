@@ -1,0 +1,49 @@
+Guild: Team Harris-Walz Virtual Office (ID: 1242249109298221066)
+Channel: Thank you! Do you know how I join slack (ID: 1256650206297067602)
+Channel Topic: None
+Exported At: 2024-10-24T06:17:14.0147932+00:00
+
+
+--- Message ---
+Message ID: 1256650710951661608
+Message Type: 21
+Reply to: 1256650206297067602
+Timestamp: 2024-06-29T16:41:16.932+00:00
+Author: demtortilla (demtortilla_60949)
+Author Id: 1242248892804763712
+Avatar URL: assets\a_c1a2d0423471e6287ce2d2c69bf8abe5-C5FA2.gif
+Content: 
+--------------------
+
+--- Message ---
+Message ID: 1256650711983198308
+Message Type: Default
+Reply to: None
+Timestamp: 2024-06-29T16:41:17.178+00:00
+Author: demtortilla (demtortilla_60949)
+Author Id: 1242248892804763712
+Avatar URL: assets\a_c1a2d0423471e6287ce2d2c69bf8abe5-C5FA2.gif
+Content: https://txt.democrats.org/Slack101 here's the info!
+--------------------
+
+--- Message ---
+Message ID: 1256650828102766694
+Message Type: Default
+Reply to: None
+Timestamp: 2024-06-29T16:41:44.863+00:00
+Author: demtortilla (demtortilla_60949)
+Author Id: 1242248892804763712
+Avatar URL: assets\a_c1a2d0423471e6287ce2d2c69bf8abe5-C5FA2.gif
+Content: Also, call crew will be moving here through the week, so definitely stick around. + I can also help connect you with local team biden harris organizers in NH
+--------------------
+
+--- Message ---
+Message ID: 1256654585339187260
+Message Type: Default
+Reply to: None
+Timestamp: 2024-06-29T16:56:40.658+00:00
+Author: rootsmusic (rootsmusic)
+Author Id: 791857656897732648
+Avatar URL: assets\a30e650576a6d42a3c9ee24648f67c90-2AE37.png
+Content: <@1242248892804763712> need similar guide for Discord in <#1242801792018940005>
+--------------------

@@ -1,0 +1,49 @@
+Guild: Team Harris-Walz Virtual Office (ID: 1242249109298221066)
+Channel: Hi! I completed the training, & quiz (ID: 1294055382968434799)
+Channel Topic: None
+Exported At: 2024-10-28T22:44:56.5811551+00:00
+
+
+--- Message ---
+Message ID: 1294097416295026698
+Message Type: 21
+Reply to: 1294055382968434799
+Timestamp: 2024-10-11T00:41:07.212+00:00
+Author: Roberta Bavin CA KC Greeter/Mod (roberta_24935)
+Author Id: 1269872908759597148
+Avatar URL: assets\df6d19d97b04a49ffcafbe7be14c7839-D9CE4.png
+Content: 
+--------------------
+
+--- Message ---
+Message ID: 1294097420690657342
+Message Type: Default
+Reply to: None
+Timestamp: 2024-10-11T00:41:08.26+00:00
+Author: Roberta Bavin CA KC Greeter/Mod (roberta_24935)
+Author Id: 1269872908759597148
+Avatar URL: assets\df6d19d97b04a49ffcafbe7be14c7839-D9CE4.png
+Content: Hi <@1291508460231589918> You were sent a DM yesterday. Do you see it in your left upper corner of Discord, game controller icon. Thanks for following up! <:thankyou:1252806147396735057>
+--------------------
+
+--- Message ---
+Message ID: 1294098191532425227
+Message Type: Default
+Reply to: None
+Timestamp: 2024-10-11T00:44:12.043+00:00
+Author: Sonja Camden TX (295805)
+Author Id: 1291508460231589918
+Avatar URL: assets\d3448546fa52a0e1a2574872e38473ce-0D76A.png
+Content: I'm going to look for it. Thank you 😊 💙
+--------------------
+
+--- Message ---
+Message ID: 1294109596259979305
+Message Type: Default
+Reply to: None
+Timestamp: 2024-10-11T01:29:31.142+00:00
+Author: Sonja Camden TX (295805)
+Author Id: 1291508460231589918
+Avatar URL: assets\d3448546fa52a0e1a2574872e38473ce-0D76A.png
+Content: I'm thinking corrections are made with name etc.  💙
+--------------------

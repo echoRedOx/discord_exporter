@@ -1,0 +1,49 @@
+Guild: Team Harris-Walz Virtual Office (ID: 1242249109298221066)
+Channel: Hi! I completed the training, agreement (ID: 1298069454562787461)
+Channel Topic: None
+Exported At: 2024-10-28T22:25:31.4616517+00:00
+
+
+--- Message ---
+Message ID: 1298072772412702871
+Message Type: 21
+Reply to: 1298069454562787461
+Timestamp: 2024-10-21T23:57:45.969+00:00
+Author: Roberta Bavin CA KC Greeter/Mod (roberta_24935)
+Author Id: 1269872908759597148
+Avatar URL: assets\df6d19d97b04a49ffcafbe7be14c7839-D9CE4.png
+Content: 
+--------------------
+
+--- Message ---
+Message ID: 1298072775554105364
+Message Type: Default
+Reply to: None
+Timestamp: 2024-10-21T23:57:46.718+00:00
+Author: Roberta Bavin CA KC Greeter/Mod (roberta_24935)
+Author Id: 1269872908759597148
+Avatar URL: assets\df6d19d97b04a49ffcafbe7be14c7839-D9CE4.png
+Content: Hi <@1278852428686430352> Thanks for your patience, we're making our way through everyone in the Saturday training, about 48hours ago! We hope to get to you soon. <:thankyou:1252806147396735057>
+--------------------
+
+--- Message ---
+Message ID: 1298073186918862962
+Message Type: Default
+Reply to: None
+Timestamp: 2024-10-21T23:59:24.795+00:00
+Author: LaurieBMorseIndiana (lauriebmorseindiana_76644)
+Author Id: 1278852428686430352
+Avatar URL: assets\70008fd66462f89f8ab2ee728670698c-8796B.png
+Content: Whoops math fail, ha, I'm just eager 🙂
+--------------------
+
+--- Message ---
+Message ID: 1298073227083649034
+Message Type: Default
+Reply to: None
+Timestamp: 2024-10-21T23:59:34.371+00:00
+Author: LaurieBMorseIndiana (lauriebmorseindiana_76644)
+Author Id: 1278852428686430352
+Avatar URL: assets\70008fd66462f89f8ab2ee728670698c-8796B.png
+Content: I'll stay patient!
+--------------------

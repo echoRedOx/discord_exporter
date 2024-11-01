@@ -1,0 +1,27 @@
+Guild: Team Harris-Walz Virtual Office (ID: 1242249109298221066)
+Channel: When is the next training? (ID: 1283887915184685068)
+Channel Topic: None
+Exported At: 2024-10-28T23:27:00.8596099+00:00
+
+
+--- Message ---
+Message ID: 1283902228981092363
+Message Type: 21
+Reply to: 1283887915184685068
+Timestamp: 2024-09-12T21:29:05.139+00:00
+Author: Rachel Ruben [NY] KC Text Admin (matzahbrei)
+Author Id: 368807878926008341
+Avatar URL: assets\809f117d179a70576b3870d1aaf1eedb-18781.png
+Content: 
+--------------------
+
+--- Message ---
+Message ID: 1283902230864461834
+Message Type: Default
+Reply to: None
+Timestamp: 2024-09-12T21:29:05.588+00:00
+Author: Rachel Ruben [NY] KC Text Admin (matzahbrei)
+Author Id: 368807878926008341
+Avatar URL: assets\809f117d179a70576b3870d1aaf1eedb-18781.png
+Content: You can sign up for a training here: https://events.democrats.org/event/672393/
+--------------------

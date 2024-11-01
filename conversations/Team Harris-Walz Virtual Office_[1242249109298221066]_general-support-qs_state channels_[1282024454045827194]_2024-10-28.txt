@@ -1,0 +1,38 @@
+Guild: Team Harris-Walz Virtual Office (ID: 1242249109298221066)
+Channel: state channels (ID: 1282024454045827194)
+Channel Topic: None
+Exported At: 2024-10-28T20:08:13.7062433+00:00
+
+
+--- Message ---
+Message ID: 1282024454045827194
+Message Type: Default
+Reply to: None
+Timestamp: 2024-09-07T17:07:28.707+00:00
+Author: Nick Albares (nickalbares)
+Author Id: 1274581699325591622
+Avatar URL: assets\f411f7d1b63502b8cb7512b51b25ec43-A815C.png
+Content: Is it possible to join multiple state channels? I’m based in Louisiana and in that channel but interested in joining Georgia and Florida as nearby states where presidential polls are closer and possibly getting involved in mobilization there…
+--------------------
+
+--- Message ---
+Message ID: 1282027059656261695
+Message Type: Default
+Reply to: None
+Timestamp: 2024-09-07T17:17:49.933+00:00
+Author: Carolyn B [CA] • Lead Mod (carb.on)
+Author Id: 568257600228032512
+Avatar URL: assets\28a90c77b5793d80eb62484a43c66748-D8837.png
+Content: HI <@1274581699325591622> you can join as many states as you want. Go to Channels & roles near the top of your left menu and in there you can pick multiple states.
+--------------------
+
+--- Message ---
+Message ID: 1282054159067254816
+Message Type: Reply
+Reply to: 1282027059656261695
+Timestamp: 2024-09-07T19:05:30.936+00:00
+Author: Nick Albares (nickalbares)
+Author Id: 1274581699325591622
+Avatar URL: assets\f411f7d1b63502b8cb7512b51b25ec43-A815C.png
+Content: Found it— thank you!
+--------------------

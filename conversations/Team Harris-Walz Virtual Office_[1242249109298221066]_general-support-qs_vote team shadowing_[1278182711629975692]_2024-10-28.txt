@@ -1,0 +1,83 @@
+Guild: Team Harris-Walz Virtual Office (ID: 1242249109298221066)
+Channel: vote team shadowing (ID: 1278182711629975692)
+Channel Topic: None
+Exported At: 2024-10-28T20:18:17.1614198+00:00
+
+
+--- Message ---
+Message ID: 1278182711629975692
+Message Type: Default
+Reply to: None
+Timestamp: 2024-08-28T02:41:45.939+00:00
+Author: Martha T [DC] (marthat_47767)
+Author Id: 1269333186718990419
+Avatar URL: assets\57d3b834119ba197a4d7b3047f391d31-D4AA2.png
+Content: I filled out the google form to be a shadow chat captain for a phone bank this Friday, but I haven’t gotten a link for the zoom meeting. Did I miss a step?
+Also, as far as I can tell, I can’t access the vote team channels on Discord. ?
+--------------------
+
+--- Message ---
+Message ID: 1278182975128731681
+Message Type: Default
+Reply to: None
+Timestamp: 2024-08-28T02:42:48.762+00:00
+Author: Frances Haydock (HFP HQ!) (franceshaydock_20619)
+Author Id: 1257469301435400238
+Avatar URL: assets\8286d5b1308e7b3d80a3523e4ec50548-C029D.png
+Content: just gave you access to the channels! and you should get a link soon- likely within next 24-48 hours
+--------------------
+
+--- Message ---
+Message ID: 1278183046788681789
+Message Type: Default
+Reply to: None
+Timestamp: 2024-08-28T02:43:05.847+00:00
+Author: Carolyn B [CA] • Lead Mod (carb.on)
+Author Id: 568257600228032512
+Avatar URL: assets\28a90c77b5793d80eb62484a43c66748-D8837.png
+Content: hi <@1269333186718990419> I'm sure you will hear from them before Friday
+--------------------
+
+--- Message ---
+Message ID: 1278183057005875221
+Message Type: Default
+Reply to: None
+Timestamp: 2024-08-28T02:43:08.283+00:00
+Author: Frances Haydock (HFP HQ!) (franceshaydock_20619)
+Author Id: 1257469301435400238
+Avatar URL: assets\8286d5b1308e7b3d80a3523e4ec50548-C029D.png
+Content: If you haven’t heard anything by Friday morning, please message here and I’ll get it to you
+--------------------
+
+--- Message ---
+Message ID: 1278183637975695494
+Message Type: Default
+Reply to: None
+Timestamp: 2024-08-28T02:45:26.797+00:00
+Author: Martha T [DC] (marthat_47767)
+Author Id: 1269333186718990419
+Avatar URL: assets\57d3b834119ba197a4d7b3047f391d31-D4AA2.png
+Content: Awesome. Thanks! <:thumbup:1252804076849074276>
+--------------------
+
+--- Message ---
+Message ID: 1279076604940910735
+Message Type: Default
+Reply to: None
+Timestamp: 2024-08-30T13:53:46.712+00:00
+Author: Rich Holcombe (WI) (priven.)
+Author Id: 740977201436164177
+Avatar URL: assets\63e48c9523aa87666c7f4d2b6d23a691-271FE.png
+Content: <@1257469301435400238> - I attended data captain shadowing Wednesday afternoon and am signed up for my first regular shift on Saturday. Can I be put in the channel? Never mind if the debrief forms are still being processed.
+--------------------
+
+--- Message ---
+Message ID: 1279099272419213414
+Message Type: Default
+Reply to: None
+Timestamp: 2024-08-30T15:23:51.06+00:00
+Author: Carolyn B [CA] • Lead Mod (carb.on)
+Author Id: 568257600228032512
+Avatar URL: assets\28a90c77b5793d80eb62484a43c66748-D8837.png
+Content: Hello <@740977201436164177> we appreciate your patience. You will see the channels before your shift on Saturday.
+--------------------

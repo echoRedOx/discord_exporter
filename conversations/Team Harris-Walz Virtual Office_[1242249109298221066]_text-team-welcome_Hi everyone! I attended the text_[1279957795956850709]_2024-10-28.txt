@@ -1,0 +1,38 @@
+Guild: Team Harris-Walz Virtual Office (ID: 1242249109298221066)
+Channel: Hi everyone! I attended the text (ID: 1279957795956850709)
+Channel Topic: None
+Exported At: 2024-10-28T23:42:21.6217797+00:00
+
+
+--- Message ---
+Message ID: 1279959433195290675
+Message Type: 21
+Reply to: 1279957795956850709
+Timestamp: 2024-09-02T00:21:49.37+00:00
+Author: Jack Joannides KC text admin (jjoannid)
+Author Id: 477560366432256000
+Avatar URL: assets\791c521e62160be1f3df04992f6e5470-36A38.png
+Content: 
+--------------------
+
+--- Message ---
+Message ID: 1279959434445193279
+Message Type: Default
+Reply to: None
+Timestamp: 2024-09-02T00:21:49.668+00:00
+Author: Jack Joannides KC text admin (jjoannid)
+Author Id: 477560366432256000
+Avatar URL: assets\791c521e62160be1f3df04992f6e5470-36A38.png
+Content: Looks like someone direct messaged you regarding scale to win setup.
+--------------------
+
+--- Message ---
+Message ID: 1279961882899382365
+Message Type: Default
+Reply to: None
+Timestamp: 2024-09-02T00:31:33.425+00:00
+Author: Jenny Cutraro [MA] (jenny_04888)
+Author Id: 1275853795825553509
+Avatar URL: assets\ecc7d3881281df26249b077dbfbcfb79-503A4.png
+Content: Thank you!! Missed seeing the little “accept message” icon 🤦‍♀️🤦‍♀️🤦‍♀️
+--------------------

@@ -1,0 +1,38 @@
+Guild: Team Harris-Walz Virtual Office (ID: 1242249109298221066)
+Channel: New Playlist for #Playlists for Kamala. (ID: 1282197716604162078)
+Channel Topic: None
+Exported At: 2024-10-24T06:18:45.294849+00:00
+
+
+--- Message ---
+Message ID: 1282198568391933954
+Message Type: 21
+Reply to: 1282197716604162078
+Timestamp: 2024-09-08T04:39:20.802+00:00
+Author: Jay E  (TX)  OE Mod (jayrio76)
+Author Id: 782870341445353522
+Avatar URL: assets\41ef520387924aa4413513eda28784df-34D82.png
+Content: 
+--------------------
+
+--- Message ---
+Message ID: 1282198569872396340
+Message Type: Default
+Reply to: None
+Timestamp: 2024-09-08T04:39:21.155+00:00
+Author: Jay E  (TX)  OE Mod (jayrio76)
+Author Id: 782870341445353522
+Avatar URL: assets\41ef520387924aa4413513eda28784df-34D82.png
+Content: Great, so glad you found it. Look forward to listening.
+--------------------
+
+--- Message ---
+Message ID: 1282198602663592019
+Message Type: Default
+Reply to: None
+Timestamp: 2024-09-08T04:39:28.973+00:00
+Author: Alex McLand (TX) - MOD (tiredforever)
+Author Id: 225877156247502850
+Avatar URL: assets\a398fe8179da009dde0ef2cbe8b85b49-F1629.png
+Content: https://youtube.com/playlist?list=PLYdHpTWmk1FLoU14r1XQS7KHJZXNhzDbb&feature=shared
+--------------------

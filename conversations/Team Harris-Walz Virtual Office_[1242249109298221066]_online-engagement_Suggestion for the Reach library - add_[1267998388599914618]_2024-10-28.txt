@@ -1,0 +1,50 @@
+Guild: Team Harris-Walz Virtual Office (ID: 1242249109298221066)
+Channel: Suggestion for the Reach library - add (ID: 1267998388599914618)
+Channel Topic: None
+Exported At: 2024-10-28T21:55:32.5607746+00:00
+
+
+--- Message ---
+Message ID: 1267999393475203102
+Message Type: 21
+Reply to: 1267998388599914618
+Timestamp: 2024-07-31T00:16:53.694+00:00
+Author: Jessica Puchala (MD) [OE Lead] (jessica033389)
+Author Id: 869778676986814514
+Avatar URL: assets\37de34190564f7c9acae5895cc884c8a-6F9C7.png
+Content: 
+--------------------
+
+--- Message ---
+Message ID: 1267999395119501455
+Message Type: Default
+Reply to: None
+Timestamp: 2024-07-31T00:16:54.086+00:00
+Author: Jessica Puchala (MD) [OE Lead] (jessica033389)
+Author Id: 869778676986814514
+Avatar URL: assets\37de34190564f7c9acae5895cc884c8a-6F9C7.png
+Content: Hi <@1266900496770400339>. Thanks for being here with us tonight. We're glad you're using Reach. Thanks for the suggestion. You'll find a few of the battleground states have their own Galleries in Reach's Library. I know the team is hard at work updating Reach, so your patience is appreciated as we get it all up to speed. Again, thanks for volunteering!
+--------------------
+
+--- Message ---
+Message ID: 1268000070314360852
+Message Type: Reply
+Reply to: 1267999395119501455
+Timestamp: 2024-07-31T00:19:35.065+00:00
+Author: Alison Rempel (alisonrempel)
+Author Id: 1266900496770400339
+Avatar URL: assets\ce3882a42b0011362b6f403aa78dcbc2-C5246.png
+Content: Thanks... I hadn't noticed the extra Galleries:) 
+Still learning, but loving how easy it is to share!
+--------------------
+
+--- Message ---
+Message ID: 1268000577867223041
+Message Type: Reply
+Reply to: 1268000070314360852
+Timestamp: 2024-07-31T00:21:36.075+00:00
+Author: Jessica Puchala (MD) [OE Lead] (jessica033389)
+Author Id: 869778676986814514
+Avatar URL: assets\37de34190564f7c9acae5895cc884c8a-6F9C7.png
+Content: Fantastic! Oh, I understand. It takes a little time to explore it. FYI: Reach is also available as a website. For this just navigate to https://www.reach.vote/ in your favorite browser and sign in using the same e-mail you have used to register your account. Thanks again for volunteering!
+--------------------

@@ -1,0 +1,38 @@
+Guild: Team Harris-Walz Virtual Office (ID: 1242249109298221066)
+Channel: Can we test our connection/audio? (ID: 1279495346648780851)
+Channel Topic: None
+Exported At: 2024-10-24T12:54:28.2918022+00:00
+
+
+--- Message ---
+Message ID: 1279495346648780851
+Message Type: Default
+Reply to: None
+Timestamp: 2024-08-31T17:37:42.515+00:00
+Author: DanielGaddy (danielgaddy_74892_37656)
+Author Id: 1238493139350585398
+Avatar URL: assets\238be281b93cc1a52873c303e8cd8a35-8873E.png
+Content: Hi I'm phone banking for Michigan right now, and people keep telling me the connectino is bad. Is there any way we can test out our connection. I'm using my computer to make the calls and would really prefer to keep doing that. I'm using a good microphone and headphones with a decent internet connection.
+--------------------
+
+--- Message ---
+Message ID: 1279496929411207271
+Message Type: Default
+Reply to: None
+Timestamp: 2024-08-31T17:43:59.875+00:00
+Author: Holly Mate-Luber [Call Mod] (hollymateluber)
+Author Id: 1267643778043482122
+Avatar URL: assets\d1341d3c05d207da49a6fa548b4c1086-4BE71.png
+Content: Hi Daniel are you in the zoom phone bank? You may want to drop this in the chat there jf so, that way a data/tech captain can help you! Otherwise hopefully someone can answer here soon
+--------------------
+
+--- Message ---
+Message ID: 1279505846224556174
+Message Type: Default
+Reply to: None
+Timestamp: 2024-08-31T18:19:25.809+00:00
+Author: Laura M (CO) • Call Mod (hungry.hiker)
+Author Id: 756314488113987654
+Avatar URL: assets\4aa5ed3c3ad66beef8f10bd0d3979dae-08843.png
+Content: Hi Daniel, I don't know of a way to test the connection. One possible solution is to try leaving the Zoom (if you are still in it). I was on a training the other day and they said zoom can mess with the audio.
+--------------------

@@ -1,0 +1,111 @@
+- author_avatar_url: assets\4-4551A.png
+  author_id: '1242180847642345535'
+  author_name: courtneyemken_57857
+  author_nickname: Courtney Emken
+  content: 'Where do I go to get answers to questions I''m getting from my social
+    posts? In regards to her lowering prices: Like, "Why did prices increase while
+    she was Vice President if she is capable of doing this? Do you think taxing unrealized
+    capital gains will do this? What about higher corporate tax rates? What exactly
+    is the mechanism she will implement to reduce inflation? Price controls?" <#1252676126698897429>
+    @staff'
+  id: '1278720240997371936'
+  ref_to: null
+  timestamp: '2024-08-29T14:17:42.927+00:00'
+  type: Default
+- author_avatar_url: assets\8286d5b1308e7b3d80a3523e4ec50548-C029D.png
+  author_id: '1257469301435400238'
+  author_name: franceshaydock_20619
+  author_nickname: Frances Haydock (HFP HQ!)
+  content: Hi Courtney! This is a good question to ask in the <#1250550849998946417>
+    channel!
+  id: '1278721033137950833'
+  ref_to: null
+  timestamp: '2024-08-29T14:20:51.788+00:00'
+  type: Default
+- author_avatar_url: assets\a30e650576a6d42a3c9ee24648f67c90-2AE37.png
+  author_id: '791857656897732648'
+  author_name: rootsmusic
+  author_nickname: rootsmusic
+  content: <#1250550849998946417> doesn't have talking points.
+  id: '1278774205361426462'
+  ref_to: '1278721033137950833'
+  timestamp: '2024-08-29T17:52:09.034+00:00'
+  type: Reply
+- author_avatar_url: assets\ed90d319d5bed95c02d76e2c8544d45f-2D67B.png
+  author_id: '1280552979975503973'
+  author_name: keeve0703
+  author_nickname: Laurie Hamburg, New York
+  content: I can't get into that channel!
+  id: '1280560492313710626'
+  ref_to: null
+  timestamp: '2024-09-03T16:10:13.031+00:00'
+  type: Default
+- author_avatar_url: assets\8286d5b1308e7b3d80a3523e4ec50548-C029D.png
+  author_id: '1257469301435400238'
+  author_name: franceshaydock_20619
+  author_nickname: Frances Haydock (HFP HQ!)
+  content: Just gave you the role so you should be able to access this!
+  id: '1280560741774266442'
+  ref_to: '1280560492313710626'
+  timestamp: '2024-09-03T16:11:12.507+00:00'
+  type: Reply
+- author_avatar_url: assets\ed90d319d5bed95c02d76e2c8544d45f-2D67B.png
+  author_id: '1280552979975503973'
+  author_name: keeve0703
+  author_nickname: Laurie Hamburg, New York
+  content: ''
+  id: '1280560937887334464'
+  ref_to: null
+  timestamp: '2024-09-03T16:11:59.264+00:00'
+  type: Default
+- author_avatar_url: assets\ed90d319d5bed95c02d76e2c8544d45f-2D67B.png
+  author_id: '1280552979975503973'
+  author_name: keeve0703
+  author_nickname: Laurie Hamburg, New York
+  content: Now, I need to figure out how to start texting!
+  id: '1280561013959164006'
+  ref_to: null
+  timestamp: '2024-09-03T16:12:17.401+00:00'
+  type: Default
+- author_avatar_url: assets\8286d5b1308e7b3d80a3523e4ec50548-C029D.png
+  author_id: '1257469301435400238'
+  author_name: franceshaydock_20619
+  author_nickname: Frances Haydock (HFP HQ!)
+  content: 'You can attend a text bank training here: https://events.democrats.org/event/672393/'
+  id: '1280561337545658368'
+  ref_to: '1280560937887334464'
+  timestamp: '2024-09-03T16:13:34.55+00:00'
+  type: Reply
+- author_avatar_url: assets\ed90d319d5bed95c02d76e2c8544d45f-2D67B.png
+  author_id: '1280552979975503973'
+  author_name: keeve0703
+  author_nickname: Laurie Hamburg, New York
+  content: Thank you! I'm signed up for Thursday.
+  id: '1280564534049771671'
+  ref_to: null
+  timestamp: '2024-09-03T16:26:16.656+00:00'
+  type: Default
+- author_avatar_url: assets\2-ADBB4.png
+  author_id: '1281612937957740558'
+  author_name: hope24_07067
+  author_nickname: Hope24
+  content: I downloaded Reach and searched the Economy Channel and the word Rural
+    to find information to discuss with rural community members.  There was one article
+    under Rural.  There was nothing under the Economy regarding tariffs.  Is there
+    a way to add or suggest articles on specific topics, such as the impact of past
+    Trump Tariffs on agriculture?
+  id: '1281618402334736467'
+  ref_to: null
+  timestamp: '2024-09-06T14:13:58.435+00:00'
+  type: Default
+- author_avatar_url: assets\28a90c77b5793d80eb62484a43c66748-D8837.png
+  author_id: '568257600228032512'
+  author_name: carb.on
+  author_nickname: "Carolyn B [CA] \u2022 Lead Mod"
+  content: Hi <@1281612937957740558> you can go to Channels & Roles and choose Engage
+    with your Online Communities, which will open https://discord.com/channels/1242249109298221066/1250550849998946417
+    and you can share your idea with the team.
+  id: '1281663308335681556'
+  ref_to: null
+  timestamp: '2024-09-06T17:12:24.86+00:00'
+  type: Default

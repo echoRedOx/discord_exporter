@@ -1,0 +1,27 @@
+Guild: Team Harris-Walz Virtual Office (ID: 1242249109298221066)
+Channel: Hey mods! Sounds like I'm in the same (ID: 1275578855901630536)
+Channel Topic: None
+Exported At: 2024-10-29T00:12:01.0264025+00:00
+
+
+--- Message ---
+Message ID: 1275579264044892191
+Message Type: 21
+Reply to: 1275578855901630536
+Timestamp: 2024-08-20T22:16:35.665+00:00
+Author: Tim B [CA] KC Text Admin (otter20079058)
+Author Id: 968557716832391219
+Avatar URL: assets\ff322353539338ae0919d2cd05ec6b4f-297C8.png
+Content: 
+--------------------
+
+--- Message ---
+Message ID: 1275579265248788522
+Message Type: Default
+Reply to: None
+Timestamp: 2024-08-20T22:16:35.952+00:00
+Author: Tim B [CA] KC Text Admin (otter20079058)
+Author Id: 968557716832391219
+Avatar URL: assets\ff322353539338ae0919d2cd05ec6b4f-297C8.png
+Content: <@1265167660061036637>  Please check your DMs now. thank you
+--------------------

@@ -1,0 +1,27 @@
+Guild: Team Harris-Walz Virtual Office (ID: 1242249109298221066)
+Channel: Hi. I completed the text team training (ID: 1288600684962517054)
+Channel Topic: None
+Exported At: 2024-10-28T23:02:28.1260633+00:00
+
+
+--- Message ---
+Message ID: 1288631106907803688
+Message Type: 21
+Reply to: 1288600684962517054
+Timestamp: 2024-09-25T22:39:57.495+00:00
+Author: Andrew Martin [CA[ KC Text Admin (andrewjnla)
+Author Id: 932025725777743923
+Avatar URL: assets\8156a8c1e23069b2fac6bd70259a5ade-A321B.png
+Content: 
+--------------------
+
+--- Message ---
+Message ID: 1288631108212363336
+Message Type: Default
+Reply to: None
+Timestamp: 2024-09-25T22:39:57.806+00:00
+Author: Andrew Martin [CA[ KC Text Admin (andrewjnla)
+Author Id: 932025725777743923
+Avatar URL: assets\8156a8c1e23069b2fac6bd70259a5ade-A321B.png
+Content: Hi Katie - someone will DM you with more info to get you set up here soon. Thanks for being here!
+--------------------

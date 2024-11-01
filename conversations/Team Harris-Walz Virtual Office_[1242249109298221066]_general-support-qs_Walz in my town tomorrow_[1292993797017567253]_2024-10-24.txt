@@ -1,0 +1,27 @@
+Guild: Team Harris-Walz Virtual Office (ID: 1242249109298221066)
+Channel: Walz in my town tomorrow (ID: 1292993797017567253)
+Channel Topic: None
+Exported At: 2024-10-24T06:27:49.7770099+00:00
+
+
+--- Message ---
+Message ID: 1292993797017567253
+Message Type: Default
+Reply to: None
+Timestamp: 2024-10-07T23:35:43.872+00:00
+Author: Amy (amysac916)
+Author Id: 1292928944776937506
+Avatar URL: assets\3-FB033.png
+Content: A group of us would like to be out with support signs for Walz coming through Sacramento CA tomorrow.  How do I find out the best location to be along the road or outside meeting location?  We have Harris/Walz signs.  I do not believe he is doing a public event though.
+--------------------
+
+--- Message ---
+Message ID: 1292994241118601298
+Message Type: Default
+Reply to: None
+Timestamp: 2024-10-07T23:37:29.754+00:00
+Author: Jen Medeiros [CA] • [Lead Mod] (starkittynmom)
+Author Id: 1276944250491113656
+Avatar URL: assets\a_2aba4b7f19fcab5fe5391fcdb73d735d-D670A.gif
+Content: Hi <@1292928944776937506> - the campaign keeps all of that information pretty locked down for security purposes. If there is no public event, it is difficult to know where he will be. You might post in the <#1268356016240857088> channel to see if any other volunteers are organizing around the visit.
+--------------------

@@ -1,0 +1,82 @@
+Guild: Team Harris-Walz Virtual Office (ID: 1242249109298221066)
+Channel: Mastodon accounts to follow (ID: 1277717725766225971)
+Channel Topic: None
+Exported At: 2024-10-24T13:10:00.2757909+00:00
+
+
+--- Message ---
+Message ID: 1277718467092549736
+Message Type: 21
+Reply to: 1277717725766225971
+Timestamp: 2024-08-26T19:57:01.416+00:00
+Author: Kate Z [PA → CA] (katevotes)
+Author Id: 1264709290195685416
+Avatar URL: assets\57433312dd39630d8fec96a3149006e0-CB7BF.png
+Content: 
+--------------------
+
+--- Message ---
+Message ID: 1277718469105942632
+Message Type: Default
+Reply to: None
+Timestamp: 2024-08-26T19:57:01.896+00:00
+Author: Kate Z [PA → CA] (katevotes)
+Author Id: 1264709290195685416
+Avatar URL: assets\57433312dd39630d8fec96a3149006e0-CB7BF.png
+Content: (Mine: kzeta@mastodon.social it's still very new)
+--------------------
+
+--- Message ---
+Message ID: 1277718927178465464
+Message Type: Reply
+Reply to: 1277718469105942632
+Timestamp: 2024-08-26T19:58:51.109+00:00
+Author: rootsmusic (rootsmusic)
+Author Id: 791857656897732648
+Avatar URL: assets\a30e650576a6d42a3c9ee24648f67c90-2AE37.png
+Content: #MastodonForHarris
+--------------------
+
+--- Message ---
+Message ID: 1277720048076587063
+Message Type: Default
+Reply to: None
+Timestamp: 2024-08-26T20:03:18.352+00:00
+Author: Kimmai T. (PA) • Mod (kimmai)
+Author Id: 381286854059884545
+Avatar URL: assets\8f2f5a21a6665091a4e51dc7687cb6f3-AAC42.png
+Content: Mine is kimmai97@mastodon.social for those who haven’t followed me yet
+--------------------
+
+--- Message ---
+Message ID: 1277758326863695916
+Message Type: Default
+Reply to: None
+Timestamp: 2024-08-26T22:35:24.726+00:00
+Author: Steven Rosenthal (hawkbox_)
+Author Id: 577210116668129281
+Avatar URL: assets\febe603bbd950abfa2d66d58c43cc6b7-905D0.png
+Content: You know, if you follow the Mastodon account @kamalaharrisforpresidentnews, it’s like following 2k Harris voters.  (It’s a group anyone can post to that always gets that post reposted to the whole group, if that makes sense)
+--------------------
+
+--- Message ---
+Message ID: 1277782300620226620
+Message Type: Default
+Reply to: None
+Timestamp: 2024-08-27T00:10:40.515+00:00
+Author: Kate Z [PA → CA] (katevotes)
+Author Id: 1264709290195685416
+Avatar URL: assets\57433312dd39630d8fec96a3149006e0-CB7BF.png
+Content: I didn't know about that account! (Still learning about Mastodon itself.) Thanks!
+--------------------
+
+--- Message ---
+Message ID: 1277783126759964754
+Message Type: Default
+Reply to: None
+Timestamp: 2024-08-27T00:13:57.482+00:00
+Author: Kate Z [PA → CA] (katevotes)
+Author Id: 1264709290195685416
+Avatar URL: assets\57433312dd39630d8fec96a3149006e0-CB7BF.png
+Content: According to their profile, apparently they're moving to https://newsmast.social/@KamalaHarrisWin
+--------------------

@@ -1,0 +1,27 @@
+Guild: Team Harris-Walz Virtual Office (ID: 1242249109298221066)
+Channel: Hi.  I've completed the quiz and  signed (ID: 1277298577021997188)
+Channel Topic: None
+Exported At: 2024-10-29T00:02:50.3092434+00:00
+
+
+--- Message ---
+Message ID: 1277362695183798493
+Message Type: 21
+Reply to: 1277298577021997188
+Timestamp: 2024-08-25T20:23:18.783+00:00
+Author: Nicole Morris - Text Admin (nmorris237)
+Author Id: 935762347753103382
+Avatar URL: assets\27b1e286b65ae02b3378793b5f098411-A7B20.png
+Content: 
+--------------------
+
+--- Message ---
+Message ID: 1277362697247395940
+Message Type: Default
+Reply to: None
+Timestamp: 2024-08-25T20:23:19.275+00:00
+Author: Nicole Morris - Text Admin (nmorris237)
+Author Id: 935762347753103382
+Avatar URL: assets\27b1e286b65ae02b3378793b5f098411-A7B20.png
+Content: Hi <@1277033150828118079> Thanks! I'm just catching up - but looks like you have been added to the text channels now. Let me know if you don't see them or have any other questions!
+--------------------

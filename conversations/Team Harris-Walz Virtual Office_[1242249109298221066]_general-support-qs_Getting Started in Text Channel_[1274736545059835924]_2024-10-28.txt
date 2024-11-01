@@ -1,0 +1,150 @@
+Guild: Team Harris-Walz Virtual Office (ID: 1242249109298221066)
+Channel: Getting Started in Text Channel (ID: 1274736545059835924)
+Channel Topic: None
+Exported At: 2024-10-28T20:28:38.6015078+00:00
+
+
+--- Message ---
+Message ID: 1274736545059835924
+Message Type: Default
+Reply to: None
+Timestamp: 2024-08-18T14:27:55.802+00:00
+Author: Ekta Shah FL/DC (ektashahmd)
+Author Id: 1043888960734253126
+Avatar URL: assets\f3f0d4decbb82746ca59852d88d13889-6BEFE.png
+Content: Hi I finished the quiz yesterday and filled out the form but I still don't have access to the text channel. Any help is appreciated. Thanks
+
+Ekta
+--------------------
+
+--- Message ---
+Message ID: 1274739040129777766
+Message Type: Default
+Reply to: None
+Timestamp: 2024-08-18T14:37:50.673+00:00
+Author: Jeannine M • Lead Mod (jean9_28218_79932)
+Author Id: 1266879741785538682
+Avatar URL: assets\54ff5e8dfab835d878a961f9f7b7d161-6C0EE.png
+Content: Hi, Ekta! The team is adding people one by one. In the meantime, please add your state abbreviation after your name, in [brackets]. Someone may be able to help really soon, but if you don't hear anything in a couple of days, please reach out again
+--------------------
+
+--- Message ---
+Message ID: 1274765045384876062
+Message Type: Default
+Reply to: None
+Timestamp: 2024-08-18T16:21:10.809+00:00
+Author: Ekta Shah FL/DC (ektashahmd)
+Author Id: 1043888960734253126
+Avatar URL: assets\f3f0d4decbb82746ca59852d88d13889-6BEFE.png
+Content: Is how it looks now ok? I Put FL/DC bc I stay in DC most of the year but I'm still a Florida voter
+--------------------
+
+--- Message ---
+Message ID: 1274767297541574727
+Message Type: Default
+Reply to: None
+Timestamp: 2024-08-18T16:30:07.765+00:00
+Author: Rana Meyer NY (rana191919)
+Author Id: 1271479084756762727
+Avatar URL: assets\dc3dad81b63a32738adda516e1141a2f-56607.png
+Content: I have been trained  and did the quiz... where do we text
+--------------------
+
+--- Message ---
+Message ID: 1274767773599400018
+Message Type: Default
+Reply to: None
+Timestamp: 2024-08-18T16:32:01.266+00:00
+Author: Carolyn B [CA] • Lead Mod (carb.on)
+Author Id: 568257600228032512
+Avatar URL: assets\28a90c77b5793d80eb62484a43c66748-D8837.png
+Content: Hi, <@1271479084756762727> ! The team is adding people one by one. Someone may be able to help you soon, but if you don't hear anything in a couple of days, please reach out again
+--------------------
+
+--- Message ---
+Message ID: 1274767948677906504
+Message Type: Default
+Reply to: None
+Timestamp: 2024-08-18T16:32:43.008+00:00
+Author: Rana Meyer NY (rana191919)
+Author Id: 1271479084756762727
+Avatar URL: assets\dc3dad81b63a32738adda516e1141a2f-56607.png
+Content: This is me doing that now. I did it a week ago lol
+--------------------
+
+--- Message ---
+Message ID: 1274768745260257293
+Message Type: Reply
+Reply to: 1274767948677906504
+Timestamp: 2024-08-18T16:35:52.928+00:00
+Author: Carolyn B [CA] • Lead Mod (carb.on)
+Author Id: 568257600228032512
+Avatar URL: assets\28a90c77b5793d80eb62484a43c66748-D8837.png
+Content: Text teams are at capacity. You'll get added when spaces open. You can also use your text team knowledge with other text banking campaigns like https://events.democrats.org/event/433467/, you can "text" in the filter on the https://events.democrats.org/ page.
+--------------------
+
+--- Message ---
+Message ID: 1274768892681650186
+Message Type: Default
+Reply to: None
+Timestamp: 2024-08-18T16:36:28.076+00:00
+Author: Rana Meyer NY (rana191919)
+Author Id: 1271479084756762727
+Avatar URL: assets\dc3dad81b63a32738adda516e1141a2f-56607.png
+Content: Ok hope added soon
+--------------------
+
+--- Message ---
+Message ID: 1274769412565762249
+Message Type: Default
+Reply to: None
+Timestamp: 2024-08-18T16:38:32.026+00:00
+Author: Carolyn B [CA] • Lead Mod (carb.on)
+Author Id: 568257600228032512
+Avatar URL: assets\28a90c77b5793d80eb62484a43c66748-D8837.png
+Content: <@1271479084756762727> While we appreciate you are interested in text, the phone banking is actually much more effective all around. We have great support for new phone bankers, you will be embraced by wonderful group experience and even if you don't manage to talk to anyone on the phone, you being there will push the numbers up which makes the dialer move faster and others on your team will be able to connect with more folks.
+--------------------
+
+--- Message ---
+Message ID: 1274769491552632913
+Message Type: Default
+Reply to: None
+Timestamp: 2024-08-18T16:38:50.858+00:00
+Author: Rana Meyer NY (rana191919)
+Author Id: 1271479084756762727
+Avatar URL: assets\dc3dad81b63a32738adda516e1141a2f-56607.png
+Content: Thanks
+--------------------
+
+--- Message ---
+Message ID: 1274781112345821225
+Message Type: Default
+Reply to: None
+Timestamp: 2024-08-18T17:25:01.471+00:00
+Author: Mary Robinson [MD] (drmer_)
+Author Id: 1208172685926993952
+Avatar URL: assets\420e506a1a87c8d76507fc2fe5591874-44B86.png
+Content: Hi I clinked mobile inbox. I didn’t see #Noaccess. How do we know if we are adding to the text team? Thanks
+--------------------
+
+--- Message ---
+Message ID: 1274781452105547787
+Message Type: Default
+Reply to: None
+Timestamp: 2024-08-18T17:26:22.476+00:00
+Author: Jack Joannides KC text admin (jjoannid)
+Author Id: 477560366432256000
+Avatar URL: assets\791c521e62160be1f3df04992f6e5470-36A38.png
+Content: Mobile inbox is different then text team.
+--------------------
+
+--- Message ---
+Message ID: 1274782140701216799
+Message Type: Default
+Reply to: None
+Timestamp: 2024-08-18T17:29:06.65+00:00
+Author: Mary Robinson [MD] (drmer_)
+Author Id: 1208172685926993952
+Avatar URL: assets\420e506a1a87c8d76507fc2fe5591874-44B86.png
+Content: Okay! Still learning.
+--------------------

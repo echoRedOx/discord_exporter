@@ -1,0 +1,29 @@
+- author_avatar_url: assets\df6d19d97b04a49ffcafbe7be14c7839-D9CE4.png
+  author_id: '1269872908759597148'
+  author_name: roberta_24935
+  author_nickname: Roberta Bavin CA KC Greeter/Mod
+  content: ''
+  id: '1295398028487950336'
+  ref_to: '1295381103414087784'
+  timestamp: '2024-10-14T14:49:17.323+00:00'
+  type: '21'
+- author_avatar_url: assets\df6d19d97b04a49ffcafbe7be14c7839-D9CE4.png
+  author_id: '1269872908759597148'
+  author_name: roberta_24935
+  author_nickname: Roberta Bavin CA KC Greeter/Mod
+  content: Hi there <@838948173082001439> Thanks for reaching out. Please look for
+    a DM from Andrew on 10/8. The DM are in upper left corner of Discord at the game
+    controller icon. Thanks!
+  id: '1295398032279343135'
+  ref_to: null
+  timestamp: '2024-10-14T14:49:18.227+00:00'
+  type: Default
+- author_avatar_url: assets\86084c3058f0a59e7eef3ab3b85fc6ad-BA4B4.png
+  author_id: '838948173082001439'
+  author_name: tvdorrose
+  author_nickname: Savanna Richie, DC
+  content: Oops, I see it now, thank you! That notification is so small.
+  id: '1295399113587949599'
+  ref_to: '1295398032279343135'
+  timestamp: '2024-10-14T14:53:36.031+00:00'
+  type: Reply

@@ -1,0 +1,27 @@
+Guild: Team Harris-Walz Virtual Office (ID: 1242249109298221066)
+Channel: Hello - have joined S2W and added all (ID: 1299358747289849856)
+Channel Topic: None
+Exported At: 2024-10-28T22:13:19.5732752+00:00
+
+
+--- Message ---
+Message ID: 1299383799200874589
+Message Type: 21
+Reply to: 1299358747289849856
+Timestamp: 2024-10-25T14:47:19.113+00:00
+Author: Roberta Bavin CA KC Greeter/Mod (roberta_24935)
+Author Id: 1269872908759597148
+Avatar URL: assets\df6d19d97b04a49ffcafbe7be14c7839-D9CE4.png
+Content: 
+--------------------
+
+--- Message ---
+Message ID: 1299383804091174964
+Message Type: Default
+Reply to: None
+Timestamp: 2024-10-25T14:47:20.279+00:00
+Author: Roberta Bavin CA KC Greeter/Mod (roberta_24935)
+Author Id: 1269872908759597148
+Avatar URL: assets\df6d19d97b04a49ffcafbe7be14c7839-D9CE4.png
+Content: Hi <@577911422038573087> Please check the DM's for the next steps. Thanks for reaching out!
+--------------------

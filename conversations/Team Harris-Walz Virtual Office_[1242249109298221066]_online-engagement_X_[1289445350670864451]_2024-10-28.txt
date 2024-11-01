@@ -1,0 +1,39 @@
+Guild: Team Harris-Walz Virtual Office (ID: 1242249109298221066)
+Channel: X (ID: 1289445350670864451)
+Channel Topic: None
+Exported At: 2024-10-28T21:49:16.6022554+00:00
+
+
+--- Message ---
+Message ID: 1289643414874230926
+Message Type: 21
+Reply to: 1289445350670864451
+Timestamp: 2024-09-28T17:42:30.522+00:00
+Author: Carla D (caroladunes)
+Author Id: 1273431441341939754
+Avatar URL: assets\a5ddc29b9fb03e1ee3e912cc7f7e29ba-D73C3.png
+Content: 
+--------------------
+
+--- Message ---
+Message ID: 1289643416342368358
+Message Type: Default
+Reply to: None
+Timestamp: 2024-09-28T17:42:30.872+00:00
+Author: Carla D (caroladunes)
+Author Id: 1273431441341939754
+Avatar URL: assets\a5ddc29b9fb03e1ee3e912cc7f7e29ba-D73C3.png
+Content: Thanks, that's somewhat helpful but the supporting info is a bit hard to understand. Hopefully this particular accusation doesn't have long legs.
+--------------------
+
+--- Message ---
+Message ID: 1289645699524333599
+Message Type: Default
+Reply to: None
+Timestamp: 2024-09-28T17:51:35.225+00:00
+Author: Carla D (caroladunes)
+Author Id: 1273431441341939754
+Avatar URL: assets\a5ddc29b9fb03e1ee3e912cc7f7e29ba-D73C3.png
+Content: I found an NBC News story that helps a bit, but it says the White House was surprised by the release of the data and hasn't commented yet.
+https://www.nbcnews.com/investigations/13000-immigrants-convicted-homicide-living-freely-us-ice-data-rcna173125
+--------------------

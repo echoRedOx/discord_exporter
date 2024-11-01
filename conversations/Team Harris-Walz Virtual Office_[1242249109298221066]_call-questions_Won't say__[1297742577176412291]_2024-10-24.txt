@@ -1,0 +1,38 @@
+Guild: Team Harris-Walz Virtual Office (ID: 1242249109298221066)
+Channel: Won't say? (ID: 1297742577176412291)
+Channel Topic: None
+Exported At: 2024-10-24T12:41:24.5447964+00:00
+
+
+--- Message ---
+Message ID: 1297742577176412291
+Message Type: Default
+Reply to: None
+Timestamp: 2024-10-21T02:05:41.29+00:00
+Author: Jennifer Bernard AK (jenbernard8437)
+Author Id: 660555540027539540
+Avatar URL: assets\3-FB033.png
+Content: How do you mark someone who says they already decided who to vote for but won't say before they hang up?
+--------------------
+
+--- Message ---
+Message ID: 1297742744160043009
+Message Type: Default
+Reply to: None
+Timestamp: 2024-10-21T02:06:21.102+00:00
+Author: Gail Levine CA (CALL Mod D.C.) (gail_13473)
+Author Id: 1266903886434799708
+Avatar URL: assets\9a73536ac815ab8b7516ce92a4c36681-C7CBF.png
+Content: Hi, Jennifer.  You mark them as refused.  Thanks for being here and making these IMPORTANT calls with us.  Take care.
+--------------------
+
+--- Message ---
+Message ID: 1297742789051813899
+Message Type: Default
+Reply to: None
+Timestamp: 2024-10-21T02:06:31.805+00:00
+Author: Jennifer Bernard AK (jenbernard8437)
+Author Id: 660555540027539540
+Avatar URL: assets\3-FB033.png
+Content: Ok, thank you!
+--------------------

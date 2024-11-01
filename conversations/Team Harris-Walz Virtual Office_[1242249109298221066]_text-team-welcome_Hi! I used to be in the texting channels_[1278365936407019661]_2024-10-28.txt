@@ -1,0 +1,38 @@
+Guild: Team Harris-Walz Virtual Office (ID: 1242249109298221066)
+Channel: Hi! I used to be in the texting channels (ID: 1278365936407019661)
+Channel Topic: None
+Exported At: 2024-10-28T23:55:38.8036653+00:00
+
+
+--- Message ---
+Message ID: 1278368285884420188
+Message Type: 21
+Reply to: 1278365936407019661
+Timestamp: 2024-08-28T14:59:10.289+00:00
+Author: Kris Morrell (CA) - KC TextAdmin (kcmpolitical)
+Author Id: 1254144571089354868
+Avatar URL: assets\f7ebcd4727f2b8e05b4382b1b1eb6d74-1D9FE.png
+Content: 
+--------------------
+
+--- Message ---
+Message ID: 1278368287809470525
+Message Type: Default
+Reply to: None
+Timestamp: 2024-08-28T14:59:10.748+00:00
+Author: Kris Morrell (CA) - KC TextAdmin (kcmpolitical)
+Author Id: 1254144571089354868
+Avatar URL: assets\f7ebcd4727f2b8e05b4382b1b1eb6d74-1D9FE.png
+Content: Hi <@930528768110506044>, did you check your messages? I believe one of us sent you one.
+--------------------
+
+--- Message ---
+Message ID: 1278368335624409100
+Message Type: Default
+Reply to: None
+Timestamp: 2024-08-28T14:59:22.148+00:00
+Author: Kris Morrell (CA) - KC TextAdmin (kcmpolitical)
+Author Id: 1254144571089354868
+Avatar URL: assets\f7ebcd4727f2b8e05b4382b1b1eb6d74-1D9FE.png
+Content: 
+--------------------

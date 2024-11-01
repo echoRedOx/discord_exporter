@@ -1,0 +1,72 @@
+Guild: Team Harris-Walz Virtual Office (ID: 1242249109298221066)
+Channel: Channel help (ID: 1274874452336709776)
+Channel Topic: None
+Exported At: 2024-10-28T20:28:33.4744816+00:00
+
+
+--- Message ---
+Message ID: 1274874452336709776
+Message Type: Default
+Reply to: None
+Timestamp: 2024-08-18T23:35:55.459+00:00
+Author: Brad B (bradb_21554)
+Author Id: 1066233166949523516
+Avatar URL: assets\3-FB033.png
+Content: I'm getting this error message when I try and join certain channels?
+--------------------
+
+--- Message ---
+Message ID: 1274875178404544618
+Message Type: Default
+Reply to: None
+Timestamp: 2024-08-18T23:38:48.567+00:00
+Author: Justice (evo_devo)
+Author Id: 109848744362508288
+Avatar URL: assets\039a1a53b4ecb5d1413b1170cef883d6-5397F.png
+Content: Are you trying to join the channel for voice purposes or text purposes? Overwhemingly, our channels are text based and we do not converse vocally. The exception is the staff on the stage and watch parties
+--------------------
+
+--- Message ---
+Message ID: 1274914933058044006
+Message Type: Default
+Reply to: None
+Timestamp: 2024-08-19T02:16:46.815+00:00
+Author: Frances Haydock [HQ Staff Alt] (msloki01)
+Author Id: 430470599064682507
+Avatar URL: assets\a9493779f6f0e06c0c98b2ddf25a0db5-17406.png
+Content: <@568257600228032512> can you help? I know we don’t have webhook permissions enabled on this server but can you help him to access other channels?
+--------------------
+
+--- Message ---
+Message ID: 1274915239191642112
+Message Type: Reply
+Reply to: 1274914933058044006
+Timestamp: 2024-08-19T02:17:59.803+00:00
+Author: Carolyn B [CA] • Lead Mod (carb.on)
+Author Id: 568257600228032512
+Avatar URL: assets\28a90c77b5793d80eb62484a43c66748-D8837.png
+Content: I'll take care of him.
+--------------------
+
+--- Message ---
+Message ID: 1274915721029095467
+Message Type: Default
+Reply to: None
+Timestamp: 2024-08-19T02:19:54.682+00:00
+Author: Frances Haydock (HFP HQ!) (franceshaydock_20619)
+Author Id: 1257469301435400238
+Avatar URL: assets\8286d5b1308e7b3d80a3523e4ec50548-C029D.png
+Content: thanks--you're the best
+--------------------
+
+--- Message ---
+Message ID: 1274916180548780175
+Message Type: Default
+Reply to: None
+Timestamp: 2024-08-19T02:21:44.24+00:00
+Author: Carolyn B [CA] • Lead Mod (carb.on)
+Author Id: 568257600228032512
+Avatar URL: assets\28a90c77b5793d80eb62484a43c66748-D8837.png
+Content: Hi Brad, the error you get is because your server needs webhooks in order to follow this server. 
+it looks like you want to see the Announcements from this Discord community all you need to do is turn on notifications for Announcements and you'll see that on your discord dashboard or phone icon. Right-click on Announcements > choose Notification Settings > All messages (or mentions) if you don't want everything.
+--------------------

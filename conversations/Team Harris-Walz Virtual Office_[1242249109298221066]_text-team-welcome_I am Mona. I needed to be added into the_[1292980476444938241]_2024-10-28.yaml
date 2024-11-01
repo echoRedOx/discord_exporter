@@ -1,0 +1,47 @@
+- author_avatar_url: assets\27b1e286b65ae02b3378793b5f098411-A7B20.png
+  author_id: '935762347753103382'
+  author_name: nmorris237
+  author_nickname: Nicole Morris - Text Admin
+  content: ''
+  id: '1292981241737384007'
+  ref_to: '1292980476444938241'
+  timestamp: '2024-10-07T22:45:50.46+00:00'
+  type: '21'
+- author_avatar_url: assets\27b1e286b65ae02b3378793b5f098411-A7B20.png
+  author_id: '935762347753103382'
+  author_name: nmorris237
+  author_nickname: Nicole Morris - Text Admin
+  content: Hi <@1285305256959283252> Thanks! It looks like Roberta sent you a Direct
+    Message -- please let us know if you don't see it.
+  id: '1292981243855769671'
+  ref_to: null
+  timestamp: '2024-10-07T22:45:50.965+00:00'
+  type: Default
+- author_avatar_url: assets\27b1e286b65ae02b3378793b5f098411-A7B20.png
+  author_id: '935762347753103382'
+  author_name: nmorris237
+  author_nickname: Nicole Morris - Text Admin
+  content: If you're on a computer, it may be hidden in "Message Requests"
+  id: '1292981279775789086'
+  ref_to: null
+  timestamp: '2024-10-07T22:45:59.529+00:00'
+  type: Default
+- author_avatar_url: assets\27b1e286b65ae02b3378793b5f098411-A7B20.png
+  author_id: '935762347753103382'
+  author_name: nmorris237
+  author_nickname: Nicole Morris - Text Admin
+  content: ''
+  id: '1292981346355904532'
+  ref_to: null
+  timestamp: '2024-10-07T22:46:15.403+00:00'
+  type: Default
+- author_avatar_url: assets\b0d4730efd1eb6232e0d576b15161967-AE706.png
+  author_id: '932025378749419571'
+  author_name: herb7285
+  author_nickname: Herb B - KC Text Admin
+  content: "<@1285305256959283252> - I just sent you a direct messsage- let me know\
+    \ if you see it! \U0001F604"
+  id: '1298060663737946125'
+  ref_to: null
+  timestamp: '2024-10-21T23:09:39.036+00:00'
+  type: Default

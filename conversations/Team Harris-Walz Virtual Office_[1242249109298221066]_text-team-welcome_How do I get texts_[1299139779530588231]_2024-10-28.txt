@@ -1,0 +1,27 @@
+Guild: Team Harris-Walz Virtual Office (ID: 1242249109298221066)
+Channel: How do I get texts (ID: 1299139779530588231)
+Channel Topic: None
+Exported At: 2024-10-28T22:14:18.4116586+00:00
+
+
+--- Message ---
+Message ID: 1299153851374370848
+Message Type: 21
+Reply to: 1299139779530588231
+Timestamp: 2024-10-24T23:33:35.279+00:00
+Author: Roberta Bavin CA KC Greeter/Mod (roberta_24935)
+Author Id: 1269872908759597148
+Avatar URL: assets\df6d19d97b04a49ffcafbe7be14c7839-D9CE4.png
+Content: 
+--------------------
+
+--- Message ---
+Message ID: 1299153855862538240
+Message Type: Default
+Reply to: None
+Timestamp: 2024-10-24T23:33:36.349+00:00
+Author: Roberta Bavin CA KC Greeter/Mod (roberta_24935)
+Author Id: 1269872908759597148
+Avatar URL: assets\df6d19d97b04a49ffcafbe7be14c7839-D9CE4.png
+Content: Hi <@1202281931190833185> Thanks for reaching out. If you did the Persuasion Text onboarding, please reach out to them. Thanks!
+--------------------

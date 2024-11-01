@@ -1,0 +1,49 @@
+Guild: Team Harris-Walz Virtual Office (ID: 1242249109298221066)
+Channel: I did a text training on 8/3 and made a (ID: 1277806172983787623)
+Channel Topic: None
+Exported At: 2024-10-29T00:00:44.8094612+00:00
+
+
+--- Message ---
+Message ID: 1277817472023527516
+Message Type: 21
+Reply to: 1277806172983787623
+Timestamp: 2024-08-27T02:30:26.031+00:00
+Author: Jack Joannides KC text admin (jjoannid)
+Author Id: 477560366432256000
+Avatar URL: assets\791c521e62160be1f3df04992f6e5470-36A38.png
+Content: 
+--------------------
+
+--- Message ---
+Message ID: 1277817473646727219
+Message Type: Default
+Reply to: None
+Timestamp: 2024-08-27T02:30:26.418+00:00
+Author: Jack Joannides KC text admin (jjoannid)
+Author Id: 477560366432256000
+Avatar URL: assets\791c521e62160be1f3df04992f6e5470-36A38.png
+Content: Let me check. You're in our channel.
+--------------------
+
+--- Message ---
+Message ID: 1277817748688343070
+Message Type: Default
+Reply to: None
+Timestamp: 2024-08-27T02:31:31.993+00:00
+Author: Jack Joannides KC text admin (jjoannid)
+Author Id: 477560366432256000
+Avatar URL: assets\791c521e62160be1f3df04992f6e5470-36A38.png
+Content: You 100% have one.
+--------------------
+
+--- Message ---
+Message ID: 1277819155923341394
+Message Type: Default
+Reply to: None
+Timestamp: 2024-08-27T02:37:07.504+00:00
+Author: Jack Joannides KC text admin (jjoannid)
+Author Id: 477560366432256000
+Avatar URL: assets\791c521e62160be1f3df04992f6e5470-36A38.png
+Content: I sent you an direct message with an link.
+--------------------

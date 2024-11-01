@@ -1,0 +1,27 @@
+Guild: Team Harris-Walz Virtual Office (ID: 1242249109298221066)
+Channel: Getting into Spoke (ID: 1294325433294389341)
+Channel Topic: None
+Exported At: 2024-10-24T06:26:42.1165499+00:00
+
+
+--- Message ---
+Message ID: 1294325433294389341
+Message Type: Default
+Reply to: None
+Timestamp: 2024-10-11T15:47:10.701+00:00
+Author: Robert Liebman [NY] (robertliebman_56339)
+Author Id: 1284648040699007146
+Avatar URL: assets\3-FB033.png
+Content: Spoke doesn't seem to be recognizing that I signed up with the DNC texting team anymore. Clinking on the links for texting just shows that there is nothing to do.
+--------------------
+
+--- Message ---
+Message ID: 1294331364627447858
+Message Type: Default
+Reply to: None
+Timestamp: 2024-10-11T16:10:44.841+00:00
+Author: Ruth B [CA] • Mod • Text Mod (ruth_musicmama)
+Author Id: 706588762251198525
+Avatar URL: assets\a9e1ee4b5a4d968bac2eea06147b0ef2-6BE6D.png
+Content: Hi Robert! Can you please post this question in <#1259238714157305936> ? Someone there should be able to help you. Thanks!
+--------------------

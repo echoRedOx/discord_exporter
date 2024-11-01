@@ -1,0 +1,82 @@
+Guild: Team Harris-Walz Virtual Office (ID: 1242249109298221066)
+Channel: Where should we look to see if we have a (ID: 1283942741851639839)
+Channel Topic: None
+Exported At: 2024-10-28T23:25:01.3047153+00:00
+
+
+--- Message ---
+Message ID: 1283943706617184337
+Message Type: 21
+Reply to: 1283942741851639839
+Timestamp: 2024-09-13T00:13:54.178+00:00
+Author: Nicole Morris - Text Admin (nmorris237)
+Author Id: 935762347753103382
+Avatar URL: assets\27b1e286b65ae02b3378793b5f098411-A7B20.png
+Content: 
+--------------------
+
+--- Message ---
+Message ID: 1283943708214956154
+Message Type: Default
+Reply to: None
+Timestamp: 2024-09-13T00:13:54.559+00:00
+Author: Nicole Morris - Text Admin (nmorris237)
+Author Id: 935762347753103382
+Avatar URL: assets\27b1e286b65ae02b3378793b5f098411-A7B20.png
+Content: Hi <@1283210598271942758> I will send you a follow up Direct Message now. Let me know if you don't see it.
+--------------------
+
+--- Message ---
+Message ID: 1283943782814842920
+Message Type: Default
+Reply to: None
+Timestamp: 2024-09-13T00:14:12.345+00:00
+Author: Dara Glenn [NJ] (dara070121)
+Author Id: 1283210598271942758
+Avatar URL: assets\6c5996770c985bcd6e5b68131ff2ba04-C05AF.png
+Content: Thank you!
+--------------------
+
+--- Message ---
+Message ID: 1284142445331746827
+Message Type: Default
+Reply to: None
+Timestamp: 2024-09-13T13:23:37.18+00:00
+Author: Reem Papageorgiou (MA) (reem011193)
+Author Id: 1283210608329883658
+Avatar URL: assets\5445ffd7ffb201a98393cbdf684ea4b1-0AE91.png
+Content: Yes me too. Still waiting for a message. I trained Tuesday.
+--------------------
+
+--- Message ---
+Message ID: 1284166809683234836
+Message Type: Default
+Reply to: None
+Timestamp: 2024-09-13T15:00:26.094+00:00
+Author: Nicole Morris - Text Admin (nmorris237)
+Author Id: 935762347753103382
+Avatar URL: assets\27b1e286b65ae02b3378793b5f098411-A7B20.png
+Content: Hi! Looks like you have both been added 🙂
+--------------------
+
+--- Message ---
+Message ID: 1284219075698098229
+Message Type: Default
+Reply to: None
+Timestamp: 2024-09-13T18:28:07.283+00:00
+Author: Alan Tinkleman Maryland (alan_60785)
+Author Id: 1283212503446323262
+Avatar URL: assets\1-B2132.png
+Content: I was also trained Tuesday and waiting for a message.
+--------------------
+
+--- Message ---
+Message ID: 1284312803447930911
+Message Type: Default
+Reply to: None
+Timestamp: 2024-09-14T00:40:33.72+00:00
+Author: Nicole Morris - Text Admin (nmorris237)
+Author Id: 935762347753103382
+Avatar URL: assets\27b1e286b65ae02b3378793b5f098411-A7B20.png
+Content: Hi <@1283212503446323262> Thanks! I will send you a Direct Message now, please let me know if you don't see it.
+--------------------

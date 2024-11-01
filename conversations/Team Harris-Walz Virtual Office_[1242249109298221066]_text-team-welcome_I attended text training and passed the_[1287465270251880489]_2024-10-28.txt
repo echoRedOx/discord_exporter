@@ -1,0 +1,159 @@
+Guild: Team Harris-Walz Virtual Office (ID: 1242249109298221066)
+Channel: I attended text training and passed the (ID: 1287465270251880489)
+Channel Topic: None
+Exported At: 2024-10-28T23:07:35.422729+00:00
+
+
+--- Message ---
+Message ID: 1287465777863200840
+Message Type: 21
+Reply to: 1287465270251880489
+Timestamp: 2024-09-22T17:29:21.4+00:00
+Author: Jack Joannides KC text admin (jjoannid)
+Author Id: 477560366432256000
+Avatar URL: assets\791c521e62160be1f3df04992f6e5470-36A38.png
+Content: 
+--------------------
+
+--- Message ---
+Message ID: 1287465779964412056
+Message Type: Default
+Reply to: None
+Timestamp: 2024-09-22T17:29:21.901+00:00
+Author: Jack Joannides KC text admin (jjoannid)
+Author Id: 477560366432256000
+Avatar URL: assets\791c521e62160be1f3df04992f6e5470-36A38.png
+Content: You'll get a direct message in 24-72 hours.
+--------------------
+
+--- Message ---
+Message ID: 1287466036555419721
+Message Type: Default
+Reply to: None
+Timestamp: 2024-09-22T17:30:23.077+00:00
+Author: Andrew Rein Maryland (sharky051193)
+Author Id: 766511749486346242
+Avatar URL: assets\5-E9BDB.png
+Content: Cool, thanks for the update. Is there an option to get an email notice of a dm? I am new to discord and don't really know how to use this com tool.
+--------------------
+
+--- Message ---
+Message ID: 1287466325802877068
+Message Type: Default
+Reply to: None
+Timestamp: 2024-09-22T17:31:32.039+00:00
+Author: Jack Joannides KC text admin (jjoannid)
+Author Id: 477560366432256000
+Avatar URL: assets\791c521e62160be1f3df04992f6e5470-36A38.png
+Content: No.
+--------------------
+
+--- Message ---
+Message ID: 1287466426969358458
+Message Type: Default
+Reply to: None
+Timestamp: 2024-09-22T17:31:56.159+00:00
+Author: Jack Joannides KC text admin (jjoannid)
+Author Id: 477560366432256000
+Avatar URL: assets\791c521e62160be1f3df04992f6e5470-36A38.png
+Content: Please update your display name so we can locate you easier.
+--------------------
+
+--- Message ---
+Message ID: 1287466751478468639
+Message Type: Default
+Reply to: None
+Timestamp: 2024-09-22T17:33:13.528+00:00
+Author: Andrew Rein Maryland (sharky051193)
+Author Id: 766511749486346242
+Avatar URL: assets\5-E9BDB.png
+Content: I added my last name and state, is that what you mean?
+--------------------
+
+--- Message ---
+Message ID: 1287468258563461130
+Message Type: Default
+Reply to: None
+Timestamp: 2024-09-22T17:39:12.845+00:00
+Author: Jack Joannides KC text admin (jjoannid)
+Author Id: 477560366432256000
+Avatar URL: assets\791c521e62160be1f3df04992f6e5470-36A38.png
+Content: Yep.
+--------------------
+
+--- Message ---
+Message ID: 1287471892252459152
+Message Type: Default
+Reply to: None
+Timestamp: 2024-09-22T17:53:39.184+00:00
+Author: Andrew Rein Maryland (sharky051193)
+Author Id: 766511749486346242
+Avatar URL: assets\5-E9BDB.png
+Content: So I need to log into discord to check my dm in 24-72 hrs, is that correct? Or is there some other way for me to find out I got a dm?
+--------------------
+
+--- Message ---
+Message ID: 1287472627895763034
+Message Type: Default
+Reply to: None
+Timestamp: 2024-09-22T17:56:34.575+00:00
+Author: Jack Joannides KC text admin (jjoannid)
+Author Id: 477560366432256000
+Avatar URL: assets\791c521e62160be1f3df04992f6e5470-36A38.png
+Content: You would see a thing called message requests.
+--------------------
+
+--- Message ---
+Message ID: 1287472723844399215
+Message Type: Default
+Reply to: None
+Timestamp: 2024-09-22T17:56:57.451+00:00
+Author: Andrew Rein Maryland (sharky051193)
+Author Id: 766511749486346242
+Avatar URL: assets\5-E9BDB.png
+Content: Where to look for that?
+--------------------
+
+--- Message ---
+Message ID: 1287473606883807334
+Message Type: Default
+Reply to: None
+Timestamp: 2024-09-22T18:00:27.984+00:00
+Author: Jack Joannides KC text admin (jjoannid)
+Author Id: 477560366432256000
+Avatar URL: assets\791c521e62160be1f3df04992f6e5470-36A38.png
+Content: Near the gaming icon.
+--------------------
+
+--- Message ---
+Message ID: 1287473817161170945
+Message Type: Default
+Reply to: None
+Timestamp: 2024-09-22T18:01:18.118+00:00
+Author: Andrew Rein Maryland (sharky051193)
+Author Id: 766511749486346242
+Avatar URL: assets\5-E9BDB.png
+Content: I don't know what that is
+--------------------
+
+--- Message ---
+Message ID: 1287475479225303103
+Message Type: Default
+Reply to: None
+Timestamp: 2024-09-22T18:07:54.385+00:00
+Author: Jack Joannides KC text admin (jjoannid)
+Author Id: 477560366432256000
+Avatar URL: assets\791c521e62160be1f3df04992f6e5470-36A38.png
+Content: Here: https://support.discord.com/hc/en-us/articles/7924992471191-Message-Requests
+--------------------
+
+--- Message ---
+Message ID: 1287476983084613644
+Message Type: Default
+Reply to: None
+Timestamp: 2024-09-22T18:13:52.933+00:00
+Author: Andrew Rein Maryland (sharky051193)
+Author Id: 766511749486346242
+Avatar URL: assets\5-E9BDB.png
+Content: Thanks, as I said, new to discord. Seems like Slack to me, which I hated when had to use it.
+--------------------

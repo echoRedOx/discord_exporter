@@ -1,0 +1,60 @@
+Guild: Team Harris-Walz Virtual Office (ID: 1242249109298221066)
+Channel: Good Morning!  What time does texting (ID: 1296106433057656872)
+Channel Topic: None
+Exported At: 2024-10-28T22:36:46.9869436+00:00
+
+
+--- Message ---
+Message ID: 1296118362283311105
+Message Type: 21
+Reply to: 1296106433057656872
+Timestamp: 2024-10-16T14:31:38.283+00:00
+Author: Roberta Bavin CA KC Greeter/Mod (roberta_24935)
+Author Id: 1269872908759597148
+Avatar URL: assets\df6d19d97b04a49ffcafbe7be14c7839-D9CE4.png
+Content: 
+--------------------
+
+--- Message ---
+Message ID: 1296118366037213266
+Message Type: Default
+Reply to: None
+Timestamp: 2024-10-16T14:31:39.178+00:00
+Author: Roberta Bavin CA KC Greeter/Mod (roberta_24935)
+Author Id: 1269872908759597148
+Avatar URL: assets\df6d19d97b04a49ffcafbe7be14c7839-D9CE4.png
+Content: Hi <@1292253165454102639> Thanks for checking in! Please look in <#1245442408305393675> channel for this information. It's usually around 830am PT. <:thankyou:1252806147396735057>
+--------------------
+
+--- Message ---
+Message ID: 1296120078085001267
+Message Type: Default
+Reply to: None
+Timestamp: 2024-10-16T14:38:27.362+00:00
+Author: Shannon Roy [CA] (shannonrca_02719)
+Author Id: 1293360401651728415
+Avatar URL: assets\2-ADBB4.png
+Content: <@1269872908759597148> I was wondering this as well - wanted to spend time before work starts this AM but didn't see any info on this when I logged on at 7:00 am PT (and also went to Slack). Might be helpful to post/pin the start time in the texting-announcements channel on the daily (or the night before). If I missed it, let me know!
+--------------------
+
+--- Message ---
+Message ID: 1296183586038218754
+Message Type: Reply
+Reply to: 1296118366037213266
+Timestamp: 2024-10-16T18:50:48.838+00:00
+Author: Kim McKiernan (kimmck24)
+Author Id: 1292253165454102639
+Avatar URL: assets\5-E9BDB.png
+Content: Hi Roberta.  I don’t have an option to send texts.  Am I missing something or is texting delayed today?
+--------------------
+
+--- Message ---
+Message ID: 1296184092005761128
+Message Type: Reply
+Reply to: 1296183586038218754
+Timestamp: 2024-10-16T18:52:49.47+00:00
+Author: Roberta Bavin CA KC Greeter/Mod (roberta_24935)
+Author Id: 1269872908759597148
+Avatar URL: assets\df6d19d97b04a49ffcafbe7be14c7839-D9CE4.png
+Content: Let me send you a DM! Thanks for being here!
+--------------------

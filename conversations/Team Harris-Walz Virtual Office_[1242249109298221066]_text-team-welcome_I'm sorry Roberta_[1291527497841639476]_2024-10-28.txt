@@ -1,0 +1,38 @@
+Guild: Team Harris-Walz Virtual Office (ID: 1242249109298221066)
+Channel: I'm sorry Roberta (ID: 1291527497841639476)
+Channel Topic: None
+Exported At: 2024-10-28T22:54:13.6808386+00:00
+
+
+--- Message ---
+Message ID: 1291541460004634726
+Message Type: 21
+Reply to: 1291527497841639476
+Timestamp: 2024-10-03T23:24:39.745+00:00
+Author: Nicole Morris - Text Admin (nmorris237)
+Author Id: 935762347753103382
+Avatar URL: assets\27b1e286b65ae02b3378793b5f098411-A7B20.png
+Content: 
+--------------------
+
+--- Message ---
+Message ID: 1291541462122496031
+Message Type: Default
+Reply to: None
+Timestamp: 2024-10-03T23:24:40.25+00:00
+Author: Nicole Morris - Text Admin (nmorris237)
+Author Id: 935762347753103382
+Avatar URL: assets\27b1e286b65ae02b3378793b5f098411-A7B20.png
+Content: Hi Alex! It looks like Roberta sent you a message in Discord -- if you're on your computer, it may be hidden within "Message Requests" like this week
+--------------------
+
+--- Message ---
+Message ID: 1291541505147797558
+Message Type: Default
+Reply to: None
+Timestamp: 2024-10-03T23:24:50.508+00:00
+Author: Nicole Morris - Text Admin (nmorris237)
+Author Id: 935762347753103382
+Avatar URL: assets\27b1e286b65ae02b3378793b5f098411-A7B20.png
+Content: 
+--------------------

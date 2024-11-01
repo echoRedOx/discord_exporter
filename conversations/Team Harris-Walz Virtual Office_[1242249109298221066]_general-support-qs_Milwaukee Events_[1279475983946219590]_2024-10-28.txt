@@ -1,0 +1,53 @@
+Guild: Team Harris-Walz Virtual Office (ID: 1242249109298221066)
+Channel: Milwaukee Events (ID: 1279475983946219590)
+Channel Topic: None
+Exported At: 2024-10-28T20:16:20.2493091+00:00
+
+
+--- Message ---
+Message ID: 1279475983946219590
+Message Type: Default
+Reply to: None
+Timestamp: 2024-08-31T16:20:46.087+00:00
+Author: Alex (ajlchicago)
+Author Id: 1277027382141653045
+Avatar URL: assets\aba5db7234cd75f899866539048cfa6a-20B99.png
+Content: I’m not really sure where to post this, but I travelled to Milwaukee for one event yesterday and two events today. The event yesterday was cancelled with little notice and the one at 6:00pm today was cancelled, as well, but I still received a text yesterday about whether I was planning to attend tonight. I was also told that I could attend canvassing today from 7:00-9:00am or 12:00-2:00pm, but evidently the 12:00-2:00pm was cancelled as well. I’m really trying to help this campaign, but it’s challenging when it’s that unorganized.
+--------------------
+
+--- Message ---
+Message ID: 1279478815550079057
+Message Type: Default
+Reply to: None
+Timestamp: 2024-08-31T16:32:01.194+00:00
+Author: Carolyn B [CA] • Lead Mod (carb.on)
+Author Id: 568257600228032512
+Avatar URL: assets\28a90c77b5793d80eb62484a43c66748-D8837.png
+Content: Hi <@1277027382141653045> I appreciate your frustration and you must be feeling discouraged and let down by the campaign when you are doing so much to support it. The logistics for Harris/Walz campaign stops are last minute arrangements due to security concerns. Our virtual platform doesn't get this info either. 
+The issues with canvassing should be shared with your local dems office. They are open today.
+2999 S. Delaware St. Ave
+Milwaukee, WI 53221
+(414)-269-9287
+--------------------
+
+--- Message ---
+Message ID: 1279485105357979759
+Message Type: Default
+Reply to: None
+Timestamp: 2024-08-31T16:57:00.801+00:00
+Author: demtortilla (demtortilla_60949)
+Author Id: 1242248892804763712
+Avatar URL: assets\a_c1a2d0423471e6287ce2d2c69bf8abe5-C5FA2.gif
+Content: Hi <@1277027382141653045>, I sent you a DM!
+--------------------
+
+--- Message ---
+Message ID: 1279829151661948998
+Message Type: Default
+Reply to: None
+Timestamp: 2024-09-01T15:44:07.832+00:00
+Author: Rich Holcombe (WI) (priven.)
+Author Id: 740977201436164177
+Avatar URL: assets\63e48c9523aa87666c7f4d2b6d23a691-271FE.png
+Content: Unfortunately it does seem that virtually all of the scheduled canvassing events were cancelled this weekend.
+--------------------

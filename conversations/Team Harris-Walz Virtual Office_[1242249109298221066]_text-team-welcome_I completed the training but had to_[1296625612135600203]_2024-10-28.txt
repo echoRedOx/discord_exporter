@@ -1,0 +1,38 @@
+Guild: Team Harris-Walz Virtual Office (ID: 1242249109298221066)
+Channel: I completed the training but had to (ID: 1296625612135600203)
+Channel Topic: None
+Exported At: 2024-10-28T22:32:46.2794933+00:00
+
+
+--- Message ---
+Message ID: 1296627971754426368
+Message Type: 21
+Reply to: 1296625612135600203
+Timestamp: 2024-10-18T00:16:38.649+00:00
+Author: Roberta Bavin CA KC Greeter/Mod (roberta_24935)
+Author Id: 1269872908759597148
+Avatar URL: assets\df6d19d97b04a49ffcafbe7be14c7839-D9CE4.png
+Content: 
+--------------------
+
+--- Message ---
+Message ID: 1296627976108113961
+Message Type: Default
+Reply to: None
+Timestamp: 2024-10-18T00:16:39.687+00:00
+Author: Roberta Bavin CA KC Greeter/Mod (roberta_24935)
+Author Id: 1269872908759597148
+Avatar URL: assets\df6d19d97b04a49ffcafbe7be14c7839-D9CE4.png
+Content: Hi Jill! Thanks for reaching out. Please give us time to review the Zoom report and other documents and we'll reach out with the links about what's missing. Thanks so much!
+--------------------
+
+--- Message ---
+Message ID: 1296815743299620916
+Message Type: Default
+Reply to: None
+Timestamp: 2024-10-18T12:42:46.874+00:00
+Author: Jill Kempton -MA (mama4kamala)
+Author Id: 1277374700179292234
+Avatar URL: assets\1-B2132.png
+Content: Ok thank you!
+--------------------

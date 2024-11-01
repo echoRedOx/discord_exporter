@@ -1,0 +1,27 @@
+Guild: Team Harris-Walz Virtual Office (ID: 1242249109298221066)
+Channel: Couldn't hear me? (ID: 1298825446313689128)
+Channel Topic: None
+Exported At: 2024-10-28T20:44:53.5670219+00:00
+
+
+--- Message ---
+Message ID: 1298825446313689128
+Message Type: Default
+Reply to: None
+Timestamp: 2024-10-24T01:48:37.411+00:00
+Author: Tyler G. (OR - he/him) (tylerhehim_79396)
+Author Id: 1297392462569930754
+Avatar URL: assets\d484b44306000a0fd5d15567a03195bc-FAC1F.png
+Content: What should I mark someone who answered but couldn't hear me? Hung up?
+--------------------
+
+--- Message ---
+Message ID: 1298825607576158260
+Message Type: Default
+Reply to: None
+Timestamp: 2024-10-24T01:49:15.859+00:00
+Author: Holly Mate-Luber [Call Mod] (hollymateluber)
+Author Id: 1267643778043482122
+Avatar URL: assets\d1341d3c05d207da49a6fa548b4c1086-4BE71.png
+Content: Yes, "hangup" is fine. If you end up running into this issue frequently, let us know so we can try to troubleshoot your audio setup.
+--------------------

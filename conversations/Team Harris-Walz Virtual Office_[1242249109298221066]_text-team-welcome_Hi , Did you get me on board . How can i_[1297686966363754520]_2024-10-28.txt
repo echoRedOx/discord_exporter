@@ -1,0 +1,49 @@
+Guild: Team Harris-Walz Virtual Office (ID: 1242249109298221066)
+Channel: Hi , Did you get me on board . How can i (ID: 1297686966363754520)
+Channel Topic: None
+Exported At: 2024-10-28T22:28:42.5449035+00:00
+
+
+--- Message ---
+Message ID: 1297687426474704926
+Message Type: 21
+Reply to: 1297686966363754520
+Timestamp: 2024-10-20T22:26:32.338+00:00
+Author: Roberta Bavin CA KC Greeter/Mod (roberta_24935)
+Author Id: 1269872908759597148
+Avatar URL: assets\df6d19d97b04a49ffcafbe7be14c7839-D9CE4.png
+Content: 
+--------------------
+
+--- Message ---
+Message ID: 1297687429964238959
+Message Type: Default
+Reply to: None
+Timestamp: 2024-10-20T22:26:33.17+00:00
+Author: Roberta Bavin CA KC Greeter/Mod (roberta_24935)
+Author Id: 1269872908759597148
+Avatar URL: assets\df6d19d97b04a49ffcafbe7be14c7839-D9CE4.png
+Content: Hi <@1292180942714179768> Thanks for reaching out. Please see the DM sent to you yesterday with further onboarding instructions. <:thankyou:1252806147396735057>
+--------------------
+
+--- Message ---
+Message ID: 1297688286558683167
+Message Type: Default
+Reply to: None
+Timestamp: 2024-10-20T22:29:57.398+00:00
+Author: Manjula Ambur (myambur1)
+Author Id: 1292180942714179768
+Avatar URL: assets\0-EB806.png
+Content: I can not find it Robert . Can you please send me now … Thanks 🙏
+--------------------
+
+--- Message ---
+Message ID: 1297690755741257759
+Message Type: Reply
+Reply to: 1297688286558683167
+Timestamp: 2024-10-20T22:39:46.097+00:00
+Author: Roberta Bavin CA KC Greeter/Mod (roberta_24935)
+Author Id: 1269872908759597148
+Avatar URL: assets\df6d19d97b04a49ffcafbe7be14c7839-D9CE4.png
+Content: It's in the left upper corner of Discord at the game controller icon.
+--------------------

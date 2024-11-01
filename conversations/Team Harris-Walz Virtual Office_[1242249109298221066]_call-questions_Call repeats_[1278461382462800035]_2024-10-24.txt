@@ -1,0 +1,62 @@
+Guild: Team Harris-Walz Virtual Office (ID: 1242249109298221066)
+Channel: Call repeats (ID: 1278461382462800035)
+Channel Topic: None
+Exported At: 2024-10-24T12:54:36.2841186+00:00
+
+
+--- Message ---
+Message ID: 1278461382462800035
+Message Type: Default
+Reply to: None
+Timestamp: 2024-08-28T21:09:06.243+00:00
+Author: Alex (ajlchicago)
+Author Id: 1277027382141653045
+Avatar URL: assets\aba5db7234cd75f899866539048cfa6a-20B99.png
+Content: I was on the phone bank for PA earlier today and it kept connecting me to “Michael” who would hang up every time. Any way to avoid that in the future?
+--------------------
+
+--- Message ---
+Message ID: 1278462000216670268
+Message Type: Default
+Reply to: None
+Timestamp: 2024-08-28T21:11:33.527+00:00
+Author: AndreaV, KY Call Mod (andrearogersvalen)
+Author Id: 965992907981074443
+Avatar URL: assets\72d82e393a66b89996d99840a07990ec-C9EFF.png
+Content: I believe they had that issue yesterday and this  morning. I was only on the Zoom call for a little while but I think that closing the browser session and re-opening it and then relaunching the dialer resolved it. If you are on another phone banking session and have it re-occur, ask in the chat window. It would be good for them to know in case it is happening to a lot of other people too. And thanks so much for making calls with us! <:blueheart:1252803082849488956>
+--------------------
+
+--- Message ---
+Message ID: 1278462096312373391
+Message Type: Default
+Reply to: None
+Timestamp: 2024-08-28T21:11:56.438+00:00
+Author: Alex (ajlchicago)
+Author Id: 1277027382141653045
+Avatar URL: assets\aba5db7234cd75f899866539048cfa6a-20B99.png
+Content: Okay, thanks!
+--------------------
+
+--- Message ---
+Message ID: 1278462154365730887
+Message Type: Default
+Reply to: None
+Timestamp: 2024-08-28T21:12:10.279+00:00
+Author: Alex (ajlchicago)
+Author Id: 1277027382141653045
+Avatar URL: assets\aba5db7234cd75f899866539048cfa6a-20B99.png
+Content: And thanks for all you do for the campaign!
+--------------------
+
+--- Message ---
+Message ID: 1278504249147265045
+Message Type: Default
+Reply to: None
+Timestamp: 2024-08-28T23:59:26.457+00:00
+Author: demtortilla (demtortilla_60949)
+Author Id: 1242248892804763712
+Avatar URL: assets\a_c1a2d0423471e6287ce2d2c69bf8abe5-C5FA2.gif
+Content: Hi I actually have an answer here - our lists are alphabetic so sometimes we'll make A LOT of calls to people with the same name. duplicate numbers are removed so it's very unlikely that we'll dial the same person within one campaign.
+
+If you let us know when you were calling and into what list, we can verify and triple check that there was no funny business here.
+--------------------

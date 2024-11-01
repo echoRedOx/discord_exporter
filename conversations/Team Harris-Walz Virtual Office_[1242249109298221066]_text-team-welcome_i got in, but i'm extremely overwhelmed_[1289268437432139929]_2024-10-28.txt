@@ -1,0 +1,49 @@
+Guild: Team Harris-Walz Virtual Office (ID: 1242249109298221066)
+Channel: i got in, but i'm extremely overwhelmed (ID: 1289268437432139929)
+Channel Topic: None
+Exported At: 2024-10-28T23:01:19.7910257+00:00
+
+
+--- Message ---
+Message ID: 1289281249873236082
+Message Type: 21
+Reply to: 1289268437432139929
+Timestamp: 2024-09-27T17:43:23.657+00:00
+Author: Jack Joannides KC text admin (jjoannid)
+Author Id: 477560366432256000
+Avatar URL: assets\791c521e62160be1f3df04992f6e5470-36A38.png
+Content: 
+--------------------
+
+--- Message ---
+Message ID: 1289281251043446906
+Message Type: Default
+Reply to: None
+Timestamp: 2024-09-27T17:43:23.936+00:00
+Author: Jack Joannides KC text admin (jjoannid)
+Author Id: 477560366432256000
+Avatar URL: assets\791c521e62160be1f3df04992f6e5470-36A38.png
+Content: Let me direct message you.
+--------------------
+
+--- Message ---
+Message ID: 1289285647726805065
+Message Type: Default
+Reply to: None
+Timestamp: 2024-09-27T18:00:52.187+00:00
+Author: Alex McLand (TX) - MOD (tiredforever)
+Author Id: 225877156247502850
+Avatar URL: assets\a398fe8179da009dde0ef2cbe8b85b49-F1629.png
+Content: okidok. if it says you can't lemme know, i'll friend
+--------------------
+
+--- Message ---
+Message ID: 1289286133536002150
+Message Type: Default
+Reply to: None
+Timestamp: 2024-09-27T18:02:48.013+00:00
+Author: Jack Joannides KC text admin (jjoannid)
+Author Id: 477560366432256000
+Avatar URL: assets\791c521e62160be1f3df04992f6e5470-36A38.png
+Content: I already direct messaged you.
+--------------------

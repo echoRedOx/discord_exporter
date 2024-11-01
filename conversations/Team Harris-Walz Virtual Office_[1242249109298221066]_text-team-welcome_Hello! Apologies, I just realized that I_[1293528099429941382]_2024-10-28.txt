@@ -1,0 +1,27 @@
+Guild: Team Harris-Walz Virtual Office (ID: 1242249109298221066)
+Channel: Hello! Apologies, I just realized that I (ID: 1293528099429941382)
+Channel Topic: None
+Exported At: 2024-10-28T22:48:05.5979896+00:00
+
+
+--- Message ---
+Message ID: 1293574730091204709
+Message Type: 21
+Reply to: 1293528099429941382
+Timestamp: 2024-10-09T14:04:09.11+00:00
+Author: Roberta Bavin CA KC Greeter/Mod (roberta_24935)
+Author Id: 1269872908759597148
+Avatar URL: assets\df6d19d97b04a49ffcafbe7be14c7839-D9CE4.png
+Content: 
+--------------------
+
+--- Message ---
+Message ID: 1293574733123555328
+Message Type: Default
+Reply to: None
+Timestamp: 2024-10-09T14:04:09.833+00:00
+Author: Roberta Bavin CA KC Greeter/Mod (roberta_24935)
+Author Id: 1269872908759597148
+Avatar URL: assets\df6d19d97b04a49ffcafbe7be14c7839-D9CE4.png
+Content: Hi Emily! Thanks for reaching out! Please give that information to the Greeter who reaches out to you and they can enter it into the spreadsheet. <:thankyou:1252806147396735057>
+--------------------

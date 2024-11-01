@@ -1,0 +1,71 @@
+Guild: Team Harris-Walz Virtual Office (ID: 1242249109298221066)
+Channel: can i join the texting training for the (ID: 1288150701343506433)
+Channel Topic: None
+Exported At: 2024-10-28T23:04:30.4369788+00:00
+
+
+--- Message ---
+Message ID: 1288153004704534630
+Message Type: 21
+Reply to: 1288150701343506433
+Timestamp: 2024-09-24T15:00:09.047+00:00
+Author: Nicole Morris - Text Admin (nmorris237)
+Author Id: 935762347753103382
+Avatar URL: assets\27b1e286b65ae02b3378793b5f098411-A7B20.png
+Content: 
+--------------------
+
+--- Message ---
+Message ID: 1288153034848997438
+Message Type: Default
+Reply to: None
+Timestamp: 2024-09-24T15:00:16.234+00:00
+Author: Nicole Morris - Text Admin (nmorris237)
+Author Id: 935762347753103382
+Avatar URL: assets\27b1e286b65ae02b3378793b5f098411-A7B20.png
+Content: Yes! Sign up here - https://events.democrats.org/event/672393/
+--------------------
+
+--- Message ---
+Message ID: 1288155180474437633
+Message Type: Default
+Reply to: None
+Timestamp: 2024-09-24T15:08:47.791+00:00
+Author: Emogamergurl90_ttv (emogamergurl90tv)
+Author Id: 996500413547282522
+Avatar URL: assets\308df807e23e3b1b943735fbac947b6b-D4CFA.png
+Content: i have already did this part
+--------------------
+
+--- Message ---
+Message ID: 1288155309604605963
+Message Type: Default
+Reply to: None
+Timestamp: 2024-09-24T15:09:18.578+00:00
+Author: Emogamergurl90_ttv (emogamergurl90tv)
+Author Id: 996500413547282522
+Avatar URL: assets\308df807e23e3b1b943735fbac947b6b-D4CFA.png
+Content: it had me to pick the events and give name number email and zip
+--------------------
+
+--- Message ---
+Message ID: 1288155343637188649
+Message Type: Default
+Reply to: None
+Timestamp: 2024-09-24T15:09:26.692+00:00
+Author: Emogamergurl90_ttv (emogamergurl90tv)
+Author Id: 996500413547282522
+Avatar URL: assets\308df807e23e3b1b943735fbac947b6b-D4CFA.png
+Content: im logged in rn
+--------------------
+
+--- Message ---
+Message ID: 1288155480656445613
+Message Type: Default
+Reply to: None
+Timestamp: 2024-09-24T15:09:59.36+00:00
+Author: Nicole Morris - Text Admin (nmorris237)
+Author Id: 935762347753103382
+Avatar URL: assets\27b1e286b65ae02b3378793b5f098411-A7B20.png
+Content: Got it - great! You only need to sign up for one day/time -- and then you'll receive an email confirmation the day of with the Zoom link/details to attend the training
+--------------------

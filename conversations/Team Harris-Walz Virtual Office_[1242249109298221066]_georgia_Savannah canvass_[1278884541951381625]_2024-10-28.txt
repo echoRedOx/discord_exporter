@@ -1,0 +1,27 @@
+Guild: Team Harris-Walz Virtual Office (ID: 1242249109298221066)
+Channel: Savannah canvass (ID: 1278884541951381625)
+Channel Topic: None
+Exported At: 2024-10-29T00:36:22.4738122+00:00
+
+
+--- Message ---
+Message ID: 1278913706708697118
+Message Type: 21
+Reply to: 1278884541951381625
+Timestamp: 2024-08-30T03:06:28.747+00:00
+Author: rootsmusic (rootsmusic)
+Author Id: 791857656897732648
+Avatar URL: assets\a30e650576a6d42a3c9ee24648f67c90-2AE37.png
+Content: 
+--------------------
+
+--- Message ---
+Message ID: 1278913708025708555
+Message Type: Default
+Reply to: None
+Timestamp: 2024-08-30T03:06:29.061+00:00
+Author: rootsmusic (rootsmusic)
+Author Id: 791857656897732648
+Avatar URL: assets\a30e650576a6d42a3c9ee24648f67c90-2AE37.png
+Content: Yes, https://events.democrats.org/?address=Savannah%2C%20GA%2C%20USA&event_type=1&lat=32.0808989&lon=-81.091203 and I recommend a [Storytelling training](https://events.democrats.org/event/656505/) to have more effective conversations with voters.
+--------------------

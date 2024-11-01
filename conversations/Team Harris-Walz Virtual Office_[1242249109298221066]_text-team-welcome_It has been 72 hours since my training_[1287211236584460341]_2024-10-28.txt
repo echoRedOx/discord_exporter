@@ -1,0 +1,27 @@
+Guild: Team Harris-Walz Virtual Office (ID: 1242249109298221066)
+Channel: It has been 72 hours since my training. (ID: 1287211236584460341)
+Channel Topic: None
+Exported At: 2024-10-28T23:09:33.8765992+00:00
+
+
+--- Message ---
+Message ID: 1287214407562170413
+Message Type: 21
+Reply to: 1287211236584460341
+Timestamp: 2024-09-22T00:50:30.05+00:00
+Author: Roberta Bavin CA KC Greeter/Mod (roberta_24935)
+Author Id: 1269872908759597148
+Avatar URL: assets\df6d19d97b04a49ffcafbe7be14c7839-D9CE4.png
+Content: 
+--------------------
+
+--- Message ---
+Message ID: 1287214409818832947
+Message Type: Default
+Reply to: None
+Timestamp: 2024-09-22T00:50:30.588+00:00
+Author: Roberta Bavin CA KC Greeter/Mod (roberta_24935)
+Author Id: 1269872908759597148
+Avatar URL: assets\df6d19d97b04a49ffcafbe7be14c7839-D9CE4.png
+Content: Hi Misty- Thanks for reaching out. Please see DM sent to you earlier today. <:thankyou:1252806147396735057>
+--------------------

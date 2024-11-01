@@ -1,0 +1,38 @@
+Guild: Team Harris-Walz Virtual Office (ID: 1242249109298221066)
+Channel: Reach Questions (ID: 1284348744569192468)
+Channel Topic: None
+Exported At: 2024-10-28T20:03:06.0878771+00:00
+
+
+--- Message ---
+Message ID: 1284348744569192468
+Message Type: Default
+Reply to: None
+Timestamp: 2024-09-14T03:03:22.751+00:00
+Author: Ashley Adams [CO] (outrageous_gull_47205)
+Author Id: 1149690003656552570
+Avatar URL: assets\f59f6af4968ca7496739aa1490d6cc09-C3ADE.png
+Content: If I add survey information about people I’ve connected with in Reach after I search/find them by name and zip code, should I disclose to them that I’m doing so (in case they will be contacted by the DNC in the future based on the information I provide)? Also, if I upload my contacts to Reach to try and find more people I know to connect with, what does the campaign do with that information? I asked these questions in the Q&A during the Reach training tonight but my phone died before my questions were answered.
+--------------------
+
+--- Message ---
+Message ID: 1284396572896919605
+Message Type: Default
+Reply to: None
+Timestamp: 2024-09-14T06:13:25.913+00:00
+Author: Jay E  (TX)  OE Mod (jayrio76)
+Author Id: 782870341445353522
+Avatar URL: assets\41ef520387924aa4413513eda28784df-34D82.png
+Content: Yes, I recommend that you do tell them that you are collecting their info, but the DNC will protect their info. Since I have not yet attended a Reach training for in person contact or relational organizing, I recommend that you email your questions to reach@dnc.org for a more detailed answer.
+--------------------
+
+--- Message ---
+Message ID: 1284744606529097779
+Message Type: Default
+Reply to: None
+Timestamp: 2024-09-15T05:16:23.597+00:00
+Author: Jay E  (TX)  OE Mod (jayrio76)
+Author Id: 782870341445353522
+Avatar URL: assets\41ef520387924aa4413513eda28784df-34D82.png
+Content: <@1149690003656552570> - PS: We found out from the Reach Terms of Service:  You control what you want to share with Reach, and most importantly, "The personal data you submit to Reach is protected by the Reach Privacy Policy".
+--------------------

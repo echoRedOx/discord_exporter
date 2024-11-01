@@ -1,0 +1,38 @@
+Guild: Team Harris-Walz Virtual Office (ID: 1242249109298221066)
+Channel: needing help getting into Zoom room (ID: 1277308002612936746)
+Channel Topic: None
+Exported At: 2024-10-28T20:23:27.7560322+00:00
+
+
+--- Message ---
+Message ID: 1277308002612936746
+Message Type: Default
+Reply to: None
+Timestamp: 2024-08-25T16:45:59.058+00:00
+Author: Kathy Young (kathyyoung0574)
+Author Id: 1276936638525739042
+Avatar URL: assets\8569adcbd36c70a7578c017bf5604ea5-75171.png
+Content: this is Kathy’s daughter, I’m trying to help her get logged in to the zoom room. Email links are not getting her where she needs to go, and I haven’t a clue about any of it. Is anyone able to point us in the right direction of how to get into the Zoom room? Or possibly provide a meeting id and passcode? I have no doubt we are missing some key info…
+--------------------
+
+--- Message ---
+Message ID: 1277311343124287660
+Message Type: Default
+Reply to: None
+Timestamp: 2024-08-25T16:59:15.498+00:00
+Author: Abigail P.(Data Captain) (abigailpritchard)
+Author Id: 1174129892019941411
+Avatar URL: assets\6f513b8af09f9314bc65d892f3473a23-9D45C.png
+Content: Hi, I'm sorry that you're having issues with the zoom. If you could also post your question in <#1263529508300914809> , that would help it get to the right person faster. <@&1266883962727432304>
+--------------------
+
+--- Message ---
+Message ID: 1277311796918751304
+Message Type: Default
+Reply to: None
+Timestamp: 2024-08-25T17:01:03.691+00:00
+Author: Kathy Young (kathyyoung0574)
+Author Id: 1276936638525739042
+Avatar URL: assets\8569adcbd36c70a7578c017bf5604ea5-75171.png
+Content: Ty. I’ll do that now😊
+--------------------

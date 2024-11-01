@@ -1,0 +1,27 @@
+Guild: Team Harris-Walz Virtual Office (ID: 1242249109298221066)
+Channel: Enrolling volunteers (ID: 1278522964299485225)
+Channel Topic: None
+Exported At: 2024-10-28T21:00:35.400971+00:00
+
+
+--- Message ---
+Message ID: 1278522964299485225
+Message Type: Default
+Reply to: None
+Timestamp: 2024-08-29T01:13:48.497+00:00
+Author: jules (julesnucleus)
+Author Id: 642970771081396224
+Avatar URL: assets\a1b4f0912f432c2bb19eb4e7dcc50c8e-D236D.png
+Content: Is there a link for people who want to volunteer online but not make calls? I could have had two volunteers today instead of one if I had a link for that. Kind of related - is it ok to share our social media and/or Discord handle when making calls? I would like to connect with people I’m calling and volunteer together making it a more social / community experience especially when it’s older / tech savvy people. Thank you!
+--------------------
+
+--- Message ---
+Message ID: 1278523510641393685
+Message Type: Default
+Reply to: None
+Timestamp: 2024-08-29T01:15:58.755+00:00
+Author: Jack Ferreira (KC) (jackferreira.246012)
+Author Id: 1276396030375624789
+Avatar URL: assets\cd48a61b3416a1c6fe47335cfcfc484e-EE993.png
+Content: I recommend inviting them to our Volunteer Welcome Zoom meetings, that way they can learn about all the opportunities available: https://events.democrats.org/event/671638/
+--------------------

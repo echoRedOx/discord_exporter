@@ -1,0 +1,60 @@
+Guild: Team Harris-Walz Virtual Office (ID: 1242249109298221066)
+Channel: Reach Roundup (ID: 1285246291407929354)
+Channel Topic: None
+Exported At: 2024-10-24T13:08:43.5359631+00:00
+
+
+--- Message ---
+Message ID: 1285246377898807378
+Message Type: 21
+Reply to: 1285246291407929354
+Timestamp: 2024-09-16T14:30:15.214+00:00
+Author: Gabrielle Lynn [HFP Staff] (gabriellelynn_4444)
+Author Id: 1280619651029798924
+Avatar URL: assets\240de4e960e8591f3136c93fbf92c244-59538.png
+Content: 
+--------------------
+
+--- Message ---
+Message ID: 1285246378955505776
+Message Type: Default
+Reply to: None
+Timestamp: 2024-09-16T14:30:15.466+00:00
+Author: Gabrielle Lynn [HFP Staff] (gabriellelynn_4444)
+Author Id: 1280619651029798924
+Avatar URL: assets\240de4e960e8591f3136c93fbf92c244-59538.png
+Content: Here's one of my favorites I shared this week!
+--------------------
+
+--- Message ---
+Message ID: 1285246417950081098
+Message Type: Default
+Reply to: None
+Timestamp: 2024-09-16T14:30:24.763+00:00
+Author: Gabrielle Lynn [HFP Staff] (gabriellelynn_4444)
+Author Id: 1280619651029798924
+Avatar URL: assets\240de4e960e8591f3136c93fbf92c244-59538.png
+Content: 
+--------------------
+
+--- Message ---
+Message ID: 1285249592635424839
+Message Type: Default
+Reply to: None
+Timestamp: 2024-09-16T14:43:01.667+00:00
+Author: Danielle Dravenstadt (danielledravenstadt)
+Author Id: 1229872515531280384
+Avatar URL: assets\76cf951b8e67e24cfdb9c9a41a9020e3-1474E.png
+Content: This video.
+--------------------
+
+--- Message ---
+Message ID: 1285268906302374031
+Message Type: Reply
+Reply to: 1285249592635424839
+Timestamp: 2024-09-16T15:59:46.404+00:00
+Author: Gabrielle Lynn [HFP Staff] (gabriellelynn_4444)
+Author Id: 1280619651029798924
+Avatar URL: assets\240de4e960e8591f3136c93fbf92c244-59538.png
+Content: I saw this one on KamalaHQ first! It's too good 😂
+--------------------

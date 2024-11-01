@@ -1,0 +1,60 @@
+Guild: Team Harris-Walz Virtual Office (ID: 1242249109298221066)
+Channel: Is it ok to jump into a call shift late if we've already done training/made calls? (ID: 1274053068492640257)
+Channel Topic: None
+Exported At: 2024-10-24T12:57:42.1221678+00:00
+
+
+--- Message ---
+Message ID: 1274053068492640257
+Message Type: Default
+Reply to: None
+Timestamp: 2024-08-16T17:12:02.29+00:00
+Author: Jamie Murnane [CA] (j_murn)
+Author Id: 1141099906724007948
+Avatar URL: assets\c636a3acf0810f72d52a435f30c610c6-368EC.png
+Content: sorry if this has been answered, I searched and couldn't find it.
+--------------------
+
+--- Message ---
+Message ID: 1274053368016535582
+Message Type: Default
+Reply to: None
+Timestamp: 2024-08-16T17:13:13.702+00:00
+Author: Frances Haydock (HFP HQ!) (franceshaydock_20619)
+Author Id: 1257469301435400238
+Avatar URL: assets\8286d5b1308e7b3d80a3523e4ec50548-C029D.png
+Content: yes--do you have the zoom link?
+--------------------
+
+--- Message ---
+Message ID: 1274053493207990272
+Message Type: Default
+Reply to: None
+Timestamp: 2024-08-16T17:13:43.55+00:00
+Author: Frances Haydock (HFP HQ!) (franceshaydock_20619)
+Author Id: 1257469301435400238
+Avatar URL: assets\8286d5b1308e7b3d80a3523e4ec50548-C029D.png
+Content: if you've signed up for the shift and you already have training and you are late it is not a problem at all
+--------------------
+
+--- Message ---
+Message ID: 1274053921421267087
+Message Type: Default
+Reply to: None
+Timestamp: 2024-08-16T17:15:25.644+00:00
+Author: Jamie Murnane [CA] (j_murn)
+Author Id: 1141099906724007948
+Avatar URL: assets\c636a3acf0810f72d52a435f30c610c6-368EC.png
+Content: yep, thank you so much <@1257469301435400238> !
+--------------------
+
+--- Message ---
+Message ID: 1274054444337594449
+Message Type: Default
+Reply to: None
+Timestamp: 2024-08-16T17:17:30.317+00:00
+Author: Frances Haydock (HFP HQ!) (franceshaydock_20619)
+Author Id: 1257469301435400238
+Avatar URL: assets\8286d5b1308e7b3d80a3523e4ec50548-C029D.png
+Content: of course!
+--------------------

@@ -1,0 +1,38 @@
+Guild: Team Harris-Walz Virtual Office (ID: 1242249109298221066)
+Channel: I took the training. I want to start (ID: 1299056875160993914)
+Channel Topic: None
+Exported At: 2024-10-28T22:16:23.4547725+00:00
+
+
+--- Message ---
+Message ID: 1299057898361720842
+Message Type: 21
+Reply to: 1299056875160993914
+Timestamp: 2024-10-24T17:12:18.298+00:00
+Author: Roberta Bavin CA KC Greeter/Mod (roberta_24935)
+Author Id: 1269872908759597148
+Avatar URL: assets\df6d19d97b04a49ffcafbe7be14c7839-D9CE4.png
+Content: 
+--------------------
+
+--- Message ---
+Message ID: 1299057902371471361
+Message Type: Default
+Reply to: None
+Timestamp: 2024-10-24T17:12:19.254+00:00
+Author: Roberta Bavin CA KC Greeter/Mod (roberta_24935)
+Author Id: 1269872908759597148
+Avatar URL: assets\df6d19d97b04a49ffcafbe7be14c7839-D9CE4.png
+Content: Hi <@1298054006605746176> Please see the DM sent to you at left upper corner of Discord, game controller icon. Thanks for following up!
+--------------------
+
+--- Message ---
+Message ID: 1299058492799455314
+Message Type: Default
+Reply to: None
+Timestamp: 2024-10-24T17:14:40.023+00:00
+Author: Srinivas Bandi (srib_54592)
+Author Id: 1298054006605746176
+Avatar URL: assets\2-ADBB4.png
+Content: Sure will do.
+--------------------

@@ -1,0 +1,38 @@
+Guild: Team Harris-Walz Virtual Office (ID: 1242249109298221066)
+Channel: question about persuasion team: are they (ID: 1299759782676267049)
+Channel Topic: None
+Exported At: 2024-10-28T22:09:22.05957+00:00
+
+
+--- Message ---
+Message ID: 1299760145529704532
+Message Type: 21
+Reply to: 1299759782676267049
+Timestamp: 2024-10-26T15:42:47.07+00:00
+Author: Roberta Bavin CA KC Greeter/Mod (roberta_24935)
+Author Id: 1269872908759597148
+Avatar URL: assets\df6d19d97b04a49ffcafbe7be14c7839-D9CE4.png
+Content: 
+--------------------
+
+--- Message ---
+Message ID: 1299760148247613531
+Message Type: Default
+Reply to: None
+Timestamp: 2024-10-26T15:42:47.718+00:00
+Author: Roberta Bavin CA KC Greeter/Mod (roberta_24935)
+Author Id: 1269872908759597148
+Avatar URL: assets\df6d19d97b04a49ffcafbe7be14c7839-D9CE4.png
+Content: Hi <@797336974506590208> Please post this in Persuasion Text Team channels so they can give you the best answer. Thanks for all of your efforts!
+--------------------
+
+--- Message ---
+Message ID: 1299760564339212312
+Message Type: Default
+Reply to: None
+Timestamp: 2024-10-26T15:44:26.922+00:00
+Author: Ruby Bradley [NY] (ruberrypie)
+Author Id: 797336974506590208
+Avatar URL: assets\3-FB033.png
+Content: I'm not part of the persuasion team actually so I don't have access to that channel! I was just curious if anyoe here knew the answer..
+--------------------

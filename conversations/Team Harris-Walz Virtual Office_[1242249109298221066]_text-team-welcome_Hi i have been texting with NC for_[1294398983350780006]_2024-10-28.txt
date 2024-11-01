@@ -1,0 +1,60 @@
+Guild: Team Harris-Walz Virtual Office (ID: 1242249109298221066)
+Channel: Hi i have been texting with NC for (ID: 1294398983350780006)
+Channel Topic: None
+Exported At: 2024-10-28T22:43:54.6857337+00:00
+
+
+--- Message ---
+Message ID: 1294400391558991882
+Message Type: 21
+Reply to: 1294398983350780006
+Timestamp: 2024-10-11T20:45:02.144+00:00
+Author: Roberta Bavin CA KC Greeter/Mod (roberta_24935)
+Author Id: 1269872908759597148
+Avatar URL: assets\df6d19d97b04a49ffcafbe7be14c7839-D9CE4.png
+Content: 
+--------------------
+
+--- Message ---
+Message ID: 1294400395191259217
+Message Type: Default
+Reply to: None
+Timestamp: 2024-10-11T20:45:03.01+00:00
+Author: Roberta Bavin CA KC Greeter/Mod (roberta_24935)
+Author Id: 1269872908759597148
+Avatar URL: assets\df6d19d97b04a49ffcafbe7be14c7839-D9CE4.png
+Content: Hi there! Thanks for reaching out! Here's the link to our text team training! https://events.democrats.org/event/672393/
+--------------------
+
+--- Message ---
+Message ID: 1294400834515505214
+Message Type: Default
+Reply to: None
+Timestamp: 2024-10-11T20:46:47.753+00:00
+Author: Deb Viola (golden_kitten_20586)
+Author Id: 1292172021052211203
+Avatar URL: assets\0-EB806.png
+Content: I already took the training and the quiz already through NC for Kamala do i need to do it again?
+--------------------
+
+--- Message ---
+Message ID: 1294401629025599584
+Message Type: Reply
+Reply to: 1294400834515505214
+Timestamp: 2024-10-11T20:49:57.179+00:00
+Author: Roberta Bavin CA KC Greeter/Mod (roberta_24935)
+Author Id: 1269872908759597148
+Avatar URL: assets\df6d19d97b04a49ffcafbe7be14c7839-D9CE4.png
+Content: Ours is a bit different, so please do! Thanks for checking! <:thankyou:1252806147396735057> 🌊
+--------------------
+
+--- Message ---
+Message ID: 1294408653159399465
+Message Type: Default
+Reply to: None
+Timestamp: 2024-10-11T21:17:51.863+00:00
+Author: Deb Viola (golden_kitten_20586)
+Author Id: 1292172021052211203
+Avatar URL: assets\0-EB806.png
+Content: ok i signed up thank s
+--------------------

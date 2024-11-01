@@ -1,0 +1,49 @@
+Guild: Team Harris-Walz Virtual Office (ID: 1242249109298221066)
+Channel: I have done all the training; up to date (ID: 1278387772213956740)
+Channel Topic: None
+Exported At: 2024-10-28T23:54:37.130104+00:00
+
+
+--- Message ---
+Message ID: 1278452744381923470
+Message Type: 21
+Reply to: 1278387772213956740
+Timestamp: 2024-08-28T20:34:46.764+00:00
+Author: Nicole Morris - Text Admin (nmorris237)
+Author Id: 935762347753103382
+Avatar URL: assets\27b1e286b65ae02b3378793b5f098411-A7B20.png
+Content: 
+--------------------
+
+--- Message ---
+Message ID: 1278452746919346221
+Message Type: Default
+Reply to: None
+Timestamp: 2024-08-28T20:34:47.369+00:00
+Author: Nicole Morris - Text Admin (nmorris237)
+Author Id: 935762347753103382
+Avatar URL: assets\27b1e286b65ae02b3378793b5f098411-A7B20.png
+Content: Hi <@1251599168733057055> Thanks for letting us know -- do you see the channel now? You don't have permissions to post in that channel, but you should see it!
+--------------------
+
+--- Message ---
+Message ID: 1278453181499707464
+Message Type: Default
+Reply to: None
+Timestamp: 2024-08-28T20:36:30.981+00:00
+Author: Stephanie Wilkinson/CA2(MOD) (stephaniewilkinson7)
+Author Id: 1251599168733057055
+Avatar URL: assets\84cd6db025391ae82679d9ce9b660343-F827A.png
+Content: I see it now. Didn’t we train together for  Newsom’s campaign?
+--------------------
+
+--- Message ---
+Message ID: 1278454641235066974
+Message Type: Default
+Reply to: None
+Timestamp: 2024-08-28T20:42:19.009+00:00
+Author: Nicole Morris - Text Admin (nmorris237)
+Author Id: 935762347753103382
+Avatar URL: assets\27b1e286b65ae02b3378793b5f098411-A7B20.png
+Content: And yes - hi! <a:pikachuwave:1269004336047067227>
+--------------------

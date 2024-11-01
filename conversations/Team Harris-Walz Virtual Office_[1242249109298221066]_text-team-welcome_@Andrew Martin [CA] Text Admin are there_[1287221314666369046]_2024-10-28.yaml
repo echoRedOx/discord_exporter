@@ -1,0 +1,61 @@
+- author_avatar_url: assets\27b1e286b65ae02b3378793b5f098411-A7B20.png
+  author_id: '935762347753103382'
+  author_name: nmorris237
+  author_nickname: Nicole Morris - Text Admin
+  content: ''
+  id: '1287228482811596800'
+  ref_to: '1287221314666369046'
+  timestamp: '2024-09-22T01:46:25.851+00:00'
+  type: '21'
+- author_avatar_url: assets\27b1e286b65ae02b3378793b5f098411-A7B20.png
+  author_id: '935762347753103382'
+  author_name: nmorris237
+  author_nickname: Nicole Morris - Text Admin
+  content: Hi <@878004392769490995> Thanks! Just the ones currently on the Mobilize
+    link https://events.democrats.org/event/672393/
+  id: '1287228484703490059'
+  ref_to: null
+  timestamp: '2024-09-22T01:46:26.302+00:00'
+  type: Default
+- author_avatar_url: assets\b3aa4eebe20332119e18ec63eb9049d9-B7E52.png
+  author_id: '321866318297169922'
+  author_name: ninalyn4895
+  author_nickname: Ninalyn
+  content: "I have a problem in that I\u2019d be way more comfortable texting than\
+    \ calling, but ALL of the trainings are when I\u2019m at work (my schedule is\
+    \ M-Th). Is there any chance of weekend trainings?"
+  id: '1287576972351766618'
+  ref_to: '1287228484703490059'
+  timestamp: '2024-09-23T00:51:12.232+00:00'
+  type: Reply
+- author_avatar_url: assets\27b1e286b65ae02b3378793b5f098411-A7B20.png
+  author_id: '935762347753103382'
+  author_name: nmorris237
+  author_nickname: Nicole Morris - Text Admin
+  content: Hi <@321866318297169922> I hear you - thanks! We used to have Saturday
+    trainings, and as of now they are not on the schedule. We are checking with staff
+    if they will be re-added change going forward. I would encourage you to keep an
+    eye on the link in case additional dates/times get added
+  id: '1287785768365854823'
+  ref_to: null
+  timestamp: '2024-09-23T14:40:53.081+00:00'
+  type: Default
+- author_avatar_url: assets\27b1e286b65ae02b3378793b5f098411-A7B20.png
+  author_id: '935762347753103382'
+  author_name: nmorris237
+  author_nickname: Nicole Morris - Text Admin
+  content: "<@321866318297169922> Saturday trainings have been re-added! \U0001F389"
+  id: '1287987068882124843'
+  ref_to: null
+  timestamp: '2024-09-24T04:00:46.864+00:00'
+  type: Default
+- author_avatar_url: assets\b3aa4eebe20332119e18ec63eb9049d9-B7E52.png
+  author_id: '321866318297169922'
+  author_name: ninalyn4895
+  author_nickname: Ninalyn
+  content: "Awesome!!! I\u2019m currently at work\u2014I\u2019ll sign up when I get\
+    \ home!"
+  id: '1288024936874639432'
+  ref_to: '1287987068882124843'
+  timestamp: '2024-09-24T06:31:15.297+00:00'
+  type: Reply

@@ -1,0 +1,27 @@
+- author_avatar_url: assets\df6d19d97b04a49ffcafbe7be14c7839-D9CE4.png
+  author_id: '1269872908759597148'
+  author_name: roberta_24935
+  author_nickname: Roberta Bavin CA KC Greeter/Mod
+  content: ''
+  id: '1285700389869588533'
+  ref_to: '1285672298753425509'
+  timestamp: '2024-09-17T20:34:20.103+00:00'
+  type: '21'
+- author_avatar_url: assets\df6d19d97b04a49ffcafbe7be14c7839-D9CE4.png
+  author_id: '1269872908759597148'
+  author_name: roberta_24935
+  author_nickname: Roberta Bavin CA KC Greeter/Mod
+  content: Hi Pat! Thanks for checking in! Have you taken the training yet? https://events.democrats.org/event/672393/
+  id: '1285700391979454568'
+  ref_to: null
+  timestamp: '2024-09-17T20:34:20.606+00:00'
+  type: Default
+- author_avatar_url: assets\48857a74c57923ad91a6d4d4fbea5160-50A23.png
+  author_id: '1285666939225767997'
+  author_name: patsnyder_89773
+  author_nickname: Pat Snyder
+  content: no I havent'. I'm signed up for tomorrow.  thanks
+  id: '1285782786774663265'
+  ref_to: '1285700391979454568'
+  timestamp: '2024-09-18T02:01:45.056+00:00'
+  type: Reply

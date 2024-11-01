@@ -1,0 +1,59 @@
+- author_avatar_url: assets\35788326197c44f9900ed5f00ab64a64-8DFAC.png
+  author_id: '814249024244023336'
+  author_name: tor07302
+  author_nickname: Tory Cross
+  content: Hi this is for text mods! I filled out the text agreement but put the wrong
+    Discord username because I was logged into the wrong email. Should I refill out
+    the form? Or will it be fine? Thanks!
+  id: '1274504819180048464'
+  ref_to: null
+  timestamp: '2024-08-17T23:07:08.047+00:00'
+  type: Default
+- author_avatar_url: assets\f7ebcd4727f2b8e05b4382b1b1eb6d74-1D9FE.png
+  author_id: '1254144571089354868'
+  author_name: kcmpolitical
+  author_nickname: Kris Morrell (CA) - KC TextAdmin
+  content: Hi <@814249024244023336> Mostly there is the risk that it will be confusing
+    for us. I see that you have two accounts on the server. Which one do you want
+    us to use - this one or the one without a profile pic?
+  id: '1274511052083695687'
+  ref_to: null
+  timestamp: '2024-08-17T23:31:54.087+00:00'
+  type: Default
+- author_avatar_url: assets\35788326197c44f9900ed5f00ab64a64-8DFAC.png
+  author_id: '814249024244023336'
+  author_name: tor07302
+  author_nickname: Tory Cross
+  content: "This one please! I\u2019m sorry about the confusion!"
+  id: '1274511175585108042'
+  ref_to: null
+  timestamp: '2024-08-17T23:32:23.532+00:00'
+  type: Default
+- author_avatar_url: assets\f7ebcd4727f2b8e05b4382b1b1eb6d74-1D9FE.png
+  author_id: '1254144571089354868'
+  author_name: kcmpolitical
+  author_nickname: Kris Morrell (CA) - KC TextAdmin
+  content: OK! I will make sure the correct account is on our form and I'll let staff
+    know in case there is anything on their end.
+  id: '1274511373459783731'
+  ref_to: null
+  timestamp: '2024-08-17T23:33:10.709+00:00'
+  type: Default
+- author_avatar_url: assets\f7ebcd4727f2b8e05b4382b1b1eb6d74-1D9FE.png
+  author_id: '1254144571089354868'
+  author_name: kcmpolitical
+  author_nickname: Kris Morrell (CA) - KC TextAdmin
+  content: And no worries! Thank you for catching it!
+  id: '1274511436852232264'
+  ref_to: null
+  timestamp: '2024-08-17T23:33:25.823+00:00'
+  type: Default
+- author_avatar_url: assets\35788326197c44f9900ed5f00ab64a64-8DFAC.png
+  author_id: '814249024244023336'
+  author_name: tor07302
+  author_nickname: Tory Cross
+  content: Thank you so much!
+  id: '1274535787047813180'
+  ref_to: null
+  timestamp: '2024-08-18T01:10:11.362+00:00'
+  type: Default

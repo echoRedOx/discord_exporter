@@ -1,0 +1,27 @@
+Guild: Team Harris-Walz Virtual Office (ID: 1242249109298221066)
+Channel: Number of texts? (ID: 1296977244828336158)
+Channel Topic: None
+Exported At: 2024-10-24T06:24:23.7304265+00:00
+
+
+--- Message ---
+Message ID: 1296977244828336158
+Message Type: Default
+Reply to: None
+Timestamp: 2024-10-18T23:24:31.839+00:00
+Author: Marcy Butler (VA) (marcyb_23261)
+Author Id: 1277036032671617154
+Avatar URL: assets\3-FB033.png
+Content: how can I find out in Discord or Spoke how many texts I've sent since I started volunteering? I'm working on multiple campaigns in Discord/Spoke and would love to have a sense of how many texts I've sent, replies I've fielded, etc. - where do I find that out? I think it will help me to know how much I've worked in certain states when the results start coming in... Thank you!
+--------------------
+
+--- Message ---
+Message ID: 1296977617139798110
+Message Type: Reply
+Reply to: 1296977244828336158
+Timestamp: 2024-10-18T23:26:00.605+00:00
+Author: Jared R [CO] • Lead Mod (kyaizen)
+Author Id: 112080668296564736
+Avatar URL: assets\a_de0e3d4a3f9b486ad3ad6df0d72323da-D0252.gif
+Content: Hi <@1277036032671617154>, please post in <#1259238714157305936>. No promises they'll be able to share that info, but the text team will see it and be able to respond to it! Thanks.
+--------------------

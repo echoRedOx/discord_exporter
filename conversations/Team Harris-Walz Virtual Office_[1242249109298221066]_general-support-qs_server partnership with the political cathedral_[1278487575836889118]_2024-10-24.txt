@@ -1,0 +1,49 @@
+Guild: Team Harris-Walz Virtual Office (ID: 1242249109298221066)
+Channel: server partnership with the political cathedral (ID: 1278487575836889118)
+Channel Topic: None
+Exported At: 2024-10-24T06:51:18.7240258+00:00
+
+
+--- Message ---
+Message ID: 1278487575836889118
+Message Type: Default
+Reply to: None
+Timestamp: 2024-08-28T22:53:11.23+00:00
+Author: Woofie (wo0fie)
+Author Id: 990942293487931443
+Avatar URL: assets\c7217fda9172e4c9da21715984f3b366-5E065.png
+Content: it's a debate server
+--------------------
+
+--- Message ---
+Message ID: 1278688039425671168
+Message Type: Default
+Reply to: None
+Timestamp: 2024-08-29T12:09:45.474+00:00
+Author: Woofie (wo0fie)
+Author Id: 990942293487931443
+Avatar URL: assets\c7217fda9172e4c9da21715984f3b366-5E065.png
+Content: <@&1250537336639586325> I see you’re server is partnered with other servers and would like to do the same
+--------------------
+
+--- Message ---
+Message ID: 1278703529623552044
+Message Type: Default
+Reply to: None
+Timestamp: 2024-08-29T13:11:18.625+00:00
+Author: Frances Haydock (HFP HQ!) (franceshaydock_20619)
+Author Id: 1257469301435400238
+Avatar URL: assets\8286d5b1308e7b3d80a3523e4ec50548-C029D.png
+Content: we don't do partnerships with unofficial servers
+--------------------
+
+--- Message ---
+Message ID: 1278703671445815316
+Message Type: Default
+Reply to: None
+Timestamp: 2024-08-29T13:11:52.438+00:00
+Author: Frances Haydock (HFP HQ!) (franceshaydock_20619)
+Author Id: 1257469301435400238
+Avatar URL: assets\8286d5b1308e7b3d80a3523e4ec50548-C029D.png
+Content: the only other server that is linked to this one is another official campaign content creation server
+--------------------

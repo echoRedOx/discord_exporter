@@ -1,0 +1,49 @@
+Guild: Team Harris-Walz Virtual Office (ID: 1242249109298221066)
+Channel: It’s been 72 hours, no dm. Thanks! (ID: 1287193571216199735)
+Channel Topic: None
+Exported At: 2024-10-28T23:09:37.8808839+00:00
+
+
+--- Message ---
+Message ID: 1287194221484314695
+Message Type: 21
+Reply to: 1287193571216199735
+Timestamp: 2024-09-21T23:30:17.314+00:00
+Author: Jack Joannides KC text admin (jjoannid)
+Author Id: 477560366432256000
+Avatar URL: assets\791c521e62160be1f3df04992f6e5470-36A38.png
+Content: 
+--------------------
+
+--- Message ---
+Message ID: 1287194222549536779
+Message Type: Default
+Reply to: None
+Timestamp: 2024-09-21T23:30:17.568+00:00
+Author: Jack Joannides KC text admin (jjoannid)
+Author Id: 477560366432256000
+Avatar URL: assets\791c521e62160be1f3df04992f6e5470-36A38.png
+Content: Please don't post twice.
+--------------------
+
+--- Message ---
+Message ID: 1287194707704811645
+Message Type: Default
+Reply to: None
+Timestamp: 2024-09-21T23:32:13.238+00:00
+Author: Melinda Harpe (mslyn76)
+Author Id: 1266164520649363466
+Avatar URL: assets\4-4551A.png
+Content: Sorry
+--------------------
+
+--- Message ---
+Message ID: 1287194767850999879
+Message Type: Default
+Reply to: None
+Timestamp: 2024-09-21T23:32:27.578+00:00
+Author: Jack Joannides KC text admin (jjoannid)
+Author Id: 477560366432256000
+Avatar URL: assets\791c521e62160be1f3df04992f6e5470-36A38.png
+Content: I direct messaged you.
+--------------------

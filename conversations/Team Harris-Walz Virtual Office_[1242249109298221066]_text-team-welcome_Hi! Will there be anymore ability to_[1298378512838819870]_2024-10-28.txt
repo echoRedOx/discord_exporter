@@ -1,0 +1,27 @@
+Guild: Team Harris-Walz Virtual Office (ID: 1242249109298221066)
+Channel: Hi! Will there be anymore ability to (ID: 1298378512838819870)
+Channel Topic: None
+Exported At: 2024-10-28T22:22:26.4940918+00:00
+
+
+--- Message ---
+Message ID: 1298396654923157515
+Message Type: 21
+Reply to: 1298378512838819870
+Timestamp: 2024-10-22T21:24:45.577+00:00
+Author: Roberta Bavin CA KC Greeter/Mod (roberta_24935)
+Author Id: 1269872908759597148
+Avatar URL: assets\df6d19d97b04a49ffcafbe7be14c7839-D9CE4.png
+Content: 
+--------------------
+
+--- Message ---
+Message ID: 1298396658287120454
+Message Type: Default
+Reply to: None
+Timestamp: 2024-10-22T21:24:46.379+00:00
+Author: Roberta Bavin CA KC Greeter/Mod (roberta_24935)
+Author Id: 1269872908759597148
+Avatar URL: assets\df6d19d97b04a49ffcafbe7be14c7839-D9CE4.png
+Content: Thanks for your work <@880508705613946941> and for reaching out. We have completed our text trainings, but there are more event at your State channels or at <#1268426751164551199> channel. <:thankyou:1252806147396735057>
+--------------------

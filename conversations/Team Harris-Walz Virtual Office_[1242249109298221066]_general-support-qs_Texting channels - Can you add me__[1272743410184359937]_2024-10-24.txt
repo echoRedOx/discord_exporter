@@ -1,0 +1,51 @@
+Guild: Team Harris-Walz Virtual Office (ID: 1242249109298221066)
+Channel: Texting channels - Can you add me? (ID: 1272743410184359937)
+Channel Topic: None
+Exported At: 2024-10-24T07:03:34.8131507+00:00
+
+
+--- Message ---
+Message ID: 1272743410184359937
+Message Type: Default
+Reply to: None
+Timestamp: 2024-08-13T02:27:55.417+00:00
+Author: Minna Smith (CA) 🌸 (minnasmith)
+Author Id: 736265197752156192
+Avatar URL: assets\9117456692ccb5cf8e9fc3b75f902b98-DB38C.png
+Content: Hey Fabulous Text Mods. 🎉 Could I get added to the texting channels? I entered my info in the spreadsheet. Go Dems! 🇺🇸
+--------------------
+
+--- Message ---
+Message ID: 1272762904072163469
+Message Type: Default
+Reply to: None
+Timestamp: 2024-08-13T03:45:23.122+00:00
+Author: Nicole Morris - Text Admin (nmorris237)
+Author Id: 935762347753103382
+Avatar URL: assets\27b1e286b65ae02b3378793b5f098411-A7B20.png
+Content: Hi <@736265197752156192> Thanks! It looks like you are already in our texting channels, and I believe Kris sent you a DM as well (check the Game Controller icon on the top left for your message notifications)
+--------------------
+
+--- Message ---
+Message ID: 1272769548449353811
+Message Type: Reply
+Reply to: 1272762904072163469
+Timestamp: 2024-08-13T04:11:47.265+00:00
+Author: Minna Smith (CA) 🌸 (minnasmith)
+Author Id: 736265197752156192
+Avatar URL: assets\9117456692ccb5cf8e9fc3b75f902b98-DB38C.png
+Content: Thanks Nicole! I normally do Discord on my computer and not my phone so that must be it. 🤣 Sorry to trouble. Will check it all out when I log in tomorrow. Thanks again! 💫
+
+See it! 🌸
+--------------------
+
+--- Message ---
+Message ID: 1272770286873219184
+Message Type: Default
+Reply to: None
+Timestamp: 2024-08-13T04:14:43.319+00:00
+Author: Nicole Morris - Text Admin (nmorris237)
+Author Id: 935762347753103382
+Avatar URL: assets\27b1e286b65ae02b3378793b5f098411-A7B20.png
+Content: No worries at all! Sounds good - let me know if you don’t see her message or if you don’t see the texting channels
+--------------------

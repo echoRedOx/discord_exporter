@@ -1,0 +1,41 @@
+- author_avatar_url: assets\de09eeaf19be82e36df33c8429a4d1a3-30FA9.png
+  author_id: '1247292780032561152'
+  author_name: cpbricke_24848
+  author_nickname: Cheryl Brickey Mod Admin  (CA)
+  content: ''
+  id: '1274507231538184232'
+  ref_to: '1274437293167349936'
+  timestamp: '2024-08-17T23:16:43.198+00:00'
+  type: '21'
+- author_avatar_url: assets\de09eeaf19be82e36df33c8429a4d1a3-30FA9.png
+  author_id: '1247292780032561152'
+  author_name: cpbricke_24848
+  author_nickname: Cheryl Brickey Mod Admin  (CA)
+  content: Hello <@1273713003312713801>    We do have a phone bank partners program
+    as part of our Call Crew program.   A couple of questions.  Do you imagine this
+    as a one time phone bank or an ongoing series leading up to the campaign.    Our
+    phone bank partners program is housed in our slack community.  If you are interested
+    in an ongoing series let me know and we can get you additional information
+  id: '1274507234142847007'
+  ref_to: null
+  timestamp: '2024-08-17T23:16:43.819+00:00'
+  type: Default
+- author_avatar_url: assets\3-FB033.png
+  author_id: '1273713003312713801'
+  author_name: karenriversdvc
+  author_nickname: Karen Rivers -  DVC
+  content: "Thanks Cheryl! We\u2019re interested in ongoing phone banks - both virtual\
+    \ and in person."
+  id: '1274507559511916654'
+  ref_to: null
+  timestamp: '2024-08-17T23:18:01.393+00:00'
+  type: Default
+- author_avatar_url: assets\de09eeaf19be82e36df33c8429a4d1a3-30FA9.png
+  author_id: '1247292780032561152'
+  author_name: cpbricke_24848
+  author_nickname: Cheryl Brickey Mod Admin  (CA)
+  content: I will send you a DM with some information
+  id: '1274583647063638079'
+  ref_to: '1274507559511916654'
+  timestamp: '2024-08-18T04:20:22.079+00:00'
+  type: Reply

@@ -1,0 +1,27 @@
+Guild: Team Harris-Walz Virtual Office (ID: 1242249109298221066)
+Channel: It's been 72 hours since my training on (ID: 1289393387429953536)
+Channel Topic: None
+Exported At: 2024-10-28T23:00:22.5522524+00:00
+
+
+--- Message ---
+Message ID: 1289395371411243070
+Message Type: 21
+Reply to: 1289393387429953536
+Timestamp: 2024-09-28T01:16:52.352+00:00
+Author: Nicole Morris - Text Admin (nmorris237)
+Author Id: 935762347753103382
+Avatar URL: assets\27b1e286b65ae02b3378793b5f098411-A7B20.png
+Content: 
+--------------------
+
+--- Message ---
+Message ID: 1289395373651267627
+Message Type: Default
+Reply to: None
+Timestamp: 2024-09-28T01:16:52.886+00:00
+Author: Nicole Morris - Text Admin (nmorris237)
+Author Id: 935762347753103382
+Avatar URL: assets\27b1e286b65ae02b3378793b5f098411-A7B20.png
+Content: Hi <@1288287152165093438> Thanks! I'll send you a Direct Message now - let me know if you don't see it
+--------------------

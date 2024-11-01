@@ -1,0 +1,126 @@
+Guild: Team Harris-Walz Virtual Office (ID: 1242249109298221066)
+Channel: How to answer questions from voters (ID: 1278720240997371936)
+Channel Topic: None
+Exported At: 2024-10-28T20:10:06.4925533+00:00
+
+
+--- Message ---
+Message ID: 1278720240997371936
+Message Type: Default
+Reply to: None
+Timestamp: 2024-08-29T14:17:42.927+00:00
+Author: Courtney Emken (courtneyemken_57857)
+Author Id: 1242180847642345535
+Avatar URL: assets\4-4551A.png
+Content: Where do I go to get answers to questions I'm getting from my social posts? In regards to her lowering prices: Like, "Why did prices increase while she was Vice President if she is capable of doing this? Do you think taxing unrealized capital gains will do this? What about higher corporate tax rates? What exactly is the mechanism she will implement to reduce inflation? Price controls?" <#1252676126698897429> @staff
+--------------------
+
+--- Message ---
+Message ID: 1278721033137950833
+Message Type: Default
+Reply to: None
+Timestamp: 2024-08-29T14:20:51.788+00:00
+Author: Frances Haydock (HFP HQ!) (franceshaydock_20619)
+Author Id: 1257469301435400238
+Avatar URL: assets\8286d5b1308e7b3d80a3523e4ec50548-C029D.png
+Content: Hi Courtney! This is a good question to ask in the <#1250550849998946417> channel!
+--------------------
+
+--- Message ---
+Message ID: 1278774205361426462
+Message Type: Reply
+Reply to: 1278721033137950833
+Timestamp: 2024-08-29T17:52:09.034+00:00
+Author: rootsmusic (rootsmusic)
+Author Id: 791857656897732648
+Avatar URL: assets\a30e650576a6d42a3c9ee24648f67c90-2AE37.png
+Content: <#1250550849998946417> doesn't have talking points.
+--------------------
+
+--- Message ---
+Message ID: 1280560492313710626
+Message Type: Default
+Reply to: None
+Timestamp: 2024-09-03T16:10:13.031+00:00
+Author: Laurie Hamburg, New York (keeve0703)
+Author Id: 1280552979975503973
+Avatar URL: assets\ed90d319d5bed95c02d76e2c8544d45f-2D67B.png
+Content: I can't get into that channel!
+--------------------
+
+--- Message ---
+Message ID: 1280560741774266442
+Message Type: Reply
+Reply to: 1280560492313710626
+Timestamp: 2024-09-03T16:11:12.507+00:00
+Author: Frances Haydock (HFP HQ!) (franceshaydock_20619)
+Author Id: 1257469301435400238
+Avatar URL: assets\8286d5b1308e7b3d80a3523e4ec50548-C029D.png
+Content: Just gave you the role so you should be able to access this!
+--------------------
+
+--- Message ---
+Message ID: 1280560937887334464
+Message Type: Default
+Reply to: None
+Timestamp: 2024-09-03T16:11:59.264+00:00
+Author: Laurie Hamburg, New York (keeve0703)
+Author Id: 1280552979975503973
+Avatar URL: assets\ed90d319d5bed95c02d76e2c8544d45f-2D67B.png
+Content: 
+--------------------
+
+--- Message ---
+Message ID: 1280561013959164006
+Message Type: Default
+Reply to: None
+Timestamp: 2024-09-03T16:12:17.401+00:00
+Author: Laurie Hamburg, New York (keeve0703)
+Author Id: 1280552979975503973
+Avatar URL: assets\ed90d319d5bed95c02d76e2c8544d45f-2D67B.png
+Content: Now, I need to figure out how to start texting!
+--------------------
+
+--- Message ---
+Message ID: 1280561337545658368
+Message Type: Reply
+Reply to: 1280560937887334464
+Timestamp: 2024-09-03T16:13:34.55+00:00
+Author: Frances Haydock (HFP HQ!) (franceshaydock_20619)
+Author Id: 1257469301435400238
+Avatar URL: assets\8286d5b1308e7b3d80a3523e4ec50548-C029D.png
+Content: You can attend a text bank training here: https://events.democrats.org/event/672393/
+--------------------
+
+--- Message ---
+Message ID: 1280564534049771671
+Message Type: Default
+Reply to: None
+Timestamp: 2024-09-03T16:26:16.656+00:00
+Author: Laurie Hamburg, New York (keeve0703)
+Author Id: 1280552979975503973
+Avatar URL: assets\ed90d319d5bed95c02d76e2c8544d45f-2D67B.png
+Content: Thank you! I'm signed up for Thursday.
+--------------------
+
+--- Message ---
+Message ID: 1281618402334736467
+Message Type: Default
+Reply to: None
+Timestamp: 2024-09-06T14:13:58.435+00:00
+Author: Hope24 (hope24_07067)
+Author Id: 1281612937957740558
+Avatar URL: assets\2-ADBB4.png
+Content: I downloaded Reach and searched the Economy Channel and the word Rural to find information to discuss with rural community members.  There was one article under Rural.  There was nothing under the Economy regarding tariffs.  Is there a way to add or suggest articles on specific topics, such as the impact of past Trump Tariffs on agriculture?
+--------------------
+
+--- Message ---
+Message ID: 1281663308335681556
+Message Type: Default
+Reply to: None
+Timestamp: 2024-09-06T17:12:24.86+00:00
+Author: Carolyn B [CA] • Lead Mod (carb.on)
+Author Id: 568257600228032512
+Avatar URL: assets\28a90c77b5793d80eb62484a43c66748-D8837.png
+Content: Hi <@1281612937957740558> you can go to Channels & Roles and choose Engage with your Online Communities, which will open https://discord.com/channels/1242249109298221066/1250550849998946417 and you can share your idea with the team.
+--------------------

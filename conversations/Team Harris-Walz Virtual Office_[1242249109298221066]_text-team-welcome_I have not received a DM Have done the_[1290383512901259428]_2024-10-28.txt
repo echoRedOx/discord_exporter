@@ -1,0 +1,27 @@
+Guild: Team Harris-Walz Virtual Office (ID: 1242249109298221066)
+Channel: I have not received a DM Have done the (ID: 1290383512901259428)
+Channel Topic: None
+Exported At: 2024-10-28T22:57:18.4300109+00:00
+
+
+--- Message ---
+Message ID: 1290453994526736384
+Message Type: 21
+Reply to: 1290383512901259428
+Timestamp: 2024-09-30T23:23:27.771+00:00
+Author: Jack Joannides KC text admin (jjoannid)
+Author Id: 477560366432256000
+Avatar URL: assets\791c521e62160be1f3df04992f6e5470-36A38.png
+Content: 
+--------------------
+
+--- Message ---
+Message ID: 1290453995726438441
+Message Type: Default
+Reply to: None
+Timestamp: 2024-09-30T23:23:28.057+00:00
+Author: Jack Joannides KC text admin (jjoannid)
+Author Id: 477560366432256000
+Avatar URL: assets\791c521e62160be1f3df04992f6e5470-36A38.png
+Content: You should have gotten a direct message from Roberta.
+--------------------

@@ -1,0 +1,60 @@
+Guild: Team Harris-Walz Virtual Office (ID: 1242249109298221066)
+Channel: Is this a legit text from the campaign: (ID: 1287851295222530049)
+Channel Topic: None
+Exported At: 2024-10-28T23:06:26.7998201+00:00
+
+
+--- Message ---
+Message ID: 1287852169701359708
+Message Type: 21
+Reply to: 1287851295222530049
+Timestamp: 2024-09-23T19:04:44.393+00:00
+Author: Jack Joannides KC text admin (jjoannid)
+Author Id: 477560366432256000
+Avatar URL: assets\791c521e62160be1f3df04992f6e5470-36A38.png
+Content: 
+--------------------
+
+--- Message ---
+Message ID: 1287852172033392800
+Message Type: Default
+Reply to: None
+Timestamp: 2024-09-23T19:04:44.949+00:00
+Author: Jack Joannides KC text admin (jjoannid)
+Author Id: 477560366432256000
+Avatar URL: assets\791c521e62160be1f3df04992f6e5470-36A38.png
+Content: We never send donation texts. That's another team.
+--------------------
+
+--- Message ---
+Message ID: 1287852380271939706
+Message Type: Reply
+Reply to: 1287852172033392800
+Timestamp: 2024-09-23T19:05:34.597+00:00
+Author: littlestsparkle (littlestsparkle)
+Author Id: 387508347227865090
+Avatar URL: assets\770179727af66016a989be1e7736b1f6-33BA9.png
+Content: But is it from the campaign at all?
+--------------------
+
+--- Message ---
+Message ID: 1287852767070912552
+Message Type: Default
+Reply to: None
+Timestamp: 2024-09-23T19:07:06.817+00:00
+Author: Jack Joannides KC text admin (jjoannid)
+Author Id: 477560366432256000
+Avatar URL: assets\791c521e62160be1f3df04992f6e5470-36A38.png
+Content: I don't know. I'm only a volunteer leader for text team here and call crew on slack.
+--------------------
+
+--- Message ---
+Message ID: 1287864397636702221
+Message Type: Default
+Reply to: None
+Timestamp: 2024-09-23T19:53:19.76+00:00
+Author: Leah Larkin [CA] — KC Text Admin (thednageek)
+Author Id: 827323038714167316
+Avatar URL: assets\2-ADBB4.png
+Content: ActBlue is a legitimate fundraising platform for the Democrats.
+--------------------

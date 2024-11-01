@@ -1,0 +1,20 @@
+- author_avatar_url: assets\27b1e286b65ae02b3378793b5f098411-A7B20.png
+  author_id: '935762347753103382'
+  author_name: nmorris237
+  author_nickname: Nicole Morris - Text Admin
+  content: ''
+  id: '1297194586682163280'
+  ref_to: '1297165929016328264'
+  timestamp: '2024-10-19T13:48:10.175+00:00'
+  type: '21'
+- author_avatar_url: assets\27b1e286b65ae02b3378793b5f098411-A7B20.png
+  author_id: '935762347753103382'
+  author_name: nmorris237
+  author_nickname: Nicole Morris - Text Admin
+  content: "Hi! Sounds like it\u2019s text training - but you can confirm in the confirmation\
+    \ email you received (it should be called \u201CText Team\u201D or \u201CText\
+    \ Team Training\u201D)"
+  id: '1297194590427811880'
+  ref_to: null
+  timestamp: '2024-10-19T13:48:11.068+00:00'
+  type: Default

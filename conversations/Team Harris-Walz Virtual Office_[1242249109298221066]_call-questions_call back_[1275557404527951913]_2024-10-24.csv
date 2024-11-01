@@ -1,0 +1,3 @@
+id,type,ref_to,timestamp,author_name,author_nickname,author_id,author_avatar_url,content
+1275557404527951913,Default,,2024-08-20T20:49:43.95+00:00,gilly02437,Gilly,838904841458941973,assets\7a2b32d4a763194486bac310f5a788c7-989E5.png,How do we call back a person when  they've exited out of a dialer script?
+1275557862864846941,Default,,2024-08-20T20:51:33.226+00:00,larrya._98544,Larry Ahlgrim (VA) [Call Mod],1266903666879627274,assets\5fde485e55d806d8356ca6e7e08f1f48-77A19.png,<@838904841458941973> If the script is closed you've lost their number. If you haven't ended the call on the script use the back button upper left to go back to see their number.

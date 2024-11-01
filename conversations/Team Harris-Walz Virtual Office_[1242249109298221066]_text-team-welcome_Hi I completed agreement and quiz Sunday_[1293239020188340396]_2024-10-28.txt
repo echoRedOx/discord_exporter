@@ -1,0 +1,27 @@
+Guild: Team Harris-Walz Virtual Office (ID: 1242249109298221066)
+Channel: Hi I completed agreement and quiz Sunday (ID: 1293239020188340396)
+Channel Topic: None
+Exported At: 2024-10-28T22:49:07.5795689+00:00
+
+
+--- Message ---
+Message ID: 1293240712305049673
+Message Type: 21
+Reply to: 1293239020188340396
+Timestamp: 2024-10-08T15:56:53.064+00:00
+Author: Roberta Bavin CA KC Greeter/Mod (roberta_24935)
+Author Id: 1269872908759597148
+Avatar URL: assets\df6d19d97b04a49ffcafbe7be14c7839-D9CE4.png
+Content: 
+--------------------
+
+--- Message ---
+Message ID: 1293240716188713053
+Message Type: Default
+Reply to: None
+Timestamp: 2024-10-08T15:56:53.99+00:00
+Author: Roberta Bavin CA KC Greeter/Mod (roberta_24935)
+Author Id: 1269872908759597148
+Avatar URL: assets\df6d19d97b04a49ffcafbe7be14c7839-D9CE4.png
+Content: Hi <@1292256894588682263> Thanks for following up! Please look in your DM (upper left game controller icon) for a message sent on 10/6. <:thankyou:1252806147396735057>
+--------------------

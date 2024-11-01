@@ -1,0 +1,93 @@
+Guild: Team Harris-Walz Virtual Office (ID: 1242249109298221066)
+Channel: KC question (ID: 1293740778648113233)
+Channel Topic: None
+Exported At: 2024-10-28T19:53:46.1542804+00:00
+
+
+--- Message ---
+Message ID: 1293740778648113233
+Message Type: Default
+Reply to: None
+Timestamp: 2024-10-10T01:03:58.171+00:00
+Author: Laura J (aoklauraj)
+Author Id: 1290466429593976864
+Avatar URL: assets\6c5996770c985bcd6e5b68131ff2ba04-B5079.png
+Content: Hi there. I did the Kamala’s Captains training yesterday. I’m hoping someone here could help get me onto that channel. I might not have given the campaign the correct handle…thanks!
+--------------------
+
+--- Message ---
+Message ID: 1293763601286561852
+Message Type: Default
+Reply to: None
+Timestamp: 2024-10-10T02:34:39.512+00:00
+Author: Jay E  (TX)  OE Mod (jayrio76)
+Author Id: 782870341445353522
+Avatar URL: assets\41ef520387924aa4413513eda28784df-34D82.png
+Content: <@1290466429593976864> : Thank you. Did you get the email to schedule your shadow shift? That is step one. Then, after you shadow shift, submit your shadow debrief form. Only then will the KC staff add you to that channel group. You should have a follow up email from the KC training to schedule your shadow shift.
+--------------------
+
+--- Message ---
+Message ID: 1293763812427563070
+Message Type: Default
+Reply to: None
+Timestamp: 2024-10-10T02:35:29.852+00:00
+Author: Laura J (aoklauraj)
+Author Id: 1290466429593976864
+Avatar URL: assets\6c5996770c985bcd6e5b68131ff2ba04-B5079.png
+Content: Yes. I shadowed yesterday and filled out the debrief…
+--------------------
+
+--- Message ---
+Message ID: 1293764383830315119
+Message Type: Default
+Reply to: None
+Timestamp: 2024-10-10T02:37:46.085+00:00
+Author: Jay E  (TX)  OE Mod (jayrio76)
+Author Id: 782870341445353522
+Avatar URL: assets\41ef520387924aa4413513eda28784df-34D82.png
+Content: In that case, I will send this message link to staff on your behalf. Thanks for your patience. 🙂 I will make sure to give them aoklauraj as your username.
+--------------------
+
+--- Message ---
+Message ID: 1293772719489286155
+Message Type: Default
+Reply to: None
+Timestamp: 2024-10-10T03:10:53.461+00:00
+Author: Laura J (aoklauraj)
+Author Id: 1290466429593976864
+Avatar URL: assets\6c5996770c985bcd6e5b68131ff2ba04-B5079.png
+Content: Thx!  I put my name on the list for data captain this Friday from 7-9 eastern
+--------------------
+
+--- Message ---
+Message ID: 1293960270544109711
+Message Type: Default
+Reply to: None
+Timestamp: 2024-10-10T15:36:09.117+00:00
+Author: Laura J (aoklauraj)
+Author Id: 1290466429593976864
+Avatar URL: assets\6c5996770c985bcd6e5b68131ff2ba04-B5079.png
+Content: I’m going to take my name off the spreadsheet until this is sorted out and if it doesn’t happen np. I’ll still keep phone banking…
+--------------------
+
+--- Message ---
+Message ID: 1293986463855411241
+Message Type: Default
+Reply to: None
+Timestamp: 2024-10-10T17:20:14.089+00:00
+Author: Jay E  (TX)  OE Mod (jayrio76)
+Author Id: 782870341445353522
+Avatar URL: assets\41ef520387924aa4413513eda28784df-34D82.png
+Content: Sorry, I did send you a Discord direct message with the shadow debrief form.  Absolutely, show up and you can either phone bank or shadow for a second time.  Whatever you can do is appreciated.  Thank you.
+--------------------
+
+--- Message ---
+Message ID: 1295115052914970678
+Message Type: Reply
+Reply to: 1293740778648113233
+Timestamp: 2024-10-13T20:04:50.689+00:00
+Author: Eva Kwiatkowski [HQ Staff] (evakwi)
+Author Id: 1263159708466811000
+Avatar URL: assets\1-B2132.png
+Content: HI Laura, thank you for your patience, you're now added!
+--------------------

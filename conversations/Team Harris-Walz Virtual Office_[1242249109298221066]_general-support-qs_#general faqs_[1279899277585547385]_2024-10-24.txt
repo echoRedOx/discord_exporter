@@ -1,0 +1,159 @@
+Guild: Team Harris-Walz Virtual Office (ID: 1242249109298221066)
+Channel: #general faqs (ID: 1279899277585547385)
+Channel Topic: None
+Exported At: 2024-10-24T06:48:00.5642339+00:00
+
+
+--- Message ---
+Message ID: 1279899277585547385
+Message Type: Default
+Reply to: None
+Timestamp: 2024-09-01T20:22:47.155+00:00
+Author: Lisa Asberry (lisaa0911)
+Author Id: 1279572054818947108
+Avatar URL: assets\4-4551A.png
+Content: @text mod Hello, how do I update my phone # that I used to register?  I want to use my Google Voice # instead of my actual cell #?
+--------------------
+
+--- Message ---
+Message ID: 1279900529690017884
+Message Type: Default
+Reply to: None
+Timestamp: 2024-09-01T20:27:45.68+00:00
+Author: Frances Haydock (HFP HQ!) (franceshaydock_20619)
+Author Id: 1257469301435400238
+Avatar URL: assets\8286d5b1308e7b3d80a3523e4ec50548-C029D.png
+Content: Hi Lisa! Thanks for posting your questions here! I am tagging <@477560366432256000> who should be able to help you!
+--------------------
+
+--- Message ---
+Message ID: 1279900588804673607
+Message Type: Default
+Reply to: None
+Timestamp: 2024-09-01T20:27:59.774+00:00
+Author: Lisa Asberry (lisaa0911)
+Author Id: 1279572054818947108
+Avatar URL: assets\4-4551A.png
+Content: Thank you Frances!
+--------------------
+
+--- Message ---
+Message ID: 1279900768148918323
+Message Type: Default
+Reply to: None
+Timestamp: 2024-09-01T20:28:42.533+00:00
+Author: Jack Joannides KC text admin (jjoannid)
+Author Id: 477560366432256000
+Avatar URL: assets\791c521e62160be1f3df04992f6e5470-36A38.png
+Content: You would have to contact scale to win regarding that. I'll give you there info in an direct message.
+--------------------
+
+--- Message ---
+Message ID: 1279900868120154215
+Message Type: Default
+Reply to: None
+Timestamp: 2024-09-01T20:29:06.368+00:00
+Author: Lisa Asberry (lisaa0911)
+Author Id: 1279572054818947108
+Avatar URL: assets\4-4551A.png
+Content: Thanks Jack!  I have not received anything from Scale to Win yet, should I have by now?
+--------------------
+
+--- Message ---
+Message ID: 1279900955219070997
+Message Type: Default
+Reply to: None
+Timestamp: 2024-09-01T20:29:27.134+00:00
+Author: Jack Joannides KC text admin (jjoannid)
+Author Id: 477560366432256000
+Avatar URL: assets\791c521e62160be1f3df04992f6e5470-36A38.png
+Content: Nope. I need to find there contact info.
+--------------------
+
+--- Message ---
+Message ID: 1279900961661517914
+Message Type: Default
+Reply to: None
+Timestamp: 2024-09-01T20:29:28.67+00:00
+Author: Lisa Asberry (lisaa0911)
+Author Id: 1279572054818947108
+Avatar URL: assets\4-4551A.png
+Content: I attended the training and registered yesterday
+--------------------
+
+--- Message ---
+Message ID: 1279901020582969424
+Message Type: Default
+Reply to: None
+Timestamp: 2024-09-01T20:29:42.718+00:00
+Author: Jack Joannides KC text admin (jjoannid)
+Author Id: 477560366432256000
+Avatar URL: assets\791c521e62160be1f3df04992f6e5470-36A38.png
+Content: Let me check something actually.
+--------------------
+
+--- Message ---
+Message ID: 1279912985447497728
+Message Type: Default
+Reply to: None
+Timestamp: 2024-09-01T21:17:15.364+00:00
+Author: Lisa Asberry (lisaa0911)
+Author Id: 1279572054818947108
+Avatar URL: assets\4-4551A.png
+Content: <@477560366432256000> Keep me posted, I’ll check back later this evening.  Thanks!
+--------------------
+
+--- Message ---
+Message ID: 1279917342062805033
+Message Type: Default
+Reply to: None
+Timestamp: 2024-09-01T21:34:34.062+00:00
+Author: Laura M (CO) • Call Mod (hungry.hiker)
+Author Id: 756314488113987654
+Avatar URL: assets\4aa5ed3c3ad66beef8f10bd0d3979dae-08843.png
+Content: Hi <@1279572054818947108> , you may know this already, but when texting with our campaign, the recipients never see your phone number. If you are able to login to democrats.text.scaletowin.com/ you can go to your profile and edit your phone number. Click the Initial in upper right hand corner, then click on your name to get to your profile.
+--------------------
+
+--- Message ---
+Message ID: 1279920066313588847
+Message Type: Default
+Reply to: None
+Timestamp: 2024-09-01T21:45:23.574+00:00
+Author: Jack Joannides KC text admin (jjoannid)
+Author Id: 477560366432256000
+Avatar URL: assets\791c521e62160be1f3df04992f6e5470-36A38.png
+Content: I sent them that but thanks Laura.
+--------------------
+
+--- Message ---
+Message ID: 1279935921382494293
+Message Type: Default
+Reply to: None
+Timestamp: 2024-09-01T22:48:23.717+00:00
+Author: Lisa Asberry (lisaa0911)
+Author Id: 1279572054818947108
+Avatar URL: assets\4-4551A.png
+Content: Hi <@756314488113987654>  I did not know this.  I will goin to the link.  <@477560366432256000> where did you send, I don’t find a link from you here in chats nor in email?
+--------------------
+
+--- Message ---
+Message ID: 1279936202933276797
+Message Type: Default
+Reply to: None
+Timestamp: 2024-09-01T22:49:30.844+00:00
+Author: Jack Joannides KC text admin (jjoannid)
+Author Id: 477560366432256000
+Avatar URL: assets\791c521e62160be1f3df04992f6e5470-36A38.png
+Content: I sent you an direct message to update your display name. That's the first step.
+--------------------
+
+--- Message ---
+Message ID: 1279943935317250160
+Message Type: Default
+Reply to: None
+Timestamp: 2024-09-01T23:20:14.388+00:00
+Author: Lisa Asberry (lisaa0911)
+Author Id: 1279572054818947108
+Avatar URL: assets\4-4551A.png
+Content: Thanks <@477560366432256000> .  I was able to update.  I am waiting for Scale To Win ‘registration to complete.
+--------------------

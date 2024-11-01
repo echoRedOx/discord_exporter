@@ -1,0 +1,38 @@
+Guild: Team Harris-Walz Virtual Office (ID: 1242249109298221066)
+Channel: In regards to NITRO can you let us know the benefits or if its necessary to purchase the monthly app (ID: 1270049121805271144)
+Channel Topic: None
+Exported At: 2024-10-24T12:58:32.2570227+00:00
+
+
+--- Message ---
+Message ID: 1270049121805271144
+Message Type: Default
+Reply to: None
+Timestamp: 2024-08-05T16:01:47.01+00:00
+Author: Brenda Curet CA (brendacuretchandler)
+Author Id: 1260000628143558726
+Avatar URL: assets\3-FB033.png
+Content: Please advise if this will help us and how
+--------------------
+
+--- Message ---
+Message ID: 1270050787350941810
+Message Type: Default
+Reply to: None
+Timestamp: 2024-08-05T16:08:24.107+00:00
+Author: Jamie-Leigh B. (WA) Lead Mod (intentionallyjamieleigh)
+Author Id: 221010133218623488
+Avatar URL: assets\3c1d5ac14c606772f9d0b5cd6308cdf7-BE22C.png
+Content: Nitro is not necessary for using Discord. It gives you access to extra emojis but it's not needed for using this server.
+--------------------
+
+--- Message ---
+Message ID: 1270050946059206677
+Message Type: Default
+Reply to: None
+Timestamp: 2024-08-05T16:09:01.946+00:00
+Author: Brenda Curet CA (brendacuretchandler)
+Author Id: 1260000628143558726
+Avatar URL: assets\3-FB033.png
+Content: thank you for your quick response! back to dialing thx
+--------------------

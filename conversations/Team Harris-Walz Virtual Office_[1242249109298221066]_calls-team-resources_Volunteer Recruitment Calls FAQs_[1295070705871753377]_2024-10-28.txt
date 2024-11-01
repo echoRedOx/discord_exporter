@@ -1,0 +1,23 @@
+Guild: Team Harris-Walz Virtual Office (ID: 1242249109298221066)
+Channel: Volunteer Recruitment Calls FAQs (ID: 1295070705871753377)
+Channel Topic: None
+Exported At: 2024-10-28T20:39:49.1847893+00:00
+
+
+--- Message ---
+Message ID: 1295070705871753377
+Message Type: Default
+Reply to: None
+Timestamp: 2024-10-13T17:08:37.53+00:00
+Author: Jared R [CO] • Lead Mod (kyaizen)
+Author Id: 112080668296564736
+Avatar URL: assets\a_de0e3d4a3f9b486ad3ad6df0d72323da-D0252.gif
+Content: **What if the person I am calling is already volunteering?**
+This is great! You can mark them as “yes” to volunteering, skip the text message, and then end the call.
+
+**What if they want to do events with their local party/local candidates/etc?**
+They can go to their state party website (e.g. texasdemocrats.org) or they can go to events.democrats.org and filter for events in their area. 
+
+**Do we do postcard events?**
+No we do not, but there are plenty of outside groups that do! The events we are calling and recruiting into are our highest priority events at the moment, so we encourage you all to do what you can to get sign ups for these.
+--------------------

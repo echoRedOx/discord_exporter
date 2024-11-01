@@ -1,0 +1,85 @@
+Guild: Team Harris-Walz Virtual Office (ID: 1242249109298221066)
+Channel: Canvassing in Swing States (ID: 1277747051626627082)
+Channel Topic: None
+Exported At: 2024-10-24T06:51:24.9129763+00:00
+
+
+--- Message ---
+Message ID: 1277747051626627082
+Message Type: Default
+Reply to: None
+Timestamp: 2024-08-26T21:50:36.5+00:00
+Author: JoanL (joanl0180)
+Author Id: 1255695517342502922
+Avatar URL: assets\22957df0ee5436745fcbc73a23e86a13-976B4.png
+Content: Hello — I, along with a few friends, are interested in canvassing or helping out in some way in a swing state.  We are willing to manage our own transportation and housing.  We previously volunteered doing canvassing for the Obama campaign in swing states.  My memory is that we coordinated doing this via a coordinated campaign office and/or direct campaign office. I live in CA so decided to focus on AZ.  Called both AZ party and Maricopa County party and did a sign up but not heard anything back.  Same with Gallego office.  It is very difficult to find a contact person to ask these questions to.  It is also difficult to find a phone number or key contact person for a coordinated campaign office.  Are there enough local volunteers in AZ that perhaps they don’t need or think it best not to use out of state volunteers??  I also
+did a DNC or Harris virtual call on ways Californians could help in swing states where they gave us a link to indicate what state we might like to help in.  I’ve not heard anything back.  Anyone on here in the know on how or who is managing out of state volunteer help in swing states?  Thank you.
+--------------------
+
+--- Message ---
+Message ID: 1277747632244265124
+Message Type: Default
+Reply to: None
+Timestamp: 2024-08-26T21:52:54.93+00:00
+Author: Holly Mate-Luber [Call Mod] (hollymateluber)
+Author Id: 1267643778043482122
+Avatar URL: assets\d1341d3c05d207da49a6fa548b4c1086-4BE71.png
+Content: I don’t know if any coordinated efforts between the states yet, but if you are interested in going out on your own for now both NV and AZ have tons of canvassing events listed at events.democrats.org if you filter by organization “2024 NV Victory” or “Jumpstart AZ - Arizona Democrats.” Las Vegas has specific events for out of staters!
+--------------------
+
+--- Message ---
+Message ID: 1277754761999024253
+Message Type: Default
+Reply to: None
+Timestamp: 2024-08-26T22:21:14.796+00:00
+Author: JoanL (joanl0180)
+Author Id: 1255695517342502922
+Avatar URL: assets\22957df0ee5436745fcbc73a23e86a13-976B4.png
+Content: Thx.
+--------------------
+
+--- Message ---
+Message ID: 1277765122990805044
+Message Type: Default
+Reply to: None
+Timestamp: 2024-08-26T23:02:25.049+00:00
+Author: Carolyn B [CA] • Lead Mod (carb.on)
+Author Id: 568257600228032512
+Avatar URL: assets\28a90c77b5793d80eb62484a43c66748-D8837.png
+Content: Hi <@1255695517342502922> there are some AZ canvassing events listed here https://events.democrats.org/?q=arizona you can find them on the Reach app as well.
+--------------------
+
+--- Message ---
+Message ID: 1278501157702209579
+Message Type: Default
+Reply to: None
+Timestamp: 2024-08-28T23:47:09.399+00:00
+Author: Rich Holcombe (WI) (priven.)
+Author Id: 740977201436164177
+Avatar URL: assets\63e48c9523aa87666c7f4d2b6d23a691-271FE.png
+Content: `https://events.democrats.org/?q=state`
+Replace state with whatever state you're interested in
+--------------------
+
+--- Message ---
+Message ID: 1278501558991982632
+Message Type: Default
+Reply to: None
+Timestamp: 2024-08-28T23:48:45.074+00:00
+Author: Rich Holcombe (WI) (priven.)
+Author Id: 740977201436164177
+Avatar URL: assets\63e48c9523aa87666c7f4d2b6d23a691-271FE.png
+Content: Or https://events.democrats.org and search for the state
+--------------------
+
+--- Message ---
+Message ID: 1278530234450444439
+Message Type: Default
+Reply to: None
+Timestamp: 2024-08-29T01:42:41.836+00:00
+Author: Laura M (CO) • Call Mod (hungry.hiker)
+Author Id: 756314488113987654
+Avatar URL: assets\4aa5ed3c3ad66beef8f10bd0d3979dae-08843.png
+Content: <@1255695517342502922> I posted an opportunity you may be interested in over in <#1268426751164551199> 
+https://discord.com/channels/1242249109298221066/1268426751164551199/1278529999988719698
+--------------------

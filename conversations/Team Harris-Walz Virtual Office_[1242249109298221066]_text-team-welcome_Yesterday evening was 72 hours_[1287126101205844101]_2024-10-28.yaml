@@ -1,0 +1,37 @@
+- author_avatar_url: assets\8156a8c1e23069b2fac6bd70259a5ade-A321B.png
+  author_id: '932025725777743923'
+  author_name: andrewjnla
+  author_nickname: Andrew Martin [CA[ KC Text Admin
+  content: ''
+  id: '1287127197521416265'
+  ref_to: '1287126101205844101'
+  timestamp: '2024-09-21T19:03:57.556+00:00'
+  type: '21'
+- author_avatar_url: assets\8156a8c1e23069b2fac6bd70259a5ade-A321B.png
+  author_id: '932025725777743923'
+  author_name: andrewjnla
+  author_nickname: Andrew Martin [CA[ KC Text Admin
+  content: Hi <@1266164502966177802> It looks like Robetra Bavin sent you a DM a few
+    days ago to help get you set up. Please let us know if you don't see it.
+  id: '1287127199618564151'
+  ref_to: null
+  timestamp: '2024-09-21T19:03:58.056+00:00'
+  type: Default
+- author_avatar_url: assets\954741faeecb69772135e9725f6d15a5-80E59.png
+  author_id: '1266164502966177802'
+  author_name: emilyseverance
+  author_nickname: "\U0001FAB7 Emily Severance NM \U0001FAB7"
+  content: I apologize for not seeing it earlier.  Thanks for your help.
+  id: '1287127395681435679'
+  ref_to: null
+  timestamp: '2024-09-21T19:04:44.801+00:00'
+  type: Default
+- author_avatar_url: assets\8156a8c1e23069b2fac6bd70259a5ade-A321B.png
+  author_id: '932025725777743923'
+  author_name: andrewjnla
+  author_nickname: Andrew Martin [CA[ KC Text Admin
+  content: No worries - thanks for being here with us!
+  id: '1287128116682162177'
+  ref_to: null
+  timestamp: '2024-09-21T19:07:36.701+00:00'
+  type: Default

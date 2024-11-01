@@ -1,0 +1,27 @@
+Guild: Team Harris-Walz Virtual Office (ID: 1242249109298221066)
+Channel: Have a calling question? Post in call-questions (ID: 1295066649870733312)
+Channel Topic: None
+Exported At: 2024-10-24T12:37:37.6833415+00:00
+
+
+--- Message ---
+Message ID: 1295066649870733312
+Message Type: Default
+Reply to: None
+Timestamp: 2024-10-13T16:52:30.504+00:00
+Author: Jared R [CO] • Lead Mod (kyaizen)
+Author Id: 112080668296564736
+Avatar URL: assets\a_de0e3d4a3f9b486ad3ad6df0d72323da-D0252.gif
+Content: This channel will be for calling guides & info. Head to <#1263529508300914809> to create a new thread and ask for help from a call mod! Thank you!
+--------------------
+
+--- Message ---
+Message ID: 1295075111946293363
+Message Type: Default
+Reply to: None
+Timestamp: 2024-10-13T17:26:08.02+00:00
+Author: Jared R [CO] • Lead Mod (kyaizen)
+Author Id: 112080668296564736
+Avatar URL: assets\a_de0e3d4a3f9b486ad3ad6df0d72323da-D0252.gif
+Content: 
+--------------------

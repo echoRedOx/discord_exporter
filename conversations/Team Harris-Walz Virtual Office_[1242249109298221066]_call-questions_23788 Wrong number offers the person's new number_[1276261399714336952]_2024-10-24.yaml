@@ -1,0 +1,58 @@
+- author_avatar_url: assets\4bb087b45ee2458458d4a2ba5c5c03f8-8CAD6.png
+  author_id: '1261347623877607474'
+  author_name: joelfriedman
+  author_nickname: Joel Friedman
+  content: Is there anything we can do with this info? https://democrats.text.scaletowin.com/admin/34/incoming/?campaign=23788&contact=224585982&includeArchived=true&includeOptOut=true
+  id: '1276261399714336952'
+  ref_to: null
+  timestamp: '2024-08-22T19:27:09.482+00:00'
+  type: Default
+- author_avatar_url: assets\72d82e393a66b89996d99840a07990ec-C9EFF.png
+  author_id: '965992907981074443'
+  author_name: andrearogersvalen
+  author_nickname: AndreaV, KY Call Mod
+  content: The link returns an error. Can you tell us a little bit about what you
+    need so we can try to help? Thanks!
+  id: '1276265449641869374'
+  ref_to: '1276261399714336952'
+  timestamp: '2024-08-22T19:43:15.06+00:00'
+  type: Reply
+- author_avatar_url: assets\4bb087b45ee2458458d4a2ba5c5c03f8-8CAD6.png
+  author_id: '1261347623877607474'
+  author_name: joelfriedman
+  author_nickname: Joel Friedman
+  content: It was a wrong number. The respondent answered with the person's new number.
+    I followed the wrong number workflow and asked if she was a supporter. That's
+    about it.
+  id: '1276265927830274118'
+  ref_to: null
+  timestamp: '2024-08-22T19:45:09.069+00:00'
+  type: Default
+- author_avatar_url: assets\72d82e393a66b89996d99840a07990ec-C9EFF.png
+  author_id: '965992907981074443'
+  author_name: andrearogersvalen
+  author_nickname: AndreaV, KY Call Mod
+  content: Are you in an active phone bank now? If so, put it in the chat so the facilitator
+    can try to help.
+  id: '1276266144172605540'
+  ref_to: null
+  timestamp: '2024-08-22T19:46:00.649+00:00'
+  type: Default
+- author_avatar_url: assets\4bb087b45ee2458458d4a2ba5c5c03f8-8CAD6.png
+  author_id: '1261347623877607474'
+  author_name: joelfriedman
+  author_nickname: Joel Friedman
+  content: Oh shoot, so sorry, it's a text issue. I'll post it there, sorry.
+  id: '1276268939789471845'
+  ref_to: null
+  timestamp: '2024-08-22T19:57:07.176+00:00'
+  type: Default
+- author_avatar_url: assets\72d82e393a66b89996d99840a07990ec-C9EFF.png
+  author_id: '965992907981074443'
+  author_name: andrearogersvalen
+  author_nickname: AndreaV, KY Call Mod
+  content: "No problem. Thanks for helping us make calls today! \U0001F499"
+  id: '1276269545400832000'
+  ref_to: '1276268939789471845'
+  timestamp: '2024-08-22T19:59:31.565+00:00'
+  type: Reply

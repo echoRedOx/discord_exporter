@@ -1,0 +1,273 @@
+Guild: Team Harris-Walz Virtual Office (ID: 1242249109298221066)
+Channel: list-switch-alerts (ID: 1300172348661563474)
+Channel Topic: None
+Exported At: 2024-10-29T16:30:37.6417434+00:00
+
+
+--- Message ---
+Message ID: 1300185306120847362
+Message Type: Default
+Reply to: None
+Timestamp: 2024-10-27T19:52:13.254+00:00
+Author: Malcolm Bates (malcolmbates_91405_70196)
+Author Id: 1256282417400905830
+Avatar URL: assets\1-B2132.png
+Content: <@&1242265414118019162> WE WILL BE SWITCHING TO AZ IN APPROXIMATELY 3 MINUTES
+--------------------
+
+--- Message ---
+Message ID: 1300185593719820289
+Message Type: Reply
+Reply to: 1300185306120847362
+Timestamp: 2024-10-27T19:53:21.823+00:00
+Author: Quinn Ruvacava CA (diamondgrlq)
+Author Id: 871529274975334431
+Avatar URL: assets\3-FB033.png
+Content: Thanks
+--------------------
+
+--- Message ---
+Message ID: 1300187223270096948
+Message Type: Default
+Reply to: None
+Timestamp: 2024-10-27T19:59:50.338+00:00
+Author: Malcolm Bates (malcolmbates_91405_70196)
+Author Id: 1256282417400905830
+Avatar URL: assets\1-B2132.png
+Content: <@&1242265414118019162> PAUSING NC, SWITCHING TO AZ!
+--------------------
+
+--- Message ---
+Message ID: 1300199281730519122
+Message Type: Default
+Reply to: None
+Timestamp: 2024-10-27T20:47:45.299+00:00
+Author: Malcolm Bates (malcolmbates_91405_70196)
+Author Id: 1256282417400905830
+Avatar URL: assets\1-B2132.png
+Content: <@&1242265414118019162> preparing to switch to PA in approx. 5 minutes
+--------------------
+
+--- Message ---
+Message ID: 1300200704538837042
+Message Type: Default
+Reply to: None
+Timestamp: 2024-10-27T20:53:24.523+00:00
+Author: Malcolm Bates (malcolmbates_91405_70196)
+Author Id: 1256282417400905830
+Avatar URL: assets\1-B2132.png
+Content: <@&1242265414118019162> SWITCHING TO PA NOW!
+--------------------
+
+--- Message ---
+Message ID: 1300214945962786959
+Message Type: Reply
+Reply to: 1300200704538837042
+Timestamp: 2024-10-27T21:49:59.943+00:00
+Author: Maria (brupt5420)
+Author Id: 689874017485979853
+Avatar URL: assets\5acebf709e038fd1cbdb31cc93922635-BF2EF.png
+Content: Hi! Im making PA calls now- is there a support channel/chat I can join?
+--------------------
+
+--- Message ---
+Message ID: 1300216399788118176
+Message Type: Reply
+Reply to: 1300214945962786959
+Timestamp: 2024-10-27T21:55:46.562+00:00
+Author: Malcolm Bates (malcolmbates_91405_70196)
+Author Id: 1256282417400905830
+Avatar URL: assets\1-B2132.png
+Content: Hi <@689874017485979853>! If you have any questions then you can ask in <#1245826398594138163> (or you can just dm me)
+--------------------
+
+--- Message ---
+Message ID: 1300221800688521248
+Message Type: Default
+Reply to: None
+Timestamp: 2024-10-27T22:17:14.237+00:00
+Author: Malcolm Bates (malcolmbates_91405_70196)
+Author Id: 1256282417400905830
+Avatar URL: assets\1-B2132.png
+Content: <@&1242265414118019162> switching to a new PA list in about 5 min
+--------------------
+
+--- Message ---
+Message ID: 1300222530120060959
+Message Type: Default
+Reply to: None
+Timestamp: 2024-10-27T22:20:08.147+00:00
+Author: Malcolm Bates (malcolmbates_91405_70196)
+Author Id: 1256282417400905830
+Avatar URL: assets\1-B2132.png
+Content: <@&1242265414118019162> SWITCHING LISTS NOW!
+--------------------
+
+--- Message ---
+Message ID: 1300246590782701653
+Message Type: Default
+Reply to: None
+Timestamp: 2024-10-27T23:55:44.656+00:00
+Author: Malcolm Bates (malcolmbates_91405_70196)
+Author Id: 1256282417400905830
+Avatar URL: assets\1-B2132.png
+Content: <@&1242265414118019162> SWITCHING TO NV VBM IN 2 MIN!
+--------------------
+
+--- Message ---
+Message ID: 1300247443455344723
+Message Type: Default
+Reply to: None
+Timestamp: 2024-10-27T23:59:07.949+00:00
+Author: Malcolm Bates (malcolmbates_91405_70196)
+Author Id: 1256282417400905830
+Avatar URL: assets\1-B2132.png
+Content: <@&1242265414118019162> SWITCHING TO NV
+--------------------
+
+--- Message ---
+Message ID: 1300260439493574727
+Message Type: Default
+Reply to: None
+Timestamp: 2024-10-28T00:50:46.446+00:00
+Author: Malcolm Bates (malcolmbates_91405_70196)
+Author Id: 1256282417400905830
+Avatar URL: assets\1-B2132.png
+Content: <@&1242265414118019162> switching to WI now, will be switching to AZ at ~10PM ET
+--------------------
+
+--- Message ---
+Message ID: 1300262541414633493
+Message Type: Default
+Reply to: None
+Timestamp: 2024-10-28T00:59:07.583+00:00
+Author: Malcolm Bates (malcolmbates_91405_70196)
+Author Id: 1256282417400905830
+Avatar URL: assets\1-B2132.png
+Content: <@&1242265414118019162> we are crushing these lists, SWITCHING TO AZ
+--------------------
+
+--- Message ---
+Message ID: 1300551885199118378
+Message Type: Default
+Reply to: None
+Timestamp: 2024-10-28T20:08:52.517+00:00
+Author: Malcolm Bates (malcolmbates_91405_70196)
+Author Id: 1256282417400905830
+Avatar URL: assets\1-B2132.png
+Content: <@&1242265414118019162> Update: We are currently on NC -- estimated time of completion is 5pm!
+
+After that we are going to AZ VBM! (finishing up last night's list) 
+
+Hub is up to date!
+--------------------
+
+--- Message ---
+Message ID: 1300562922384261160
+Message Type: Default
+Reply to: None
+Timestamp: 2024-10-28T20:52:43.987+00:00
+Author: Malcolm Bates (malcolmbates_91405_70196)
+Author Id: 1256282417400905830
+Avatar URL: assets\1-B2132.png
+Content: <@&1242265414118019162> SWITCHING TO AZ IN 5 MIN
+--------------------
+
+--- Message ---
+Message ID: 1300578780909404191
+Message Type: Default
+Reply to: None
+Timestamp: 2024-10-28T21:55:44.954+00:00
+Author: Malcolm Bates (malcolmbates_91405_70196)
+Author Id: 1256282417400905830
+Avatar URL: assets\1-B2132.png
+Content: <@&1242265414118019162> we will be switching to MI in approx. 10 minutes
+--------------------
+
+--- Message ---
+Message ID: 1300581244257566742
+Message Type: Default
+Reply to: None
+Timestamp: 2024-10-28T22:05:32.262+00:00
+Author: Malcolm Bates (malcolmbates_91405_70196)
+Author Id: 1256282417400905830
+Avatar URL: assets\1-B2132.png
+Content: <@&1242265414118019162> PAUSING, SWITCHING TO MI NOW
+--------------------
+
+--- Message ---
+Message ID: 1300592167265501278
+Message Type: Default
+Reply to: None
+Timestamp: 2024-10-28T22:48:56.51+00:00
+Author: Malcolm Bates (malcolmbates_91405_70196)
+Author Id: 1256282417400905830
+Avatar URL: assets\1-B2132.png
+Content: <@&1242265414118019162> switching in approx 5 minutes
+--------------------
+
+--- Message ---
+Message ID: 1300599642618204271
+Message Type: Default
+Reply to: None
+Timestamp: 2024-10-28T23:18:38.773+00:00
+Author: Malcolm Bates (malcolmbates_91405_70196)
+Author Id: 1256282417400905830
+Avatar URL: assets\1-B2132.png
+Content: <@&1242265414118019162> changing to WI in approx 5 minutes
+--------------------
+
+--- Message ---
+Message ID: 1300602056620380202
+Message Type: Default
+Reply to: None
+Timestamp: 2024-10-28T23:28:14.316+00:00
+Author: Malcolm Bates (malcolmbates_91405_70196)
+Author Id: 1256282417400905830
+Avatar URL: assets\1-B2132.png
+Content: <@&1242265414118019162> NOW SWITCHING TO WI, we'll be switching to NV next
+--------------------
+
+--- Message ---
+Message ID: 1300605292110675989
+Message Type: Default
+Reply to: None
+Timestamp: 2024-10-28T23:41:05.717+00:00
+Author: Malcolm Bates (malcolmbates_91405_70196)
+Author Id: 1256282417400905830
+Avatar URL: assets\1-B2132.png
+Content: <@&1242265414118019162> SWITCHING TO NV NOW
+--------------------
+
+--- Message ---
+Message ID: 1300633908588843068
+Message Type: Default
+Reply to: None
+Timestamp: 2024-10-29T01:34:48.417+00:00
+Author: Andre M (andrem217)
+Author Id: 1271470683767181388
+Avatar URL: assets\1-B2132.png
+Content: Switching from on AZ list to another AZ list
+--------------------
+
+--- Message ---
+Message ID: 1300634676490141776
+Message Type: Default
+Reply to: None
+Timestamp: 2024-10-29T01:37:51.499+00:00
+Author: Frances Haydock (HFP HQ!) (franceshaydock_20619)
+Author Id: 1257469301435400238
+Avatar URL: assets\8286d5b1308e7b3d80a3523e4ec50548-C029D.png
+Content: <@&1242265414118019162>
+--------------------
+
+--- Message ---
+Message ID: 1300829753254608977
+Message Type: Default
+Reply to: None
+Timestamp: 2024-10-29T14:33:01.424+00:00
+Author: 513533 (valwoodin_85)
+Author Id: 1279103666321883266
+Avatar URL: assets\e6d033c2cddd29c3e0a68fc08ffca8be-DF46D.png
+Content: Good morning..good morning beautiful and magnificent Harris and Walz family..love Valencia from Memphis TN
+--------------------

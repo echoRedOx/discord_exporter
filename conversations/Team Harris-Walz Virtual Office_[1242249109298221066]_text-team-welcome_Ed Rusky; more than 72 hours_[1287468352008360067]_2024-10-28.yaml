@@ -1,0 +1,48 @@
+- author_avatar_url: assets\df6d19d97b04a49ffcafbe7be14c7839-D9CE4.png
+  author_id: '1269872908759597148'
+  author_name: roberta_24935
+  author_nickname: Roberta Bavin CA KC Greeter/Mod
+  content: ''
+  id: '1287475732691292182'
+  ref_to: '1287468352008360067'
+  timestamp: '2024-09-22T18:08:54.816+00:00'
+  type: '21'
+- author_avatar_url: assets\df6d19d97b04a49ffcafbe7be14c7839-D9CE4.png
+  author_id: '1269872908759597148'
+  author_name: roberta_24935
+  author_nickname: Roberta Bavin CA KC Greeter/Mod
+  content: Hi Ed- Thanks for reaching out! Please see a DM from me in a couple of
+    minutes!
+  id: '1287475735321382973'
+  ref_to: null
+  timestamp: '2024-09-22T18:08:55.443+00:00'
+  type: Default
+- author_avatar_url: assets\29a4eeae207e7211a38860b85df4aeb0-3DDC4.png
+  author_id: '1252374975399067699'
+  author_name: eddie_33433
+  author_nickname: Ed Rusky CA
+  content: Hi Roberta, I haven't received a DM since you messaged me Sunday morning.
+  id: '1288551823329722428'
+  ref_to: '1287475735321382973'
+  timestamp: '2024-09-25T17:24:54.817+00:00'
+  type: Reply
+- author_avatar_url: assets\df6d19d97b04a49ffcafbe7be14c7839-D9CE4.png
+  author_id: '1269872908759597148'
+  author_name: roberta_24935
+  author_nickname: Roberta Bavin CA KC Greeter/Mod
+  content: Hi Ed-Please reply to the DM that was sent a few days ago. Thanks for checking
+    in!
+  id: '1288552401414131744'
+  ref_to: '1288551823329722428'
+  timestamp: '2024-09-25T17:27:12.643+00:00'
+  type: Reply
+- author_avatar_url: assets\29a4eeae207e7211a38860b85df4aeb0-3DDC4.png
+  author_id: '1252374975399067699'
+  author_name: eddie_33433
+  author_nickname: Ed Rusky CA
+  content: "\U0001F600  The message I just sent was a reply to your message of 9/22\
+    \ @ 11:08 am. You said you'd send me another DM but haven't received one."
+  id: '1288552885944324207'
+  ref_to: null
+  timestamp: '2024-09-25T17:29:08.164+00:00'
+  type: Default

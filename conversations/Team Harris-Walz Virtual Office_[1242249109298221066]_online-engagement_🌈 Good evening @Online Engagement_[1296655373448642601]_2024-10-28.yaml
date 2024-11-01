@@ -1,0 +1,28 @@
+- author_avatar_url: assets\28a90c77b5793d80eb62484a43c66748-D8837.png
+  author_id: '568257600228032512'
+  author_name: carb.on
+  author_nickname: "Carolyn B [CA] \u2022 Lead Mod"
+  content: ''
+  id: '1296655495473528916'
+  ref_to: '1296655373448642601'
+  timestamp: '2024-10-18T02:06:00.815+00:00'
+  type: '21'
+- author_avatar_url: assets\28a90c77b5793d80eb62484a43c66748-D8837.png
+  author_id: '568257600228032512'
+  author_name: carb.on
+  author_nickname: "Carolyn B [CA] \u2022 Lead Mod"
+  content: '## Reply here'
+  id: '1296655498069807134'
+  ref_to: null
+  timestamp: '2024-10-18T02:06:01.434+00:00'
+  type: Default
+- author_avatar_url: assets\7592570c541f01e03e0a99778e767246-6D600.png
+  author_id: '1260258813458776136'
+  author_name: jeff4equality
+  author_nickname: Jeff Strater Texas
+  content: I replied to a KamalaHQ tweet and got 477 likes, 26 retweets and 27k views
+    which is huge for me. https://x.com/jeffstrater/status/1846584581085933888?s=46
+  id: '1296659840357371955'
+  ref_to: null
+  timestamp: '2024-10-18T02:23:16.716+00:00'
+  type: Default

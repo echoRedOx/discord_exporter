@@ -1,0 +1,27 @@
+Guild: Team Harris-Walz Virtual Office (ID: 1242249109298221066)
+Channel: How do I share on the reach app? Links (ID: 1267844750312996896)
+Channel Topic: None
+Exported At: 2024-10-28T21:56:28.2925331+00:00
+
+
+--- Message ---
+Message ID: 1267846007803088916
+Message Type: 21
+Reply to: 1267844750312996896
+Timestamp: 2024-07-30T14:07:23.7+00:00
+Author: Christian Bosse (ch.bosse)
+Author Id: 1256039311367999658
+Avatar URL: assets\e940fcd0527f7edd98cdee8d31c08cc0-9A6CA.png
+Content: 
+--------------------
+
+--- Message ---
+Message ID: 1267846009397186632
+Message Type: Default
+Reply to: None
+Timestamp: 2024-07-30T14:07:24.08+00:00
+Author: Christian Bosse (ch.bosse)
+Author Id: 1256039311367999658
+Avatar URL: assets\e940fcd0527f7edd98cdee8d31c08cc0-9A6CA.png
+Content: In Reach the campaign team is sharing content. If you want to share your content, check <#1250876565366243348> and <#1265762143559618624>
+--------------------

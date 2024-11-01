@@ -1,0 +1,95 @@
+Guild: Team Harris-Walz Virtual Office (ID: 1242249109298221066)
+Channel: Just finished my intro quiz ✅ (ID: 1296495128550178997)
+Channel Topic: None
+Exported At: 2024-10-28T22:34:42.4082416+00:00
+
+
+--- Message ---
+Message ID: 1296498405719146588
+Message Type: 21
+Reply to: 1296495128550178997
+Timestamp: 2024-10-17T15:41:47.699+00:00
+Author: Roberta Bavin CA KC Greeter/Mod (roberta_24935)
+Author Id: 1269872908759597148
+Avatar URL: assets\df6d19d97b04a49ffcafbe7be14c7839-D9CE4.png
+Content: 
+--------------------
+
+--- Message ---
+Message ID: 1296498409355870319
+Message Type: Default
+Reply to: None
+Timestamp: 2024-10-17T15:41:48.566+00:00
+Author: Roberta Bavin CA KC Greeter/Mod (roberta_24935)
+Author Id: 1269872908759597148
+Avatar URL: assets\df6d19d97b04a49ffcafbe7be14c7839-D9CE4.png
+Content: Hi <@1279197991273627736> Did you take the Zoom text training with us or is this meant for another Discord Server? Thanks!
+--------------------
+
+--- Message ---
+Message ID: 1296498831222898754
+Message Type: Reply
+Reply to: 1296498409355870319
+Timestamp: 2024-10-17T15:43:29.147+00:00
+Author: Keith Morris, WV (karma24712)
+Author Id: 1279197991273627736
+Avatar URL: assets\5-E9BDB.png
+Content: Yes, the zoom text training
+--------------------
+
+--- Message ---
+Message ID: 1296499053848301663
+Message Type: Reply
+Reply to: 1296498831222898754
+Timestamp: 2024-10-17T15:44:22.225+00:00
+Author: Roberta Bavin CA KC Greeter/Mod (roberta_24935)
+Author Id: 1269872908759597148
+Avatar URL: assets\df6d19d97b04a49ffcafbe7be14c7839-D9CE4.png
+Content: For which group? Don't see you in Harris-Walz DNC group? Thank you!
+--------------------
+
+--- Message ---
+Message ID: 1296499992101392445
+Message Type: Reply
+Reply to: 1296499053848301663
+Timestamp: 2024-10-17T15:48:05.922+00:00
+Author: Keith Morris, WV (karma24712)
+Author Id: 1279197991273627736
+Avatar URL: assets\5-E9BDB.png
+Content: I apologize ~ I’m new to this platform, and I don’t know how to answer that question.
+I’m here because I signed up to text on behalf of Harris/Walz. I tried to follow the instructions which included an introductory video about texting for the campaign, and have ended up “here”.
+--------------------
+
+--- Message ---
+Message ID: 1296500339389894738
+Message Type: Reply
+Reply to: 1296499053848301663
+Timestamp: 2024-10-17T15:49:28.722+00:00
+Author: Keith Morris, WV (karma24712)
+Author Id: 1279197991273627736
+Avatar URL: assets\5-E9BDB.png
+Content: I’m located in WV and would like to text any voters the Harris campaigns needs me to.
+Point me in the right direction? Again~ I apologize to be inconvenient!
+--------------------
+
+--- Message ---
+Message ID: 1296501132369203200
+Message Type: Default
+Reply to: None
+Timestamp: 2024-10-17T15:52:37.783+00:00
+Author: Roberta Bavin CA KC Greeter/Mod (roberta_24935)
+Author Id: 1269872908759597148
+Avatar URL: assets\df6d19d97b04a49ffcafbe7be14c7839-D9CE4.png
+Content: Here's the link to our training! Please join the training at https://events.democrats.org/event/672393/ Thank you!
+--------------------
+
+--- Message ---
+Message ID: 1296594595873947769
+Message Type: Reply
+Reply to: 1296501132369203200
+Timestamp: 2024-10-17T22:04:01.219+00:00
+Author: Keith Morris, WV (karma24712)
+Author Id: 1279197991273627736
+Avatar URL: assets\5-E9BDB.png
+Content: I think I’m all set
+--------------------

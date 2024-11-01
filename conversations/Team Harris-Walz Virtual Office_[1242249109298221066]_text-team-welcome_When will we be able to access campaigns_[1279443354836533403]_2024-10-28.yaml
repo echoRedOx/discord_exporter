@@ -1,0 +1,36 @@
+- author_avatar_url: assets\27b1e286b65ae02b3378793b5f098411-A7B20.png
+  author_id: '935762347753103382'
+  author_name: nmorris237
+  author_nickname: Nicole Morris - Text Admin
+  content: ''
+  id: '1279444634434670705'
+  ref_to: '1279443354836533403'
+  timestamp: '2024-08-31T14:16:11.781+00:00'
+  type: '21'
+- author_avatar_url: assets\27b1e286b65ae02b3378793b5f098411-A7B20.png
+  author_id: '935762347753103382'
+  author_name: nmorris237
+  author_nickname: Nicole Morris - Text Admin
+  content: Hi Ray! You can sign up for a text training at https://events.democrats.org/event/672393/
+  id: '1279444636980613182'
+  ref_to: null
+  timestamp: '2024-08-31T14:16:12.388+00:00'
+  type: Default
+- author_avatar_url: assets\791c521e62160be1f3df04992f6e5470-36A38.png
+  author_id: '477560366432256000'
+  author_name: jjoannid
+  author_nickname: Jack Joannides KC text admin
+  content: "Oh wait I\u2019ll handle this. You\u2019re a slack texter."
+  id: '1279456983887642699'
+  ref_to: null
+  timestamp: '2024-08-31T15:05:16.12+00:00'
+  type: Default
+- author_avatar_url: assets\791c521e62160be1f3df04992f6e5470-36A38.png
+  author_id: '477560366432256000'
+  author_name: jjoannid
+  author_nickname: Jack Joannides KC text admin
+  content: All done.
+  id: '1279458296989749309'
+  ref_to: null
+  timestamp: '2024-08-31T15:10:29.188+00:00'
+  type: Default

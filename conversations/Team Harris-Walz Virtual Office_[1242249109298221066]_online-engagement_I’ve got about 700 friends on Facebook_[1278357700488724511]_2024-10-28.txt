@@ -1,0 +1,27 @@
+Guild: Team Harris-Walz Virtual Office (ID: 1242249109298221066)
+Channel: I’ve got about 700 friends on Facebook (ID: 1278357700488724511)
+Channel Topic: None
+Exported At: 2024-10-28T21:50:34.903293+00:00
+
+
+--- Message ---
+Message ID: 1278359487086071808
+Message Type: 21
+Reply to: 1278357700488724511
+Timestamp: 2024-08-28T14:24:12.492+00:00
+Author: Marta Richenburg (martarichenburg_59797)
+Author Id: 1260983976483356767
+Avatar URL: assets\a57efb34b9ef35ed7f644aca5ab803aa-F2CBD.png
+Content: 
+--------------------
+
+--- Message ---
+Message ID: 1278359488495353877
+Message Type: Default
+Reply to: None
+Timestamp: 2024-08-28T14:24:12.828+00:00
+Author: Marta Richenburg (martarichenburg_59797)
+Author Id: 1260983976483356767
+Avatar URL: assets\a57efb34b9ef35ed7f644aca5ab803aa-F2CBD.png
+Content: Hi! Here is a current link to the Act Blue page to donate  to the campaign: https://secure.actblue.com/donate/web-hfp-walz-august-2024?refcode=lightbox_walz%3F&amount=25
+--------------------

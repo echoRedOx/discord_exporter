@@ -1,0 +1,49 @@
+Guild: Team Harris-Walz Virtual Office (ID: 1242249109298221066)
+Channel: Did my training on Monday night and (ID: 1298735973269639260)
+Channel Topic: None
+Exported At: 2024-10-28T22:11:10.4600811+00:00
+
+
+--- Message ---
+Message ID: 1298736959329669120
+Message Type: 21
+Reply to: 1298735973269639260
+Timestamp: 2024-10-23T19:57:00.47+00:00
+Author: Jack Joannides KC text admin (jjoannid)
+Author Id: 477560366432256000
+Avatar URL: assets\791c521e62160be1f3df04992f6e5470-36A38.png
+Content: 
+--------------------
+
+--- Message ---
+Message ID: 1298736962319941716
+Message Type: Default
+Reply to: None
+Timestamp: 2024-10-23T19:57:01.183+00:00
+Author: Jack Joannides KC text admin (jjoannid)
+Author Id: 477560366432256000
+Avatar URL: assets\791c521e62160be1f3df04992f6e5470-36A38.png
+Content: So we just got the zoom report in the last hour. We'll try to onboard everyone as fast as possible.
+--------------------
+
+--- Message ---
+Message ID: 1298775214456569937
+Message Type: Reply
+Reply to: 1298736962319941716
+Timestamp: 2024-10-23T22:29:01.203+00:00
+Author: Scott Black (scooterb9183)
+Author Id: 950930554746978344
+Avatar URL: assets\7d91a27173fddfeda0d8c48f5339a76a-30694.png
+Content: I am ready to rock Jack...Put me in coach!
+--------------------
+
+--- Message ---
+Message ID: 1298777431037050910
+Message Type: Default
+Reply to: None
+Timestamp: 2024-10-23T22:37:49.677+00:00
+Author: Jack Joannides KC text admin (jjoannid)
+Author Id: 477560366432256000
+Avatar URL: assets\791c521e62160be1f3df04992f6e5470-36A38.png
+Content: I'm on an ZPB. I'm not the only one doing it. We'll try to do it within the next 24 hours.
+--------------------

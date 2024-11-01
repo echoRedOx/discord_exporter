@@ -1,0 +1,49 @@
+Guild: Team Harris-Walz Virtual Office (ID: 1242249109298221066)
+Channel: boosting each other on tiktok (ID: 1281715412249350176)
+Channel Topic: None
+Exported At: 2024-10-24T06:41:58.1902241+00:00
+
+
+--- Message ---
+Message ID: 1281715412249350176
+Message Type: Default
+Reply to: None
+Timestamp: 2024-09-06T20:39:27.401+00:00
+Author: Grace R (MN) (graciebellemagic)
+Author Id: 720762529315291177
+Avatar URL: assets\5-E9BDB.png
+Content: Is there a preferred channel for people to share their campaign related tiktok and other social media content where we can follow each other and boost each other's content?
+--------------------
+
+--- Message ---
+Message ID: 1281717334041432174
+Message Type: Default
+Reply to: None
+Timestamp: 2024-09-06T20:47:05.592+00:00
+Author: Carolyn B [CA] • Lead Mod (carb.on)
+Author Id: 568257600228032512
+Avatar URL: assets\28a90c77b5793d80eb62484a43c66748-D8837.png
+Content: Yes! <@720762529315291177> you can join the Tiktok community. Go to https://discord.com/channels/1242249109298221066/1250550849998946417 and click on the megaphone emoji. This will open the TT channel for you.
+--------------------
+
+--- Message ---
+Message ID: 1281730081643036693
+Message Type: Reply
+Reply to: 1281717334041432174
+Timestamp: 2024-09-06T21:37:44.857+00:00
+Author: Grace R (MN) (graciebellemagic)
+Author Id: 720762529315291177
+Avatar URL: assets\5-E9BDB.png
+Content: Thanks so much for the reply! I actually don't see a megaphone emoji to click on when I go there. Hmmm
+--------------------
+
+--- Message ---
+Message ID: 1281734896796045426
+Message Type: Default
+Reply to: None
+Timestamp: 2024-09-06T21:56:52.879+00:00
+Author: Carolyn B [CA] • Lead Mod (carb.on)
+Author Id: 568257600228032512
+Avatar URL: assets\28a90c77b5793d80eb62484a43c66748-D8837.png
+Content: Oops sent you the wrong channel here you go https://discord.com/channels/1242249109298221066/1260651617867399188
+--------------------

@@ -1,0 +1,27 @@
+Guild: Team Harris-Walz Virtual Office (ID: 1242249109298221066)
+Channel: I finished training and quiz yesterday/ (ID: 1296463455372443802)
+Channel Topic: None
+Exported At: 2024-10-28T22:35:43.6852829+00:00
+
+
+--- Message ---
+Message ID: 1296484694677913620
+Message Type: 21
+Reply to: 1296463455372443802
+Timestamp: 2024-10-17T14:47:18.732+00:00
+Author: Roberta Bavin CA KC Greeter/Mod (roberta_24935)
+Author Id: 1269872908759597148
+Avatar URL: assets\df6d19d97b04a49ffcafbe7be14c7839-D9CE4.png
+Content: 
+--------------------
+
+--- Message ---
+Message ID: 1296484699220344873
+Message Type: Default
+Reply to: None
+Timestamp: 2024-10-17T14:47:19.815+00:00
+Author: Roberta Bavin CA KC Greeter/Mod (roberta_24935)
+Author Id: 1269872908759597148
+Avatar URL: assets\df6d19d97b04a49ffcafbe7be14c7839-D9CE4.png
+Content: Hi <@1292180942714179768> Thanks for reaching out. Please give us 48-72 hours to complete the onboard process. While waiting, please make your Discord display name have a first and last name. Thanks for being here!
+--------------------

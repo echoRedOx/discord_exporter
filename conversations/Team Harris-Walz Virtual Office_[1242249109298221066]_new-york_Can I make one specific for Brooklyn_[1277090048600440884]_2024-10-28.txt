@@ -1,0 +1,50 @@
+Guild: Team Harris-Walz Virtual Office (ID: 1242249109298221066)
+Channel: Can I make one specific for Brooklyn (ID: 1277090048600440884)
+Channel Topic: None
+Exported At: 2024-10-29T00:37:29.3448972+00:00
+
+
+--- Message ---
+Message ID: 1277090363399471216
+Message Type: 21
+Reply to: 1277090048600440884
+Timestamp: 2024-08-25T02:21:09.826+00:00
+Author: Carolyn B [CA] • Lead Mod (carb.on)
+Author Id: 568257600228032512
+Avatar URL: assets\28a90c77b5793d80eb62484a43c66748-D8837.png
+Content: 
+--------------------
+
+--- Message ---
+Message ID: 1277090364486062150
+Message Type: Default
+Reply to: None
+Timestamp: 2024-08-25T02:21:10.085+00:00
+Author: Carolyn B [CA] • Lead Mod (carb.on)
+Author Id: 568257600228032512
+Avatar URL: assets\28a90c77b5793d80eb62484a43c66748-D8837.png
+Content: I just turned this into a thread for you. Now it's a smaller group chat within the larger NY group chat.
+--------------------
+
+--- Message ---
+Message ID: 1277266549941469246
+Message Type: Default
+Reply to: None
+Timestamp: 2024-08-25T14:01:15.971+00:00
+Author: alexandra (marais9160)
+Author Id: 1074776784207368402
+Avatar URL: assets\374448971e4297dfc0697d204edf1d9e-D0925.png
+Content: Great! Thanks! Can I make a poll to decide on a time/location?
+--------------------
+
+--- Message ---
+Message ID: 1277493382016663553
+Message Type: Reply
+Reply to: 1277266549941469246
+Timestamp: 2024-08-26T05:02:36.952+00:00
+Author: Carolyn B [CA] • Lead Mod (carb.on)
+Author Id: 568257600228032512
+Avatar URL: assets\28a90c77b5793d80eb62484a43c66748-D8837.png
+Content: You can make a simple poll, ask your question and use emoji reactions for answers. Like this:
+What do you want for dinner? pick 🥕 🍅 🫑
+--------------------

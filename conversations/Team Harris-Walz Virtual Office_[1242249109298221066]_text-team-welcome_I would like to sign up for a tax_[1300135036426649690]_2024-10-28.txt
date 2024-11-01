@@ -1,0 +1,28 @@
+Guild: Team Harris-Walz Virtual Office (ID: 1242249109298221066)
+Channel: I would like to sign up for a tax (ID: 1300135036426649690)
+Channel Topic: None
+Exported At: 2024-10-28T22:12:16.4723256+00:00
+
+
+--- Message ---
+Message ID: 1300144834866184272
+Message Type: 21
+Reply to: 1300135036426649690
+Timestamp: 2024-10-27T17:11:24.155+00:00
+Author: Andrew Martin [CA[ KC Text Admin (andrewjnla)
+Author Id: 932025725777743923
+Avatar URL: assets\8156a8c1e23069b2fac6bd70259a5ade-A321B.png
+Content: 
+--------------------
+
+--- Message ---
+Message ID: 1300144836669739130
+Message Type: Default
+Reply to: None
+Timestamp: 2024-10-27T17:11:24.585+00:00
+Author: Andrew Martin [CA[ KC Text Admin (andrewjnla)
+Author Id: 932025725777743923
+Avatar URL: assets\8156a8c1e23069b2fac6bd70259a5ade-A321B.png
+Content: Hi <@1232893613206278195> Our text trainings have ended
+Please check out ⁠⁠the ⁠<#1268426751164551199> or ⁠<#1298623273566732300>  channels.
+--------------------

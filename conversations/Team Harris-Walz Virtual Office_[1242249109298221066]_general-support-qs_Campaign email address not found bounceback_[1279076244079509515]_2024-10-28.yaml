@@ -1,0 +1,191 @@
+- author_avatar_url: assets\4-4551A.png
+  author_id: '1278144299678171250'
+  author_name: newyorkerforharris2024
+  author_nickname: Kel
+  content: 'I just replied to the campaign email with the subject line "Please reply
+    to this email" asking for feedback on the campaign, & got an undelivered bounceback
+    that says "the domain contact.kamalaharris.org couldn''t be found"  My reply to
+    the email went to     info@contact.kamalaharris.org
+
+
+    Can someone inform the right team that this is happening?'
+  id: '1279076244079509515'
+  ref_to: null
+  timestamp: '2024-08-30T13:52:20.676+00:00'
+  type: Default
+- author_avatar_url: assets\54ff5e8dfab835d878a961f9f7b7d161-6C0EE.png
+  author_id: '1266879741785538682'
+  author_name: jean9_28218_79932
+  author_nickname: "Jeannine M \u2022 Lead Mod"
+  content: 'Hmm, Thanks, <@1278144299678171250> for pointing this out. I am not sure
+    about that email address and I am going to ask staff and will follow up on this.
+    To give feedback, I know you can use: https://democrats.org/contact-us/'
+  id: '1279077620129992818'
+  ref_to: null
+  timestamp: '2024-08-30T13:57:48.752+00:00'
+  type: Default
+- author_avatar_url: assets\4-4551A.png
+  author_id: '1278144299678171250'
+  author_name: newyorkerforharris2024
+  author_nickname: Kel
+  content: 'Thanks for the reply Claire. Here''s the info at the bottom of the bounceback
+    if it helps: The response was:
+
+
+    DNS Error: DNS type ''mx'' lookup of contact.kamalaharris.org responded with code
+    NXDOMAIN Domain name not found: contact.kamalaharris.org For more information,
+    go to https://support.google.com/mail/?p=BadRcptDomain'
+  id: '1279077870010110002'
+  ref_to: null
+  timestamp: '2024-08-30T13:58:48.328+00:00'
+  type: Default
+- author_avatar_url: assets\8286d5b1308e7b3d80a3523e4ec50548-C029D.png
+  author_id: '1257469301435400238'
+  author_name: franceshaydock_20619
+  author_nickname: Frances Haydock (HFP HQ!)
+  content: <@&1260308467361775721> Can someone help with this?
+  id: '1279078400245370901'
+  ref_to: null
+  timestamp: '2024-08-30T14:00:54.746+00:00'
+  type: Default
+- author_avatar_url: assets\4-4551A.png
+  author_id: '1278144299678171250'
+  author_name: newyorkerforharris2024
+  author_nickname: Kel
+  content: I can jump on a screenshare call to show what I got if it helps.
+  id: '1279078527458873415'
+  ref_to: null
+  timestamp: '2024-08-30T14:01:25.076+00:00'
+  type: Default
+- author_avatar_url: assets\61f1993fd6d452675c383bbf9e35e7b3-DB275.png
+  author_id: '1250157249352171604'
+  author_name: krissiepalomo
+  author_nickname: Krissie [Staff]
+  content: Hi <@1278144299678171250> ! Was the email you tried to send to contact@kamalaharris.org?
+  id: '1279084610315354124'
+  ref_to: null
+  timestamp: '2024-08-30T14:25:35.342+00:00'
+  type: Default
+- author_avatar_url: assets\4-4551A.png
+  author_id: '1278144299678171250'
+  author_name: newyorkerforharris2024
+  author_nickname: Kel
+  content: The email I received shows that it was from contact@e.kamalaharris.com.
+    When I replied to it, it shows that it went to     info@contact.kamalaharris.org,
+    which is different from the email address it came from. All I did was hit Reply,
+    so I'm not sure why it defaulted to a different email address, but I imagine this
+    is happening to everyone.
+  id: '1279085394985488490'
+  ref_to: null
+  timestamp: '2024-08-30T14:28:42.422+00:00'
+  type: Default
+- author_avatar_url: assets\4-4551A.png
+  author_id: '1278144299678171250'
+  author_name: newyorkerforharris2024
+  author_nickname: Kel
+  content: I can copy/paste my reply and just email it to a different email address.
+  id: '1279085551680618620'
+  ref_to: null
+  timestamp: '2024-08-30T14:29:19.781+00:00'
+  type: Default
+- author_avatar_url: assets\61f1993fd6d452675c383bbf9e35e7b3-DB275.png
+  author_id: '1250157249352171604'
+  author_name: krissiepalomo
+  author_nickname: Krissie [Staff]
+  content: Oh I see. It is likely that the contact@e.kamalaharris.com email can send
+    out emails but the inbox can't receive replies, and the original senders changed
+    the reply-to email so they could see the replies that came in from that feedback
+    request. I hope that helps clear things up!
+  id: '1279086286161842277'
+  ref_to: null
+  timestamp: '2024-08-30T14:32:14.895+00:00'
+  type: Default
+- author_avatar_url: assets\4-4551A.png
+  author_id: '1278144299678171250'
+  author_name: newyorkerforharris2024
+  author_nickname: Kel
+  content: But that doesn't solve for my reply getting a bounceback and not going
+    through.
+  id: '1279086665226256476'
+  ref_to: null
+  timestamp: '2024-08-30T14:33:45.271+00:00'
+  type: Default
+- author_avatar_url: assets\4-4551A.png
+  author_id: '1278144299678171250'
+  author_name: newyorkerforharris2024
+  author_nickname: Kel
+  content: Are you saying that my reply was received and can be seen by the staff?
+  id: '1279086800153088052'
+  ref_to: null
+  timestamp: '2024-08-30T14:34:17.44+00:00'
+  type: Default
+- author_avatar_url: assets\61f1993fd6d452675c383bbf9e35e7b3-DB275.png
+  author_id: '1250157249352171604'
+  author_name: krissiepalomo
+  author_nickname: Krissie [Staff]
+  content: I thought your reply went to info@contact.kamalaharris.org?
+  id: '1279086883250376806'
+  ref_to: null
+  timestamp: '2024-08-30T14:34:37.252+00:00'
+  type: Default
+- author_avatar_url: assets\4-4551A.png
+  author_id: '1278144299678171250'
+  author_name: newyorkerforharris2024
+  author_nickname: Kel
+  content: 'It did, but the bounceback I got says: "Your message wasn''t delivered
+    to info@contact.kamalaharris.org because the domain contact.kamalaharris.org couldn''t
+    be found. Check for typos or unnecessary spaces and try again."'
+  id: '1279087228420620421'
+  ref_to: null
+  timestamp: '2024-08-30T14:35:59.547+00:00'
+  type: Default
+- author_avatar_url: assets\4-4551A.png
+  author_id: '1278144299678171250'
+  author_name: newyorkerforharris2024
+  author_nickname: Kel
+  content: something is buggy, because the domain, contact.kamalaharris.org should
+    be recognized, and it's saying that it's not recognized.
+  id: '1279087432075051061'
+  ref_to: null
+  timestamp: '2024-08-30T14:36:48.102+00:00'
+  type: Default
+- author_avatar_url: assets\5-E9BDB.png
+  author_id: '1261023537183981671'
+  author_name: philisea_matthews
+  author_nickname: Philisea [Staff]
+  content: 'Please use: info@kamalaharris.com'
+  id: '1279096679886360689'
+  ref_to: null
+  timestamp: '2024-08-30T15:13:32.952+00:00'
+  type: Default
+- author_avatar_url: assets\4-4551A.png
+  author_id: '1278144299678171250'
+  author_name: newyorkerforharris2024
+  author_nickname: Kel
+  content: Okay I sent it to that email. Thank you
+  id: '1279099869562273792'
+  ref_to: null
+  timestamp: '2024-08-30T15:26:13.43+00:00'
+  type: Default
+- author_avatar_url: assets\cdd338076be36b4698a0750b0aecab7e-2E675.png
+  author_id: '780014711366090773'
+  author_name: ms._behaving
+  author_nickname: Kristy Rosen
+  content: I had the same thing happen. Which means it is happening to everyone who
+    was sent this email by the campaign. A correction email might need to be sent
+    out with the correct response email as it effects all supporters, not just volunteers.
+  id: '1279825596054110208'
+  ref_to: null
+  timestamp: '2024-09-01T15:30:00.109+00:00'
+  type: Default
+- author_avatar_url: assets\4aa5ed3c3ad66beef8f10bd0d3979dae-08843.png
+  author_id: '756314488113987654'
+  author_name: hungry.hiker
+  author_nickname: "Laura M (CO) \u2022 Call Mod"
+  content: (taking off mod hat) Yes, absolutely, they could send out and 'oops, let's
+    try this again email' with the right reply-to address. I know other ways to contact
+    the campaign, but a lot of people may have been annoyed by this.
+  id: '1279915931417579611'
+  ref_to: null
+  timestamp: '2024-09-01T21:28:57.738+00:00'
+  type: Default

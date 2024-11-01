@@ -1,0 +1,27 @@
+Guild: Team Harris-Walz Virtual Office (ID: 1242249109298221066)
+Channel: Where will I see the DM (direct message (ID: 1282383882053746780)
+Channel Topic: None
+Exported At: 2024-10-28T23:33:05.1035267+00:00
+
+
+--- Message ---
+Message ID: 1282386254440435815
+Message Type: 21
+Reply to: 1282383882053746780
+Timestamp: 2024-09-08T17:05:08.643+00:00
+Author: Jack Joannides KC text admin (jjoannid)
+Author Id: 477560366432256000
+Avatar URL: assets\791c521e62160be1f3df04992f6e5470-36A38.png
+Content: 
+--------------------
+
+--- Message ---
+Message ID: 1282386256487121029
+Message Type: Default
+Reply to: None
+Timestamp: 2024-09-08T17:05:09.131+00:00
+Author: Jack Joannides KC text admin (jjoannid)
+Author Id: 477560366432256000
+Avatar URL: assets\791c521e62160be1f3df04992f6e5470-36A38.png
+Content: No. Do you see an gaming controller on the top right.
+--------------------

@@ -1,0 +1,214 @@
+Guild: Team Harris-Walz Virtual Office (ID: 1242249109298221066)
+Channel: How do I get to the texting channels so (ID: 1279560279570518027)
+Channel Topic: None
+Exported At: 2024-10-28T23:45:26.4520341+00:00
+
+
+--- Message ---
+Message ID: 1279563968439914557
+Message Type: 21
+Reply to: 1279560279570518027
+Timestamp: 2024-08-31T22:10:23.225+00:00
+Author: Kris Morrell (CA) - KC TextAdmin (kcmpolitical)
+Author Id: 1254144571089354868
+Avatar URL: assets\f7ebcd4727f2b8e05b4382b1b1eb6d74-1D9FE.png
+Content: 
+--------------------
+
+--- Message ---
+Message ID: 1279563970126151692
+Message Type: Default
+Reply to: None
+Timestamp: 2024-08-31T22:10:23.627+00:00
+Author: Kris Morrell (CA) - KC TextAdmin (kcmpolitical)
+Author Id: 1254144571089354868
+Avatar URL: assets\f7ebcd4727f2b8e05b4382b1b1eb6d74-1D9FE.png
+Content: Hi <@1273823886433194008>, you should have a DM from Roberta. But you also have a confusing situation with two Discord accounts - so the DM is probably at the other account.
+--------------------
+
+--- Message ---
+Message ID: 1279564115324436592
+Message Type: Default
+Reply to: None
+Timestamp: 2024-08-31T22:10:58.245+00:00
+Author: Nancy Burke (nancyburkeca)
+Author Id: 1273823886433194008
+Avatar URL: assets\5-E9BDB.png
+Content: What do I do about the two accounts?
+--------------------
+
+--- Message ---
+Message ID: 1279564204214321205
+Message Type: Default
+Reply to: None
+Timestamp: 2024-08-31T22:11:19.438+00:00
+Author: Kris Morrell (CA) - KC TextAdmin (kcmpolitical)
+Author Id: 1254144571089354868
+Avatar URL: assets\f7ebcd4727f2b8e05b4382b1b1eb6d74-1D9FE.png
+Content: Good question, do you want both? Which one do you want to use?
+--------------------
+
+--- Message ---
+Message ID: 1279564292865130588
+Message Type: Default
+Reply to: None
+Timestamp: 2024-08-31T22:11:40.574+00:00
+Author: Nancy Burke (nancyburkeca)
+Author Id: 1273823886433194008
+Avatar URL: assets\5-E9BDB.png
+Content: I would prefer to only have one account.
+--------------------
+
+--- Message ---
+Message ID: 1279564805107089419
+Message Type: Default
+Reply to: None
+Timestamp: 2024-08-31T22:13:42.702+00:00
+Author: Kris Morrell (CA) - KC TextAdmin (kcmpolitical)
+Author Id: 1254144571089354868
+Avatar URL: assets\f7ebcd4727f2b8e05b4382b1b1eb6d74-1D9FE.png
+Content: Your other account is already onboarded, so I suggest switching to that, if you can and remember how to log into it. If you are on a computer, you may be able to switch by clicking on your profile icon in the lower left corner of the app window, then going to Switch Accounts. You can leave the server with this one.
+--------------------
+
+--- Message ---
+Message ID: 1279565170246553600
+Message Type: Default
+Reply to: None
+Timestamp: 2024-08-31T22:15:09.758+00:00
+Author: Nancy Burke (nancyburkeca)
+Author Id: 1273823886433194008
+Avatar URL: assets\5-E9BDB.png
+Content: What do I do with the switch accounts window?
+--------------------
+
+--- Message ---
+Message ID: 1279565307328991304
+Message Type: Default
+Reply to: None
+Timestamp: 2024-08-31T22:15:42.441+00:00
+Author: Kris Morrell (CA) - KC TextAdmin (kcmpolitical)
+Author Id: 1254144571089354868
+Avatar URL: assets\f7ebcd4727f2b8e05b4382b1b1eb6d74-1D9FE.png
+Content: When I go to switch accounts, I see both of my accounts listed and can click on the one that I want active. Do you see more than one account?
+--------------------
+
+--- Message ---
+Message ID: 1279565446600855615
+Message Type: Default
+Reply to: None
+Timestamp: 2024-08-31T22:16:15.646+00:00
+Author: Nancy Burke (nancyburkeca)
+Author Id: 1273823886433194008
+Avatar URL: assets\5-E9BDB.png
+Content: It just has one account.
+--------------------
+
+--- Message ---
+Message ID: 1279565548006412288
+Message Type: Default
+Reply to: None
+Timestamp: 2024-08-31T22:16:39.823+00:00
+Author: Kris Morrell (CA) - KC TextAdmin (kcmpolitical)
+Author Id: 1254144571089354868
+Avatar URL: assets\f7ebcd4727f2b8e05b4382b1b1eb6d74-1D9FE.png
+Content: Do you remember how to log in to the other account?
+--------------------
+
+--- Message ---
+Message ID: 1279565650699882546
+Message Type: Default
+Reply to: None
+Timestamp: 2024-08-31T22:17:04.307+00:00
+Author: Nancy Burke (nancyburkeca)
+Author Id: 1273823886433194008
+Avatar URL: assets\5-E9BDB.png
+Content: Should I log out of it?  I think I can log into the other account.
+--------------------
+
+--- Message ---
+Message ID: 1279566013691854942
+Message Type: Default
+Reply to: None
+Timestamp: 2024-08-31T22:18:30.851+00:00
+Author: Kris Morrell (CA) - KC TextAdmin (kcmpolitical)
+Author Id: 1254144571089354868
+Avatar URL: assets\f7ebcd4727f2b8e05b4382b1b1eb6d74-1D9FE.png
+Content: If you think you can log into the other account, then I think you can just log into it in a browser window, rather than the app. If I remember correctly, when I did that I had, at some point, the option to open that account in the app.
+--------------------
+
+--- Message ---
+Message ID: 1279566110051663922
+Message Type: Default
+Reply to: None
+Timestamp: 2024-08-31T22:18:53.825+00:00
+Author: Nancy Burke (nancyburkeca)
+Author Id: 1273823886433194008
+Avatar URL: assets\5-E9BDB.png
+Content: Is there any way for you to delete one of them?
+--------------------
+
+--- Message ---
+Message ID: 1279566353723953242
+Message Type: Default
+Reply to: None
+Timestamp: 2024-08-31T22:19:51.921+00:00
+Author: Kris Morrell (CA) - KC TextAdmin (kcmpolitical)
+Author Id: 1254144571089354868
+Avatar URL: assets\f7ebcd4727f2b8e05b4382b1b1eb6d74-1D9FE.png
+Content: I can't delete one of them for you. You *can* leave the server with one of them. If you'd rather use this account, since it is logged in, then I can straighten things out on our end, I think, other than having you leave the server.
+--------------------
+
+--- Message ---
+Message ID: 1279566688110514228
+Message Type: Default
+Reply to: None
+Timestamp: 2024-08-31T22:21:11.645+00:00
+Author: Nancy Burke (nancyburkeca)
+Author Id: 1273823886433194008
+Avatar URL: assets\5-E9BDB.png
+Content: That would be great.  Sorry, but this is very confusing for me.
+--------------------
+
+--- Message ---
+Message ID: 1279566750597251114
+Message Type: Default
+Reply to: None
+Timestamp: 2024-08-31T22:21:26.543+00:00
+Author: Kris Morrell (CA) - KC TextAdmin (kcmpolitical)
+Author Id: 1254144571089354868
+Avatar URL: assets\f7ebcd4727f2b8e05b4382b1b1eb6d74-1D9FE.png
+Content: OK, I'll see what I can do.
+--------------------
+
+--- Message ---
+Message ID: 1279568061254467605
+Message Type: Default
+Reply to: None
+Timestamp: 2024-08-31T22:26:39.028+00:00
+Author: Kris Morrell (CA) - KC TextAdmin (kcmpolitical)
+Author Id: 1254144571089354868
+Avatar URL: assets\f7ebcd4727f2b8e05b4382b1b1eb6d74-1D9FE.png
+Content: OK, I have added you, removed the other account from the text team, and sent you a DM with some info.
+--------------------
+
+--- Message ---
+Message ID: 1279568097803763733
+Message Type: Default
+Reply to: None
+Timestamp: 2024-08-31T22:26:47.742+00:00
+Author: Kris Morrell (CA) - KC TextAdmin (kcmpolitical)
+Author Id: 1254144571089354868
+Avatar URL: assets\f7ebcd4727f2b8e05b4382b1b1eb6d74-1D9FE.png
+Content: 
+--------------------
+
+--- Message ---
+Message ID: 1279568347771703376
+Message Type: Default
+Reply to: None
+Timestamp: 2024-08-31T22:27:47.339+00:00
+Author: Kris Morrell (CA) - KC TextAdmin (kcmpolitical)
+Author Id: 1254144571089354868
+Avatar URL: assets\f7ebcd4727f2b8e05b4382b1b1eb6d74-1D9FE.png
+Content: I'm not sure what we'll do about the other account, it may just sit around.
+--------------------

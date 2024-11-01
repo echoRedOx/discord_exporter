@@ -1,0 +1,27 @@
+Guild: Team Harris-Walz Virtual Office (ID: 1242249109298221066)
+Channel: I took the training & filled out forms a (ID: 1295930890471477290)
+Channel Topic: None
+Exported At: 2024-10-28T22:37:47.8672166+00:00
+
+
+--- Message ---
+Message ID: 1295934335253352510
+Message Type: 21
+Reply to: 1295930890471477290
+Timestamp: 2024-10-16T02:20:22.82+00:00
+Author: Roberta Bavin CA KC Greeter/Mod (roberta_24935)
+Author Id: 1269872908759597148
+Avatar URL: assets\df6d19d97b04a49ffcafbe7be14c7839-D9CE4.png
+Content: 
+--------------------
+
+--- Message ---
+Message ID: 1295934338801602593
+Message Type: Default
+Reply to: None
+Timestamp: 2024-10-16T02:20:23.666+00:00
+Author: Roberta Bavin CA KC Greeter/Mod (roberta_24935)
+Author Id: 1269872908759597148
+Avatar URL: assets\df6d19d97b04a49ffcafbe7be14c7839-D9CE4.png
+Content: Hi <@1286445304438063199> Please see DM sent to you late September. DM are in left upper corner of Discord at the game controller icon. Thanks for following up!
+--------------------

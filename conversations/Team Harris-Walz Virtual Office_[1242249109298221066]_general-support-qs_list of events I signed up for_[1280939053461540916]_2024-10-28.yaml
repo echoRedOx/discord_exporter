@@ -1,0 +1,49 @@
+- author_avatar_url: assets\be128c5c34edd3f1d22d4268aa9708de-071DB.png
+  author_id: '1280665643674239037'
+  author_name: marybullin
+  author_nickname: Mary
+  content: How do I view a list of events I previously signed up for?
+  id: '1280939053461540916'
+  ref_to: null
+  timestamp: '2024-09-04T17:14:29.042+00:00'
+  type: Default
+- author_avatar_url: assets\bfccaff89d7c287575ef163d39d3bde8-053E1.png
+  author_id: '763374129772363776'
+  author_name: tenaciousg27
+  author_nickname: "Gillian D [TX] \u2022 Lead Mod"
+  content: Hi Mary! You can sign in to https://events.democrats.org and go to the
+    drop-down menu on the top right-hand side and select "my schedule"
+  id: '1280939466223259648'
+  ref_to: null
+  timestamp: '2024-09-04T17:16:07.452+00:00'
+  type: Default
+- author_avatar_url: assets\bfccaff89d7c287575ef163d39d3bde8-053E1.png
+  author_id: '763374129772363776'
+  author_name: tenaciousg27
+  author_nickname: "Gillian D [TX] \u2022 Lead Mod"
+  content: "Please let me know if this works for you or if you need further assistance!\
+    \ Thanks so much for signing up to heed the call and \"Do Something!\" \U0001F4AA\
+    \U0001F3FC <:michelle:1275836570544635992> <a:kamala3:1269028076663345152>"
+  id: '1280939943920926733'
+  ref_to: null
+  timestamp: '2024-09-04T17:18:01.344+00:00'
+  type: Default
+- author_avatar_url: assets\be128c5c34edd3f1d22d4268aa9708de-071DB.png
+  author_id: '1280665643674239037'
+  author_name: marybullin
+  author_nickname: Mary
+  content: Thank you. Very helpful.
+  id: '1281003378381553736'
+  ref_to: null
+  timestamp: '2024-09-04T21:30:05.298+00:00'
+  type: Default
+- author_avatar_url: assets\bfccaff89d7c287575ef163d39d3bde8-053E1.png
+  author_id: '763374129772363776'
+  author_name: tenaciousg27
+  author_nickname: "Gillian D [TX] \u2022 Lead Mod"
+  content: Thanks so much for letting me know that worked, Mary! Happy to be of assistance!
+    <:blueheart:1252803082849488956> <:thankyou:1252806147396735057>
+  id: '1281004565071663117'
+  ref_to: '1281003378381553736'
+  timestamp: '2024-09-04T21:34:48.227+00:00'
+  type: Reply

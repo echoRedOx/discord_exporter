@@ -1,0 +1,37 @@
+- author_avatar_url: assets\27b1e286b65ae02b3378793b5f098411-A7B20.png
+  author_id: '935762347753103382'
+  author_name: nmorris237
+  author_nickname: Nicole Morris - Text Admin
+  content: ''
+  id: '1293441216205291562'
+  ref_to: '1293395463709528186'
+  timestamp: '2024-10-09T05:13:36.919+00:00'
+  type: '21'
+- author_avatar_url: assets\27b1e286b65ae02b3378793b5f098411-A7B20.png
+  author_id: '935762347753103382'
+  author_name: nmorris237
+  author_nickname: Nicole Morris - Text Admin
+  content: "Hi! \U0001F44B Did you take a text training with us yet?"
+  id: '1293441219464007762'
+  ref_to: null
+  timestamp: '2024-10-09T05:13:37.696+00:00'
+  type: Default
+- author_avatar_url: assets\8569adcbd36c70a7578c017bf5604ea5-61C8A.png
+  author_id: '1292532833163673800'
+  author_name: ejk6953.
+  author_nickname: "EJ Kitty \U0001F43E\U0001F60E"
+  content: Thanks, Nicole.  Yes, I did.  Jack got in touch with me.  I have finally
+    found this area, so will be able to text sometime, I'm thinking.
+  id: '1295960333130666086'
+  ref_to: null
+  timestamp: '2024-10-16T04:03:41.197+00:00'
+  type: Default
+- author_avatar_url: assets\27b1e286b65ae02b3378793b5f098411-A7B20.png
+  author_id: '935762347753103382'
+  author_name: nmorris237
+  author_nickname: Nicole Morris - Text Admin
+  content: Great!
+  id: '1296098298746241035'
+  ref_to: null
+  timestamp: '2024-10-16T13:11:54.763+00:00'
+  type: Default

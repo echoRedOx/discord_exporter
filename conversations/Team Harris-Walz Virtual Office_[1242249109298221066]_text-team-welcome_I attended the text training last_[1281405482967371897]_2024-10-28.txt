@@ -1,0 +1,192 @@
+Guild: Team Harris-Walz Virtual Office (ID: 1242249109298221066)
+Channel: I attended the text training last (ID: 1281405482967371897)
+Channel Topic: None
+Exported At: 2024-10-28T23:38:12.6423488+00:00
+
+
+--- Message ---
+Message ID: 1281405575803961404
+Message Type: 21
+Reply to: 1281405482967371897
+Timestamp: 2024-09-06T00:08:16.636+00:00
+Author: Jack Joannides KC text admin (jjoannid)
+Author Id: 477560366432256000
+Avatar URL: assets\791c521e62160be1f3df04992f6e5470-36A38.png
+Content: 
+--------------------
+
+--- Message ---
+Message ID: 1281405577649455194
+Message Type: Default
+Reply to: None
+Timestamp: 2024-09-06T00:08:17.076+00:00
+Author: Jack Joannides KC text admin (jjoannid)
+Author Id: 477560366432256000
+Avatar URL: assets\791c521e62160be1f3df04992f6e5470-36A38.png
+Content: Let me direct message you.
+--------------------
+
+--- Message ---
+Message ID: 1281405668972036106
+Message Type: Default
+Reply to: None
+Timestamp: 2024-09-06T00:08:38.849+00:00
+Author: Shelley Grant (shell32296025)
+Author Id: 1004019631910043689
+Avatar URL: assets\4-4551A.png
+Content: Thanks
+--------------------
+
+--- Message ---
+Message ID: 1281405697367736383
+Message Type: Default
+Reply to: None
+Timestamp: 2024-09-06T00:08:45.619+00:00
+Author: Jack Joannides KC text admin (jjoannid)
+Author Id: 477560366432256000
+Avatar URL: assets\791c521e62160be1f3df04992f6e5470-36A38.png
+Content: Looks like I can't do that.
+--------------------
+
+--- Message ---
+Message ID: 1281405762890891296
+Message Type: Default
+Reply to: None
+Timestamp: 2024-09-06T00:09:01.241+00:00
+Author: Shelley Grant (shell32296025)
+Author Id: 1004019631910043689
+Avatar URL: assets\4-4551A.png
+Content: ???
+--------------------
+
+--- Message ---
+Message ID: 1281405810882252812
+Message Type: Default
+Reply to: None
+Timestamp: 2024-09-06T00:09:12.683+00:00
+Author: Jack Joannides KC text admin (jjoannid)
+Author Id: 477560366432256000
+Avatar URL: assets\791c521e62160be1f3df04992f6e5470-36A38.png
+Content: Your message could not be delivered. This is usually because you don't share a server with the recipient or the recipient is only accepting direct messages from friends. You can see the full list of reasons here: https://support.discord.com/hc/en-us/articles/360060145013
+--------------------
+
+--- Message ---
+Message ID: 1281406649168564254
+Message Type: Default
+Reply to: None
+Timestamp: 2024-09-06T00:12:32.546+00:00
+Author: Shelley Grant (shell32296025)
+Author Id: 1004019631910043689
+Avatar URL: assets\4-4551A.png
+Content: I'm trying to find the setting to accept dms
+--------------------
+
+--- Message ---
+Message ID: 1281406684761292912
+Message Type: Default
+Reply to: None
+Timestamp: 2024-09-06T00:12:41.032+00:00
+Author: Jack Joannides KC text admin (jjoannid)
+Author Id: 477560366432256000
+Avatar URL: assets\791c521e62160be1f3df04992f6e5470-36A38.png
+Content: Great.
+--------------------
+
+--- Message ---
+Message ID: 1281407269325508641
+Message Type: Default
+Reply to: None
+Timestamp: 2024-09-06T00:15:00.403+00:00
+Author: Shelley Grant (shell32296025)
+Author Id: 1004019631910043689
+Avatar URL: assets\4-4551A.png
+Content: I found community activity alerts
+--------------------
+
+--- Message ---
+Message ID: 1281407629641519145
+Message Type: Default
+Reply to: None
+Timestamp: 2024-09-06T00:16:26.309+00:00
+Author: Shelley Grant (shell32296025)
+Author Id: 1004019631910043689
+Avatar URL: assets\4-4551A.png
+Content: and selected the team harris-walz virtual office
+--------------------
+
+--- Message ---
+Message ID: 1281407841684422778
+Message Type: Default
+Reply to: None
+Timestamp: 2024-09-06T00:17:16.864+00:00
+Author: Jack Joannides KC text admin (jjoannid)
+Author Id: 477560366432256000
+Avatar URL: assets\791c521e62160be1f3df04992f6e5470-36A38.png
+Content: Still can't direct message you.
+--------------------
+
+--- Message ---
+Message ID: 1281410995113168989
+Message Type: Default
+Reply to: None
+Timestamp: 2024-09-06T00:29:48.7+00:00
+Author: Shelley Grant (shell32296025)
+Author Id: 1004019631910043689
+Avatar URL: assets\4-4551A.png
+Content: i just logged in on my phone, thinking it might be easier to see notifications, but i don't even see where notifications would be
+--------------------
+
+--- Message ---
+Message ID: 1281411202714570805
+Message Type: Default
+Reply to: None
+Timestamp: 2024-09-06T00:30:38.196+00:00
+Author: Shelley Grant (shell32296025)
+Author Id: 1004019631910043689
+Avatar URL: assets\4-4551A.png
+Content: actually there's a notification bell at the bottom of the page on the phone.
+--------------------
+
+--- Message ---
+Message ID: 1281411391172902975
+Message Type: Default
+Reply to: None
+Timestamp: 2024-09-06T00:31:23.128+00:00
+Author: Jack Joannides KC text admin (jjoannid)
+Author Id: 477560366432256000
+Avatar URL: assets\791c521e62160be1f3df04992f6e5470-36A38.png
+Content: Odd.
+--------------------
+
+--- Message ---
+Message ID: 1281411405215432704
+Message Type: Default
+Reply to: None
+Timestamp: 2024-09-06T00:31:26.476+00:00
+Author: Shelley Grant (shell32296025)
+Author Id: 1004019631910043689
+Avatar URL: assets\4-4551A.png
+Content: i got notifications about new h-w videos
+--------------------
+
+--- Message ---
+Message ID: 1281416384571641866
+Message Type: Default
+Reply to: None
+Timestamp: 2024-09-06T00:51:13.647+00:00
+Author: Shelley Grant (shell32296025)
+Author Id: 1004019631910043689
+Avatar URL: assets\4-4551A.png
+Content: I've got the texting channels.
+--------------------
+
+--- Message ---
+Message ID: 1281416796775387178
+Message Type: Default
+Reply to: None
+Timestamp: 2024-09-06T00:52:51.924+00:00
+Author: Jack Joannides KC text admin (jjoannid)
+Author Id: 477560366432256000
+Avatar URL: assets\791c521e62160be1f3df04992f6e5470-36A38.png
+Content: Great. I onboarded you.
+--------------------

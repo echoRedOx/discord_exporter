@@ -1,0 +1,50 @@
+Guild: Team Harris-Walz Virtual Office (ID: 1242249109298221066)
+Channel: My other question is: when do I find the (ID: 1288305767845331057)
+Channel Topic: None
+Exported At: 2024-10-28T23:02:31.0940024+00:00
+
+
+--- Message ---
+Message ID: 1288327833063784520
+Message Type: 21
+Reply to: 1288305767845331057
+Timestamp: 2024-09-25T02:34:51.376+00:00
+Author: Jack Joannides KC text admin (jjoannid)
+Author Id: 477560366432256000
+Avatar URL: assets\791c521e62160be1f3df04992f6e5470-36A38.png
+Content: 
+--------------------
+
+--- Message ---
+Message ID: 1288327834028212277
+Message Type: Default
+Reply to: None
+Timestamp: 2024-09-25T02:34:51.606+00:00
+Author: Jack Joannides KC text admin (jjoannid)
+Author Id: 477560366432256000
+Avatar URL: assets\791c521e62160be1f3df04992f6e5470-36A38.png
+Content: Sign up for a training here: https://events.democrats.org/event/672393/. I don't know what you mean regarding the f2 code. You'll have to set that up when we direct message you the info.
+--------------------
+
+--- Message ---
+Message ID: 1288619735399006208
+Message Type: Default
+Reply to: None
+Timestamp: 2024-09-25T21:54:46.316+00:00
+Author: Boe Burke NY (boeburke)
+Author Id: 1260594174743412767
+Avatar URL: assets\2-ADBB4.png
+Content: I did the text team training last night from 7 to 8 pm. 
+As I stated, I believe it’s the same  as GAVIN Newsom‘s text team. I was doing it for weeks and I’m very familiar with the process so what is the next step for me based on this information that I’m giving you?
+--------------------
+
+--- Message ---
+Message ID: 1288620616991117374
+Message Type: Default
+Reply to: None
+Timestamp: 2024-09-25T21:58:16.504+00:00
+Author: Jack Joannides KC text admin (jjoannid)
+Author Id: 477560366432256000
+Avatar URL: assets\791c521e62160be1f3df04992f6e5470-36A38.png
+Content: After you take a training. 24-72 hours after that we'll send you info over a direct message.
+--------------------

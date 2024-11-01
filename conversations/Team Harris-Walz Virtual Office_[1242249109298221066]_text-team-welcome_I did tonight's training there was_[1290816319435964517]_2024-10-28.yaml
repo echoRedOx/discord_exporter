@@ -1,0 +1,28 @@
+- author_avatar_url: assets\df6d19d97b04a49ffcafbe7be14c7839-D9CE4.png
+  author_id: '1269872908759597148'
+  author_name: roberta_24935
+  author_nickname: Roberta Bavin CA KC Greeter/Mod
+  content: ''
+  id: '1290816772814934049'
+  ref_to: '1290816319435964517'
+  timestamp: '2024-10-01T23:25:00.855+00:00'
+  type: '21'
+- author_avatar_url: assets\df6d19d97b04a49ffcafbe7be14c7839-D9CE4.png
+  author_id: '1269872908759597148'
+  author_name: roberta_24935
+  author_nickname: Roberta Bavin CA KC Greeter/Mod
+  content: Hi <@1290811207384567808> Let me send you a DM. Check there in a couple
+    of minutes! Thanks!
+  id: '1290816775285506089'
+  ref_to: null
+  timestamp: '2024-10-01T23:25:01.444+00:00'
+  type: Default
+- author_avatar_url: assets\79ee349b6511e2000af8a32fb8a6974e-3EE04.png
+  author_id: '1290811207384567808'
+  author_name: tinaroseny
+  author_nickname: Tina Rose NY
+  content: Thanks
+  id: '1290816925177479208'
+  ref_to: null
+  timestamp: '2024-10-01T23:25:37.181+00:00'
+  type: Default

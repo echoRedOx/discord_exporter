@@ -1,0 +1,49 @@
+Guild: Team Harris-Walz Virtual Office (ID: 1242249109298221066)
+Channel: Hi, how/where do I sign up for text (ID: 1285018863821389915)
+Channel Topic: None
+Exported At: 2024-10-28T23:20:55.5194338+00:00
+
+
+--- Message ---
+Message ID: 1285020142711083209
+Message Type: 21
+Reply to: 1285018863821389915
+Timestamp: 2024-09-15T23:31:16.542+00:00
+Author: Roberta Bavin CA KC Greeter/Mod (roberta_24935)
+Author Id: 1269872908759597148
+Avatar URL: assets\df6d19d97b04a49ffcafbe7be14c7839-D9CE4.png
+Content: 
+--------------------
+
+--- Message ---
+Message ID: 1285020144174891059
+Message Type: Default
+Reply to: None
+Timestamp: 2024-09-15T23:31:16.891+00:00
+Author: Roberta Bavin CA KC Greeter/Mod (roberta_24935)
+Author Id: 1269872908759597148
+Avatar URL: assets\df6d19d97b04a49ffcafbe7be14c7839-D9CE4.png
+Content: Here's the link! https://events.democrats.org/event/672393/?force_banner=true&share_context=event_details&share_medium=copy_link
+--------------------
+
+--- Message ---
+Message ID: 1285020427642474548
+Message Type: Reply
+Reply to: 1285020144174891059
+Timestamp: 2024-09-15T23:32:24.475+00:00
+Author: Mary Byrne M (putitthatway6493)
+Author Id: 960358175113117737
+Avatar URL: assets\fb467bee2539fc5d07540b3b46cae6b6-050F5.png
+Content: 
+--------------------
+
+--- Message ---
+Message ID: 1285020598292058229
+Message Type: Reply
+Reply to: 1285020144174891059
+Timestamp: 2024-09-15T23:33:05.161+00:00
+Author: Mary Byrne M (putitthatway6493)
+Author Id: 960358175113117737
+Avatar URL: assets\fb467bee2539fc5d07540b3b46cae6b6-050F5.png
+Content: figure me while I play with discord gifs lol
+--------------------

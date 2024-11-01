@@ -1,0 +1,29 @@
+- author_avatar_url: assets\e940fcd0527f7edd98cdee8d31c08cc0-9A6CA.png
+  author_id: '1256039311367999658'
+  author_name: ch.bosse
+  author_nickname: Christian Bosse
+  content: ''
+  id: '1266377040081190983'
+  ref_to: '1266252999743766569'
+  timestamp: '2024-07-26T12:50:14.503+00:00'
+  type: '21'
+- author_avatar_url: assets\e940fcd0527f7edd98cdee8d31c08cc0-9A6CA.png
+  author_id: '1256039311367999658'
+  author_name: ch.bosse
+  author_nickname: Christian Bosse
+  content: Great <@230774788283432970>  This is your guide for the work that just
+    started. In Part 2 you can learn how to have more in-depth discussions with each
+    of the groups on your map.
+  id: '1266377042480467988'
+  ref_to: null
+  timestamp: '2024-07-26T12:50:15.075+00:00'
+  type: Default
+- author_avatar_url: assets\e940fcd0527f7edd98cdee8d31c08cc0-9A6CA.png
+  author_id: '1256039311367999658'
+  author_name: ch.bosse
+  author_nickname: Christian Bosse
+  content: https://events.democrats.org/event/647793/
+  id: '1266377066052325438'
+  ref_to: null
+  timestamp: '2024-07-26T12:50:20.695+00:00'
+  type: Default

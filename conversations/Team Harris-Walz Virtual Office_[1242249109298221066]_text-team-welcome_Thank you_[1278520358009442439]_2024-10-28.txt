@@ -1,0 +1,27 @@
+Guild: Team Harris-Walz Virtual Office (ID: 1242249109298221066)
+Channel: Thank you (ID: 1278520358009442439)
+Channel Topic: None
+Exported At: 2024-10-28T23:53:38.0587879+00:00
+
+
+--- Message ---
+Message ID: 1278521091043754047
+Message Type: 21
+Reply to: 1278520358009442439
+Timestamp: 2024-08-29T01:06:21.878+00:00
+Author: Branton J. [GA] Text Mod (perry.p)
+Author Id: 946953677611077642
+Avatar URL: assets\19838db602948fa14c3fa90a94996f8c-8CE56.png
+Content: 
+--------------------
+
+--- Message ---
+Message ID: 1278521094294474852
+Message Type: Default
+Reply to: None
+Timestamp: 2024-08-29T01:06:22.653+00:00
+Author: Branton J. [GA] Text Mod (perry.p)
+Author Id: 946953677611077642
+Avatar URL: assets\19838db602948fa14c3fa90a94996f8c-8CE56.png
+Content: Thank you so much! Don’t forget to update your Discord Display Name to your First and Last name. <@1120444413055873074>
+--------------------

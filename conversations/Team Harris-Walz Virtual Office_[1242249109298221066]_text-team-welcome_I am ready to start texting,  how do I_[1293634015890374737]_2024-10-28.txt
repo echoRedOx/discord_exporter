@@ -1,0 +1,60 @@
+Guild: Team Harris-Walz Virtual Office (ID: 1242249109298221066)
+Channel: I am ready to start texting,  how do I (ID: 1293634015890374737)
+Channel Topic: None
+Exported At: 2024-10-28T22:47:07.6584542+00:00
+
+
+--- Message ---
+Message ID: 1293635617632157696
+Message Type: 21
+Reply to: 1293634015890374737
+Timestamp: 2024-10-09T18:06:05.831+00:00
+Author: Jack Joannides KC text admin (jjoannid)
+Author Id: 477560366432256000
+Avatar URL: assets\791c521e62160be1f3df04992f6e5470-36A38.png
+Content: 
+--------------------
+
+--- Message ---
+Message ID: 1293635619851075746
+Message Type: Default
+Reply to: None
+Timestamp: 2024-10-09T18:06:06.36+00:00
+Author: Jack Joannides KC text admin (jjoannid)
+Author Id: 477560366432256000
+Avatar URL: assets\791c521e62160be1f3df04992f6e5470-36A38.png
+Content: Please take a training here.
+--------------------
+
+--- Message ---
+Message ID: 1293635630647083009
+Message Type: Default
+Reply to: None
+Timestamp: 2024-10-09T18:06:08.934+00:00
+Author: Jack Joannides KC text admin (jjoannid)
+Author Id: 477560366432256000
+Avatar URL: assets\791c521e62160be1f3df04992f6e5470-36A38.png
+Content: https://events.democrats.org/event/672393/
+--------------------
+
+--- Message ---
+Message ID: 1293639380656722025
+Message Type: Default
+Reply to: None
+Timestamp: 2024-10-09T18:21:03.006+00:00
+Author: Gary Rudman CA (gtr2075)
+Author Id: 874712473687707698
+Avatar URL: assets\5-E9BDB.png
+Content: i did
+--------------------
+
+--- Message ---
+Message ID: 1293639579798339667
+Message Type: Default
+Reply to: None
+Timestamp: 2024-10-09T18:21:50.485+00:00
+Author: Jack Joannides KC text admin (jjoannid)
+Author Id: 477560366432256000
+Avatar URL: assets\791c521e62160be1f3df04992f6e5470-36A38.png
+Content: Great you'll get a direct message 24-72 hours after the training.
+--------------------

@@ -1,0 +1,56 @@
+- author_avatar_url: assets\4d279df9ca5485eeba669368c9a6adb5-F0C53.png
+  author_id: '761741170384044103'
+  author_name: pawsable
+  author_nickname: Kai Haas [MN]
+  content: "It likes to buffer then freeze once I connect. It\u2019s not my WiFi because\
+    \ that\u2019s fast and fiber. Both are Mac/iOS and updated. I\u2019ve tried in\
+    \ both safari and Firefox and the call software always craps out on the Mac. On\
+    \ a good day I might get a few calls to work on the pc but the software fail always\
+    \ kicks in eventually. \n\nI know they like us using a phone *and* laptop, but\
+    \ given my left arm is prosthetic (looks cool like a terminator, but much less\
+    \ dexterous) one device is better. My phone handles the call software just fine\
+    \ but trying to talk there and push buttons on the pc is rough."
+  id: '1285306161603809436'
+  ref_to: null
+  timestamp: '2024-09-16T18:27:48.76+00:00'
+  type: Default
+- author_avatar_url: assets\a_de0e3d4a3f9b486ad3ad6df0d72323da-D0252.gif
+  author_id: '112080668296564736'
+  author_name: kyaizen
+  author_nickname: "Jared R [CO] \u2022 Lead Mod"
+  content: Hi Kai, sorry you're dealing with these issues and thank you for still
+    pushing through to help! In your next session, please ask a tech captain and I'm
+    certain they'll be able to help out in a breakout room. Just explain the why as
+    our default is to suggest the 2 devices for simplicity sake but I hope we're able
+    to help you find a way to do it easily with just the 1 device!
+  id: '1285332560330752163'
+  ref_to: '1285306161603809436'
+  timestamp: '2024-09-16T20:12:42.707+00:00'
+  type: Reply
+- author_avatar_url: assets\a_de0e3d4a3f9b486ad3ad6df0d72323da-D0252.gif
+  author_id: '112080668296564736'
+  author_name: kyaizen
+  author_nickname: "Jared R [CO] \u2022 Lead Mod"
+  content: I'm on the Zoom session now if you'd like to hop on.
+  id: '1285332649409384448'
+  ref_to: null
+  timestamp: '2024-09-16T20:13:03.945+00:00'
+  type: Default
+- author_avatar_url: assets\4d279df9ca5485eeba669368c9a6adb5-F0C53.png
+  author_id: '761741170384044103'
+  author_name: pawsable
+  author_nickname: Kai Haas [MN]
+  content: "Will do next time I\u2019m on"
+  id: '1285341733550428301'
+  ref_to: null
+  timestamp: '2024-09-16T20:49:09.773+00:00'
+  type: Default
+- author_avatar_url: assets\a_de0e3d4a3f9b486ad3ad6df0d72323da-D0252.gif
+  author_id: '112080668296564736'
+  author_name: kyaizen
+  author_nickname: "Jared R [CO] \u2022 Lead Mod"
+  content: Perfect! <:thankyou:1252806147396735057> for being here!
+  id: '1285342013964685485'
+  ref_to: '1285341733550428301'
+  timestamp: '2024-09-16T20:50:16.629+00:00'
+  type: Reply

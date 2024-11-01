@@ -1,0 +1,27 @@
+Guild: Team Harris-Walz Virtual Office (ID: 1242249109298221066)
+Channel: I finished everything I need to be added (ID: 1277056883844321342)
+Channel Topic: None
+Exported At: 2024-10-29T00:04:52.0456569+00:00
+
+
+--- Message ---
+Message ID: 1277060495320416297
+Message Type: 21
+Reply to: 1277056883844321342
+Timestamp: 2024-08-25T00:22:28.721+00:00
+Author: Nicole Morris - Text Admin (nmorris237)
+Author Id: 935762347753103382
+Avatar URL: assets\27b1e286b65ae02b3378793b5f098411-A7B20.png
+Content: 
+--------------------
+
+--- Message ---
+Message ID: 1277060496805204071
+Message Type: Default
+Reply to: None
+Timestamp: 2024-08-25T00:22:29.075+00:00
+Author: Nicole Morris - Text Admin (nmorris237)
+Author Id: 935762347753103382
+Avatar URL: assets\27b1e286b65ae02b3378793b5f098411-A7B20.png
+Content: Hi Cynthia - I'll follow up with you now! Saw your DM from earlier.
+--------------------

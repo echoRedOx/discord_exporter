@@ -1,0 +1,38 @@
+Guild: Team Harris-Walz Virtual Office (ID: 1242249109298221066)
+Channel: Sarah Jane (ID: 1268992227838001245)
+Channel Topic: None
+Exported At: 2024-10-28T22:02:55.2502576+00:00
+
+
+--- Message ---
+Message ID: 1271879053434945567
+Message Type: 21
+Reply to: 1268992227838001245
+Timestamp: 2024-08-10T17:13:16.709+00:00
+Author: rootsmusic (rootsmusic)
+Author Id: 791857656897732648
+Avatar URL: assets\a30e650576a6d42a3c9ee24648f67c90-2AE37.png
+Content: 
+--------------------
+
+--- Message ---
+Message ID: 1271879055943274558
+Message Type: Default
+Reply to: None
+Timestamp: 2024-08-10T17:13:17.307+00:00
+Author: rootsmusic (rootsmusic)
+Author Id: 791857656897732648
+Avatar URL: assets\a30e650576a6d42a3c9ee24648f67c90-2AE37.png
+Content: <@1257469301435400238> (Pinging SJ doesn't work, because she doesn't have access to this channel.  Notifications work only for channels that a member has already joined.)  Please assign her the host role.
+--------------------
+
+--- Message ---
+Message ID: 1271904821930098861
+Message Type: Default
+Reply to: None
+Timestamp: 2024-08-10T18:55:40.397+00:00
+Author: Frances Haydock (HFP HQ!) (franceshaydock_20619)
+Author Id: 1257469301435400238
+Avatar URL: assets\8286d5b1308e7b3d80a3523e4ec50548-C029D.png
+Content: she has access to this channel because she is staff
+--------------------

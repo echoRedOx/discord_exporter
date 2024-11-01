@@ -1,0 +1,137 @@
+Guild: Team Harris-Walz Virtual Office (ID: 1242249109298221066)
+Channel: @Online Engagement Lead  @apfel4harris ( (ID: 1277629422849228810)
+Channel Topic: None
+Exported At: 2024-10-24T13:10:10.4644248+00:00
+
+
+--- Message ---
+Message ID: 1277629803947884637
+Message Type: 21
+Reply to: 1277629422849228810
+Timestamp: 2024-08-26T14:04:42.475+00:00
+Author: Marta Richenburg (martarichenburg_59797)
+Author Id: 1260983976483356767
+Avatar URL: assets\a57efb34b9ef35ed7f644aca5ab803aa-F2CBD.png
+Content: 
+--------------------
+
+--- Message ---
+Message ID: 1277629805621149759
+Message Type: Default
+Reply to: None
+Timestamp: 2024-08-26T14:04:42.874+00:00
+Author: Marta Richenburg (martarichenburg_59797)
+Author Id: 1260983976483356767
+Avatar URL: assets\a57efb34b9ef35ed7f644aca5ab803aa-F2CBD.png
+Content: Happy to help! What is the question?
+--------------------
+
+--- Message ---
+Message ID: 1277632235540840560
+Message Type: Default
+Reply to: None
+Timestamp: 2024-08-26T14:14:22.212+00:00
+Author: apfel4harris (NY/abroad) (lapfel2024_81383)
+Author Id: 1274293080794595339
+Avatar URL: assets\1303b6be213537796f03663d46f2634d-369E3.png
+Content: Hello Marta: I'm a US citizen who lives abroad, with past careers in journalism, communications/PR, and law (my profession for the last +12 years has been technical program management). I've applied to help both the main Harris/Walz HQ content brigade and a comms team run by Dems Abroad, but haven't heard back yet from either. I'm interested in drafting texts (whatever's needed) for the campaign teams to polish up and use. For online engagement, I'd be happy to draft posts or responses for others to edit as they/you see fit and use. As for posting messages myself: I only have a LinkedIn account nowadays, so my own reach is limited. I haven't joined an Online Engagement training yet because I don't have a US phone number—would set up a G-Voice number to use for registration if it makes sense for me to join a training.
+--------------------
+
+--- Message ---
+Message ID: 1277632440613212305
+Message Type: Default
+Reply to: None
+Timestamp: 2024-08-26T14:15:11.105+00:00
+Author: apfel4harris (NY/abroad) (lapfel2024_81383)
+Author Id: 1274293080794595339
+Avatar URL: assets\1303b6be213537796f03663d46f2634d-369E3.png
+Content: Sorry to be such a snowflake. Probably my best bet would be to join the Dems Abroad comms team, as Dems Abroad have insta-infrastructure for those of us living abroad. But I've not heard back and time's passing...
+--------------------
+
+--- Message ---
+Message ID: 1277632883061686386
+Message Type: Default
+Reply to: None
+Timestamp: 2024-08-26T14:16:56.593+00:00
+Author: apfel4harris (NY/abroad) (lapfel2024_81383)
+Author Id: 1274293080794595339
+Avatar URL: assets\1303b6be213537796f03663d46f2634d-369E3.png
+Content: FWIW I will help Dems Abroad with phone banking later this week (did the training but have a language exam on Fri so will wait till then to start)
+--------------------
+
+--- Message ---
+Message ID: 1277639995620065352
+Message Type: Default
+Reply to: None
+Timestamp: 2024-08-26T14:45:12.359+00:00
+Author: Marta Richenburg (martarichenburg_59797)
+Author Id: 1260983976483356767
+Avatar URL: assets\a57efb34b9ef35ed7f644aca5ab803aa-F2CBD.png
+Content: Hi! I am going to send this over to my team and see what they say!
+--------------------
+
+--- Message ---
+Message ID: 1277642991804092530
+Message Type: Default
+Reply to: None
+Timestamp: 2024-08-26T14:57:06.705+00:00
+Author: apfel4harris (NY/abroad) (lapfel2024_81383)
+Author Id: 1274293080794595339
+Avatar URL: assets\1303b6be213537796f03663d46f2634d-369E3.png
+Content: Thanks so much for the help
+--------------------
+
+--- Message ---
+Message ID: 1277681720505667604
+Message Type: Default
+Reply to: None
+Timestamp: 2024-08-26T17:31:00.347+00:00
+Author: rootsmusic (rootsmusic)
+Author Id: 791857656897732648
+Avatar URL: assets\a30e650576a6d42a3c9ee24648f67c90-2AE37.png
+Content: <@1260983976483356767> Other professional writers in the U.S. with a similar question at https://discord.com/channels/1242249109298221066/1276962283112628305/1276962283112628305
+--------------------
+
+--- Message ---
+Message ID: 1277766830873772134
+Message Type: Reply
+Reply to: 1277681720505667604
+Timestamp: 2024-08-26T23:09:12.24+00:00
+Author: apfel4harris (NY/abroad) (lapfel2024_81383)
+Author Id: 1274293080794595339
+Avatar URL: assets\1303b6be213537796f03663d46f2634d-369E3.png
+Content: Thanks -- just left a brief message there reitering my interest
+--------------------
+
+--- Message ---
+Message ID: 1277767622573817947
+Message Type: Reply
+Reply to: 1277632235540840560
+Timestamp: 2024-08-26T23:12:20.996+00:00
+Author: rootsmusic (rootsmusic)
+Author Id: 791857656897732648
+Avatar URL: assets\a30e650576a6d42a3c9ee24648f67c90-2AE37.png
+Content: Applications to the Content Brigade takes about a week to be reviewed, but that team is really for visual content.
+--------------------
+
+--- Message ---
+Message ID: 1277770977366900787
+Message Type: Reply
+Reply to: 1277767622573817947
+Timestamp: 2024-08-26T23:25:40.841+00:00
+Author: apfel4harris (NY/abroad) (lapfel2024_81383)
+Author Id: 1274293080794595339
+Avatar URL: assets\1303b6be213537796f03663d46f2634d-369E3.png
+Content: Ah, can't really help there so much
+--------------------
+
+--- Message ---
+Message ID: 1277782209306038344
+Message Type: Default
+Reply to: None
+Timestamp: 2024-08-27T00:10:18.744+00:00
+Author: Marta Richenburg (martarichenburg_59797)
+Author Id: 1260983976483356767
+Avatar URL: assets\a57efb34b9ef35ed7f644aca5ab803aa-F2CBD.png
+Content: Yes! I am still hunting down the anwser here! This is not something our team is in charge of so I am hunting down the right point of contact!
+--------------------

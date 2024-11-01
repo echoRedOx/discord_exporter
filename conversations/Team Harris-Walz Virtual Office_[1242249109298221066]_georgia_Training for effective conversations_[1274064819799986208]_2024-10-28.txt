@@ -1,0 +1,27 @@
+Guild: Team Harris-Walz Virtual Office (ID: 1242249109298221066)
+Channel: Training for effective conversations (ID: 1274064819799986208)
+Channel Topic: None
+Exported At: 2024-10-29T00:36:23.8905242+00:00
+
+
+--- Message ---
+Message ID: 1274064821192622081
+Message Type: Default
+Reply to: None
+Timestamp: 2024-08-16T17:58:44.352+00:00
+Author: rootsmusic (rootsmusic)
+Author Id: 791857656897732648
+Avatar URL: assets\a30e650576a6d42a3c9ee24648f67c90-2AE37.png
+Content: 🚆  [Learn to tell your and Kamala's stories](https://events.democrats.org/?org_ids=37376&per_page=25&q=Aboard )!  Training **virtual or in-person**.  Except Brunswick and Macon, events are on Wednesdays and Saturdays in: Atlanta, Albany, Brunswick (Glynn), Decatur (North DeKalb), Douglasville, East Point (South Fulton), Griffin (Clayton), Macon, McDonough (Henry), Morrow (Clayton), Savannah.
+--------------------
+
+--- Message ---
+Message ID: 1274065079838572659
+Message Type: Reply
+Reply to: 1274064821192622081
+Timestamp: 2024-08-16T17:59:46.018+00:00
+Author: rootsmusic (rootsmusic)
+Author Id: 791857656897732648
+Avatar URL: assets\a30e650576a6d42a3c9ee24648f67c90-2AE37.png
+Content: [Columbus training](https://events.democrats.org/event/673558/) is Tuesday.
+--------------------

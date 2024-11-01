@@ -1,0 +1,27 @@
+Guild: Team Harris-Walz Virtual Office (ID: 1242249109298221066)
+Channel: Hey all - I think I have been removed (ID: 1282836025131143190)
+Channel Topic: None
+Exported At: 2024-10-28T23:31:05.7264128+00:00
+
+
+--- Message ---
+Message ID: 1282850375296090223
+Message Type: 21
+Reply to: 1282836025131143190
+Timestamp: 2024-09-09T23:49:23.678+00:00
+Author: Nicole Morris - Text Admin (nmorris237)
+Author Id: 935762347753103382
+Avatar URL: assets\27b1e286b65ae02b3378793b5f098411-A7B20.png
+Content: 
+--------------------
+
+--- Message ---
+Message ID: 1282850377808744572
+Message Type: Default
+Reply to: None
+Timestamp: 2024-09-09T23:49:24.277+00:00
+Author: Nicole Morris - Text Admin (nmorris237)
+Author Id: 935762347753103382
+Avatar URL: assets\27b1e286b65ae02b3378793b5f098411-A7B20.png
+Content: Hi <@1268363052508516433> I will send you a follow up Direct Message now! Let me know if you don't see it.
+--------------------

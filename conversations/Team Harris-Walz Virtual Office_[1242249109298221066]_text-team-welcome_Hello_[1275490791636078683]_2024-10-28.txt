@@ -1,0 +1,60 @@
+Guild: Team Harris-Walz Virtual Office (ID: 1242249109298221066)
+Channel: Hello (ID: 1275490791636078683)
+Channel Topic: None
+Exported At: 2024-10-29T00:12:02.7406464+00:00
+
+
+--- Message ---
+Message ID: 1275510685207363757
+Message Type: 21
+Reply to: 1275490791636078683
+Timestamp: 2024-08-20T17:44:05.196+00:00
+Author: Tim B [CA] KC Text Admin (otter20079058)
+Author Id: 968557716832391219
+Avatar URL: assets\ff322353539338ae0919d2cd05ec6b4f-297C8.png
+Content: 
+--------------------
+
+--- Message ---
+Message ID: 1275510687271092234
+Message Type: Default
+Reply to: None
+Timestamp: 2024-08-20T17:44:05.688+00:00
+Author: Tim B [CA] KC Text Admin (otter20079058)
+Author Id: 968557716832391219
+Avatar URL: assets\ff322353539338ae0919d2cd05ec6b4f-297C8.png
+Content: <@821527814074269697>  Please drop the previous questions in Team Team Questions channel. Thank you. <:thankyou:1252806147396735057> <:blueheart:1252803082849488956>
+--------------------
+
+--- Message ---
+Message ID: 1275510863167488071
+Message Type: Default
+Reply to: None
+Timestamp: 2024-08-20T17:44:47.625+00:00
+Author: Diana Bruce [IL] (dianaluna)
+Author Id: 821527814074269697
+Avatar URL: assets\ed72372319b9903d947c0e8c6cb1cf18-C651F.png
+Content: Ok! I will do that :)
+--------------------
+
+--- Message ---
+Message ID: 1275512189221867643
+Message Type: Default
+Reply to: None
+Timestamp: 2024-08-20T17:50:03.781+00:00
+Author: Tim B [CA] KC Text Admin (otter20079058)
+Author Id: 968557716832391219
+Avatar URL: assets\ff322353539338ae0919d2cd05ec6b4f-297C8.png
+Content: <@821527814074269697>  thank you!
+--------------------
+
+--- Message ---
+Message ID: 1275512214580625428
+Message Type: Default
+Reply to: None
+Timestamp: 2024-08-20T17:50:09.827+00:00
+Author: Diana Bruce [IL] (dianaluna)
+Author Id: 821527814074269697
+Avatar URL: assets\ed72372319b9903d947c0e8c6cb1cf18-C651F.png
+Content: Yw!
+--------------------

@@ -1,0 +1,38 @@
+Guild: Team Harris-Walz Virtual Office (ID: 1242249109298221066)
+Channel: Nina Rosete - it has been more than 72 (ID: 1286188363040297040)
+Channel Topic: None
+Exported At: 2024-10-28T23:14:42.7414849+00:00
+
+
+--- Message ---
+Message ID: 1286188980047708190
+Message Type: 21
+Reply to: 1286188363040297040
+Timestamp: 2024-09-19T04:55:49.079+00:00
+Author: Nicole Morris - Text Admin (nmorris237)
+Author Id: 935762347753103382
+Avatar URL: assets\27b1e286b65ae02b3378793b5f098411-A7B20.png
+Content: 
+--------------------
+
+--- Message ---
+Message ID: 1286188982220361768
+Message Type: Default
+Reply to: None
+Timestamp: 2024-09-19T04:55:49.597+00:00
+Author: Nicole Morris - Text Admin (nmorris237)
+Author Id: 935762347753103382
+Avatar URL: assets\27b1e286b65ae02b3378793b5f098411-A7B20.png
+Content: Hi <@1284312462824574992> Thank you! It looks like Roberta sent you a Direct Message (DM) in Discord a few days ago. Please let us know if you don't see it! If you're on a computer, this is where you would check on your Discord:
+--------------------
+
+--- Message ---
+Message ID: 1286189046908981249
+Message Type: Default
+Reply to: None
+Timestamp: 2024-09-19T04:56:05.02+00:00
+Author: Nicole Morris - Text Admin (nmorris237)
+Author Id: 935762347753103382
+Avatar URL: assets\27b1e286b65ae02b3378793b5f098411-A7B20.png
+Content: 
+--------------------

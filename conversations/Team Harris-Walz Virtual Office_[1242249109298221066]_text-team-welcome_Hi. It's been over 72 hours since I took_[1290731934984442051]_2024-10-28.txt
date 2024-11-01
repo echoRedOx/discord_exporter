@@ -1,0 +1,27 @@
+Guild: Team Harris-Walz Virtual Office (ID: 1242249109298221066)
+Channel: Hi. It's been over 72 hours since I took (ID: 1290731934984442051)
+Channel Topic: None
+Exported At: 2024-10-28T22:56:17.0246027+00:00
+
+
+--- Message ---
+Message ID: 1290740704749813802
+Message Type: 21
+Reply to: 1290731934984442051
+Timestamp: 2024-10-01T18:22:44.815+00:00
+Author: Jack Joannides KC text admin (jjoannid)
+Author Id: 477560366432256000
+Avatar URL: assets\791c521e62160be1f3df04992f6e5470-36A38.png
+Content: 
+--------------------
+
+--- Message ---
+Message ID: 1290740705953579119
+Message Type: Default
+Reply to: None
+Timestamp: 2024-10-01T18:22:45.102+00:00
+Author: Jack Joannides KC text admin (jjoannid)
+Author Id: 477560366432256000
+Avatar URL: assets\791c521e62160be1f3df04992f6e5470-36A38.png
+Content: Let me direct message you.
+--------------------

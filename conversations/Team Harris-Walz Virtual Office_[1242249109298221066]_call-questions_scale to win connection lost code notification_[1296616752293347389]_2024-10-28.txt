@@ -1,0 +1,49 @@
+Guild: Team Harris-Walz Virtual Office (ID: 1242249109298221066)
+Channel: scale to win connection lost code notification (ID: 1296616752293347389)
+Channel Topic: None
+Exported At: 2024-10-28T20:50:04.7725901+00:00
+
+
+--- Message ---
+Message ID: 1296616752293347389
+Message Type: Default
+Reply to: None
+Timestamp: 2024-10-17T23:32:03.721+00:00
+Author: David Sloane (MA) (salmontorch)
+Author Id: 808840421904089141
+Avatar URL: assets\cf8b61eb826c98b9c7dd7f1da04254a4-03D52.png
+Content: Hello! One of our callers is getting a "connection lost code notification" from a couple of web browsers in Windows, using the Scale To Win dialer. Any suggestions?
+--------------------
+
+--- Message ---
+Message ID: 1296617563215626331
+Message Type: Default
+Reply to: None
+Timestamp: 2024-10-17T23:35:17.06+00:00
+Author: David Sloane (MA) (salmontorch)
+Author Id: 808840421904089141
+Avatar URL: assets\cf8b61eb826c98b9c7dd7f1da04254a4-03D52.png
+Content: It seems like the third browser, MS Edge, worked, so I'm good!
+--------------------
+
+--- Message ---
+Message ID: 1296621016335913012
+Message Type: Default
+Reply to: None
+Timestamp: 2024-10-17T23:49:00.348+00:00
+Author: Denise Ward [CO] [Call MOD] (denise.ward)
+Author Id: 1277408157664284795
+Avatar URL: assets\43ec2b9e8ddf26e3072b9feb4516a5fd-3D55A.png
+Content: Sorry I didn't reply sooner David!  Sometimes with Scale to Win a brower switch resolves most issues.  We like to recommend Firefox if Chrome is buggy.
+--------------------
+
+--- Message ---
+Message ID: 1296621211618639932
+Message Type: Default
+Reply to: None
+Timestamp: 2024-10-17T23:49:46.907+00:00
+Author: David Sloane (MA) (salmontorch)
+Author Id: 808840421904089141
+Avatar URL: assets\cf8b61eb826c98b9c7dd7f1da04254a4-03D52.png
+Content: No worries! We went from Chrome, to Firefox, to Edge, and somehow Edge worked.
+--------------------

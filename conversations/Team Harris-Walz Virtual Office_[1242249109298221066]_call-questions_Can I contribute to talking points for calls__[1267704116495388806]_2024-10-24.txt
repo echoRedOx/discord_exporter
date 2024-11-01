@@ -1,0 +1,133 @@
+Guild: Team Harris-Walz Virtual Office (ID: 1242249109298221066)
+Channel: Can I contribute to talking points for calls? (ID: 1267704116495388806)
+Channel Topic: None
+Exported At: 2024-10-24T12:57:37.9923567+00:00
+
+
+--- Message ---
+Message ID: 1267704116495388806
+Message Type: Default
+Reply to: None
+Timestamp: 2024-07-30T04:43:34.176+00:00
+Author: Jeremy (jr.0)
+Author Id: 199943082441965577
+Avatar URL: assets\67e4bfa7cfc1b3986207bf75af2e8eb2-2CB87.png
+Content: Hi, I posted in <#1242249109298221069> the other day that I felt ill-equipped on talking points on a number of issues when phone banking. It would be helpful to have a compilation of issues to take about and evidence to bring up. For example project 2025 came up with a PA Trump voter I spoke to on Sunday and I brought up that while Trump has tried to distance himself from the plan former Trump staffers contributed to the plan and JD Vance wrote the foreword for it but I forgot that Trump has praised the Heritage foundation in the past. And I was unclear myself on many details of the plan. 
+I would find a list of issues and key points super helpful and I’d love to contribute if there’s anything interest in that.
+--------------------
+
+--- Message ---
+Message ID: 1267867418102071307
+Message Type: Reply
+Reply to: 1267704116495388806
+Timestamp: 2024-07-30T15:32:28.313+00:00
+Author: Ophelia W • Lead Mod (opheliawild)
+Author Id: 957714233217409174
+Avatar URL: assets\8b706a86e5f9b8dcaaa950a7500b77b8-E1341.png
+Content: I believe they are working on getting us further talking points like this but there are some in the call dialer. I think there are also some good overviews of P25 talking points online and there are some graphics in <#1250876565366243348> that may be helpful to review as well. 
+
+P25 was quite literally designed by mostly Trump cabinet and staff people. Stephen Miller is also a huge part of it and he's like Gargamel from the Smurfs. Very anti-human and immigration/asylum. And very extreme. The history of The Heritage Foundation and so many scholarly "conservative think thanks" goes back even further than Trump. 
+
+There's been this movement since Scopes Monkey Trial and creationism being relabeled as "intelligent design" and they all have a "dear leader" in Trump. They are behind the huge push to eradicate true history and science from the education department.
+--------------------
+
+--- Message ---
+Message ID: 1267944198179520594
+Message Type: Default
+Reply to: None
+Timestamp: 2024-07-30T20:37:34.11+00:00
+Author: Frances Haydock (HFP HQ!) (franceshaydock_20619)
+Author Id: 1257469301435400238
+Avatar URL: assets\8286d5b1308e7b3d80a3523e4ec50548-C029D.png
+Content: Hi Jeremy and Ophelia! Yes, Ophelia is correct that we are in process of getting talking points for you when making calls, and that we do have some already in the dialer sidebar. We will be sure to let you all know when we have more talking points on various issues available for you to use when on calls!
+--------------------
+
+--- Message ---
+Message ID: 1267988588432326747
+Message Type: Default
+Reply to: None
+Timestamp: 2024-07-30T23:33:57.571+00:00
+Author: Jeremy (jr.0)
+Author Id: 199943082441965577
+Avatar URL: assets\67e4bfa7cfc1b3986207bf75af2e8eb2-2CB87.png
+Content: Thanks so much both 🙂
+--------------------
+
+--- Message ---
+Message ID: 1275033216151064681
+Message Type: Default
+Reply to: None
+Timestamp: 2024-08-19T10:06:47.702+00:00
+Author: apfel4harris (NY/abroad) (lapfel2024_81383)
+Author Id: 1274293080794595339
+Avatar URL: assets\1303b6be213537796f03663d46f2634d-369E3.png
+Content: Hi <@1257469301435400238>, LMK if you need volunteer help researching and drafting talking points. Sitting over here in Germany itching to help (I was a journalist and copywriter in a past life, and have a law degree so can distill the policy stuff into succinct language + create outlines highlighting key info).
+--------------------
+
+--- Message ---
+Message ID: 1275158390514909345
+Message Type: Reply
+Reply to: 1267988588432326747
+Timestamp: 2024-08-19T18:24:11.596+00:00
+Author: Noelle (IN) (didntfalloutofacoconuttree)
+Author Id: 1274515952884781247
+Avatar URL: assets\b1a6c0186c7eb1843c0b1b7af28eadb4-43D51.png
+Content: Hey Jeremy, one of the lovely people in here made this website to make it easier to navigate P2025. If you click on an issue, it will show you what the plan says about the issue and what page it is on. For example, I clicked drug prices, and on page 465, it says that the plan is to repeal the Inflation Reduction Act’s drug price negotiation program in Medicare along with reduce the government share in the catastrophic tier of Medicare Part D and require manufacturers to bear a larger share. It will also directly link you to the page it is on so you can read the page and come to your own conclusions.
+
+See how Donald Trump's Project 2025 will affect you: https://www.25and.me/
+--------------------
+
+--- Message ---
+Message ID: 1275188087256907849
+Message Type: Reply
+Reply to: 1275158390514909345
+Timestamp: 2024-08-19T20:22:11.851+00:00
+Author: Jeremy (jr.0)
+Author Id: 199943082441965577
+Avatar URL: assets\67e4bfa7cfc1b3986207bf75af2e8eb2-2CB87.png
+Content: oh awesome!
+--------------------
+
+--- Message ---
+Message ID: 1275188104243712043
+Message Type: Default
+Reply to: None
+Timestamp: 2024-08-19T20:22:15.901+00:00
+Author: Jeremy (jr.0)
+Author Id: 199943082441965577
+Avatar URL: assets\67e4bfa7cfc1b3986207bf75af2e8eb2-2CB87.png
+Content: Thanks for the ping!
+--------------------
+
+--- Message ---
+Message ID: 1275245423791050782
+Message Type: Reply
+Reply to: 1275158390514909345
+Timestamp: 2024-08-20T00:10:01.946+00:00
+Author: John Cunningham (johncunningham2024)
+Author Id: 1274515035539898402
+Avatar URL: assets\c82b3fa769ed6e6ffdea579381ed5f5c-DA827.png
+Content: This is great.  I had always been looking for a cross reference index of all of the P25 issues, and where specifically to find the mention to these issues in the 900+ page document. Bookmarked now.
+--------------------
+
+--- Message ---
+Message ID: 1275258712000561250
+Message Type: Reply
+Reply to: 1275245423791050782
+Timestamp: 2024-08-20T01:02:50.102+00:00
+Author: Noelle (IN) (didntfalloutofacoconuttree)
+Author Id: 1274515952884781247
+Avatar URL: assets\b1a6c0186c7eb1843c0b1b7af28eadb4-43D51.png
+Content: It's a really great website! I wish I could remember the username of the person in here who created it, but I lost the message pretty quickly after opening it.
+--------------------
+
+--- Message ---
+Message ID: 1275258751741591617
+Message Type: Reply
+Reply to: 1275188104243712043
+Timestamp: 2024-08-20T01:02:59.577+00:00
+Author: Noelle (IN) (didntfalloutofacoconuttree)
+Author Id: 1274515952884781247
+Avatar URL: assets\b1a6c0186c7eb1843c0b1b7af28eadb4-43D51.png
+Content: Absolutely no problem!
+--------------------

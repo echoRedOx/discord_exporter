@@ -1,0 +1,49 @@
+Guild: Team Harris-Walz Virtual Office (ID: 1242249109298221066)
+Channel: how do you mark already voted? (ID: 1297667011253637202)
+Channel Topic: None
+Exported At: 2024-10-28T20:48:04.5298879+00:00
+
+
+--- Message ---
+Message ID: 1297667011253637202
+Message Type: Default
+Reply to: None
+Timestamp: 2024-10-20T21:05:24.97+00:00
+Author: joel (joel_06481)
+Author Id: 1297665338384580702
+Avatar URL: assets\5-E9BDB.png
+Content: how do you mark already voted?
+--------------------
+
+--- Message ---
+Message ID: 1297667512154067014
+Message Type: Reply
+Reply to: 1297667011253637202
+Timestamp: 2024-10-20T21:07:24.394+00:00
+Author: Larry Ahlgrim (VA) [Call Mod] (larrya._98544)
+Author Id: 1266903666879627274
+Avatar URL: assets\5fde485e55d806d8356ca6e7e08f1f48-77A19.png
+Content: Hi, Joel.  You can mark them as early voting or voted by mail sent in.
+--------------------
+
+--- Message ---
+Message ID: 1297667764965867560
+Message Type: Default
+Reply to: None
+Timestamp: 2024-10-20T21:08:24.669+00:00
+Author: joel (joel_06481)
+Author Id: 1297665338384580702
+Avatar URL: assets\5-E9BDB.png
+Content: so you still ask them about who they are voting for?
+--------------------
+
+--- Message ---
+Message ID: 1297667890325094441
+Message Type: Default
+Reply to: None
+Timestamp: 2024-10-20T21:08:54.557+00:00
+Author: Larry Ahlgrim (VA) [Call Mod] (larrya._98544)
+Author Id: 1266903666879627274
+Avatar URL: assets\5fde485e55d806d8356ca6e7e08f1f48-77A19.png
+Content: Yes, we would like to know if they will tell us
+--------------------

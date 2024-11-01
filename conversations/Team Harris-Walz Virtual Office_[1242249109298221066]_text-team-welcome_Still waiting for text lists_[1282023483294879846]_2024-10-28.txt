@@ -1,0 +1,148 @@
+Guild: Team Harris-Walz Virtual Office (ID: 1242249109298221066)
+Channel: Still waiting for text lists (ID: 1282023483294879846)
+Channel Topic: None
+Exported At: 2024-10-28T23:32:07.3536911+00:00
+
+
+--- Message ---
+Message ID: 1282038741229240482
+Message Type: 21
+Reply to: 1282023483294879846
+Timestamp: 2024-09-07T18:04:15.037+00:00
+Author: Jack Joannides KC text admin (jjoannid)
+Author Id: 477560366432256000
+Avatar URL: assets\791c521e62160be1f3df04992f6e5470-36A38.png
+Content: 
+--------------------
+
+--- Message ---
+Message ID: 1282038742542057502
+Message Type: Default
+Reply to: None
+Timestamp: 2024-09-07T18:04:15.35+00:00
+Author: Jack Joannides KC text admin (jjoannid)
+Author Id: 477560366432256000
+Avatar URL: assets\791c521e62160be1f3df04992f6e5470-36A38.png
+Content: Checking on this.
+--------------------
+
+--- Message ---
+Message ID: 1282038985878798376
+Message Type: Default
+Reply to: None
+Timestamp: 2024-09-07T18:05:13.366+00:00
+Author: Kim  Darlene (kimd_86496)
+Author Id: 1280674605689737238
+Avatar URL: assets\0-EB806.png
+Content: Thank you<:thankyou:1252806147396735057>
+--------------------
+
+--- Message ---
+Message ID: 1282100731775553687
+Message Type: Default
+Reply to: None
+Timestamp: 2024-09-07T22:10:34.735+00:00
+Author: Marla Daugherty Ohio (mrd088062)
+Author Id: 1277786085845631108
+Avatar URL: assets\6c5996770c985bcd6e5b68131ff2ba04-174F3.png
+Content: Marla Daugherty - more than 72 hours
+--------------------
+
+--- Message ---
+Message ID: 1282102014347837501
+Message Type: Default
+Reply to: None
+Timestamp: 2024-09-07T22:15:40.524+00:00
+Author: Jack Joannides KC text admin (jjoannid)
+Author Id: 477560366432256000
+Avatar URL: assets\791c521e62160be1f3df04992f6e5470-36A38.png
+Content: Please stop posting mutiple times. We direct messaged you.
+--------------------
+
+--- Message ---
+Message ID: 1282102094467174401
+Message Type: Default
+Reply to: None
+Timestamp: 2024-09-07T22:15:59.626+00:00
+Author: Jack Joannides KC text admin (jjoannid)
+Author Id: 477560366432256000
+Avatar URL: assets\791c521e62160be1f3df04992f6e5470-36A38.png
+Content: Or we'll get back to you later.
+--------------------
+
+--- Message ---
+Message ID: 1282440208238903336
+Message Type: Default
+Reply to: None
+Timestamp: 2024-09-08T20:39:32.231+00:00
+Author: Marla Daugherty Ohio (mrd088062)
+Author Id: 1277786085845631108
+Avatar URL: assets\6c5996770c985bcd6e5b68131ff2ba04-174F3.png
+Content: I got nothing from you
+--------------------
+
+--- Message ---
+Message ID: 1282441361609719881
+Message Type: Default
+Reply to: None
+Timestamp: 2024-09-08T20:44:07.216+00:00
+Author: Jack Joannides KC text admin (jjoannid)
+Author Id: 477560366432256000
+Avatar URL: assets\791c521e62160be1f3df04992f6e5470-36A38.png
+Content: I wasn't the one who originally direct messaged you.
+--------------------
+
+--- Message ---
+Message ID: 1282441862673731714
+Message Type: Default
+Reply to: None
+Timestamp: 2024-09-08T20:46:06.679+00:00
+Author: Marla Daugherty Ohio (mrd088062)
+Author Id: 1277786085845631108
+Avatar URL: assets\6c5996770c985bcd6e5b68131ff2ba04-174F3.png
+Content: Ok think I found.
+--------------------
+
+--- Message ---
+Message ID: 1282441930344501310
+Message Type: Default
+Reply to: None
+Timestamp: 2024-09-08T20:46:22.813+00:00
+Author: Jack Joannides KC text admin (jjoannid)
+Author Id: 477560366432256000
+Avatar URL: assets\791c521e62160be1f3df04992f6e5470-36A38.png
+Content: If you're already signed up to scale to win. Did you tell us?
+--------------------
+
+--- Message ---
+Message ID: 1282442050767290433
+Message Type: Default
+Reply to: None
+Timestamp: 2024-09-08T20:46:51.524+00:00
+Author: Marla Daugherty Ohio (mrd088062)
+Author Id: 1277786085845631108
+Avatar URL: assets\6c5996770c985bcd6e5b68131ff2ba04-174F3.png
+Content: No but I signed up now
+--------------------
+
+--- Message ---
+Message ID: 1282442114638286939
+Message Type: Default
+Reply to: None
+Timestamp: 2024-09-08T20:47:06.752+00:00
+Author: Jack Joannides KC text admin (jjoannid)
+Author Id: 477560366432256000
+Avatar URL: assets\791c521e62160be1f3df04992f6e5470-36A38.png
+Content: Great. I'll add you.
+--------------------
+
+--- Message ---
+Message ID: 1282442141402140703
+Message Type: Default
+Reply to: None
+Timestamp: 2024-09-08T20:47:13.133+00:00
+Author: Marla Daugherty Ohio (mrd088062)
+Author Id: 1277786085845631108
+Avatar URL: assets\6c5996770c985bcd6e5b68131ff2ba04-174F3.png
+Content: Thank you
+--------------------

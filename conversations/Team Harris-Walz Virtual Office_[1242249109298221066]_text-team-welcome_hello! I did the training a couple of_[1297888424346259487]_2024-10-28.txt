@@ -1,0 +1,27 @@
+Guild: Team Harris-Walz Virtual Office (ID: 1242249109298221066)
+Channel: hello! I did the training a couple of (ID: 1297888424346259487)
+Channel Topic: None
+Exported At: 2024-10-28T22:28:36.1922573+00:00
+
+
+--- Message ---
+Message ID: 1297925287614349362
+Message Type: 21
+Reply to: 1297888424346259487
+Timestamp: 2024-10-21T14:11:42.853+00:00
+Author: Roberta Bavin CA KC Greeter/Mod (roberta_24935)
+Author Id: 1269872908759597148
+Avatar URL: assets\df6d19d97b04a49ffcafbe7be14c7839-D9CE4.png
+Content: 
+--------------------
+
+--- Message ---
+Message ID: 1297925290709749892
+Message Type: Default
+Reply to: None
+Timestamp: 2024-10-21T14:11:43.591+00:00
+Author: Roberta Bavin CA KC Greeter/Mod (roberta_24935)
+Author Id: 1269872908759597148
+Avatar URL: assets\df6d19d97b04a49ffcafbe7be14c7839-D9CE4.png
+Content: Hi there <@747973019653373962> Thanks for reaching out. We're still waiting on the Zoom report from staff before we can onboard. Thanks so much for your patience.
+--------------------

@@ -1,0 +1,28 @@
+- author_avatar_url: assets\27b1e286b65ae02b3378793b5f098411-A7B20.png
+  author_id: '935762347753103382'
+  author_name: nmorris237
+  author_nickname: Nicole Morris - Text Admin
+  content: ''
+  id: '1278567083612966964'
+  ref_to: '1278539279580135436'
+  timestamp: '2024-08-29T04:09:07.361+00:00'
+  type: '21'
+- author_avatar_url: assets\27b1e286b65ae02b3378793b5f098411-A7B20.png
+  author_id: '935762347753103382'
+  author_name: nmorris237
+  author_nickname: Nicole Morris - Text Admin
+  content: Hi <@339580409375490058> Oh no, hope all is okay! Yes - please sign up
+    here https://events.democrats.org/event/672393/
+  id: '1278567086385397823'
+  ref_to: null
+  timestamp: '2024-08-29T04:09:08.022+00:00'
+  type: Default
+- author_avatar_url: assets\1d73867b678949c1d97a552bf6144930-29171.png
+  author_id: '339580409375490058'
+  author_name: reikirunner
+  author_nickname: Nancy Suhaka (NJ)
+  content: "Thank you! I\u2019m now signed up for today."
+  id: '1278672825808457759'
+  ref_to: null
+  timestamp: '2024-08-29T11:09:18.265+00:00'
+  type: Default

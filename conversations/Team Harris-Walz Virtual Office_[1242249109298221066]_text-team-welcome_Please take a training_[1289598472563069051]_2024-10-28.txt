@@ -1,0 +1,71 @@
+Guild: Team Harris-Walz Virtual Office (ID: 1242249109298221066)
+Channel: Please take a training. (ID: 1289598472563069051)
+Channel Topic: None
+Exported At: 2024-10-28T23:00:18.6592031+00:00
+
+
+--- Message ---
+Message ID: 1289615015544098917
+Message Type: 21
+Reply to: 1289598472563069051
+Timestamp: 2024-09-28T15:49:39.594+00:00
+Author: Jack Joannides KC text admin (jjoannid)
+Author Id: 477560366432256000
+Avatar URL: assets\791c521e62160be1f3df04992f6e5470-36A38.png
+Content: 
+--------------------
+
+--- Message ---
+Message ID: 1289615017246982184
+Message Type: Default
+Reply to: None
+Timestamp: 2024-09-28T15:49:40+00:00
+Author: Jack Joannides KC text admin (jjoannid)
+Author Id: 477560366432256000
+Avatar URL: assets\791c521e62160be1f3df04992f6e5470-36A38.png
+Content: You need to take a training in order to text. We have one today at 6 pm est. We’re not the same org as the campaign you mentioned.
+--------------------
+
+--- Message ---
+Message ID: 1289621132277977141
+Message Type: Default
+Reply to: None
+Timestamp: 2024-09-28T16:13:57.937+00:00
+Author: Jack Joannides KC text admin (jjoannid)
+Author Id: 477560366432256000
+Avatar URL: assets\791c521e62160be1f3df04992f6e5470-36A38.png
+Content: Well add you when you can sorry about that’s
+--------------------
+
+--- Message ---
+Message ID: 1289631932497399829
+Message Type: Default
+Reply to: None
+Timestamp: 2024-09-28T16:56:52.91+00:00
+Author: Nicole Morris - Text Admin (nmorris237)
+Author Id: 935762347753103382
+Avatar URL: assets\27b1e286b65ae02b3378793b5f098411-A7B20.png
+Content: Hi <@1260594174743412767> Have you taken our training yet (different from Newsom) -- https://events.democrats.org/event/672393/
+--------------------
+
+--- Message ---
+Message ID: 1289635968130875464
+Message Type: Default
+Reply to: None
+Timestamp: 2024-09-28T17:12:55.08+00:00
+Author: Boe Burke NY (boeburke)
+Author Id: 1260594174743412767
+Avatar URL: assets\2-ADBB4.png
+Content: Oh my goodness. is anyone reading my messages? See my messages and Jack’s responses above ☝️
+--------------------
+
+--- Message ---
+Message ID: 1289636996209315914
+Message Type: Default
+Reply to: None
+Timestamp: 2024-09-28T17:17:00.193+00:00
+Author: Nicole Morris - Text Admin (nmorris237)
+Author Id: 935762347753103382
+Avatar URL: assets\27b1e286b65ae02b3378793b5f098411-A7B20.png
+Content: Hi <@1260594174743412767> Thanks - I'll send you a Direct Message now
+--------------------

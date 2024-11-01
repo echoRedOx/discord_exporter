@@ -1,0 +1,139 @@
+Guild: Team Harris-Walz Virtual Office (ID: 1242249109298221066)
+Channel: I want to phone bank right now (Pennsylvanian) and I haven't received Zoom link, help? (ID: 1284605677494599730)
+Channel Topic: None
+Exported At: 2024-10-24T06:35:59.4158366+00:00
+
+
+--- Message ---
+Message ID: 1284605677494599730
+Message Type: Default
+Reply to: None
+Timestamp: 2024-09-14T20:04:20.334+00:00
+Author: jasmine (scubagear29)
+Author Id: 1185625617639669851
+Avatar URL: assets\85321e10cbafaab9d944b9d1cfce8ef3-34B31.png
+Content: Hi, I signed up for a Pennsylvania Phone Bank shift 4-6pm today and I haven't gotten the zoom link. Anyone here have the relevant zoom for phone banking?
+--------------------
+
+--- Message ---
+Message ID: 1284606459434373180
+Message Type: Default
+Reply to: None
+Timestamp: 2024-09-14T20:07:26.763+00:00
+Author: Carolyn B [CA] • Lead Mod (carb.on)
+Author Id: 568257600228032512
+Avatar URL: assets\28a90c77b5793d80eb62484a43c66748-D8837.png
+Content: Did you sign up on https://events.democrats.org ? you can sign up again, and the link will be texted to you again. If the phone bank is with our team here you can ask here https://discord.com/channels/1242249109298221066/1263154877928833137
+--------------------
+
+--- Message ---
+Message ID: 1284606654754721919
+Message Type: Default
+Reply to: None
+Timestamp: 2024-09-14T20:08:13.331+00:00
+Author: jasmine (scubagear29)
+Author Id: 1185625617639669851
+Avatar URL: assets\85321e10cbafaab9d944b9d1cfce8ef3-34B31.png
+Content: I did through the PA Democrats website. thanks!
+--------------------
+
+--- Message ---
+Message ID: 1284606915057422378
+Message Type: Default
+Reply to: None
+Timestamp: 2024-09-14T20:09:15.392+00:00
+Author: jasmine (scubagear29)
+Author Id: 1185625617639669851
+Avatar URL: assets\85321e10cbafaab9d944b9d1cfce8ef3-34B31.png
+Content: I signed up for another but I'm not getting any zoom links 😭 idk if it's cuz it's too short notice.
+
+if there's a current phone bank the discord is facilitating, happy to hop on
+--------------------
+
+--- Message ---
+Message ID: 1284607060364886110
+Message Type: Default
+Reply to: None
+Timestamp: 2024-09-14T20:09:50.036+00:00
+Author: jasmine (scubagear29)
+Author Id: 1185625617639669851
+Avatar URL: assets\85321e10cbafaab9d944b9d1cfce8ef3-34B31.png
+Content: <@568257600228032512> yeah I'm looking at my phone and my email and no link
+--------------------
+
+--- Message ---
+Message ID: 1284607253139292241
+Message Type: Default
+Reply to: None
+Timestamp: 2024-09-14T20:10:35.997+00:00
+Author: Carolyn B [CA] • Lead Mod (carb.on)
+Author Id: 568257600228032512
+Avatar URL: assets\28a90c77b5793d80eb62484a43c66748-D8837.png
+Content: hmm, does your phone block texts from unknown numbers?
+--------------------
+
+--- Message ---
+Message ID: 1284607385259737295
+Message Type: Reply
+Reply to: 1284607253139292241
+Timestamp: 2024-09-14T20:11:07.497+00:00
+Author: jasmine (scubagear29)
+Author Id: 1185625617639669851
+Avatar URL: assets\85321e10cbafaab9d944b9d1cfce8ef3-34B31.png
+Content: definitely not texts I've gotten every kinda political polling question under the sun this week lmao. PA problems 🙂
+--------------------
+
+--- Message ---
+Message ID: 1284607514981306381
+Message Type: Default
+Reply to: None
+Timestamp: 2024-09-14T20:11:38.425+00:00
+Author: jasmine (scubagear29)
+Author Id: 1185625617639669851
+Avatar URL: assets\85321e10cbafaab9d944b9d1cfce8ef3-34B31.png
+Content: are there any zoom links that PA residents can join right now shared under Calls Team? I can hop on one now
+--------------------
+
+--- Message ---
+Message ID: 1284607865322999818
+Message Type: Default
+Reply to: None
+Timestamp: 2024-09-14T20:13:01.953+00:00
+Author: Carolyn B [CA] • Lead Mod (carb.on)
+Author Id: 568257600228032512
+Avatar URL: assets\28a90c77b5793d80eb62484a43c66748-D8837.png
+Content: I dont' see a PA specific phone bank today, the PA events are mostly in-person https://events.democrats.org/?country=US&state=PA
+--------------------
+
+--- Message ---
+Message ID: 1284607991386996790
+Message Type: Default
+Reply to: None
+Timestamp: 2024-09-14T20:13:32.009+00:00
+Author: Carolyn B [CA] • Lead Mod (carb.on)
+Author Id: 568257600228032512
+Avatar URL: assets\28a90c77b5793d80eb62484a43c66748-D8837.png
+Content: But do ask here https://discord.com/channels/1242249109298221066/1263154877928833137 they will have info about specific phone banks today
+--------------------
+
+--- Message ---
+Message ID: 1284608679651311738
+Message Type: Default
+Reply to: None
+Timestamp: 2024-09-14T20:16:16.104+00:00
+Author: Carolyn B [CA] • Lead Mod (carb.on)
+Author Id: 568257600228032512
+Avatar URL: assets\28a90c77b5793d80eb62484a43c66748-D8837.png
+Content: actually I think this is a better place to ask https://discord.com/channels/1242249109298221066/1242256751445934262
+--------------------
+
+--- Message ---
+Message ID: 1284609001341976586
+Message Type: Default
+Reply to: None
+Timestamp: 2024-09-14T20:17:32.801+00:00
+Author: jasmine (scubagear29)
+Author Id: 1185625617639669851
+Avatar URL: assets\85321e10cbafaab9d944b9d1cfce8ef3-34B31.png
+Content: ok i will try to ask in <#1242256751445934262>
+--------------------

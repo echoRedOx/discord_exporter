@@ -1,0 +1,71 @@
+Guild: Team Harris-Walz Virtual Office (ID: 1242249109298221066)
+Channel: creating a WhatsApp channel with the campaign (ID: 1275207671129309306)
+Channel Topic: None
+Exported At: 2024-10-28T20:27:39.8292811+00:00
+
+
+--- Message ---
+Message ID: 1275207671129309306
+Message Type: Default
+Reply to: None
+Timestamp: 2024-08-19T21:40:01.01+00:00
+Author: Minh Do - @minhsmind (minhsmind)
+Author Id: 213481699932110858
+Avatar URL: assets\dcfce5e5e76e686048f4434f1f5ac60f-7825D.png
+Content: I just saw that there’s now a bilingual voters WhatsApp channel. https://www.nbcnews.com/news/latino/kamala-harris-latino-voters-whatsapp-channel-rcna167176 - I’d love to be able to create one for Vietnamese and Asian Americans. How could I go about doing this with the support of the campaign? This is my aunt, she’d be happy to help: https://themarkup.org/languages-of-misinformation/2023/11/16/meet-the-vietnamese-grandmother-fighting-misinformation-one-youtube-video-at-a-time
+--------------------
+
+--- Message ---
+Message ID: 1275213310542745672
+Message Type: Reply
+Reply to: 1275207671129309306
+Timestamp: 2024-08-19T22:02:25.551+00:00
+Author: rootsmusic (rootsmusic)
+Author Id: 791857656897732648
+Avatar URL: assets\a30e650576a6d42a3c9ee24648f67c90-2AE37.png
+Content: (Latinos Con Harris-Walz is an official coalition, and they've setup a [WhatsApp account](https://kamalaharris.link/JoinWhatsApp )).  If you're asking the campaign to add an official account for AANHPIs, then you'll have to ask AANHPIs for Harris.  You can join their user group on Reach by adding campaign key: DFBBJJ
+--------------------
+
+--- Message ---
+Message ID: 1275236216870010890
+Message Type: Default
+Reply to: None
+Timestamp: 2024-08-19T23:33:26.845+00:00
+Author: Minh Do - @minhsmind (minhsmind)
+Author Id: 213481699932110858
+Avatar URL: assets\dcfce5e5e76e686048f4434f1f5ac60f-7825D.png
+Content: Thanks! It looks like that campaign key just adds me to the Democrats user group.
+--------------------
+
+--- Message ---
+Message ID: 1275238639361855540
+Message Type: Reply
+Reply to: 1275236216870010890
+Timestamp: 2024-08-19T23:43:04.412+00:00
+Author: rootsmusic (rootsmusic)
+Author Id: 791857656897732648
+Avatar URL: assets\a30e650576a6d42a3c9ee24648f67c90-2AE37.png
+Content: No, "The Democrats" is the DNC's campaign.  You've posted your question in the correct user group for AAPI.  By the way, you're free to create personal accounts on any platform.
+--------------------
+
+--- Message ---
+Message ID: 1275246812240023686
+Message Type: Default
+Reply to: None
+Timestamp: 2024-08-20T00:15:32.978+00:00
+Author: Minh Do - @minhsmind (minhsmind)
+Author Id: 213481699932110858
+Avatar URL: assets\dcfce5e5e76e686048f4434f1f5ac60f-7825D.png
+Content: okay, got it, thank you!
+--------------------
+
+--- Message ---
+Message ID: 1275267960033775698
+Message Type: Reply
+Reply to: 1275207671129309306
+Timestamp: 2024-08-20T01:39:35.005+00:00
+Author: rootsmusic (rootsmusic)
+Author Id: 791857656897732648
+Avatar URL: assets\a30e650576a6d42a3c9ee24648f67c90-2AE37.png
+Content: I'm unsure if the DNC is still accepting [DNCC Virtual Creator Correspondent Request Form](https://docs.google.com/forms/d/e/1FAIpQLSdQi17ouG-f7t8akFws99Bya479oVR36vQG6YOsERaUnwX8cw/viewform), but you can try.  You can also join the [Content Brigade](https://events.democrats.org/event/637836/).
+--------------------

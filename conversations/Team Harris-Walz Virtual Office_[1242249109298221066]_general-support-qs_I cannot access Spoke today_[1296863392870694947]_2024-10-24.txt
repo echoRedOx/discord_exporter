@@ -1,0 +1,31 @@
+Guild: Team Harris-Walz Virtual Office (ID: 1242249109298221066)
+Channel: I cannot access Spoke today (ID: 1296863392870694947)
+Channel Topic: None
+Exported At: 2024-10-24T06:24:25.4563815+00:00
+
+
+--- Message ---
+Message ID: 1296863392870694947
+Message Type: Default
+Reply to: None
+Timestamp: 2024-10-18T15:52:07.417+00:00
+Author: Linda PuraVida (linda_puravida)
+Author Id: 1266880404745617582
+Avatar URL: assets\ce5a6fa51b3269b16ac353056d4c4d38-C640E.png
+Content: I cannot access Spoke/Scale to Win from my ipad. I’ve tried Chrome & Safari.
+I use a Norton VPN. I did not change any settings etc. I’ve been texting from Costa Rica for years without trouble.
+This issue started yesterday. 
+I’ve been texting regularly and suddenly all the text campaign links lead to a  screen that’s blank except for the text: Message: Forbidden”
+Anyone suddenly encountering this issue? Any ideas to fix or get around it?
+--------------------
+
+--- Message ---
+Message ID: 1296864840173748234
+Message Type: Default
+Reply to: None
+Timestamp: 2024-10-18T15:57:52.481+00:00
+Author: Marisa K. -(NY) [Mod]/KC TextMod (marisak._74585)
+Author Id: 1268363112956952637
+Avatar URL: assets\19f0a12ecb0c947e057e402ffc5ebae4-846B0.png
+Content: Hi <@1266880404745617582>  You should head over to <#1259238714157305936>  and ask there! A text-mod there can help you!
+--------------------

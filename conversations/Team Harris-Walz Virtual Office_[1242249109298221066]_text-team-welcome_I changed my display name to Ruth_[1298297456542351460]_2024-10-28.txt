@@ -1,0 +1,27 @@
+Guild: Team Harris-Walz Virtual Office (ID: 1242249109298221066)
+Channel: I changed my display name to Ruth (ID: 1298297456542351460)
+Channel Topic: None
+Exported At: 2024-10-28T22:24:27.4646025+00:00
+
+
+--- Message ---
+Message ID: 1298311300111142923
+Message Type: 21
+Reply to: 1298297456542351460
+Timestamp: 2024-10-22T15:45:35.404+00:00
+Author: Roberta Bavin CA KC Greeter/Mod (roberta_24935)
+Author Id: 1269872908759597148
+Avatar URL: assets\df6d19d97b04a49ffcafbe7be14c7839-D9CE4.png
+Content: 
+--------------------
+
+--- Message ---
+Message ID: 1298311303668039761
+Message Type: Default
+Reply to: None
+Timestamp: 2024-10-22T15:45:36.252+00:00
+Author: Roberta Bavin CA KC Greeter/Mod (roberta_24935)
+Author Id: 1269872908759597148
+Avatar URL: assets\df6d19d97b04a49ffcafbe7be14c7839-D9CE4.png
+Content: Please check your DM's for the updated information. Thanks for being here!
+--------------------

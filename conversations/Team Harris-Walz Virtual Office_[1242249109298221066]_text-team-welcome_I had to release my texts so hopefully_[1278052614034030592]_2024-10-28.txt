@@ -1,0 +1,27 @@
+Guild: Team Harris-Walz Virtual Office (ID: 1242249109298221066)
+Channel: I had to release my texts so hopefully (ID: 1278052614034030592)
+Channel Topic: None
+Exported At: 2024-10-28T23:58:46.3435658+00:00
+
+
+--- Message ---
+Message ID: 1278053018176327730
+Message Type: 21
+Reply to: 1278052614034030592
+Timestamp: 2024-08-27T18:06:24.61+00:00
+Author: Nicole Morris - Text Admin (nmorris237)
+Author Id: 935762347753103382
+Avatar URL: assets\27b1e286b65ae02b3378793b5f098411-A7B20.png
+Content: 
+--------------------
+
+--- Message ---
+Message ID: 1278053020361298023
+Message Type: Default
+Reply to: None
+Timestamp: 2024-08-27T18:06:25.131+00:00
+Author: Nicole Morris - Text Admin (nmorris237)
+Author Id: 935762347753103382
+Avatar URL: assets\27b1e286b65ae02b3378793b5f098411-A7B20.png
+Content: Hey Sophia - so sorry for the delay in getting your questions answered! Will share this with the team and we're working on having more coverage. If you are waiting for a moderator to answer you questions, you can always skip ahead to the next reply (top right in Scale to Win) while you wait
+--------------------

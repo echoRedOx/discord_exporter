@@ -1,0 +1,27 @@
+Guild: Team Harris-Walz Virtual Office (ID: 1242249109298221066)
+Channel: I signed up for text bank but my phone (ID: 1281986562946502723)
+Channel Topic: None
+Exported At: 2024-10-28T23:34:14.4400997+00:00
+
+
+--- Message ---
+Message ID: 1282007451394117642
+Message Type: 21
+Reply to: 1281986562946502723
+Timestamp: 2024-09-07T15:59:54.959+00:00
+Author: Nicole Morris - Text Admin (nmorris237)
+Author Id: 935762347753103382
+Avatar URL: assets\27b1e286b65ae02b3378793b5f098411-A7B20.png
+Content: 
+--------------------
+
+--- Message ---
+Message ID: 1282007453780803728
+Message Type: Default
+Reply to: None
+Timestamp: 2024-09-07T15:59:55.528+00:00
+Author: Nicole Morris - Text Admin (nmorris237)
+Author Id: 935762347753103382
+Avatar URL: assets\27b1e286b65ae02b3378793b5f098411-A7B20.png
+Content: Hi - thanks! You should receive the Zoom information via email or text. If possible, the training is best viewed on a computer or tablet!
+--------------------

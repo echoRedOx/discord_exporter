@@ -1,0 +1,71 @@
+Guild: Team Harris-Walz Virtual Office (ID: 1242249109298221066)
+Channel: I took the training for texting and I (ID: 1299062419322179584)
+Channel Topic: None
+Exported At: 2024-10-28T22:11:08.693836+00:00
+
+
+--- Message ---
+Message ID: 1299071318037364736
+Message Type: 21
+Reply to: 1299062419322179584
+Timestamp: 2024-10-24T18:05:37.798+00:00
+Author: Jack Joannides KC text admin (jjoannid)
+Author Id: 477560366432256000
+Avatar URL: assets\791c521e62160be1f3df04992f6e5470-36A38.png
+Content: 
+--------------------
+
+--- Message ---
+Message ID: 1299071320163745844
+Message Type: Default
+Reply to: None
+Timestamp: 2024-10-24T18:05:38.305+00:00
+Author: Jack Joannides KC text admin (jjoannid)
+Author Id: 477560366432256000
+Avatar URL: assets\791c521e62160be1f3df04992f6e5470-36A38.png
+Content: Not the right channel Steve.
+--------------------
+
+--- Message ---
+Message ID: 1299071353370181804
+Message Type: Default
+Reply to: None
+Timestamp: 2024-10-24T18:05:46.222+00:00
+Author: Jack Joannides KC text admin (jjoannid)
+Author Id: 477560366432256000
+Avatar URL: assets\791c521e62160be1f3df04992f6e5470-36A38.png
+Content: I think.
+--------------------
+
+--- Message ---
+Message ID: 1299080021713096816
+Message Type: Default
+Reply to: None
+Timestamp: 2024-10-24T18:40:12.916+00:00
+Author: Sara (sara_56247)
+Author Id: 1298096566111965297
+Avatar URL: assets\1-B2132.png
+Content: This says its the text team welcome...
+--------------------
+
+--- Message ---
+Message ID: 1299082787835482132
+Message Type: Default
+Reply to: None
+Timestamp: 2024-10-24T18:51:12.411+00:00
+Author: Jack Joannides KC text admin (jjoannid)
+Author Id: 477560366432256000
+Avatar URL: assets\791c521e62160be1f3df04992f6e5470-36A38.png
+Content: That's regarding a different team Sara.
+--------------------
+
+--- Message ---
+Message ID: 1299082874292670464
+Message Type: Default
+Reply to: None
+Timestamp: 2024-10-24T18:51:33.024+00:00
+Author: Jack Joannides KC text admin (jjoannid)
+Author Id: 477560366432256000
+Avatar URL: assets\791c521e62160be1f3df04992f6e5470-36A38.png
+Content: Based on his role.
+--------------------

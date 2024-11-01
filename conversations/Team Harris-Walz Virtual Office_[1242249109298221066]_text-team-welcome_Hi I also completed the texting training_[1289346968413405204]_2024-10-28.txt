@@ -1,0 +1,71 @@
+Guild: Team Harris-Walz Virtual Office (ID: 1242249109298221066)
+Channel: Hi I also completed the texting training (ID: 1289346968413405204)
+Channel Topic: None
+Exported At: 2024-10-28T23:00:24.9775029+00:00
+
+
+--- Message ---
+Message ID: 1289347608564994172
+Message Type: 21
+Reply to: 1289346968413405204
+Timestamp: 2024-09-27T22:07:04.802+00:00
+Author: Roberta Bavin CA KC Greeter/Mod (roberta_24935)
+Author Id: 1269872908759597148
+Avatar URL: assets\df6d19d97b04a49ffcafbe7be14c7839-D9CE4.png
+Content: 
+--------------------
+
+--- Message ---
+Message ID: 1289347610662142075
+Message Type: Default
+Reply to: None
+Timestamp: 2024-09-27T22:07:05.302+00:00
+Author: Roberta Bavin CA KC Greeter/Mod (roberta_24935)
+Author Id: 1269872908759597148
+Avatar URL: assets\df6d19d97b04a49ffcafbe7be14c7839-D9CE4.png
+Content: Hi there! Thanks for reaching out. Please look for a DM from me in a few minutes. <:thankyou:1252806147396735057>
+--------------------
+
+--- Message ---
+Message ID: 1289351059961151551
+Message Type: Default
+Reply to: None
+Timestamp: 2024-09-27T22:20:47.679+00:00
+Author: Laura Bordeaux Georgia (lauragrace8469)
+Author Id: 1110206370877288518
+Avatar URL: assets\de85bce39a2dbe932a850280cd48e89f-6D447.png
+Content: Where are DMs found?
+--------------------
+
+--- Message ---
+Message ID: 1289351887778349151
+Message Type: Reply
+Reply to: 1289351059961151551
+Timestamp: 2024-09-27T22:24:05.046+00:00
+Author: Roberta Bavin CA KC Greeter/Mod (roberta_24935)
+Author Id: 1269872908759597148
+Avatar URL: assets\df6d19d97b04a49ffcafbe7be14c7839-D9CE4.png
+Content: Upper left hand corner of Discord with the game controller icon. Thanks for reaching out!
+--------------------
+
+--- Message ---
+Message ID: 1289352394056011816
+Message Type: Default
+Reply to: None
+Timestamp: 2024-09-27T22:26:05.752+00:00
+Author: Laura Bordeaux Georgia (lauragrace8469)
+Author Id: 1110206370877288518
+Avatar URL: assets\de85bce39a2dbe932a850280cd48e89f-6D447.png
+Content: Looks kind of like a spool of thread?  I’m not a gamer.  If possible, could you send me a DM right now so that I can see?
+--------------------
+
+--- Message ---
+Message ID: 1289372931264217181
+Message Type: Reply
+Reply to: 1289352394056011816
+Timestamp: 2024-09-27T23:47:42.204+00:00
+Author: Roberta Bavin CA KC Greeter/Mod (roberta_24935)
+Author Id: 1269872908759597148
+Avatar URL: assets\df6d19d97b04a49ffcafbe7be14c7839-D9CE4.png
+Content: Sent!
+--------------------

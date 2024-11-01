@@ -1,0 +1,60 @@
+Guild: Team Harris-Walz Virtual Office (ID: 1242249109298221066)
+Channel: Hi!  I took the text training on (ID: 1298316885301006468)
+Channel Topic: None
+Exported At: 2024-10-28T22:22:30.3497632+00:00
+
+
+--- Message ---
+Message ID: 1298318341789974640
+Message Type: 21
+Reply to: 1298316885301006468
+Timestamp: 2024-10-22T16:13:34.271+00:00
+Author: Roberta Bavin CA KC Greeter/Mod (roberta_24935)
+Author Id: 1269872908759597148
+Avatar URL: assets\df6d19d97b04a49ffcafbe7be14c7839-D9CE4.png
+Content: 
+--------------------
+
+--- Message ---
+Message ID: 1298318344377864245
+Message Type: Default
+Reply to: None
+Timestamp: 2024-10-22T16:13:34.888+00:00
+Author: Roberta Bavin CA KC Greeter/Mod (roberta_24935)
+Author Id: 1269872908759597148
+Avatar URL: assets\df6d19d97b04a49ffcafbe7be14c7839-D9CE4.png
+Content: Hi <@1297327058694836284> Thanks for reaching out. Please see the DM sent yesterday in the upper left corner of Discord at the game controller icon. <:thankyou:1252806147396735057>
+--------------------
+
+--- Message ---
+Message ID: 1298386488471588917
+Message Type: Default
+Reply to: None
+Timestamp: 2024-10-22T20:44:21.706+00:00
+Author: Elena Dunkin (AZ) (elenadaz_06426)
+Author Id: 1297327058694836284
+Avatar URL: assets\5a7e079ae579f49161ae27f6c9ee9e6a-0C075.png
+Content: Thanks! I dont see any DMs when I click on the game contoller?
+--------------------
+
+--- Message ---
+Message ID: 1298387090542690435
+Message Type: Reply
+Reply to: 1298386488471588917
+Timestamp: 2024-10-22T20:46:45.251+00:00
+Author: Roberta Bavin CA KC Greeter/Mod (roberta_24935)
+Author Id: 1269872908759597148
+Avatar URL: assets\df6d19d97b04a49ffcafbe7be14c7839-D9CE4.png
+Content: Just re-sent it. Please check again.
+--------------------
+
+--- Message ---
+Message ID: 1298388441385537647
+Message Type: Default
+Reply to: None
+Timestamp: 2024-10-22T20:52:07.317+00:00
+Author: Elena Dunkin (AZ) (elenadaz_06426)
+Author Id: 1297327058694836284
+Avatar URL: assets\5a7e079ae579f49161ae27f6c9ee9e6a-0C075.png
+Content: Got it! And Done!
+--------------------

@@ -1,0 +1,47 @@
+- author_avatar_url: assets\a57efb34b9ef35ed7f644aca5ab803aa-F2CBD.png
+  author_id: '1260983976483356767'
+  author_name: martarichenburg_59797
+  author_nickname: Marta Richenburg
+  content: ''
+  id: '1270446659393814648'
+  ref_to: '1270444190807101635'
+  timestamp: '2024-08-06T18:21:27.357+00:00'
+  type: '21'
+- author_avatar_url: assets\a57efb34b9ef35ed7f644aca5ab803aa-F2CBD.png
+  author_id: '1260983976483356767'
+  author_name: martarichenburg_59797
+  author_nickname: Marta Richenburg
+  content: Hi! What specific event are you looking for?
+  id: '1270446660933390337'
+  ref_to: null
+  timestamp: '2024-08-06T18:21:27.724+00:00'
+  type: Default
+- author_avatar_url: assets\07765e17ec48a4a56b959b87db27d5d1-D9A30.png
+  author_id: '1240701297058123818'
+  author_name: carolthecrone_38232_34381
+  author_nickname: CarolC(IL)
+  content: this afternoon's event in philly.
+  id: '1270449244049899602'
+  ref_to: '1270446660933390337'
+  timestamp: '2024-08-06T18:31:43.587+00:00'
+  type: Reply
+- author_avatar_url: assets\a57efb34b9ef35ed7f644aca5ab803aa-F2CBD.png
+  author_id: '1260983976483356767'
+  author_name: martarichenburg_59797
+  author_nickname: Marta Richenburg
+  content: Got it! When you click the discord link, it will show the event! Once it
+    starts you can click where it says "stage" and it will be streaming there!
+  id: '1270450876653240441'
+  ref_to: null
+  timestamp: '2024-08-06T18:38:12.83+00:00'
+  type: Default
+- author_avatar_url: assets\a57efb34b9ef35ed7f644aca5ab803aa-F2CBD.png
+  author_id: '1260983976483356767'
+  author_name: martarichenburg_59797
+  author_nickname: Marta Richenburg
+  content: You can also just click on the channel named "The Stage" and it will be
+    there!
+  id: '1270450993846554755'
+  ref_to: null
+  timestamp: '2024-08-06T18:38:40.771+00:00'
+  type: Default

@@ -1,0 +1,29 @@
+- author_avatar_url: assets\1-B2132.png
+  author_id: '1281005002386706474'
+  author_name: emily_56718
+  author_nickname: Emily
+  content: I had a caller ask about the time of their event.
+  id: '1292992398909247509'
+  ref_to: null
+  timestamp: '2024-10-07T23:30:10.537+00:00'
+  type: Default
+- author_avatar_url: assets\a_2aba4b7f19fcab5fe5391fcdb73d735d-D670A.gif
+  author_id: '1276944250491113656'
+  author_name: starkittynmom
+  author_nickname: "Jen Medeiros [CA] \u2022 [Lead Mod]"
+  content: The script will say the time zone in the text. For example, I was confirming
+    PB vols and it said the 9am EST phone bank
+  id: '1292992581927436288'
+  ref_to: null
+  timestamp: '2024-10-07T23:30:54.172+00:00'
+  type: Default
+- author_avatar_url: assets\a_2aba4b7f19fcab5fe5391fcdb73d735d-D670A.gif
+  author_id: '1276944250491113656'
+  author_name: starkittynmom
+  author_nickname: "Jen Medeiros [CA] \u2022 [Lead Mod]"
+  content: For events, there is always the "all pertinent information will be in your
+    confirmation email" as well
+  id: '1292992709199663124'
+  ref_to: null
+  timestamp: '2024-10-07T23:31:24.516+00:00'
+  type: Default

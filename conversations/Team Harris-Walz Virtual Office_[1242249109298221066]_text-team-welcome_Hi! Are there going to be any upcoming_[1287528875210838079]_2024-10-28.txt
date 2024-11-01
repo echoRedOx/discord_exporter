@@ -1,0 +1,38 @@
+Guild: Team Harris-Walz Virtual Office (ID: 1242249109298221066)
+Channel: Hi! Are there going to be any upcoming (ID: 1287528875210838079)
+Channel Topic: None
+Exported At: 2024-10-28T23:07:31.8821138+00:00
+
+
+--- Message ---
+Message ID: 1287531991084040233
+Message Type: 21
+Reply to: 1287528875210838079
+Timestamp: 2024-09-22T21:52:27.862+00:00
+Author: Roberta Bavin CA KC Greeter/Mod (roberta_24935)
+Author Id: 1269872908759597148
+Avatar URL: assets\df6d19d97b04a49ffcafbe7be14c7839-D9CE4.png
+Content: 
+--------------------
+
+--- Message ---
+Message ID: 1287532006267293767
+Message Type: Default
+Reply to: None
+Timestamp: 2024-09-22T21:52:31.482+00:00
+Author: Roberta Bavin CA KC Greeter/Mod (roberta_24935)
+Author Id: 1269872908759597148
+Avatar URL: assets\df6d19d97b04a49ffcafbe7be14c7839-D9CE4.png
+Content: https://events.democrats.org/event/672393/
+--------------------
+
+--- Message ---
+Message ID: 1287532251973685350
+Message Type: Default
+Reply to: None
+Timestamp: 2024-09-22T21:53:30.063+00:00
+Author: Clare O’Brien [CT] (clarebearclare)
+Author Id: 1278711387430060102
+Avatar URL: assets\02d91290daa8f3766ca88ff0f3ca3c13-AF8FB.png
+Content: Thank you!!
+--------------------

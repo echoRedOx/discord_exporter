@@ -1,0 +1,47 @@
+- author_avatar_url: assets\37de34190564f7c9acae5895cc884c8a-6F9C7.png
+  author_id: '869778676986814514'
+  author_name: jessica033389
+  author_nickname: Jessica Puchala (MD) [OE Lead]
+  content: ''
+  id: '1271221447611650140'
+  ref_to: '1271220545593020446'
+  timestamp: '2024-08-08T21:40:11.263+00:00'
+  type: '21'
+- author_avatar_url: assets\37de34190564f7c9acae5895cc884c8a-6F9C7.png
+  author_id: '869778676986814514'
+  author_name: jessica033389
+  author_nickname: Jessica Puchala (MD) [OE Lead]
+  content: Thanks for the idea. I'm sure the team will look into it if possible. In
+    the meantime, you may want to check out <#1252676126698897429>.
+  id: '1271221449457143888'
+  ref_to: null
+  timestamp: '2024-08-08T21:40:11.703+00:00'
+  type: Default
+- author_avatar_url: assets\90595ea07dd349adc8ba22cb8d2f8a14-00AFD.png
+  author_id: '779382569534881824'
+  author_name: ginaturone
+  author_nickname: Gina Turone
+  content: I do. I check all the channels for content several times a day.
+  id: '1271222040967385259'
+  ref_to: '1271221449457143888'
+  timestamp: '2024-08-08T21:42:32.73+00:00'
+  type: Reply
+- author_avatar_url: assets\45ab2e205f58fd1fdbebc1f2217ed4f5-0EE42.png
+  author_id: '1184187512491618404'
+  author_name: beekenoflight
+  author_nickname: Kate Beeken [Staff]
+  content: <#1266884554082222142> has this!
+  id: '1271222565863559278'
+  ref_to: null
+  timestamp: '2024-08-08T21:44:37.875+00:00'
+  type: Default
+- author_avatar_url: assets\45ab2e205f58fd1fdbebc1f2217ed4f5-0EE42.png
+  author_id: '1184187512491618404'
+  author_name: beekenoflight
+  author_nickname: Kate Beeken [Staff]
+  content: "It\u2019s primarily for live streams of events, but all of the Ads end\
+    \ up there too!"
+  id: '1271222623774314588'
+  ref_to: null
+  timestamp: '2024-08-08T21:44:51.682+00:00'
+  type: Default

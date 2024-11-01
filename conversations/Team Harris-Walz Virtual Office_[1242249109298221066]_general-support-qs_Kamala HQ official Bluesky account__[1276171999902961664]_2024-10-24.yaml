@@ -1,0 +1,111 @@
+- author_avatar_url: assets\3-FB033.png
+  author_id: '562727475537379342'
+  author_name: baudi_
+  author_nickname: Mike Baudistel
+  content: 'I see that someone set up a Kamala HQ automated mirror account on Bluesky.  It
+    mirrors posts from Twitter/X.  Given that many of us have moved from Twitter,
+    has the Harris campaign considered creating an official Bluesky account?
+
+
+    https://bsky.app/profile/kamalahqrepeater.bsky.social'
+  id: '1276171999902961664'
+  ref_to: null
+  timestamp: '2024-08-22T13:31:54.906+00:00'
+  type: Default
+- author_avatar_url: assets\3455937c80f8c69cd430cbb4f671a3ab-A02E8.png
+  author_id: '379278050212315148'
+  author_name: egallager
+  author_nickname: Eric Gallager (NH02)
+  content: yeah I would be highly supportive of such an account
+  id: '1276304158282092720'
+  ref_to: null
+  timestamp: '2024-08-22T22:17:03.919+00:00'
+  type: Default
+- author_avatar_url: assets\4dcea12906594faec9995d20ca01b543-803E9.png
+  author_id: '449057300590886912'
+  author_name: kyra.davies
+  author_nickname: Kyra Davies (MA)
+  content: Same! There are some very active communities of journalists and activists
+    over there
+  id: '1276383072849494047'
+  ref_to: null
+  timestamp: '2024-08-23T03:30:38.618+00:00'
+  type: Default
+- author_avatar_url: assets\f7ebcd4727f2b8e05b4382b1b1eb6d74-1D9FE.png
+  author_id: '1254144571089354868'
+  author_name: kcmpolitical
+  author_nickname: Kris Morrell (CA) - KC TextAdmin
+  content: Same! I like BlueSky, seem to spend more time over there than anywhere
+    other than Discord and Slack
+  id: '1276568347873509430'
+  ref_to: null
+  timestamp: '2024-08-23T15:46:51.626+00:00'
+  type: Default
+- author_avatar_url: assets\8f2f5a21a6665091a4e51dc7687cb6f3-AAC42.png
+  author_id: '381286854059884545'
+  author_name: kimmai
+  author_nickname: "Kimmai T. (PA) \u2022 Mod"
+  content: I also use BlueSky!
+  id: '1276573514949857332'
+  ref_to: null
+  timestamp: '2024-08-23T16:07:23.553+00:00'
+  type: Default
+- author_avatar_url: assets\3455937c80f8c69cd430cbb4f671a3ab-A02E8.png
+  author_id: '379278050212315148'
+  author_name: egallager
+  author_nickname: Eric Gallager (NH02)
+  content: 'This is my profile on it: https://bsky.app/profile/egall.bsky.social'
+  id: '1276688931651584112'
+  ref_to: null
+  timestamp: '2024-08-23T23:46:01.039+00:00'
+  type: Default
+- author_avatar_url: assets\8f2f5a21a6665091a4e51dc7687cb6f3-AAC42.png
+  author_id: '381286854059884545'
+  author_name: kimmai
+  author_nickname: "Kimmai T. (PA) \u2022 Mod"
+  content: I just followed you!
+  id: '1276694217971994698'
+  ref_to: '1276688931651584112'
+  timestamp: '2024-08-24T00:07:01.396+00:00'
+  type: Reply
+- author_avatar_url: assets\64de5f499fea1426f79831f0483e013c-99A90.png
+  author_id: '735273034595827775'
+  author_name: mdfranz
+  author_nickname: Matt Franz
+  content: "Also don\u2019t do FB or Twitter and have been following the  mirror!"
+  id: '1276974885192597514'
+  ref_to: null
+  timestamp: '2024-08-24T18:42:17.676+00:00'
+  type: Default
+- author_avatar_url: assets\8b706a86e5f9b8dcaaa950a7500b77b8-E1341.png
+  author_id: '957714233217409174'
+  author_name: opheliawild
+  author_nickname: "Ophelia W \u2022 Lead Mod"
+  content: We're not sure if they are doing this or not but as soon as we hear, if
+    they do, we'll let everyone know.
+  id: '1277001132354568314'
+  ref_to: null
+  timestamp: '2024-08-24T20:26:35.487+00:00'
+  type: Default
+- author_avatar_url: assets\321c541a5aa9afcdcaaf130167321fdb-C6411.png
+  author_id: '875421074320412672'
+  author_name: wheeless_
+  author_nickname: Wheeless
+  content: Is there a widget that is a countdown to election night that we can add
+    to our cell phones? I want to create a sense of urgency and thought this would
+    help... but I'm not tech savvy.
+  id: '1277060935177076786'
+  ref_to: null
+  timestamp: '2024-08-25T00:24:13.591+00:00'
+  type: Default
+- author_avatar_url: assets\28a90c77b5793d80eb62484a43c66748-D8837.png
+  author_id: '568257600228032512'
+  author_name: carb.on
+  author_nickname: "Carolyn B [CA] \u2022 Lead Mod"
+  content: Hi <@875421074320412672>  there several for webpages and blogs. but I can't
+    find a phone widget. You could do this with regular countdown app, but it would't
+    be personalized to the election.
+  id: '1277066408122908764'
+  ref_to: null
+  timestamp: '2024-08-25T00:45:58.443+00:00'
+  type: Default

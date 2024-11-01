@@ -1,0 +1,60 @@
+Guild: Team Harris-Walz Virtual Office (ID: 1242249109298221066)
+Channel: Hey Text Team. I am a Phone Bank Captain (ID: 1298283647899799603)
+Channel Topic: None
+Exported At: 2024-10-28T22:23:29.2276651+00:00
+
+
+--- Message ---
+Message ID: 1298304989604876298
+Message Type: 21
+Reply to: 1298283647899799603
+Timestamp: 2024-10-22T15:20:30.862+00:00
+Author: Nicole Morris - Text Admin (nmorris237)
+Author Id: 935762347753103382
+Avatar URL: assets\27b1e286b65ae02b3378793b5f098411-A7B20.png
+Content: 
+--------------------
+
+--- Message ---
+Message ID: 1298304992884690994
+Message Type: Default
+Reply to: None
+Timestamp: 2024-10-22T15:20:31.644+00:00
+Author: Nicole Morris - Text Admin (nmorris237)
+Author Id: 935762347753103382
+Avatar URL: assets\27b1e286b65ae02b3378793b5f098411-A7B20.png
+Content: Hi - good question! <@1251730894046367785> Our text trainings have ended, but you can check out ⁠⁠<#1268426751164551199> to look through or ask about other texting opportunities. You can also go to https://go.kamalaharris.com/ to find more ways to get involved. We would love help with making phone calls during this final stretch -- you can sign up for that at https://events.democrats.org/event/725393/ . Thank you!
+--------------------
+
+--- Message ---
+Message ID: 1298307680573591572
+Message Type: Reply
+Reply to: 1298304992884690994
+Timestamp: 2024-10-22T15:31:12.439+00:00
+Author: ekbraun (ekbraun_89321)
+Author Id: 1251730894046367785
+Avatar URL: assets\4-4551A.png
+Content: Thanks Nicole - I am already phone bank facilitating every day between now and the election, but we often find enthusiastic Harris supporters who are unable to phone bank, but are open to text banking. Since we need all hands on deck, I will point them to other text banking options. Thanks.
+--------------------
+
+--- Message ---
+Message ID: 1298333504718770176
+Message Type: Default
+Reply to: None
+Timestamp: 2024-10-22T17:13:49.395+00:00
+Author: Nicole Morris - Text Admin (nmorris237)
+Author Id: 935762347753103382
+Avatar URL: assets\27b1e286b65ae02b3378793b5f098411-A7B20.png
+Content: Ah apologies - misread your original thing that you are already phone bank captain (thank you!). Sounds good!
+--------------------
+
+--- Message ---
+Message ID: 1298334952781254697
+Message Type: Default
+Reply to: None
+Timestamp: 2024-10-22T17:19:34.64+00:00
+Author: ekbraun (ekbraun_89321)
+Author Id: 1251730894046367785
+Avatar URL: assets\4-4551A.png
+Content: No worries. I know you are overseeing a big volume of messages! Thank you!!!!!
+--------------------

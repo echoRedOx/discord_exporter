@@ -1,0 +1,71 @@
+Guild: Team Harris-Walz Virtual Office (ID: 1242249109298221066)
+Channel: Evan (ID: 1278545151861719135)
+Channel Topic: None
+Exported At: 2024-10-28T23:52:32.307624+00:00
+
+
+--- Message ---
+Message ID: 1278546092555767901
+Message Type: 21
+Reply to: 1278545151861719135
+Timestamp: 2024-08-29T02:45:42.703+00:00
+Author: Branton J. [GA] Text Mod (perry.p)
+Author Id: 946953677611077642
+Avatar URL: assets\19838db602948fa14c3fa90a94996f8c-8CE56.png
+Content: 
+--------------------
+
+--- Message ---
+Message ID: 1278546094363639860
+Message Type: Default
+Reply to: None
+Timestamp: 2024-08-29T02:45:43.134+00:00
+Author: Branton J. [GA] Text Mod (perry.p)
+Author Id: 946953677611077642
+Avatar URL: assets\19838db602948fa14c3fa90a94996f8c-8CE56.png
+Content: Hey there. Yes, you would need to attend a training in order to begin texting with us.
+--------------------
+
+--- Message ---
+Message ID: 1278546271505879042
+Message Type: Default
+Reply to: None
+Timestamp: 2024-08-29T02:46:25.368+00:00
+Author: Evan Blue [OR] (conifers3)
+Author Id: 338541412343611392
+Avatar URL: assets\760ff9889b5e41135bd2eabfc260cb03-64823.png
+Content: Ok, thanks. I saw something about them being full through November though, has that changed?
+--------------------
+
+--- Message ---
+Message ID: 1278546519049637940
+Message Type: Default
+Reply to: None
+Timestamp: 2024-08-29T02:47:24.387+00:00
+Author: Branton J. [GA] Text Mod (perry.p)
+Author Id: 946953677611077642
+Avatar URL: assets\19838db602948fa14c3fa90a94996f8c-8CE56.png
+Content: I do believe that our current trainings that are scheduled are at capacity, however, that may change.
+--------------------
+
+--- Message ---
+Message ID: 1278567165284585492
+Message Type: Default
+Reply to: None
+Timestamp: 2024-08-29T04:09:26.833+00:00
+Author: Nicole Morris - Text Admin (nmorris237)
+Author Id: 935762347753103382
+Avatar URL: assets\27b1e286b65ae02b3378793b5f098411-A7B20.png
+Content: Hi <@338541412343611392> Thanks - please sign up here: https://events.democrats.org/event/672393/
+--------------------
+
+--- Message ---
+Message ID: 1278633314407809057
+Message Type: Default
+Reply to: None
+Timestamp: 2024-08-29T08:32:18.013+00:00
+Author: Kjk😎 (kjkdavis)
+Author Id: 1268752868664414350
+Avatar URL: assets\0-EB806.png
+Content: Hi <@338541412343611392>
+--------------------

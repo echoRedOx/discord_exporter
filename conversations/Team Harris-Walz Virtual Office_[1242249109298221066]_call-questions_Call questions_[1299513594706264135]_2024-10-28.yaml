@@ -1,0 +1,44 @@
+- author_avatar_url: assets\5-E9BDB.png
+  author_id: '1299496775186382891'
+  author_name: jeff_11583
+  author_nickname: Jeff
+  content: 'If the person declines to tell me how they are voting, do I enter nothing?
+
+    If they tell me they''ve registered in another state, can I capture that?
+
+    If they tell me they''re the right person and THEN hang up, how do I code that?
+
+    Thx'
+  id: '1299513594706264135'
+  ref_to: null
+  timestamp: '2024-10-25T23:23:04.773+00:00'
+  type: Default
+- author_avatar_url: assets\5fde485e55d806d8356ca6e7e08f1f48-77A19.png
+  author_id: '1266903666879627274'
+  author_name: larrya._98544
+  author_nickname: Larry Ahlgrim (VA) [Call Mod]
+  content: Hi Jeff, if they declined, mark as refused. if they're registered in another
+    state mark them as moved. if the right person hangs up, mark it as hang up
+  id: '1299516182130331658'
+  ref_to: '1299513594706264135'
+  timestamp: '2024-10-25T23:33:21.663+00:00'
+  type: Reply
+- author_avatar_url: assets\5-E9BDB.png
+  author_id: '1299496775186382891'
+  author_name: jeff_11583
+  author_nickname: Jeff
+  content: Thank you. Didn't see a refused button, but will dive back in and look.
+    Appreciate the quick response.
+  id: '1299517890340323369'
+  ref_to: '1299516182130331658'
+  timestamp: '2024-10-25T23:40:08.932+00:00'
+  type: Reply
+- author_avatar_url: assets\5fde485e55d806d8356ca6e7e08f1f48-77A19.png
+  author_id: '1266903666879627274'
+  author_name: larrya._98544
+  author_nickname: Larry Ahlgrim (VA) [Call Mod]
+  content: You're welcome!
+  id: '1299518478557909002'
+  ref_to: '1299517890340323369'
+  timestamp: '2024-10-25T23:42:29.174+00:00'
+  type: Reply

@@ -1,0 +1,41 @@
+Guild: Team Harris-Walz Virtual Office (ID: 1242249109298221066)
+Channel: Is there something we can do to de-bunk (ID: 1266444996563697765)
+Channel Topic: None
+Exported At: 2024-10-24T13:16:40.4817297+00:00
+
+
+--- Message ---
+Message ID: 1266446521403183265
+Message Type: 21
+Reply to: 1266444996563697765
+Timestamp: 2024-07-26T17:26:20.141+00:00
+Author: Christian Bosse (ch.bosse)
+Author Id: 1256039311367999658
+Avatar URL: assets\e940fcd0527f7edd98cdee8d31c08cc0-9A6CA.png
+Content: 
+--------------------
+
+--- Message ---
+Message ID: 1266446523416313877
+Message Type: Default
+Reply to: None
+Timestamp: 2024-07-26T17:26:20.621+00:00
+Author: Christian Bosse (ch.bosse)
+Author Id: 1256039311367999658
+Avatar URL: assets\e940fcd0527f7edd98cdee8d31c08cc0-9A6CA.png
+Content: Have a look at these posts by the KamalaHQ on X. https://x.com/KamalaHQ/status/1815896805780971814
+https://x.com/POTUS/status/1816873615217836240
+https://x.com/POTUS/status/1816507347281268772
+--------------------
+
+--- Message ---
+Message ID: 1266446617331110022
+Message Type: Default
+Reply to: None
+Timestamp: 2024-07-26T17:26:43.012+00:00
+Author: Christian Bosse (ch.bosse)
+Author Id: 1256039311367999658
+Avatar URL: assets\e940fcd0527f7edd98cdee8d31c08cc0-9A6CA.png
+Content: This one is from 2023 😅 
+https://x.com/KamalaHarris/status/1737499475113910474
+--------------------

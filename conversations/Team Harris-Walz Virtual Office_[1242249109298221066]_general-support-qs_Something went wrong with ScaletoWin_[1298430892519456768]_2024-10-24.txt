@@ -1,0 +1,27 @@
+Guild: Team Harris-Walz Virtual Office (ID: 1242249109298221066)
+Channel: Something went wrong with ScaletoWin. (ID: 1298430892519456768)
+Channel Topic: None
+Exported At: 2024-10-24T06:22:31.1946872+00:00
+
+
+--- Message ---
+Message ID: 1298430892519456768
+Message Type: Default
+Reply to: None
+Timestamp: 2024-10-22T23:40:48.456+00:00
+Author: billh (.billh)
+Author Id: 911700060360818688
+Avatar URL: assets\0-EB806.png
+Content: How can I fix this. I was in Persuasion earlier this evening.
+--------------------
+
+--- Message ---
+Message ID: 1298431035800813568
+Message Type: Reply
+Reply to: 1298430892519456768
+Timestamp: 2024-10-22T23:41:22.617+00:00
+Author: Jared R [CO] • Lead Mod (kyaizen)
+Author Id: 112080668296564736
+Avatar URL: assets\a_de0e3d4a3f9b486ad3ad6df0d72323da-D0252.gif
+Content: Hi Bill, please post in <#1296953962473455617>
+--------------------

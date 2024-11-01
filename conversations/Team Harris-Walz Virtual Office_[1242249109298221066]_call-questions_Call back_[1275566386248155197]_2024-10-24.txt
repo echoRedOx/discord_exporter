@@ -1,0 +1,27 @@
+Guild: Team Harris-Walz Virtual Office (ID: 1242249109298221066)
+Channel: Call back (ID: 1275566386248155197)
+Channel Topic: None
+Exported At: 2024-10-24T12:56:45.6596731+00:00
+
+
+--- Message ---
+Message ID: 1275566386248155197
+Message Type: Default
+Reply to: None
+Timestamp: 2024-08-20T21:25:25.359+00:00
+Author: Gilly (gilly02437)
+Author Id: 838904841458941973
+Avatar URL: assets\7a2b32d4a763194486bac310f5a788c7-989E5.png
+Content: If it's noted on the dialer that the person is busy and would like a call back then when are they called back?
+--------------------
+
+--- Message ---
+Message ID: 1275567100383203388
+Message Type: Default
+Reply to: None
+Timestamp: 2024-08-20T21:28:15.622+00:00
+Author: Larry Ahlgrim (VA) [Call Mod] (larrya._98544)
+Author Id: 1266903666879627274
+Avatar URL: assets\5fde485e55d806d8356ca6e7e08f1f48-77A19.png
+Content: <@838904841458941973> It could be later today or the next day, depending on how many calls we make
+--------------------

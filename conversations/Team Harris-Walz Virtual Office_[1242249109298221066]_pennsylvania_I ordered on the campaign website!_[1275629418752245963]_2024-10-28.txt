@@ -1,0 +1,49 @@
+Guild: Team Harris-Walz Virtual Office (ID: 1242249109298221066)
+Channel: I ordered on the campaign website! (ID: 1275629418752245963)
+Channel Topic: None
+Exported At: 2024-10-29T00:37:41.8621425+00:00
+
+
+--- Message ---
+Message ID: 1275800406005645415
+Message Type: 21
+Reply to: 1275629418752245963
+Timestamp: 2024-08-21T12:55:20.017+00:00
+Author: Jesse Liberty (jesseliberty)
+Author Id: 816713323272732704
+Avatar URL: assets\1d34e7e7c56007731c7c3c62e8224fb4-275E0.png
+Content: 
+--------------------
+
+--- Message ---
+Message ID: 1275800407968448513
+Message Type: Default
+Reply to: None
+Timestamp: 2024-08-21T12:55:20.485+00:00
+Author: Jesse Liberty (jesseliberty)
+Author Id: 816713323272732704
+Avatar URL: assets\1d34e7e7c56007731c7c3c62e8224fb4-275E0.png
+Content: Looked but didn't see. Can I trouble you for the url? Thanks!
+--------------------
+
+--- Message ---
+Message ID: 1275831990301753355
+Message Type: Reply
+Reply to: 1275800407968448513
+Timestamp: 2024-08-21T15:00:50.3+00:00
+Author: RachelDi (racheldi)
+Author Id: 710588169413722133
+Avatar URL: assets\d2f15525d72adfe2c19af219660c2788-0CBDE.png
+Content: I didn't see it either.
+--------------------
+
+--- Message ---
+Message ID: 1275863547754057800
+Message Type: Default
+Reply to: None
+Timestamp: 2024-08-21T17:06:14.183+00:00
+Author: brendan p  [NJ/PA] (brendan_00119)
+Author Id: 1270895729610723413
+Avatar URL: assets\09a1b40b3756fdbc10da00dfcc4fe87f-B44A3.png
+Content: it appears that they were taken down!!! Hopefully they add magnets back up again soon!
+--------------------

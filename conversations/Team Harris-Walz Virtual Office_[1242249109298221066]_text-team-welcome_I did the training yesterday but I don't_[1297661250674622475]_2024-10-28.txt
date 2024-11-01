@@ -1,0 +1,38 @@
+Guild: Team Harris-Walz Virtual Office (ID: 1242249109298221066)
+Channel: I did the training yesterday but I don't (ID: 1297661250674622475)
+Channel Topic: None
+Exported At: 2024-10-28T22:29:34.9732274+00:00
+
+
+--- Message ---
+Message ID: 1297661857221443746
+Message Type: 21
+Reply to: 1297661250674622475
+Timestamp: 2024-10-20T20:44:56.153+00:00
+Author: Roberta Bavin CA KC Greeter/Mod (roberta_24935)
+Author Id: 1269872908759597148
+Avatar URL: assets\df6d19d97b04a49ffcafbe7be14c7839-D9CE4.png
+Content: 
+--------------------
+
+--- Message ---
+Message ID: 1297661861193453588
+Message Type: Default
+Reply to: None
+Timestamp: 2024-10-20T20:44:57.1+00:00
+Author: Roberta Bavin CA KC Greeter/Mod (roberta_24935)
+Author Id: 1269872908759597148
+Avatar URL: assets\df6d19d97b04a49ffcafbe7be14c7839-D9CE4.png
+Content: Hi <@1090099875972136991> Thanks for reaching out. Once we can verify attendance in Zoom Report, we can reach out with those link via DM. Thank you!
+--------------------
+
+--- Message ---
+Message ID: 1297661963475750914
+Message Type: Default
+Reply to: None
+Timestamp: 2024-10-20T20:45:21.486+00:00
+Author: Grant McCallum (WA) (teachmemetric)
+Author Id: 1090099875972136991
+Avatar URL: assets\5445ffd7ffb201a98393cbdf684ea4b1-A1EF0.png
+Content: Thank you.  My email is grantmccallum@gmail.com
+--------------------

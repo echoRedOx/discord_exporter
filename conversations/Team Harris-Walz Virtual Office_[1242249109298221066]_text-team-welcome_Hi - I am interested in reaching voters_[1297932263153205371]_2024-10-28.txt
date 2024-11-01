@@ -1,0 +1,38 @@
+Guild: Team Harris-Walz Virtual Office (ID: 1242249109298221066)
+Channel: Hi - I am interested in reaching voters (ID: 1297932263153205371)
+Channel Topic: None
+Exported At: 2024-10-28T22:27:39.1025698+00:00
+
+
+--- Message ---
+Message ID: 1297939336276217968
+Message Type: 21
+Reply to: 1297932263153205371
+Timestamp: 2024-10-21T15:07:32.315+00:00
+Author: Roberta Bavin CA KC Greeter/Mod (roberta_24935)
+Author Id: 1269872908759597148
+Avatar URL: assets\df6d19d97b04a49ffcafbe7be14c7839-D9CE4.png
+Content: 
+--------------------
+
+--- Message ---
+Message ID: 1297939339317088347
+Message Type: Default
+Reply to: None
+Timestamp: 2024-10-21T15:07:33.04+00:00
+Author: Roberta Bavin CA KC Greeter/Mod (roberta_24935)
+Author Id: 1269872908759597148
+Avatar URL: assets\df6d19d97b04a49ffcafbe7be14c7839-D9CE4.png
+Content: Hi there! Thanks for reaching out. We don't have any further trainings scheduled. Please check <#1268426751164551199> channel for other activities. We appreciate you being here! <:thankyou:1252806147396735057>
+--------------------
+
+--- Message ---
+Message ID: 1297988172273422457
+Message Type: Default
+Reply to: None
+Timestamp: 2024-10-21T18:21:35.724+00:00
+Author: Andrew Martin [CA[ KC Text Admin (andrewjnla)
+Author Id: 932025725777743923
+Avatar URL: assets\8156a8c1e23069b2fac6bd70259a5ade-A321B.png
+Content: Hi <@1222278149929177271> We just added one final training later today. Please join us if you can! https://events.democrats.org/event/715820/
+--------------------

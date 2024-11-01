@@ -1,0 +1,27 @@
+Guild: Team Harris-Walz Virtual Office (ID: 1242249109298221066)
+Channel: Training completed.  Thanks Angelo and (ID: 1277046302395465791)
+Channel Topic: None
+Exported At: 2024-10-29T00:06:54.1328333+00:00
+
+
+--- Message ---
+Message ID: 1277056477751934986
+Message Type: 21
+Reply to: 1277046302395465791
+Timestamp: 2024-08-25T00:06:30.858+00:00
+Author: Nicole Morris - Text Admin (nmorris237)
+Author Id: 935762347753103382
+Avatar URL: assets\27b1e286b65ae02b3378793b5f098411-A7B20.png
+Content: 
+--------------------
+
+--- Message ---
+Message ID: 1277056479270146060
+Message Type: Default
+Reply to: None
+Timestamp: 2024-08-25T00:06:31.22+00:00
+Author: Nicole Morris - Text Admin (nmorris237)
+Author Id: 935762347753103382
+Avatar URL: assets\27b1e286b65ae02b3378793b5f098411-A7B20.png
+Content: Thanks! Please keep an eye on your Direct Messages in Discord within the next 24-48 hours for final steps on getting added to the text channels! It'll be a notification on the top left in Discord
+--------------------

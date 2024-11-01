@@ -1,0 +1,71 @@
+Guild: Team Harris-Walz Virtual Office (ID: 1242249109298221066)
+Channel: Hi all, I’m not very comfortable putting (ID: 1283856617615659019)
+Channel Topic: None
+Exported At: 2024-10-28T23:27:02.2607099+00:00
+
+
+--- Message ---
+Message ID: 1283859949860028528
+Message Type: 21
+Reply to: 1283856617615659019
+Timestamp: 2024-09-12T18:41:05.011+00:00
+Author: Jack Joannides KC text admin (jjoannid)
+Author Id: 477560366432256000
+Avatar URL: assets\791c521e62160be1f3df04992f6e5470-36A38.png
+Content: 
+--------------------
+
+--- Message ---
+Message ID: 1283859953328721930
+Message Type: Default
+Reply to: None
+Timestamp: 2024-09-12T18:41:05.838+00:00
+Author: Jack Joannides KC text admin (jjoannid)
+Author Id: 477560366432256000
+Avatar URL: assets\791c521e62160be1f3df04992f6e5470-36A38.png
+Content: We don't use reach app. Ask in <#1267941954243526756> or <#1242249109298221069>
+--------------------
+
+--- Message ---
+Message ID: 1283862639503478867
+Message Type: Default
+Reply to: None
+Timestamp: 2024-09-12T18:51:46.272+00:00
+Author: Ashley Adams [CO] (outrageous_gull_47205)
+Author Id: 1149690003656552570
+Avatar URL: assets\f59f6af4968ca7496739aa1490d6cc09-C3ADE.png
+Content: <#1242249109298221069> directed me here
+--------------------
+
+--- Message ---
+Message ID: 1283862763101356083
+Message Type: Default
+Reply to: None
+Timestamp: 2024-09-12T18:52:15.74+00:00
+Author: Ashley Adams [CO] (outrageous_gull_47205)
+Author Id: 1149690003656552570
+Avatar URL: assets\f59f6af4968ca7496739aa1490d6cc09-C3ADE.png
+Content: <@447570500030562314>
+--------------------
+
+--- Message ---
+Message ID: 1283864104846626917
+Message Type: Default
+Reply to: None
+Timestamp: 2024-09-12T18:57:35.637+00:00
+Author: KTMG  • Community Mod (ktmg)
+Author Id: 447570500030562314
+Avatar URL: assets\4ab56c60f334133787a2e11eccf36d79-7F4A0.png
+Content: This is the texting team, you should follow their guidance
+--------------------
+
+--- Message ---
+Message ID: 1283864635346386954
+Message Type: Default
+Reply to: None
+Timestamp: 2024-09-12T18:59:42.118+00:00
+Author: Jack Joannides KC text admin (jjoannid)
+Author Id: 477560366432256000
+Avatar URL: assets\791c521e62160be1f3df04992f6e5470-36A38.png
+Content: If you want a training please sign up here: https://events.democrats.org/event/672393/ I don't have language on that since that's not our team.
+--------------------

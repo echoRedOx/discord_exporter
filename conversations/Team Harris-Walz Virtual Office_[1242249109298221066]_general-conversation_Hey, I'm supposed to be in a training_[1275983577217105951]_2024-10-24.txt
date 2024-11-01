@@ -1,0 +1,61 @@
+Guild: Team Harris-Walz Virtual Office (ID: 1242249109298221066)
+Channel: Hey, I'm supposed to be in a training (ID: 1275983577217105951)
+Channel Topic: None
+Exported At: 2024-10-24T06:20:17.6976478+00:00
+
+
+--- Message ---
+Message ID: 1275984625998757940
+Message Type: 21
+Reply to: 1275983577217105951
+Timestamp: 2024-08-22T01:07:21.486+00:00
+Author: Gillian D [TX] • Lead Mod (tenaciousg27)
+Author Id: 763374129772363776
+Avatar URL: assets\bfccaff89d7c287575ef163d39d3bde8-053E1.png
+Content: 
+--------------------
+
+--- Message ---
+Message ID: 1275984627118637129
+Message Type: Default
+Reply to: None
+Timestamp: 2024-08-22T01:07:21.753+00:00
+Author: Gillian D [TX] • Lead Mod (tenaciousg27)
+Author Id: 763374129772363776
+Avatar URL: assets\bfccaff89d7c287575ef163d39d3bde8-053E1.png
+Content: Hi Jen! I unfortunately don't have the link but I'll see if I can find one. In the meantime, can you tell me what happens when you try to open the link you were sent?
+--------------------
+
+--- Message ---
+Message ID: 1275998243326525480
+Message Type: Default
+Reply to: None
+Timestamp: 2024-08-22T02:01:28.11+00:00
+Author: Gillian D [TX] • Lead Mod (tenaciousg27)
+Author Id: 763374129772363776
+Avatar URL: assets\bfccaff89d7c287575ef163d39d3bde8-053E1.png
+Content: Following up! It looks like there was an issue with the link that went out for this training, but if you sign up for another session they will send you a correct link for the next one.
+I'm so sorry you missed out on the training. We really appreciate you signing up and are very much looking forward to working with you on the VOTE Team! <:blueheart:1252803082849488956>
+--------------------
+
+--- Message ---
+Message ID: 1276010164540936273
+Message Type: Default
+Reply to: None
+Timestamp: 2024-08-22T02:48:50.349+00:00
+Author: JenBen [NM] (jenben2024)
+Author Id: 1274514789430988925
+Avatar URL: assets\9901de078ae40adf6e2fdff578801bbc-9E918.png
+Content: <@763374129772363776> that link actually did work and I went through the training.
+--------------------
+
+--- Message ---
+Message ID: 1276011228526940272
+Message Type: Reply
+Reply to: 1276010164540936273
+Timestamp: 2024-08-22T02:53:04.023+00:00
+Author: Gillian D [TX] • Lead Mod (tenaciousg27)
+Author Id: 763374129772363776
+Avatar URL: assets\bfccaff89d7c287575ef163d39d3bde8-053E1.png
+Content: Oh, awesome! We had someone else having issues, so I'm glad to hear you were able to get in. Glad to have you on board!
+--------------------

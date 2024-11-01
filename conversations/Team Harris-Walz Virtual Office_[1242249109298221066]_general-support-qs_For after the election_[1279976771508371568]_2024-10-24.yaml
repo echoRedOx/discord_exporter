@@ -1,0 +1,32 @@
+- author_avatar_url: assets\ee6fcc15dae8462931d1ad1c70c5d780-D008C.png
+  author_id: '648018187342053395'
+  author_name: i_am_anxious02
+  author_nickname: Jake Henderson (NJ-2) [MOD]
+  content: Would it be possible to repurpose this server for other democratic campaigns
+    once the 2024 election concludes (for example, the two 2025 Gubernatorial elections
+    and the 2026 midterms)?
+  id: '1279976771508371568'
+  ref_to: null
+  timestamp: '2024-09-02T01:30:43.146+00:00'
+  type: Default
+- author_avatar_url: assets\28a90c77b5793d80eb62484a43c66748-D8837.png
+  author_id: '568257600228032512'
+  author_name: carb.on
+  author_nickname: "Carolyn B [CA] \u2022 Lead Mod"
+  content: Hello <@648018187342053395> this server is the for the democratic national
+    campaign, it will continue on as the home of the 2028 presidential campaign. Individual
+    Gubernatorial elections and midterm campaigns would be supported by their own
+    servers.
+  id: '1279980868886069379'
+  ref_to: '1279976771508371568'
+  timestamp: '2024-09-02T01:47:00.037+00:00'
+  type: Reply
+- author_avatar_url: assets\ee6fcc15dae8462931d1ad1c70c5d780-D008C.png
+  author_id: '648018187342053395'
+  author_name: i_am_anxious02
+  author_nickname: Jake Henderson (NJ-2) [MOD]
+  content: Thank you!
+  id: '1279980984711778334'
+  ref_to: '1279980868886069379'
+  timestamp: '2024-09-02T01:47:27.652+00:00'
+  type: Reply

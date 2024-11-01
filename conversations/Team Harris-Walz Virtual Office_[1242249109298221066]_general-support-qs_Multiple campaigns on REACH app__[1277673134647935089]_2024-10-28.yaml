@@ -1,0 +1,75 @@
+- author_avatar_url: assets\241163116aa2adce2aa3914a6e9b55d2-C395B.png
+  author_id: '1277407870010527850'
+  author_name: joecarr_91589
+  author_nickname: Joe Carr
+  content: I am already on a Texas-focused campaign in REACH, but when I use REACH
+    for this national Harris-Walz campiagn, I do NOT want to lose all the Texas data
+    I entered into REACH. Can I toggle between campaigns in the REACH app WITHOUT
+    losing all my data entered for the previous cmapign? The REACH chat support people
+    cannot answer this quesion; they say they will e-mail me later. This is such a
+    simple question. Anybody know the answer?
+  id: '1277673134647935089'
+  ref_to: null
+  timestamp: '2024-08-26T16:56:53.319+00:00'
+  type: Default
+- author_avatar_url: assets\a30e650576a6d42a3c9ee24648f67c90-2AE37.png
+  author_id: '791857656897732648'
+  author_name: rootsmusic
+  author_nickname: rootsmusic
+  content: Yes, you can add multiple [campaign keys](https://www.reach.vote/knowledge-base/adding-users/).  (Most
+    states have their own state campaigns.  If you don't have a campaign key, then
+    you can ask for an invite.)  The national party's campaign key is ZUMT5Q.
+  id: '1277674228078084199'
+  ref_to: '1277673134647935089'
+  timestamp: '2024-08-26T17:01:14.013+00:00'
+  type: Reply
+- author_avatar_url: assets\241163116aa2adce2aa3914a6e9b55d2-C395B.png
+  author_id: '1277407870010527850'
+  author_name: joecarr_91589
+  author_nickname: Joe Carr
+  content: 'Thank you for the reply! Yes, I know that I can use the ZUMT5Q code for
+    this national campaign. BUT are you absolutley sure I will not lose any data I
+    already entered for the Powered By People campaign in Texas (which is NOT connected
+    in any way to this national effort)? When I go to enter the ZUMT5Q code, the REACH
+    app warns me with this: "You will no longer be able to access Powered By People
+    in Reach."'
+  id: '1277675381742239862'
+  ref_to: '1277674228078084199'
+  timestamp: '2024-08-26T17:05:49.068+00:00'
+  type: Reply
+- author_avatar_url: assets\a30e650576a6d42a3c9ee24648f67c90-2AE37.png
+  author_id: '791857656897732648'
+  author_name: rootsmusic
+  author_nickname: rootsmusic
+  content: Are you adding the campaign key in https://app.reach.vote/campaigns (not
+    leaving Powered By People's campaign)?  In Reach, I joined the campaigns of the
+    national Party, DCCC and my state party.  However, I never got the warning that
+    you quoted (which would also worry me if I got it).
+  id: '1277677043273695282'
+  ref_to: '1277675381742239862'
+  timestamp: '2024-08-26T17:12:25.208+00:00'
+  type: Reply
+- author_avatar_url: assets\241163116aa2adce2aa3914a6e9b55d2-C395B.png
+  author_id: '1277407870010527850'
+  author_name: joecarr_91589
+  author_nickname: Joe Carr
+  content: No, I am going to my profile in the app and that's when I get the warning.
+    I think I can just use the 6-letter code at the end of the URL in a web browser
+    view of REACH and maybe that will not give me the warning. My guess is that the
+    warning was carelessly written.. and that it is probably easy to simply toggle
+    between campaigns. I'll try it via web browser instead of the app. Thanks for
+    checking your approcah. That is re-assuring.
+  id: '1277679106774798437'
+  ref_to: null
+  timestamp: '2024-08-26T17:20:37.185+00:00'
+  type: Default
+- author_avatar_url: assets\241163116aa2adce2aa3914a6e9b55d2-C395B.png
+  author_id: '1277407870010527850'
+  author_name: joecarr_91589
+  author_nickname: Joe Carr
+  content: Your approach worked for me just fine, without losing data. I bet it will
+    work on the app too. Thank you very much for your help!!!
+  id: '1277680168391020554'
+  ref_to: '1277677043273695282'
+  timestamp: '2024-08-26T17:24:50.294+00:00'
+  type: Reply

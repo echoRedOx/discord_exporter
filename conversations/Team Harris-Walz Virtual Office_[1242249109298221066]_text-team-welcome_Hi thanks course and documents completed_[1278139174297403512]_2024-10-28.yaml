@@ -1,0 +1,27 @@
+- author_avatar_url: assets\791c521e62160be1f3df04992f6e5470-36A38.png
+  author_id: '477560366432256000'
+  author_name: jjoannid
+  author_nickname: Jack Joannides KC text admin
+  content: ''
+  id: '1278140372891205643'
+  ref_to: '1278139174297403512'
+  timestamp: '2024-08-27T23:53:31.597+00:00'
+  type: '21'
+- author_avatar_url: assets\791c521e62160be1f3df04992f6e5470-36A38.png
+  author_id: '477560366432256000'
+  author_name: jjoannid
+  author_nickname: Jack Joannides KC text admin
+  content: Great.
+  id: '1278140381120172083'
+  ref_to: null
+  timestamp: '2024-08-27T23:53:33.559+00:00'
+  type: Default
+- author_avatar_url: assets\791c521e62160be1f3df04992f6e5470-36A38.png
+  author_id: '477560366432256000'
+  author_name: jjoannid
+  author_nickname: Jack Joannides KC text admin
+  content: We'll get you added in 24-48 hours.
+  id: '1278140423952531528'
+  ref_to: null
+  timestamp: '2024-08-27T23:53:43.771+00:00'
+  type: Default

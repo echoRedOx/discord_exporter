@@ -1,0 +1,27 @@
+Guild: Team Harris-Walz Virtual Office (ID: 1242249109298221066)
+Channel: I've been waiting more then 72 hours for (ID: 1282533568719097969)
+Channel Topic: None
+Exported At: 2024-10-28T23:32:05.4446954+00:00
+
+
+--- Message ---
+Message ID: 1282545857195016223
+Message Type: 21
+Reply to: 1282533568719097969
+Timestamp: 2024-09-09T03:39:20.905+00:00
+Author: Nicole Morris - Text Admin (nmorris237)
+Author Id: 935762347753103382
+Avatar URL: assets\27b1e286b65ae02b3378793b5f098411-A7B20.png
+Content: 
+--------------------
+
+--- Message ---
+Message ID: 1282545859464134667
+Message Type: Default
+Reply to: None
+Timestamp: 2024-09-09T03:39:21.446+00:00
+Author: Nicole Morris - Text Admin (nmorris237)
+Author Id: 935762347753103382
+Avatar URL: assets\27b1e286b65ae02b3378793b5f098411-A7B20.png
+Content: Hi <@1280324087851384842> Thank you! It looks like Kris (one of our moderators) sent you a Direct Message today on Discord -- do you see it?
+--------------------

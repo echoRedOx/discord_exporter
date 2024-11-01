@@ -1,0 +1,38 @@
+Guild: Team Harris-Walz Virtual Office (ID: 1242249109298221066)
+Channel: I did the Text training yesterday, when (ID: 1296187805755637781)
+Channel Topic: None
+Exported At: 2024-10-28T22:36:45.0025718+00:00
+
+
+--- Message ---
+Message ID: 1296190762538500216
+Message Type: 21
+Reply to: 1296187805755637781
+Timestamp: 2024-10-16T19:19:19.849+00:00
+Author: Roberta Bavin CA KC Greeter/Mod (roberta_24935)
+Author Id: 1269872908759597148
+Avatar URL: assets\df6d19d97b04a49ffcafbe7be14c7839-D9CE4.png
+Content: 
+--------------------
+
+--- Message ---
+Message ID: 1296190765013405737
+Message Type: Default
+Reply to: None
+Timestamp: 2024-10-16T19:19:20.439+00:00
+Author: Roberta Bavin CA KC Greeter/Mod (roberta_24935)
+Author Id: 1269872908759597148
+Avatar URL: assets\df6d19d97b04a49ffcafbe7be14c7839-D9CE4.png
+Content: Hi there! Thanks for reaching out. Please give us 48 hours to get through the onboarding process. While waiting, please make first/last name in Discord. Thanks!
+--------------------
+
+--- Message ---
+Message ID: 1296194046544576513
+Message Type: Default
+Reply to: None
+Timestamp: 2024-10-16T19:32:22.817+00:00
+Author: Valerie Chereskin [CA] (valerie8193)
+Author Id: 761667773063364689
+Avatar URL: assets\f4a5c02bbf2510a97c98b2441bdf6b91-92922.png
+Content: Ok thanks
+--------------------

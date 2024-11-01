@@ -1,0 +1,60 @@
+Guild: Team Harris-Walz Virtual Office (ID: 1242249109298221066)
+Channel: Hey, I'm a data captain, but I still haven't been added to the KC channel. Can someone add me? (ID: 1295164775092719667)
+Channel Topic: None
+Exported At: 2024-10-24T12:44:31.94933+00:00
+
+
+--- Message ---
+Message ID: 1295164775092719667
+Message Type: Default
+Reply to: None
+Timestamp: 2024-10-13T23:22:25.38+00:00
+Author: Megan Marie Sullivan, Chicago IL (tlmic)
+Author Id: 492419525099126806
+Avatar URL: assets\5209d21a76ee6251bb52b9f3c85d7b2d-A8C42.png
+Content: "Can I come too?"
+--------------------
+
+--- Message ---
+Message ID: 1295176174107885631
+Message Type: Reply
+Reply to: 1295164775092719667
+Timestamp: 2024-10-14T00:07:43.117+00:00
+Author: Jared R [CO] • Lead Mod (kyaizen)
+Author Id: 112080668296564736
+Avatar URL: assets\a_de0e3d4a3f9b486ad3ad6df0d72323da-D0252.gif
+Content: Hi Megan, did you fill out the shadow debrief form?
+--------------------
+
+--- Message ---
+Message ID: 1295176303846359152
+Message Type: Default
+Reply to: None
+Timestamp: 2024-10-14T00:08:14.049+00:00
+Author: Megan Marie Sullivan, Chicago IL (tlmic)
+Author Id: 492419525099126806
+Avatar URL: assets\5209d21a76ee6251bb52b9f3c85d7b2d-A8C42.png
+Content: I believe I did, I could try to find it and fill it out again.
+--------------------
+
+--- Message ---
+Message ID: 1295176883167825940
+Message Type: Default
+Reply to: None
+Timestamp: 2024-10-14T00:10:32.17+00:00
+Author: Megan Marie Sullivan, Chicago IL (tlmic)
+Author Id: 492419525099126806
+Avatar URL: assets\5209d21a76ee6251bb52b9f3c85d7b2d-A8C42.png
+Content: alright I filled it out again - I think I might have put in the wrong username the first time
+--------------------
+
+--- Message ---
+Message ID: 1295177108779175937
+Message Type: Reply
+Reply to: 1295176883167825940
+Timestamp: 2024-10-14T00:11:25.96+00:00
+Author: Jared R [CO] • Lead Mod (kyaizen)
+Author Id: 112080668296564736
+Avatar URL: assets\a_de0e3d4a3f9b486ad3ad6df0d72323da-D0252.gif
+Content: Okay, perfect. Staff is usually pretty quick about it. Feel free to reply here if you don't have the role by tomorrow evening!
+--------------------

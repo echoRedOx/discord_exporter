@@ -1,0 +1,60 @@
+Guild: Team Harris-Walz Virtual Office (ID: 1242249109298221066)
+Channel: I missed the texting bank for Harris/ (ID: 1279793198327267370)
+Channel Topic: None
+Exported At: 2024-10-28T23:43:32.2862009+00:00
+
+
+--- Message ---
+Message ID: 1279793742311587850
+Message Type: 21
+Reply to: 1279793198327267370
+Timestamp: 2024-09-01T13:23:25.585+00:00
+Author: Jack Joannides KC text admin (jjoannid)
+Author Id: 477560366432256000
+Avatar URL: assets\791c521e62160be1f3df04992f6e5470-36A38.png
+Content: 
+--------------------
+
+--- Message ---
+Message ID: 1279793744161538099
+Message Type: Default
+Reply to: None
+Timestamp: 2024-09-01T13:23:26.026+00:00
+Author: Jack Joannides KC text admin (jjoannid)
+Author Id: 477560366432256000
+Avatar URL: assets\791c521e62160be1f3df04992f6e5470-36A38.png
+Content: Yes you can. Let me send you the link. We have trainings on Tuesday Wednesday Thursday and Saturday.
+--------------------
+
+--- Message ---
+Message ID: 1279793961271169065
+Message Type: Default
+Reply to: None
+Timestamp: 2024-09-01T13:24:17.789+00:00
+Author: Natasha Cordero (fifilaroux1352)
+Author Id: 944215727425073162
+Avatar URL: assets\7c78d8fbd7f40fb5ce8d4de1cbc88bb5-0DCF3.png
+Content: Thank you Jack!
+--------------------
+
+--- Message ---
+Message ID: 1279793968866922560
+Message Type: Default
+Reply to: None
+Timestamp: 2024-09-01T13:24:19.6+00:00
+Author: Jack Joannides KC text admin (jjoannid)
+Author Id: 477560366432256000
+Avatar URL: assets\791c521e62160be1f3df04992f6e5470-36A38.png
+Content: Here: https://events.democrats.org/event/672393/
+--------------------
+
+--- Message ---
+Message ID: 1279793986600435732
+Message Type: Default
+Reply to: None
+Timestamp: 2024-09-01T13:24:23.828+00:00
+Author: Jack Joannides KC text admin (jjoannid)
+Author Id: 477560366432256000
+Avatar URL: assets\791c521e62160be1f3df04992f6e5470-36A38.png
+Content: NP
+--------------------

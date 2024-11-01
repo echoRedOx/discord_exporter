@@ -1,0 +1,49 @@
+Guild: Team Harris-Walz Virtual Office (ID: 1242249109298221066)
+Channel: Not voting but leans Kamala (ID: 1299511109870686268)
+Channel Topic: None
+Exported At: 2024-10-28T20:43:08.0188206+00:00
+
+
+--- Message ---
+Message ID: 1299511109870686268
+Message Type: Default
+Reply to: None
+Timestamp: 2024-10-25T23:13:12.342+00:00
+Author: Jennifer Bernard AK (jenbernard8437)
+Author Id: 660555540027539540
+Avatar URL: assets\3-FB033.png
+Content: She said she's not voting but she would vote for Kamala but doesn't think she can actually lower prices ... I started to talk about her history of getting things done, but she hung up or we got cut off. If I code her as "not voting," will that take her off the list? I do think she's persuadable!
+--------------------
+
+--- Message ---
+Message ID: 1299511425559035996
+Message Type: Default
+Reply to: None
+Timestamp: 2024-10-25T23:14:27.608+00:00
+Author: Larry Ahlgrim (VA) [Call Mod] (larrya._98544)
+Author Id: 1266903666879627274
+Avatar URL: assets\5fde485e55d806d8356ca6e7e08f1f48-77A19.png
+Content: Hi Jennifer I would code her as a busy/callback
+--------------------
+
+--- Message ---
+Message ID: 1299511503212253255
+Message Type: Default
+Reply to: None
+Timestamp: 2024-10-25T23:14:46.122+00:00
+Author: Jennifer Bernard AK (jenbernard8437)
+Author Id: 660555540027539540
+Avatar URL: assets\3-FB033.png
+Content: Thank you
+--------------------
+
+--- Message ---
+Message ID: 1299511580127658085
+Message Type: Default
+Reply to: None
+Timestamp: 2024-10-25T23:15:04.46+00:00
+Author: Larry Ahlgrim (VA) [Call Mod] (larrya._98544)
+Author Id: 1266903666879627274
+Avatar URL: assets\5fde485e55d806d8356ca6e7e08f1f48-77A19.png
+Content: You're welcome!
+--------------------
