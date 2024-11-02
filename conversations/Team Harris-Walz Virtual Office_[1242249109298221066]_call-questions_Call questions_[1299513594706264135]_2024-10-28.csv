@@ -1,8 +1,0 @@
-id,type,ref_to,timestamp,author_name,author_nickname,author_id,author_avatar_url,content
-1299513594706264135,Default,,2024-10-25T23:23:04.773+00:00,jeff_11583,Jeff,1299496775186382891,assets\5-E9BDB.png,"If the person declines to tell me how they are voting, do I enter nothing?
-If they tell me they've registered in another state, can I capture that?
-If they tell me they're the right person and THEN hang up, how do I code that?
-Thx"
-1299516182130331658,Reply,1299513594706264135,2024-10-25T23:33:21.663+00:00,larrya._98544,Larry Ahlgrim (VA) [Call Mod],1266903666879627274,assets\5fde485e55d806d8356ca6e7e08f1f48-77A19.png,"Hi Jeff, if they declined, mark as refused. if they're registered in another state mark them as moved. if the right person hangs up, mark it as hang up"
-1299517890340323369,Reply,1299516182130331658,2024-10-25T23:40:08.932+00:00,jeff_11583,Jeff,1299496775186382891,assets\5-E9BDB.png,"Thank you. Didn't see a refused button, but will dive back in and look. Appreciate the quick response."
-1299518478557909002,Reply,1299517890340323369,2024-10-25T23:42:29.174+00:00,larrya._98544,Larry Ahlgrim (VA) [Call Mod],1266903666879627274,assets\5fde485e55d806d8356ca6e7e08f1f48-77A19.png,You're welcome!
