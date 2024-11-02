@@ -4,6 +4,8 @@ This module is designed to parse and export data from Discord archives. It can p
 
 **This was written with the intention of converting the Kamala Harris campaign published discord server data by [0x0.la](https://0x0.la/cacklesllc). That data was converted and is contained in the conversations folder. The /assets folder appears to contain the avatars for each author as well a plethora of ridiculous memes and other media. That folder can be found [here](https://0x0.la/cacklesllc/assets/).**
 
+**The data contained in the conversations folder are only those that i found to be cost beneficial to my goals. My intent is to explore and analyze the conversations.**
+
 ## Features
 
 - **Extracts Guild and Channel Information:** Each export file includes information on the Discord server (guild) and channel where conversations occurred.
